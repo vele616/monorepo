@@ -36,6 +36,11 @@ functions:
     handler: src/urlHandler.exec
     memorySize: 2536
     timeout: 180
+    events:
+      - schedule:
+          rate: rate(1 minutes)
+          input:
+            url: ${self:provider.environment.WM_WA_URL}
     
   jobHandler:
     handler: src/jobHandler.exec
@@ -53,6 +58,14 @@ functions:
               - StreamArn  
 resources:
   Resources:
+    #LogosS3:
+    #  Type:  'AWS::S3::Bucket'
+    #  Properties:
+    #    BucketName: ${self:provider.environment.LOGOS_S3_BUCKET}
+    #MarkDownS3:
+    #  Type:  'AWS::S3::Bucket'
+    #  Properties:
+    #    BucketName: ${self:provider.environment.MARKDOWN_S3_BUCKET}
     SitesDynamoDbTable:
       Type: 'AWS::DynamoDB::Table'
       DeletionPolicy: Retain

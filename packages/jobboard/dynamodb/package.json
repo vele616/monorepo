@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.742.0"
+  }
+}
