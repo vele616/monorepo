@@ -62,6 +62,7 @@ exports.exec = async (event) => {
       crawledAt,
       host,
       url,
+      platform,
       companyName,
       companyLogo,
       companyWebsite,
@@ -72,7 +73,7 @@ exports.exec = async (event) => {
       crawlable &&
       (!crawledAt || crawledAt + timeframe < timestamp)
     ) {
-      const result = await switchFunc(host, browser, url).getJobs();
+      const result = await switchFunc(platform, host, browser, url).getJobs();
 
       const { hostname, pathname } = new URL(result.url);
 

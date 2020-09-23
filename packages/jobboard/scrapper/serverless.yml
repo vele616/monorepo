@@ -38,9 +38,10 @@ functions:
     timeout: 180
     events:
       - schedule:
-          rate: rate(1 minutes)
+          rate: cron(15 10 ? * 6L 2002-2005)
           input:
-            url: ${self:provider.environment.WM_WA_URL}
+            url: ${self:provider.environment.EB_LE_URL}
+            platform: ${self:provider.environment.LE_PLATFORM}
     
   jobHandler:
     handler: src/jobHandler.exec

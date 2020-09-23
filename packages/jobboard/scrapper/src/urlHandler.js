@@ -45,6 +45,7 @@ exports.exec = async (event) => {
     });
 
     const { urls, companyName, logoUrl, companyWebsite } = await switchFunc(
+      event.platform,
       event.url,
       browser
     ).getUrls();
@@ -82,7 +83,7 @@ exports.exec = async (event) => {
             TableName: process.env.URLS_TABLE,
             Key: { url },
             UpdateExpression:
-              "set host = :host, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, urlHash = :urlHash",
+              "set host = :host, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, urlHash = :urlHash",
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": event.url,
@@ -93,6 +94,7 @@ exports.exec = async (event) => {
               ":companyLogo": logoKey,
               ":urlHash": nanoid(),
               ":companyWebsite": companyWebsite,
+              ":platform": event.platform,
             },
           })
           .promise();
