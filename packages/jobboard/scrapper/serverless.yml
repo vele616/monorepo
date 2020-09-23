@@ -1,0 +1,89 @@
+org: jobboard
+app: jobboard-scrapper
+service: jobboard-scrapper
+plugins:
+  - serverless-dotenv-plugin
+  - serverless-layers
+  - serverless-offline
+  - serverless-offline-dynamodb-streams
+  - serverless-s3-local
+provider:
+  name: aws
+  region: eu-central-1
+  runtime: nodejs12.x
+  environment:
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+       - "s3:*"
+      Resource: "arn:aws:s3:::${self:provider.environment.MARKDOWN_S3_BUCKET}/*"
+    - Effect: "Allow"
+      Action:
+       - "s3:*"
+      Resource: "arn:aws:s3:::${self:provider.environment.LOGOS_S3_BUCKET}/*"
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:ListStreams
+      Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.URLS_TABLE}"
+functions:
+  urlHandler:
+    handler: src/urlHandler.exec
+    memorySize: 2536
+    timeout: 180
+    
+  jobHandler:
+    handler: src/jobHandler.exec
+    memorySize: 2536
+    timeout: 180
+    events:
+      - stream:
+          type: dynamodb
+          batchSize: 1
+          startingPosition: LATEST
+          maximumRetryAttempts: 10
+          arn:
+            Fn::GetAtt:
+              - SitesDynamoDbTable
+              - StreamArn  
+resources:
+  Resources:
+    SitesDynamoDbTable:
+      Type: 'AWS::DynamoDB::Table'
+      DeletionPolicy: Retain
+      Properties:
+        AttributeDefinitions:
+          -
+            AttributeName: url
+            AttributeType: S
+        KeySchema:
+          -
+            AttributeName: url
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+        TableName: ${self:provider.environment.URLS_TABLE}
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
+custom:
+  serverless-layers:
+    packageManager: yarn
+    layersDeploymentBucket: ${self:provider.environment.LAYERS_S3_BUCKET}
+  serverless-offline-dynamodb-streams:
+    endpoint: http://localhost:8000
+    accessKeyId: local
+    secretAccessKey: local
+  s3:
+    port: 8080
+    directory: ./.s3
+  chrome:
+    flags:
+      - --window-size=1280,1696
+      - --hide-scrollbars
+      - --ignore-certificate-errors

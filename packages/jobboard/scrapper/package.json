@@ -1,0 +1,33 @@
+{
+  "name": "@crocoder/scrapper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.742.0",
+    "chrome-aws-lambda": "^3.1.1",
+    "franc": "^5.0.0",
+    "nanoid": "^3.1.12",
+    "node-fetch": "^2.6.1",
+    "node-snowball": "^0.6.0",
+    "puppeteer-core": "^3.2.0",
+    "turndown": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "serverless-dotenv-plugin": "^3.0.0",
+    "serverless-layers": "^2.3.0",
+    "serverless-offline": "6.5.0",
+    "serverless-offline-dynamodb-streams": "^4.1.0",
+    "serverless-s3-local": "^0.6.5"
+  }
+}
