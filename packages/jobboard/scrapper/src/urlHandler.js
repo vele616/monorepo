@@ -63,16 +63,14 @@ exports.exec = async (event) => {
           })
           .promise();
       } catch (error) {
-        if (error.code === "NoSuchKey") {
-          const img = await fetch(logoUrl);
-          await s3
-            .putObject({
-              Bucket: process.env.LOGOS_S3_BUCKET,
-              Key: logoKey,
-              Body: await img.buffer(),
-            })
-            .promise();
-        }
+        const img = await fetch(logoUrl);
+        await s3
+          .putObject({
+            Bucket: process.env.LOGOS_S3_BUCKET,
+            Key: logoKey,
+            Body: await img.buffer(),
+          })
+          .promise();
       }
     }
 
