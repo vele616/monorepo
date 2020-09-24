@@ -1,0 +1,63 @@
+org: jobboard
+app: jobboard-api
+service: jobboard-api
+plugins:
+  - serverless-dotenv-plugin
+  - serverless-layers
+  - serverless-offline
+provider:
+  name: aws
+  region: eu-central-1
+  runtime: nodejs12.x
+  environment:
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:ListStreams
+      Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.URLS_TABLE}"
+functions:
+  auth:
+    handler: src/auth.exec
+  url-list:
+    handler: src/urls/list.exec
+    events:
+      - http:
+          path: urls
+          method: get
+          authorizer: auth
+          cors: true
+  url-create:
+    handler: src/urls/create.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls
+          authorizer: auth
+          method: post
+          cors: true
+  url-update:
+    handler: src/urls/update.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls
+          authorizer: auth
+          method: put
+          cors: true
+custom:
+  serverless-layers:
+    packageManager: yarn
+    layersDeploymentBucket: ${self:provider.environment.LAYERS_S3_BUCKET}
+  chrome:
+    flags:
+      - --window-size=1280,1696
+      - --hide-scrollbars
+      - --ignore-certificate-errors
