@@ -137,8 +137,8 @@ exports.exec = async (event) => {
       await s3
         .putObject({
           Bucket: process.env.MARKDOWN_S3_BUCKET,
-          Key: `${`${hostname}${pathname}`
-            .replace(/[^a-z0-9]/gi, "-")
+          Key: `${`${result.title}-${companyName}`
+            .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
             .toLowerCase()}-${urlHash}.md`,
           Body: file,
         })
