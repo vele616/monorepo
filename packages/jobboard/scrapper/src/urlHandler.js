@@ -53,7 +53,10 @@ exports.exec = async (event) => {
     let logoKey = null;
 
     if (logoUrl) {
-      logoKey = `${companyName.trim().replace(/[^a-z0-9]/gi, "-")}`;
+      logoKey = `${companyName.trim()}`
+        .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
+        .toLowerCase();
+        
       try {
         await s3
           .getObject({
@@ -89,7 +92,7 @@ exports.exec = async (event) => {
               ":updatedAt": timestamp,
               ":published": false,
               ":crawlable": true,
-              ":companyLogo": logoKey,
+              ":companyLogo": `${process.env.LOGOS_S3_URL}/${logoKey}`,
               ":urlHash": nanoid(),
               ":companyWebsite": companyWebsite,
               ":platform": event.platform,

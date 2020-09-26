@@ -75,8 +75,6 @@ exports.exec = async (event) => {
     ) {
       const result = await switchFunc(platform, host, browser, url).getJobs();
 
-      const { hostname, pathname } = new URL(result.url);
-
       const keywordsData = rake(
         `${result.content}.${result.title}`.replace(/<.*?>|<.*?>|&.*?;/g, " "),
         keywords
@@ -118,8 +116,6 @@ exports.exec = async (event) => {
         })
         .map((t) => t.hashtag);
 
-      console.log(hashtags);
-
       const file = template(
         result.title,
         result.location,
@@ -134,12 +130,14 @@ exports.exec = async (event) => {
         companyWebsite,
       );
 
+      const markdownKey = `${`${result.title}-${companyName}`
+        .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
+        .toLowerCase()}-${urlHash}.md`;
+
       await s3
         .putObject({
           Bucket: process.env.MARKDOWN_S3_BUCKET,
-          Key: `${`${result.title}-${companyName}`
-            .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
-            .toLowerCase()}-${urlHash}.md`,
+          Key: markdownKey,
           Body: file,
         })
         .promise();
@@ -149,11 +147,12 @@ exports.exec = async (event) => {
           TableName: process.env.URLS_TABLE,
           Key: { url: result.url },
           UpdateExpression:
-            "set crawledAt = :crawledAt, updatedAt = :updatedAt, hashtags = :hashtags",
+            "set crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags",
           ExpressionAttributeValues: {
             ":updatedAt": timestamp,
             ":crawledAt": timestamp,
             ":hashtags": hashtags,
+            ":jobPostMarkdown": `${process.env.MARKDOWN_S3_URL}/${markdownKey}`,
           },
         })
         .promise();

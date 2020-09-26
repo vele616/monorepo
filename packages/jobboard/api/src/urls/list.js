@@ -9,11 +9,23 @@ if (process.env.IS_OFFLINE) {
   };
 }
 
+const timeframe = 24 * 60 * 60 * 1000;
+
 const client = new AWS.DynamoDB.DocumentClient(options);
 
 exports.exec = async () => {
+  const timestamp = new Date().getTime();
   try {
-    const result = await client.scan({ TableName: process.env.URLS_TABLE }).promise();
+    const result = await client.scan(
+      {
+        TableName: process.env.URLS_TABLE,
+        FilterExpression: 'createdAt > :timestamp AND published = :published',
+        ExpressionAttributeValues: {
+          ':timestamp': timestamp - timeframe,
+          ':published': false,
+        },
+      },
+    ).promise();
 
     return {
       statusCode: 200,

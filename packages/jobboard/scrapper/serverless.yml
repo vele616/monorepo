@@ -34,7 +34,7 @@ provider:
 functions:
   urlHandler:
     handler: src/urlHandler.exec
-    memorySize: 2536
+    memorySize: 2560
     timeout: 180
     events:
       - schedule:
@@ -45,7 +45,7 @@ functions:
     
   jobHandler:
     handler: src/jobHandler.exec
-    memorySize: 2536
+    memorySize: 2560
     timeout: 180
     events:
       - stream:
