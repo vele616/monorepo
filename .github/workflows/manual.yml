@@ -1,10 +1,11 @@
-name: Manual workflow
+name: Get New Jobs
 on:
   workflow_dispatch
 jobs:
-  greet:
+  get-jobs:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: Get new jobs posts
       uses: crocoder-dev/crocoder-jobboard-action@master
       with:
@@ -13,3 +14,4 @@ jobs:
         github-token: ${{ secrets.GIT_TOKEN }}
         jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
+        starting-branch: test
