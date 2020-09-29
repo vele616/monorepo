@@ -11,7 +11,7 @@ jobs:
     - name: Git?
       run: git status
     - name: Get new jobs posts
-      uses: crocoder-dev/crocoder-jobboard-action@master
+      uses: crocoder-dev/crocoder-jobboard-action@0.1.0
       with:
         author-name: ${{ secrets.BOT_NAME }}
         author-email: ${{ secrets.BOT_EMAIL }}
