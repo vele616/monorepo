@@ -2,9 +2,14 @@ name: Manual workflow
 on:
   workflow_dispatch
 jobs:
-  greet:
+  get-jobs:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
+    - name: Where am I?
+      run: pwd
+    - name: Git?
+      run: git status
     - name: Get new jobs posts
       uses: crocoder-dev/crocoder-jobboard-action@master
       with:
