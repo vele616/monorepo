@@ -130,9 +130,11 @@ exports.exec = async (event) => {
         companyWebsite
       );
 
-      const markdownKey = `${`${result.title}-${companyName}`
-        .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
-        .toLowerCase()}-${urlHash}.md`;
+      const titleCompany = `${result.title}-${companyName}`
+      .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
+      .toLowerCase();
+
+      const markdownKey = `${titleCompany}-${urlHash}.md`;
 
       await s3
         .putObject({
@@ -147,11 +149,13 @@ exports.exec = async (event) => {
           TableName: process.env.URLS_TABLE,
           Key: { url: result.url },
           UpdateExpression:
-            "set crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags",
+            "set title = :title, titleCompany = :titleCompany, crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags",
           ExpressionAttributeValues: {
             ":updatedAt": timestamp,
             ":crawledAt": timestamp,
             ":hashtags": hashtags,
+            ":title": result.title,
+            ":titleCompany": titleCompany,
             ":jobPostMarkdown": `${process.env.MARKDOWN_S3_URL}/${markdownKey}`,
           },
         })
