@@ -122,23 +122,24 @@ exports.exec = async (event) => {
 
       const file = template(
         result.title,
-        result.location,
+        result.location ||"",
         host,
         result.url,
         result.applyUrl,
         timestamp,
         result.content,
         hashtags.slice(0, 3),
-        companyName,
-        companyLogo,
-        companyWebsite,
+        companyName ||"",
+        companyLogo ||"",
+        companyWebsite
       );
 
       await s3
         .putObject({
           Bucket: process.env.MARKDOWN_S3_BUCKET,
           Key: `${`${result.title}-${companyName}`
-            .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
+            .replace(/[^a-z0-9]/gi, "-")
+            .replace(/(-)\1+/g, "$1")
             .toLowerCase()}-${urlHash}.md`,
           Body: file,
         })
