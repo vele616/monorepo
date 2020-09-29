@@ -76,7 +76,7 @@ exports.exec = async (event) => {
       const result = await switchFunc(platform, host, browser, url).getJobs();
 
       const keywordsData = rake(
-        `${result.content}.${result.title}`.replace(/<.*?>|<.*?>|&.*?;/g, " "),
+        `${result.content}. ${result.title}`.replace(/<.*?>|<.*?>|&.*?;/g, " ").replace(/,\w/, ", "),
         keywords
       ).keywords;
 
@@ -86,7 +86,7 @@ exports.exec = async (event) => {
           rating: keywords[k].rating * v,
         }))
         .reduce((a, b) => {
-          if (a.length === 3) {
+          if (a.length === 10) {
             const max = a.reduce((a, b) => {
               if (a.rating < b.rating) {
                 return a;
@@ -118,16 +118,16 @@ exports.exec = async (event) => {
 
       const file = template(
         result.title,
-        result.location,
+        result.location ||"",
         host,
         result.url,
         result.applyUrl,
         timestamp,
         result.content,
-        hashtags,
-        companyName,
-        companyLogo,
-        companyWebsite,
+        hashtags.slice(0, 3),
+        companyName ||"",
+        companyLogo ||"",
+        companyWebsite
       );
 
       const markdownKey = `${`${result.title}-${companyName}`
