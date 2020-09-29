@@ -5,6 +5,7 @@ const services = {
     [process.env.GH_PLATFORM]: require('./services/gh'),
     [process.env.BR_PLATFORM]: require('./services/br'),
     [process.env.BH_PLATFORM]: require('./services/bh'),
+    [process.env.RC_PLATFORM]: require('./services/rc'),
 };
 module.exports = (platform, url, browser, jobUrl) => ({
     getJobs: () => services[platform].getJobs(browser, jobUrl),
