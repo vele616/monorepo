@@ -1,4 +1,4 @@
-name: Manual workflow
+name: Get New Jobs
 on:
   workflow_dispatch
 jobs:
@@ -14,5 +14,4 @@ jobs:
         github-token: ${{ secrets.GIT_TOKEN }}
         jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
-        pr-assignees: DavidAbram,DanijelPlese
         starting-branch: test
