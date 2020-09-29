@@ -20,7 +20,7 @@ const template = (
 ) =>
   `---
 title: "${title.trim()}"
-location: "${location}"
+location: "${location.trim()}"
 host: "${host}"
 companyName: "${companyName.trim()}"
 url: "${url}"
