@@ -1,0 +1,15 @@
+name: Manual workflow
+on:
+  workflow_dispatch
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get new jobs posts
+      uses: crocoder-dev/crocoder-jobboard-action@master
+      with:
+        author-name: ${{ secrets.BOT_NAME }}
+        author-email: ${{ secrets.BOT_EMAIL }}
+        github-token: ${{ secrets.GIT_TOKEN }}
+        jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
+        jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
