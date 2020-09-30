@@ -127,7 +127,7 @@ exports.exec = async (event) => {
         hashtags.slice(0, 3),
         companyName ||"",
         companyLogo ||"",
-        companyWebsite
+        companyWebsite ||""
       );
 
       const titleCompany = `${result.title}-${companyName}`
