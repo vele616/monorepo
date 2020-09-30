@@ -14,4 +14,4 @@ jobs:
         github-token: ${{ secrets.GIT_TOKEN }}
         jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
-        starting-branch: test
+        starting-branch: development
