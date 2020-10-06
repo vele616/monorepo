@@ -22,15 +22,20 @@ const getUrls = async (browser, url) => {
 
   return await page.evaluate(() => {
     const jobPosted = [...document.querySelectorAll('[data-ui="job-posted"]')];
+    const isRemote = [...document.querySelectorAll("ul > li > div > div")];
     const urls = [...document.querySelectorAll("ul > li > div > a")]
       .map((url, i) => ({
         url: url.href,
         jobPostedAt: jobPosted[i].textContent,
+        isRemote: isRemote[i].textContent,
       }))
       .filter((t) => /(day)/g.test(t.jobPostedAt))
+      .filter((t) => /(remote)/gi.test(t.isRemote))
       .map((t) => t.url);
 
-    const companyName = document.querySelector('head > meta[property="og:title"]');
+    const companyName = document.querySelector(
+      'head > meta[property="og:title"]'
+    );
     const logoUrl = document.querySelector(
       "#app > div > div > header > div > a > img"
     );
