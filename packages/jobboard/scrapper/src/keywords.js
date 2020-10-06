@@ -96,7 +96,7 @@ module.exports = {
         keywords: ['objective-c', 'obj-c', '{c}', 'objectivec'],
     },
     assembly: {        
-        rating: 80,
+        rating: 60,
         hashtag: '#assembly',
         keywords: ['assembly', 'asm'],
     },
@@ -159,7 +159,7 @@ module.exports = {
     wordpress: {        
         rating: 40,
         hashtag: '#wordpress',
-        keywords: ['wordpress', 'wp'],
+        keywords: ['wordpress', 'wp', 'gutenberg'],
     },
     // frameworks (100)
     react: {        
@@ -298,395 +298,80 @@ module.exports = {
         hashtag: '#chef',
         keywords: ['chef'],
     },
-    // databases (20)
+    // databases (30)
     redis: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#redis',
         keywords: ['redis'],
     },
     postgre: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#postgresql',
         keywords: ['postgre', 'postgresql', 'psql'],
     },
     elasticsearch: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#elasticsearch',
         keywords: ['elasticsearch'],
     },
     mongodb: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#mongodb',
         keywords: ['mongodb', 'mongo'],
     },
     firebase: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#firebase',
         keywords: ['firebase'],
     },
     mariadb: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#mariadb',
         keywords: ['mariadb'],
     },
     sqlserver: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#sqlserver',
         keywords: ['sqlserver'],
     },
     dynamodb: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#dynamodb',
         keywords: ['dynamodb', 'ddb'],
     },
     sqlite: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#sqlite',
         keywords: ['sqlite'],
     },
     mysql: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#mysql',
         keywords: ['mysql'],
     },
     cassandra: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#cassandra',
         keywords: ['cassandra'],
     },
     couchbase: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#couchbase',
         keywords: ['couchbase', 'membase'],
     },
     oracle: {        
-        rating: 20,
+        rating: 30,
         hashtag: '#oracle',
         keywords: ['oracle', 'oracledb'],
     },
-    // added keywords
-    office: {
-        rating: 10,
-        hashtag: '#office',
-        keywords: ['office', 'office365', 'word', 'excel', 'outlook', 'powerpoint'],
-    },
-    software: {
-        rating: 10,
-        hashtag: '#software',
-        keywords: ['software'],
-    },
-    cs: {
-        rating: 10,
-        hashtag: '#csr',
-        keywords: ['customer service', 'client service', 'csr', 'cs'],   
-    },
-    kanban: {
-        rating: 10,
-        hashtag: '#kanban',
-        keywords: ['kanban'],
-    },
-    scrum: {
-        rating: 10,
-        hashtag: '#scrum',
-        keywords: ['scrum'],
-    },
-    stl: {
-        rating: 10,
-        hashtag: '#stl',
-        keywords: ['stl'],
-    },
-    security: {
-        rating: 10,
-        hashtag: '#security',
-        keywords: ['cyber security', 'security'],
-    },
-    restapi: {
-        rating: 10,
-        hashtag: '#rest',
-        keywords: ['rest api', 'restfull'],
-    },
-    sphinx: {
-        rating: 10,
-        hashtag: '#sphinx',
-        keywords: ['sphinx'],
-    },
-    sql: {
-        rating: 10,
-        hashtag: '#sql',
-        keywords: ['sql', 'nosql'],
-    },
-    bash: {
-        rating: 10,
-        hashtag: '#bash',
-        keywords: ['bash'],
-    },
-    gutenberg: {
-        rating: 10,
-        hashtag: '#gutenberg',
-        keywords: ['gutenberg'],
-    },
-    asana: {
-        rating: 10,
-        hashtag: '#asana',
-        keywords: ['asana'],
-    },
-    saas: {
-        rating: 10,
-        hashtag: '#saas',
-        keywords: ['saas'],
-    },
-    html: {
-        rating: 10,
-        hashtag: '#html',
-        keywords: ['html'],
-    },
-    css: {
-        rating: 10,
-        hashtag: '#css',
-        keywords: ['css'],
-    },
-    crm: {
-        rating: 10,
-        hashtag: '#crm',
-        keywords: ['crm'],
-    },
-    sales: {
-        rating: 10,
-        hashtag: '#sales',
-        keywords: ['sales'],
-    },
-    analytics: {
-        rating: 10,
-        hashtag: '#analytics',
-        keywords: ['analytics', 'google analytics', 'matomo analytics', 'matomo', 'woopra', 'kpi', 'funnel'],
-    },
-    analysis: {
-        rating: 10,
-        hashtag: '#analysis',
-        keywords : ['analysis', 'analize', 'analytical'],
-    },
-    optimization: {
-        rating: 10,
-        hashtag: '#optimization',
-        keywords: ['optimization', 'optimize'],
-    },
-    cloud: {
-        rating: 10,
-        hashtag: '#cloud',
-        keywords: ['cloud'],
-    },
-    ats: {
-        rating: 10,
-        hashtag: '#ats',
-        keywords: ['ats'],
-    },
-    marketing: {
-        rating: 10,
-        hashtag: '#marketing',
-        keywords: ['marketing'],
-    },
-    management: {
-        rating: 10,
-        hashtag: '#management',
-        keywords: ['management', 'managing', 'strategies'],
-    },
-    designer: {
-        rating: 10,
-        hashtag: '#designer',
-        keywords: ['designer', 'designing', 'design'],
-    },
-    stackdriver: {
-        rating: 10,
-        hashtag: '#stackdriver',
-        keywords: ['stackdriver'],
-    },
-    mifid: {
-        rating: 10,
-        hashtag: '#mifid',
-        keywords: ['mifid'],
-    },
-    cssf: {
-        rating: 10,
-        hashtag: '#cssf',
-        keywords: ['cssf'],
-    },
-    finance: {
-        rating: 10,
-        hashtag: '#finance',
-        keywords: ['finance', 'financial', 'cash'],
-    },
-    accountant: {
-        rating: 10,
-        hashtag: '#accountant',
-        keywords: ['accountant'],
-    },
-    aml: {
-        rating: 10,
-        hashtag: '#aml',
-        keywords: ['aml'],
-    },
-    monitoring: {
-        rating: 10,
-        hashtag: '#monitoring',
-        keywords: ['monitoring'],
-    },
-    crime: {
-        rating: 10,
-        hashtag: '#crime',
-        keywords: ['crime'],
-    },
-    sipp: {
-        rating: 10,
-        hashtag: '#sipp',
-        keywords: ['sipp'],
-    },
-    ux: {
-        rating: 10,
-        hashtag: '#ux',
-        keywords: ['ux'],
-    },
-    git: {
-        rating: 10,
-        hashtag: '#git',
-        keywords: ['git', 'github'],
-    },
-    groovy: {
-        rating: 10,
-        hashtag: '#groovy',
-        keywords: ['groovy'],
-    },
-    sigint: {
-        rating: 10,
-        hashtag: '#sigint',
-        keywords: ['sigint'],
-    },
-    vmware: {
-        rating: 10,
-        hashtag: '#vmware',
-        keywords: ['vmware'],
-    },
-    veeam: {
-        rating: 10,
-        hashtag: '#veeam',
-        keywords: ['veeam'],
-    },
-    commvault: {
-        rating: 10,
-        hashtag: '#commvault',
-        keywords: ['commvault'],
-    },
-    ros: {
-        rating: 10,
-        hashtag: '#ros',
-        keywords: ['ros'],
-    },
-    gazebo: {
-        rating: 10,
-        hashtag: '#gazebo',
-        keywords: ['gazebo'],
-    },
-    cad: {
-        rating: 10,
-        hashtag: '#cad',
-        keywords: ['cad'],
-    },
-    plc: {
-        rating: 10,
-        hashtag: '#plc',
-        keywords: ['plc'],
-    },
-    apex: {
-        rating: 10,
-        hashtag: '#apex',
-        keywords: ['apex'],
-    },
-    bpm: {
-        rating: 10,
-        hashtag: '#bpm',
-        keywords: ['bpm', 'bpmn'],
-    },
-    uml: {
-        rating: 10,
-        hashtag: '#uml',
-        keywords: ['uml'],
-    },
-    turbolinks: {
-        rating: 10,
-        hashtag: '#turbolinks',
-        keywords: ['turbolinks'],
-    },
-    slack: {
-        rating: 10,
-        hashtag: '#slack',
-        keywords: ['slack'],
-    },
-    dropbox: {
-        rating: 10,
-        hashtag: '#dropbox',
-        keywords: ['dropbox'],
-    },
-    adobe: {
-        rating: 10,
-        hashtag: '#adobe',
-        keywords: ['adobe', 'photoshop', 'illustrator'],
-    },
-    jira: {
-        rating: 10,
-        hashtag: '#jira',
-        keywords: ['jira'],
-    },
-    pony: {
-        rating: 10,
-        hashtag: '#pony',
-        keywords: ['pony'],
-    },
-    hr: {
-        rating: 10,
-        hashtag: '#HR',
-        keywords: ['hr', 'human resource'],
-    },
-    accountant: {
-        rating: 10,
-        hashtag: '#accountant',
-        keywords: ['accountant', 'payroll'],
-    },
-    student: {        
-        rating: 10,
-        hashtag: '#studentjob',
-        keywords: ['student'],
-    },
-    internship: {
-        rating: 10,
-        hashtag: '#internship',
-        keywords : ['internship'],
-    },
-    socialMedia: {
-        rating: 10,
-        hashtag: '#socialmedia',
-        keywords : ['social media', 'social'],
-    },
-    customerSupport: {
-        rating: 10,
-        hashtag: '#customersupport',
-        keywords : ['customer support'],
-    },
-    operations: {
-        rating: 10,
-        hashtag: '#operations',
-        keywords : ['operations'],
-    },
-    branding: {
-        rating: 10,
-        hashtag: '#branding',
-        keywords : ['brand', 'branding'],
-    },
+    //languages (10)
     german: {
         rating: 10,
         hashtag: '#German',
         keywords : ['german', 'native speaking'],
     },
     english: {
-        rating: 10,
+        rating: 5,
         hashtag: '#English',
         keywords : ['english', 'native speaking'],
     },
@@ -711,8 +396,174 @@ module.exports = {
         keywords : ['dutch', 'native speaking'],
     },
     translation: {
-        rating: 10,
+        rating: 20,
         hashtag: '#translation',
         keywords : ['translation', 'translate'],
+    },
+    // added keywords
+    accountant: {
+        rating: 40,
+        hashtag: '#accountant',
+        keywords: ['accountant'],
+    },
+    adobe: {
+        rating: 30,
+        hashtag: '#photoshop',
+        keywords: ['adobe', 'photoshop', 'illustrator'],
+    },
+    analytics: {
+        rating: 40,
+        hashtag: '#analytics',
+        keywords: ['analytics', 'google analytics', 'matomo analytics', 'matomo', 'woopra', 'kpi', 'funnel'],
+    },
+    analysis: {
+        rating: 20,
+        hashtag: '#analysis',
+        keywords : ['analysis', 'analize', 'analytical'],
+    },
+    asana: {
+        rating: 30,
+        hashtag: '#asana',
+        keywords: ['asana'],
+    },
+    branding: {
+        rating: 40,
+        hashtag: '#branding',
+        keywords : ['brand', 'branding'],
+    },
+    cad: {
+        rating: 30,
+        hashtag: '#cad',
+        keywords: ['cad', 'stl'],
+    },
+    crm: {
+        rating: 20,
+        hashtag: '#crm',
+        keywords: ['crm'],
+    },
+    css: {
+        rating: 70,
+        hashtag: '#css',
+        keywords: ['css', 'saas', 'scss'],
+    },
+    customerSupport: {
+        rating: 40,
+        hashtag: '#customersupport',
+        keywords : ['customer support'],
+    },
+    designer: {
+        rating: 40,
+        hashtag: '#ui/ux',
+        keywords: ['designer', 'designing', 'design', 'ui', 'ux', 'ui/ux'],
+    },
+    figma: {
+        rating: 30,
+        hashtag: '#figma',
+        keywords: ['figma'],
+    },
+    finance: {
+        rating: 10,
+        hashtag: '#finance',
+        keywords: ['finance', 'financial', 'cash'],
+    },
+    git: {
+        rating: 40,
+        hashtag: '#git',
+        keywords: ['git', 'github'],
+    },
+    html: {
+        rating: 70,
+        hashtag: '#html',
+        keywords: ['html'],
+    },
+    hr: {
+        rating: 40,
+        hashtag: '#HR',
+        keywords: ['hr', 'human resource'],
+    },
+    internship: {
+        rating: 100,
+        hashtag: '#internship',
+        keywords : ['internship'],
+    },
+    jira: {
+        rating: 30,
+        hashtag: '#jira',
+        keywords: ['jira'],
+    },
+    management: {
+        rating: 40,
+        hashtag: '#management',
+        keywords: ['management', 'managing', 'strategies'],
+    },
+    marketing: {
+        rating: 40,
+        hashtag: '#marketing',
+        keywords: ['marketing'],
+    },
+    monitoring: {
+        rating: 10,
+        hashtag: '#monitoring',
+        keywords: ['monitoring'],
+    },
+    office: {
+        rating: 20,
+        hashtag: '#office',
+        keywords: ['office365', 'word', 'excel', 'outlook', 'powerpoint'],
+    },
+    operations: {
+        rating: 40,
+        hashtag: '#operations',
+        keywords : ['operations'],
+    },
+    optimization: {
+        rating: 10,
+        hashtag: '#optimization',
+        keywords: ['optimization', 'optimize'],
+    },
+    plc: {
+        rating: 80,
+        hashtag: '#plc',
+        keywords: ['plc'],
+    },
+    restapi: {
+        rating: 20,
+        hashtag: '#rest',
+        keywords: ['rest api', 'restfull', 'rest']
+    },
+    sales: {
+        rating: 40,
+        hashtag: '#sales',
+        keywords: ['sales'],
+    },
+    scrum: {
+        rating: 30,
+        hashtag: '#scrum',
+        keywords: ['scrum', 'kanban', 'agile'],
+    },
+    security: {
+        rating: 40,
+        hashtag: '#devsec',
+        keywords: ['cyber security', 'security', 'devsec', 'devsecops'],
+    },
+    socialMedia: {
+        rating: 40,
+        hashtag: '#socialmedia',
+        keywords : ['social media', 'social'],
+    },
+    student: {        
+        rating: 40,
+        hashtag: '#studentjob',
+        keywords: ['student'],
+    },
+    uml: {
+        rating: 30,
+        hashtag: '#uml',
+        keywords: ['uml'],
+    },
+    vmware: {
+        rating: 30,
+        hashtag: '#vmware',
+        keywords: ['vmware'],
     },
 };

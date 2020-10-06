@@ -149,13 +149,14 @@ exports.exec = async (event) => {
           TableName: process.env.URLS_TABLE,
           Key: { url: result.url },
           UpdateExpression:
-            "set title = :title, titleCompany = :titleCompany, crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags",
+            "set title = :title, jobPostFilename = :jobPostFilename, titleCompany = :titleCompany, crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags",
           ExpressionAttributeValues: {
             ":updatedAt": timestamp,
             ":crawledAt": timestamp,
             ":hashtags": hashtags,
             ":title": result.title,
             ":titleCompany": titleCompany,
+            ":jobPostFilename": markdownKey,
             ":jobPostMarkdown": `${process.env.MARKDOWN_S3_URL}/${markdownKey}`,
           },
         })
