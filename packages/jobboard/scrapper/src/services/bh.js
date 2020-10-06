@@ -7,7 +7,7 @@ const getUrls = async (browser, url) => {
     urls: [...document.querySelectorAll("li > div > div > a")].map(
       (item) => item.href
     ),
-    companyName: document.querySelector("h1").textContent,
+    companyName: document.querySelector("a > img").alt,
     logoUrl: document.querySelector(
       "body > div.container > div.row > div.col-xs-12.col-sm-8.ResAts__header > a > img"
     ).src,
