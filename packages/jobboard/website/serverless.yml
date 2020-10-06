@@ -1,0 +1,13 @@
+service: jobboard
+
+provider:
+  name: aws
+
+plugins:
+  - serverless-finch
+
+custom:
+  client:
+    bucketName: jobboard-website
+    distributionFolder: public
+    errorDocument: 404.html
