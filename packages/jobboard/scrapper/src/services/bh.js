@@ -3,16 +3,27 @@ const getUrls = async (browser, url) => {
 
   await page.goto(url);
 
-  return await page.evaluate(() => ({
-    urls: [...document.querySelectorAll("li > div > div > a")].map(
-      (item) => item.href
-    ),
-    companyName: document.querySelector("a > img").alt,
-    logoUrl: document.querySelector(
-      "body > div.container > div.row > div.col-xs-12.col-sm-8.ResAts__header > a > img"
-    ).src,
-    companyWebsite: window.location.href,
-  }));
+  return await page.evaluate(() => {
+    const companyName = document.querySelector("a > img");
+    const isRemote = [...document.querySelectorAll(".ResAts__listing")];
+    const urls = [...document.querySelectorAll("li > div > div > a")]
+      .map((url, i) => ({
+        url: url.href,
+        isRemote: isRemote[i].textContent,
+      }))
+      .filter((t) => /(remote)/gi.test(t.isRemote))
+      .map((t) => t.url);
+
+      return {
+        urls,
+        companyName: companyName ? companyName.alt : undefined,
+        logoUrl: document.querySelector(
+          "body > div.container > div.row > div.col-xs-12.col-sm-8.ResAts__header > a > img"
+        ).src,
+        companyWebsite: window.location.href,
+      }
+
+  });
 };
 
 const getJobs = async (browser, url) => {

@@ -3,16 +3,25 @@ const getUrls = async (browser, url) => {
 
   await page.goto(url);
 
-  return await page.evaluate(() => ({
-    urls: [...document.querySelectorAll("a.gohire-job")].map(
-      (item) => item.href
-    ),
-    companyName: window.location.pathname
-      .replace(/\-.*$/g, "")
-      .replace(/\//g, ""),
-    logoUrl: document.querySelector("a.client_logo > img").src,
-    companyWebsite: document.querySelector("a.client_logo").href,
-  }));
+  return await page.evaluate(() => {
+    const isRemote = [...document.querySelectorAll(".careers-location")];
+    const urls = [...document.querySelectorAll("a.gohire-job")]
+      .map((url, i) => ({
+        url: url.href,
+        isRemote: isRemote[i].textContent,
+      }))
+      .filter((t) => /(remote)/gi.test(t.isRemote))
+      .map((t) => t.url);
+
+    return {
+      urls,
+      companyName: window.location.pathname
+        .replace(/\-.*$/g, "")
+        .replace(/\//g, ""),
+      logoUrl: document.querySelector("a.client_logo > img").src,
+      companyWebsite: document.querySelector("a.client_logo").href,
+    };
+  });
 };
 
 const getJobs = async (browser, url) => {

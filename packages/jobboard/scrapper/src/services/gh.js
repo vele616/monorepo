@@ -1,39 +1,54 @@
 const getUrls = async (browser, url) => {
-
   const page = await browser.newPage();
   await page.goto(url);
-  
+
   const uri = new URL(url);
 
-  if ( uri.searchParams.has('for') ) {
-
+  if (uri.searchParams.has("for")) {
     return await page.evaluate(() => {
       const companyName = document.querySelector("#wrapper > h1");
       const logoUrl = document.querySelector("#logo > img");
-  
-      return {
-        urls: [...document.querySelectorAll("#wrapper > section > div > a")].map((anchor) => {
-          const id = new URL(anchor.href).searchParams.get('gh_jid');
+      const isRemote = [...document.querySelectorAll(".location")];
+      const urls = [
+        ...document.querySelectorAll("#wrapper > section > div > a"),
+      ]
+        .map((anchor) => {
+          const id = new URL(anchor.href).searchParams.get("gh_jid");
           const url = new URL(window.location.href);
-          url.searchParams.set('token', id);
-          url.pathname = '/embed/job_app';
-          return url.href;
-        }),
+          url.searchParams.set("token", id);
+          url.pathname = "/embed/job_app";
+          return url;
+        })
+        .map((url, i) => ({
+          url: url.href,
+          isRemote: isRemote[i].textContent,
+        }))
+        .filter((t) => /(remote)/gi.test(t.isRemote))
+        .map((t) => t.url);
+
+      return {
+        urls,
         companyName: companyName ? companyName.textContent : undefined,
         logoUrl: logoUrl ? logoUrl.src : null,
         companyWebsite: window.location.href,
       };
-    })
-  } 
+    });
+  }
 
   return await page.evaluate(() => {
     const companyName = document.querySelector("#main > h1");
     const logoUrl = document.querySelector("#logo > img");
+    const isRemote = [...document.querySelectorAll(".location")];
+    const urls = [...document.querySelectorAll("#main > section > div > a")]
+      .map((url, i) => ({
+        url: url.href,
+        isRemote: isRemote[i].textContent,
+      }))
+      .filter((t) => /(remote)/gi.test(t.isRemote))
+      .map((t) => t.url);
 
     return {
-      urls: [...document.querySelectorAll("#main > section > div > a")].map(
-        (item) => item.href
-      ),
+      urls,
       companyName: companyName ? companyName.textContent : undefined,
       logoUrl: logoUrl ? logoUrl.src : null,
       companyWebsite: window.location.href,
@@ -45,7 +60,7 @@ const getJobs = async (browser, url) => {
   const page = await browser.newPage();
   await page.goto(url);
   return {
-    ...await page.evaluate(() => {
+    ...(await page.evaluate(() => {
       return {
         title: document.querySelector("#header > h1").textContent,
         content: document
@@ -61,7 +76,7 @@ const getJobs = async (browser, url) => {
           .replace(/<br>/g, ""),
         location: document.querySelector('[class="location"]').textContent,
       };
-    }),
+    })),
     url,
     applyUrl: `${url}#app`,
   };
