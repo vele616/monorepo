@@ -42,13 +42,23 @@ functions:
           authorizer: auth
           method: post
           cors: true
-  url-update:
-    handler: src/urls/update.exec
+  url-publish:
+    handler: src/urls/publish.exec
     memorySize: 256
     timeout: 30
     events:
       - http:
-          path: urls
+          path: urls/publish
+          authorizer: auth
+          method: put
+          cors: true
+  url-archive:
+    handler: src/urls/archive.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls/archive
           authorizer: auth
           method: put
           cors: true
