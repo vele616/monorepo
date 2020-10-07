@@ -1,3 +1,5 @@
+import remoteWords from "../remoteWords";
+
 const getUrls = async (browser, url) => {
   const page = await browser.newPage();
 
@@ -12,7 +14,7 @@ const getUrls = async (browser, url) => {
         url: url.href,
         isRemote: isRemote[i].textContent,
       }))
-      .filter((t) => /(remote)/gi.test(t.isRemote))
+      .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
       .map((t) => t.url);
     return {
       urls,

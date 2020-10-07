@@ -1,3 +1,5 @@
+import remoteWords from "../remoteWords";
+
 const getUrls = async (browser, url) => {
   const page = await browser.newPage();
 
@@ -30,7 +32,7 @@ const getUrls = async (browser, url) => {
         isRemote: isRemote[i].textContent,
       }))
       .filter((t) => /(day)/g.test(t.jobPostedAt))
-      .filter((t) => /(remote)/gi.test(t.isRemote))
+      .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
       .map((t) => t.url);
 
     const companyName = document.querySelector(
