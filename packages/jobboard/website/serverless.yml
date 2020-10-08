@@ -9,10 +9,9 @@ provider:
 
 plugins:
   - serverless-dotenv-plugin
-  - serverless-finch
+  - serverless-s3-sync
 
 custom:
-  client:
-    bucketName: ${self:provider.environment.WEBSITE_S3_BUCKET}
-    distributionFolder: public
-    errorDocument: 404/index.html
+  s3Sync:
+    - bucketName: ${self:provider.environment.WEBSITE_S3_BUCKET}
+      localDir: public

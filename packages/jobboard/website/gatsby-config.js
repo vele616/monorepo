@@ -5,7 +5,16 @@ module.exports = {
     author: ``,
   },
   plugins: [
-    'gatsby-transformer-remark',
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-external-links",
+          }
+        ]
+      }
+    },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

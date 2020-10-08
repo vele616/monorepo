@@ -16,6 +16,8 @@ export const DevJobListLimit12 = (props) => (
           title
           location
           hashtags
+          logoUrl
+          companyName
         }
       }
     }
@@ -27,6 +29,8 @@ export const DevJobListLimit12 = (props) => (
         location: node.frontmatter.location,
         jobUrl: node.fields.slug,
         tags: node.frontmatter.hashtags.replace(/,/gi, ' '),
+        companyLogo: node.frontmatter.logoUrl,
+        companyName: node.frontmatter.companyName,
       }))} />
     }
     }

@@ -30,9 +30,9 @@ const JobInfo = styled.a`
   }
 `;
 const Image = styled.img`
-  border: 1px solid;
+  background-color: white;
   position: absolute;
-  border-radius: 50%;
+  border-radius: 6px;
   width: 122px;
   height: 122px;
   left: 0px;
@@ -62,7 +62,7 @@ const Location = styled.div`
 `;
 
 const JobPost = ({ jobUrl, title, companyName, companyLogo, location, tags }) => (
-  <JobInfo key={jobUrl} href={jobUrl}>
+  <JobInfo href={jobUrl}>
     <Image src={companyLogo}></Image>
     <div>{companyName}</div>
     <PositionAndLocation >
@@ -74,5 +74,5 @@ const JobPost = ({ jobUrl, title, companyName, companyLogo, location, tags }) =>
 );
 
 export const JobList = ({ jobs }) => {
-  return jobs.map(job => <JobPost {...job} />);
+  return jobs.map(job => <JobPost key={job.jobUrl}  {...job} />);
 }
