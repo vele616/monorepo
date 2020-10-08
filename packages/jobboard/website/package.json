@@ -24,6 +24,7 @@
   "devDependencies": {
     "directory-named-webpack-plugin": "^4.0.1",
     "prettier": "2.0.5",
+    "serverless-dotenv-plugin": "^3.0.0",
     "serverless-finch": "^2.5.2"
   },
   "keywords": [

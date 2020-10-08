@@ -1,13 +1,18 @@
-service: jobboard
+org: jobboard
+app: jobboard-website
+service: jobboard-website
 
 provider:
   name: aws
+  region: eu-central-1
+  runtime: nodejs12.x
 
 plugins:
+  - serverless-dotenv-plugin
   - serverless-finch
 
 custom:
   client:
-    bucketName: jobboard-website
+    bucketName: ${self:provider.environment.WEBSITE_S3_BUCKET}
     distributionFolder: public
-    errorDocument: 404.html
+    errorDocument: 404/index.html
