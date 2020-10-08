@@ -12,6 +12,7 @@
     "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-plugin-sharp": "^2.6.4",
+    "gatsby-remark-external-links": "^0.0.4",
     "gatsby-source-filesystem": "^2.3.4",
     "gatsby-transformer-remark": "^2.8.28",
     "gatsby-transformer-sharp": "^2.5.2",
@@ -24,7 +25,8 @@
   "devDependencies": {
     "directory-named-webpack-plugin": "^4.0.1",
     "prettier": "2.0.5",
-    "serverless-finch": "^2.5.2"
+    "serverless-dotenv-plugin": "^3.0.0",
+    "serverless-s3-sync": "^1.15.0"
   },
   "keywords": [
     "gatsby"
