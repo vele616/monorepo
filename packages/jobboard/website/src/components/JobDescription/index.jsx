@@ -109,6 +109,9 @@ export const JobDescription = ({
   companyName,
   companyLocation,
   companyWebsite,
+  timestamp,
+  url,
+  applyUrl,
 }) => {
   return (
     <Section>
@@ -125,6 +128,13 @@ export const JobDescription = ({
             companyWebsite={companyWebsite}
           />
           <Content dangerouslySetInnerHTML={{ __html: html }} />
+          <div>
+            <br></br>
+            <div>timestamp: {timestamp}</div>
+            <a href={url}>url</a>
+            <br></br>
+            <a href={applyUrl}>Apply to Job</a>
+          </div>
         </Info>
         <CompanyCard
           large
