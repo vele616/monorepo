@@ -1,0 +1,7 @@
+
+/* Adds elipsis to element */
+@mixin ellipsis() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

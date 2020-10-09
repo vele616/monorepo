@@ -1,0 +1,84 @@
+/**
+  CroCoder color definitions from Figma.
+  The values are grouped by color, sorted and named based
+  on position in the list of same color values.
+*/
+$black: #000;
+
+$blue_1: #2985DF;
+$blue_2: #3D4EDE;
+$blue_3: #47BBE0;
+$blue_4: #4E25A3;
+$blue_5: #5362DB;
+$blue_6: #F6FCFD;
+
+$gray_1: #3C3843;
+$gray_2: #424C6D;
+$gray_3: #545664;
+$gray_4: #A3A7B4;
+$gray_5: #E8E8E8;
+$gray_6: #7D8397;
+
+$green_1: #539500;
+$green_2: #67A807;
+$green_3: #72911F;
+$green_4: #85A32A;
+$green_5: #98B534;
+
+$orange_1: #FF8C17;
+$orange_2: #FFB183;
+$orange_3: #FFCFAC;
+$orange_4: #FFA716;
+
+$red_1: #8E4A51;
+$red_2: #C97771;
+$red_3: #E17871;
+$red_4: #FB2A2A;
+$red_5: #FB5D2A;
+
+$white: #FFF;
+
+$yellow_1: #FEB534;
+$yellow_2: #FEC343;
+$yellow_3: #FED152;
+$yellow_4: #FFB817;
+$yellow_5: #FFCA36;
+
+
+/** Color map based on previously defined variables. **/
+
+$colors: (
+  "black": $black,
+  "blue_1": $blue_1,
+  "blue_2": $blue_2,
+  "blue_3": $blue_3,
+  "blue_4": $blue_4,
+  "blue_5": $blue_5,
+  "blue_6": $blue_6,
+  "gray_1": $gray_1,
+  "gray_2": $gray_2,
+  "gray_3": $gray_3,
+  "gray_4": $gray_4,
+  "gray_5": $gray_5,
+  "gray_6": $gray_6,
+  "green_1": $green_1,
+  "green_2": $green_2,
+  "green_3": $green_3,
+  "green_4": $green_4,
+  "green_5": $green_5,
+  "orange_1": $orange_1,
+  "orange_2": $orange_2,
+  "orange_3": $orange_3,
+  "orange_4": $orange_4,
+  "red_1": $red_1,
+  "red_2": $red_2,
+  "red_3": $red_3,
+  "red_4": $red_4,
+  "red_5": $red_5,
+  "white": $white,
+  "yellow_1": $yellow_1,
+  "yellow_2": $yellow_2,
+  "yellow_3": $yellow_3,
+  "yellow_4": $yellow_4,
+  "yellow_5": $yellow_5,
+);

@@ -1,0 +1,70 @@
+@import '../../styles/main.scss';
+
+
+@mixin basicColorStates($focusColor, $hoverColor) {
+  &:focus, &:focus-within {
+    background: $focusColor;
+    border-color: $focusColor;
+  }
+
+  &:hover {
+    background: $hoverColor;
+    border-color: $hoverColor;
+  }
+
+  &:disabled {
+    background: $gray_5;
+    cursor: not-allowed;
+  }
+}
+
+
+.button {
+  border-radius: 6px;
+  border: unset;
+  background: unset;
+  line-height: 1em;
+  font-size: inherit;
+}
+
+.inherit {
+  background: inherit;
+  border-color: inherit;
+  color: inherit;
+}
+
+.unset {
+  background: unset;
+  border-color: unset;
+  color: unset;
+}
+
+.basic {
+  padding: 1em 1.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+
+  @include for-tablets {
+    padding: 0.85em 1.5em;
+  }
+
+  @include for-phones {
+    padding: 0.85em 1.9em;
+  }
+
+  &.primary {
+    background: $green_4;
+    border: 1px solid $green_4;
+    color: $white;
+    
+    @include basicColorStates($green_3, $green_5);
+  }
+
+  &.secondary {
+    background: $yellow_2;
+    border: 1px solid $yellow_2;
+    color: $white;
+    
+    @include basicColorStates($yellow_1, $yellow_3);
+  }
+}
