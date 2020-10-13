@@ -8,12 +8,8 @@
   },
   "description": "A basic component library of the CroCoder team",
   "author": "CroCoder Dev Team",
-  "version": "0.0.9",
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "node-sass": "^4.14.1",
+  "version": "0.1.'",
+  "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.2.0"
@@ -48,6 +44,10 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "node-sass": "^4.14.1",
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
