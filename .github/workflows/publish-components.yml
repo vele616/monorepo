@@ -7,15 +7,13 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: Moving to packages/components folder
-      run: cd packages/components
     - name: Node setup
       uses: actions/setup-node@v1
       with:
         node-version: 12
         registry: https://npm.pkg.github.com/
-    - run: yarn install
-    - run: yarn build
-    - run: yarn publish
+    - run: cd packages/components && yarn install
+    - run: cd packages/components && yarn build
+    - run: cd packages/components && yarn publish
       env:
         NODE_AUTH_TOKEN: ${{ secrets.GIT_TOKEN }}
