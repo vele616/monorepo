@@ -22,7 +22,7 @@ const getUrls = async (browser, url) => {
     }
   }
 
-  return await page.evaluate(() => {
+  return await page.evaluate((remoteWords) => {
     const jobPosted = [...document.querySelectorAll('[data-ui="job-posted"]')];
     const isRemote = [...document.querySelectorAll("ul > li > div > div")];
     const urls = [...document.querySelectorAll("ul > li > div > a")]
@@ -48,7 +48,7 @@ const getUrls = async (browser, url) => {
       logoUrl: logoUrl ? logoUrl.src : null,
       companyWebsite: document.querySelector('[data-ui="company-url"]').href,
     };
-  });
+  }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {
