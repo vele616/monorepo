@@ -31,7 +31,6 @@ const Label = styled.div`
     text-size-adjust: 100%;
     display: flex;
     width: 90%;
-    min-width: 600px;
   }
 `;
 
