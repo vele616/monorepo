@@ -2,6 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './index.module.scss';
 
+
+/**
+ * Basic button component of the CroCoder component library
+ */
 const Button = ({
   className,
   type,
