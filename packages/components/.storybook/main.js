@@ -8,7 +8,8 @@ const sassModuleRegex = /\.module\.(scss|sass)$/;
 module.exports = {
   "stories": [
     "../src/docs/**/*.stories.mdx",
-    "../src/components/**/*.stories.@(js|jsx|ts|tsx)"
+    "../src/components/**/*.stories.@(js|jsx|ts|tsx)",
+    "../src/examples/**/*.stories.@(js|jsx|ts|tsx)"
   ],
   "addons": [
     "@storybook/addon-links",
