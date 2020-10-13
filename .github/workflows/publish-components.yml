@@ -15,7 +15,7 @@ jobs:
         node-version: 12
         registry: https://npm.pkg.github.com/
     - run: yarn install
-    - name: yarn build
+    - run: yarn build
     - run: yarn publish
       env:
         NODE_AUTH_TOKEN: ${{ secrets.GIT_TOKEN }}
