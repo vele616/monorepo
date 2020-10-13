@@ -22,15 +22,11 @@ const StyledGrid = styled.div`
 /**
  * A basic component for creating two dimensional layouts using the CSS grid.
  */
-const Grid = ({ children, ...props}) =>{
-  console.log (props);
-
-  return (
-    <StyledGrid {...props}>
-      {children}
-    </StyledGrid>
-  );
-} 
+const Grid = ({ children, ...props}) =>(
+  <StyledGrid {...props}>
+    {children}
+  </StyledGrid>
+);
 
 Grid.propTypes = {
   children: PropTypes.node,

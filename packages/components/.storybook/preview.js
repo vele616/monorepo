@@ -1,3 +1,4 @@
+import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
 import viewports from '../src/styles/main.module.scss';
 
 export const parameters = {
@@ -8,7 +9,7 @@ export const parameters = {
         name: 'Desktop - large',
         styles: {
           width: `${viewports.largeDesktop}px`,
-          height: '1000px'
+          height: '1000px',
         },
         type: 'desktop'
       },
@@ -16,7 +17,7 @@ export const parameters = {
         name: 'Desktop',
         styles: {
           width: `${viewports.desktop}px`,
-          height: '800'
+          height: '800px',
         },
         type: 'desktop'
       },
@@ -44,7 +45,7 @@ export const parameters = {
         },
         type: 'mobile',
       },
+      ...INITIAL_VIEWPORTS,
     },
-    defaultViewport: 'responsive'
   }
 }

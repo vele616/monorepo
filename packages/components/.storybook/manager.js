@@ -2,8 +2,6 @@
 import { addons } from '@storybook/addons';
 import { create, themes } from '@storybook/theming/create';
 
-console.log(themes.light)
-
 
 const customTheme = create({
   base: 'light',

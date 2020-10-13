@@ -49,4 +49,8 @@
 
 .button {
   grid-row: 4 / span 1;
+
+  @include for-phones {
+    grid-row: 3 / span 1;
+  }
 }

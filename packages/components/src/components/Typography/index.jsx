@@ -64,7 +64,7 @@ Typography.propTypes = {
 Typography.defaultProps = {
   children: undefined,
   fontSize: 'inherit',
-  fontWeight: '400',
+  fontWeight: 400,
   element: 'span',
 };
 
