@@ -1,9 +1,14 @@
 {
   "name": "@crocoder-dev/components",
   "main": "./lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crocoder-dev/monorepo.git",
+    "directory": "packages/components"
+  },
   "description": "A basic component library of the CroCoder team",
   "author": "CroCoder Dev Team",
-  "version": "0.1.0",
+  "version": "0.0.9",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
