@@ -14,6 +14,6 @@ jobs:
         registry: https://npm.pkg.github.com/
     - run: cd packages/components && yarn install
     - run: cd packages/components && yarn build
-    - run: cd packages/components && yarn publish --new-version ${GITHUB_REF#"refs/tags/"}
+    - run: "cd packages/components && PACKAGE_VERSION=$(cat package.json | grep version | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && yarn publish --new-version $PACKAGE_VERSION"
       env:
         NODE_AUTH_TOKEN: ${{ secrets.GIT_TOKEN }}
