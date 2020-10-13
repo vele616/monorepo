@@ -15,7 +15,7 @@
   },
   "scripts": {
     "build": "webpack --mode=production",
-    "storybook": "start-storybook -p 6006",
+    "storybook": "start-storybook -s ./public -p 6006 ",
     "build-storybook": "build-storybook"
   },
   "eslintConfig": {
@@ -50,7 +50,9 @@
     "@storybook/addon-actions": "^6.0.26",
     "@storybook/addon-essentials": "^6.0.26",
     "@storybook/addon-links": "^6.0.26",
+    "@storybook/addons": "^6.0.26",
     "@storybook/react": "^6.0.26",
+    "@storybook/theming": "^6.0.26",
     "babel-loader": "^8.1.0",
     "css-loader": "^4.3.0",
     "eslint": "^7.10.0",

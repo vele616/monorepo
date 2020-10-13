@@ -34,7 +34,7 @@ module.exports = {
           },
         }, 'sass-loader'],
       sideEffects: true,
-    })
+    });
     config.module.rules.push({
       test: sassModuleRegex,
       include: path.resolve(__dirname, '../'),
@@ -51,6 +51,8 @@ module.exports = {
           },
         }, 'sass-loader'],
     });
+
+   // config.output.publicPath = path.resolve(__dirname, './assets');
 
     // Return the altered config
     return config;
