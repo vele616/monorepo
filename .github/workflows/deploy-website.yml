@@ -1,4 +1,4 @@
-name: Deploy Website
+name: Deploy website
 on:
   workflow_dispatch
 jobs:
@@ -13,21 +13,12 @@ jobs:
         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: ${{ secrets.AWS_REGION }}
-    - name: Moving to packages/jobboard/website folder
-      run: cd packages/jobboard/website
     - name: Node setup
       uses: actions/setup-node@v1
       with:
         node-version: 12
-    - name: Installing npm packages
-      uses: borales/actions-yarn@v2.0.0
-      with:
-        cmd: install
-    - name: Building production
-      uses: borales/actions-yarn@v2.0.0
-      with:
-        cmd: build
-    - name: Serverless deploy
-      uses: crocoder-dev/serverless-github-action@master
-      with:
-        command: 'deploy'
+    - run: cd packages/jobboard/website && yarn install
+    - run: cd packages/jobboard/website && yarn build
+    - run: yarn global add serverless@2.3.0
+    - run: cd packages/jobboard/website && sls deploy
+
