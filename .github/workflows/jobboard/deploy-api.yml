@@ -2,7 +2,7 @@ name: Deploy API
 on:
   workflow_dispatch
 jobs:
-  get-jobs:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -15,11 +15,15 @@ jobs:
         aws-region: ${{ secrets.AWS_REGION }}
     - name: Moving to packages/jobboard/api folder
       run: cd packages/jobboard/api
+    - name: Node setup
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
     - name: Installing npm packages
       uses: borales/actions-yarn@v2.0.0
       with:
         cmd: install
-    - name: Get new jobs posts
+    - name: Serverless deploy
       uses: crocoder-dev/serverless-github-action@master
       with:
         command: 'deploy'

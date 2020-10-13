@@ -1,0 +1,28 @@
+name: Publish Components
+on:
+  workflow_dispatch
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Moving to packages/components folder
+      run: cd packages/components
+    - name: Node setup
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+    - name: Installing npm packages
+      uses: borales/actions-yarn@v2.0.0
+      with:
+        cmd: install
+    - name: Building production
+      uses: borales/actions-yarn@v2.0.0
+      with:
+        cmd: build
+    - name: Publish packages
+      uses: JS-DevTools/npm-publish@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        registry: https://npm.pkg.github.com/
