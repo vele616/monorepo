@@ -1,4 +1,4 @@
-import remoteWords from "../remoteWords";
+const remoteWords = require("../remoteWords");
 
 const getUrls = async (browser, url) => {
   const page = await browser.newPage();
