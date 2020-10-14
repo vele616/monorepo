@@ -38,10 +38,10 @@ functions:
     timeout: 180
     events:
       - schedule:
-          rate: cron(15 10 ? * 6L 2002-2005)
+          rate: rate(1 minutes)
           input:
-            url: ${self:provider.environment.EB_LE_URL}
-            platform: ${self:provider.environment.LE_PLATFORM}
+            url: ${self:provider.environment.OF_RC_URL}
+            platform: ${self:provider.environment.RC_PLATFORM}
     
   jobHandler:
     handler: src/jobHandler.exec
@@ -59,14 +59,14 @@ functions:
               - StreamArn  
 resources:
   Resources:
-    #LogosS3:
-    #  Type:  'AWS::S3::Bucket'
-    #  Properties:
-    #    BucketName: ${self:provider.environment.LOGOS_S3_BUCKET}
-    #MarkDownS3:
-    #  Type:  'AWS::S3::Bucket'
-    #  Properties:
-    #    BucketName: ${self:provider.environment.MARKDOWN_S3_BUCKET}
+    LogosS3:
+      Type:  'AWS::S3::Bucket'
+      Properties:
+        BucketName: ${self:provider.environment.LOGOS_S3_BUCKET}
+    MarkDownS3:
+      Type:  'AWS::S3::Bucket'
+      Properties:
+        BucketName: ${self:provider.environment.MARKDOWN_S3_BUCKET}
     SitesDynamoDbTable:
       Type: 'AWS::DynamoDB::Table'
       DeletionPolicy: Retain

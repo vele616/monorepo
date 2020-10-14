@@ -5,7 +5,8 @@ const getUrls = async (browser, url) => {
 
   await page.goto(url);
 
-  return await page.evaluate(() => {
+  return await page.evaluate((remoteWords) => {
+    const companyWebsite = document.querySelector("a.company-link");
     const logoUrl = document.querySelector("a > img");
     const isRemote = [...document.querySelectorAll(".job-location")];
     const urls = [...document.querySelectorAll(".job > div > div > a")]
@@ -13,7 +14,9 @@ const getUrls = async (browser, url) => {
         url: url.href,
         isRemote: isRemote[i].textContent,
       }))
-      .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
+      .filter((t) =>
+        new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+      )
       .map((t) => t.url);
 
     return {
@@ -22,9 +25,9 @@ const getUrls = async (browser, url) => {
         .querySelector('[property="og:site_name"]')
         .getAttribute("content"),
       logoUrl: logoUrl ? logoUrl.src : null,
-      companyWebsite: document.querySelector("a.company-link").href,
+      companyWebsite: companyWebsite ? companyWebsite.href : window.location.href,
     };
-  });
+  }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {
@@ -44,13 +47,15 @@ const getJobs = async (browser, url) => {
       return {
         title: document.querySelector(".info > h2").textContent,
         content: parent.innerHTML
+          .replace(/\n/g, "")
           .replace(/<br>/g, "")
           .replace(/h3/g, "h2")
-          .replace(
-            /<strong[a-zA-Z-=0-9":;\. ]*><em[a-zA-Z-=0-9":;\. ]*>(.*?)<\/em><\/strong>/g,
-            "<a><a>$1</a></a>"
-          )
-          .replace(/strong/g, "h2"),
+          .replace(/h1/g, "h2")
+          .replace(/<p><strong>([^<]+)<\/strong><\/p>/g, "<h2>$1</h2>") //crate - finance accounting specialist
+          .replace(/<h2>(<.+>)*<strong>([^<]+)<\/strong>(<.+>)*<\/h2>/g, "<h2>$1</h2>")
+          .replace(/<span[a-zA-Z-=0-9":;\. ]*><strong><\/strong><strong>(.*)<\/strong><\/span>/g, "<h2>$1</h2>")//crate - finance accounting specialist
+          .replace(/<h2><strong>(.*)<\/strong><\/h2>/g, "<h2>$1</h2>"), // vidIQ - product manager core
+          //.replace(/<h2><span[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/span><\/h2>/g, "<p>$1</p>"), // vidIQ - product manager core 
         location: location ? location.textContent.trim() : null,
       };
     })),
