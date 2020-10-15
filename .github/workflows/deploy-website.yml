@@ -18,5 +18,8 @@ jobs:
       with:
         node-version: 12
     - run: ./scripts/jobboard/get-secrets.sh ${{ secrets.SECRET_BUCKET }}
-    - run: cd packages/jobboard/website && yarn install --production=false && yarn build && npx serverless deploy --conceal
+    - run: cd packages/jobboard/website && yarn install --production=false
+    - run: ls packages/jobboard/website/node_modules/serverless-dotenv-plugin
+    - run: cd packages/jobboard/website && yarn build
+    - run: cd packages/jobboard/website && ls packages/jobboard/website/node_modules/serverless-dotenv-plugin && npx serverless deploy --conceal
 
