@@ -37,13 +37,18 @@ const getJobs = async (browser, url) => {
 
   return {
     ...(await page.evaluate(() => {
+      const location = [...document.querySelectorAll("sidebar > section > div > div > div > div > dl > dd")].map(i => i.textContent).slice(0, -1).splice(-1, 1);
+      
       const parent = document.querySelector("body > div.external-content > div.external-content-wrap.external-2-col > main > section > div > div:nth-child(2)");
       parent.removeChild(document.querySelector('body > div.external-content > div.external-content-wrap.external-2-col > main > section > div > div:nth-child(2) > dl'));
+      parent.removeChild(document.querySelector('body > div.external-content > div.external-content-wrap.external-2-col > main > section > div > div:nth-child(2) > div.frow.frow--centered-column.mar-t-8.mar-t-md-14'));
 
       return {
         title: document.querySelector("header > h1").textContent,
-        content: parent.innerHTML,
-        location: document.querySelector("sidebar > section > div > div > div > div > dl > dd:nth-child(6)").textContent,
+        content: parent.innerHTML
+          .replace(/\n|<br>/g, "")
+          .replace(/<strong>([^<]+)<\/strong>/g, "<h2>$1</h2>"),
+        location: location.lastItem,
       };
     })),
     url,
