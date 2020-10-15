@@ -20,6 +20,5 @@ jobs:
     - run: ./scripts/jobboard/get-secrets.sh ${{ secrets.SECRET_BUCKET }}
     - run: cd packages/jobboard/website && yarn install
     - run: cd packages/jobboard/website && yarn build
-    - run: yarn global add serverless@2.3.0
-    - run: cd packages/jobboard/website && sls deploy --conceal
+    - run: cd packages/jobboard/scrapper && npx serverless deploy --conceal
 
