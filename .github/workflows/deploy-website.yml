@@ -18,7 +18,5 @@ jobs:
       with:
         node-version: 12
     - run: ./scripts/jobboard/get-secrets.sh ${{ secrets.SECRET_BUCKET }}
-    - run: cd packages/jobboard/website && yarn install --production=false
-    - run: cd packages/jobboard/website && yarn build
-    - run: cd packages/jobboard/scrapper && npx serverless deploy --conceal
+    - run: cd packages/jobboard/website && yarn install --production=false && yarn build && npx serverless deploy --conceal
 
