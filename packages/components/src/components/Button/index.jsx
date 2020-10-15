@@ -2,52 +2,53 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './index.module.scss';
 
+
+/**
+ * Basic button component of the CroCoder component library
+ */
 const Button = ({
   className,
   type,
   children,
-  isDisabled,
+  disabled,
   color,
   onClick,
   title,
   style,
-  styleType,
+  variant,
   ...other
 }) => (
   <button
     {...other}
     style={style}
     title={title}
-    disabled={isDisabled}
+    disabled={disabled}
     type={type}
     onClick={onClick}
-    className={`${className}  ${styles.button} ${styles[styleType]} ${styles[color]} `}
+    className={`${className}  ${styles.button} ${styles[variant]}`}
   >
     {children}
   </button>
 );
 
 Button.propTypes = {
-  children: PropTypes.any,
-  color: PropTypes.oneOf(['primary', 'secondary', 'inherit', 'unset']),
+  children: PropTypes.node,
   className: PropTypes.string,
-  isDisabled: PropTypes.bool,
+  disabled: PropTypes.bool,
   onClick: PropTypes.func,
   style: PropTypes.shape({}),
   title: PropTypes.string,
-  styleType: PropTypes.oneOf(['basic', 'link', 'outline', 'submit']),
-  type: PropTypes.string,
+  /**
+   * Available styling of the CroCoder buttons.
+   * Defined via style guide.
+   */
+  variant: PropTypes.oneOf(['primary', 'secondary', 'outline']),
+  type: PropTypes.oneOfType([PropTypes.oneOf(['button', 'reset', 'submit']), PropTypes.string]),
 };
 
 Button.defaultProps = {
-  children: undefined,
-  className: '',
-  color: 'primary',
-  isDisabled: false,
-  onClick: () => {},
-  style: {},
-  title: '',
-  styleType: 'basic',
+  disabled: false,
+  variant: 'primary'
 };
 
 export default Button;

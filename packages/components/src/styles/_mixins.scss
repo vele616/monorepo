@@ -1,7 +1,20 @@
 
+@import './_media.scss';
+
+
 /* Adds elipsis to element */
 @mixin ellipsis() {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+
+@mixin getFluidFontSize($minValue, $maxValue) {
+  font-size: calc(#{$minValue}px + (#{$maxValue} - #{$minValue}) * ((100vw - #{$viewport__width--minimum}px) / (#{$viewport__width--maximum} - #{$viewport__width--minimum})));
+
+
+  @include for-desktop-large() {
+    font-size: #{$maxValue}px;
+  }
 }
