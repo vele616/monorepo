@@ -5,7 +5,8 @@ jobs:
   get-jobs:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
     - name: Get new jobs posts
       uses: crocoder-dev/crocoder-jobboard-action@master
       with:

@@ -7,7 +7,7 @@ const getUrls = async (browser, url) => {
   const uri = new URL(url);
 
   if (uri.searchParams.has("for")) {
-    return await page.evaluate(() => {
+    return await page.evaluate((remoteWords) => {
       const companyName = document.querySelector("#wrapper > h1");
       const logoUrl = document.querySelector("#logo > img");
       const isRemote = [...document.querySelectorAll(".location")];
@@ -34,10 +34,10 @@ const getUrls = async (browser, url) => {
         logoUrl: logoUrl ? logoUrl.src : null,
         companyWebsite: window.location.href,
       };
-    });
+    }, remoteWords);
   }
 
-  return await page.evaluate(() => {
+  return await page.evaluate((remoteWords) => {
     const companyName = document.querySelector("#main > h1");
     const logoUrl = document.querySelector("#logo > img");
     const isRemote = [...document.querySelectorAll(".location")];
@@ -55,7 +55,7 @@ const getUrls = async (browser, url) => {
       logoUrl: logoUrl ? logoUrl.src : null,
       companyWebsite: window.location.href,
     };
-  });
+  }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {

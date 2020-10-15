@@ -5,7 +5,7 @@ const getUrls = async (browser, url) => {
 
   await page.goto(url);
 
-  return await page.evaluate(() => {
+  return await page.evaluate((remoteWords) => {
     const companyName = document.querySelector('[property="og:url"]');
     const logoUrl = document.querySelector("a.brand > img");
     const companyWebsite = document.querySelector(".link.misc.company > a");
@@ -30,7 +30,7 @@ const getUrls = async (browser, url) => {
         ? companyWebsite.href
         : window.location.href,
     };
-  });
+  },remoteWords);
 };
 
 const getJobs = async (browser, url) => {

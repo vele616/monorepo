@@ -1,0 +1,23 @@
+name: Deploy API
+on:
+  workflow_dispatch
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ secrets.AWS_REGION }}
+    - name: Node setup
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+    - run: cd packages/jobboard/api && yarn install
+    - run: yarn global add serverless@2.3.0
+    - run: cd packages/jobboard/api && sls deploy
+

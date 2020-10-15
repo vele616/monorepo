@@ -5,7 +5,7 @@ const getUrls = async (browser, url) => {
 
   await page.goto(url);
 
-  return await page.evaluate(() => {
+  return await page.evaluate((remoteWords) => {
     const isRemote = [...document.querySelectorAll(".careers-location")];
     const urls = [...document.querySelectorAll("a.gohire-job")]
       .map((url, i) => ({
@@ -23,7 +23,7 @@ const getUrls = async (browser, url) => {
       logoUrl: document.querySelector("a.client_logo > img").src,
       companyWebsite: document.querySelector("a.client_logo").href,
     };
-  });
+  }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {

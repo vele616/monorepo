@@ -21,7 +21,6 @@ const JobInfo = styled.a`
   text-decoration: none;
   @media only screen and (max-width: 1200px) {
     width: 90%;
-    min-width: 600px;
     padding-right: 6%;
     margin: 10px 0;
   }
@@ -46,7 +45,7 @@ const Position = styled.div`
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
-  max-width: 70%;
+  max-width: 80%;
   @media only screen and (max-width: 600px) {
     max-width: 65%;
   }
@@ -60,6 +59,12 @@ const PositionAndLocation = styled.div`
 const Location = styled.div`
   white-space: nowrap;
 `;
+const Tags = styled.div`
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 100%;
+`;
 
 const JobPost = ({ jobUrl, title, companyName, companyLogo, location, tags }) => (
   <JobInfo href={jobUrl}>
@@ -69,7 +74,7 @@ const JobPost = ({ jobUrl, title, companyName, companyLogo, location, tags }) =>
       <Position>{title}</Position>
       <Location>{location}</Location>
     </PositionAndLocation>
-    <div>{tags}</div>
+    <Tags>{tags}</Tags>
   </JobInfo>
 );
 

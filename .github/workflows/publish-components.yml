@@ -1,0 +1,19 @@
+name: Publish Components
+on:
+  workflow_dispatch
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Node setup
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+        registry: https://npm.pkg.github.com/
+        scope: "@crocoder"
+    - run: cd packages/components && yarn install
+    - run: cd packages/components && yarn build
+    - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GIT_TOKEN }}" > ~/.npmrc
+    - run: cd packages/components && npm publish

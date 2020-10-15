@@ -1,0 +1,32 @@
+
+$viewport__width--minimum: 320;
+$viewport__width--maximum: 1600;
+$viewport__width--reduced: 1440;
+
+
+$breakpoint__desktop--upper: 1801; // Used for extra large desktops
+$breakpoint__desktop--lower: 1200;
+$breakpoint__tablet--lower: 600;
+
+:export {
+  desktop: $breakpoint__desktop--lower;
+  tablet: $breakpoint__tablet--lower;
+  mobile: $viewport__width--minimum;
+}
+
+
+@mixin for-desktop {
+  @media (min-width: #{$breakpoint__desktop--lower}px) { @content; }
+}
+
+@mixin for-tablets {
+  @media (min-width: #{$breakpoint__tablet--lower}px) and (max-width: #{$breakpoint__desktop--lower - 1}px) { @content; }
+}
+
+@mixin for-phones {
+  @media (max-width: #{$breakpoint__tablet--lower - 1}px) { @content; }
+}
+
+@mixin for-desktop-large {
+  @media (min-width: #{$breakpoint__desktop--upper}px) { @content; }
+}

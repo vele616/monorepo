@@ -18,7 +18,7 @@ export const JobPostTemplate = (props) => {
     timestamp,
     hashtags,
     logoUrl,
-    website,
+    companyWebsite,
   } = post.frontmatter;
   const { html } = post;
 
@@ -31,7 +31,10 @@ export const JobPostTemplate = (props) => {
         logoUrl={logoUrl}
         companyName={companyName}
         companyLocation={location}
-        companyWebsite={website}
+        companyWebsite={companyWebsite}
+        url={url}
+        applyUrl={applyUrl}
+        timestamp={timestamp}
       />
     </div>
   );
@@ -50,6 +53,9 @@ export const pageQuery = graphql`
         title
         url
         hashtags
+        logoUrl
+        companyName
+        companyWebsite
       }
     }
   }
