@@ -1,4 +1,4 @@
-name: Deploy Scrapper
+name: Job Board - Deploy Scrapper
 on:
   workflow_dispatch
 jobs:
