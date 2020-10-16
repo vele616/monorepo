@@ -1,0 +1,103 @@
+@import '../../styles/main.module.scss';
+
+body {
+  padding: 0 !important;
+}
+
+$navigation__desktop__height: 100px;
+
+.navigation {
+  align-items: center;
+  background: $white;
+  box-sizing: border-box;
+  display: flex;
+  height: $navigation__desktop__height;
+  justify-content: space-between;
+  padding: 25px 100px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  transition: padding 0.6s cubic-bezier(0.5, 1, 0.89, 1), height 0.6s cubic-bezier(0.5, 1, 0.89, 1), box-shadow 0.6s cubic-bezier(0.5, 1, 0.89, 1);
+
+  @include for-tablets {
+    padding: 25px 50px;
+  }
+
+  @include for-phones {
+    flex-wrap: wrap;
+    padding: 25px;
+    padding-right: 0;
+    height: auto;
+  }
+
+  &__burger {
+    display: none;
+
+    @include for-phones {
+      display: inline-block;
+    }
+  }
+
+
+
+  &__image {
+    max-width: 225px;
+    
+    @include for-phones {
+      
+      max-width: 50px;
+    }
+  }
+
+  &__content {
+    flex-basis: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 450px;
+
+    & > :first-child:last-child {
+      margin-left: auto;
+    }
+  }
+}
+
+
+.scroll {
+  top: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 70px;
+  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+}
+
+@include for-phones {
+
+  .closed > .navigation__content {
+    display: none;
+  }
+
+  .navigation__content {
+    position: fixed;
+    height: calc(100vh - #{$navigation__desktop__height});
+    width: 100vw;
+    top: $navigation__desktop__height;
+    box-sizing: border-box;
+    left: 0;
+    flex-basis: 100%;
+    display: inline-block;
+    max-width: 100%;
+    background: $white;
+
+    & > * {
+      text-align: center;
+      margin: auto;
+      display: block;
+    }
+
+    & > :not(button) {
+      width: 100%;
+      padding: 10px 0;
+    }
+  }
+}
