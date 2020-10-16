@@ -26,8 +26,9 @@ const getJobs = async (browser, url) => {
     ...(await page.evaluate(() => {
       return {
         title: document.querySelector("h1").textContent,
-        content: document.querySelector('[itemprop="description"]').innerHTML
-          .replace(/<p><strong>(.*?)<\/strong><\/p>/g, '<h2>$1</h2>'),
+        content: document.querySelector('[itemprop="description"]').innerHTML.replace(/\n/g, '')
+          .replace(/<p><strong>(.*?)<\/strong><\/p>/g, '<h2>$1</h2>')
+          .replace(/<li><h2>(.*?)<\/h2><\/li>/g, '<li>$1</li>'),
         location: [
           document.querySelector('[itemprop="addressLocality"]'),
           document.querySelector('[itemprop="addressCountry"]'),
