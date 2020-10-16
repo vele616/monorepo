@@ -1,4 +1,4 @@
-name: Publish Components
+name: Components - Publish package
 on:
   workflow_dispatch
 jobs:
