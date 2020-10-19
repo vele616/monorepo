@@ -8,7 +8,7 @@
   },
   "description": "A basic component library of the CroCoder team",
   "author": "CroCoder Dev Team",
-  "version": "0.2.0'",
+  "version": "0.2.0-next",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
