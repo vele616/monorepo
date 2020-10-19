@@ -35,10 +35,10 @@ Story1.argTypes = {
 export const Story2 = (args) =>
 <div style={{ height: '150vh'}}>
   <Navigation {...args}>
-    <Typography>
+    <Typography className="link">
       One link
     </Typography>
-    <Typography>
+    <Typography className="link">
       Two link
     </Typography>
     <Button variant="secondary">Post a job</Button>

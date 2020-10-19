@@ -1,11 +1,12 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import PropTypes from 'prop-types';
+import '../../assets/styles/main.css';
+import Button from '../Button';
+import Hamburger from './Hamburger';
 import navigationImage from '../../assets/images/navigation.png';
+import styles from './index.module.scss';
 import useDevice from '../../hooks/useDevice';
 import useScrollPrevent from '../../hooks/useScrollPrevent';
-import styles from './index.module.scss';
-import Hamburger from '../Hamburger';
-import Button from '../Button';
 
 
 /**
