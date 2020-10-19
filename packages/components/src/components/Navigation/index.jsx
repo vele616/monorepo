@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import PropTypes from 'prop-types';
-import logoImage from '../../assets/images/logo.png';
 import navigationImage from '../../assets/images/navigation.png';
+import useDevice from '../../hooks/useDevice';
+import useScrollPrevent from '../../hooks/useScrollPrevent';
 import styles from './index.module.scss';
-import Icon from '../Icon';
+import Hamburger from '../Hamburger';
 import Button from '../Button';
 
 
@@ -14,32 +15,41 @@ const Navigation = ({
   className,
   children,
   style,
+  onLogoClick,
   ...other
 }) => {
   const [scrolled, setIsScrolled] = useState(false);
   const [opened, setIsOpened] = useState(false);
+  const { isMobile } = useDevice();
+  const { disableScroll, enableScroll,} = useScrollPrevent();
 
-  const scrollHandler = useCallback(() => {
-    if (window.scrollY > 100 && !scrolled) {
-      setIsScrolled(true);
-    }
-    if (window.scrollY === 0) {
-      setIsScrolled(false);
-    }
-  }, [scrolled]);
 
-  // TODO add detection of screen size (+ for hidden)
-  // TODO add option to disable hamburger
   // TODO fix style for single element nav
   // TODO animations?
 
 
   useEffect(() => {
+    const scrollHandler = () => {
+      if (window.scrollY > 100 && !scrolled) {
+        setIsScrolled(true);
+      }
+      if (window.scrollY === 0) {
+        setIsScrolled(false);
+      }
+    };
     window.addEventListener('scroll', scrollHandler);
     return () => window.removeEventListener('scroll', scrollHandler)
-  }, [scrollHandler]);
+  }, []);
 
-  const toggleMenu = useCallback(() => setIsOpened(!opened), [opened]);
+  const toggleMenu = useCallback(() => {
+    setIsOpened(!opened);
+  
+    if (isMobile && !opened) {
+      disableScroll();
+    } else if (isMobile && !!opened) {
+      enableScroll();
+    }
+  }, [opened, isMobile]);
 
   return (
     <>
@@ -48,24 +58,24 @@ const Navigation = ({
         style={style}
         className={`${className}  ${styles.navigation} ${scrolled && styles.scroll} ${!opened && styles.closed}`}
       >
-        <picture>
-          <source media="(max-width: 499px)" srcSet={logoImage} />
+        <picture onClick={onLogoClick}>
+          <source media="(max-width: 499px)" srcSet={navigationImage} />
           <source media="(min-width: 500px)" srcSet={navigationImage} />
           <img src={navigationImage} className={styles.navigation__image} />
         </picture>
         <Button
-          hidden={!opened} // todo not accurate
-          aria-hasPopup="true"
-          aria-expanded={opened}
+          hidden={!opened || !isMobile}
+          aria-haspopup="true"
+          aria-expanded={opened && isMobile}
           aria-controls="navigation-content-menu"
           variant="sneaky"
           onClick={toggleMenu}
           className={styles.navigation__burger}
         >
-          <label hidden="true" for="navigation-content-menu">
+          <label hidden={true} htmlFor="navigation-content-menu">
             Navigation
           </label>
-          <Icon icon={opened ? "close" : "burger"} />
+          {isMobile && <Hamburger open={opened} />}
         </Button>
         <div
           id="navigation-content-menu"
@@ -82,6 +92,10 @@ Navigation.propTypes = {
   children: PropTypes.node,
   className: PropTypes.string,
   style: PropTypes.shape({}),
+  /**
+   * Function for redirecting on clicking the CroCoder navigation logo.
+   */
+  onLogoClick: PropTypes.func,
 };
 
 Navigation.defaultProps = {
