@@ -10,6 +10,8 @@ const services = {
     [process.env.FT_PLATFORM]: require('./services/ft'),
     [process.env.GO_PLATFORM]: require('./services/go'),
     [process.env.RB_PLATFORM]: require('./services/rb'),
+    [process.env.PP_PLATFORM]: require('./services/pp'),
+    [process.env.SR_PLATFORM]: require('./services/sr'),
 };
 module.exports = (platform, url, browser, jobUrl) => ({
     getJobs: () => services[platform].getJobs(browser, jobUrl),

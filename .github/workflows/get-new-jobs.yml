@@ -1,4 +1,4 @@
-name: Get New Jobs
+name: Job Board - Get new jobs
 on:
   workflow_dispatch
 jobs:
