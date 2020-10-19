@@ -22,3 +22,14 @@ body {
 .link:disabled {
   color: #E8E8E8;
 }
+
+
+.navigation__image {
+  max-width: 225px;
+}
+
+@media (max-width: 599px){
+  .navigation__image {
+    max-width: 200px;
+  }
+}

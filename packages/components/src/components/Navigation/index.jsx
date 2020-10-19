@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import '../../assets/styles/main.css';
 import Button from '../Button';
 import Hamburger from './Hamburger';
-import navigationImage from '../../assets/images/navigation.png';
 import styles from './index.module.scss';
 import useDevice from '../../hooks/useDevice';
 import useScrollPrevent from '../../hooks/useScrollPrevent';
@@ -16,7 +15,7 @@ const Navigation = ({
   className,
   children,
   style,
-  onLogoClick,
+  Logo,
   ...other
 }) => {
   const [scrolled, setIsScrolled] = useState(false);
@@ -59,11 +58,7 @@ const Navigation = ({
         style={style}
         className={`${className}  ${styles.navigation} ${scrolled && styles.scroll} ${!opened && styles.closed}`}
       >
-        <picture onClick={onLogoClick}>
-          <source media="(max-width: 499px)" srcSet={navigationImage} />
-          <source media="(min-width: 500px)" srcSet={navigationImage} />
-          <img src={navigationImage} className={styles.navigation__image} />
-        </picture>
+        {Logo}
         <Button
           hidden={!opened || !isMobile}
           aria-haspopup="true"
@@ -94,14 +89,13 @@ Navigation.propTypes = {
   className: PropTypes.string,
   style: PropTypes.shape({}),
   /**
-   * Function for redirecting on clicking the CroCoder navigation logo.
+   * Logo component with an image of the CroCoder logo and the link to the homepage.
+   * Excluded from this component as it should be handled via the webapp (e.g. optimization of image resources).
    */
-  onLogoClick: PropTypes.func,
+  Logo: PropTypes.func,
 };
 
 Navigation.defaultProps = {
-  disabled: false,
-  variant: 'primary'
 };
 
 export default Navigation;

@@ -55,13 +55,6 @@ $navigation__animation__length: 0.6s;
 
 
 
-  &__image {
-    max-width: 225px;
-    
-    @include for-phones {
-      max-width: 200px;
-    }
-  }
 
   &__content {
     align-items: center;

@@ -25,7 +25,7 @@ const Template = (args) =>
   columns="auto"
   className={styles.grid}
 >
-  <img className={styles.image} src="/JobsHeader.png" />
+  <img className={styles.image} src="/images/jobsHeader.png" />
   <Typography fontSize={18} color="gray_6"  className={styles.typography} >
     CroCoder is a small group of enthusiastic developers that wishes to
   help others find <b>fulfillment and merriment at work.</b>

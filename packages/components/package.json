@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "webpack --mode=production",
-    "storybook": "start-storybook -s ./public,./src/assets -p 6006 ",
+    "storybook": "start-storybook -s ./src/assets -p 6006 ",
     "build-storybook": "build-storybook"
   },
   "eslintConfig": {
