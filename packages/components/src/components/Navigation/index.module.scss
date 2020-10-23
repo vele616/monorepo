@@ -19,10 +19,7 @@ $navigation__animation__length: 0.6s;
   position: sticky;
   top: 0;
   transition: padding #{$navigation__animation__length} cubic-bezier(0.5, 1, 0.89, 1), height #{$navigation__animation__length} cubic-bezier(0.5, 1, 0.89, 1), box-shadow #{$navigation__animation__length} cubic-bezier(0.5, 1, 0.89, 1);
-
-  svg {
-    stroke: $gray_2;
-  }
+  z-index: 100;
 
   :global(.link) {
     color: $gray_2;
@@ -53,6 +50,18 @@ $navigation__animation__length: 0.6s;
     }
   }
 
+  &__hamburger {
+    stroke: $gray_2;
+  }
+
+  
+  &__image {
+    width: 225px;
+    
+    @include for-phones {
+      width: 200px;
+    }
+  }
 
 
 

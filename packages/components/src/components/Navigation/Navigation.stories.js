@@ -10,7 +10,7 @@ export default {
 
 export const Story1 = (args) =>
 <div style={{ height: '150vh'}}>
-  <Navigation {...args} Logo={<img className={"navigation__image"} src="/images/navigation.png" />}>
+  <Navigation {...args} Logo={<img width="100%" src="/images/navigation.png" />}>
     <Button variant="secondary">Post a job</Button>
   </Navigation>
   <div style={{ background: 'red', height: '100px'}}>
@@ -34,7 +34,7 @@ Story1.argTypes = {
 
 export const Story2 = (args) =>
 <div style={{ height: '150vh'}}>
-  <Navigation {...args} Logo={<img className={"navigation__image"} src="/images/navigation.png" />}>
+  <Navigation {...args} Logo={<img width="100%" src="/images/navigation.png" />}>
     <Typography className="link">
       One link
     </Typography>

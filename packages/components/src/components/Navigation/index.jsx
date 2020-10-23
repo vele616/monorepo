@@ -58,7 +58,9 @@ const Navigation = ({
         style={style}
         className={`${className}  ${styles.navigation} ${scrolled && styles.scroll} ${!opened && styles.closed}`}
       >
-        {Logo}
+        <div className={styles.navigation__image}>
+          {Logo}
+        </div>
         <Button
           hidden={!opened || !isMobile}
           aria-haspopup="true"
@@ -71,7 +73,7 @@ const Navigation = ({
           <label hidden={true} htmlFor="navigation-content-menu">
             Navigation
           </label>
-          {isMobile && <Hamburger open={opened} />}
+          {isMobile && <Hamburger className={styles.navigation__hamburger} open={opened} />}
         </Button>
         <div
           id="navigation-content-menu"

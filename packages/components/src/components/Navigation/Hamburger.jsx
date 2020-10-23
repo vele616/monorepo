@@ -2,8 +2,9 @@ import React from 'react';
 import { Motion, spring, presets } from 'react-motion';
 import PropTypes from 'prop-types';
 
-const Hamburger = ({ open }) => (
+const Hamburger = ({ open, className }) => (
   <svg
+    className={className}
     viewBox="0 0 96 96"
     height="1em"
     style={{
