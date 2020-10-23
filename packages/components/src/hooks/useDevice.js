@@ -1,15 +1,17 @@
 import { useState, useEffect } from 'react';
 import { desktop, tablet, mobile, largeDesktop } from '../styles/main.module.scss';
 
-const isMobile = () => window.innerWidth < tablet && window.innerWidth >= mobile - 2;
-const isTablet = () => window.innerWidth >= tablet && window.innerWidth < desktop;
-const isDesktop = () => window.innerWidth >= desktop;
-const isLargeDesktop = () => window.innerWidth > largeDesktop;
+
 
 /**
  * Custom hook for screen-size detection in components.
  */
-export default function useDevice() {
+export default function useDevice(custom) {
+  const mobileLimit = (custom && custom.mobile) || mobile;
+  const tabletLimit = (custom && custom.tablet) || tablet;
+  const desktopLimit = (custom && custom.desktop) || desktop;
+  const largeDesktopLimit = (custom && custom.largeDesktop) || largeDesktop;
+
   const [viewport, setViewport] = useState({
     isMobile: false,
     isDesktop: false,
@@ -17,7 +19,15 @@ export default function useDevice() {
     isLargeDesktop: false,
   });
 
+  console.log(mobileLimit)
+
   useEffect(() => {
+    const isMobile = () => window.innerWidth < tabletLimit && window.innerWidth >= mobileLimit - 2;
+    const isTablet = () => window.innerWidth >= tabletLimit && window.innerWidth < desktopLimit;
+    const isDesktop = () => window.innerWidth >= desktopLimit;
+    const isLargeDesktop = () => window.innerWidth > largeDesktopLimit;
+    console.log(isMobile(), "banana")
+
     setViewport({
       isMobile: isMobile(),
       isTablet: isTablet(),

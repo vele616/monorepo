@@ -56,7 +56,7 @@ Typography.propTypes = {
     'h6', 'div', 'span', 'p', 'label',
   ]),
   /** Represents basic size on desktop */
-  fontSize: PropTypes.oneOf([14, 16, 18, 20,  22, 24, 26, 30, 34, 44, 50, 65, 'inherit', 'unset' ]),
+  fontSize: PropTypes.oneOf([12, 14, 16, 18, 20,  22, 24, 26, 30, 34, 44, 50, 65, 'inherit', 'unset' ]),
   fontWeight: PropTypes.oneOf([400, 700]),
   title: PropTypes.string,
 };
