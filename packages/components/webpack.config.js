@@ -18,6 +18,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const postcssNormalize = require('postcss-normalize');
+const CopyPlugin = require('copy-webpack-plugin');
 // Uncomment for testing purposes - check what's in the package
 // const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
@@ -216,7 +217,7 @@ module.exports = function () {
             // smaller than specified limit in bytes as data URLs to avoid requests.
             // A missing `test` is equivalent to a match.
             {
-              test: [/\.bmp$/, /\.gif$/, /\.svg$/, /\.jpe?g$/, /\.png$/],
+              test: [/\.bmp$/, /\.gif$/, /\.jpe?g$/, /\.png$/],
               loader: require.resolve('url-loader'),
               options: {
                 limit: imageInlineSizeLimit,
@@ -311,10 +312,6 @@ module.exports = function () {
             },
             {
               loader: require.resolve('file-loader'),
-              // Exclude `js` files to keep "css" loader working as it injects
-              // its runtime that would otherwise be processed through "file" loader.
-              // Also exclude `html` and `json` extensions so they get processed
-              // by webpacks internal loaders.
               include: /\.(eot|ttf|woff)$/,
               options: {
                 name: 'static/fonts/[name].[ext]',
@@ -329,7 +326,7 @@ module.exports = function () {
               // its runtime that would otherwise be processed through "file" loader.
               // Also exclude `html` and `json` extensions so they get processed
               // by webpacks internal loaders.
-              exclude: [/\.(js|mjs|jsx|ts|tsx)$/, /\.html$/, /\.json$/],
+              exclude: [/\.(js|mjs|jsx|ts|tsx)$/, /\.html$/, /\.json$/,  /\.eot$/,  /\.ttf$/,  /\.woff$/],
               options: {
                 name: 'static/media/[name].[ext]',
               },
@@ -352,7 +349,11 @@ module.exports = function () {
       // https://github.com/jmblog/how-to-optimize-momentjs-with-webpack
       // You can remove this if you don't use Moment.js:
       new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
-
+      new CopyPlugin({
+        patterns: [
+          { from: resolveApp('src/styles'), to: resolveApp('lib/scss') },
+        ],
+      }),
     ].filter(Boolean),
     // Some libraries import Node modules but don't use them in the browser.
     // Tell webpack to provide empty mocks for them so importing them works.
