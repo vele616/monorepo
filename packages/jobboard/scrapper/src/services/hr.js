@@ -5,10 +5,11 @@ const getUrls = async (browser, url) => {
   await page.goto(url);
 
   return await page.evaluate((remoteWords) => {
-    const companyWebsite = document.querySelector('[class="company-site"] > a');
+    const companyWebsite = document.querySelector('.company-site > a');
     const logoUrl = document.querySelector('figure > img');
-    const isRemote = [...document.querySelectorAll('div.JobList__list-wrapper__CQ9sb > div > div > a > div > div > p:nth-child(2)')];
-    const urls = [...document.querySelectorAll('div.JobList__list-wrapper__CQ9sb > div > div >  a')]
+    const isRemote = [...document.querySelectorAll('[data-job-list-items] > a > div > div')];
+    const urls = [...document.querySelectorAll('[data-job-list-items] > a')]
+
       .map((url, i) => ({
         url: url.href,
         isRemote: isRemote[i].textContent,
