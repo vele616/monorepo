@@ -11,13 +11,19 @@ const isLargeDesktop = () => window.innerWidth > largeDesktop;
  */
 export default function useDevice() {
   const [viewport, setViewport] = useState({
-    isMobile: isMobile(),
-    isTablet: isTablet(),
-    isDesktop: isDesktop(),
-    isLargeDesktop: isLargeDesktop(),
+    isMobile: false,
+    isDesktop: false,
+    isTablet: false,
+    isLargeDesktop: false,
   });
 
   useEffect(() => {
+    setViewport({
+      isMobile: isMobile(),
+      isTablet: isTablet(),
+      isDesktop: isDesktop(),
+      isLargeDesktop: isLargeDesktop(),
+    });
     const resizeHanlder = () => {
       setViewport({
         isMobile: isMobile(),

@@ -21,7 +21,7 @@ const Navigation = ({
   const [scrolled, setIsScrolled] = useState(false);
   const [opened, setIsOpened] = useState(false);
   const { isMobile } = useDevice();
-  const { disableScroll, enableScroll,} = useScrollPrevent();
+  const { disableScroll, enableScroll } = useScrollPrevent();
 
 
   // TODO fix style for single element nav
@@ -52,7 +52,7 @@ const Navigation = ({
   }, [opened, isMobile]);
 
   return (
-    <>
+    
       <nav
         {...other}
         style={style}
@@ -80,7 +80,6 @@ const Navigation = ({
           {children}
         </div>
       </nav>
-    </>
   );
 }
 
@@ -92,7 +91,7 @@ Navigation.propTypes = {
    * Logo component with an image of the CroCoder logo and the link to the homepage.
    * Excluded from this component as it should be handled via the webapp (e.g. optimization of image resources).
    */
-  Logo: PropTypes.func,
+  Logo: PropTypes.node,
 };
 
 Navigation.defaultProps = {

@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useState, useMemo } from 'react';
 
 
 // Based on https://stackoverflow.com/a/4770179
@@ -9,8 +9,7 @@ import { useCallback, useEffect, useState } from 'react';
 export default function useScrollPrevent() {
   // left: 37, up: 38, right: 39, down: 40,
   // spacebar: 32, pageup: 33, pagedown: 34, end: 35, home: 36
-  const keys = { 37: true, 38: true, 39: true, 40: true};
-  const [supportsPassive, setSupportsPassive] = useState(false);
+  const keys = { 37: true, 38: true, 39: true, 40: true };
 
   const preventDefault = useCallback((event) => {
     event.preventDefault();
@@ -22,16 +21,23 @@ export default function useScrollPrevent() {
     }
   }, []);
 
+  let wheelEvent = false;
+  let wheelOpt;
+
   useEffect(() => {
     try {
+      wheelOpt =  'onwheel' in window.document.createElement('div') ? 'wheel' : '';
       window.addEventListener("test", null, Object.defineProperty({}, 'passive', {
-        get: function () { setSupportsPassive(true); } 
+        get: function () { 
+          wheelEvent = { passive: false };
+        }
       }));
-    } catch(ex) {}
+    } catch (ex) { }
   }, []);
 
-  const wheelOpt = supportsPassive ? { passive: false } : false;
-  const wheelEvent = 'onwheel' in document.createElement('div') ? 'wheel' : 'mousewheel';
+
+
+
 
   const disableScroll = useCallback(() => {
     window.addEventListener('DOMMouseScroll', preventDefault, false); // older FF
@@ -45,7 +51,7 @@ export default function useScrollPrevent() {
 
   const enableScroll = useCallback(() => {
     window.removeEventListener('DOMMouseScroll', preventDefault, false);
-    window.removeEventListener(wheelEvent, preventDefault, wheelOpt); 
+    window.removeEventListener(wheelEvent, preventDefault, wheelOpt);
     window.removeEventListener('touchmove', preventDefault, wheelOpt);
     window.removeEventListener('keydown', preventDefaultKeys, false);
 
