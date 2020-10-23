@@ -1,4 +1,5 @@
 import React from 'react';
+import Flexbox from '../Flexbox';
 import Icon from './index';
 
 export default {
@@ -125,9 +126,14 @@ export const Story2 = (args) => {
     'linkedin1',
     'linkedin2',
   ];
-  return (<div style={{ fontSize: '30px', display: 'flex', flexWrap: 'wrap'}}>
-    {allIcons.map(icon => <><Icon icon={icon} key={icon} /></>)}
-  </div>);
+  return (
+  <Flexbox flexWrap="wrap">
+    {allIcons.map(icon => (
+      <Flexbox style={{ margin: '15px'}} justifyContent="center" alignItems="center" direction="column">
+        <Icon fontSize={30} icon={icon} key={icon} />{icon}
+      </Flexbox>
+    ))}
+  </Flexbox>);
 }
 Story2.storyName = 'Available icons';
 Story2.args = {
