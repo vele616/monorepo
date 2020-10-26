@@ -41,7 +41,7 @@ export const parameters = {
         name: 'Mobile - minimum',
         styles: {
           height: '568px',
-          width:  `${viewports.mobile - 1}px`,
+          width:  `${viewports.mobile}px`,
         },
         type: 'mobile',
       },

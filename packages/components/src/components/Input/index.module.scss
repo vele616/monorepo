@@ -3,6 +3,7 @@
 $input__padding: 6px 0 7px;
 
 
+
 .input {
   border: none;
   border-bottom: 1px solid rgba(66, 76, 109, 0.29);;
@@ -29,6 +30,13 @@ $input__padding: 6px 0 7px;
     padding-bottom: 1em;
     min-width: 225px;
     z-index: 0;
+    background-color: $white;
+
+
+    @media (max-width: #{$viewport__width--minimum + 30}px) {
+      min-width: 190px;
+    }
+
 
 
     &:before, &:after {

@@ -13,7 +13,6 @@ $limit: 500;
 
   &__grid {
     max-width: 1370px;
-    box-sizing: border-box;
     padding: 20px 50px;
     margin: auto;
 
@@ -28,6 +27,7 @@ $limit: 500;
 
     @media (min-width:  #{$limit - 1}px) and (max-width: #{$breakpoint__desktop--lower - 1}px){
       column-gap: 20px;
+      row-gap: 20px;
       padding: 20px 30px;
     }
 

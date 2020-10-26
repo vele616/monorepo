@@ -19,14 +19,11 @@ export default function useDevice(custom) {
     isLargeDesktop: false,
   });
 
-  console.log(mobileLimit)
-
   useEffect(() => {
     const isMobile = () => window.innerWidth < tabletLimit && window.innerWidth >= mobileLimit - 2;
     const isTablet = () => window.innerWidth >= tabletLimit && window.innerWidth < desktopLimit;
     const isDesktop = () => window.innerWidth >= desktopLimit;
     const isLargeDesktop = () => window.innerWidth > largeDesktopLimit;
-    console.log(isMobile(), "banana")
 
     setViewport({
       isMobile: isMobile(),

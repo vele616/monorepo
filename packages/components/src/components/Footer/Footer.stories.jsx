@@ -31,9 +31,9 @@ export const Story1 = (args) =>
         </>
       )}
     >
-      <a style={{ color: 'inherit'}} className="link">Banana</a>
-      <a style={{ color: 'inherit'}} className="link">Banana</a>
-      <a style={{ color: 'inherit'}} className="link">Banana</a>
+      <a style={{ color: 'inherit'}} className="link">Home</a>
+      <a style={{ color: 'inherit'}} className="link">Terms of use</a>
+      <a style={{ color: 'inherit'}} className="link">Privacy policy</a>
     </Footer>
   </div>;
 Story1.storyName = 'Basic';
