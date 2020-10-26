@@ -123,7 +123,7 @@ module.exports = function () {
       filename: '[name].js',
       // TODO: remove this when upgrading to webpack 5
       futureEmitAssets: true,
-      chunkFilename: 'static/js/[name].chunk.js',
+      chunkFilename: 'js/[name].chunk.js',
       // webpack uses `publicPath` to determine where the app is being served from.
       // It requires a trailing slash, or the file assets will get an incorrect path.
       // We inferred the "public path" (such as / or /my-project) from homepage.
@@ -221,7 +221,7 @@ module.exports = function () {
               loader: require.resolve('url-loader'),
               options: {
                 limit: imageInlineSizeLimit,
-                name: 'static/images/[name].[ext]',
+                name: 'images/[name].[ext]',
               },
             },
             {
@@ -314,7 +314,7 @@ module.exports = function () {
               loader: require.resolve('file-loader'),
               include: /\.(eot|ttf|woff)$/,
               options: {
-                name: 'static/fonts/[name].[ext]',
+                name: 'fonts/[name].[ext]',
               },
             },
             // In production, these files would get copied to the `build` folder.
@@ -328,7 +328,7 @@ module.exports = function () {
               // by webpacks internal loaders.
               exclude: [/\.(js|mjs|jsx|ts|tsx)$/, /\.html$/, /\.json$/,  /\.eot$/,  /\.ttf$/,  /\.woff$/],
               options: {
-                name: 'static/media/[name].[ext]',
+                name: 'media/[name].[ext]',
               },
             },
           ],
