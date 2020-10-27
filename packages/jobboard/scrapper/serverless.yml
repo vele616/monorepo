@@ -34,7 +34,7 @@ provider:
 functions:
   urlHandler:
     handler: src/urlHandler.exec
-    memorySize: 2560
+    memorySize: 768
     timeout: 180
     events:
       - schedule:
@@ -45,7 +45,7 @@ functions:
     
   jobHandler:
     handler: src/jobHandler.exec
-    memorySize: 2560
+    memorySize: 768
     timeout: 180
     events:
       - stream:
@@ -59,14 +59,14 @@ functions:
               - StreamArn  
 resources:
   Resources:
-    LogosS3:
-      Type:  'AWS::S3::Bucket'
-      Properties:
-        BucketName: ${self:provider.environment.LOGOS_S3_BUCKET}
-    MarkDownS3:
-      Type:  'AWS::S3::Bucket'
-      Properties:
-        BucketName: ${self:provider.environment.MARKDOWN_S3_BUCKET}
+    #LogosS3:
+    #  Type:  'AWS::S3::Bucket'
+    #  Properties:
+    #    BucketName: ${self:provider.environment.LOGOS_S3_BUCKET}
+    #MarkDownS3:
+    #  Type:  'AWS::S3::Bucket'
+    #  Properties:
+    #    BucketName: ${self:provider.environment.MARKDOWN_S3_BUCKET}
     SitesDynamoDbTable:
       Type: 'AWS::DynamoDB::Table'
       DeletionPolicy: Retain
