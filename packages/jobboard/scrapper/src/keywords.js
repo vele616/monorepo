@@ -312,7 +312,7 @@ module.exports = {
     elasticsearch: {        
         rating: 30,
         hashtag: '#elasticsearch',
-        keywords: ['elasticsearch'],
+        keywords: ['elasticsearch, elastic, elk, kibana'],
     },
     mongodb: {        
         rating: 30,
