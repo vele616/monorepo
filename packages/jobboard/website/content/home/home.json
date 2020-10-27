@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "CroCoder is a small group of enthusiastic developers that wishes to help others find",
+    "titleEmphasis": "fulfillment and merriment at work.",
+    "image": "../images/jobsHeader.png"
+  },
+  "footer": {
+    "image":  "../images/logoFooter.png",
+    "socialMedia": [
+      {
+        "icon": "linkedin1",
+        "link": ""
+      },
+      {
+        "icon": "youtube",
+        "link": ""
+      }
+    ]
+  },
+  "banner": {
+    "image":  "../images/contact.png",
+    "title": "get in touch",
+    "text": "We'd love to hear your thoughts",
+    "email": "hello@crocoder.dev"
+  },
+  "newsletter": {
+    "title_1": "Subscribe to ",
+    "title_2": " jobs",
+    "subtitle": "Get your daily dose of new job postings",
+    "confirm": "A confirmation of terms of services",
+    "inputLabel": "E-mail",
+    "submitButtonLabel": "Submit"
+  }
+}

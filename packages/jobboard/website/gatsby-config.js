@@ -17,7 +17,9 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
+    'gatsby-transformer-json',
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sass`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {

@@ -17,7 +17,8 @@
   "scripts": {
     "build": "webpack --mode=production",
     "storybook": "start-storybook -s ./src/assets -p 6006 ",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "start": "yarn storybook"
   },
   "eslintConfig": {
     "extends": "react-app"
