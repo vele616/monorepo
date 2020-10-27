@@ -7,7 +7,7 @@ const customTheme = create({
   base: 'light',
   brandTitle: 'CroCoder components',
   brandUrl: 'https://crocoder.dev/',
-  brandImage: '/navigation.png',
+  brandImage: '/images/navigation.png',
 
   fontBase: '"Rubik", sans-serif',
   fontCode: 'monospace',

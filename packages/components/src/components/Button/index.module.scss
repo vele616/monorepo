@@ -38,6 +38,7 @@ $button__outline__color--main: $green_4;
   font-size: inherit;
   padding: 16px 30px 14px 30px;
   font-family: $font-family;
+  height: 50px;
 
   &:disabled, &:disabled:hover {
     cursor: not-allowed;
@@ -108,5 +109,16 @@ $button__outline__color--main: $green_4;
     background-color: $white;
     color: $gray_5;
     border-color: $gray_5;
+  }
+}
+
+.sneaky {
+  background-color: transparent;
+  border-color: transparent;
+
+  &:hover, &:focus {
+    background-color: transparent;
+    border-color: transparent;
+    outline: none;
   }
 }

@@ -1,0 +1,113 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+
+.filter {
+  filter: grayscale(100%);
+}
+
+.grid {
+  margin: 42px auto;
+  max-width: 1150px;
+  width: 90%;
+
+  background-color: transparent;
+  grid-template-columns: 65px 65px repeat(2, minmax(0, 1fr));
+  grid-template-rows: auto auto;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+  grid-column: 2 / span 3;
+  grid-row: 1 / span 2;
+}
+
+.text {
+  background-color: $white;
+  border-radius: 6px;
+  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+  column-gap: 15px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-rows: auto auto auto auto;
+  padding: 20px 60px 20px 90px;
+  row-gap: 10px;
+}
+
+.image {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 3;
+  background-color: transparent;
+  height: auto;
+  width: 100%;
+  z-index: 1;
+}
+
+
+.upper {
+  grid-column: 1 / span 5;
+  grid-row: 1 / span 1;
+}
+
+.title {
+  @include ellipsis();
+  grid-column: 1 / span 5;
+  grid-row: 2 / span 1;
+  align-self: center;
+}
+
+.location {
+  @include ellipsis();
+  grid-column: 4 / span 2;
+  grid-row: 2 / span 1;
+  align-self: center;
+}
+
+.tags {
+  grid-column: 1 / span 5;
+  grid-row: 4 / span 1;
+  color: $gray_2;
+}
+
+@include for-phones {
+
+  .grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px;
+    margin: 30px auto;
+    width: calc(100% - 30px);
+  }
+
+  .link {
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
+  }
+
+  .image {
+    display: none;
+  }
+
+  .text {
+    grid-template-columns: 1fr;
+    row-gap: 10px;
+    padding: 20px 30px;
+  }
+
+  .title, .upper, .location {
+    grid-column: 1 / span 1;
+    grid-row: auto;
+  }
+
+  .title {
+    box-sizing: border-box;
+    white-space: normal;
+  }
+
+  .tags {
+    grid-column: 1 / span 1;
+    grid-row: 5 / span 1;
+  }
+}

@@ -40,7 +40,7 @@ Grid.propTypes = {
    * Will be used to set the grid-template-columns CSS
    * property.
    */
-  columns: PropTypes.string.isRequired,
+  columns: PropTypes.string,
 
   /**
    * Grid template areas
@@ -53,7 +53,7 @@ Grid.propTypes = {
    */
   rows: PropTypes.string,
 
-  /**
+  /** 
    * Specifies the size of the grid lines in respect to columns.
    */
   columnGap: PropTypes.string,

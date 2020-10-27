@@ -2,12 +2,12 @@
 title: "Testing Job Post - Remote"
 location: "United Kingdom - Remote OK"
 host: "https://example.com/"
-companyName: "example"
+companyName: "Example company"
 url: "https://example.com/"
 applyUrl: "https://example.com/"
 timestamp: 1602164402658
-hashtags: "#lorem, #ipsum"
-logoUrl: "https://example.com/image.jpg"
+hashtags: "#lorem, #ipsum, #bahama"
+logoUrl: ""
 companyWebsite: "https://example.com/"
 ---
 

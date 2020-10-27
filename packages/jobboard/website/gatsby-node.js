@@ -11,6 +11,9 @@ exports.onCreateWebpackConfig = ({
 }) => {
   actions.setWebpackConfig({
     resolve: {
+      alias: {
+        'react': path.resolve(path.join(__dirname, 'node_modules', 'react'))
+      },
       modules: [path.resolve(__dirname, 'src'), 'node_modules'],
       plugins: [
         new DirectoryNamedWebpackPlugin({
