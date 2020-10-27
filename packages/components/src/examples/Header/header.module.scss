@@ -5,16 +5,16 @@
   row-gap: 35px;
   margin: auto;
 
-  @include for-desktop {
+  @include mediaQuery(">=desktop"){
     row-gap: 35px;
   }
 
-  @include for-tablets {
+  @include mediaQuery(">=tabletPortrait","<desktop"){
     max-width: 100%;
     row-gap: 30px;
   }
 
-  @include for-phones {
+  @include mediaQuery(">=mobile","<tabletPortrait"){
     max-width: 100%;
     row-gap: 20px;
   }
@@ -22,7 +22,7 @@
 
 .image {
   max-width: 1100px;
-  @include for-phones {
+  @include mediaQuery(">=mobile","<desktop"){
     max-width: 100%;
   }
 }
@@ -32,16 +32,16 @@
   text-align: center;
   line-height: 32px;
 
-  @include for-desktop {
+  @include mediaQuery(">=desktop"){
     line-height: 32px;
   }
 
-  @include for-tablets {
+  @include mediaQuery(">=tabletPortrait","<desktop"){
     line-height: 32px;
     max-width: 480px;
   }
 
-  @include for-phones {
+  @include mediaQuery(">=mobile","<tabletPortrait"){
     max-width: 450px;
     line-height: 25px;
   }
@@ -50,7 +50,7 @@
 .button {
   grid-row: 4 / span 1;
 
-  @include for-phones {
+  @include mediaQuery(">=mobile","<tabletPortrait"){
     grid-row: 3 / span 1;
   }
 }

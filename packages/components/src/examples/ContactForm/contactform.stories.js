@@ -51,7 +51,7 @@ const Tempate = () => (
 );
 
 export const Story1 = Tempate.bind({});
-Story1.storyName = 'Basic usage (desktop)';
+Story1.storyName = 'Desktop';
 Story1.args = {
   label: "banana",
 }
@@ -62,13 +62,13 @@ Story1.argTypes = {
 
 
 export const Story2 = Tempate.bind({});
-Story2.storyName = 'Tablet';
+Story2.storyName = 'Tablet Landscape';
 Story2.args = {
   label: "banana",
 }
 Story2.parameters = {
   viewport: {
-    defaultViewport: 'tabletLarge'
+    defaultViewport: 'tabletLandscapeMinimum'
   }
 }
 Story2.argTypes = {
@@ -78,13 +78,13 @@ Story2.argTypes = {
 
 
 export const Story3 = Tempate.bind({});
-Story3.storyName = 'Mobile (large)';
+Story3.storyName = 'Tablet Portrait';
 Story3.args = {
   label: "banana",
 }
 Story3.parameters = {
   viewport: {
-    defaultViewport: 'mobileLarge'
+    defaultViewport: 'tabletPortraitMinimum'
   }
 }
 Story3.argTypes = {
@@ -95,13 +95,13 @@ Story3.argTypes = {
 
 
 export const Story4 = Tempate.bind({});
-Story4.storyName = 'Mobile (small)';
+Story4.storyName = 'Mobile';
 Story4.args = {
   label: "banana",
 }
 Story4.parameters = {
   viewport: {
-    defaultViewport: 'mobileSmall'
+    defaultViewport: 'mobileMinimum'
   }
 }
 Story4.argTypes = {

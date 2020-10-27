@@ -55,29 +55,29 @@ Story2.argTypes = TemplateArgTypes;
 
 
 export const Story3 = Template.bind({});
-Story3.storyName = 'Tablet (maximum)';
+Story3.storyName = 'Tablet Landscape';
 Story3.parameters = {
   viewport: {
-    defaultViewport: 'tabletLarge'
+    defaultViewport: 'tabletLandscapeMinimum'
   }
 }
 Story3.argTypes = TemplateArgTypes;
 
 
 export const Story4 = Template.bind({});
-Story4.storyName = 'Tablet (minimum)';
+Story4.storyName = 'Tablet Portrait';
 Story4.parameters = {
   viewport: {
-    defaultViewport: 'mobileLarge'
+    defaultViewport: 'tabletPortraitMinimum'
   }
 }
 Story4.argTypes = TemplateArgTypes;
 
 export const Story5 = Template.bind({});
-Story5.storyName = 'Mobile (minimum)';
+Story5.storyName = 'Mobile';
 Story5.parameters = {
   viewport: {
-    defaultViewport: 'mobileSmall'
+    defaultViewport: 'mobileMinimum'
   }
 }
 Story5.argTypes = TemplateArgTypes;

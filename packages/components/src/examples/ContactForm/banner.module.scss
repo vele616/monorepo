@@ -39,7 +39,7 @@
   font-size: inherit;
 }
 
-@include for-tablets {
+@include mediaQuery(">=tabletPortrait","<desktop"){
   .image {
     transform: translate(0, calc(-100% - 10px));
     width: 100%;
@@ -61,7 +61,7 @@
   margin-top: 10px;
 }
 
-@include for-phones {
+@include mediaQuery(">=mobile","<tabletPortrait"){
   .image {
     transform: translate(0, calc(-100% - 10px));
     width: 100%;
@@ -80,7 +80,7 @@
 }
 
 /* Small mobile edge case */
-@media (max-width: #{$viewport__width--minimum + 30}px) {
+@include mediaQuery("<=360px") {
   .text {
     padding: 30px;
   }

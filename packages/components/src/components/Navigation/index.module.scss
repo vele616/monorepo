@@ -25,11 +25,11 @@ $navigation__animation__length: 0.6s;
     color: $gray_2;
   }
 
-  @include for-tablets {
+  @include mediaQuery(">=tabletPortrait", "<desktop"){
     padding: 25px 50px;
   }
 
-  @include for-phones {
+  @include mediaQuery(">=mobile","<tabletPortrait"){
     flex-wrap: wrap;
     padding: 25px;
     padding-right: 0;
@@ -45,7 +45,7 @@ $navigation__animation__length: 0.6s;
   &__burger {
     display: none;
 
-    @include for-phones {
+   @include mediaQuery(">=mobile","<tabletPortrait"){
       display: inline-block;
     }
   }
@@ -58,7 +58,7 @@ $navigation__animation__length: 0.6s;
   &__image {
     width: 225px;
     
-    @include for-phones {
+   @include mediaQuery(">=mobile","<tabletPortrait"){
       width: 200px;
     }
   }
@@ -93,7 +93,7 @@ $navigation__animation__length: 0.6s;
 
 }
 
-@include for-phones {
+@include mediaQuery(">=mobile","<tabletPortrait"){
   /**
   * Whenever we have a closed menu,
   * we do not wish to display content.
