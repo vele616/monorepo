@@ -124,10 +124,10 @@ exports.exec = async (event) => {
         result.applyUrl,
         timestamp,
         result.content,
-        hashtags.slice(0, 3),
-        companyName ||"",
-        companyLogo ||"",
-        companyWebsite ||""
+        hashtags,
+        companyName || "",
+        companyLogo || "",
+        companyWebsite || "",
       );
 
       const titleCompany = `${result.title}-${companyName}`

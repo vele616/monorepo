@@ -401,6 +401,11 @@ module.exports = {
         keywords : ['translation', 'translate'],
     },
     // added keywords
+    content: {
+        rating: 40,
+        hashtag: '#content',
+        keywords: ['content', 'content writer', 'writer', 'article', 'copywriter'],
+    },
     accountant: {
         rating: 40,
         hashtag: '#accountant',
