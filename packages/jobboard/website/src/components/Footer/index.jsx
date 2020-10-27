@@ -1,17 +1,35 @@
 import React from 'react';
-import styled from "styled-components";
-import { StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql, Link } from 'gatsby';
+import Img from 'gatsby-image';
+import { Icon, Footer as FooterComponent } from '@crocoder-dev/components';
+import styles from './index.module.scss';
 
-const Section = styled.section`
-  padding: 0%;
-`;
 
-const Footer = () => {
+const Footer = ({ image, socialMedia }) => {
 
   return (
-    <Section>
-      I FOOTER
-    </Section>
+    <FooterComponent
+      logo={
+        <Img
+          fadeIn={false}
+          className={styles.image}
+          fluid={image ? image.childImageSharp.fluid : {}}
+          alt={'abc'}
+        />}
+      socialLinks={(
+        <>
+          {socialMedia.map(mediaLink => (
+            <Link  className={styles.icon}  key={mediaLink.icon} href={mediaLink.link}>
+              <Icon color="gray_1" icon={mediaLink.icon} />
+            </Link>
+          ))}
+        </>
+      )}
+    >
+      <Link style={{ color: 'inherit' }} className="link">Home</Link>
+      <Link style={{ color: 'inherit' }} className="link">Terms of use</Link>
+      <Link style={{ color: 'inherit' }} className="link">Privacy policy</Link>
+    </FooterComponent>
   )
 };
 
@@ -20,9 +38,11 @@ const FooterWithQuery = () => (
     query={graphql`
     query {
       homeJson {
-        Footer {
-          title
-          titleEmphasis
+        footer {
+          socialMedia {
+            link
+            icon
+          }
           image {
             childImageSharp {
               fluid {
@@ -34,7 +54,7 @@ const FooterWithQuery = () => (
       }
     }
   `}
-    render={data => (<Footer {...data.homeJson.Footer} />)}
+    render={data => (<Footer {...data.homeJson.footer} />)}
   />
 );
 

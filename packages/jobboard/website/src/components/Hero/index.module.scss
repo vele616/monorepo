@@ -1,9 +1,19 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
+
+.wrapper {
+  margin: 0 auto 60px auto;
+  @include for-phones {
+    margin: 0 auto 30px auto;
+  }
+}
+
 .grid  {
-  max-width: 1600px;
+  max-width: 1370px;
   row-gap: 25px;
+  padding: 0 70px;
   margin: auto;
+  box-sizing: border-box;
 
   @include for-desktop {
     row-gap: 25px;
@@ -11,19 +21,22 @@
 
   @include for-tablets {
     max-width: 100%;
-    row-gap: 20px;
+    padding: 0 50px;
+    row-gap: 15px;
   }
 
   @include for-phones {
     max-width: 100%;
-    row-gap: 20px;
+    padding: 0 30px;
+    row-gap: 15px;
   }
 }
 
-.image {
+.image{
   height: auto;
   width: 100%;
-  max-width: 1100px;
+
+
   @include for-phones {
     max-width: 100%;
   }
@@ -53,6 +66,6 @@
   grid-row: 4 / span 1;
 
   @include for-phones {
-    grid-row: 3 / span 1;
+    grid-row: 4 / span 1;
   }
 }
