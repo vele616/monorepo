@@ -15,6 +15,7 @@ const Typography = ({
   fontWeight,
   color,
   fontFamily,
+  textAlign,
   ...other
 }) => {
   let Component;
@@ -28,7 +29,7 @@ const Typography = ({
   }
 
   let compositeClassName = `${styles.typography} ${className} `;
-  compositeClassName += ` ${styles[`size${fontSize}`]} ${styles[`weight${fontWeight}`]} ${styles[`${fontFamily}`]}`;
+  compositeClassName += ` ${styles[`size${fontSize}`]} ${styles[textAlign]} ${styles[`weight${fontWeight}`]} ${styles[`${fontFamily}`]}`;
   if (color) {
     compositeClassName += ` ${styles[`color${color}`]}`;
   }
@@ -61,6 +62,7 @@ Typography.propTypes = {
   fontWeight: PropTypes.oneOf([100, 200, 300, 400, 500, 600, 700, 800, 900]),
   fontFamily: PropTypes.oneOf(['rubik', 'roboto']),
   title: PropTypes.string,
+  textAlign: PropTypes.oneOf(['left', 'center', 'right']),
 };
 
 Typography.defaultProps = {

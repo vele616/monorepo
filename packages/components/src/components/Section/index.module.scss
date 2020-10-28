@@ -3,9 +3,33 @@
 .section {
   max-width: 100vw;
   overflow: hidden;
+  box-sizing: border-box;
   position: relative;
+  padding: 80px 100px;
+     
+  @include mediaQuery(">=tabletLandscape", "<desktop") {
+    padding: 60px 80px;
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+    padding: 60px;
+  }
+
+  @include mediaQuery(">=360px", "<tabletPortrait") {
+    padding: 50px;
+  }
+
+  @include mediaQuery(">=mobile", "<360px") {
+    padding: 30px 20px;
+  }
 }
 
 .content {
-  
+  width: max-content;
+  margin: auto;
+  max-width:  calc(980px + (1300 - 980) * ((100vw - 1200px) / (#{$viewport__width--maximum} - 1200)));;
+   
+  @include mediaQuery("<desktop") {
+    max-width: 100%;
+  }
 }

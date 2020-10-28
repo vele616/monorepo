@@ -71,3 +71,13 @@ h6.typography { @include getFluidFontSize(14, 20); font-family: 'Rubik', sans-se
 .sizeUnset {
   font-size: unset;
 }
+
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}

@@ -15,7 +15,8 @@ const StyledSection = styled.section`
  * Use this component whenever you do not have a more specific semantic element.
  * 
  * This component specifies a padding/max-width for each supported device size and
- * wrapps content inside a container.
+ * wrapps content inside a container. You can use it to support standard spacing
+ * inside of your application.
  */
 const Section = ({ children, className, ...props}) =>(
   <StyledSection className={`${styles.section} ${className || ''}`}  {...props}>
