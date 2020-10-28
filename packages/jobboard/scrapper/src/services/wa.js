@@ -22,33 +22,77 @@ const getUrls = async (browser, url) => {
     }
   }
 
-  return await page.evaluate((remoteWords) => {
-    const jobPosted = [...document.querySelectorAll('[data-ui="job-posted"]')];
-    const isRemote = [...document.querySelectorAll("ul > li > div > div")];
-    const urls = [...document.querySelectorAll("ul > li > div > a")]
-      .map((url, i) => ({
-        url: url.href,
-        jobPostedAt: jobPosted[i].textContent,
-        isRemote: isRemote[i].textContent,
-      }))
-      .filter((t) => /(day)/g.test(t.jobPostedAt))
-      .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
-      .map((t) => t.url);
-
-    const companyName = document.querySelector(
-      'head > meta[property="og:title"]'
-    );
-    const logoUrl = document.querySelector(
-      "#app > div > div > header > div > a > img"
-    );
-
+  const selector = await page.evaluate(() => {
+    const content = document.querySelector('[data-ui="job-posted"]');
     return {
-      urls,
-      companyName: companyName ? companyName.content : undefined,
-      logoUrl: logoUrl ? logoUrl.src : null,
-      companyWebsite: document.querySelector('[data-ui="company-url"]').href,
+      content: content ? content.textContent : null,
     };
-  }, remoteWords);
+  });
+
+  if (selector.content === null) {
+    return await page.evaluate((remoteWords) => {
+      const urls = [...document.querySelectorAll("main > ul > li")]
+        .map((el) => {
+          const remote = el.querySelector('[data-ui="job-remote"]');
+          const url = el.querySelector("a");
+          return {
+            isRemote: remote ? remote.textContent : null,
+            url: url.href,
+          };
+        })
+        .filter((t) =>
+          new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+        )
+        .map((t) => t.url);
+
+      const companyName = document.querySelector(
+        'head > meta[property="og:title"]'
+      );
+      const logoUrl = document.querySelector(
+        "#app > div > div > header > div > a > img"
+      );
+
+      return {
+        urls,
+        companyName: companyName ? companyName.content : undefined,
+        logoUrl: logoUrl ? logoUrl.src : null,
+        companyWebsite: document.querySelector('[data-ui="company-url"]').href,
+      };
+    }, remoteWords);
+  } else {
+    return await page.evaluate((remoteWords) => {
+      const urls = [...document.querySelectorAll("main > div > ul > li > div")]
+        .map((el) => {
+          const remote = el.querySelector('[data-ui="job-remote"]');
+          const url = el.querySelector("a");
+          const jobPosted = el.querySelector('[data-ui="job-posted"]');
+          return {
+            isRemote: remote ? remote.textContent : null,
+            url: url.href,
+            jobPostedAt: jobPosted ? jobPosted.textContent : null,
+          };
+        })
+        .filter((t) => /(day)/g.test(t.jobPostedAt))
+        .filter((t) =>
+          new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+        )
+        .map((t) => t.url);
+
+      const companyName = document.querySelector(
+        'head > meta[property="og:title"]'
+      );
+      const logoUrl = document.querySelector(
+        "#app > div > div > header > div > a > img"
+      );
+
+      return {
+        urls,
+        companyName: companyName ? companyName.content : undefined,
+        logoUrl: logoUrl ? logoUrl.src : null,
+        companyWebsite: document.querySelector('[data-ui="company-url"]').href,
+      };
+    }, remoteWords);
+  }
 };
 
 const getJobs = async (browser, url) => {
