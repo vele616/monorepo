@@ -1,0 +1,76 @@
+@import '../../styles/main.module.scss';
+
+.card {
+  background-color: $white;
+  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+  margin: auto;
+  max-width: 1000px;
+  border-radius: 6px;
+  width: max-content;
+  overflow: hidden;
+
+  @include mediaQuery("<1000px") {
+    max-width: 100%;
+  }
+
+
+  &__content {
+    box-sizing: border-box;
+    padding: 40px 75px;
+
+    &.narrow {
+      padding: 40px 60px;
+    }
+    
+    @include mediaQuery(">=tabletPortrait", "<desktop") {
+      padding: 40px getFluidvalue(60, 75);
+
+      &.narrow {
+        padding: 40px;
+      }
+    }
+
+    @include mediaQuery(">=360px", "<tabletPortrait") {
+      padding: getFluidvalue(25, 40) getFluidvalue(40, 60);
+
+      &.narrow {
+        padding: 30px;
+      }
+    }
+
+    @include mediaQuery(">=mobile", "<360px") {
+      padding: 30px;
+
+      &.narrow {
+        padding: 30px 20px;
+      }
+    }
+
+    @include mediaQuery("<mobile") {
+      padding: 10px;
+    }
+
+  }
+
+  &__image {
+    width: 100%;
+    position: relative;
+  }
+
+}
+
+
+.title {
+  margin:0;
+  margin-bottom: 0.4em;
+}
+
+.subtitle {
+  margin:0;
+  margin-left: 2px;
+  margin-bottom: 1.25em;
+}
+
+.paragraph {
+  line-height: 1.8;
+}

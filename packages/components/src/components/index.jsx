@@ -1,4 +1,5 @@
 export { default as Button } from './Button';
+export { default as Card } from './Card';
 export { default as Flexbox } from './Flexbox';
 export { default as Footer } from './Footer';
 export { default as Grid } from './Grid';
