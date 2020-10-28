@@ -44,7 +44,7 @@ const getJobs = async (browser, url) => {
       const location1 = document.querySelector(".info > ul > li:last-child");
 
       return {
-        title: document.querySelector(".info > h2").textContent,
+        title: document.querySelector(".info > h2").textContent.trim(),
         content: parent.innerHTML
           .replace(/\n|<br>/g, "")
           .replace(/h3|h1/g, "h2")
