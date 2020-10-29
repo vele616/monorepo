@@ -44,7 +44,7 @@ const getJobs = async (browser, url) => {
       parent.removeChild(document.querySelector('body > div.external-content > div.external-content-wrap.external-2-col > main > section > div > div:nth-child(2) > div.frow.frow--centered-column.mar-t-8.mar-t-md-14'));
 
       return {
-        title: document.querySelector("header > h1").textContent,
+        title: document.querySelector("header > h1").textContent.trim(),
         content: parent.innerHTML
           .replace(/\n|<br>/g, "")
           .replace(/<strong>([^<]+)<\/strong>/g, "<h2>$1</h2>"),
