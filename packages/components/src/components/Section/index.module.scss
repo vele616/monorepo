@@ -32,4 +32,8 @@
   @include mediaQuery("<desktop") {
     max-width: 100%;
   }
+
+  @include mediaQuery(">1800}") {
+    max-width: 1600px;
+  }
 }
