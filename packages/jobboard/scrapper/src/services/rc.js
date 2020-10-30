@@ -46,9 +46,11 @@ const getJobs = async (browser, url) => {
       return {
         title: document.querySelector(".info > h2").textContent.trim(),
         content: parent.innerHTML
-          .replace(/\n|<br>/g, "")
+          .replace(/\n|&nbsp;|<br>/g, "")
           .replace(/h3|h1/g, "h2")
-          .replace(/<(p|h2|span)[a-zA-Z-=0-9":;\. ]*><strong[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/strong><\/(p|h2|span)>/g, "<h2>$1</h2>"),
+          .replace(/<strong[a-zA-Z-=0-9":;\. ]*><span[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/span><\/strong>/g, "<h2>$1</h2>")
+          .replace(/<(span|h2|p)[a-zA-Z-=0-9":;\. ]*><strong[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/strong><\/(span|h2|p)>/g, "<h2>$2</h2>")
+          .replace(/<(h2|span|strong)[a-zA-Z-=0-9":;\. ]*><(span|a)[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/(span|a)><\/(h2|span|strong)>/g, "<p>$3</p>"),
         location: location1 ? location1.textContent.trim() : null,
       };
     })),
