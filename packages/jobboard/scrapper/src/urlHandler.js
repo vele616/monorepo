@@ -85,7 +85,7 @@ exports.exec = async (event) => {
             TableName: process.env.URLS_TABLE,
             Key: { url },
             UpdateExpression:
-              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, urlHash = :urlHash",
+              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable",
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": event.url,
@@ -95,7 +95,6 @@ exports.exec = async (event) => {
               ":crawlable": true,
               ":archived": false,
               ":companyLogo": `${process.env.LOGOS_S3_URL}/${logoKey}`,
-              ":urlHash": nanoid(),
               ":companyWebsite": companyWebsite,
               ":platform": event.platform,
             },
