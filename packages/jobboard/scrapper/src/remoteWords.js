@@ -3,4 +3,5 @@ module.exports = [
   'distributed',
   'remote',
   'various',
+  'global',
 ];

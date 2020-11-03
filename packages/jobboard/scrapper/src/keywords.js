@@ -200,7 +200,7 @@ module.exports = {
     express: {        
         rating: 100,
         hashtag:'#expressjs',
-        keywords: ['express', 'expressjs', 'express.js'],
+        keywords: ['expressjs', 'express.js'],
     },
     jquery: {        
         rating: 100,
@@ -312,7 +312,7 @@ module.exports = {
     elasticsearch: {        
         rating: 30,
         hashtag: '#elasticsearch',
-        keywords: ['elasticsearch, elastic, elk, kibana'],
+        keywords: ['elasticsearch', 'elastic', 'elk', 'kibana'],
     },
     mongodb: {        
         rating: 30,
@@ -404,7 +404,7 @@ module.exports = {
     content: {
         rating: 40,
         hashtag: '#content',
-        keywords: ['content', 'content writer', 'writer', 'article', 'copywriter'],
+        keywords: ['content', 'content writer', 'writer', 'copywriter'],
     },
     accountant: {
         rating: 40,
@@ -459,7 +459,7 @@ module.exports = {
     designer: {
         rating: 40,
         hashtag: '#ui/ux',
-        keywords: ['designer', 'designing', 'design', 'ui', 'ux', 'ui/ux'],
+        keywords: ['designer', 'designing', 'ui', 'ux', 'ui/ux'],
     },
     figma: {
         rating: 30,
