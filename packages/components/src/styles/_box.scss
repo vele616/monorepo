@@ -1,9 +1,20 @@
 @import './_media.scss';
 
-$section__padding--desktop: 100px 0;
-$section__padding--tablet: 75px 50px;
-$section__padding--mobile: 40px;
+$section__content--max-width: 1370px;
+$card__content--max-width: 1000px;
 
-$base__padding--desktop: 100px;
-$base__padding--tablet: 50px;
-$base__padding--mobile: 40px;
+/**
+  Horizontal padding applied to sections
+*/
+$section__padding--desktop: 100px;
+$section__padding--tabletLandscape: 80px;
+$section__padding--tabletPortrait: 60px;
+$section__padding--mobile: 50px;
+$section__padding--mobileMini: 20px;
+
+/**
+  Horizontal padding applied to cards
+*/
+$card__padding--desktop: 75px;
+$card__padding--mobileMini: 30px;
+

@@ -17,7 +17,7 @@ $custom__desktop: 1300;
   position: relative;
   min-height: 355px;
 
-  max-width: 1370px;
+  max-width: $section__content--max-width;
   margin: auto;
   padding: 30px 90px;
   box-sizing: border-box;

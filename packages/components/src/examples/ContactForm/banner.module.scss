@@ -10,7 +10,7 @@
 }
 
 .grid {
-  max-width: 1370px;
+  max-width: $section__content--max-width;
   margin: auto;
   box-sizing: border-box;
 }
