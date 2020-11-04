@@ -3,4 +3,6 @@ module.exports = [
   'distributed',
   'remote',
   'various',
+  'global',
+  'europe',
 ];
