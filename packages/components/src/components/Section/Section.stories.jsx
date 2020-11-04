@@ -18,7 +18,7 @@ Story1.argTypes = {
 
 const CardTemplate = ({ width }) => (
   <Card
-    image={<img width="100%" src="/images/crocFriends.png" />}
+    image={<img width="100%" alt="Demo croc friends" src="/images/crocFriends.png" />}
     imageAspectRatio="2:1"
     backgroundColor="red_3"
     style={{maxWidth: width, minWidth: '265px'}}
@@ -59,17 +59,43 @@ Story2.argTypes = {
 export const Story3 = (args) =>
 <Section {...args}>
   <Flexbox flexWrap="wrap">
-    <CardTemplate width="32%"/>
-    <CardTemplate width="32%"/>
-    <CardTemplate width="32%"/>
+    <CardTemplate width="35%"/>
+    <CardTemplate width="35%"/>
+    <CardTemplate width="35%"/>
   </Flexbox>
 </Section>;
-Story2.storyName = 'With card';
-Story2.args = {
+Story3.storyName = 'With multiple cards';
+Story3.args = {
   backgroundColor: 'blue_6',
 };
-Story2.argTypes = {
+Story3.argTypes = {
   className: { control: { disable: true } },
   children: { control: { disable: true } },
   style: { control: { disable: true } },
+}
+
+
+export const Story4 = (args) =>
+<Section {...args} removeMobilePadding>
+  <CardTemplate width="100%"/>
+</Section>;
+Story4.storyName = "Remove mobile padding"
+Story4.args = {
+  backgroundColor: 'blue_6',
+};
+Story4.argTypes = {
+  className: { control: { disable: true } },
+  children: { control: { disable: true } },
+  style: { control: { disable: true } },
+  removeMobilePadding: { control: { disable: true } },
+}
+Story4.parameters = {
+  docs: {
+    description: {
+      story: "This story demonstrates the usage of the `removeMobilePadding` property. When set to true, it will remove the section defined padding for mobile screens."
+    }
+  },
+  viewport: {
+    defaultViewport: 'mobileMinimum'
+  }
 }

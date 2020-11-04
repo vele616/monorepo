@@ -18,8 +18,8 @@ const StyledSection = styled.section`
  * wrapps content inside a container. You can use it to support standard spacing
  * inside of your application.
  */
-const Section = ({ children, className, ...props}) =>(
-  <StyledSection className={`${styles.section} ${className || ''}`}  {...props}>
+const Section = ({ children, className,removeMobilePadding, ...props}) =>(
+  <StyledSection className={`${styles.section} ${className || ''} ${removeMobilePadding && styles.removeMobile}`}  {...props}>
     <div className={styles.content}>
       {children}
     </div>
@@ -27,6 +27,11 @@ const Section = ({ children, className, ...props}) =>(
 );
 
 Section.propTypes = {
+  /**
+   * If set to true, the padding will be removed for screens smaller than `tabletPortrait` minimum
+   * width.
+   */
+  removeMobilePadding: PropTypes.bool,
   children: PropTypes.node,
   /**
    * Optional. Background color of the section. Will be applied to fully available space.

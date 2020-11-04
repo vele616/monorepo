@@ -13,7 +13,7 @@ const Subtitle = ({children, ...props}) => (
   fontSize={16}
   fontFamily="rubik"
   fontWeight={300}
-  color="gray_4"
+  color="gray_2"
 >
   {children}
 </Typography>);

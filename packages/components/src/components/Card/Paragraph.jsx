@@ -12,7 +12,7 @@ const Paragraph = ({children, ...props}) => (
   element="div"
   fontSize={18}
   fontWeight={500}
-  color="gray_6"
+  color="gray_11"
 >
   {children}
 </Typography>);

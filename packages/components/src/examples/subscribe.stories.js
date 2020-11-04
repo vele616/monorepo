@@ -13,9 +13,6 @@ export default {
   },
   component: Grid,
   subcomponents: { Button, Grid, Typography, Input },
-  parameters: {
-    docs: { page: null },
-  },
 };
 
 
@@ -50,7 +47,6 @@ export const Story1 = () => (
     </Grid>
   </>
 );
-Story1.storyName = 'Basic usage (desktop)';
 Story1.storyName = 'Desktop';
 Story1.argTypes = {
   className: { control: { disable: true } },

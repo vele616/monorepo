@@ -7,22 +7,33 @@
   margin: auto;
   max-width: $card__content--max-width;
   overflow: hidden;
-  width: max-content;
+  width: 100%;
 
-  @include mediaQuery("<1000px") {
+  @include mediaQuery("<=1200px") {
     max-width: 100%;
   }
 
   &__content {
     box-sizing: border-box;
-    padding: 40px $card__padding--desktop;
 
-    &.narrow {
-      padding: 30px 60px;
+    @include mediaQuery(">=desktop") {
+      @include cardPadding("desktop", true);
+
+      &.narrow {
+        padding: 30px 60px;
+      }
     }
-    
-    @include mediaQuery(">=tabletPortrait", "<desktop") {
-      padding: 40px getFluidvalue(60, 75);
+
+    @include mediaQuery(">=tabletLandscape", "<desktop") {
+      @include cardPadding("tabletLandscape", true);
+
+      &.narrow {
+        padding: 30px 40px;
+      }
+    }
+
+    @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+      @include cardPadding("tabletPortrait", true);
 
       &.narrow {
         padding: 30px 40px;
@@ -30,19 +41,11 @@
     }
 
     @include mediaQuery(">=360px", "<tabletPortrait") {
-      padding: getFluidvalue(25, 40) getFluidvalue(40, 60);
-
-      &.narrow {
-        padding: 30px;
-      }
+      @include cardPadding("mobile", true);
     }
 
     @include mediaQuery(">=mobile", "<360px") {
-      padding: 30px $card__padding--mobileMini;
-
-      &.narrow {
-        padding: 30px 20px;
-      }
+      @include cardPadding("mobileMini", true);
     }
 
     @include mediaQuery("<mobile") {

@@ -13,10 +13,14 @@ const ContentTemplate = () => (
     <Typography style={{ marginBottom: '0.5em'}} color="gray_2" fontSize={34} fontWeight={700} fontFamily="rubik">
       James Johanson
     </Typography>
-    <Typography style={{ marginBottom: '2em'}}  color="gray_4" fontSize={12} fontWeight={300}>
-      Devloper
+    <Typography style={{ marginBottom: '1em'}}  color="gray_4" fontSize={18} fontWeight={300}>
+      Developer
     </Typography>
-    <Typography style={{ maxWidth: '500px'}} color="gray_6" fontSize={18} fontWeight={400}>
+    <Typography color="gray_6" fontSize={18} fontWeight={400}>
+    John likes to code in his spear time. He has worked for himself most of his life.
+    John likes to code in his spear time. He has worked for himself most of his life.
+    John likes to code in his spear time. He has worked for himself most of his life.
+    John likes to code in his spear time. He has worked for himself most of his life.
     John likes to code in his spear time. He has worked for himself most of his life.
     </Typography>
   </Flexbox>
