@@ -3,28 +3,16 @@
 
 .wrapper {
   padding-top: 25px;
-  padding-bottom: 60px;
 
   & > div {
     width: auto;
-
-
-    @include mediaQuery(">=viewportLimit") {
-      max-width: 1400px;
-      margin: auto;
-    }
   }
 
 }
 
 .grid  {
-  row-gap: 25px;
-  margin: auto;
   box-sizing: border-box;
-
-  @include mediaQuery(">=desktop") {
-    row-gap: 25px;
-  }
+  row-gap: 25px;
 
   @include mediaQuery(">=mobile", "<desktop"){
     row-gap: 15px;
@@ -35,23 +23,17 @@
   height: auto;
   width: 100%;
 
-
   @include mediaQuery(">=mobile", "<tabletPortrait"){
     max-width: 100%;
   }
 }
 
 .typography {
+  line-height: 32px;
   max-width: 520px;
   text-align: center;
-  line-height: 32px;
-
-  @include mediaQuery(">=desktop") {
-    line-height: 32px;
-  }
 
   @include mediaQuery(">=tabletPortrait", "<desktop") {
-    line-height: 32px;
     max-width: 480px;
   }
 

@@ -21,10 +21,10 @@ const Banner = ({ image, title, text, email }) => {
           <Typography color="gray_6" className={styles.upper} fontWeight={700} fontSize={22} element="div">
             {title} 
           </Typography>
-          <Typography color="gray_2" fontWeight={400} fontSize={30} element="div">
+          <Typography color="gray_2" fontWeight={300} fontSize={26} element="div">
             {text}
           </Typography>
-          <Typography color="green_2" fontWeight={700} fontSize={30} element="div">
+          <Typography color="green_2" fontWeight={700} fontSize={26} element="div">
             <a href={`mailto:${email}`} className={`${styles.link} link`}>
               {email}
             </a>

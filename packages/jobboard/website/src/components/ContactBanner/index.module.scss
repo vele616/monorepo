@@ -4,21 +4,25 @@
   min-height: 350px;
 
   & > div {
-    width: auto;
+    width: 100%;
   }
 }
 
 .card {
-  width: auto;
-  padding-left: 20px;
+  width: fit-content;
+  letter-spacing: 0.5px;
+  padding-left: 25px;
+  margin-left: auto;
+  margin-right: 0;
 }
 
 .upper {
   text-transform: uppercase;
+  letter-spacing: 0.25px;
 }
 
 .text {
-  width: 60%;
+  width: fit-content;
   max-width: 700px;
   position: relative;
   margin: auto 0 auto auto;
@@ -35,7 +39,7 @@
   font-size: inherit;
 }
 
-@include mediaQuery(">=mobile", "<800px"){
+@include mediaQuery(">=mobile", "<700px"){
   .image {
     transform: translate(0, calc(-100% - 10px));
     width: 100%;
@@ -43,6 +47,7 @@
 
   .card {
     padding-left: 0;
+    width: 100%;
   }
 
   .text {

@@ -9,12 +9,8 @@
   margin-top: 16px;
 }
 
-.section {
-  padding: 40px 0;
-
-  @include mediaQuery(">=mobile", "<tabletPortrait") {
-    padding: 40px;
-  }
+.section > div {
+  width: 100%;
 }
 
 .grid {
