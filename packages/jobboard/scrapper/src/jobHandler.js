@@ -4,6 +4,7 @@ const switchFunc = require("./switch");
 const template = require("./toMarkdown");
 const rake = require("./rake/index");
 const keywords = require("./keywords");
+const summarize = require('./summarize');
 
 let timeframe = 23 * 60 * 60 * 1000;
 
@@ -66,7 +67,6 @@ exports.exec = async (event) => {
       companyName,
       companyLogo,
       companyWebsite,
-      urlHash,
     } = data.dynamodb.NewImage;
     if (
       (data.eventName === "INSERT" || data.eventName === "MODIFY") &&
@@ -80,6 +80,7 @@ exports.exec = async (event) => {
         keywords
       ).keywords;
 
+      
       const hashtags = Object.entries(keywordsData)
         .map(([k, v]) => ({
           hashtag: keywords[k].hashtag,
@@ -116,6 +117,8 @@ exports.exec = async (event) => {
         })
         .map((t) => t.hashtag);
 
+      const summary = summarize(companyName, result.title, result.content, hashtags);
+      
       const file = template(
         result.title,
         result.location ||"",
@@ -128,13 +131,14 @@ exports.exec = async (event) => {
         companyName || "",
         companyLogo || "",
         companyWebsite || "",
+        summary,
       );
 
       const titleCompany = `${result.title}-${companyName}`
       .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
       .toLowerCase();
 
-      const markdownKey = `${titleCompany}-${urlHash}.md`;
+      const markdownKey = `${titleCompany}.md`;
 
       await s3
         .putObject({
