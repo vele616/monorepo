@@ -8,16 +8,14 @@ const getUrls = async (browser, url) => {
   return await page.evaluate((remoteWords) => {
     const logoUrl = document.querySelector(".header-main-logo > img");
     const companyWebsite = document.querySelector(".header-main-link");
-    const isRemote = [
-      ...document.querySelectorAll(
-        ".js-job-list-opening-meta > span:last-child"
-      ),
-    ];
-    const urls = [...document.querySelectorAll(".opening-list > div > a")]
-      .map((url, i) => ({
+    const urls = [...document.querySelectorAll('.js-card')].map((el) => {
+      const remote = el.querySelector('.col-md-4');
+      const url = el.querySelector('a');
+      return {
         url: url.href,
-        isRemote: isRemote[i].textContent,
-      }))
+        isRemote: remote ? remote.textContent : null,
+      }
+    })
       .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
       .map((t) => t.url);
 
@@ -40,7 +38,7 @@ const getJobs = async (browser, url) => {
   return {
     ...(await page.evaluate(() => {
       return {
-        title: document.querySelector(".js-job-title").textContent,
+        title: document.querySelector(".js-job-title").textContent.trim(),
         content: document
           .querySelector(".jobdesciption")
           .innerHTML.replace(/h3/g, "h2")

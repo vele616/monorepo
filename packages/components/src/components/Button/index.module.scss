@@ -1,70 +1,123 @@
-@import '../../styles/main.scss';
+@import '../../styles/main.module.scss';
+
+/**
+  * Primary button color specification
+**/
+$button__primary__box-shadow: 0px 0px 4px rgba(133, 163, 42, 0.22);
+$button__primary--main: $green_4;
+$button__primary--hover: $green_5;
+$button__primary--focus: $green_2;
 
 
-@mixin basicColorStates($focusColor, $hoverColor) {
-  &:focus, &:focus-within {
-    background: $focusColor;
-    border-color: $focusColor;
-  }
+/**
+  * Secondary button color specification
+**/
+$button__secondary__box-shadow: 0px 0px 4px rgba(254, 195, 67, 0.22);
+$button__secondary--main: $yellow_2;
+$button__secondary--hover: $yellow_3;
+$button__secondary--focus: $yellow_1;
 
-  &:hover {
-    background: $hoverColor;
-    border-color: $hoverColor;
-  }
-
-  &:disabled {
-    background: $gray_5;
-    cursor: not-allowed;
-  }
-}
-
+/**
+  * Outine button color specification
+**/
+$button__outline__background--hover: $green_5;
+$button__outline__border--focus: $green_1;
+$button__outline__border--hover: $green_5;
+$button__outline__border--main: $green_4;
+$button__outline__color--focus: $green_1;
+$button__outline__color--main: $green_4;
 
 .button {
   border-radius: 6px;
-  border: unset;
-  background: unset;
-  line-height: 1em;
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: 18px;
   font-size: inherit;
+  padding: 16px 30px 14px 30px;
+  font-family: $font-family;
+  height: 50px;
+
+  &:disabled, &:disabled:hover {
+    cursor: not-allowed;
+    background-color: $gray_5;
+    color: white;
+    border-color: $gray_5;
+  }
 }
 
-.inherit {
-  background: inherit;
-  border-color: inherit;
-  color: inherit;
-}
-
-.unset {
-  background: unset;
-  border-color: unset;
-  color: unset;
-}
-
-.basic {
-  padding: 1em 1.8em;
+.primary {
+  background-color: $button__primary--main;
+  border-color: $button__primary--main;
+  color: $white;
+  letter-spacing: 1px;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
 
-  @include for-tablets {
-    padding: 0.85em 1.5em;
+  &:hover {
+    background-color: $button__primary--hover;
+    border-color: $button__primary--hover;
   }
 
-  @include for-phones {
-    padding: 0.85em 1.9em;
+  &:focus {
+    outline: none;
+    background-color: $button__primary--focus;
+    border-color: $button__primary--focus;
+  }
+}
+
+.secondary {
+  background-color: $button__secondary--main;
+  border-color: $button__secondary--main;
+  color: $white;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: $button__secondary--hover;
+    border-color: $button__secondary--hover;
   }
 
-  &.primary {
-    background: $green_4;
-    border: 1px solid $green_4;
+  &:focus {
+    outline: none;
+    background-color: $button__secondary--focus;
+    border-color: $button__secondary--focus;
+  }
+}
+
+.outline {
+  background-color: $white;
+  border-color: $button__outline__border--main;
+  color: $button__outline__color--main;
+
+  &:hover {
+    background-color: $button__outline__background--hover;
+    border-color: $button__outline__border--hover;
     color: $white;
-    
-    @include basicColorStates($green_3, $green_5);
   }
 
-  &.secondary {
-    background: $yellow_2;
-    border: 1px solid $yellow_2;
-    color: $white;
-    
-    @include basicColorStates($yellow_1, $yellow_3);
+  &:focus {
+    background-color: $white;
+    border-color: $button__outline__border--focus;
+    color: $button__outline__color--focus;
+    outline: none;
+  }
+
+  &:disabled, &:disabled:hover {
+    cursor: not-allowed;
+    background-color: $white;
+    color: $gray_5;
+    border-color: $gray_5;
+  }
+}
+
+.sneaky {
+  background-color: transparent;
+  border-color: transparent;
+
+  &:hover, &:focus {
+    background-color: transparent;
+    border-color: transparent;
+    outline: none;
   }
 }

@@ -1,0 +1,26 @@
+body {
+  padding: 0 !important;
+  font-family: 'Roboto', sans-serif;
+}
+
+.link {
+  font-family: 'Rubik', sans-serif;
+  color: #85A32A;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #98B534;
+}
+
+.link:focus, .link:active {
+  color: #72911F;
+}
+
+.link:disabled {
+  color: #E8E8E8;
+}
+

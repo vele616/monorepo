@@ -34,6 +34,7 @@ const client = new AWS.DynamoDB.DocumentClient(dbOptions);
 
 exports.exec = async (event) => {
   let browser = null;
+  const { platform, url } = event.detail;
   const timestamp = new Date().getTime();
   try {
     browser = await chromium.puppeteer.launch({
@@ -45,8 +46,8 @@ exports.exec = async (event) => {
     });
 
     const { urls, companyName, logoUrl, companyWebsite } = await switchFunc(
-      event.platform,
-      event.url,
+      platform,
+      url,
       browser
     ).getUrls();
 
@@ -77,27 +78,26 @@ exports.exec = async (event) => {
           .promise();
       }
     }
-
+    console.log(urls);
     const result = await Promise.all(
-      urls.map((url) => {
+      urls.map((jobUrl) => {
         client
           .update({
             TableName: process.env.URLS_TABLE,
-            Key: { url },
+            Key: { url: jobUrl },
             UpdateExpression:
-              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, urlHash = :urlHash",
+              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable",
             ExpressionAttributeValues: {
               ":companyName": companyName,
-              ":host": event.url,
+              ":host": url,
               ":createdAt": timestamp,
               ":updatedAt": timestamp,
               ":published": false,
               ":crawlable": true,
               ":archived": false,
               ":companyLogo": `${process.env.LOGOS_S3_URL}/${logoKey}`,
-              ":urlHash": nanoid(),
               ":companyWebsite": companyWebsite,
-              ":platform": event.platform,
+              ":platform": platform,
             },
           })
           .promise();

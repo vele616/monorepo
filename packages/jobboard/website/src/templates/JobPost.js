@@ -1,6 +1,9 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import { JobDescription } from '../components/JobDescription';
+import Footer from '../components/Footer';
+import { Navigation, Button } from '@crocoder-dev/components';
+import CrocNav from '../images/croc-nav.svg';
 
 export const JobPostTemplate = (props) => {
   const post = props.data.markdownRemark;
@@ -23,7 +26,10 @@ export const JobPostTemplate = (props) => {
   const { html } = post;
 
   return (
-    <div>
+    <>
+      <Navigation Logo={<CrocNav />}>
+        <Button variant="secondary">Post a job</Button>
+      </Navigation>
       <JobDescription
         title={title}
         hashtags={hashtags}
@@ -36,7 +42,8 @@ export const JobPostTemplate = (props) => {
         applyUrl={applyUrl}
         timestamp={timestamp}
       />
-    </div>
+      <Footer />
+    </>
   );
 };
 

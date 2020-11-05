@@ -24,6 +24,24 @@ provider:
 functions:
   auth:
     handler: src/auth.exec
+  hub-list:
+    handler: src/hubs/list.exec
+    events:
+      - http:
+          path: hubs
+          method: get
+          authorizer: auth
+          cors: true
+  hub-create:
+    handler: src/hubs/create.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: hubs
+          authorizer: auth
+          method: post
+          cors: true
   url-list:
     handler: src/urls/list.exec
     events:

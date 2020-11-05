@@ -1,0 +1,69 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+
+.title {
+  text-align: center; 
+}
+
+.subtitle {
+  margin-top: 16px;
+}
+
+.section > div {
+  width: 100%;
+}
+
+.grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: auto auto;
+  margin: 60px auto 20px auto;
+  width: 600px;
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    margin: 20px auto;
+    max-width: 90%;
+  }
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+    row-gap: 5px;
+    max-width: 100%;
+    margin: 20px auto;
+    grid-template-columns: auto;
+  }
+}
+
+.input {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 1;
+
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
+  }
+}
+
+.button {
+  grid-column: 3 / span 2;
+  grid-row: 1 / span 1;
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+    grid-column: 1 / span 1;
+    grid-row: 3 / span 1;
+    margin-top: 20px;
+  }
+}
+
+.flex {
+  grid-column: 1 / span 2;
+  grid-row: 2 / span 1;
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+    grid-column: 1 / span 1;
+    grid-row: 2 / span 1;
+  }
+}
+
+.icon {
+  margin: 0 10px;
+}

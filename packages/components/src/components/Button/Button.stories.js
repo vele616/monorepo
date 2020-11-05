@@ -2,28 +2,28 @@ import React from 'react';
 import Button from './index';
 
 export default {
-  title: 'Example/Button',
+  title: 'Components/Button',
   component: Button,
 };
 
 const Template = (args) => <>
-  <Button styleType="basic" {...args} />
+  <Button {...args} />
 </>;
 
 export const Primary = Template.bind({});
 Primary.args = {
-  color: 'primary',
+  variant: 'primary',
   children: 'Primary',
 };
 
 export const Secondary = Template.bind({});
 Secondary.args = {
-  color: 'secondary',
+  variant: 'secondary',
   children: 'Secondary',
 };
 
-export const Unset = Template.bind({});
-Unset.args = {
-  color: 'unset',
-  children: 'Unset',
+export const Outline = Template.bind({});
+Outline.args = {
+  variant: 'outline',
+  children: 'Outline',
 };

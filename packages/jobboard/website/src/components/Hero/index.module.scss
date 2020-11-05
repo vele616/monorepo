@@ -1,0 +1,52 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+
+.wrapper {
+  padding-top: 25px;
+
+  & > div {
+    width: auto;
+  }
+
+}
+
+.grid  {
+  box-sizing: border-box;
+  row-gap: 25px;
+
+  @include mediaQuery(">=mobile", "<desktop"){
+    row-gap: 15px;
+  }
+}
+
+.image{
+  height: auto;
+  width: 100%;
+
+  @include mediaQuery(">=mobile", "<tabletPortrait"){
+    max-width: 100%;
+  }
+}
+
+.typography {
+  line-height: 32px;
+  max-width: 520px;
+  text-align: center;
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    max-width: 480px;
+  }
+
+  @include mediaQuery(">=mobile", "<tabletPortrait"){
+    max-width: 450px;
+    line-height: 25px;
+  }
+}
+
+.button {
+  grid-row: 4 / span 1;
+
+  @include mediaQuery(">=mobile", "<tabletPortrait"){
+    grid-row: 4 / span 1;
+  }
+}

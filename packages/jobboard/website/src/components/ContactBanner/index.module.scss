@@ -1,0 +1,65 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.wrapper {
+  min-height: 350px;
+
+  & > div {
+    width: 100%;
+  }
+}
+
+.card {
+  width: fit-content;
+  letter-spacing: 0.5px;
+  padding-left: 25px;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.upper {
+  text-transform: uppercase;
+  letter-spacing: 0.25px;
+}
+
+.text {
+  width: fit-content;
+  max-width: 700px;
+  position: relative;
+  margin: auto 0 auto auto;
+}
+.image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 600px;
+  transform: translate(calc(-100% + 60px), -20px);
+}
+
+.link {
+  font-size: inherit;
+}
+
+@include mediaQuery(">=mobile", "<700px"){
+  .image {
+    transform: translate(0, calc(-100% - 10px));
+    width: 100%;
+  }
+
+  .card {
+    padding-left: 0;
+    width: 100%;
+  }
+
+  .text {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+  .wrapper {
+    padding-top: 366px / 800px * 100%;
+    min-height: auto;
+  }
+}
+
+

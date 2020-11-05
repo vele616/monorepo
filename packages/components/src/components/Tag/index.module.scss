@@ -1,0 +1,59 @@
+@import '../../styles/main.module.scss';
+
+$sizes: (
+  // (maxSize, minSize)
+  "12": (12, 10),
+  "14": (14, 12),
+  "16": (16, 14),
+  "18": (18, 14),
+  "20": (20, 14),
+  "22": (22, 14),
+  "24": (24, 14),
+  "26": (26, 16),
+  "30": (30, 20),
+  "34": (34, 20),
+  "36": (36, 26),
+  "44": (44, 25),
+  "50": (50, 25),
+  "65": (65, 34),
+);
+
+$weight: 100, 200, 300, 400, 500, 600, 700, 800, 900;
+
+
+.tag {
+  border-radius: 15px;
+  cursor: default;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+  line-height: normal;
+  letter-spacing: 0.75px;
+  padding: 0.4em 0.7em;
+  transition: font-size  0.7s cubic-bezier(0, 0.55, 0.45, 1), color  0.7s cubic-bezier(0, 0.55, 0.45, 1);
+  user-select: none;
+}
+
+.tag + .tag {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+
+// Dynamic color class definition
+@each $name, $value in $colors {
+  .color#{$name} {
+    background-color: $value;
+    color: map-get($contrasts, $name);
+  }
+}
+
+
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
