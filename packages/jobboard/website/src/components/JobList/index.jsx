@@ -3,7 +3,7 @@ import { Typography, Flexbox, Grid, Card, Tag, Icon } from '@crocoder-dev/compon
 import styles from './index.module.scss';
 
 
-const JobPost = ({ jobUrl, title, companyName, companyLogo, tags }) => (
+const JobPost = ({ jobUrl, title, companyName, companyLogo, tags, summary }) => (
   <Grid alignItems="center" className={styles.wrapper}>
     <img className={!!companyLogo ? styles.image : `${styles.image} ${styles.filter}`} src={companyLogo || "images/logo.png"} />
     <Card narrow className={styles.card}>
@@ -27,7 +27,7 @@ const JobPost = ({ jobUrl, title, companyName, companyLogo, tags }) => (
           }
         </Flexbox>
         <Typography color="gray_2"  fontSize={16} className={styles.lorem}>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          {summary}
         </Typography>
         <Typography textAlign="right" className={styles.post_link} fontWeight={700} fontSize={18} color="green_4">
           <a href={jobUrl} className={styles.link}>

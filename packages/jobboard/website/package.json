@@ -37,6 +37,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "postinstall": "mkdir ./static & cp -R ./node_modules/@crocoder-dev/components/lib/fonts ./static/fonts & cp -R ./node_modules/@crocoder-dev/components/lib/media ./static/media",
     "build": "gatsby build",
     "develop": "gatsby develop -p 5000",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",
