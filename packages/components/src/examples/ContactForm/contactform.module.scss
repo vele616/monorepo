@@ -17,7 +17,7 @@ $custom__desktop: 1300;
   position: relative;
   min-height: 355px;
 
-  max-width: 1370px;
+  max-width: $section__content--max-width;
   margin: auto;
   padding: 30px 90px;
   box-sizing: border-box;
@@ -63,8 +63,7 @@ $custom__desktop: 1300;
   max-width: 740px;
 }
 
-@media(min-width: #{$breakpoint__desktop--lower}px) and (max-width: #{$custom__desktop}px)
- {
+@include mediaQuery(">=desktop", "<=1300px") {
    .grid {
      padding: 30px 70px;
    }
@@ -73,10 +72,12 @@ $custom__desktop: 1300;
     padding: 20px 50px; 
    }
  }
+
+
 /**
   Tablets
 */
-@media (min-width: #{$custom__tablet}px) and (max-width: #{$breakpoint__desktop--lower - 1}px) { 
+@include mediaQuery(">=950px", "<desktop"){ 
   .grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-template-rows: repeat(3, minmax(0, 1fr));
@@ -108,7 +109,7 @@ $custom__desktop: 1300;
 }
 
 /** Mobile phones and portrait tablets */
-@media (min-width: #{$viewport__width--minimum}px) and (max-width: #{$custom__tablet - 1}px) { 
+@include mediaQuery(">=mobile", "<950px") { 
   .grid {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(5, minmax(0, 1fr));
@@ -143,16 +144,14 @@ $custom__desktop: 1300;
 
 
 /* Small mobile edge case */
-@media (max-width: #{$viewport__width--minimum + 30}px) {
+@include mediaQuery("<=360px") {
   .grid {
     padding: 30px;
   }
-
 }
 
 
-
-@media (min-width: #{$breakpoint__tablet--lower}px) and (max-width: #{$custom__tablet - 1}px) { 
+@include mediaQuery(">=tabletPortrait", "<950px"){
   .grid {
     padding: 30px 70px;
     max-width: 600px;

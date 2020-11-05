@@ -1,38 +1,38 @@
 import React from 'react';
 import Img from 'gatsby-image';
 import { StaticQuery, graphql } from 'gatsby';
-import { Typography } from '@crocoder-dev/components';
+import { Typography, Section, Card } from '@crocoder-dev/components';
 import styles from './index.module.scss';
 
 
 const Banner = ({ image, title, text, email }) => {
 
   return (
-    <div className={styles.wrapper}>
-      <div className={styles.grid}>
-        <div className={styles.text}>
-          <div className={styles.image}>
-            <Img
-              fadeIn={false}
-              fluid={image ? image.childImageSharp.fluid : {}}
-              alt={'abc'}
-            />
-          </div>
-
+    <Section className={styles.wrapper} backgroundColor="blue_6">
+      <div className={styles.text}>
+        <div className={styles.image}>
+          <Img
+            fadeIn={false}
+            fluid={image ? image.childImageSharp.fluid : {}}
+            alt={'abc'}
+          />
+        </div>
+        <Card className={styles.card} narrow>
           <Typography color="gray_6" className={styles.upper} fontWeight={700} fontSize={22} element="div">
-            {title}
+            {title} 
           </Typography>
-          <Typography color="gray_2" fontWeight={400} fontSize={30} element="div">
+          <Typography color="gray_2" fontWeight={300} fontSize={26} element="div">
             {text}
           </Typography>
-          <Typography color="green_2" fontWeight={700} fontSize={30} element="div">
+          <Typography color="green_2" fontWeight={700} fontSize={26} element="div">
             <a href={`mailto:${email}`} className={`${styles.link} link`}>
               {email}
             </a>
           </Typography>
-        </div>
+        </Card>
+
       </div>
-    </div>
+    </Section>
   );
 }
 

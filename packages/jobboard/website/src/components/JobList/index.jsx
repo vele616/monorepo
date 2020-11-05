@@ -1,34 +1,42 @@
 import React from "react";
-import { Typography, Flexbox, Grid } from '@crocoder-dev/components';
+import { Typography, Flexbox, Grid, Card, Tag, Icon } from '@crocoder-dev/components';
 import styles from './index.module.scss';
 
 
-const JobPost = ({ jobUrl, title, companyName, companyLogo, location, tags }) => (
-  <Grid alignItems="center" className={styles.grid}>
+const JobPost = ({ jobUrl, title, companyName, companyLogo, tags }) => (
+  <Grid alignItems="center" className={styles.wrapper}>
     <img className={!!companyLogo ? styles.image : `${styles.image} ${styles.filter}`} src={companyLogo || "images/logo.png"} />
-    <a href={jobUrl} className={styles.link}>
-      <Grid alignItems="center" className={styles.text}>
-        <Typography className={styles.upper} fontSize={20} color="gray_6">
-          {companyName}
+    <Card narrow className={styles.card}>
+      <Grid alignItems="baseline" className={styles.post__content}>
+      <img className={!!companyLogo ? styles.image : `${styles.mini} ${styles.filter}`} src={companyLogo || "images/logo.png"} />
+        <Typography className={styles.company_name} fontSize={20} fontWeight={700} color="gray_11">
+          <a href={jobUrl} className={styles.link}>
+            {companyName}
+          </a>
         </Typography>
-        <Typography color="green_4" className={styles.title} fontWeight={700} fontSize={26}>
+        <Typography color="gray_2" className={styles.job_position} fontWeight={700} fontSize={26}>
           {title}
         </Typography>
-       {/*  <Typography
-          color="gray_2"
-          fontSize={24}
-          className={styles.location}
-        >
-          {location}
-        </Typography> */}
         <Flexbox className={styles.tags}>
-          {tags}
+          {
+            tags && tags.split(' ').filter(t => t !== '').map(tag => (
+              <Tag>
+                {tag}
+              </Tag>
+            ))
+          }
         </Flexbox>
+        <Typography color="gray_2"  fontSize={16} className={styles.lorem}>
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </Typography>
+        <Typography textAlign="right" className={styles.post_link} fontWeight={700} fontSize={18} color="green_4">
+          <a href={jobUrl} className={styles.link}>
+            VIEW POST <Icon icon="arrow-right" className={styles.icon} />
+          </a>
+        </Typography>
       </Grid>
-    </a>
-  </Grid>
-
-
+    </Card>
+  </Grid >
 );
 
 export const JobList = ({ jobs }) => {

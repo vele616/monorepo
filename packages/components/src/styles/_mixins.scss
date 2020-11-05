@@ -10,11 +10,15 @@
 }
 
 
+@function getFluidvalue($minValue, $maxValue) {
+  @return calc(#{$minValue}px + (#{$maxValue} - #{$minValue}) * ((100vw - #{$viewport__width--minimum}px) / (#{$viewport__width--maximum} - #{$viewport__width--minimum})));
+}
+
+
 @mixin getFluidFontSize($minValue, $maxValue) {
   font-size: calc(#{$minValue}px + (#{$maxValue} - #{$minValue}) * ((100vw - #{$viewport__width--minimum}px) / (#{$viewport__width--maximum} - #{$viewport__width--minimum})));
 
-
-  @include for-desktop-large() {
+  @include mediaQuery(">viewportLimit") {
     font-size: #{$maxValue}px;
   }
 }

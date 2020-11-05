@@ -32,8 +32,7 @@ $input__padding: 6px 0 7px;
     z-index: 0;
     background-color: $white;
 
-
-    @media (max-width: #{$viewport__width--minimum + 30}px) {
+    @include mediaQuery("<=360px"){
       min-width: 190px;
     }
 
