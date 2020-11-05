@@ -8,11 +8,11 @@ const getUrls = async (browser, url) => {
 
   if (uri.searchParams.has("for")) {
     return await page.evaluate((remoteWords) => {
-      const companyName = document.querySelector("#wrapper > h1");
+      const companyName = document.querySelector('[property="og:title"]');
       const logoUrl = document.querySelector("#logo > img");
       const isRemote = [...document.querySelectorAll(".location")];
       const urls = [
-        ...document.querySelectorAll("#wrapper > section > div > a"),
+        ...document.querySelectorAll("section > div > a"),
       ]
         .map((anchor) => {
           const id = new URL(anchor.href).searchParams.get("gh_jid");
@@ -25,12 +25,14 @@ const getUrls = async (browser, url) => {
           url: url.href,
           isRemote: isRemote[i].textContent,
         }))
-        .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
+        .filter((t) =>
+          new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+        )
         .map((t) => t.url);
 
       return {
         urls,
-        companyName: companyName ? companyName.textContent : undefined,
+        companyName: companyName ? companyName.content : undefined,
         logoUrl: logoUrl ? logoUrl.src : null,
         companyWebsite: window.location.href,
       };
@@ -38,15 +40,17 @@ const getUrls = async (browser, url) => {
   }
 
   return await page.evaluate((remoteWords) => {
-    const companyName = document.querySelector("#main > h1");
-    const logoUrl = document.querySelector("#logo > img");
+    const companyName = document.querySelector("h1");
+    const logoUrl = document.querySelector("img");
     const isRemote = [...document.querySelectorAll(".location")];
-    const urls = [...document.querySelectorAll("#main > section > div > a")]
+    const urls = [...document.querySelectorAll("section > div > a")]
       .map((url, i) => ({
         url: url.href,
         isRemote: isRemote[i].textContent,
       }))
-      .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
+      .filter((t) =>
+        new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+      )
       .map((t) => t.url);
 
     return {
@@ -64,18 +68,20 @@ const getJobs = async (browser, url) => {
   return {
     ...(await page.evaluate(() => {
       return {
-        title: document.querySelector("#header > h1").textContent,
+        title: document.querySelector("#header > h1").textContent.trim(),
         content: document
           .querySelector("#content")
-          .innerHTML.replace(
-            /<p[a-zA-Z-=0-9":;\. ]*><strong[a-zA-Z-=0-9":;\. ]*>(.*?)<\/strong><\/p>/g,
-            "<p><h2>$1</h2></p>"
+          .innerHTML.replace(/<br>/g, "")
+          .replace(/(h1|h3|h4)/g, "h2")
+          .replace(
+            /<(p|div|h2)[a-zA-Z-=_0-9":;\. ]*>(.*?)<strong[a-zA-Z-=_0-9":;\. ]*>([^<]+)<\/strong>(.*?)<\/(p|div|h2)>/g,
+            "<h2>$2$3$4</h2>"
           )
           .replace(
-            /<div[a-zA-Z-=0-9":;\. ]*><strong[a-zA-Z-=0-9":;\. ]*>(.*?)<\/strong><\/div>/g,
-            "<div><h2>$1</h2></div>"
+            /<(h2|span)[a-zA-Z-=_0-9":;\. ]*>(.*?)<(span|strong)[a-zA-Z-=_0-9":;\. ]*>([^<]+)<\/(span|strong)><\/(h2|span)>/g,
+            "<span>$2$4</span>"
           )
-          .replace(/<br>/g, ""),
+          .replace(/h5/g, "p"),
         location: document.querySelector('[class="location"]').textContent,
       };
     })),

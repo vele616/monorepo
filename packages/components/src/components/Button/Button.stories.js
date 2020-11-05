@@ -22,8 +22,8 @@ Secondary.args = {
   children: 'Secondary',
 };
 
-export const Unset = Template.bind({});
-Unset.args = {
+export const Outline = Template.bind({});
+Outline.args = {
   variant: 'outline',
   children: 'Outline',
 };

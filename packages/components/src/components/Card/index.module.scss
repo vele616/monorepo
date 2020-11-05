@@ -1,0 +1,78 @@
+@import '../../styles/main.module.scss';
+
+.card {
+  background-color: $white;
+  border-radius: 6px;
+  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+  margin: auto;
+  max-width: $card__content--max-width;
+  overflow: hidden;
+  width: 100%;
+
+  @include mediaQuery("<=1200px") {
+    max-width: 100%;
+  }
+
+  &__content {
+    box-sizing: border-box;
+
+    @include mediaQuery(">=desktop") {
+      @include cardPadding("desktop", true);
+
+      &.narrow {
+        padding: 30px 60px;
+      }
+    }
+
+    @include mediaQuery(">=tabletLandscape", "<desktop") {
+      @include cardPadding("tabletLandscape", true);
+
+      &.narrow {
+        padding: 30px 40px;
+      }
+    }
+
+    @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+      @include cardPadding("tabletPortrait", true);
+
+      &.narrow {
+        padding: 30px 40px;
+      }
+    }
+
+    @include mediaQuery(">=360px", "<tabletPortrait") {
+      @include cardPadding("mobile", true);
+    }
+
+    @include mediaQuery(">=mobile", "<360px") {
+      @include cardPadding("mobileMini", true);
+    }
+
+    @include mediaQuery("<mobile") {
+      padding: 10px;
+    }
+
+  }
+
+  &__image {
+    width: 100%;
+    position: relative;
+  }
+
+}
+
+
+.title {
+  margin:0;
+  margin-bottom: 0.4em;
+}
+
+.subtitle {
+  margin:0;
+  margin-left: 2px;
+  margin-bottom: 1.25em;
+}
+
+.paragraph {
+  line-height: 1.8;
+}

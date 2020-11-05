@@ -1015,10 +1015,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@crocoder-dev/components@0.2.0-rc3":
-  version "0.2.0-rc3"
-  resolved "https://npm.pkg.github.com/download/@crocoder-dev/components/0.2.0-rc3/93c9a69f0e0b00c5013259132b83fa7457b5601ae396b303f9516437a75ce5af#9ef7f938b35494231bdb9e808b83cf5c06b27730"
-  integrity sha512-oN/+ZycPFGB7BHgBfpgRhKCHAEECF/8VfQyI3x8HtYMaOANdkI/jPvsV+OYB98TIg70Lc7gtY13aPpxeejqIyQ==
+"@crocoder-dev/components@0.3.0":
+  version "0.3.0"
+  resolved "https://npm.pkg.github.com/download/@crocoder-dev/components/0.3.0/ac7d2c8a4d89e9ac138ea4749de9c8ee678de1c7c5b3901a76a88ec5e59b0b20#9d6674a23c3818fc9b9bf2d0429970c68021389f"
+  integrity sha512-lMi1Iwz/s0N5iZ1FW9xtS6E8hudioHsTodNY65ME0/nsA9jW7gVjd2pf99CCHvZf7JbN/fTCnxpz6CVC9xUrVQ==
   dependencies:
     react-motion "^0.5.2"
 

@@ -2,7 +2,7 @@ import React from 'react';
 import styled from "styled-components";
 import { StaticQuery, graphql } from 'gatsby';
 import Img from "gatsby-image/withIEPolyfill";
-import { Grid, Typography, Button } from '@crocoder-dev/components';
+import { Grid, Typography, Button, Section, Card } from '@crocoder-dev/components';
 import styles from './index.module.scss';
 
 const Wrapper = styled.div`
@@ -13,7 +13,7 @@ const Wrapper = styled.div`
 const Hero = ({ image, title, titleEmphasis }) => {
 
   return (
-    <Wrapper className={styles.wrapper}>
+    <Section className={styles.wrapper}>
       <Grid
         justifyItems="center"
         alignItems="start"
@@ -33,7 +33,7 @@ const Hero = ({ image, title, titleEmphasis }) => {
         </Typography>
         <Button className={styles.button} variant="secondary">Post a job</Button>
       </Grid>
-    </Wrapper>
+    </Section>
   )
 };
 

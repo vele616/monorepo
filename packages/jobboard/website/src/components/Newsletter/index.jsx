@@ -1,11 +1,8 @@
 import React from 'react';
-import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
-import { Typography, Grid, Input, Button, Flexbox, Icon } from '@crocoder-dev/components';
+import { Typography, Grid, Input, Button, Flexbox, Icon, Section } from '@crocoder-dev/components';
 import styles from './index.module.scss';
 
-const Section = styled.section`
-`;
 
 const Newsletter = ({
   title_1,
