@@ -78,7 +78,7 @@ exports.exec = async (event) => {
           .promise();
       }
     }
-    console.log(urls);
+
     const result = await Promise.all(
       urls.map((jobUrl) => {
         client
@@ -95,7 +95,7 @@ exports.exec = async (event) => {
               ":published": false,
               ":crawlable": true,
               ":archived": false,
-              ":companyLogo": `${process.env.LOGOS_S3_URL}/${logoKey}`,
+              ":companyLogo": logoKey ? `${process.env.LOGOS_S3_URL}/${logoKey}`: null,
               ":companyWebsite": companyWebsite,
               ":platform": platform,
             },

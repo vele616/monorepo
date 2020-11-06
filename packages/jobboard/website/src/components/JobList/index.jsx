@@ -19,7 +19,7 @@ const JobPost = ({ jobUrl, title, companyName, companyLogo, tags, summary }) => 
         </Typography>
         <Flexbox className={styles.tags}>
           {
-            tags && tags.split(' ').filter(t => t !== '').map(tag => (
+            tags && tags.split(' ').filter(t => t !== '').slice(0, 3).map(tag => (
               <Tag>
                 {tag}
               </Tag>
