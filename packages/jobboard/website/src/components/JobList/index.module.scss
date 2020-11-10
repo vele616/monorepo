@@ -5,109 +5,189 @@
   filter: grayscale(100%);
 }
 
-.grid {
-  margin: 42px auto;
-  max-width: 1150px;
-  width: 90%;
-
-  background-color: transparent;
-  grid-template-columns: 65px 65px repeat(2, minmax(0, 1fr));
-  grid-template-rows: auto auto;
+.mini {
+  display: none;
+}
+.card {
+  box-sizing: border-box;
+  padding-left: 25px;
+  grid-column: 2 / span 2;
+  grid-row: 1 / span 1;
 }
 
-.upper {
+.wrapper {
+  background-color: transparent;
+  grid-template-columns: 65px 65px 1fr;
+  grid-template-rows: auto;
+  margin: 42px auto;
+  max-width: $card__content--max-width;
+}
+
+.company_name {
   text-transform: uppercase;
 }
 
 .link {
-  text-decoration: none;
   color: inherit;
-  grid-column: 2 / span 3;
-  grid-row: 1 / span 2;
+  text-decoration: none;
 }
 
-.text {
-  background-color: $white;
-  border-radius: 6px;
-  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
-  column-gap: 15px;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-  grid-template-rows: auto auto auto auto;
-  padding: 20px 60px 20px 90px;
-  row-gap: 10px;
-}
 
 .image {
-  grid-column: 1 / span 2;
-  grid-row: 1 / span 3;
   background-color: transparent;
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 1;
   height: auto;
   width: 100%;
   z-index: 1;
 }
 
+.post__content {
+  column-gap: 5px;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto;
+}
 
-.upper {
-  grid-column: 1 / span 5;
+.lorem {
+  grid-column: 1 / span 2;
+  grid-row: 3 / span 1;
+  margin-top: 10px;
+  line-height: 1.75;
+}
+
+
+.company_name {
+  grid-column: 1 / span 2;
+  grid-row: 2 / span 1;
+  letter-spacing: 0.25px;
+  margin-top: 3px;
+  @include ellipsis();
+}
+
+.job_position {
+  @include ellipsis();
+  align-self: center;
+  grid-column: 1 / span 1;
   grid-row: 1 / span 1;
+  letter-spacing: 0.5px;
 }
 
-.title {
-  @include ellipsis();
-  grid-column: 1 / span 5;
-  grid-row: 2 / span 1;
-  align-self: center;
-}
-
-.location {
-  @include ellipsis();
-  grid-column: 4 / span 2;
-  grid-row: 2 / span 1;
-  align-self: center;
+.post_link {
+  align-self: right;
+  grid-column: 2 / span 1;
+  grid-row: 4 / span 1;
+  margin-top: 8px;
 }
 
 .tags {
-  grid-column: 1 / span 5;
-  grid-row: 4 / span 1;
   color: $gray_2;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+  justify-content: flex-end !important;
+  @include getFluidFontSize(12, 14);
+
+  & > :first-child {
+    margin-top: 5px;
+  }
 }
 
-@include for-phones {
 
-  .grid {
-    grid-template-columns: 1fr;
-    grid-template-rows: 50px;
-    margin: 30px auto;
-    width: calc(100% - 30px);
+@include mediaQuery(">=tabletLandscape", "<desktop") {
+  .wrapper {
+    grid-template-columns: 55px 55px 1fr;
+  }
+}
+
+@include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+  .wrapper {
+    grid-template-columns: 50px 50px 1fr;
   }
 
-  .link {
+  .post__content {
+    grid-template-columns:  auto 1fr;
+  }
+
+  .tags {
+    flex-wrap: wrap !important;
+    min-width: 130px;
+    width: auto;
+    grid-row: 1 / span 2;
+
+    & > * {
+      margin-bottom: 5px;
+    }
+  }
+
+  .card {
+    padding-left: 20px;
+  }
+
+  .company_name {
     grid-column: 1 / span 1;
-    grid-row: 1 / span 1;
+  }
+}
+
+@include mediaQuery(">=mobile", "<tabletPortrait") {
+
+  .icon {
+    display: none;
+  }
+  
+  .card {
+    padding-left: 0;
+    grid-column: 1 / span 3;
+    grid-row: 1 / span 4;
+  }
+
+  .post__content {
+    grid-template-columns: 35px auto 1fr;
+    grid-template-rows: auto 1fr 1fr 1fr;
+    align-items: center !important;
   }
 
   .image {
     display: none;
   }
 
-  .text {
-    grid-template-columns: 1fr;
-    row-gap: 10px;
-    padding: 20px 30px;
+  .mini {
+    background-color: transparent;
+    display: block;
+    height: auto;
+    width: 100%;
+    z-index: 1;
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
   }
 
-  .title, .upper, .location {
-    grid-column: 1 / span 1;
+  .company_name {
+    grid-column: 2 / span 1;
+    grid-row: 1 / span 1;
+    margin-top: 0;
+  }
+
+  .post_link {
+    grid-column: 3 / span 1;
+    grid-row: 1 / span 1;
+    margin-top: 0;
+    @include getFluidFontSize(14, 20);
+  }
+
+  .job_position {
+    grid-column: 1 / span 3;
+    grid-row: auto;
+    box-sizing: border-box;
+    white-space: normal;
+    margin-top: 15px;
+  }
+
+  .lorem {
+    grid-column: 1 / span 3;
     grid-row: auto;
   }
 
-  .title {
-    box-sizing: border-box;
-    white-space: normal;
-  }
-
   .tags {
-    grid-column: 1 / span 1;
+    grid-column: 1 / span 3;
     grid-row: 5 / span 1;
+    margin-top: 8px;
   }
 }

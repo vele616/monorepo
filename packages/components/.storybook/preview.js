@@ -6,42 +6,50 @@ export const parameters = {
   viewport: {
     viewports: {
       desktopLarge: {
-        name: 'Desktop - large',
+        name: 'Desktop - maximum',
         styles: {
-          width: `${viewports.largeDesktop}px`,
+          width: viewports.viewportLimit,
           height: '1000px',
         },
         type: 'desktop'
       },
-      desktop: {
-        name: 'Desktop',
+      desktopAvg: {
+        name: 'Desktop - average',
         styles: {
-          width: `${viewports.desktop}px`,
+          width: '1920px',
+          height: '1080px',
+        },
+        type: 'desktop'
+      },
+      desktop: {
+        name: 'Desktop - minimum',
+        styles: {
+          width: viewports.desktop,
           height: '800px',
         },
         type: 'desktop'
       },
-      tabletLarge: {
-        name: 'Tablet - maximum',
+      tabletLandscapeMinimum: {
+        name: 'Tablet Landscape - minimum',
         styles: {
-          width: `${viewports.desktop - 1}px`,
+          width: viewports.tabletLandscape,
           height: '960px',
         },
         type: 'tablet',
       },
-      mobileLarge: {
-        name: 'Mobile - maximum',
+      tabletPortraitMinimum: {
+        name: 'Tablet portrait - minimum',
         styles: {
           height: '896px',
-          width: `${viewports.tablet - 1}px`,
+          width: viewports.tabletPortrait,
         },
         type: 'mobile',
       },
-      mobileSmall: {
+      mobileMinimum: {
         name: 'Mobile - minimum',
         styles: {
           height: '568px',
-          width:  `${viewports.mobile}px`,
+          width: viewports.mobile,
         },
         type: 'mobile',
       },

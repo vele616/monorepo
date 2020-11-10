@@ -17,7 +17,7 @@
   min-height: 500px;
   align-content: space-evenly;
 
-  max-width: 1370px;
+  max-width: $section__content--max-width;
   margin: auto;
   padding: 50px 90px;
   box-sizing: border-box;
@@ -67,7 +67,7 @@
   z-index: 1;
 }
 
-@include for-tablets {
+@include mediaQuery(">=tabletPortrait","<desktop"){
   .grid {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(5, minmax(0, 1fr));
@@ -106,7 +106,7 @@
 }
 
 
-@include for-phones {
+@include mediaQuery(">=mobile","<tabletPortrait"){
   .grid {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(5, minmax(0, 1fr));
@@ -142,7 +142,7 @@
 
 
 /* Small mobile edge case */
-@media (max-width: #{$viewport__width--minimum + 30}px) {
+@include mediaQuery("<=360px") {
   .grid {
     padding: 30px;
   }

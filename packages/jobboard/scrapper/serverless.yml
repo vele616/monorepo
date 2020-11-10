@@ -7,6 +7,7 @@ plugins:
   - serverless-offline
   - serverless-offline-dynamodb-streams
   - serverless-s3-local
+  - serverless-offline-aws-eventbridge
 provider:
   name: aws
   region: eu-central-1
@@ -32,16 +33,23 @@ provider:
         - dynamodb:ListStreams
       Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.URLS_TABLE}"
 functions:
+  hubHandler:
+    handler: src/hubHandler.exec
+    memorySize: 768
+    timeout: 180
+    events:
+      - schedule:
+          rate: rate(5 minutes)
   urlHandler:
     handler: src/urlHandler.exec
     memorySize: 768
     timeout: 180
     events:
-      - schedule:
-          rate: cron(15 10 ? * 6L 2002-2005)
-          input:
-            url: ${self:provider.environment.EB_LE_URL}
-            platform: ${self:provider.environment.LE_PLATFORM}
+      - eventBridge:
+          eventBus: jobboard
+          pattern:
+            source:
+              - hub.crawl
     
   jobHandler:
     handler: src/jobHandler.exec
@@ -55,7 +63,7 @@ functions:
           maximumRetryAttempts: 10
           arn:
             Fn::GetAtt:
-              - SitesDynamoDbTable
+              - URLSDynamoDbTable
               - StreamArn  
 resources:
   Resources:
@@ -67,7 +75,25 @@ resources:
     #  Type:  'AWS::S3::Bucket'
     #  Properties:
     #    BucketName: ${self:provider.environment.MARKDOWN_S3_BUCKET}
-    SitesDynamoDbTable:
+    HubsDynamoDbTable:
+      Type: 'AWS::DynamoDB::Table'
+      DeletionPolicy: Retain
+      Properties:
+        AttributeDefinitions:
+          -
+            AttributeName: url
+            AttributeType: S
+        KeySchema:
+          -
+            AttributeName: url
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+        TableName: ${self:provider.environment.URLS_TABLE}
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
+    URLSDynamoDbTable:
       Type: 'AWS::DynamoDB::Table'
       DeletionPolicy: Retain
       Properties:
@@ -86,6 +112,9 @@ resources:
         StreamSpecification:
           StreamViewType: NEW_AND_OLD_IMAGES
 custom:
+  serverless-offline-aws-eventbridge:
+    port: 4010
+    debug: true
   serverless-layers:
     packageManager: yarn
     layersDeploymentBucket: ${self:provider.environment.LAYERS_S3_BUCKET}

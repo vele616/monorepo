@@ -18,6 +18,7 @@ export const OtherJobListLimit12 = (props) => (
           hashtags
           logoUrl
           companyName
+          summary
         }
       }
     }
@@ -31,6 +32,7 @@ export const OtherJobListLimit12 = (props) => (
         tags: node.frontmatter.hashtags.replace(/,/gi, ' '),
         companyLogo: node.frontmatter.logoUrl,
         companyName: node.frontmatter.companyName,
+        summary: node.frontmatter.summary,
       }))} />
     }
     }

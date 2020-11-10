@@ -109,15 +109,14 @@ const getJobs = async (browser, url) => {
         document.querySelector('[role="main"] > div:last-child')
       );
 
+      const location = document.querySelector('[data-ui="job-location"]');
+
       return {
         title: document.querySelector("h1").textContent,
         content: parent.innerHTML
-          .replace(/h4/g, "h2")
-          .replace(/h3/g, "h2")
+          .replace(/(h3|h4)/g, "h2")
           .replace(/<br>/g, ""),
-        location: document
-          .querySelector('[data-ui="job-location"]')
-          .textContent.replace("City of Zagreb, ", ""),
+        location: location ? location.textContent.replace("City of Zagreb, ", "") : null,
       };
     })),
     url,

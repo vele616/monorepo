@@ -28,7 +28,7 @@ url: "${url}"
 applyUrl: "${applyUrl}"
 timestamp: ${timestamp}
 hashtags: "${keywords}"
-logoUrl: "${logoUrl}"
+${logoUrl ? `logoUrl: "${logoUrl}"` : ''}
 companyWebsite: "${companyWebsite}"
 summary: "${summary}"
 ---

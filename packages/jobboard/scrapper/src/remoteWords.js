@@ -4,4 +4,7 @@ module.exports = [
   'remote',
   'various',
   'global',
+  'europe',
+  'worldwide',
+  'emea',
 ];

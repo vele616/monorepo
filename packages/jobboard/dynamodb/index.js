@@ -42,8 +42,10 @@ const init = async () => {
   try {
     const client = new AWS.DynamoDB(options);
     console.log('Creating DynamoDB table');
-    const table = JSON.parse(fs.readFileSync(`./dynamodb/db.json`, 'utf8'));
-    console.log(await client.createTable(table).promise());
+    const tables = JSON.parse(fs.readFileSync(`./dynamodb/db.json`, 'utf8'));
+    for (let index = 0; index < tables.length; index++) {
+      console.log(await client.createTable(tables[index]).promise());
+    }
   } catch (err) {
     console.log(err);
   }

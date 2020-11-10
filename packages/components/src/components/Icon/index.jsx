@@ -150,12 +150,13 @@ Icon.propTypes = {
    /**
     * Font size of the icon on desktop screens.
     *  */
-   fontSize: PropTypes.oneOf([12, 14, 16, 18, 20,  22, 24, 26, 30, 34, 44, 50, 65, 'inherit', 'unset' ]),
+   fontSize: PropTypes.oneOf([12, 14, 16, 18, 20,  22, 24, 26, 30, 34, 36, 44, 50, 65, 'inherit', 'unset' ]),
    /**
     * Font weight of the icon - is passed down to the Typography component.
     */
-   fontWeight: PropTypes.oneOf([400, 700]),
-};
+   fontWeight: PropTypes.oneOf([100, 200, 300, 400, 500, 600, 700, 800, 900]),
+
+  };
 
 
 export default Icon;
