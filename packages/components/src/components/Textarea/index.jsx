@@ -1,5 +1,5 @@
-import React, { useState, useCallback } from 'react';
 import PropTypes from 'prop-types';
+import React, { useState, useCallback } from 'react';
 import styles from './index.module.scss';
 import { useRef } from 'react';
 
@@ -7,27 +7,27 @@ import { useRef } from 'react';
  * Basic textarea component of the CroCoder component library.
  */
 const Textarea = ({
-  className,
-  type,
   children,
-  disabled,
+  className,
   color,
-  onClick,
-  title,
-  style,
-  required,
-  label,
-  value,
+  disabled,
+  enableCharCount = false,
+  enableManualResize,
   error,
   errorMessage,
-  onChange,
-  enableManualResize,
-  enableCharCount = false,
-  maxLength,
-  minRows = 3,
-  maxRows = Infinity,
-  lineHeight = 16,
   fluidHeight,
+  label,
+  lineHeight = 16,
+  maxLength,
+  maxRows = Infinity,
+  minRows = 3,
+  onChange,
+  onClick,
+  required,
+  style,
+  title,
+  type,
+  value,
   ...other
 }) => {
   const [empty, setEmpty] = useState(!value);
