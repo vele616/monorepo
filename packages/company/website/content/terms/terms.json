@@ -1,0 +1,15 @@
+{
+  "title": "Terms of use",
+  "content": "content.md",
+  "license": {
+    "title": "License",
+    "content": "license.md"
+  },
+  "links": {
+    "title": "Removal of links from our website",
+    "content": "links.md"
+  },
+  "contact": {
+    "content": "contact.md"
+  }
+}
