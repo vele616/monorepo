@@ -5,7 +5,7 @@
   "scripts": {
     "postinstall": "mkdir ./static & cp -R ./node_modules/@crocoder-dev/components/lib/fonts ./static/fonts & cp -R ./node_modules/@crocoder-dev/components/lib/media ./static/media",
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "develop": "gatsby develop -p 4000",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"

@@ -7,13 +7,13 @@ import Footer from '../Footer';
 import CrocNav from '../../images/croc-nav.svg';
 
 
-const Layout = ({ children }) => {
+const Layout = ({ children, sticky }) => {
   return (
     <>
       <Navigation Logo={<Link to='/'><CrocNav /></Link>}>
       </Navigation>
        {children}
-      <Footer />
+      <Footer sticky={sticky} />
     </>
   )
 }
