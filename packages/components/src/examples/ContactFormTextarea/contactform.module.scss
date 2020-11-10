@@ -63,102 +63,102 @@ $custom__desktop: 1300;
   max-width: 740px;
 }
 
-@media(min-width: #{$breakpoint__desktop--lower}px) and (max-width: #{$custom__desktop}px)
- {
-   .grid {
-     padding: 30px 70px;
-   }
 
-   .wrapper {
-    padding: 20px 50px; 
-   }
- }
-/**
-  Tablets
-*/
-@media (min-width: #{$custom__tablet}px) and (max-width: #{$breakpoint__desktop--lower - 1}px) { 
+@include mediaQuery(">=desktop", "<=1300px") {
   .grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    grid-template-rows: repeat(3, minmax(0, 1fr));
-    padding: 30px 50px;
-    column-gap: 40px;
-  }
-
-  .image {
-    bottom: -30px;
+    padding: 30px 70px;
   }
 
   .wrapper {
-    padding: 20px 70px 30px 70px;
-  }
-
-  .title {
-    grid-column: 1 / span 2;
-  }
-
-  .email {
-    grid-column: 1 / span 1;
-    grid-row: 2 / span 1;
-  }
-
-  .name, .message, .button {
-    grid-column: 2 / span 1;
-    grid-row: auto;
+   padding: 20px 50px; 
   }
 }
 
+
+/**
+ Tablets
+*/
+@include mediaQuery(">=950px", "<desktop"){ 
+ .grid {
+   grid-template-columns: repeat(2, minmax(0, 1fr));
+   grid-template-rows: repeat(3, minmax(0, 1fr));
+   padding: 30px 50px;
+   column-gap: 40px;
+ }
+
+ .image {
+   bottom: -30px;
+ }
+
+ .wrapper {
+   padding: 20px 70px 30px 70px;
+ }
+
+ .title {
+   grid-column: 1 / span 2;
+ }
+
+ .email {
+   grid-column: 1 / span 1;
+   grid-row: 2 / span 1;
+ }
+
+ .name, .message, .button {
+   grid-column: 2 / span 1;
+   grid-row: auto;
+ }
+}
+
 /** Mobile phones and portrait tablets */
-@media (min-width: #{$viewport__width--minimum}px) and (max-width: #{$custom__tablet - 1}px) { 
-  .grid {
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(5, minmax(0, 1fr));
-    padding: 30px 40px;
-    max-width: 450px;
-  }
+@include mediaQuery(">=mobile", "<950px") { 
+ .grid {
+   grid-template-columns: 1fr;
+   grid-template-rows: repeat(5, minmax(0, 1fr));
+   padding: 30px 40px;
+   max-width: 450px;
+ }
 
-  .title {
-    grid-column: 1 / span 1;
-  }
+ .title {
+   grid-column: 1 / span 1;
+ }
 
-  .wrapper {
-    padding: 40% 15px 20px 15px;
-  }
+ .wrapper {
+   padding: 40% 15px 20px 15px;
+ }
 
-  .email, .name, .message, .button {
-    grid-column: 1 / span 1;
-    grid-row: auto;
-  }
+ .email, .name, .message, .button {
+   grid-column: 1 / span 1;
+   grid-row: auto;
+ }
 
-  .image {
-    top: 0;
-    left: -15px;
-    width: calc(100% + 30px);
-    transform: translateY(-100%);
-  }
+ .image {
+   top: 0;
+   left: -15px;
+   width: calc(100% + 30px);
+   transform: translateY(-100%);
+ }
 
-  .button {
-    margin-top: 20px;
-  }
+ .button {
+   margin-top: 20px;
+ }
 }
 
 
 /* Small mobile edge case */
-@media (max-width: #{$viewport__width--minimum + 30}px) {
-  .grid {
-    padding: 30px;
-  }
-
+@include mediaQuery("<=360px") {
+ .grid {
+   padding: 30px;
+ }
 }
 
 
+@include mediaQuery(">=tabletPortrait", "<950px"){
+ .grid {
+   padding: 30px 70px;
+   max-width: 600px;
+ }
 
-@media (min-width: #{$breakpoint__tablet--lower}px) and (max-width: #{$custom__tablet - 1}px) { 
-  .grid {
-    padding: 30px 70px;
-    max-width: 600px;
-  }
-
-  .wrapper {
-    padding: 40% 70px 20px 70px;
-  }
+ .wrapper {
+   padding: 40% 70px 20px 70px;
+ }
 }
