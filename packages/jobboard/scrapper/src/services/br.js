@@ -39,6 +39,7 @@ const getJobs = async (browser, url) => {
 
   return {
     ...(await page.evaluate(() => {
+      const location = document.querySelector(".location");
       return {
         title: document.querySelector("div > h1").textContent,
         content: document
@@ -51,7 +52,7 @@ const getJobs = async (browser, url) => {
           )
           .replace(/strong/g, "a")
           .replace(/<br>/g, ""),
-        location: document.querySelector(".location").textContent,
+        location: location ? location.textContent : null,
       };
     })),
     url,
