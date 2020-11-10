@@ -1,4 +1,4 @@
-name: Job Board - Deploy Website
+name: 👔 Job Board - Deploy Website
 on:
   workflow_dispatch
 jobs:

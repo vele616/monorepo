@@ -1,4 +1,4 @@
-name: Company - Deploy Website
+name: 🐊 Company - Deploy Website
 on:
   workflow_dispatch
 jobs:
