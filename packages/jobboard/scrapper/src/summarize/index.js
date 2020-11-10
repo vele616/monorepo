@@ -108,8 +108,11 @@ module.exports = (companyName, title, corpus, hashtags) => {
     selectedRegex = 5;
   }
 
-  console.log(createTLDR(capitalizeFirstLetter(companyName.trim()), processedTitle.toLowerCase(), lowerFirstLetter(phrase), selectedRegex));
-  console.log(createTLDR(capitalizeFirstLetter(companyName.trim()), processedTitle.toLowerCase(), lowerFirstLetter(hashtags.slice(0, 3).join(', ')), 5));
+  const summaries = createTLDR(capitalizeFirstLetter(companyName.trim()), processedTitle.toLowerCase(), lowerFirstLetter(phrase), selectedRegex);
+  const summaryBackups = createTLDR(capitalizeFirstLetter(companyName.trim()), processedTitle.toLowerCase(), lowerFirstLetter(hashtags.slice(0, 3).join(', ')), 5);
 
-  return `${capitalizeFirstLetter(companyName.trim())} is looking for ${processedTitle.toLowerCase()} that has ${addPunctuation(lowerFirstLetter(phrase))}`;
+  return {
+    summary: summaries[Math.floor(Math.random() * summaries.length)].expression,
+    summaryBackup: summaryBackups[Math.floor(Math.random() * summaryBackups.length)].expression,
+  };
 }
