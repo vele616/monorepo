@@ -17,7 +17,8 @@ const template = (
   companyName,
   logoUrl,
   companyWebsite,
-  summary
+  summary,
+  summaryBackup,
 ) =>
   `---
 title: "${title.trim()}"
@@ -31,6 +32,7 @@ hashtags: "${keywords}"
 ${logoUrl ? `logoUrl: "${logoUrl}"` : ''}
 companyWebsite: "${companyWebsite}"
 summary: "${summary}"
+summaryBackup: "${summaryBackup}"
 ---
 
 ${turndownService.turndown(sanitize(body))}
