@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "CroCoder is a small group of enthusiastic developers that wishes to help others find",
+    "titleEmphasis": "fulfillment and merriment at work.",
+    "image": "../images/jobsHeader.png"
+  },
+  "footer": {
+    "image":  "../images/logoFooter.png",
+    "socialMedia": [
+      {
+        "icon": "linkedin1",
+        "link": ""
+      },
+      {
+        "icon": "youtube",
+        "link": ""
+      }
+    ]
+  }
+}

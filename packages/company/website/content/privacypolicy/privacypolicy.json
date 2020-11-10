@@ -1,0 +1,27 @@
+{
+  "title": "Privacy Policy",
+  "content": "content.md",
+  "websitevisitors": {
+    "title": "Website Visitors",
+    "content": "websitevisitors.md"
+  },
+  "gathering": {
+    "title": "Gathering of Personally-Identifying Information",
+    "content": "gathering.md"
+  },
+  "external": {
+    "title": "Links To External Sites",
+    "content": "external.md"
+  },
+  "statistics": {
+    "title": "Aggregated Statistics",
+    "content": "statistics.md"
+  },
+  "changes": {
+    "title": "Privacy Policy Changes",
+    "content": "changes.md"
+  },
+  "contact": {
+    "content": "contact.md"
+  }
+}
