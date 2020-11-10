@@ -54,7 +54,7 @@ const FooterWithQuery = ({sticky}) => (
       }
     }
   `}
-    render={data => (<Footer {...data.homeJson.footer} sticky />)}
+    render={data => (<Footer {...data.homeJson.footer} sticky={sticky} />)}
   />
 );
 
