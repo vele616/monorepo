@@ -21,19 +21,19 @@ const Textarea = ({
   error,
   errorMessage,
   onChange,
-  enableResize,
+  enableManualResize,
   enableCharCount = false,
   maxLength,
   minRows = 3,
   maxRows = Infinity,
   lineHeight = 16,
-  enableAutoResize,
+  fluidHeight,
   ...other
 }) => {
   const [empty, setEmpty] = useState(!value);
   const [charCount, setCharCount] = useState(0);
 
-  const textAreaInitialHeight = enableAutoResize && minRows * lineHeight;
+  const textAreaInitialHeight = fluidHeight && minRows * lineHeight;
   let textAreaPreviousHeight = textAreaInitialHeight;
 
   const textAreaRef = useRef();
@@ -48,7 +48,7 @@ const Textarea = ({
     setEmpty(e.target.value.length === 0);
     setCharCount(e.target.value.length);
 
-    if (enableAutoResize && textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
+    if (fluidHeight && textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
       resize();
     }
 
@@ -60,7 +60,7 @@ const Textarea = ({
     maxLength = 500;
   }
 
-  const heightStyle = enableAutoResize ? 
+  const heightStyle = fluidHeight ? 
     { height: textAreaInitialHeight, lineHeight: `${lineHeight}px` } : {};
 
   return (
@@ -81,7 +81,7 @@ const Textarea = ({
           placeholder={label}
           maxLength={maxLength}
           className={`${styles.textarea}
-            ${enableResize ? '' : styles.textarea__disableResize}`}
+            ${enableManualResize ? '' : styles.textarea__disableResize}`}
           style={heightStyle}
           {...other}
         />
@@ -108,7 +108,7 @@ Textarea.propTypes = {
    * Adds resize handle at the bottom right corner that enables
    * user to resize textarea manually. 
    */
-  enableResize: PropTypes.bool,
+  enableManualResize: PropTypes.bool,
   /**
    * Enables character counter at the bottom right corner, just
    * below textarea. If 'maxLength' property is not set, it will
@@ -122,12 +122,12 @@ Textarea.propTypes = {
   maxLength: PropTypes.number,
   /**
    * Sets minimum number of displayed rows that textarea can have.
-   * This property will be omitted if 'enableAutoResize' property is set to 'false'.
+   * This property will be omitted if 'fluidHeight' property is set to 'false'.
    */
   minRows: PropTypes.number,
   /**
    * Sets maximum number of displayed rows that textarea can have.
-   * This property will be omitted if 'enableAutoResize' property is set to 'false'.
+   * This property will be omitted if 'fluidHeight' property is set to 'false'.
    */
   maxRows: PropTypes.number,
   /**
@@ -136,12 +136,12 @@ Textarea.propTypes = {
    * minimum number of displayed rows. Set 'maxRows' property to enable maximum number of
    * displayed rows. <strong>Notice:</strong> does not shinks,
    */
-  enableAutoResize: PropTypes.bool,
+  fluidHeight: PropTypes.bool,
   /**
    * Defines height between lines in textarea. <strong>Notice: </strong>
    * due different font families, height of textarea can be greater than it should.
    * Be sure that lineHeight is always greater than actual font size. 
-   * Enabled only if 'enableAutoResize' property is set to 'true'. 
+   * Enabled only if 'fluidHeight' property is set to 'true'. 
    */
   lineHeight: PropTypes.number,
   /**
