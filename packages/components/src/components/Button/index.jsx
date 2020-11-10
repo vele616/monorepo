@@ -42,7 +42,7 @@ Button.propTypes = {
    * Available styling of the CroCoder buttons.
    * Defined via style guide.
    */
-  variant: PropTypes.oneOf(['primary', 'secondary', 'outline', 'sneaky']),
+  variant: PropTypes.oneOf(['primary', 'secondary', 'sneaky']),
   type: PropTypes.oneOfType([PropTypes.oneOf(['button', 'reset', 'submit']), PropTypes.string]),
 };
 

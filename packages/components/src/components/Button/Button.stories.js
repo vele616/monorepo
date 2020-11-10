@@ -22,8 +22,8 @@ Secondary.args = {
   children: 'Secondary',
 };
 
-export const Outline = Template.bind({});
-Outline.args = {
-  variant: 'outline',
-  children: 'Outline',
+export const Sneaky = Template.bind({});
+Sneaky.args = {
+  variant: 'sneaky',
+  children: 'Sneaky',
 };
