@@ -87,6 +87,16 @@ $textarea__padding: 6px 0 7px;
   
   }
 
+  &__messages {
+    bottom: 0;
+    display: flex;
+    height: 1em;
+    position: absolute;
+    width: 100%;
+    font-size: 0.75em;
+    align-items: center;
+  }
+
   &__label {
     color:#424C6D;
     display: block;
@@ -105,13 +115,7 @@ $textarea__padding: 6px 0 7px;
   }
 
   &__charCounter {
-    bottom: 0;
-    font-size: 0.75em;
-    overflow: hidden;
-    position: absolute;
-    right: 0;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    margin-left: auto;
   }
 }
 
@@ -166,12 +170,9 @@ $textarea__padding: 6px 0 7px;
   }
 
   .message {
-    bottom: 0;
     color: $red_4;
-    font-size: 0.75em;
-    left: 0;
+    flex-grow: 1;
     overflow: hidden;
-    position: absolute;
     text-overflow: ellipsis;
     white-space: nowrap;
   }

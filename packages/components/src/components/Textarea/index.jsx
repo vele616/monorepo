@@ -87,10 +87,12 @@ const Textarea = ({
           style={heightStyle}
           {...other}
         />
+      <div className={styles.textarea__messages}>
         {errorMessage && error &&
-          <span className={styles.message}>{errorMessage}</span>}
+            <span className={styles.message}>{errorMessage}</span>}
         {enableCharCount &&
           <span className={styles.textarea__charCounter}>{`${charCount}/${maxLength}`}</span>}
+      </div>
     </div>
   );
 }

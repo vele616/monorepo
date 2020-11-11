@@ -42,19 +42,36 @@ Story4.args = {
   }
 };
 
-const TemplateRows = (args) => <><Textarea {...args}/><Textarea {...args}/></>;
-export const Story5 = TemplateRows.bind();
-Story5.storyName = 'Multiple textareas in row';
+export const Story5 = (args) => {
+  return (
+    <div>
+      <Textarea {...args} /><p/>
+      <Textarea {...args} enableCharCount/><p/>
+      <Textarea {...args} enableCharCount maxLength={100000}/><p/>
+      <Textarea {...args} error={false} enableCharCount/><p/>
+    </div>
+  );
+};
+Story5.storyName = 'Error messages';
 Story5.args = {
+  label: 'Banana',
+  error: true,
+  errorMessage: 'This is some really long error message that could cause some troubles!'
+};
+
+const TemplateRows = (args) => <><Textarea {...args}/><Textarea {...args}/></>;
+export const Story6 = TemplateRows.bind();
+Story6.storyName = 'Multiple textareas in row';
+Story6.args = {
   label: 'Banana',
   enableCharCount: true,
   enableManualResize: true
 };
 
 const TemplateColumns = (args) => <><Textarea {...args}/> <p/> <Textarea {...args}/></>;
-export const Story6 = TemplateColumns.bind();
-Story6.storyName = 'Multiple textareas in column';
-Story6.args = {
+export const Story7 = TemplateColumns.bind();
+Story7.storyName = 'Multiple textareas in column';
+Story7.args = {
   label: 'Banana',
   enableCharCount: true,
   enableManualResize: true
