@@ -30,7 +30,7 @@ Story2.parameters = {
 };
 
 export const Story3 = Template.bind();
-Story3.storyName = "Counter";
+Story3.storyName = "Character counter";
 Story3.args = {
   label: "Banana",
   showCharCount: true,

@@ -16,11 +16,11 @@ const Textarea = ({
   error = false,
   errorMessage,
   fluidHeight = false,
-  fluidHeightOptions = {
+  fluidHeightOptions = Object({
     minRows: 3,
     maxRows: Infinity,
     lineHeight: 16,
-  },
+  }),
   label,
   maxLength,
   onChange,
@@ -217,23 +217,16 @@ Textarea.propTypes = {
   fluidHeight: PropTypes.bool,
   /**
    * Options for fluidHeight property.
-   * See object parameters below.
-   */
-  fluidHeightOptions: PropTypes.object,
-  /**
+   * <br/><strong>minRows</strong> -
    * Sets minimum number of displayed rows that textarea can have.
-   */
-  ["fluidHeightOptions.minRows"]: PropTypes.number,
-  /**
+   * <br/><strong>maxRows</strong> -
    * Sets maximum number of displayed rows that textarea can have.
-   */
-  ["fluidHeightOptions.maxRows"]: PropTypes.number,
-  /**
+   * <br/><strong>lineHeight</strong> -
    * Defines height between lines in textarea. <strong>Notice: </strong>
    * due different font families, height of textarea can be greater than it should.
    * Be sure that lineHeight is always greater than actual font size.
    */
-  ["fluidHeightOptions.lineHeight"]: PropTypes.number,
+  fluidHeightOptions: PropTypes.object,
   /**
    * If set to true, will add a '*' character
    * to the end of the label to indicate a required textarea field.
