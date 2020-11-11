@@ -26,6 +26,7 @@ const Textarea = ({
   onClick,
   required = false,
   style,
+  textAreaStyle,
   value,
   ...other
 }) => {
@@ -109,7 +110,8 @@ const Textarea = ({
           maxLength={maxLength}
           className={`${styles.textarea}
             ${enableManualResize ? '' : styles.textarea__disableResize}`}
-          style={heightStyle}
+
+          style={{ ...heightStyle, ...textAreaStyle }}
           {...other}
         />
       <div className={styles.textarea__messages}>
