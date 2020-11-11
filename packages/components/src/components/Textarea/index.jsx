@@ -7,41 +7,25 @@ import { useRef } from 'react';
  * Basic textarea component of the CroCoder component library.
  */
 const Textarea = ({
-  autoCapitalize,
-  autoComplete,
-  autoFocus,
-  children,
   className,
-  color,
-  cols,
-  disabled,
+  disabled = false,
   enableCharCount = false,
-  enableManualResize,
-  error,
+  enableManualResize = false,
+  error = false,
   errorMessage,
-  fluidHeight,
+  fluidHeight = false,
   fluidHeightOptions = {
     minRows: 3,
     maxRows: Infinity,
     lineHeight: 16
   },
-  form,
   label,
   maxLength,
-  minLength,
-  name,
   onChange,
   onClick,
-  placeholder,
-  readOnly,
-  required,
-  rows,
-  spellCheck,
+  required = false,
   style,
-  title,
-  type,
   value,
-  wrap,
   ...other
 }) => {
   const [empty, setEmpty] = useState(!value);
@@ -90,27 +74,11 @@ const Textarea = ({
       <label className={styles.textarea__label}>{label} {required && '*'}</label>
       <textarea
           ref={textAreaRef}
-          title={title}
           disabled={disabled}
           onChange={handleChange}
-          type={type}
           aria-label={label}
           placeholder={label}
-          autoCapitalize={autoCapitalize}
-          autoComplete={autoComplete}
-          autoFocus={autoFocus}
-          color={color}
-          cols={cols}
           maxLength={maxLength}
-          form={form}
-          minLength={minLength}
-          name={name}
-          readOnly={readOnly}
-          required={required}
-          rows={rows}
-          spellCheck={spellCheck}
-          value={value}
-          wrap={wrap}
           className={`${styles.textarea}
             ${enableManualResize ? '' : styles.textarea__disableResize}`}
           style={heightStyle}
@@ -130,7 +98,6 @@ Textarea.propTypes = {
   className: PropTypes.string,
   disabled: PropTypes.bool,
   style: PropTypes.shape({}),
-  title: PropTypes.string,
   label: PropTypes.string,
   value: PropTypes.string,
   /**
@@ -188,10 +155,6 @@ Textarea.propTypes = {
   required: PropTypes.bool,
 
   //otherotherother
-};
-
-Textarea.defaultProps = {
-  disabled: false,
 };
 
 export default Textarea;
