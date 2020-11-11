@@ -5,7 +5,7 @@ import './index.scss';
 
 export default function Home() {
   return (
-    <Layout sticky>
+    <Layout stickyFooter>
       <Contact />
     </Layout>
   );

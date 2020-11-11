@@ -8,7 +8,7 @@ import { Typography, Section } from '@crocoder-dev/components';
 const Terms = ({ data }) => {
   const { content, title, license, links, contact } = data.termsJson;
   return (
-    <Layout>
+    <Layout pageTitle="Terms of use">
       <Section style={{paddingTop: 0}}>
         <Typography fontSize="34" element="h1">
           {title}

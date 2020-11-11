@@ -17,7 +17,7 @@ const PrivacyPolicy = ({ data }) => {
     contact,
   } = data.privacypolicyJson;
   return (
-    <Layout>
+    <Layout pageTitle="Privacy policy">
       <Section style={{paddingTop: 0}}>
         <Typography fontSize="34" element="h1">
           {title}

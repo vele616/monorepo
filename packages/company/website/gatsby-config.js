@@ -1,8 +1,9 @@
+
+const siteConfig = require('./site-config');
+
 module.exports = {
   siteMetadata: {
-    title: ``,
-    description: ``,
-    author: ``,
+    ...siteConfig,
   },
   plugins: [
     {

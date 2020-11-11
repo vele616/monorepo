@@ -7,7 +7,7 @@ import { Section, Typography, Button } from '@crocoder-dev/components';
 const NotFound = ({ data }) => {
   const { title, image, subtitle, homepage } = data.notfoundJson;
   return (
-    <Layout>
+    <Layout pageTitle="404">
       <Section>
         <Img
           fadeIn={false}
