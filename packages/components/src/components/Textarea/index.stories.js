@@ -18,7 +18,7 @@ export const Story2 = Template.bind();
 Story2.storyName = 'Resizable';
 Story2.args = {
   label: 'Banana',
-  enableResize: true
+  enableManualResize: true
 };
 
 export const Story3 = Template.bind();
@@ -36,5 +36,23 @@ Story4.args = {
   minRows: 3,
   maxRows: 5,
   enableCharCount: true,
-  enableAutoResize: true
+  autoHeight: true
+};
+
+const TemplateRows = (args) => <><Textarea {...args}/><Textarea {...args}/></>;
+export const Story5 = TemplateRows.bind();
+Story5.storyName = 'Multiple textareas in row';
+Story5.args = {
+  label: 'Banana',
+  enableCharCount: true,
+  enableManualResize: true
+};
+
+const TemplateColumns = (args) => <><Textarea {...args}/> <p/> <Textarea {...args}/></>;
+export const Story6 = TemplateColumns.bind();
+Story6.storyName = 'Multiple textareas in column';
+Story6.args = {
+  label: 'Banana',
+  enableCharCount: true,
+  enableManualResize: true
 };
