@@ -7,9 +7,13 @@ import { useRef } from 'react';
  * Basic textarea component of the CroCoder component library.
  */
 const Textarea = ({
+  autoCapitalize,
+  autoComplete,
+  autoFocus,
   children,
   className,
   color,
+  cols,
   disabled,
   enableCharCount = false,
   enableManualResize,
@@ -21,15 +25,23 @@ const Textarea = ({
     maxRows: Infinity,
     lineHeight: 16
   },
+  form,
   label,
   maxLength,
+  minLength,
+  name,
   onChange,
   onClick,
+  placeholder,
+  readOnly,
   required,
+  rows,
+  spellCheck,
   style,
   title,
   type,
   value,
+  wrap,
   ...other
 }) => {
   const [empty, setEmpty] = useState(!value);
@@ -81,6 +93,7 @@ const Textarea = ({
           type={type}
           aria-label={label}
           placeholder={label}
+          auto
           maxLength={maxLength}
           className={`${styles.textarea}
             ${enableManualResize ? '' : styles.textarea__disableResize}`}
