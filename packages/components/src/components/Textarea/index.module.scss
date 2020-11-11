@@ -38,7 +38,7 @@ $textarea__padding: 6px 0 7px;
     position: relative;
     z-index: 0;
 
-    @media (max-width: #{$viewport__width--minimum + 30}px) {
+    @include mediaQuery("<=360px") {
       min-width: 190px;
     }
 
