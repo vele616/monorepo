@@ -1,8 +1,9 @@
-import PropTypes from 'prop-types';
-import React, { useState, useCallback } from 'react';
-import styles from './index.module.scss';
-import { useRef } from 'react';
-import { useEffect } from 'react';
+import classnames from "classnames";
+import PropTypes from "prop-types";
+import React, { useState, useCallback } from "react";
+import styles from "./index.module.scss";
+import { useRef } from "react";
+import { useEffect } from "react";
 
 /**
  * Basic textarea component of the CroCoder component library.
@@ -18,7 +19,7 @@ const Textarea = ({
   fluidHeightOptions = {
     minRows: 3,
     maxRows: Infinity,
-    lineHeight: 16
+    lineHeight: 16,
   },
   label,
   maxLength,
@@ -34,60 +35,80 @@ const Textarea = ({
   const [charCount, setCharCount] = useState(0);
   const [textAreaPreviousHeight, setTextAreaPreviousHeight] = useState(0);
   const [heightStyle, setHeightStyle] = useState(() => {
-    return fluidHeight ? { 
-        height: `${fluidHeightOptions.minRows * fluidHeightOptions.lineHeight}px`,
-        lineHeight: `${fluidHeightOptions.lineHeight}px` 
-      } : {  };
+    return fluidHeight
+      ? {
+          height: `${
+            fluidHeightOptions.minRows * fluidHeightOptions.lineHeight
+          }px`,
+          lineHeight: `${fluidHeightOptions.lineHeight}px`,
+        }
+      : {};
   });
 
   useEffect(() => {
-
-    if (process.env.NODE_ENV !== 'development') return;
+    if (process.env.NODE_ENV !== "development") return;
 
     function getMissingProperties(object, properties) {
       const keys = Object.keys(object);
-      return properties.filter(prop => !keys.includes(prop));
+      return properties.filter((prop) => !keys.includes(prop));
     }
 
     function isObject(object) {
-      return typeof object === 'object' && object !== null;
+      return typeof object === "object" && object !== null;
     }
 
     if (fluidHeight) {
       if (!isObject(fluidHeightOptions)) {
-        console.warn('fluidHeight is set to true but fluidHeightOptions attribute should be a object');
-      }
-      else {
-        const missingProperties = getMissingProperties(fluidHeightOptions, ['minRows', 'maxRows', 'lineHeight']);
+        console.warn(
+          "fluidHeight is set to true but fluidHeightOptions attribute should be a object"
+        );
+      } else {
+        const missingProperties = getMissingProperties(fluidHeightOptions, [
+          "minRows",
+          "maxRows",
+          "lineHeight",
+        ]);
         if (missingProperties.length > 0) {
-          console.warn('fluidHeight is set to true but fluidHeightOptions is missing some properties', missingProperties);
+          console.warn(
+            "fluidHeight is set to true but fluidHeightOptions is missing some properties",
+            missingProperties
+          );
         }
       }
     }
-
   }, []);
 
   const textAreaRef = useRef();
 
   const resize = useCallback(() => {
-    const rows = Math.floor((textAreaRef.current.scrollHeight) / fluidHeightOptions.lineHeight);
-    const height = `${((rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) * fluidHeightOptions.lineHeight)}px`;
-    setHeightStyle(prev => { return { ...prev, height } });
+    const rows = Math.floor(
+      textAreaRef.current.scrollHeight / fluidHeightOptions.lineHeight
+    );
+    const height = `${
+      (rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) *
+      fluidHeightOptions.lineHeight
+    }px`;
+    setHeightStyle((prev) => {
+      return { ...prev, height };
+    });
   }, [textAreaPreviousHeight, fluidHeight, fluidHeightOptions]);
 
-  const handleChange = useCallback((e) => {
-    setEmpty(e.target.value.length === 0);
-    setCharCount(e.target.value.length);
+  const handleChange = useCallback(
+    (e) => {
+      setEmpty(e.target.value.length === 0);
+      setCharCount(e.target.value.length);
 
-    if (fluidHeight) {
-      if (textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
-        resize();
+      if (fluidHeight) {
+        if (textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
+          resize();
+        }
+        setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
       }
-      setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
-    }
 
-    onChange && onChange(e);
-  }, [onChange, fluidHeight, textAreaPreviousHeight]);
+      onChange && onChange(e);
+    },
+    [onChange, fluidHeight, textAreaPreviousHeight]
+  );
 
   if (showCharCount && !maxLength) {
     maxLength = 500;
@@ -96,33 +117,42 @@ const Textarea = ({
   return (
     <div
       style={style}
-      className={`${className || ''}
-      ${error && styles.error || ''}
-      ${empty && styles.empty || ''}
-      ${styles.textarea__wrapper}`}>
-      <label className={styles.textarea__label}>{label} {required && '*'}</label>
+      className={classnames(className, styles.textarea__wrapper, {
+        [styles.error]: error,
+        [styles.empty]: empty,
+      })}
+    >
+      <label className={styles.textarea__label}>
+        {label} {required && "*"}
+      </label>
       <textarea
-          ref={textAreaRef}
-          disabled={disabled}
-          onChange={handleChange}
-          aria-label={label}
-          placeholder={label}
-          maxLength={maxLength}
-          className={`${styles.textarea}
-            ${enableManualResize ? '' : styles.textarea__disableResize}`}
-
-          style={{ ...heightStyle, ...textAreaStyle }}
-          {...other}
-        />
+        ref={textAreaRef}
+        disabled={disabled}
+        onChange={handleChange}
+        aria-label={label}
+        placeholder={label}
+        maxLength={maxLength}
+        className={classnames(styles.textarea, {
+          [styles.textarea__enableManualResize]: enableManualResize,
+        })}
+        style={{ ...heightStyle, ...textAreaStyle }}
+        {...other}
+      />
       <div className={styles.textarea__messages}>
-        {errorMessage && error &&
-          <span title={errorMessage} className={styles.message}>{errorMessage}</span>}
-        {showCharCount &&
-          <span className={styles.textarea__charCounter}>{`${charCount}/${maxLength}`}</span>}
+        {errorMessage && error && (
+          <span title={errorMessage} className={styles.message}>
+            {errorMessage}
+          </span>
+        )}
+        {showCharCount && (
+          <span
+            className={styles.textarea__charCounter}
+          >{`${charCount}/${maxLength}`}</span>
+        )}
       </div>
     </div>
   );
-}
+};
 
 Textarea.propTypes = {
   className: PropTypes.string,
@@ -136,7 +166,7 @@ Textarea.propTypes = {
   error: PropTypes.bool,
   /**
    * Adds resize handle at the bottom right corner that enables
-   * user to resize textarea manually. 
+   * user to resize textarea manually.
    */
   enableManualResize: PropTypes.bool,
   /**
@@ -147,7 +177,7 @@ Textarea.propTypes = {
   showCharCount: PropTypes.bool,
   /**
    * Sets maximum allowed character count in textarea. To display it,
-   * set 'showCharCount' property to 'true'. 
+   * set 'showCharCount' property to 'true'.
    */
   maxLength: PropTypes.number,
   /**
@@ -170,8 +200,8 @@ Textarea.propTypes = {
   /**
    * Defines height between lines in textarea. <strong>Notice: </strong>
    * due different font families, height of textarea can be greater than it should.
-   * Be sure that lineHeight is always greater than actual font size. 
-   * Enabled only if 'fluidHeight' property is set to 'true'. 
+   * Be sure that lineHeight is always greater than actual font size.
+   * Enabled only if 'fluidHeight' property is set to 'true'.
    */
   lineHeight: PropTypes.number,
   /**
