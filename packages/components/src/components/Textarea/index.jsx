@@ -157,13 +157,25 @@ const Textarea = ({
 Textarea.propTypes = {
   className: PropTypes.string,
   disabled: PropTypes.bool,
+  /**
+   * Custom CSS style for textarea wrapper element.
+   */
   style: PropTypes.shape({}),
+  /**
+   * Custom CSS style for textarea element.
+   */
+  textAreaStyle: PropTypes.object,
   label: PropTypes.string,
   value: PropTypes.string,
   /**
    * Indicator if value in textarea is not applicable.
+   * Set errorMessage to add error text.
    */
   error: PropTypes.bool,
+  /**
+   * Error message indicating not applicable value.
+   */
+  errorMessage: PropTypes.string,
   /**
    * Adds resize handle at the bottom right corner that enables
    * user to resize textarea manually.
@@ -191,13 +203,6 @@ Textarea.propTypes = {
    */
   maxRows: PropTypes.number,
   /**
-   * Enables automatic height resizing of textarea. Textarea will grow in
-   * height if it needs to on every new line. Set 'minRows' property to enable
-   * minimum number of displayed rows. Set 'maxRows' property to enable maximum number of
-   * displayed rows. <strong>Notice:</strong> does not shinks,
-   */
-  fluidHeight: PropTypes.bool,
-  /**
    * Defines height between lines in textarea. <strong>Notice: </strong>
    * due different font families, height of textarea can be greater than it should.
    * Be sure that lineHeight is always greater than actual font size.
@@ -205,16 +210,39 @@ Textarea.propTypes = {
    */
   lineHeight: PropTypes.number,
   /**
-   * Error message indicating not applicable value.
+   * Enables automatic height resizing of textarea. Textarea will grow in
+   * height if it needs to on every new line. Set 'fluidHeightOptions' property to enable
+   * minimum and maximum number of displayed rows as well as height between lines.
    */
-  errorMessage: PropTypes.string,
+  fluidHeight: PropTypes.bool,
+  /**
+   * Options for fluidHeight property.
+   * See object parameters below.
+   */
+  fluidHeightOptions: PropTypes.object,
+  /**
+   * Sets minimum number of displayed rows that textarea can have.
+   */
+  ["fluidHeightOptions.minRows"]: PropTypes.number,
+  /**
+   * Sets maximum number of displayed rows that textarea can have.
+   */
+  ["fluidHeightOptions.maxRows"]: PropTypes.number,
+  /**
+   * Defines height between lines in textarea. <strong>Notice: </strong>
+   * due different font families, height of textarea can be greater than it should.
+   * Be sure that lineHeight is always greater than actual font size.
+   */
+  ["fluidHeightOptions.lineHeight"]: PropTypes.number,
   /**
    * If set to true, will add a '*' character
    * to the end of the label to indicate a required textarea field.
    */
   required: PropTypes.bool,
-
-  //otherotherother
+  /**
+   * This object will expand itself on to textarea component, overriding default props.
+   */
+  other: PropTypes.object,
 };
 
 export default Textarea;
