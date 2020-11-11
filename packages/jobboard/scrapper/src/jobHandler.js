@@ -117,7 +117,7 @@ exports.exec = async (event) => {
         })
         .map((t) => t.hashtag);
 
-      const summary = summarize(companyName, result.title, result.content, hashtags);
+      const { summary, summaryBackup } = summarize(companyName, result.title, result.content, hashtags);
       
       const file = template(
         result.title,
@@ -132,6 +132,7 @@ exports.exec = async (event) => {
         companyLogo || "",
         companyWebsite || "",
         summary,
+        summaryBackup,
       );
 
       const titleCompany = `${result.title}-${companyName}`

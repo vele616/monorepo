@@ -1,0 +1,26 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.sticky {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.icon {
+  background: $white;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  padding-top: 12px;
+  padding-left: 12px;
+  margin-left: 14px;
+  text-decoration: none;
+}
+
+
+.image {
+  height: auto;
+  width: 100%;
+  min-width: 200px;
+}

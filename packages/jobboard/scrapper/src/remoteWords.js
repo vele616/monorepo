@@ -5,4 +5,7 @@ module.exports = [
   'various',
   'global',
   'europe',
+  'full-remote',
+  'worldwide',
+  'emea',
 ];

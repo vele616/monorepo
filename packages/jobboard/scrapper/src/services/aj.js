@@ -1,15 +1,30 @@
+const remoteWords = require("../remoteWords");
+
 const getUrls = async (browser, url) => {
   const page = await browser.newPage();
 
   await page.goto(url);
 
-  return await page.evaluate(() => {
+  return await page.evaluate((remoteWords) => {
 
     const logoUrl = document.querySelector('.brand-logo > img');
     const companyWebsite = document.querySelector('.jobs-navbar > div > a');
-    
+    const urls = [...document.querySelectorAll(".list-group-item")]
+        .map((el) => {
+          const remote = el.querySelector('h4 > a');
+          const url = el.querySelector("h4 > a");
+          return {
+            isRemote: remote ? remote.textContent : null,
+            url: url.href,
+          };
+        })
+        .filter((t) =>
+          new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+        )
+        .map((t) => t.url);
+
     return {
-      urls: [...document.querySelectorAll('.jobs-list > ul > li> h4 > a')].map(i => i.href),
+      urls,
       companyName: document
         .querySelector('[property="og:title"]')
         .getAttribute("content")
@@ -17,7 +32,7 @@ const getUrls = async (browser, url) => {
       logoUrl: logoUrl ? logoUrl.src : null,
       companyWebsite: companyWebsite ? companyWebsite.href : null,
     };
-  });
+  }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {

@@ -1,6 +1,8 @@
 org: jobboard
-app: jobboard-website
-service: jobboard-website
+service: company-website
+app: company-website
+
+
 
 provider:
   name: aws
