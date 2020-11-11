@@ -4,7 +4,7 @@ const switchFunc = require("./switch");
 const template = require("./toMarkdown");
 const rake = require("./rake/index");
 const keywords = require("./keywords");
-const summarize = require('./summarize');
+const summarize = require("./summarize");
 
 let timeframe = 23 * 60 * 60 * 1000;
 
@@ -76,11 +76,12 @@ exports.exec = async (event) => {
       const result = await switchFunc(platform, host, browser, url).getJobs();
 
       const keywordsData = rake(
-        `${result.content}. ${result.title}`.replace(/<.*?>|<.*?>|&.*?;/g, " ").replace(/,\w/, ", "),
+        `${result.content}. ${result.title}`
+          .replace(/<.*?>|<.*?>|&.*?;/g, " ")
+          .replace(/,\w/, ", "),
         keywords
       ).keywords;
 
-      
       const hashtags = Object.entries(keywordsData)
         .map(([k, v]) => ({
           hashtag: keywords[k].hashtag,
@@ -117,27 +118,50 @@ exports.exec = async (event) => {
         })
         .map((t) => t.hashtag);
 
-      const { summary, summaryBackup } = summarize(companyName, result.title, result.content, hashtags);
-      
+      const classification = Object.values(keywords)
+        .filter((k) => hashtags.includes(k.hashtag))
+        .map((i) => i.class)
+        .reduce(
+          (acc, t) => {
+            return {
+              software: acc.software + t.software,
+              other: acc.other + t.other,
+            };
+          },
+          { software: 0, other: 0 }
+        );
+
+      const jobType =
+        classification.software >= classification.other ? "software" : "other";
+
+      const { summary, summaryBackup } = summarize(
+        companyName,
+        result.title,
+        result.content,
+        hashtags
+      );
+
       const file = template(
         result.title,
-        result.location ||"",
+        result.location || "",
         host,
         result.url,
         result.applyUrl,
         timestamp,
         result.content,
         hashtags,
+        jobType,
         companyName || "",
         companyLogo || "",
         companyWebsite || "",
         summary,
-        summaryBackup,
+        summaryBackup
       );
 
       const titleCompany = `${result.title}-${companyName}`
-      .replace(/[^a-z0-9]/gi, "-").replace(/(-)\1+/g, "$1")
-      .toLowerCase();
+        .replace(/[^a-z0-9]/gi, "-")
+        .replace(/(-)\1+/g, "$1")
+        .toLowerCase();
 
       const markdownKey = `${titleCompany}.md`;
 
@@ -154,11 +178,12 @@ exports.exec = async (event) => {
           TableName: process.env.URLS_TABLE,
           Key: { url: result.url },
           UpdateExpression:
-            "set title = :title, jobPostFilename = :jobPostFilename, titleCompany = :titleCompany, crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags",
+            "set title = :title, jobPostFilename = :jobPostFilename, titleCompany = :titleCompany, crawledAt = :crawledAt, jobPostMarkdown = :jobPostMarkdown, updatedAt = :updatedAt, hashtags = :hashtags, jobType = :jobType",
           ExpressionAttributeValues: {
             ":updatedAt": timestamp,
             ":crawledAt": timestamp,
             ":hashtags": hashtags,
+            ":jobType": jobType,
             ":title": result.title,
             ":titleCompany": titleCompany,
             ":jobPostFilename": markdownKey,
