@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "directory-named-webpack-plugin": "^4.0.1",
+    "favicons": "^6.2.0",
     "prettier": "2.0.5",
     "serverless-dotenv-plugin": "^3.0.0",
     "serverless-s3-sync": "^1.15.0"
@@ -38,7 +39,9 @@
   "license": "MIT",
   "scripts": {
     "postinstall": "mkdir ./static & cp -R ./node_modules/@crocoder-dev/components/lib/fonts ./static/fonts & cp -R ./node_modules/@crocoder-dev/components/lib/media ./static/media",
-    "build": "gatsby build",
+    "build": "npm run build:dir && npm run build:favicons && gatsby build",
+    "build:dir": "mkdirp ./public/icons/",
+    "build:favicons": "node scripts/favicons",
     "develop": "gatsby develop -p 5000",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",
     "start": "npm run develop",
