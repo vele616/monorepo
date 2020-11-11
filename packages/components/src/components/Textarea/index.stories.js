@@ -24,7 +24,7 @@ Story2.parameters = {
   docs: {
     description: {
       story: `This story shows resizable textarea. 
-  User can resize it both vertically and horizontally by pulling icon in bottom right corner.`,
+      User can resize it both vertically and horizontally by pulling icon in bottom right corner.`,
     },
   },
 };
@@ -40,7 +40,7 @@ Story3.parameters = {
   docs: {
     description: {
       story: `This story shows textarea with character counter at the right bottom corner.
-  Maximum available characters that can fit in textarea in this case is 50.`,
+      Maximum available characters that can fit in textarea in this case is 50.`,
     },
   },
 };
@@ -61,8 +61,8 @@ Story4.parameters = {
   docs: {
     description: {
       story: `This story shows fluid textarea component. Textarea will be 3 rows high
-  when rendered and will grow until is 5 rows high. Textarea will add a row when there
-  is no more available space in lines above or when user press Enter key.`,
+      when rendered and will grow until is 5 rows high. Textarea will add a row when there
+      is no more available space in lines above or when user press Enter key.`,
     },
   },
 };
@@ -92,8 +92,8 @@ Story5.parameters = {
   docs: {
     description: {
       story: `This story shows multiple textarea components one below another. In this example
-  we can see how error message will shorten if there is no more available space for it.
-  Character counter will always stay in bottom right corner.`,
+      we can see how error message will shorten if there is no more available space for it.
+      Character counter will always stay in bottom right corner.`,
     },
   },
 };
