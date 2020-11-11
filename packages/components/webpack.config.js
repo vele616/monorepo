@@ -1,51 +1,52 @@
+/* eslint-disable global-require */
+/* eslint-disable import/no-dynamic-require */
 /**
  * Note: modified configuration found in create-react-app
- * 
- * 
+ *
+ *
  * Copyright (c) 2015-present, Facebook, Inc.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of create-react-app source tree.
  */
 
-// eslint-disable-next-line strict
-'use strict';
-
-const fs = require('fs');
-const path = require('path');
-const webpack = require('webpack');
-const TerserPlugin = require('terser-webpack-plugin');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-const postcssNormalize = require('postcss-normalize');
-const CopyPlugin = require('copy-webpack-plugin');
+const fs = require("fs");
+const path = require("path");
+const webpack = require("webpack");
+const TerserPlugin = require("terser-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
+const postcssNormalize = require("postcss-normalize");
+const CopyPlugin = require("copy-webpack-plugin");
 // Uncomment for testing purposes - check what's in the package
 // const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
-const { getCSSModuleLocalIdent } = require('./webpack/getCSSModuleLocalIdent');
-const { getClientEnvironment } = require('./webpack/getClientEnv');
-
+const { getCSSModuleLocalIdent } = require("./webpack/getCSSModuleLocalIdent");
+const { getClientEnvironment } = require("./webpack/getClientEnv");
 
 const appDirectory = fs.realpathSync(process.cwd());
-const resolveApp = relativePath => path.resolve(appDirectory, relativePath);
-const appPackageJson = require(resolveApp('package.json'));
-const imageInlineSizeLimit = parseInt(process.env.IMAGE_INLINE_SIZE_LIMIT || '10000');
+const resolveApp = (relativePath) => path.resolve(appDirectory, relativePath);
+const appPackageJson = require(resolveApp("package.json"));
+const imageInlineSizeLimit = parseInt(
+  process.env.IMAGE_INLINE_SIZE_LIMIT || "10000",
+  10
+);
 const cssRegex = /\.css$/;
 const cssModuleRegex = /\.module\.css$/;
 const sassRegex = /\.(scss|sass)$/;
 const sassModuleRegex = /\.module\.(scss|sass)$/;
 
-
-let publicUrlOrPath = process.env.PUBLIC_URL || require(resolveApp('package.json')).homepage || '';
-if (publicUrlOrPath && !publicUrlOrPath.endsWith('/')) {
-  publicUrlOrPath += '/';
+let publicUrlOrPath =
+  process.env.PUBLIC_URL || require(resolveApp("package.json")).homepage || "";
+if (publicUrlOrPath && !publicUrlOrPath.endsWith("/")) {
+  publicUrlOrPath += "/";
 }
 
 module.exports = function () {
   // Variable used for enabling profiling in Production
   // passed into alias object. Uses a flag if passed into the build command
-  const isEnvProductionProfile = process.argv.includes('--profile');
-  
+  const isEnvProductionProfile = process.argv.includes("--profile");
+
   const env = getClientEnvironment(publicUrlOrPath.slice(0, -1));
 
   // Common function to get style loaders
@@ -55,25 +56,27 @@ module.exports = function () {
         loader: MiniCssExtractPlugin.loader,
         // css is located in `static/css`, use '../../' to locate index.html folder
         // in production `publicUrlOrPath` can be a relative path
-        options: publicUrlOrPath.startsWith('.') ? { publicPath: '../../' } : {},
+        options: publicUrlOrPath.startsWith(".")
+          ? { publicPath: "../../" }
+          : {},
       },
       {
-        loader: require.resolve('css-loader'),
+        loader: require.resolve("css-loader"),
         options: cssOptions,
       },
       {
         // Adds vendor prefixing based on your specified browser support in
         // package.json
-        loader: require.resolve('postcss-loader'),
+        loader: require.resolve("postcss-loader"),
         options: {
           // Necessary for external CSS imports to work
           // https://github.com/facebook/create-react-app/issues/2677
-          ident: 'postcss',
+          ident: "postcss",
           plugins: () => [
-            require('postcss-flexbugs-fixes'),
-            require('postcss-preset-env')({
+            require("postcss-flexbugs-fixes"),
+            require("postcss-preset-env")({
               autoprefixer: {
-                flexbox: 'no-2009',
+                flexbox: "no-2009",
               },
               stage: 3,
             }),
@@ -89,7 +92,7 @@ module.exports = function () {
     if (preProcessor) {
       loaders.push(
         {
-          loader: require.resolve('resolve-url-loader'),
+          loader: require.resolve("resolve-url-loader"),
           options: {
             sourceMap: false,
           },
@@ -106,39 +109,38 @@ module.exports = function () {
   };
 
   return {
-    mode: 'production',
+    mode: "production",
     bail: true,
     devtool: false,
-    entry: [
-      resolveApp('src/components/index.jsx'),
-    ],
+    entry: [resolveApp("src/components/index.jsx")],
     externals: {
-      react: 'react',
-      'react-dom': 'react-dom',
-      'styled-components': 'styled-components'
+      react: "react",
+      "react-dom": "react-dom",
+      "styled-components": "styled-components",
     },
     output: {
-      path: resolveApp('lib'),
+      path: resolveApp("lib"),
       pathinfo: false,
-      filename: '[name].js',
+      filename: "[name].js",
       // TODO: remove this when upgrading to webpack 5
       futureEmitAssets: true,
-      chunkFilename: 'js/[name].chunk.js',
+      chunkFilename: "js/[name].chunk.js",
       // webpack uses `publicPath` to determine where the app is being served from.
       // It requires a trailing slash, or the file assets will get an incorrect path.
       // We inferred the "public path" (such as / or /my-project) from homepage.
       publicPath: publicUrlOrPath,
       // Point sourcemap entries to original disk location (format as URL on Windows)
-      devtoolModuleFilenameTemplate: info => path
-          .relative(resolveApp('src'), info.absoluteResourcePath)
-          .replace(/\\/g, '/'),
+      devtoolModuleFilenameTemplate: (info) =>
+        path
+          .relative(resolveApp("src"), info.absoluteResourcePath)
+          .replace(/\\/g, "/"),
       // Prevents conflicts when multiple webpack runtimes (from different apps)
       // are used on the same page.
       jsonpFunction: `webpackJsonp${appPackageJson.name}`,
       // this defaults to 'window', but by setting it to 'this' then
       // module chunks which are built will work in web workers as well.
-      globalObject: 'this',
-      libraryTarget: 'umd'
+      globalObject: "this",
+      libraryTarget: "umd",
     },
     optimization: {
       minimize: true,
@@ -183,7 +185,7 @@ module.exports = function () {
             map: false,
           },
           cssProcessorPluginOptions: {
-            preset: ['default', { minifyFontValues: { removeQuotes: false } }],
+            preset: ["default", { minifyFontValues: { removeQuotes: false } }],
           },
         }),
       ],
@@ -193,13 +195,13 @@ module.exports = function () {
       // We placed these paths second because we want `node_modules` to "win"
       // if there are any conflicts. This matches Node resolution mechanism.
       // https://github.com/facebook/create-react-app/issues/253
-      modules: ['node_modules', resolveApp('node_modules')],
-      extensions: ['.js', '.jsx', '.json'],
+      modules: ["node_modules", resolveApp("node_modules")],
+      extensions: [".js", ".jsx", ".json"],
       alias: {
         // Allows for better profiling with ReactDevTools
         ...(isEnvProductionProfile && {
-          'react-dom$': 'react-dom/profiling',
-          'scheduler/tracing': 'scheduler/tracing-profiling',
+          "react-dom$": "react-dom/profiling",
+          "scheduler/tracing": "scheduler/tracing-profiling",
         }),
       },
       plugins: [],
@@ -218,26 +220,26 @@ module.exports = function () {
             // A missing `test` is equivalent to a match.
             {
               test: [/\.bmp$/, /\.gif$/, /\.jpe?g$/, /\.png$/],
-              loader: require.resolve('url-loader'),
+              loader: require.resolve("url-loader"),
               options: {
                 limit: imageInlineSizeLimit,
-                name: 'images/[name].[ext]',
+                name: "images/[name].[ext]",
               },
             },
             {
               test: /\.(js|jsx)$/,
-              include: resolveApp('src'),
+              include: resolveApp("src"),
               exclude: /node_modules/,
-              loader: require.resolve('babel-loader'),
+              loader: require.resolve("babel-loader"),
               options: {
                 plugins: [
                   [
-                    require.resolve('babel-plugin-named-asset-import'),
+                    require.resolve("babel-plugin-named-asset-import"),
                     {
                       loaderMap: {
                         svg: {
                           ReactComponent:
-                            '@svgr/webpack?-svgo,+titleProp,+ref![path]',
+                            "@svgr/webpack?-svgo,+titleProp,+ref![path]",
                         },
                       },
                     },
@@ -289,7 +291,7 @@ module.exports = function () {
                   importLoaders: 3,
                   sourceMap: false,
                 },
-                'sass-loader'
+                "sass-loader"
               ),
               // Don't consider CSS imports dead code even if the
               // containing package claims to have no side effects.
@@ -307,28 +309,35 @@ module.exports = function () {
                     getLocalIdent: getCSSModuleLocalIdent,
                   },
                 },
-                'sass-loader'
+                "sass-loader"
               ),
             },
             {
-              loader: require.resolve('file-loader'),
+              loader: require.resolve("file-loader"),
               include: /\.(eot|ttf|woff)$/,
               options: {
-                name: 'fonts/[name].[ext]',
+                name: "fonts/[name].[ext]",
               },
             },
             // In production, these files would get copied to the `build` folder.
             // This loader doesn't use a "test" so it will catch all modules
             // that fall through the other loaders.
             {
-              loader: require.resolve('file-loader'),
+              loader: require.resolve("file-loader"),
               // Exclude `js` files to keep "css" loader working as it injects
               // its runtime that would otherwise be processed through "file" loader.
               // Also exclude `html` and `json` extensions so they get processed
               // by webpacks internal loaders.
-              exclude: [/\.(js|mjs|jsx|ts|tsx)$/, /\.html$/, /\.json$/,  /\.eot$/,  /\.ttf$/,  /\.woff$/],
+              exclude: [
+                /\.(js|mjs|jsx|ts|tsx)$/,
+                /\.html$/,
+                /\.json$/,
+                /\.eot$/,
+                /\.ttf$/,
+                /\.woff$/,
+              ],
               options: {
-                name: 'media/[name].[ext]',
+                name: "media/[name].[ext]",
               },
             },
           ],
@@ -340,8 +349,8 @@ module.exports = function () {
       // new BundleAnalyzerPlugin(),
       new webpack.DefinePlugin(env.stringified),
       new MiniCssExtractPlugin({
-        filename: '[name].css',
-        chunkFilename: '[name].chunk.css',
+        filename: "[name].css",
+        chunkFilename: "[name].chunk.css",
       }),
       // Moment.js is an extremely popular library that bundles large locale files
       // by default due to how webpack interprets its code. This is a practical
@@ -351,21 +360,21 @@ module.exports = function () {
       new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
       new CopyPlugin({
         patterns: [
-          { from: resolveApp('src/styles'), to: resolveApp('lib/scss') },
+          { from: resolveApp("src/styles"), to: resolveApp("lib/scss") },
         ],
       }),
     ].filter(Boolean),
     // Some libraries import Node modules but don't use them in the browser.
     // Tell webpack to provide empty mocks for them so importing them works.
     node: {
-      module: 'empty',
-      dgram: 'empty',
-      dns: 'mock',
-      fs: 'empty',
-      http2: 'empty',
-      net: 'empty',
-      tls: 'empty',
-      child_process: 'empty',
+      module: "empty",
+      dgram: "empty",
+      dns: "mock",
+      fs: "empty",
+      http2: "empty",
+      net: "empty",
+      tls: "empty",
+      child_process: "empty",
     },
   };
 };
