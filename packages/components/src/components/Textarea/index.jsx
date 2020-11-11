@@ -46,9 +46,9 @@ const Textarea = ({
 }) => {
   const [empty, setEmpty] = useState(!value);
   const [charCount, setCharCount] = useState(0);
+  const [textAreaPreviousHeight, setTextAreaPreviousHeight] = useState(0);
 
   const textAreaInitialHeight = fluidHeight && fluidHeightOptions.minRows * fluidHeightOptions.lineHeight;
-  let textAreaPreviousHeight = textAreaInitialHeight;
 
   const textAreaRef = useRef();
 
@@ -56,7 +56,7 @@ const Textarea = ({
     textAreaRef.current.style.height = `${textAreaInitialHeight}px`;
     const rows = Math.floor((textAreaRef.current.scrollHeight) / fluidHeightOptions.lineHeight);
     textAreaRef.current.style.height = `${((rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) * fluidHeightOptions.lineHeight)}px`;
-  }, []);
+  }, []); //enableAutoResize and textAreaPreviousHeight
 
   const handleChange = useCallback((e) => {
     setEmpty(e.target.value.length === 0);
@@ -66,7 +66,7 @@ const Textarea = ({
       resize();
     }
 
-    textAreaPreviousHeight = textAreaRef.current.scrollHeight;
+    setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
     onChange && onChange(e);
   }, [onChange]);
 
@@ -93,8 +93,21 @@ const Textarea = ({
           type={type}
           aria-label={label}
           placeholder={label}
-          auto
+          autoCapitalize={autoCapitalize}
+          autoComplete={autoComplete}
+          autoFocus={autoFocus}
+          color={color}
+          cols={cols}
           maxLength={maxLength}
+          form={form}
+          minLength={minLength}
+          name={name}
+          readOnly={readOnly}
+          required={required}
+          rows={rows}
+          spellCheck={spellCheck}
+          value={value}
+          wrap={wrap}
           className={`${styles.textarea}
             ${enableManualResize ? '' : styles.textarea__disableResize}`}
           style={heightStyle}
@@ -170,6 +183,8 @@ Textarea.propTypes = {
    * to the end of the label to indicate a required textarea field.
    */
   required: PropTypes.bool,
+
+  //otherotherother
 };
 
 Textarea.defaultProps = {
