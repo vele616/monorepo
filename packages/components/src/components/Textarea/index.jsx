@@ -47,35 +47,38 @@ const Textarea = ({
   const [empty, setEmpty] = useState(!value);
   const [charCount, setCharCount] = useState(0);
   const [textAreaPreviousHeight, setTextAreaPreviousHeight] = useState(0);
-
-  const textAreaInitialHeight = fluidHeight && fluidHeightOptions.minRows * fluidHeightOptions.lineHeight;
+  const [heightStyle, setHeightStyle] = useState(() => {
+    return fluidHeight ? { 
+        height: `${fluidHeightOptions.minRows * fluidHeightOptions.lineHeight}px`,
+        lineHeight: `${fluidHeightOptions.lineHeight}px` 
+      } : {  };
+  });
 
   const textAreaRef = useRef();
 
   const resize = useCallback(() => {
-    textAreaRef.current.style.height = `${textAreaInitialHeight}px`;
     const rows = Math.floor((textAreaRef.current.scrollHeight) / fluidHeightOptions.lineHeight);
-    textAreaRef.current.style.height = `${((rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) * fluidHeightOptions.lineHeight)}px`;
-  }, []); //enableAutoResize and textAreaPreviousHeight
+    const height = `${((rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) * fluidHeightOptions.lineHeight)}px`;
+    setHeightStyle(prev => { return { ...prev, height } });
+  }, [textAreaPreviousHeight, fluidHeight, fluidHeightOptions]);
 
   const handleChange = useCallback((e) => {
     setEmpty(e.target.value.length === 0);
     setCharCount(e.target.value.length);
 
-    if (fluidHeight && textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
-      resize();
+    if (fluidHeight) {
+      if (textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
+        resize();
+      }
+      setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
     }
 
-    setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
     onChange && onChange(e);
-  }, [onChange]);
+  }, [onChange, fluidHeight, textAreaPreviousHeight]);
 
   if (enableCharCount && !maxLength) {
     maxLength = 500;
   }
-
-  const heightStyle = fluidHeight ? 
-    { height: textAreaInitialHeight, lineHeight: `${fluidHeightOptions.lineHeight}px` } : {};
 
   return (
     <div
