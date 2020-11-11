@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import React, { useState, useCallback } from 'react';
 import styles from './index.module.scss';
 import { useRef } from 'react';
+import { useEffect } from 'react';
 
 /**
  * Basic textarea component of the CroCoder component library.
@@ -37,6 +38,33 @@ const Textarea = ({
         lineHeight: `${fluidHeightOptions.lineHeight}px` 
       } : {  };
   });
+
+  useEffect(() => {
+
+    if (process.env.NODE_ENV !== 'development') return;
+
+    function getMissingProperties(object, properties) {
+      const keys = Object.keys(object);
+      return properties.filter(prop => !keys.includes(prop));
+    }
+
+    function isObject(object) {
+      return typeof object === 'object' && object !== null;
+    }
+
+    if (fluidHeight) {
+      if (!isObject(fluidHeightOptions)) {
+        console.warn('fluidHeight is set to true but fluidHeightOptions attribute should be a object');
+      }
+      else {
+        const missingProperties = getMissingProperties(fluidHeightOptions, ['minRows', 'maxRows', 'lineHeight']);
+        if (missingProperties.length > 0) {
+          console.warn('fluidHeight is set to true but fluidHeightOptions is missing some properties', missingProperties);
+        }
+      }
+    }
+
+  }, []);
 
   const textAreaRef = useRef();
 
@@ -86,7 +114,7 @@ const Textarea = ({
         />
       <div className={styles.textarea__messages}>
         {errorMessage && error &&
-            <span className={styles.message}>{errorMessage}</span>}
+          <span title={errorMessage} className={styles.message}>{errorMessage}</span>}
         {showCharCount &&
           <span className={styles.textarea__charCounter}>{`${charCount}/${maxLength}`}</span>}
       </div>
