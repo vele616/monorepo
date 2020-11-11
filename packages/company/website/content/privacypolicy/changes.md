@@ -1,0 +1,1 @@
+Although most changes are likely to be minor, CroCoder may change its Privacy Policy from time to time, and in CroCoder's sole discretion. CroCoder encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.

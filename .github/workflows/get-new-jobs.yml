@@ -1,4 +1,4 @@
-name: Job Board - Get new jobs
+name: 👔 Job Board - Get new jobs
 on:
   workflow_dispatch
 jobs:

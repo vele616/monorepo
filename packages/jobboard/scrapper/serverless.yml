@@ -39,7 +39,7 @@ functions:
     timeout: 180
     events:
       - schedule:
-          rate: rate(5 minutes)
+          rate: rate(1 minutes)
   urlHandler:
     handler: src/urlHandler.exec
     memorySize: 768

@@ -5,10 +5,10 @@ import styles from './index.module.scss';
 
 const JobPost = ({ jobUrl, title, companyName, companyLogo, tags, summary }) => (
   <Grid alignItems="center" className={styles.wrapper}>
-    <img className={!!companyLogo ? styles.image : `${styles.image} ${styles.filter}`} src={companyLogo || "images/logo.png"} />
+    <img className={!!companyLogo ? styles.image : `${styles.image} ${styles.filter}`} src={companyLogo || "/images/logo.png"} />
     <Card narrow className={styles.card}>
       <Grid alignItems="baseline" className={styles.post__content}>
-      <img className={!!companyLogo ? styles.image : `${styles.mini} ${styles.filter}`} src={companyLogo || "images/logo.png"} />
+      <img className={!!companyLogo ? styles.image : `${styles.mini} ${styles.filter}`} src={companyLogo || "/images/logo.png"} />
         <Typography className={styles.company_name} fontSize={20} fontWeight={700} color="gray_11">
           <a href={jobUrl} className={styles.link}>
             {companyName}
