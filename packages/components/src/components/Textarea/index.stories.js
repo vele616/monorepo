@@ -33,10 +33,13 @@ export const Story4 = Template.bind();
 Story4.storyName = 'Fluid from 3 to 5 rows';
 Story4.args = {
   label: 'Banana',
-  minRows: 3,
-  maxRows: 5,
   enableCharCount: true,
-  autoHeight: true
+  fluidHeight: true,
+  fluidHeightOptions: {
+    minRows: 3,
+    maxRows: 5,
+    lineHeight: 16
+  }
 };
 
 const TemplateRows = (args) => <><Textarea {...args}/><Textarea {...args}/></>;

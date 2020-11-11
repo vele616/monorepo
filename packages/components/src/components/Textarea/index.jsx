@@ -16,11 +16,13 @@ const Textarea = ({
   error,
   errorMessage,
   fluidHeight,
+  fluidHeightOptions = {
+    minRows: 3,
+    maxRows: Infinity,
+    lineHeight: 16
+  },
   label,
-  lineHeight = 16,
   maxLength,
-  maxRows = Infinity,
-  minRows = 3,
   onChange,
   onClick,
   required,
@@ -33,15 +35,15 @@ const Textarea = ({
   const [empty, setEmpty] = useState(!value);
   const [charCount, setCharCount] = useState(0);
 
-  const textAreaInitialHeight = fluidHeight && minRows * lineHeight;
+  const textAreaInitialHeight = fluidHeight && fluidHeightOptions.minRows * fluidHeightOptions.lineHeight;
   let textAreaPreviousHeight = textAreaInitialHeight;
 
   const textAreaRef = useRef();
 
   const resize = useCallback(() => {
     textAreaRef.current.style.height = `${textAreaInitialHeight}px`;
-    const rows = Math.floor((textAreaRef.current.scrollHeight) / lineHeight);
-    textAreaRef.current.style.height = `${((rows > maxRows ? maxRows : rows) * lineHeight)}px`;
+    const rows = Math.floor((textAreaRef.current.scrollHeight) / fluidHeightOptions.lineHeight);
+    textAreaRef.current.style.height = `${((rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) * fluidHeightOptions.lineHeight)}px`;
   }, []);
 
   const handleChange = useCallback((e) => {
@@ -61,7 +63,7 @@ const Textarea = ({
   }
 
   const heightStyle = fluidHeight ? 
-    { height: textAreaInitialHeight, lineHeight: `${lineHeight}px` } : {};
+    { height: textAreaInitialHeight, lineHeight: `${fluidHeightOptions.lineHeight}px` } : {};
 
   return (
     <div
