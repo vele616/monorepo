@@ -9,7 +9,7 @@ import { useRef } from 'react';
 const Textarea = ({
   className,
   disabled = false,
-  enableCharCount = false,
+  showCharCount = false,
   enableManualResize = false,
   error = false,
   errorMessage,
@@ -60,7 +60,7 @@ const Textarea = ({
     onChange && onChange(e);
   }, [onChange, fluidHeight, textAreaPreviousHeight]);
 
-  if (enableCharCount && !maxLength) {
+  if (showCharCount && !maxLength) {
     maxLength = 500;
   }
 
@@ -87,7 +87,7 @@ const Textarea = ({
       <div className={styles.textarea__messages}>
         {errorMessage && error &&
             <span className={styles.message}>{errorMessage}</span>}
-        {enableCharCount &&
+        {showCharCount &&
           <span className={styles.textarea__charCounter}>{`${charCount}/${maxLength}`}</span>}
       </div>
     </div>
@@ -114,10 +114,10 @@ Textarea.propTypes = {
    * below textarea. If 'maxLength' property is not set, it will
    * default to maximum of 500 characters.
    */
-  enableCharCount: PropTypes.bool,
+  showCharCount: PropTypes.bool,
   /**
    * Sets maximum allowed character count in textarea. To display it,
-   * set 'enableCharCount' property to 'true'. 
+   * set 'showCharCount' property to 'true'. 
    */
   maxLength: PropTypes.number,
   /**
