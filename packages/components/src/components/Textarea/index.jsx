@@ -132,7 +132,7 @@ const Textarea = ({
         aria-label={label}
         placeholder={label}
         maxLength={maxLength}
-        className={classnames(styles.textarea)}
+        className={styles.textarea}
         style={{ ...heightStyle, ...textAreaStyle, resize: enableManualResize }}
         {...other}
       />
