@@ -44,6 +44,12 @@
           "forbidDefaultForRequired": false,
           "ignoreFunctionalComponents": true
         }
+      ],
+      "react/button-has-type": [
+        0
+      ],
+      "react/jsx-props-no-spreading": [
+        0
       ]
     }
   },
