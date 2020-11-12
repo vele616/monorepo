@@ -6,31 +6,7 @@ export default {
   component: Textarea,
 };
 
-const Template = ({
-  label,
-  manualResize,
-  error,
-  errorMessage,
-  showCharCount,
-  maxLength,
-  fluidHeight,
-  fluidHeightOptions,
-}) => {
-  return (
-    <Textarea
-      label={label}
-      error={error}
-      errorMessage={errorMessage}
-      manualResize={manualResize}
-      showCharCount={showCharCount}
-      maxLength={maxLength}
-      fluidHeight={fluidHeight}
-      fluidHeightOptions={fluidHeightOptions}
-    />
-  );
-};
-
-Template.propTypes = Textarea.propTypes;
+const Template = Textarea.bind();
 
 export const Story1 = Template.bind();
 Story1.storyName = "Basic usage";
