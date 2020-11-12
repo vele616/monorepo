@@ -20,10 +20,6 @@ $textarea__padding: 6px 0 7px;
     outline: none;
   }
 
-  &__enableManualResize {
-    resize: both;
-  }
-
   &__wrapper {
     backface-visibility: hidden;
     background-color: $white;

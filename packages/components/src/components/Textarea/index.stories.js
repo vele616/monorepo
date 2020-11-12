@@ -18,7 +18,7 @@ export const Story2 = Template.bind();
 Story2.storyName = "Resizable";
 Story2.args = {
   label: "Banana",
-  enableManualResize: true,
+  enableManualResize: "both",
 };
 Story2.parameters = {
   docs: {
@@ -109,7 +109,7 @@ Story6.storyName = "Multiple textareas in row";
 Story6.args = {
   label: "Banana",
   showCharCount: true,
-  enableManualResize: true,
+  enableManualResize: "both",
 };
 Story6.parameters = {
   docs: {
@@ -129,7 +129,7 @@ Story7.storyName = "Multiple textareas in column";
 Story7.args = {
   label: "Banana",
   showCharCount: true,
-  enableManualResize: true,
+  enableManualResize: "both",
 };
 Story7.parameters = {
   docs: {

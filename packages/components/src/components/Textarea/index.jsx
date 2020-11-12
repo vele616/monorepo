@@ -12,7 +12,7 @@ const Textarea = ({
   className,
   disabled = false,
   showCharCount = false,
-  enableManualResize = false,
+  enableManualResize = "none",
   error = false,
   errorMessage,
   fluidHeight = false,
@@ -132,10 +132,8 @@ const Textarea = ({
         aria-label={label}
         placeholder={label}
         maxLength={maxLength}
-        className={classnames(styles.textarea, {
-          [styles.textarea__enableManualResize]: enableManualResize,
-        })}
-        style={{ ...heightStyle, ...textAreaStyle }}
+        className={classnames(styles.textarea)}
+        style={{ ...heightStyle, ...textAreaStyle, resize: enableManualResize }}
         {...other}
       />
       <div className={styles.textarea__messages}>
@@ -178,9 +176,16 @@ Textarea.propTypes = {
   errorMessage: PropTypes.string,
   /**
    * Adds resize handle at the bottom right corner that enables
-   * user to resize textarea manually.
+   * user to resize textarea manually. Set 'vertical' to enable only vertical
+   * resize. Set 'horizontal' to enable only horizontal resize. Set 'both' to enable
+   * both horizontal and vertical resize.
    */
-  enableManualResize: PropTypes.bool,
+  enableManualResize: PropTypes.oneOf([
+    "none",
+    "both",
+    "vertical",
+    "horizontal",
+  ]),
   /**
    * Enables character counter at the bottom right corner, just
    * below textarea. If 'maxLength' property is not set, it will
