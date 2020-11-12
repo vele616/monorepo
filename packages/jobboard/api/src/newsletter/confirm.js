@@ -12,6 +12,7 @@ if (process.env.IS_OFFLINE) {
 const client = new AWS.DynamoDB.DocumentClient(options);
 
 exports.exec = async (event) => {
+  const timestamp = new Date().getTime();
   try {
     const { email, hash } = event.pathParameters;
     const emailRecord = await client.query({
@@ -27,9 +28,11 @@ exports.exec = async (event) => {
         await client.update({
           TableName: process.env.NEWSLETTER_TABLE,
           Key: { email },
-          UpdateExpression: 'SET confirmed = :confirmed',
+          UpdateExpression: 'SET confirmed = :confirmed, updatedAt = :updatedAt, deleted = :deleted ',
           ExpressionAttributeValues: {
             ':confirmed': true,
+            ':updatedAt': timestamp,
+            ':deleted': false,
           },
         }).promise();
       }

@@ -42,6 +42,15 @@ functions:
           path: newsletter/{email}/{hash}
           method: get
           cors: true
+  newsletter-unsubscribe:
+    handler: src/newsletter/unsubscribe.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: unsubscribe/{email}/{hash}
+          method: delete
+          cors: true
   hub-list:
     handler: src/hubs/list.exec
     events:
