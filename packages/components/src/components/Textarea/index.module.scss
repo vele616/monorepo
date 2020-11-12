@@ -38,6 +38,16 @@ $textarea__padding: 6px 0 7px;
     position: relative;
     z-index: 0;
 
+    &:hover {
+      .textarea__label {
+        color: $gray_2;
+        opacity: 1;
+      }
+      .textarea {
+        border-bottom-color: $gray_2;
+      }
+    }
+
     @include mediaQuery("<=360px") {
       min-width: 190px;
     }
