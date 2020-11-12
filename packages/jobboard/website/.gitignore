@@ -70,5 +70,5 @@ yarn-error.log
 .serverless
 content/jobs/*.demo.md
 
-static/*
-!static/images
+static/media
+static/fonts

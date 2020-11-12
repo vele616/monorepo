@@ -1,4 +1,4 @@
-name: Job Board - Deploy Website
+name: 👔 Job Board - Deploy Website
 on:
   workflow_dispatch
 jobs:
@@ -17,6 +17,9 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12
+        registry: https://npm.pkg.github.com/
+        scope: "@crocoder"
+    - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GIT_TOKEN }}" > ~/.npmrc
     - run: ./scripts/jobboard/get-secrets.sh ${{ secrets.SECRET_BUCKET }} ./
     - run: cd packages/jobboard/website && yarn install --production=false
     - run: cd packages/jobboard/website && yarn build

@@ -4,6 +4,7 @@ import { JobDescription } from '../components/JobDescription';
 import Footer from '../components/Footer';
 import { Navigation, Button } from '@crocoder-dev/components';
 import CrocNav from '../images/croc-nav.svg';
+import Layout from '../components/Layout';
 
 export const JobPostTemplate = (props) => {
   const post = props.data.markdownRemark;
@@ -26,10 +27,7 @@ export const JobPostTemplate = (props) => {
   const { html } = post;
 
   return (
-    <>
-      <Navigation Logo={<CrocNav />}>
-        <Button variant="secondary">Post a job</Button>
-      </Navigation>
+    <Layout>
       <JobDescription
         title={title}
         hashtags={hashtags}
@@ -42,8 +40,7 @@ export const JobPostTemplate = (props) => {
         applyUrl={applyUrl}
         timestamp={timestamp}
       />
-      <Footer />
-    </>
+    </Layout>
   );
 };
 

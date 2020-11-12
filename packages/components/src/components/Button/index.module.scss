@@ -33,87 +33,52 @@ $button__outline__color--main: $green_4;
   border-width: 1px;
   box-sizing: border-box;
   cursor: pointer;
-  font-size: 18px;
-  font-size: inherit;
-  padding: 16px 30px 14px 30px;
-  font-family: $font-family;
-  height: 50px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 25px 14px 25px;
 
   &:disabled, &:disabled:hover {
     cursor: not-allowed;
-    background-color: $gray_5;
-    color: white;
-    border-color: $gray_5;
+    background-color: map-get($contrasts,"gray_12");
+    color: $gray_12;
+    border-color: map-get($contrasts,"gray_12");
   }
+}
+
+@mixin generateFilledButtonStyle($mainColor, $lightColor, $contrast) {
+  background-color: $mainColor;
+  border-color: $mainColor;
+  color: $contrast;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: $lightColor;
+    border-color: $lightColor;
+  }
+
+  &:focus {
+    outline: none;
+    background-color: $lightColor;
+    border-color: $contrast;
+  }
+
 }
 
 .primary {
-  background-color: $button__primary--main;
-  border-color: $button__primary--main;
-  color: $white;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-
-  &:hover {
-    background-color: $button__primary--hover;
-    border-color: $button__primary--hover;
-  }
-
-  &:focus {
-    outline: none;
-    background-color: $button__primary--focus;
-    border-color: $button__primary--focus;
-  }
+  @include generateFilledButtonStyle($primary, $primary_light, $contrast);
 }
 
 .secondary {
-  background-color: $button__secondary--main;
-  border-color: $button__secondary--main;
-  color: $white;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-
-  &:hover {
-    background-color: $button__secondary--hover;
-    border-color: $button__secondary--hover;
-  }
-
-  &:focus {
-    outline: none;
-    background-color: $button__secondary--focus;
-    border-color: $button__secondary--focus;
-  }
-}
-
-.outline {
-  background-color: $white;
-  border-color: $button__outline__border--main;
-  color: $button__outline__color--main;
-
-  &:hover {
-    background-color: $button__outline__background--hover;
-    border-color: $button__outline__border--hover;
-    color: $white;
-  }
-
-  &:focus {
-    background-color: $white;
-    border-color: $button__outline__border--focus;
-    color: $button__outline__color--focus;
-    outline: none;
-  }
-
-  &:disabled, &:disabled:hover {
-    cursor: not-allowed;
-    background-color: $white;
-    color: $gray_5;
-    border-color: $gray_5;
-  }
+  @include generateFilledButtonStyle($secondary, $secondary_light, $contrast);
 }
 
 .sneaky {
   background-color: transparent;
   border-color: transparent;
+  font-size: inherit;
+  font-family: inherit;
 
   &:hover, &:focus {
     background-color: transparent;

@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from 'gatsby';
 import Img from "gatsby-image/withIEPolyfill";
 import { Grid, Typography, Button, Section, Card } from '@crocoder-dev/components';
 import styles from './index.module.scss';
+import { Link } from 'gatsby';
 
 const Wrapper = styled.div`
   max-width: 1600px;
@@ -31,7 +32,7 @@ const Hero = ({ image, title, titleEmphasis }) => {
         <Typography fontSize={18} color="gray_6" className={styles.typography} >
           {title} <b> {titleEmphasis} </b>
         </Typography>
-        <Button className={styles.button} variant="secondary">Post a job</Button>
+        <Link to="/post-a-job"><Button className={styles.button} variant="secondary">Post a job</Button></Link>
       </Grid>
     </Section>
   )
