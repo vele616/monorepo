@@ -1,6 +1,8 @@
 import React, { useState, useCallback } from "react";
 import PropTypes from "prop-types";
+import classnames from "classnames";
 import styles from "./index.module.scss";
+
 /**
  * Basic input component of the CroCoder component library
  */
@@ -29,10 +31,10 @@ const Input = ({
   return (
     <div
       style={style}
-      className={`${className || ""}
-      ${error && styles.error} 
-      ${empty && styles.empty}
-      ${styles.input__wrapper} `}
+      className={classnames(className, styles.input__wrapper, {
+        [styles.error]: error,
+        [styles.empty]: empty,
+      })}
     >
       <label htmlFor={id} className={styles.input__label}>
         {label} {required && "*"}
