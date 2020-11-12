@@ -44,6 +44,29 @@
       "StreamEnabled": true,
       "StreamViewType": "NEW_AND_OLD_IMAGES"
     }
+  },
+  {
+    "TableName": "jobboard-newsletter-db",
+    "KeySchema": [
+      {
+        "AttributeName": "email",
+        "KeyType": "HASH"
+      }
+    ],
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "email",
+        "AttributeType": "S"
+      }
+    ],
+    "ProvisionedThroughput": {
+      "ReadCapacityUnits": 1,
+      "WriteCapacityUnits": 1
+    },
+    "StreamSpecification": {
+      "StreamEnabled": true,
+      "StreamViewType": "NEW_AND_OLD_IMAGES"
+    }
   }
 ]
 
