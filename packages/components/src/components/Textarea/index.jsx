@@ -1,9 +1,7 @@
 import classnames from "classnames";
 import PropTypes from "prop-types";
-import React, { useState, useCallback } from "react";
+import React, { useState, useCallback, useRef, useEffect } from "react";
 import styles from "./index.module.scss";
-import { useRef } from "react";
-import { useEffect } from "react";
 
 /**
  * Basic textarea component of the CroCoder component library.
@@ -12,7 +10,7 @@ const Textarea = ({
   className,
   disabled = false,
   showCharCount = false,
-  enableManualResize = "none",
+  manualResize = "none",
   error = false,
   errorMessage,
   fluidHeight = false,
@@ -21,15 +19,14 @@ const Textarea = ({
     maxRows: Infinity,
     lineHeight: 16,
   }),
+  id,
   label,
   maxLength,
   onChange,
-  onClick,
   required = false,
   style,
-  textAreaStyle,
+  testId,
   value,
-  ...other
 }) => {
   const [empty, setEmpty] = useState(!value);
   const [charCount, setCharCount] = useState(0);
@@ -44,6 +41,9 @@ const Textarea = ({
         }
       : {};
   });
+
+  const maximumCharachtersLength =
+    showCharCount && !maxLength ? 500 : maxLength;
 
   useEffect(() => {
     if (process.env.NODE_ENV !== "development") return;
@@ -105,14 +105,10 @@ const Textarea = ({
         setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
       }
 
-      onChange && onChange(e);
+      if (onChange) onChange(e);
     },
     [onChange, fluidHeight, textAreaPreviousHeight]
   );
-
-  if (showCharCount && !maxLength) {
-    maxLength = 500;
-  }
 
   return (
     <div
@@ -122,7 +118,7 @@ const Textarea = ({
         [styles.empty]: empty,
       })}
     >
-      <label className={styles.textarea__label}>
+      <label htmlFor={id} className={styles.textarea__label}>
         {label} {required && "*"}
       </label>
       <textarea
@@ -130,11 +126,12 @@ const Textarea = ({
         disabled={disabled}
         onChange={handleChange}
         aria-label={label}
+        id={id}
         placeholder={label}
-        maxLength={maxLength}
+        maxLength={maximumCharachtersLength}
         className={styles.textarea}
-        style={{ ...heightStyle, ...textAreaStyle, resize: enableManualResize }}
-        {...other}
+        style={{ ...heightStyle, resize: manualResize }}
+        testid={testId}
       />
       <div className={styles.textarea__messages}>
         {errorMessage && error && (
@@ -145,7 +142,7 @@ const Textarea = ({
         {showCharCount && (
           <span
             className={styles.textarea__charCounter}
-          >{`${charCount}/${maxLength}`}</span>
+          >{`${charCount}/${maximumCharachtersLength}`}</span>
         )}
       </div>
     </div>
@@ -159,10 +156,6 @@ Textarea.propTypes = {
    * Custom CSS style for textarea wrapper element.
    */
   style: PropTypes.shape({}),
-  /**
-   * Custom CSS style for textarea element.
-   */
-  textAreaStyle: PropTypes.object,
   label: PropTypes.string,
   value: PropTypes.string,
   /**
@@ -174,18 +167,16 @@ Textarea.propTypes = {
    * Error message indicating not applicable value.
    */
   errorMessage: PropTypes.string,
+  onChange: PropTypes.func,
+  id: PropTypes.string,
+  testId: PropTypes.string,
   /**
    * Adds resize handle at the bottom right corner that enables
    * user to resize textarea manually. Set 'vertical' to enable only vertical
    * resize. Set 'horizontal' to enable only horizontal resize. Set 'both' to enable
    * both horizontal and vertical resize.
    */
-  enableManualResize: PropTypes.oneOf([
-    "none",
-    "both",
-    "vertical",
-    "horizontal",
-  ]),
+  manualResize: PropTypes.oneOf(["none", "both", "vertical", "horizontal"]),
   /**
    * Enables character counter at the bottom right corner, just
    * below textarea. If 'maxLength' property is not set, it will
@@ -197,23 +188,6 @@ Textarea.propTypes = {
    * set 'showCharCount' property to 'true'.
    */
   maxLength: PropTypes.number,
-  /**
-   * Sets minimum number of displayed rows that textarea can have.
-   * This property will be omitted if 'fluidHeight' property is set to 'false'.
-   */
-  minRows: PropTypes.number,
-  /**
-   * Sets maximum number of displayed rows that textarea can have.
-   * This property will be omitted if 'fluidHeight' property is set to 'false'.
-   */
-  maxRows: PropTypes.number,
-  /**
-   * Defines height between lines in textarea. <strong>Notice: </strong>
-   * due different font families, height of textarea can be greater than it should.
-   * Be sure that lineHeight is always greater than actual font size.
-   * Enabled only if 'fluidHeight' property is set to 'true'.
-   */
-  lineHeight: PropTypes.number,
   /**
    * Enables automatic height resizing of textarea. Textarea will grow in
    * height if it needs to on every new line. Set 'fluidHeightOptions' property to enable
@@ -231,16 +205,12 @@ Textarea.propTypes = {
    * due different font families, height of textarea can be greater than it should.
    * Be sure that lineHeight is always greater than actual font size.
    */
-  fluidHeightOptions: PropTypes.object,
+  fluidHeightOptions: PropTypes.instanceOf(Object),
   /**
    * If set to true, will add a '*' character
    * to the end of the label to indicate a required textarea field.
    */
   required: PropTypes.bool,
-  /**
-   * This object will expand itself on to textarea component, overriding default props.
-   */
-  other: PropTypes.object,
 };
 
 export default Textarea;

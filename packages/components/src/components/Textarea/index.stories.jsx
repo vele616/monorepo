@@ -1,24 +1,46 @@
 import React from "react";
-import Textarea from "./index.jsx";
+import Textarea from "./index";
 
 export default {
   title: "Components/Textarea",
   component: Textarea,
 };
 
-const Template = (args) => <Textarea {...args} />;
+const Template = ({
+  label,
+  manualResize,
+  error,
+  errorMessage,
+  showCharCount,
+  maxLength,
+  fluidHeight,
+  fluidHeightOptions,
+}) => {
+  return (
+    <Textarea
+      label={label}
+      error={error}
+      errorMessage={errorMessage}
+      manualResize={manualResize}
+      showCharCount={showCharCount}
+      maxLength={maxLength}
+      fluidHeight={fluidHeight}
+      fluidHeightOptions={fluidHeightOptions}
+    />
+  );
+};
+
+Template.propTypes = Textarea.propTypes;
 
 export const Story1 = Template.bind();
 Story1.storyName = "Basic usage";
-Story1.args = {
-  label: "Banana",
-};
+Story1.args = { label: "Banana" };
 
 export const Story2 = Template.bind();
 Story2.storyName = "Resizable";
 Story2.args = {
   label: "Banana",
-  enableManualResize: "both",
+  manualResize: "both",
 };
 Story2.parameters = {
   docs: {
@@ -67,23 +89,28 @@ Story4.parameters = {
   },
 };
 
-export const Story5 = (args) => {
+const TemplateErrors = (args) => {
   return (
     <div>
-      <Textarea {...args} />
+      {Template.bind()({ ...args })} <p />
+      {Template.bind()({ ...args, showCharCount: true })} <p />
+      {Template.bind()({
+        ...args,
+        showCharCount: true,
+        maxLength: 100000,
+      })}{" "}
       <p />
-      <Textarea {...args} showCharCount />
-      <p />
-      <Textarea {...args} showCharCount maxLength={100000} />
-      <p />
-      <Textarea {...args} error={false} showCharCount />
-      <p />
+      {Template.bind()({ ...args, showCharCount: true, error: false })} <p />
     </div>
   );
 };
+
+export const Story5 = TemplateErrors.bind();
+
 Story5.storyName = "Error messages";
 Story5.args = {
   label: "Banana",
+  manualResize: "both",
   error: true,
   errorMessage:
     "This is some really long error message that could cause some troubles!",
@@ -98,18 +125,21 @@ Story5.parameters = {
   },
 };
 
-const TemplateRows = (args) => (
-  <>
-    <Textarea {...args} />
-    <Textarea {...args} />
-  </>
-);
-export const Story6 = TemplateRows.bind();
+const TemplateTwoInRow = (args) => {
+  return (
+    <div>
+      {Template.bind()(args)}
+      {Template.bind()(args)}
+    </div>
+  );
+};
+
+export const Story6 = TemplateTwoInRow.bind();
 Story6.storyName = "Multiple textareas in row";
 Story6.args = {
   label: "Banana",
   showCharCount: true,
-  enableManualResize: "both",
+  manualResize: "both",
 };
 Story6.parameters = {
   docs: {
@@ -119,17 +149,22 @@ Story6.parameters = {
   },
 };
 
-const TemplateColumns = (args) => (
-  <>
-    <Textarea {...args} /> <p /> <Textarea {...args} />
-  </>
-);
-export const Story7 = TemplateColumns.bind();
+const TemplateTwoInColumn = (args) => {
+  return (
+    <div>
+      {Template.bind()(args)}
+      <p />
+      {Template.bind()(args)}
+    </div>
+  );
+};
+
+export const Story7 = TemplateTwoInColumn.bind();
 Story7.storyName = "Multiple textareas in column";
 Story7.args = {
   label: "Banana",
   showCharCount: true,
-  enableManualResize: "both",
+  manualResize: "both",
 };
 Story7.parameters = {
   docs: {
