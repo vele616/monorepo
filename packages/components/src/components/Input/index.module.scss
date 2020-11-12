@@ -157,13 +157,13 @@ $input__padding: 6px 0 7px;
   }
 
   .message {
-    font-size: 0.75em;
     color: $red_4;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    white-space: nowrap;
+    display: block;
+    font-size: 0.75em;
     overflow: hidden;
+    position: absolute;
     text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
   }
 }

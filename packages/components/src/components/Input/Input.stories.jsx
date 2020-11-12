@@ -21,7 +21,8 @@ Story2.storyName = "Error message";
 Story2.args = {
   label: "Banana",
   error: true,
-  errorMessage: "Some really really really really really error message.",
+  errorMessage:
+    "Some really really really really really really really error message.",
 };
 Story2.argTypes = {
   className: { control: { disable: true } },
