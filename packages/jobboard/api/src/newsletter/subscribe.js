@@ -32,16 +32,25 @@ exports.exec = async (event) => {
       if (!emailExists) {
         await client.update({
           TableName: process.env.NEWSLETTER_TABLE,
-          Key: { email },
-          UpdateExpression: 'SET emailHash = :emailHash, confirmed = :confirmed, createdAt = :createdAt, updatedAt = :updatedAt',
+          Key: { email, emailHash },
+          UpdateExpression: 'SET confirmed = :confirmed, createdAt = :createdAt, updatedAt = :updatedAt',
           ExpressionAttributeValues: {
-            ':emailHash': emailHash,
             ':confirmed': false,
             ':createdAt': timestamp,
             ':updatedAt': timestamp,
           },
         }).promise();
+      } else {
+        return {
+          statusCode: 304,
+        };
       }
+    } else {
+      return {
+        statusCode: 400,
+        body: JSON.stringify({ message: '' }),
+        headers: { 'Content-Type': 'application/json' },
+      };
     }
     return {
       statusCode: 200,

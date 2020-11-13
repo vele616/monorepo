@@ -49,7 +49,7 @@ functions:
     events:
       - http:
           path: unsubscribe/{email}/{hash}
-          method: delete
+          method: get
           cors: true
   hub-list:
     handler: src/hubs/list.exec
