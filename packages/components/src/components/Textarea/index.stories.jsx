@@ -52,7 +52,7 @@ Story4.args = {
   fluidHeightOptions: {
     minRows: 3,
     maxRows: 5,
-    lineHeight: 16,
+    lineHeight: 18,
   },
 };
 Story4.parameters = {

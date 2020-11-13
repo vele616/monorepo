@@ -3,6 +3,17 @@ import PropTypes from "prop-types";
 import React, { useState, useCallback, useRef, useEffect } from "react";
 import styles from "./index.module.scss";
 
+function getMissingProperties(object, properties) {
+  const keys = Object.keys(object);
+  return properties.filter((prop) => !keys.includes(prop));
+}
+
+function isObject(object) {
+  return typeof object === "object" && object !== null;
+}
+
+const isNumber = (value) => !Number.isNaN(Number(value));
+
 /**
  * Basic textarea component of the CroCoder component library.
  */
@@ -17,7 +28,7 @@ const Textarea = ({
   fluidHeightOptions = Object({
     minRows: 3,
     maxRows: Infinity,
-    lineHeight: 16,
+    lineHeight: 18,
   }),
   id,
   label,
@@ -28,34 +39,26 @@ const Textarea = ({
   testId,
   value,
 }) => {
+  const { minRows, maxRows, lineHeight } = fluidHeightOptions;
+
   const [empty, setEmpty] = useState(!value);
   const [charCount, setCharCount] = useState(0);
-  const [textAreaPreviousHeight, setTextAreaPreviousHeight] = useState(0);
-  const [heightStyle, setHeightStyle] = useState(() => {
-    return fluidHeight
+  const [heightStyle, setHeightStyle] = useState(
+    fluidHeight
       ? {
-          height: `${
-            fluidHeightOptions.minRows * fluidHeightOptions.lineHeight
-          }px`,
-          lineHeight: `${fluidHeightOptions.lineHeight}px`,
+          height: `${minRows * lineHeight}px`,
+          lineHeight: `${lineHeight}px`,
+          resize: manualResize,
+          previousHeight: 0,
         }
-      : {};
-  });
+      : { resize: manualResize }
+  );
 
   const maximumCharachtersLength =
     showCharCount && !maxLength ? 500 : maxLength;
 
   useEffect(() => {
     if (process.env.NODE_ENV !== "development") return;
-
-    function getMissingProperties(object, properties) {
-      const keys = Object.keys(object);
-      return properties.filter((prop) => !keys.includes(prop));
-    }
-
-    function isObject(object) {
-      return typeof object === "object" && object !== null;
-    }
 
     if (fluidHeight) {
       if (!isObject(fluidHeightOptions)) {
@@ -74,24 +77,57 @@ const Textarea = ({
             missingProperties
           );
         }
+
+        if (!isNumber(minRows)) {
+          console.warn("fluidHeightOptions.minRows should be a number");
+        }
+        if (!isNumber(maxRows)) {
+          console.warn("fluidHeightOptions.maxRows should be a number");
+        }
+        if (!isNumber(lineHeight)) {
+          console.warn("fluidHeightOptions.lineHeight should be a number");
+        }
+        if (minRows > maxRows) {
+          console.warn(
+            "fluidHeightOptions.maxRows should be greater or equal fluidHeightOptions.minRows"
+          );
+        }
       }
     }
-  }, []);
+  }, [minRows, maxRows, lineHeight]);
 
   const textAreaRef = useRef();
 
-  const resize = useCallback(() => {
-    const rows = Math.floor(
-      textAreaRef.current.scrollHeight / fluidHeightOptions.lineHeight
-    );
-    const height = `${
-      (rows > fluidHeightOptions.maxRows ? fluidHeightOptions.maxRows : rows) *
-      fluidHeightOptions.lineHeight
-    }px`;
-    setHeightStyle((prev) => {
-      return { ...prev, height };
-    });
-  }, [textAreaPreviousHeight, fluidHeight, fluidHeightOptions]);
+  const calculateAndSetHeight = useCallback(
+    (shouldIRun) => {
+      const currentHeight = textAreaRef.current.scrollHeight;
+      if (!shouldIRun && currentHeight === heightStyle.previousHeight) return;
+
+      const rows = Math.max(
+        Math.floor(textAreaRef.current.scrollHeight / lineHeight),
+        minRows
+      );
+
+      const height = `${(rows > maxRows ? maxRows : rows) * lineHeight}px`;
+
+      setHeightStyle(() => {
+        if (fluidHeight) {
+          return {
+            height,
+            previousHeight: currentHeight,
+            lineHeight: `${lineHeight}px`,
+            resize: manualResize,
+          };
+        }
+        return { resize: manualResize };
+      });
+    },
+    [fluidHeight, minRows, maxRows, lineHeight, manualResize]
+  );
+
+  useEffect(() => {
+    calculateAndSetHeight(true);
+  }, [calculateAndSetHeight]);
 
   const handleChange = useCallback(
     (e) => {
@@ -99,15 +135,12 @@ const Textarea = ({
       setCharCount(e.target.value.length);
 
       if (fluidHeight) {
-        if (textAreaPreviousHeight !== textAreaRef.current.scrollHeight) {
-          resize();
-        }
-        setTextAreaPreviousHeight(textAreaRef.current.scrollHeight);
+        calculateAndSetHeight();
       }
 
       if (onChange) onChange(e);
     },
-    [onChange, fluidHeight, textAreaPreviousHeight]
+    [onChange, fluidHeight, calculateAndSetHeight]
   );
 
   return (
@@ -130,7 +163,7 @@ const Textarea = ({
         placeholder={label}
         maxLength={maximumCharachtersLength}
         className={styles.textarea}
-        style={{ ...heightStyle, resize: manualResize }}
+        style={heightStyle}
         testid={testId}
       />
       <div className={styles.textarea__messages}>
