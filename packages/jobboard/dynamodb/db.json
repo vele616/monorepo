@@ -51,11 +51,19 @@
       {
         "AttributeName": "email",
         "KeyType": "HASH"
+      },
+      {
+        "AttributeName": "emailHash",
+        "KeyType": "RANGE"
       }
     ],
     "AttributeDefinitions": [
       {
         "AttributeName": "email",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "emailHash",
         "AttributeType": "S"
       }
     ],

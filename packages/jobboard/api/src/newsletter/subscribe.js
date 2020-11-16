@@ -14,6 +14,7 @@ if (process.env.IS_OFFLINE) {
 const client = new AWS.DynamoDB.DocumentClient(options);
 
 exports.exec = async (event) => {
+  const timestamp = new Date().getTime();
   try {
     const { email, confirm } = JSON.parse(event.body);
     const hash = customAlphabet(englishLowercase, 16);
@@ -31,14 +32,25 @@ exports.exec = async (event) => {
       if (!emailExists) {
         await client.update({
           TableName: process.env.NEWSLETTER_TABLE,
-          Key: { email },
-          UpdateExpression: 'SET emailHash = :emailHash, confirmed = :confirmed',
+          Key: { email, emailHash },
+          UpdateExpression: 'SET confirmed = :confirmed, createdAt = :createdAt, updatedAt = :updatedAt',
           ExpressionAttributeValues: {
-            ':emailHash': emailHash,
             ':confirmed': false,
+            ':createdAt': timestamp,
+            ':updatedAt': timestamp,
           },
         }).promise();
+      } else {
+        return {
+          statusCode: 304,
+        };
       }
+    } else {
+      return {
+        statusCode: 400,
+        body: JSON.stringify({ message: '' }),
+        headers: { 'Content-Type': 'application/json' },
+      };
     }
     return {
       statusCode: 200,
