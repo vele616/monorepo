@@ -1,12 +1,21 @@
-import React, { useState, useCallback, useEffect, useRef } from "react";
+import React, {
+  useState,
+  useCallback,
+  useEffect,
+  useRef,
+  useMemo,
+} from "react";
 import PropTypes from "prop-types";
 import styles from "./index.module.scss";
+import Icon from "../../components/Icon";
 
 const Keys = Object.freeze({
   ArrowUp: 38,
   ArrowDown: 40,
   Space: 32,
   Enter: 13,
+  End: 35,
+  Home: 36,
 });
 
 const Listbox = ({
@@ -15,47 +24,213 @@ const Listbox = ({
   className,
   type,
   children,
+  enableTypeAhead = true,
+  enableMultiselect,
+  enableSelectFocusedItem,
   disabled,
   color,
-  onClick,
   title,
   style,
   value,
-  size,
+  onItemSelect,
+  onItemUnselect,
+  onSelectionChange,
+  showCheckIcon = true,
 }) => {
-  const [activeIndex, setActiveIndex] = useState(-1);
-  const [selectedIndexes, setSelectedIndexes] = useState([]);
-
-  const listboxRef = useRef();
-  const itemsCount = children.length;
-
-  useEffect(() => {}, []);
-
-  const focusNext = useCallback(() => {
-    const nextIndex = activeIndex >= itemsCount - 1 ? 0 : activeIndex + 1;
-    setActiveIndex(nextIndex);
-  }, [activeIndex]);
-
-  const focusPrevious = useCallback(() => {
-    const nextIndex = activeIndex <= 0 ? itemsCount - 1 : activeIndex - 1;
-    setActiveIndex(nextIndex);
-  }, [activeIndex]);
-
-  // Jel ovaj handle okej?
-  const handleItemClick = useCallback((index) => {
-    const currentIndex = selectedIndexes.findIndex((e) => e === index);
-    if (currentIndex === -1) {
-      setSelectedIndexes((arr) => [...arr, index]);
-    } else {
-      const newIndexes = [...selectedIndexes];
-      newIndexes.splice(currentIndex, 1);
-      setSelectedIndexes(newIndexes);
+  const getTextValue = useCallback((item) => {
+    const childrenOfItem = item?.props?.children;
+    if (
+      childrenOfItem === undefined ||
+      childrenOfItem === null ||
+      childrenOfItem === ""
+    )
+      return "";
+    if (typeof childrenOfItem === "string") {
+      return childrenOfItem;
     }
+    if (React.isValidElement(childrenOfItem)) {
+      return getTextValue(childrenOfItem);
+    }
+  }, []);
+
+  const childrenArray = useCallback(
+    (children) => {
+      return (
+        (Array.isArray(children) && children) || (children && [children]) || []
+      );
+    },
+    [children]
+  );
+
+  const [selectedItems, setSelectedItems] = useState(() => {
+    return childrenArray(children).map(() => false);
   });
 
-  const handleItemMouseEnter = useCallback((index) => {
-    setActiveIndex(index); //
-  }, []);
+  const [itemTextValues] = useState(() => {
+    return childrenArray(children).map((child) => getTextValue(child));
+  });
+
+  const [focusedIndex, setFocusedIndex] = useState(-1);
+  const [typeAheadValue, setTypeAheadValue] = useState();
+
+  const typingFast = useRef(false);
+  const typingFastTimeoutId = useRef(0);
+  const typingFastTimeoutValue = 200;
+
+  const listboxRef = useRef();
+
+  const focusNext = useCallback(() => {
+    const nextIndex =
+      focusedIndex >= itemTextValues.length - 1 ? 0 : focusedIndex + 1;
+    manualFocus(nextIndex);
+  }, [focusedIndex]);
+
+  const focusPrevious = useCallback(() => {
+    const nextIndex =
+      focusedIndex <= 0 ? itemTextValues.length - 1 : focusedIndex - 1;
+    manualFocus(nextIndex);
+  }, [focusedIndex]);
+
+  const focusFirst = useCallback(() => {
+    manualFocus(0);
+  }, [focusedIndex]);
+
+  const focusLast = useCallback(() => {
+    manualFocus(itemTextValues.length - 1);
+  }, [focusedIndex]);
+
+  const handleItemClick = useCallback(
+    (index) => {
+      selectItem(index);
+      setFocusedIndex(index);
+      setTypeAheadValue(undefined);
+    },
+    [selectedItems]
+  );
+
+  const handleItemMouseEnter = useCallback(
+    (index) => {
+      if (!enableSelectFocusedItem) manualFocus(index);
+    },
+    [enableSelectFocusedItem]
+  );
+
+  const fireOnSelectedEvents = useCallback(
+    (index, newItems) => {
+      if (!newItems || newItems[index] === undefined) return;
+
+      if (onSelectionChange) {
+        const selection = newItems.reduce((array, selected, index) => {
+          if (selected)
+            return [...array, { index, value: itemTextValues[index] }];
+          return array;
+        }, []);
+        onSelectionChange(selection);
+      }
+
+      newItems[index]
+        ? onItemSelect &&
+          onItemSelect({
+            index,
+            value: itemTextValues[index],
+          })
+        : onItemUnselect &&
+          onItemUnselect({
+            index,
+            value: itemTextValues[index],
+          });
+    },
+    [onItemSelect, onItemUnselect, onSelectionChange, selectedItems]
+  );
+
+  const selectItem = useCallback(
+    (index) => {
+      if (selectedItems[index] === undefined) return;
+
+      const newItems = enableMultiselect
+        ? [...selectedItems]
+        : selectedItems.map(() => false);
+
+      newItems[index] = !newItems[index];
+
+      setSelectedItems(newItems);
+      fireOnSelectedEvents(index, newItems);
+    },
+    [selectedItems, enableMultiselect]
+  );
+
+  const manualFocus = useCallback(
+    (index) => {
+      setFocusedIndex(index);
+      setTypeAheadValue(undefined);
+
+      if (enableSelectFocusedItem) {
+        selectItem(index);
+      }
+    },
+    [enableSelectFocusedItem]
+  );
+
+  const typeAheadGenerator = useMemo(() => {
+    let elements = [];
+    let current = 0;
+
+    function next() {
+      return elements[current++ % elements.length];
+    }
+
+    function first() {
+      current = 0;
+      return elements[current++];
+    }
+
+    function filterIndexes(char) {
+      elements = itemTextValues.reduce((previousValue, currentValue, index) => {
+        if (currentValue && currentValue.toLowerCase().startsWith(char)) {
+          return [...previousValue, index];
+        }
+        return previousValue;
+      }, []);
+      return first();
+    }
+
+    return {
+      next,
+      first,
+      filterIndexes,
+    };
+  }, [itemTextValues]);
+
+  const typeAhead = useCallback(
+    (key) => {
+      clearTimeout(typingFastTimeoutId.current);
+
+      if (typingFast.current && key !== typeAheadValue) {
+        key = typeAheadValue + key;
+      }
+
+      const index =
+        key === typeAheadValue
+          ? typeAheadGenerator.next()
+          : typeAheadGenerator.filterIndexes(key);
+
+      if (index >= 0) {
+        setFocusedIndex(index);
+        if (enableSelectFocusedItem) {
+          selectItem(index);
+        }
+      }
+
+      setTypeAheadValue(key.toLowerCase());
+
+      typingFast.current = true;
+
+      typingFastTimeoutId.current = setTimeout(() => {
+        typingFast.current = false;
+      }, typingFastTimeoutValue);
+    },
+    [typeAheadValue, enableSelectFocusedItem, itemTextValues]
+  );
 
   const handleKeyDown = useCallback(
     (event) => {
@@ -67,38 +242,55 @@ const Listbox = ({
           focusNext();
           break;
         case Keys.Space:
-          handleItemClick(activeIndex);
+          handleItemClick(focusedIndex);
           break;
         case Keys.Enter:
-          handleItemClick(activeIndex);
+          handleItemClick(focusedIndex);
           break;
+        case Keys.Home:
+          focusFirst();
+          break;
+        case Keys.End:
+          focusLast();
+          break;
+        default: {
+          if (enableTypeAhead) typeAhead(event.key);
+          break;
+        }
       }
     },
-    [activeIndex, selectedIndexes]
+    [focusedIndex, typeAheadValue, typeAheadGenerator, enableTypeAhead]
   );
 
   const renderChildren = useCallback(() => {
     return React.Children.map(children, (child, index) => {
-      const active = index === activeIndex;
-      const selected = selectedIndexes.includes(index);
+      const active = index === focusedIndex;
+      const selected = selectedItems[index];
+
       return React.cloneElement(child, {
         handleItemClick,
         handleItemMouseEnter,
         index,
         active,
         selected,
+        showCheckIcon,
       });
     });
-  }, [activeIndex, selectedIndexes]);
+  }, [focusedIndex, selectedItems]);
 
   const handleMouseEnter = useCallback(() => {
     if (listboxRef.current) listboxRef.current.focus();
+  }, []);
+
+  const handleMouseLeave = useCallback(() => {
+    manualFocus(-1);
   }, []);
 
   return (
     <div
       ref={listboxRef}
       onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
       className={styles.listbox}
       tabIndex={-1}
       onKeyDown={handleKeyDown}
@@ -123,20 +315,30 @@ Listbox.Item = ({
   active,
   selected,
   handleItemMouseEnter,
+  showCheckIcon,
 }) => {
   return (
     <div
-      className={`${styles.listbox__item}
+      className={`${className} ${styles.listbox__item}
         ${selected && styles.listbox__item__selected}
-        ${active && styles.listbox__item__active}`}
+        ${active && styles.listbox__item__active}
+        ${styles.listbox__item__unselectableText}`}
       onClick={() => handleItemClick(index)}
       onMouseEnter={() => handleItemMouseEnter(index)}
     >
-      {`${children} - ${index} - ${active} - ${selected}`}
+      {showCheckIcon && selected && (
+        <Icon className={`${styles.listbox__icon}`} icon="check" />
+      )}
+      <span>{children}</span>
     </div>
   );
 };
 
-Listbox.propTypes = {};
+Listbox.propTypes = {
+  enableMultiselect: PropTypes.bool,
+  enableSelectFocusedItem: PropTypes.bool,
+  enableTypeAhead: PropTypes.bool,
+  showCheckIcon: PropTypes.bool,
+};
 
 export default Listbox;
