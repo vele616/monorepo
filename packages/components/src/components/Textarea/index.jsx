@@ -3,15 +3,6 @@ import PropTypes from "prop-types";
 import React, { useState, useCallback, useRef, useEffect } from "react";
 import styles from "./index.module.scss";
 
-function getMissingProperties(object, properties) {
-  const keys = Object.keys(object);
-  return properties.filter((prop) => !keys.includes(prop));
-}
-
-function isObject(object) {
-  return typeof object === "object" && object !== null;
-}
-
 const isNumber = (value) => !Number.isNaN(Number(value));
 
 /**
@@ -61,40 +52,35 @@ const Textarea = ({
     if (process.env.NODE_ENV !== "development") return;
 
     if (fluidHeight) {
-      if (!isObject(fluidHeightOptions)) {
+      if (!minRows)
         console.warn(
-          "fluidHeight is set to true but fluidHeightOptions attribute should be a object"
+          "fluidHeight is set to true but fluidHeightOptions.minRows is missing"
         );
-      } else {
-        const missingProperties = getMissingProperties(fluidHeightOptions, [
-          "minRows",
-          "maxRows",
-          "lineHeight",
-        ]);
-        if (missingProperties.length > 0) {
-          console.warn(
-            "fluidHeight is set to true but fluidHeightOptions is missing some properties",
-            missingProperties
-          );
-        }
+      if (!maxRows)
+        console.warn(
+          "fluidHeight is set to true but fluidHeightOptions.maxRows is missing"
+        );
+      if (!lineHeight)
+        console.warn(
+          "fluidHeight is set to true but fluidHeightOptions.lineHeight is missing"
+        );
 
-        if (!isNumber(minRows)) {
-          console.warn("fluidHeightOptions.minRows should be a number");
-        }
-        if (!isNumber(maxRows)) {
-          console.warn("fluidHeightOptions.maxRows should be a number");
-        }
-        if (!isNumber(lineHeight)) {
-          console.warn("fluidHeightOptions.lineHeight should be a number");
-        }
-        if (minRows > maxRows) {
-          console.warn(
-            "fluidHeightOptions.maxRows should be greater or equal fluidHeightOptions.minRows"
-          );
-        }
+      if (!isNumber(minRows)) {
+        console.warn("fluidHeightOptions.minRows should be a number");
+      }
+      if (!isNumber(maxRows)) {
+        console.warn("fluidHeightOptions.maxRows should be a number");
+      }
+      if (!isNumber(lineHeight)) {
+        console.warn("fluidHeightOptions.lineHeight should be a number");
+      }
+      if (minRows > maxRows) {
+        console.warn(
+          "fluidHeightOptions.maxRows should be greater or equal fluidHeightOptions.minRows"
+        );
       }
     }
-  }, [minRows, maxRows, lineHeight]);
+  }, [fluidHeight, minRows, maxRows, lineHeight]);
 
   const textAreaRef = useRef();
 
