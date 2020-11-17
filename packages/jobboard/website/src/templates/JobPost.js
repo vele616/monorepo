@@ -20,6 +20,7 @@ export const JobPostTemplate = (props) => {
     url,
     applyUrl,
     timestamp,
+    summary,
     hashtags,
     logoUrl,
     companyWebsite,
@@ -34,6 +35,7 @@ export const JobPostTemplate = (props) => {
         html={html}
         logoUrl={logoUrl}
         companyName={companyName}
+        summary={summary}
         companyLocation={location}
         companyWebsite={companyWebsite}
         url={url}
@@ -53,6 +55,7 @@ export const pageQuery = graphql`
         applyUrl
         host
         location
+        summary
         timestamp
         title
         url
