@@ -8,7 +8,7 @@
   },
   "description": "A basic component library of the CroCoder team",
   "author": "CroCoder Dev Team",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -29,7 +29,8 @@
     "extends": [
       "airbnb",
       "prettier",
-      "prettier/react"
+      "prettier/react",
+      "plugin:react-hooks/recommended"
     ],
     "plugins": [
       "jest"
@@ -44,6 +45,12 @@
           "forbidDefaultForRequired": false,
           "ignoreFunctionalComponents": true
         }
+      ],
+      "react/button-has-type": [
+        0
+      ],
+      "react/jsx-props-no-spreading": [
+        0
       ]
     }
   },

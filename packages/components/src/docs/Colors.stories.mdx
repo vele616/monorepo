@@ -1,5 +1,5 @@
-import { Meta } from '@storybook/addon-docs/blocks';
-import styles from '../styles/main.module.scss';
+import { Meta } from "@storybook/addon-docs/blocks";
+import styles from "../styles/main.module.scss";
 
 <Meta title="Design System/Colors" />
 
@@ -66,101 +66,139 @@ import styles from '../styles/main.module.scss';
 This page demonstrates all available colors in this component library. Each color is uniquely defined by
 a string name inside of our system and you can pass these string values to specific properties of components.
 As an example, you can pass `blue_6` as the value for the `color` property of the `Typography` component.
-This will set the text color to "#F6FCFD". 
+This will set the text color to "#F6FCFD".
 
 If you click on the squares of colors below, you'll copy the corresponding color's value of this unique string.
-<br/>
+
+<br />
 
 ### Color Definitions
+
 Inside of our system, we specify all colors that can be used in varios contexts of the application. This is
-what we would call a color definition - we do not specify the context for each color (is it a paragraph color or a 
-button background?) but simply define it as existing. 
+what we would call a color definition - we do not specify the context for each color (is it a paragraph color or a
+button background?) but simply define it as existing.
 
 <div class="subheading">All available colors</div>
 
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-  {
-    Object.keys(styles).map(colorKey => {
-      if (
-        colorKey.startsWith('blue')
-        || colorKey.startsWith('gray')
-        || colorKey.startsWith('yellow')
-        || colorKey.startsWith('red')
-        || colorKey.startsWith('green')
-        || colorKey.startsWith('orange')
-        || colorKey.startsWith('white')
-      ) {
-        return (
-          <button onClick={() => {
-            if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
+<div style={{ display: "flex", flexWrap: "wrap" }}>
+  {Object.keys(styles).map((colorKey) => {
+    if (
+      colorKey.startsWith("blue") ||
+      colorKey.startsWith("gray") ||
+      colorKey.startsWith("yellow") ||
+      colorKey.startsWith("red") ||
+      colorKey.startsWith("green") ||
+      colorKey.startsWith("orange") ||
+      colorKey.startsWith("white")
+    ) {
+      return (
+        <button
+          onClick={() => {
+            if (
+              navigator &&
+              navigator.clipboard &&
+              navigator.clipboard.writeText
+            ) {
               navigator.clipboard.writeText(colorKey);
             }
-          }} key={colorKey} className="color-display">
-            <div class="color-background" style={{backgroundColor: styles[colorKey]}}></div>
-            <b>{colorKey}</b> <br/>
-            {styles[colorKey]}
-          </button>
-          
-        )
-      }
-      return '';
-    })
-  }
+          }}
+          key={colorKey}
+          className="color-display"
+        >
+          <div
+            class="color-background"
+            style={{ backgroundColor: styles[colorKey] }}
+          ></div>
+          <b>{colorKey}</b> <br />
+          {styles[colorKey]}
+        </button>
+      );
+    }
+    return "";
+  })}
 </div>
-<br/>
+<br />
 
 ### Color Decisions
+
 Once we decide a color has usage in some context, we create a contextual variable pointing to a color definition (see
 paragraph before). This is what we call a color decision - we decided that a specific color would be used for
 a specific purpose for a specific UI element (such as button background color or text color).
 
-
-
-
 <div class="subheading"> Main colors </div>
 
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-  {
-    ['primary','primary_light', 'secondary', 'secondary_light', 'contrast']
-    .map(colorKey => (
-          <button onClick={() => {
-            if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
-              navigator.clipboard.writeText(colorKey);
-            }
-          }}  className="color-display" key={colorKey}>
-            <div class="color-background" style={{backgroundColor: styles[colorKey]}}></div>
-            <b>{colorKey}</b> <br/>
-            {styles[colorKey]}
-          </button>
-          
-    ))
-  }
+Our component library has several main colors:
+
+- **primary** - the color displayed most frequently across application screen and in various visual elements.
+- **secondary** - accent color for distinguishing. Should be used sparingly but best suited for:
+  - floating action buttons
+  - selection controls (sliders and switches)
+  - progress bars
+  - highlighting selected text
+  - links and headlines
+
+<div style={{ display: "flex", flexWrap: "wrap" }}>
+  {["primary", "primary_light", "secondary", "secondary_light", "contrast"].map(
+    (colorKey) => (
+      <button
+        onClick={() => {
+          if (
+            navigator &&
+            navigator.clipboard &&
+            navigator.clipboard.writeText
+          ) {
+            navigator.clipboard.writeText(colorKey);
+          }
+        }}
+        className="color-display"
+        key={colorKey}
+      >
+        <div
+          class="color-background"
+          style={{ backgroundColor: styles[colorKey] }}
+        ></div>
+        <b>{colorKey}</b> <br />
+        {styles[colorKey]}
+      </button>
+    )
+  )}
 </div>
 
-
-
+Our `primary` and `secondary` colors have their lighter variants that can be used in the application and a
+contrasting color that gives sufficient contrast for reading textual content.
 
 <div class="subheading">Backgrounds</div>
 
 These backgrounds are useful in creating sections of content on pages.
 
-
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-  {
-    ['background_light', 'background_dark', 'background_base']
-    .map(colorKey => (
-           <button onClick={() => {
-  if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(colorKey);
-  }
-}} className="color-display" key={colorKey}>
-            <div class="color-background" style={{backgroundColor: styles[colorKey], border: "1px solid #424C6D"}}></div>
-            <b>{colorKey}</b> <br/>
-            {styles[colorKey]}
-          </button>
-          
-    ))
-  }
+<div style={{ display: "flex", flexWrap: "wrap" }}>
+  {["background_light", "background_dark", "background_base"].map(
+    (colorKey) => (
+      <button
+        onClick={() => {
+          if (
+            navigator &&
+            navigator.clipboard &&
+            navigator.clipboard.writeText
+          ) {
+            navigator.clipboard.writeText(colorKey);
+          }
+        }}
+        className="color-display"
+        key={colorKey}
+      >
+        <div
+          class="color-background"
+          style={{
+            backgroundColor: styles[colorKey],
+            border: "1px solid #424C6D",
+          }}
+        ></div>
+        <b>{colorKey}</b> <br />
+        {styles[colorKey]}
+      </button>
+    )
+  )}
 </div>
 
 <div class="subheading">Textual content</div>
@@ -168,47 +206,56 @@ These backgrounds are useful in creating sections of content on pages.
 The `text_base` represents the base textual color, whist colors annotated from 1
 to 4 show some recommendations for larger textual content (such as paragraphs).
 
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-  {
-    ['text_base', 'text_1', 'text_2', 'text_3', 'text_4' ]
-    .map(colorKey => (
-          <button onClick={() => {
-            if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
-              navigator.clipboard.writeText(colorKey);
-            }
-          }}  className="color-display" key={colorKey}>
-            <div class="color-background" style={{backgroundColor: styles[colorKey]}}></div>
-            <b>{colorKey}</b> <br/>
-            {styles[colorKey]}
-          </button>
-          
-    ))
-  }
+<div style={{ display: "flex", flexWrap: "wrap" }}>
+  {["text_base", "text_1", "text_2", "text_3", "text_4"].map((colorKey) => (
+    <button
+      onClick={() => {
+        if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(colorKey);
+        }
+      }}
+      className="color-display"
+      key={colorKey}
+    >
+      <div
+        class="color-background"
+        style={{ backgroundColor: styles[colorKey] }}
+      ></div>
+      <b>{colorKey}</b> <br />
+      {styles[colorKey]}
+    </button>
+  ))}
 </div>
-
 
 <div class="subheading"> Positive and negative states</div>
 
-Color decisions for positive and negative states of UI. Most likely used with 
+Color decisions for positive and negative states of UI. Most likely used with
 some form of user input. The `_contrast` colors are colors which have sufficient
 color contrast with their corresponding base colors (be it `positive` or `negative`).
 
-
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-  {
-    ['negative', 'negative_contrast', 'positive', 'positive_contrast']
-    .map(colorKey => (
-          <button onClick={() => {
-            if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
-              navigator.clipboard.writeText(colorKey);
-            }
-          }}  className="color-display" key={colorKey}>
-            <div class="color-background" style={{backgroundColor: styles[colorKey]}}></div>
-            <b>{colorKey}</b> <br/>
-            {styles[colorKey]}
-          </button>
-          
-    ))
-  }
+<div style={{ display: "flex", flexWrap: "wrap" }}>
+  {["negative", "negative_contrast", "positive", "positive_contrast"].map(
+    (colorKey) => (
+      <button
+        onClick={() => {
+          if (
+            navigator &&
+            navigator.clipboard &&
+            navigator.clipboard.writeText
+          ) {
+            navigator.clipboard.writeText(colorKey);
+          }
+        }}
+        className="color-display"
+        key={colorKey}
+      >
+        <div
+          class="color-background"
+          style={{ backgroundColor: styles[colorKey] }}
+        ></div>
+        <b>{colorKey}</b> <br />
+        {styles[colorKey]}
+      </button>
+    )
+  )}
 </div>
-
