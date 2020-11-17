@@ -79,14 +79,42 @@ exports.exec = async (event) => {
       }
     }
 
+    const results = await client.scan({
+      TableName: process.env.URLS_TABLE,
+      FilterExpression: "hubUrl = :hubUrl AND archived = :archived",
+      ExpressionAttributeValues: {
+        ":hubUrl": url,
+        ":archived": false,
+      }
+    }).promise();
+
+    const currentUrls = results.Items.map(i => i.url);
+
+    const urlsToArchive = currentUrls.filter((currentUrl) => !urls.includes(currentUrl));
+
+    const toArchive = await Promise.all(
+      urlsToArchive.map((currentUrl) => 
+        client.update({
+          TableName: process.env.URLS_TABLE,
+          Key: { url: currentUrl },
+          UpdateExpression: "set archived = :archived, archivedAt = :archivedAt, updatedAt = :updatedAt",
+          ExpressionAttributeValues: {
+            ":archived": true,
+            ":archivedAt": timestamp,
+            ":updatedAt": timestamp,
+          }
+        }).promise()
+      )
+    );
+
     const result = await Promise.all(
-      urls.map((jobUrl) => {
+      urls.map((jobUrl) => 
         client
           .update({
             TableName: process.env.URLS_TABLE,
             Key: { url: jobUrl },
             UpdateExpression:
-              "SET host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, hubUrl = :hubUrl",
+              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, hubUrl = :hubUrl",
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": url,
@@ -101,19 +129,13 @@ exports.exec = async (event) => {
               ":hubUrl": url,
             },
           })
-          .promise();
-          if (result.Items[0].archived === false && result.Items[0].updatedAt <= (timestamp - 86400)) {
-            client.update({
-              TableName: process.env.URLS_TABLE,
-              UpdateExpression: 'SET archived = :archived, archivedAt = :archivedAt',
-              ExpressionAttributeValues: {
-                ":archived": true,
-                ":archivedAt": timestamp,
-              }
-            })
-          };
-      })
+          .promise()
+      )
     );
+
+
+
+
   } catch (error) {
     console.warn(error);
     return error;
