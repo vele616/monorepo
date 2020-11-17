@@ -113,6 +113,12 @@ export const JobDescription = ({
   url,
   applyUrl,
 }) => {
+  const refUrl = new URL(url);
+  const applyRefUrl = new URL(applyUrl);
+  const companyWebsiteRef = new URL(companyWebsite);
+  refUrl.searchParams.append('ref', 'jobs.crocoder.dev');
+  applyRefUrl.searchParams.append('ref', 'jobs.crocoder.dev');
+  companyWebsiteRef.searchParams.append('ref', 'jobs.crocoder.dev');
   return (
     <Section>
       <Wrapper>
@@ -125,15 +131,15 @@ export const JobDescription = ({
             logoUrl={logoUrl}
             companyName={companyName}
             companyLocation={companyLocation}
-            companyWebsite={companyWebsite}
+            companyWebsite={companyWebsiteRef}
           />
           <Content dangerouslySetInnerHTML={{ __html: html }} />
           <div>
             <br></br>
             <div>timestamp: {timestamp}</div>
-            <a href={url}>url</a>
+            <a target="_blank" href={refUrl}>url</a>
             <br></br>
-            <a href={applyUrl}>Apply to Job</a>
+            <a target="_blank" href={applyRefUrl}>Apply to Job</a>
           </div>
         </Info>
         <CompanyCard
@@ -141,7 +147,7 @@ export const JobDescription = ({
           logoUrl={logoUrl}
           companyName={companyName}
           companyLocation={companyLocation}
-          companyWebsite={companyWebsite}
+          companyWebsite={companyWebsiteRef}
         />
       </Wrapper>
     </Section>

@@ -114,7 +114,7 @@ export const CompanyCard = ({
         <CompanyName>{companyName}</CompanyName>
         <LocationAndWebsite>
           <Location>{companyLocation}</Location>
-          <WebsiteGoTo href={companyWebsite}>website</WebsiteGoTo>
+          <WebsiteGoTo target="_blank" href={companyWebsite}>website</WebsiteGoTo>
         </LocationAndWebsite>
       </Wrapper>
     </Card>
