@@ -90,7 +90,7 @@ resources:
         ProvisionedThroughput:
           ReadCapacityUnits: 1
           WriteCapacityUnits: 1
-        TableName: ${self:provider.environment.URLS_TABLE}
+        TableName: ${self:provider.environment.HUBS_TABLE}
         StreamSpecification:
           StreamViewType: NEW_AND_OLD_IMAGES
     URLSDynamoDbTable:
