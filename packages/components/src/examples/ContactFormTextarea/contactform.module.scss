@@ -1,0 +1,164 @@
+@import '../../styles/main.module.scss';
+
+$custom__tablet: 950;
+$custom__desktop: 1300;
+
+.wrapper {
+  background-color: #F6FCFD;
+  padding: 20px 100px;
+}
+
+.grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(4, minmax(0, 1fr));
+  border-radius: 6px;
+  background-color: $white;
+  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+  position: relative;
+  min-height: 355px;
+
+  max-width: 1370px;
+  margin: auto;
+  padding: 30px 90px;
+  box-sizing: border-box;
+
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+
+.email {
+  grid-column: 3 / span 1;
+  grid-row: 2 / span 1;
+}
+
+.name {
+  grid-column: 3 / span 1;
+  grid-row: 3 / span 1;
+}
+
+.message {
+  grid-column: 4 / span 1;
+  grid-row: 2 / span 2;
+}
+
+.button {
+  grid-column: 3 / span 1;
+  grid-row: 4 / span 1;
+}
+
+.title {
+  grid-column: 1 / span 4;
+  grid-row: 1 / span 1;
+  text-align: center; 
+}
+
+.image {
+  position: absolute;
+  bottom: 0;
+  left: 40px;
+  width: calc(50% + 20px + 90px);
+  bottom: -20px;
+  left: -90px;
+  max-width: 740px;
+}
+
+
+@include mediaQuery(">=desktop", "<=1300px") {
+  .grid {
+    padding: 30px 70px;
+  }
+
+  .wrapper {
+   padding: 20px 50px; 
+  }
+}
+
+
+/**
+ Tablets
+*/
+@include mediaQuery(">=950px", "<desktop"){ 
+ .grid {
+   grid-template-columns: repeat(2, minmax(0, 1fr));
+   grid-template-rows: repeat(3, minmax(0, 1fr));
+   padding: 30px 50px;
+   column-gap: 40px;
+ }
+
+ .image {
+   bottom: -30px;
+ }
+
+ .wrapper {
+   padding: 20px 70px 30px 70px;
+ }
+
+ .title {
+   grid-column: 1 / span 2;
+ }
+
+ .email {
+   grid-column: 1 / span 1;
+   grid-row: 2 / span 1;
+ }
+
+ .name, .message, .button {
+   grid-column: 2 / span 1;
+   grid-row: auto;
+ }
+}
+
+/** Mobile phones and portrait tablets */
+@include mediaQuery(">=mobile", "<950px") { 
+ .grid {
+   grid-template-columns: 1fr;
+   grid-template-rows: repeat(5, minmax(0, 1fr));
+   padding: 30px 40px;
+   max-width: 450px;
+ }
+
+ .title {
+   grid-column: 1 / span 1;
+ }
+
+ .wrapper {
+   padding: 40% 15px 20px 15px;
+ }
+
+ .email, .name, .message, .button {
+   grid-column: 1 / span 1;
+   grid-row: auto;
+ }
+
+ .image {
+   top: 0;
+   left: -15px;
+   width: calc(100% + 30px);
+   transform: translateY(-100%);
+ }
+
+ .button {
+   margin-top: 20px;
+ }
+}
+
+
+/* Small mobile edge case */
+@include mediaQuery("<=360px") {
+ .grid {
+   padding: 30px;
+ }
+}
+
+
+@include mediaQuery(">=tabletPortrait", "<950px"){
+ .grid {
+   padding: 30px 70px;
+   max-width: 600px;
+ }
+
+ .wrapper {
+   padding: 40% 70px 20px 70px;
+ }
+}

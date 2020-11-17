@@ -14,6 +14,7 @@ const template = (
   timestamp,
   body,
   keywords,
+  jobType,
   companyName,
   logoUrl,
   companyWebsite,
@@ -29,6 +30,7 @@ url: "${url}"
 applyUrl: "${applyUrl}"
 timestamp: ${timestamp}
 hashtags: "${keywords}"
+jobType: "${jobType}"
 ${logoUrl ? `logoUrl: "${logoUrl}"` : ''}
 companyWebsite: "${companyWebsite}"
 summary: "${summary}"

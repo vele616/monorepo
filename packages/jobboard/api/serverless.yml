@@ -24,6 +24,33 @@ provider:
 functions:
   auth:
     handler: src/auth.exec
+  newsletter-subscribe:
+    handler: src/newsletter/subscribe.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: newsletter
+          method: post
+          cors: true
+  newsletter-confirm:
+    handler: src/newsletter/confirm.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: newsletter/{email}/{hash}
+          method: get
+          cors: true
+  newsletter-unsubscribe:
+    handler: src/newsletter/unsubscribe.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: unsubscribe/{email}/{hash}
+          method: get
+          cors: true
   hub-list:
     handler: src/hubs/list.exec
     events:
@@ -89,3 +116,29 @@ custom:
       - --window-size=1280,1696
       - --hide-scrollbars
       - --ignore-certificate-errors
+resources:
+  Resources:
+    NewsletterDynamoDbTable:
+      Type: 'AWS::DynamoDB::Table'
+      DeletionPolicy: Retain
+      Properties:
+        AttributeDefinitions:
+          -
+            AttributeName: "email"
+            AttributeType: "S"
+          -
+            AttributeName: "emailHash"
+            AttributeType: "S"
+        KeySchema:
+          -
+            AttributeName: "email"
+            KeyType: HASH
+          - 
+            AttributeName: "emailHash"
+            KeyType: "RANGE"
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+        TableName: ${self:provider.environment.NEWSLETTER_TABLE}
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
