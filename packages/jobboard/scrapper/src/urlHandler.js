@@ -86,7 +86,7 @@ exports.exec = async (event) => {
             TableName: process.env.URLS_TABLE,
             Key: { url: jobUrl },
             UpdateExpression:
-              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable",
+              "SET host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, hubUrl = :hubUrl",
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": url,
@@ -98,9 +98,20 @@ exports.exec = async (event) => {
               ":companyLogo": logoKey ? `${process.env.LOGOS_S3_URL}/${logoKey}`: null,
               ":companyWebsite": companyWebsite,
               ":platform": platform,
+              ":hubUrl": url,
             },
           })
           .promise();
+          if (result.Items[0].archived === false && result.Items[0].updatedAt <= (timestamp - 86400)) {
+            client.update({
+              TableName: process.env.URLS_TABLE,
+              UpdateExpression: 'SET archived = :archived, archivedAt = :archivedAt',
+              ExpressionAttributeValues: {
+                ":archived": true,
+                ":archivedAt": timestamp,
+              }
+            })
+          };
       })
     );
   } catch (error) {
