@@ -32,16 +32,18 @@ exports.exec = async () => {
 
     const results = result.Items;
 
-    const group = results.reduce((acc, item) => {
-      acc[item.archived] = [...acc[item.archived] || [], item];
-      return acc;
-    }, {});
+    const archivedTrue = results.filter((item) => item.archived === true);
 
-    console.log('archived', group);
+    const archivedFalse = results.filter((item) => item.archived === false);
+
+    const archived = {
+      archivedTrue,
+      archivedFalse,
+    };
 
     return {
       statusCode: 200,
-      body: `archived:${JSON.stringify(group)}`,
+      body: JSON.stringify(archived),
     };
   } catch (error) {
     console.error(error);
