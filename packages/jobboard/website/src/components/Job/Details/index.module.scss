@@ -101,9 +101,12 @@
   grid-row: 1 /span 2;
   display: flex;
   align-items: center;
-  height: auto;
-  width: 100%;
-  max-width: 100%;
+
+  img {
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+  }
 
   @include mediaQuery("<750px") {
     grid-row: 1 /span 1;
