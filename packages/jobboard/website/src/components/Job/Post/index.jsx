@@ -1,12 +1,7 @@
 import React from 'react';
-import {
-  Typography,
-  Flexbox,
-  Grid,
-  Card,
-  Tag,
-  Icon,
-} from '@crocoder-dev/components';
+import { Typography, Grid, Card, Icon } from '@crocoder-dev/components';
+import HashtagList from '../../HashtagList';
+import CompanyLogo from '../../Company/Logo';
 import styles from './index.module.scss';
 
 const JobPost = ({
@@ -18,20 +13,10 @@ const JobPost = ({
   summary,
 }) => (
   <Grid alignItems="center" className={styles.wrapper}>
-    <img
-      className={
-        !!companyLogo ? styles.image : `${styles.image} ${styles.filter}`
-      }
-      src={companyLogo || '/images/logo.png'}
-    />
+    <CompanyLogo src={companyLogo} className={styles.image} />
     <Card narrow className={styles.card}>
       <Grid alignItems="baseline" className={styles.post__content}>
-        <img
-          className={
-            !!companyLogo ? styles.mini : `${styles.mini} ${styles.filter}`
-          }
-          src={companyLogo || '/images/logo.png'}
-        />
+        <CompanyLogo src={companyLogo} className={styles.mini} />
         <Typography
           className={styles.company_name}
           fontSize={20}
@@ -52,14 +37,7 @@ const JobPost = ({
             {title}
           </a>
         </Typography>
-        <Flexbox className={styles.tags}>
-          {tags &&
-            tags
-              .split(' ')
-              .filter((t) => t !== '')
-              .slice(0, 3)
-              .map((tag) => <Tag key={tag}>{tag}</Tag>)}
-        </Flexbox>
+        <HashtagList className={styles.tags} tags={tags} />
         <Typography color="gray_2" fontSize={16} className={styles.lorem}>
           {summary}
         </Typography>
@@ -79,6 +57,4 @@ const JobPost = ({
   </Grid>
 );
 
-export const JobList = ({ jobs }) => {
-  return jobs.map((job) => <JobPost key={job.jobUrl} {...job} />);
-};
+export default JobPost;
