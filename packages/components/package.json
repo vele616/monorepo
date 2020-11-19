@@ -56,7 +56,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --pattern \"**/*.*(js|jsx|css|scss)\" --staged && yarn test"
+      "pre-commit": "pretty-quick --pattern \"**/*.*(js|jsx|css)\" --staged && yarn test"
     }
   },
   "publishConfig": {
