@@ -8,7 +8,8 @@ export const OtherJobListLimit12 = () => (
       query {
         allMarkdownRemark(
           sort: { fields: frontmatter___timestamp, order: DESC }
-          limit: 12
+          limit: 12,
+          filter: {frontmatter: {jobType: {eq: "software"}}}
         ) {
           nodes {
             id

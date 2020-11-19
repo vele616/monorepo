@@ -53,19 +53,19 @@ const Head = ({
     <link rel="canonical" href={canonical} />
 
     <meta
-      content={`${siteUrl}/${imageUrl}` || `${siteUrl}/social.png`}
+      content={`${siteUrl}/social.png`}
       property="og:image"
     />
     <meta content="1024" property="og:image:width" />
     <meta content="512" property="og:image:height" />
     <meta
-      content={`${siteUrl}/${imageUrl}` || `${siteUrl}/social.png`}
+      content={`${siteUrl}/social.png`}
       name="twitter:image"
     />
     <meta content="1024" name="twitter:image:width" />
     <meta content="512" name="twitter:image:height" />
     <meta
-      content={`${siteUrl}/${imageUrl}` || `${siteUrl}/social.png`}
+      content={`${siteUrl}/social.png`}
       property="og:image"
     />
     <meta content="1024" property="og:image:width" />

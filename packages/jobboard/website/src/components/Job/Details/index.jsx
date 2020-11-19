@@ -18,13 +18,15 @@ const JobDetails = ({
   url,
   applyUrl,
 }) => {
-  const [applyRefUrl, companyWebsiteRef] = useMemo(() => {
+  const [urlRef, applyRefUrl, companyWebsiteRef] = useMemo(() => {
     const applyRefUrl = new URL(applyUrl);
     const companyWebsiteRef = new URL(companyWebsite);
+    const urlRef = new URL(url);
+    urlRef.searchParams.append('ref', 'jobs.crocoder.dev');
     applyRefUrl.searchParams.append('ref', 'jobs.crocoder.dev');
     companyWebsiteRef.searchParams.append('ref', 'jobs.crocoder.dev');
-    return [applyRefUrl, companyWebsiteRef];
-  }, [url]);
+    return [urlRef, applyRefUrl, companyWebsiteRef];
+  }, [url, applyUrl, companyWebsite]);
 
   return (
     <Section style={{ paddingTop: 0 }}>
@@ -57,6 +59,8 @@ const JobDetails = ({
         <VisitWebsite
           className={styles.companyWebsite}
           href={companyWebsiteRef}
+          target="_blank"
+          rel="noopener"
           hiddenClassName={styles.mobileHide}
         />
         <HashtagList
@@ -76,9 +80,11 @@ const JobDetails = ({
           <a
             className="link"
             style={{ fontSize: 'inherit' }}
-            href={applyRefUrl}
+            href={urlRef}
+            target="_blank"
+            rel="noopener"
           >
-            {applyRefUrl.hostname}
+            {urlRef.hostname}
           </a>
         </Typography>
 
@@ -86,6 +92,8 @@ const JobDetails = ({
         <a
           href={applyRefUrl}
           className={`${styles.applyButton} ${styles.linkButton}`}
+          target="_blank"
+          rel="noopener"
         >
           Apply for position
         </a>
