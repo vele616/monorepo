@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { JobDescription } from '../components/JobDescription';
+import JobDetails from '../components/Job/Details';
 import Layout from '../components/Layout';
 
 export const JobPostTemplate = (props) => {
@@ -17,6 +17,7 @@ export const JobPostTemplate = (props) => {
     url,
     applyUrl,
     timestamp,
+    summary,
     hashtags,
     logoUrl,
     companyWebsite,
@@ -25,12 +26,13 @@ export const JobPostTemplate = (props) => {
 
   return (
     <Layout>
-      <JobDescription
+      <JobDetails
         title={title}
         hashtags={hashtags}
         html={html}
         logoUrl={logoUrl}
         companyName={companyName}
+        summary={summary}
         companyLocation={location}
         companyWebsite={companyWebsite}
         url={url}
@@ -50,6 +52,7 @@ export const pageQuery = graphql`
         applyUrl
         host
         location
+        summary
         timestamp
         title
         url

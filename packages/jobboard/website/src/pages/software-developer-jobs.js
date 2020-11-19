@@ -1,7 +1,7 @@
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
-import { DevJobList } from '../components/JobList/DevJobList';
-import { JobSection } from '../components/JobSection';
+import { DevJobList } from '../components/Job/List';
+import JobSection from '../components/Job/Section';
 import Newsletter from '../components/Newsletter';
 import Layout from '../components/Layout';
 
