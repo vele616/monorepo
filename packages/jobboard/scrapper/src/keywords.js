@@ -666,7 +666,7 @@ module.exports = {
         rating: 5,
         class: {
             software: 0,
-            other: 100,
+            other: 50,
         },
         hashtag: '#English',
         keywords : ['english', 'native speaking'],
@@ -918,8 +918,8 @@ module.exports = {
     office: {
         rating: 20,
         class: {
-            software: 10,
-            other: 90,
+            software: 0,
+            other: 50,
         },
         hashtag: '#office',
         keywords: ['office365', 'word', 'excel', 'outlook', 'powerpoint'],
