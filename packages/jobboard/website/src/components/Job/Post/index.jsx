@@ -15,7 +15,7 @@ const JobPost = ({
   <Grid alignItems="center" className={styles.wrapper}>
     <CompanyLogo src={companyLogo} className={styles.image} />
     <Card narrow className={styles.card}>
-      <Grid alignItems="baseline" className={styles.post__content}>
+      <Grid className={styles.post__content}>
         <CompanyLogo src={companyLogo} className={styles.mini} />
         <Typography
           className={styles.company_name}

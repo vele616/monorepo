@@ -19,16 +19,16 @@ const Footer = ({ image, socialMedia, sticky }) => {
       socialLinks={(
         <>
           {socialMedia.map(mediaLink => (
-            <Link  className={styles.icon}  key={mediaLink.icon} href={mediaLink.link}>
+            <Link className={styles.icon}  key={mediaLink.icon} to={mediaLink.link}>
               <Icon color="gray_1" icon={mediaLink.icon} />
             </Link>
           ))}
         </>
       )}
     >
-      <Link style={{ color: 'inherit' }} className="link">Home</Link>
-      <Link style={{ color: 'inherit' }} className="link">Terms of use</Link>
-      <Link style={{ color: 'inherit' }} className="link">Privacy policy</Link>
+      <Link to="/" style={{ color: 'inherit' }} className="link">Home</Link>
+      <a href="https://crocoder.dev/terms" style={{ color: 'inherit' }} className="link">Terms of use</a>
+      <a href="https://crocoder.dev/privacy_policy"style={{ color: 'inherit' }} className="link">Privacy policy</a>
     </FooterComponent>
   )
 };
