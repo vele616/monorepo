@@ -117,15 +117,16 @@ exports.exec = async (event) => {
           return comparison;
         })
         .map((t) => t.hashtag);
-
+        
       const classification = Object.values(keywords)
         .filter((k) => hashtags.includes(k.hashtag))
-        .map((i) => i.class)
+        .map((i) => ({ c: i.class, hashtag: i.hashtag }))
         .reduce(
           (acc, t) => {
+            const mod = (hashtags.length - hashtags.findIndex(i => i === t.hashtag)) % 3 + 1;
             return {
-              software: acc.software + t.software,
-              other: acc.other + t.other,
+              software: acc.software + t.c.software * mod,
+              other: acc.other + t.c.other * mod,
             };
           },
           { software: 0, other: 0 }

@@ -6,7 +6,7 @@ export const OtherJobListLimit12 = (props) => (
   <StaticQuery
     query={graphql`
     query {
-      allMarkdownRemark(sort: {fields: frontmatter___timestamp, order: DESC}, limit: 12) {
+      allMarkdownRemark(sort: {fields: frontmatter___timestamp, order: DESC}, limit: 12, filter: {frontmatter: {jobType: {eq: "other"}}}) {
       nodes {
         id
         fields {

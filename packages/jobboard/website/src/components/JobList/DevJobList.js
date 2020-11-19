@@ -6,7 +6,7 @@ export const DevJobList = (props) => (
   <StaticQuery
     query={graphql`
   query {
-    allMarkdownRemark(sort: {fields: frontmatter___timestamp, order: DESC}) {
+    allMarkdownRemark(sort: {fields: frontmatter___timestamp, order: DESC}, filter: {frontmatter: {jobType: {eq: "software"}}}) {
     nodes {
       id
       fields {

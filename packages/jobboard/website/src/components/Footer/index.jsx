@@ -5,10 +5,10 @@ import { Icon, Footer as FooterComponent } from '@crocoder-dev/components';
 import styles from './index.module.scss';
 
 
-const Footer = ({ image, socialMedia }) => {
-
+const Footer = ({ image, socialMedia, sticky }) => {
   return (
     <FooterComponent
+      className={sticky ? styles.sticky : ''}
       logo={
         <Img
           fadeIn={false}
@@ -33,7 +33,7 @@ const Footer = ({ image, socialMedia }) => {
   )
 };
 
-const FooterWithQuery = () => (
+const FooterWithQuery = ({sticky}) => (
   <StaticQuery
     query={graphql`
     query {
@@ -54,7 +54,7 @@ const FooterWithQuery = () => (
       }
     }
   `}
-    render={data => (<Footer {...data.homeJson.footer} />)}
+    render={data => (<Footer {...data.homeJson.footer} sticky={sticky} />)}
   />
 );
 
