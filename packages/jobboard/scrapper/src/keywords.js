@@ -220,8 +220,8 @@ module.exports = {
     ios: {        
         rating: 40,
         class: {
-            software: 60,
-            other: 40,
+            software: 80,
+            other: 20,
         },
         hashtag: '#ios',
         keywords: ['ios', 'iPhoneOS'],
@@ -247,8 +247,8 @@ module.exports = {
     aws: {        
         rating: 40,
         class: {
-            software: 60,
-            other: 40,
+            software: 100,
+            other: 0,
         },
         hashtag: '#aws',
         keywords: ['aws', 'amazon'],
@@ -256,8 +256,8 @@ module.exports = {
     azure: {        
         rating: 40,
         class: {
-            software: 60,
-            other: 40,
+            software: 100,
+            other: 0,
         },
         hashtag: '#azure',
         keywords: ['azure'],
@@ -265,8 +265,8 @@ module.exports = {
     gcp: {        
         rating: 40,
         class: {
-            software: 40,
-            other: 60,
+            software: 100,
+            other: 0,
         },
         hashtag: '#googlecloud',
         keywords: ['gcp', 'googlecloud'],
@@ -274,8 +274,8 @@ module.exports = {
     heroku: {        
         rating: 40,
         class: {
-            software: 60,
-            other: 40,
+            software: 100,
+            other: 0,
         },
         hashtag: '#heroku',
         keywords: ['heroku'],
@@ -538,8 +538,8 @@ module.exports = {
     redis: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#redis',
         keywords: ['redis'],
@@ -547,8 +547,8 @@ module.exports = {
     postgre: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#postgresql',
         keywords: ['postgre', 'postgresql', 'psql'],
@@ -556,8 +556,8 @@ module.exports = {
     elasticsearch: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#elasticsearch',
         keywords: ['elasticsearch', 'elastic', 'elk', 'kibana'],
@@ -565,8 +565,8 @@ module.exports = {
     mongodb: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#mongodb',
         keywords: ['mongodb', 'mongo'],
@@ -574,8 +574,8 @@ module.exports = {
     firebase: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#firebase',
         keywords: ['firebase'],
@@ -583,8 +583,8 @@ module.exports = {
     mariadb: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#mariadb',
         keywords: ['mariadb'],
@@ -592,8 +592,8 @@ module.exports = {
     sqlserver: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#sqlserver',
         keywords: ['sqlserver'],
@@ -601,8 +601,8 @@ module.exports = {
     dynamodb: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#dynamodb',
         keywords: ['dynamodb', 'ddb'],
@@ -610,8 +610,8 @@ module.exports = {
     sqlite: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#sqlite',
         keywords: ['sqlite'],
@@ -619,8 +619,8 @@ module.exports = {
     mysql: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#mysql',
         keywords: ['mysql'],
@@ -628,8 +628,8 @@ module.exports = {
     cassandra: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#cassandra',
         keywords: ['cassandra'],
@@ -637,8 +637,8 @@ module.exports = {
     couchbase: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#couchbase',
         keywords: ['couchbase', 'membase'],
@@ -646,8 +646,8 @@ module.exports = {
     oracle: {        
         rating: 30,
         class: {
-            software: 70,
-            other: 30,
+            software: 100,
+            other: 0,
         },
         hashtag: '#oracle',
         keywords: ['oracle', 'oracledb'],
@@ -765,8 +765,8 @@ module.exports = {
     asana: {
         rating: 30,
         class: {
-            software: 10,
-            other: 90,
+            software: 50,
+            other: 50,
         },
         hashtag: '#asana',
         keywords: ['asana'],
@@ -819,8 +819,8 @@ module.exports = {
     designer: {
         rating: 40,
         class: {
-            software: 40,
-            other: 60,
+            software: 20,
+            other: 80,
         },
         hashtag: '#ui/ux',
         keywords: ['designer', 'designing', 'ui', 'ux', 'ui/ux'],
@@ -846,8 +846,8 @@ module.exports = {
     git: {
         rating: 40,
         class: {
-            software: 20,
-            other: 80,
+            software: 100,
+            other: 0,
         },
         hashtag: '#git',
         keywords: ['git', 'github'],
@@ -882,8 +882,8 @@ module.exports = {
     jira: {
         rating: 30,
         class: {
-            software: 20,
-            other: 80,
+            software: 50,
+            other: 50,
         },
         hashtag: '#jira',
         keywords: ['jira'],
@@ -909,8 +909,8 @@ module.exports = {
     monitoring: {
         rating: 10,
         class: {
-            software: 10,
-            other: 90,
+            software: 50,
+            other: 50,
         },
         hashtag: '#monitoring',
         keywords: ['monitoring'],
@@ -936,8 +936,8 @@ module.exports = {
     optimization: {
         rating: 10,
         class: {
-            software: 20,
-            other: 80,
+            software: 70,
+            other: 30,
         },
         hashtag: '#optimization',
         keywords: ['optimization', 'optimize'],
@@ -945,8 +945,8 @@ module.exports = {
     plc: {
         rating: 80,
         class: {
-            software: 80,
-            other: 20,
+            software: 0,
+            other: 100,
         },
         hashtag: '#plc',
         keywords: ['plc'],
@@ -972,8 +972,8 @@ module.exports = {
     scrum: {
         rating: 30,
         class: {
-            software: 20,
-            other: 80,
+            software: 50,
+            other: 50,
         },
         hashtag: '#scrum',
         keywords: ['scrum', 'kanban', 'agile'],
@@ -981,8 +981,8 @@ module.exports = {
     security: {
         rating: 40,
         class: {
-            software: 60,
-            other: 40,
+            software: 100,
+            other: 0,
         },
         hashtag: '#devsec',
         keywords: ['cyber security', 'security', 'devsec', 'devsecops'],
@@ -1008,8 +1008,8 @@ module.exports = {
     uml: {
         rating: 30,
         class: {
-            software: 80,
-            other: 20,
+            software: 0,
+            other: 100,
         },
         hashtag: '#uml',
         keywords: ['uml'],
