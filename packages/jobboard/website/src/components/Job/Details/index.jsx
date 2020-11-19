@@ -43,7 +43,9 @@ const JobDetails = ({
         <Icon icon="arrow-left" /> Go back
       </GoBackLink>
       <Grid className={styles.grid}>
-        <CompanyLogo className={styles.image} src={logoUrl} />
+        <div className={styles.image}>
+          <CompanyLogo src={logoUrl} />
+        </div>
         <Typography
           fontSize="34"
           fontWeight={700}
