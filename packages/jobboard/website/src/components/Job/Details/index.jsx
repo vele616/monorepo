@@ -7,7 +7,7 @@ import TitleWithSummary from './TitleWithSummary';
 import VisitWebsite from '../../Company/VisitWebsite';
 import HashtagList from '../../HashtagList';
 
-export const JobDescription = ({
+const JobDetails = ({
   title,
   hashtags,
   html,
@@ -98,3 +98,5 @@ export const JobDescription = ({
     </Section>
   );
 };
+
+export default JobDetails;

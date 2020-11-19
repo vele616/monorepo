@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { JobDescription } from '../components/Job/Details';
+import JobDetails from '../components/Job/Details';
 import Layout from '../components/Layout';
 
 export const JobPostTemplate = (props) => {
@@ -26,7 +26,7 @@ export const JobPostTemplate = (props) => {
 
   return (
     <Layout>
-      <JobDescription
+      <JobDetails
         title={title}
         hashtags={hashtags}
         html={html}
