@@ -1,9 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { JobDescription } from '../components/JobDescription';
-import Footer from '../components/Footer';
-import { Navigation, Button } from '@crocoder-dev/components';
-import CrocNav from '../images/croc-nav.svg';
+import { JobDescription } from '../components/Job/Details';
 import Layout from '../components/Layout';
 
 export const JobPostTemplate = (props) => {
