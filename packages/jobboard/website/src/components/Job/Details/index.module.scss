@@ -1,11 +1,43 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
 
+.linkButton {
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 25px 14px 25px;
+  background-color: $primary;
+  border-color: $primary;
+  color: $contrast;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
 
+  &:disabled,
+  &:disabled:hover {
+    cursor: not-allowed;
+    background-color: map-get($contrasts, "gray_12");
+    color: $gray_12;
+    border-color: map-get($contrasts, "gray_12");
+  }
 
-.filter {
-  filter: grayscale(100%);
+  &:hover {
+    background-color: $primary_light;
+    border-color: $primary_light;
+  }
+
+  &:focus {
+    outline: none;
+    background-color: $primary_light;
+    border-color: $contrast;
+  }
 }
+
 
 .text {
   color: $gray_1;
@@ -59,17 +91,20 @@
   }
 }
 
+.goBack {
+  position: relative;
+  left: -25px;
+}
+
 .image {
   grid-column: 1 / span 1;
   grid-row: 1 /span 2;
   display: flex;
   align-items: center;
+  height: auto;
+  width: 100%;
+  max-width: 100%;
 
-  & > img {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-  }
   @include mediaQuery("<750px") {
     grid-row: 1 /span 1;
   }
@@ -165,6 +200,7 @@
 
 .button {
   margin-top: 1em;
+  display:inline-block;
 
   @include mediaQuery("<750px") {
    margin: 1em auto;
@@ -177,7 +213,6 @@
   grid-row: 4 / span 1;
   max-width: 273px;
   justify-self: flex-end;
-
 
   @include mediaQuery("<750px") {
     text-align: center;
