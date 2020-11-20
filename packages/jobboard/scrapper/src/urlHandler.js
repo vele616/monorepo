@@ -79,6 +79,34 @@ exports.exec = async (event) => {
       }
     }
 
+    const results = await client.scan({
+      TableName: process.env.URLS_TABLE,
+      FilterExpression: "hubUrl = :hubUrl AND archived = :archived",
+      ExpressionAttributeValues: {
+        ":hubUrl": url,
+        ":archived": false,
+      }
+    }).promise();
+
+    const currentUrls = results.Items.map(i => i.url);
+
+    const urlsToArchive = currentUrls.filter((currentUrl) => !urls.includes(currentUrl));
+
+    const toArchive = await Promise.all(
+      urlsToArchive.map((currentUrl) => 
+        client.update({
+          TableName: process.env.URLS_TABLE,
+          Key: { url: currentUrl },
+          UpdateExpression: "set archived = :archived, archivedAt = :archivedAt, updatedAt = :updatedAt",
+          ExpressionAttributeValues: {
+            ":archived": true,
+            ":archivedAt": timestamp,
+            ":updatedAt": timestamp,
+          }
+        }).promise()
+      )
+    );
+
     const result = await Promise.all(
       urls.map((jobUrl) => {
         return client
@@ -86,7 +114,7 @@ exports.exec = async (event) => {
             TableName: process.env.URLS_TABLE,
             Key: { url: jobUrl },
             UpdateExpression:
-              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable",
+              "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, hubUrl = :hubUrl",
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": url,
@@ -98,11 +126,16 @@ exports.exec = async (event) => {
               ":companyLogo": logoKey ? `${process.env.LOGOS_S3_URL}/${logoKey}`: null,
               ":companyWebsite": companyWebsite,
               ":platform": platform,
+              ":hubUrl": url,
             },
           })
-          .promise();
-      })
+          .promise()
+      )
     );
+
+
+
+
   } catch (error) {
     console.warn(error);
     return error;
