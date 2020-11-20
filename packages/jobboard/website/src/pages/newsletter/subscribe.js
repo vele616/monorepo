@@ -2,13 +2,14 @@ import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
 import Layout from '../../components/Layout';
 import { graphql } from 'gatsby';
+import { Location } from '@reach/router';
 
-const SubscribePage = ({ data }) => {
+const Subscribe = ({ data, location }) => {
   const {
     subscribe,
   } = data.newsletterJson;
 
-  const params = new URLSearchParams(document.location.search);
+  const params = new URLSearchParams(location.search);
 
   const message = subscribe[params.get('response')] ? subscribe[params.get('response')] : subscribe['DEFAULT'];
 
@@ -18,6 +19,14 @@ const SubscribePage = ({ data }) => {
     </Layout>
   );
 };
+
+const SubscribePage = (props) => (
+  <Location>
+    {({ location }) => (
+      <Subscribe {...props} location={location}  ></Subscribe>
+    )}
+  </Location>
+);
 
 export default SubscribePage;
 

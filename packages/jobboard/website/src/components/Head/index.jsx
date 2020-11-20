@@ -17,18 +17,6 @@ const Head = ({
   canonical = siteUrl + (location.pathname || ''),
   pageTitleFull = title ? `${title} - ${siteTitle}` : siteTitle,
 }) => {
-  console.log({
-    siteTitle,
-    siteTitleShort,
-    siteDescription,
-    siteUrl,
-    themeColor,
-    social,
-    canonical,
-    pageTitleFull,
-    title,
-    description,
-  });
   return (
     <Helmet defer={false}>
       <html lang="en" />
