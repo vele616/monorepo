@@ -30,14 +30,12 @@ exports.exec = async () => {
       },
     ).promise();
 
-    const archived = {
-      archived: (result.Items).filter((item) => item.archived === true),
-      new: (result.Items).filter((item) => item.archived === false),
-    };
-
     return {
       statusCode: 200,
-      body: JSON.stringify(archived),
+      body: JSON.stringify({
+        archived: (result.Items).filter((item) => item.archived === true),
+        new: (result.Items).filter((item) => item.archived === false),
+      }),
     };
   } catch (error) {
     console.error(error);
