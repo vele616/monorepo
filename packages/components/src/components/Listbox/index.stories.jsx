@@ -6,110 +6,114 @@ export default {
   component: Listbox,
 };
 
-const TemplateWithEventListeners = (args) => {
-  function handleItemSelect(item) {
-    console.log("Item is now selected", item);
-  }
-
-  function handleItemUnselect(item) {
-    console.log("Item is not selected anymore", item);
-  }
-
-  function handleChange(items) {
-    console.log("Changed", items);
-  }
-
+const Template = (args) => {
   return (
     <Listbox
-      onSelectionChange={handleChange}
-      onItemSelect={handleItemSelect}
-      onItemUnselect={handleItemUnselect}
-      {...args}
+      disabled={args.disabled}
+      enableMultiselect={args.enableMultiselect}
+      enableSelectFocusedOption={args.enableSelectFocusedOption}
+      enableTypeAhead={args.enableTypeAhead}
+      onOptionSelect={args.onOptionSelect}
+      onOptionUnselect={args.onOptionUnselect}
+      onChange={args.onChange}
+      orientation={args.orientation}
+      showCheckIcon={args.showCheckIcon}
     >
-      <Listbox.Item>Ananas</Listbox.Item>
-      <Listbox.Item>Avocado</Listbox.Item>
-      <Listbox.Item>Antilope</Listbox.Item>
-      <Listbox.Item>America</Listbox.Item>
-      <Listbox.Item>Australia</Listbox.Item>
-      <Listbox.Item>Banana</Listbox.Item>
-      <Listbox.Item>Bush</Listbox.Item>
-      <Listbox.Item>Bloom</Listbox.Item>
-      <Listbox.Item>Doom</Listbox.Item>
+      <Listbox.Option value="Custom value for ananas">Ananas</Listbox.Option>
+      <Listbox.Option>Avocado</Listbox.Option>
+      <Listbox.Option>Arm</Listbox.Option>
+      <Listbox.Option disabled>Banana</Listbox.Option>
+      <Listbox.Option>Bush</Listbox.Option>
+      <Listbox.Option>Boolean</Listbox.Option>
+      <Listbox.Option>Balcony</Listbox.Option>
+      <Listbox.Option>Boom</Listbox.Option>
+      <Listbox.Option>Boomerang</Listbox.Option>
+      <Listbox.Option disabled>Bloom</Listbox.Option>
+      <Listbox.Option>Doom</Listbox.Option>
     </Listbox>
   );
 };
 
-export const Story1 = TemplateWithEventListeners.bind({});
-Story1.storyName = "Single select";
+export const Story1 = Template.bind({});
+Story1.storyName = "Single Select";
 Story1.args = {};
+Story1.parameters = {
+  docs: {
+    description: {
+      story: `Only single option can be selected. Some are disabled.`,
+    },
+  },
+};
 
-export const Story2 = TemplateWithEventListeners.bind({});
+export const Story2 = Template.bind({});
 Story2.storyName = "Multi select";
 Story2.args = {
   enableMultiselect: true,
 };
+Story2.parameters = {
+  docs: {
+    description: {
+      story: `Multiple options can be selected. Some are disabled.`,
+    },
+  },
+};
 
-export const Story3 = TemplateWithEventListeners.bind({});
-Story3.storyName = "Single select follow focus";
+export const Story3 = Template.bind({});
+Story3.storyName = "Keyboard interaction";
 Story3.args = {
-  enableSelectFocusedItem: true,
+  enableMultiselect: true,
+};
+Story3.parameters = {
+  docs: {
+    description: {
+      story: `
+      Press Arrow Down to focus next option.
+      Press Arrow Up to focus previous option.
+      Press Enter or Space to select option.
+      Press Home to select first option.
+      Press End to select last option.
+      Press any other key to focus option that starts with that key.
+      `,
+    },
+  },
 };
 
-const TemplateCustomItems = () => {
-  function handleItemSelect(item) {
-    console.log("Item is now selected", item);
-  }
-
-  return (
-    <Listbox onItemSelect={handleItemSelect}>
-      <Listbox.Item>
-        <button>One</button>
-        <button>Two</button>
-        <button>Three</button>
-      </Listbox.Item>
-      <Listbox.Item>Banana</Listbox.Item>
-      <Listbox.Item>Banana Yellow</Listbox.Item>
-      <Listbox.Item>Banana Red</Listbox.Item>
-      <Listbox.Item>
-        <div>
-          I am parent
-          <div>I am child 1</div>
-          <div>I am child 2</div>
-        </div>
-      </Listbox.Item>
-      <Listbox.Item>
-        <button>One</button>
-        <button>Two</button>
-        <button>Three</button>
-      </Listbox.Item>
-    </Listbox>
-  );
-};
-
-export const Story4 = TemplateCustomItems.bind({});
-Story4.storyName = "Custom Items";
-Story4.args = {};
-
-export const Story5 = () => {
+export const Story4 = () => {
   return (
     <div>
-      Two Items
-      <div>
-        <Listbox>
-          <Listbox.Item>Ananas</Listbox.Item>
-          <Listbox.Item>Avocado</Listbox.Item>
-        </Listbox>
-      </div>
-      One Item
-      <div>
-        <Listbox>
-          <Listbox.Item>Ananas</Listbox.Item>
-        </Listbox>
-      </div>
-      No Items
-      <div>
-        <Listbox></Listbox>
-      </div>
+      <p>Press Tab to change focus</p>
+      <Listbox>
+        <Listbox.Option>Ananas</Listbox.Option>
+        <Listbox.Option>Avocado</Listbox.Option>
+        <Listbox.Option>Banana</Listbox.Option>
+        <Listbox.Option>Bush</Listbox.Option>
+        <Listbox.Option>Bloom</Listbox.Option>
+        <Listbox.Option>Doom</Listbox.Option>
+      </Listbox>
+      <Listbox>
+        <Listbox.Option>Ananas</Listbox.Option>
+        <Listbox.Option>Avocado</Listbox.Option>
+        <Listbox.Option>Banana</Listbox.Option>
+        <Listbox.Option>Bush</Listbox.Option>
+        <Listbox.Option>Bloom</Listbox.Option>
+        <Listbox.Option>Doom</Listbox.Option>
+      </Listbox>
+      <Listbox>
+        <Listbox.Option>Ananas</Listbox.Option>
+        <Listbox.Option>Avocado</Listbox.Option>
+        <Listbox.Option>Banana</Listbox.Option>
+        <Listbox.Option>Bush</Listbox.Option>
+        <Listbox.Option>Bloom</Listbox.Option>
+        <Listbox.Option>Doom</Listbox.Option>
+      </Listbox>
     </div>
   );
+};
+Story4.storyName = "Multiple listboxes";
+Story4.parameters = {
+  docs: {
+    description: {
+      story: `This story shows multiple listboxes. Try to change focus with Tab key to select next option.`,
+    },
+  },
 };

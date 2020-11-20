@@ -1,13 +1,15 @@
 import React, {
   useState,
   useCallback,
-  useEffect,
   useRef,
   useMemo,
+  useEffect,
 } from "react";
 import PropTypes from "prop-types";
+import classnames from "classnames";
 import styles from "./index.module.scss";
-import Icon from "../../components/Icon";
+import Icon from "../Icon";
+import useTypeAhead from "../../hooks/useTypeAhead";
 
 const Keys = Object.freeze({
   ArrowUp: 38,
@@ -16,78 +18,144 @@ const Keys = Object.freeze({
   Enter: 13,
   End: 35,
   Home: 36,
+  Tab: 9,
 });
 
 const Listbox = ({
-  id,
-  testId,
-  className,
-  type,
+  ariaLabel = "listbox",
   children,
+  className,
+  disabled = false,
+  enableMultiselect = false,
   enableTypeAhead = true,
-  enableMultiselect,
-  enableSelectFocusedItem,
-  disabled,
-  color,
-  title,
-  style,
-  value,
-  onItemSelect,
-  onItemUnselect,
-  onSelectionChange,
+  id,
+  onOptionSelect,
+  onOptionUnselect,
+  onChange,
+  orientation = "vertical",
   showCheckIcon = true,
+  testId,
 }) => {
-  const getTextValue = useCallback((item) => {
-    const childrenOfItem = item?.props?.children;
-    if (
-      childrenOfItem === undefined ||
-      childrenOfItem === null ||
-      childrenOfItem === ""
-    )
-      return "";
-    if (typeof childrenOfItem === "string") {
-      return childrenOfItem;
-    }
-    if (React.isValidElement(childrenOfItem)) {
-      return getTextValue(childrenOfItem);
-    }
-  }, []);
-
-  const childrenArray = useCallback(
-    (children) => {
-      return (
-        (Array.isArray(children) && children) || (children && [children]) || []
-      );
+  const mapValidChildren = useCallback(
+    (callback) => {
+      return React.Children.map(children || [], (child) => {
+        if (React.isValidElement(child)) {
+          if (!child.props.disabled) {
+            return callback(child);
+          }
+        } else {
+          console.warn(
+            `Trying to render invalid element.
+          Listbox options should be of type Listbox.Option.
+          You rendered:`,
+            child
+          );
+        }
+        return undefined;
+      });
     },
     [children]
   );
 
-  const [selectedItems, setSelectedItems] = useState(() => {
-    return childrenArray(children).map(() => false);
+  const getTextValue = useCallback((option) => {
+    if (option && option.props && option.props.value) {
+      return option.props.value;
+    }
+
+    const childrenOfOption = option.props.children;
+    if (
+      childrenOfOption === undefined ||
+      childrenOfOption === null ||
+      childrenOfOption === ""
+    )
+      return "";
+    if (typeof childrenOfOption === "string") {
+      return childrenOfOption;
+    }
+    if (React.isValidElement(childrenOfOption)) {
+      return getTextValue(childrenOfOption);
+    }
+    return "";
+  }, []);
+
+  const [selectedOptions, setSelectedOptions] = useState(() => {
+    return mapValidChildren(() => false);
   });
 
-  const [itemTextValues] = useState(() => {
-    return childrenArray(children).map((child) => getTextValue(child));
-  });
+  const optionValues = useMemo(() => {
+    setSelectedOptions(mapValidChildren(() => false));
+    return mapValidChildren((child) => getTextValue(child));
+  }, [children]);
 
   const [focusedIndex, setFocusedIndex] = useState(-1);
-  const [typeAheadValue, setTypeAheadValue] = useState();
-
-  const typingFast = useRef(false);
-  const typingFastTimeoutId = useRef(0);
-  const typingFastTimeoutValue = 200;
-
   const listboxRef = useRef();
+  const typeAhead = useTypeAhead(optionValues);
+
+  useEffect(() => {
+    if (!enableMultiselect) {
+      setSelectedOptions(selectedOptions.map(() => false));
+    }
+  }, [enableMultiselect]);
+
+  const fireOnSelectedEvents = useCallback(
+    (newOptionIndex, newOptions) => {
+      if (!newOptions || newOptions[newOptionIndex] === undefined) return;
+
+      if (onChange) {
+        const selection = newOptions.reduce((array, selected, index) => {
+          if (selected)
+            return [...array, { index, value: optionValues[index] }];
+          return array;
+        }, []);
+        onChange(selection);
+      }
+
+      const newOption = {
+        index: newOptionIndex,
+        value: optionValues[newOptionIndex],
+      };
+
+      if (newOptions[newOptionIndex]) {
+        if (onOptionSelect) {
+          onOptionSelect(newOption);
+        }
+      } else if (onOptionUnselect) {
+        onOptionUnselect(newOption);
+      }
+    },
+    [onOptionSelect, onOptionUnselect, onChange, selectedOptions]
+  );
+
+  const selectOption = useCallback(
+    (index) => {
+      if (selectedOptions[index] === undefined) return;
+
+      const newOptions = enableMultiselect
+        ? [...selectedOptions]
+        : selectedOptions.map(() => false);
+
+      newOptions[index] = !newOptions[index];
+
+      setSelectedOptions(newOptions);
+      fireOnSelectedEvents(index, newOptions);
+    },
+    [selectedOptions, enableMultiselect]
+  );
+
+  const manualFocus = useCallback((index) => {
+    setFocusedIndex(index);
+    typeAhead.clear();
+  }, []);
 
   const focusNext = useCallback(() => {
     const nextIndex =
-      focusedIndex >= itemTextValues.length - 1 ? 0 : focusedIndex + 1;
+      focusedIndex >= optionValues.length - 1 ? 0 : focusedIndex + 1;
     manualFocus(nextIndex);
   }, [focusedIndex]);
 
   const focusPrevious = useCallback(() => {
     const nextIndex =
-      focusedIndex <= 0 ? itemTextValues.length - 1 : focusedIndex - 1;
+      focusedIndex <= 0 ? optionValues.length - 1 : focusedIndex - 1;
     manualFocus(nextIndex);
   }, [focusedIndex]);
 
@@ -96,144 +164,36 @@ const Listbox = ({
   }, [focusedIndex]);
 
   const focusLast = useCallback(() => {
-    manualFocus(itemTextValues.length - 1);
+    manualFocus(optionValues.length - 1);
   }, [focusedIndex]);
 
-  const handleItemClick = useCallback(
+  const handleOptionClick = useCallback(
     (index) => {
-      selectItem(index);
+      selectOption(index);
       setFocusedIndex(index);
-      setTypeAheadValue(undefined);
     },
-    [selectedItems]
+    [selectOption]
   );
 
-  const handleItemMouseEnter = useCallback(
-    (index) => {
-      if (!enableSelectFocusedItem) manualFocus(index);
-    },
-    [enableSelectFocusedItem]
-  );
+  const handleOptionMouseEnter = useCallback((index) => {
+    manualFocus(index);
+  }, []);
 
-  const fireOnSelectedEvents = useCallback(
-    (index, newItems) => {
-      if (!newItems || newItems[index] === undefined) return;
-
-      if (onSelectionChange) {
-        const selection = newItems.reduce((array, selected, index) => {
-          if (selected)
-            return [...array, { index, value: itemTextValues[index] }];
-          return array;
-        }, []);
-        onSelectionChange(selection);
-      }
-
-      newItems[index]
-        ? onItemSelect &&
-          onItemSelect({
-            index,
-            value: itemTextValues[index],
-          })
-        : onItemUnselect &&
-          onItemUnselect({
-            index,
-            value: itemTextValues[index],
-          });
-    },
-    [onItemSelect, onItemUnselect, onSelectionChange, selectedItems]
-  );
-
-  const selectItem = useCallback(
-    (index) => {
-      if (selectedItems[index] === undefined) return;
-
-      const newItems = enableMultiselect
-        ? [...selectedItems]
-        : selectedItems.map(() => false);
-
-      newItems[index] = !newItems[index];
-
-      setSelectedItems(newItems);
-      fireOnSelectedEvents(index, newItems);
-    },
-    [selectedItems, enableMultiselect]
-  );
-
-  const manualFocus = useCallback(
-    (index) => {
-      setFocusedIndex(index);
-      setTypeAheadValue(undefined);
-
-      if (enableSelectFocusedItem) {
-        selectItem(index);
-      }
-    },
-    [enableSelectFocusedItem]
-  );
-
-  const typeAheadGenerator = useMemo(() => {
-    let elements = [];
-    let current = 0;
-
-    function next() {
-      return elements[current++ % elements.length];
-    }
-
-    function first() {
-      current = 0;
-      return elements[current++];
-    }
-
-    function filterIndexes(char) {
-      elements = itemTextValues.reduce((previousValue, currentValue, index) => {
-        if (currentValue && currentValue.toLowerCase().startsWith(char)) {
-          return [...previousValue, index];
-        }
-        return previousValue;
-      }, []);
-      return first();
-    }
-
-    return {
-      next,
-      first,
-      filterIndexes,
-    };
-  }, [itemTextValues]);
-
-  const typeAhead = useCallback(
+  const setNextTypeAheadIndex = useCallback(
     (key) => {
-      clearTimeout(typingFastTimeoutId.current);
-
-      if (typingFast.current && key !== typeAheadValue) {
-        key = typeAheadValue + key;
-      }
-
-      const index =
-        key === typeAheadValue
-          ? typeAheadGenerator.next()
-          : typeAheadGenerator.filterIndexes(key);
-
-      if (index >= 0) {
-        setFocusedIndex(index);
-        if (enableSelectFocusedItem) {
-          selectItem(index);
-        }
-      }
-
-      setTypeAheadValue(key.toLowerCase());
-
-      typingFast.current = true;
-
-      typingFastTimeoutId.current = setTimeout(() => {
-        typingFast.current = false;
-      }, typingFastTimeoutValue);
+      const index = typeAhead.next(key);
+      if (index !== -1) setFocusedIndex(index);
     },
-    [typeAheadValue, enableSelectFocusedItem, itemTextValues]
+    [typeAhead]
   );
 
   const handleKeyDown = useCallback(
     (event) => {
+      if (event.keyCode !== Keys.Tab) {
+        event.preventDefault();
+        event.stopPropagation();
+      }
+
       switch (event.keyCode) {
         case Keys.ArrowUp:
           focusPrevious();
@@ -242,10 +202,10 @@ const Listbox = ({
           focusNext();
           break;
         case Keys.Space:
-          handleItemClick(focusedIndex);
+          handleOptionClick(focusedIndex);
           break;
         case Keys.Enter:
-          handleItemClick(focusedIndex);
+          handleOptionClick(focusedIndex);
           break;
         case Keys.Home:
           focusFirst();
@@ -254,77 +214,138 @@ const Listbox = ({
           focusLast();
           break;
         default: {
-          if (enableTypeAhead) typeAhead(event.key);
+          if (enableTypeAhead) setNextTypeAheadIndex(event.key);
           break;
         }
       }
     },
-    [focusedIndex, typeAheadValue, typeAheadGenerator, enableTypeAhead]
+    [focusedIndex, selectedOptions, enableTypeAhead, typeAhead]
   );
-
-  const renderChildren = useCallback(() => {
-    return React.Children.map(children, (child, index) => {
-      const active = index === focusedIndex;
-      const selected = selectedItems[index];
-
-      return React.cloneElement(child, {
-        handleItemClick,
-        handleItemMouseEnter,
-        index,
-        active,
-        selected,
-        showCheckIcon,
-      });
-    });
-  }, [focusedIndex, selectedItems]);
 
   const handleMouseEnter = useCallback(() => {
     if (listboxRef.current) listboxRef.current.focus();
   }, []);
 
-  const handleMouseLeave = useCallback(() => {
-    manualFocus(-1);
+  const handleOnFocus = useCallback(() => {
+    const index = selectedOptions.findIndex((e) => e === true);
+    if (focusedIndex === -1) {
+      setFocusedIndex(0);
+    } else {
+      setFocusedIndex(index);
+    }
+  }, [selectedOptions, enableMultiselect]);
+
+  const handleOptionFocus = useCallback((index) => {
+    setFocusedIndex(index);
   }, []);
+
+  const renderChildren = useCallback(() => {
+    let index = -1;
+
+    return React.Children.map(children || [], (child) => {
+      if (child.props.disabled || disabled) return React.cloneElement(child);
+
+      index += 1;
+      const active = index === focusedIndex;
+      const selected = selectedOptions[index];
+
+      return React.cloneElement(child, {
+        handleOptionClick,
+        handleOptionMouseEnter,
+        handleOptionFocus,
+        index,
+        active,
+        selected,
+        showCheckIcon,
+        enableMultiselect,
+      });
+    });
+  }, [focusedIndex, selectedOptions, disabled, showCheckIcon]);
 
   return (
     <div
-      ref={listboxRef}
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
-      className={styles.listbox}
-      tabIndex={-1}
+      aria-disabled={disabled}
+      aria-label={ariaLabel}
+      aria-multiselectable={enableMultiselect}
+      aria-orientation={orientation}
+      className={classnames(styles.listbox, className, {
+        [styles.disabled]: disabled,
+        [styles.listbox__horizontal]: orientation === "horizontal",
+      })}
+      id={id}
+      onFocus={handleOnFocus}
       onKeyDown={handleKeyDown}
+      onMouseEnter={handleMouseEnter}
+      ref={listboxRef}
+      role="listbox"
+      tabIndex={0}
+      data-testid={testId}
     >
       {renderChildren()}
     </div>
   );
 };
 
-Listbox.Item = ({
-  className,
-  type,
+Listbox.Option = ({
+  active = false,
   children,
-  disabled,
-  color,
-  onClick,
-  title,
-  style,
-  variant,
-  handleItemClick,
+  className,
+  disabled = false,
+  enableMultiselect = false,
+  handleOptionClick,
+  handleOptionFocus,
+  handleOptionMouseEnter,
+  id,
   index,
-  active,
-  selected,
-  handleItemMouseEnter,
-  showCheckIcon,
+  selected = false,
+  showCheckIcon = true,
+  value,
+  testId,
 }) => {
+  const handleClick = useCallback(
+    (e) => {
+      e.stopPropagation();
+      if (handleOptionClick && !disabled) handleOptionClick(index);
+    },
+    [handleOptionClick, disabled, index]
+  );
+
+  const handleMouseEnter = useCallback(
+    (e) => {
+      e.stopPropagation();
+      if (handleOptionMouseEnter && !disabled) handleOptionMouseEnter(index);
+    },
+    [handleOptionMouseEnter, disabled, index]
+  );
+
+  const handleFocus = useCallback(
+    (e) => {
+      e.stopPropagation();
+      if (handleOptionFocus && !disabled) handleOptionFocus(index);
+    },
+    [handleOptionFocus, disabled, index]
+  );
+
   return (
     <div
-      className={`${className} ${styles.listbox__item}
-        ${selected && styles.listbox__item__selected}
-        ${active && styles.listbox__item__active}
-        ${styles.listbox__item__unselectableText}`}
-      onClick={() => handleItemClick(index)}
-      onMouseEnter={() => handleItemMouseEnter(index)}
+      aria-disabled={disabled}
+      className={classnames(className, styles.listbox__option, {
+        [styles.disabled]: disabled,
+        [styles.listbox__option__selected]: selected,
+        [styles.listbox__option__active]: active,
+        [styles.listbox__option__selectedActive]:
+          enableMultiselect && active && selected,
+      })}
+      id={id}
+      data-testid={testId}
+      role="option"
+      aria-selected={selected}
+      onClick={handleClick}
+      onKeyPress={() => {}}
+      onMouseEnter={handleMouseEnter}
+      onFocus={handleFocus}
+      tabIndex={0}
+      defaultValue={value}
     >
       {showCheckIcon && selected && (
         <Icon className={`${styles.listbox__icon}`} icon="check" />
@@ -335,10 +356,117 @@ Listbox.Item = ({
 };
 
 Listbox.propTypes = {
+  /**
+   *
+   */
+  ariaLabel: PropTypes.string,
+  /**
+   * Listbox options. Every option should be Listbox.Option component.
+   */
+  children: PropTypes.node,
+  /**
+   * Additional classnames
+   */
+  className: PropTypes.string,
+  /**
+   * Indicator if whole listbox is disabled.
+   */
+  disabled: PropTypes.bool,
+  /**
+   * If set to true enables selection of multiple options
+   */
   enableMultiselect: PropTypes.bool,
-  enableSelectFocusedItem: PropTypes.bool,
+  /**
+   * Type a character: focus moves to the next option with a name that starts with the typed character.
+   * Type multiple characters in rapid succession: focus moves to the next option with a name that starts with the string of characters typed.
+   */
   enableTypeAhead: PropTypes.bool,
+  /**
+   *
+   */
+  id: PropTypes.string,
+  /**
+   * Callback function that triggers each time option is selected.
+   * Returns single element as object with value and index.
+   */
+  onOptionSelect: PropTypes.func,
+  /**
+   * Callback function that triggers each time option is unselected.
+   * Returns single element as object with value and index.
+   */
+  onOptionUnselect: PropTypes.func,
+  /**
+   * Callback function that triggers each time option is selected.
+   * Returns all selected elements as array.
+   */
+  onChange: PropTypes.func,
+  /**
+   * Horizontal or vertical display of listbox.
+   */
+  orientation: PropTypes.oneOf(["vertical", "horizontal"]),
+  /**
+   * If set to true, option will display check icon when selected.
+   */
   showCheckIcon: PropTypes.bool,
+  /**
+   *
+   */
+  testId: PropTypes.string,
+};
+
+Listbox.Option.propTypes = {
+  /**
+   * Indicator if this option is focused or hovered
+   */
+  active: PropTypes.bool,
+  /**
+   * Children can be string or components
+   */
+  children: PropTypes.node,
+  /**
+   * Additional classnames
+   */
+  className: PropTypes.string,
+  /**
+   * Indicator if this option is disabled.
+   */
+  disabled: PropTypes.bool,
+  /**
+   * If enabled it will show different color when multiple items are selected and hovered or focused
+   */
+  enableMultiselect: PropTypes.bool,
+  /**
+   *
+   */
+  handleOptionClick: PropTypes.func,
+  /**
+   *
+   */
+  handleOptionFocus: PropTypes.func,
+  /**
+   *
+   */
+  handleOptionMouseEnter: PropTypes.func,
+  /**
+   *
+   */
+  id: PropTypes.string,
+  /**
+   *
+   */
+  index: PropTypes.number,
+  /**
+   * Indicator if this option is selected
+   */
+  selected: PropTypes.bool,
+  /**
+   * If set to true, option will display check icon when selected.
+   */
+  showCheckIcon: PropTypes.bool,
+  /**
+   *
+   */
+  testId: PropTypes.string,
 };
 
 export default Listbox;
