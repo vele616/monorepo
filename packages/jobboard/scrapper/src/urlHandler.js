@@ -130,7 +130,7 @@ exports.exec = async (event) => {
             },
           })
           .promise()
-      )
+        })
     );
 
 
