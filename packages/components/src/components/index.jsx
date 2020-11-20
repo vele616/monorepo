@@ -9,3 +9,4 @@ export { default as Navigation } from './Navigation';
 export { default as Section } from './Section';
 export { default as Tag } from './Tag';
 export { default as Typography } from './Typography';
+export { default as Textarea } from './Textarea';

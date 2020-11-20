@@ -11,6 +11,8 @@ $input__padding: 6px 0 7px;
   width: 100%;
   font-size: 1em;
   color: $gray_2;
+  font-family: inherit;
+  margin-top: 1em;
 
   &:focus {
     outline: none;
@@ -89,18 +91,19 @@ $input__padding: 6px 0 7px;
   }
 
   &__label {
-    color: #424c6d; // rgba(0, 0, 0, 0.54);
-    opacity: 0.7;
-    left: 0;
-    position: relative;
-    transform: translate(0em, 1em);
-    height: 1em;
+    color: #424c6d;
     display: block;
-    z-index: -1;
+    height: 1em;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
     text-transform: capitalize;
+    transform: translate(0em, 1em);
     transition: color 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
+      height 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
       font-size 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
       transform 200ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+    z-index: -1;
   }
 }
 
@@ -156,13 +159,13 @@ $input__padding: 6px 0 7px;
   }
 
   .message {
-    font-size: 0.75em;
     color: $red_4;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    white-space: nowrap;
+    display: block;
+    font-size: 0.75em;
     overflow: hidden;
+    position: absolute;
     text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
   }
 }

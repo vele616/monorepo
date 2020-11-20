@@ -41,7 +41,7 @@ const getUrls = async (browser, url) => {
 
   return await page.evaluate((remoteWords) => {
     const companyName = document.querySelector("h1");
-    const logoUrl = document.querySelector("img");
+    const logoUrl = document.querySelector("#logo > img");
     const isRemote = [...document.querySelectorAll(".location")];
     const urls = [...document.querySelectorAll("section > div > a")]
       .map((url, i) => ({

@@ -108,8 +108,8 @@ exports.exec = async (event) => {
     );
 
     const result = await Promise.all(
-      urls.map((jobUrl) => 
-        client
+      urls.map((jobUrl) => {
+        return client
           .update({
             TableName: process.env.URLS_TABLE,
             Key: { url: jobUrl },
