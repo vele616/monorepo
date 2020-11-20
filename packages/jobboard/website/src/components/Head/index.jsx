@@ -11,6 +11,7 @@ const Head = ({
   siteUrl,
   themeColor,
   social,
+  location,
   title,
   description,
   canonical = siteUrl + (location.pathname || ''),
