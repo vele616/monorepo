@@ -1,6 +1,7 @@
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
 import Layout from '../../components/Layout';
+import { graphql } from 'gatsby';
 
 const UnsubscribePage = ({ data }) => {
   const {
@@ -12,7 +13,7 @@ const UnsubscribePage = ({ data }) => {
   const message = unsubscribe[params.get('response')] ? unsubscribe[params.get('response')] : unsubscribe['DEFAULT'];
 
   return (
-    <Layout stickyFooter={true}>
+    <Layout stickyFooter>
       {message}
     </Layout>
   );

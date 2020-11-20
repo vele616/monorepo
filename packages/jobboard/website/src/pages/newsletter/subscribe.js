@@ -1,6 +1,7 @@
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
 import Layout from '../../components/Layout';
+import { graphql } from 'gatsby';
 
 const SubscribePage = ({ data }) => {
   const {

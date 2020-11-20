@@ -25,7 +25,10 @@ export const JobPostTemplate = (props) => {
   const { html } = post;
 
   return (
-    <Layout>
+    <Layout head={{
+      title,
+      description: summary,
+    }}>
       <JobDetails
         title={title}
         hashtags={hashtags}
