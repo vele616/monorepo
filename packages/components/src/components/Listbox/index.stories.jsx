@@ -19,16 +19,16 @@ const Template = (args) => {
       orientation={args.orientation}
       showCheckIcon={args.showCheckIcon}
     >
-      <Listbox.Option value="Custom value for ananas">Ananas</Listbox.Option>
+      <Listbox.Option>Ananas</Listbox.Option>
       <Listbox.Option>Avocado</Listbox.Option>
       <Listbox.Option>Arm</Listbox.Option>
-      <Listbox.Option disabled>Banana</Listbox.Option>
+      <Listbox.Option>Banana</Listbox.Option>
       <Listbox.Option>Bush</Listbox.Option>
       <Listbox.Option>Boolean</Listbox.Option>
       <Listbox.Option>Balcony</Listbox.Option>
       <Listbox.Option>Boom</Listbox.Option>
       <Listbox.Option>Boomerang</Listbox.Option>
-      <Listbox.Option disabled>Bloom</Listbox.Option>
+      <Listbox.Option>Bloom</Listbox.Option>
       <Listbox.Option>Doom</Listbox.Option>
     </Listbox>
   );
@@ -40,7 +40,7 @@ Story1.args = {};
 Story1.parameters = {
   docs: {
     description: {
-      story: `Only single option can be selected. Some are disabled.`,
+      story: `Only single option can be selected.`,
     },
   },
 };
@@ -53,7 +53,7 @@ Story2.args = {
 Story2.parameters = {
   docs: {
     description: {
-      story: `Multiple options can be selected. Some are disabled.`,
+      story: `Multiple options can be selected.`,
     },
   },
 };
@@ -114,6 +114,27 @@ Story4.parameters = {
   docs: {
     description: {
       story: `This story shows multiple listboxes. Try to change focus with Tab key to select next option.`,
+    },
+  },
+};
+
+export const Story5 = () => {
+  return (
+    <Listbox>
+      <Listbox.Option>Ananas</Listbox.Option>
+      <Listbox.Option disabled>Avocado</Listbox.Option>
+      <Listbox.Option>Banana</Listbox.Option>
+      <Listbox.Option>Bush</Listbox.Option>
+      <Listbox.Option disabled>Bloom</Listbox.Option>
+      <Listbox.Option>Doom</Listbox.Option>
+    </Listbox>
+  );
+};
+Story5.storyName = "Disabled options";
+Story5.parameters = {
+  docs: {
+    description: {
+      story: `Some options can be disabled.`,
     },
   },
 };
