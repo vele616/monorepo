@@ -8,6 +8,7 @@ applyUrl: "https://example.com/"
 timestamp: 1602164402658
 hashtags: "#lorem, #ipsum, #bahama"
 logoUrl: ""
+jobType: other
 companyWebsite: "https://example.com/"
 summary: "Example company is looking for testing job post that has 3+ years of experience in advertising sales and account management."
 ---
