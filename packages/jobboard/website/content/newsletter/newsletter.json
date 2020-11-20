@@ -1,0 +1,11 @@
+{
+  "subscribe": {
+    "ALREADY_CONFIRMED": "ALREADY CONFIRMED",
+    "SUCCESS": "SUCCESS",
+    "DEFAULT": "ERROR"
+  },
+  "unsubscribe": {
+    "SUCCESS": "SUCCESS",
+    "DEFAULT": "ERROR"
+  }
+}

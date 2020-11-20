@@ -1,15 +1,14 @@
-@import '../../styles/main.module.scss';
+@import "../../styles/main.module.scss";
 
 $limit: 500;
 
 :export {
-  limit: $limit,
+  limit: $limit;
 }
 
 .footer {
   background-color: $gray_1;
   color: $white;
-
 
   &__grid {
     align-content: center;
@@ -23,7 +22,7 @@ $limit: 500;
     padding: 20px 50px;
     row-gap: 10px;
 
-    @include mediaQuery(">500px", "<desktop"){
+    @include mediaQuery(">500px", "<desktop") {
       column-gap: 20px;
       padding: 20px 30px;
       row-gap: 20px;
@@ -44,7 +43,7 @@ $limit: 500;
     justify-content: space-between;
     max-width: 225px;
 
-    @include mediaQuery("<=500px"){
+    @include mediaQuery("<=500px") {
       grid-column: 1 / span 2;
       justify-self: center;
     }
@@ -59,21 +58,19 @@ $limit: 500;
 
     /** Footer design requires custom breakpoints */
     @include mediaQuery(">500px", "<desktop") {
-      box-sizing: border-box;;
+      box-sizing: border-box;
       grid-column: 2 / span 2;
       justify-self: end;
       padding-left: 20px;
     }
 
-
-    @include mediaQuery("<=500px"){
+    @include mediaQuery("<=500px") {
       grid-column: 1 / span 2;
       grid-row: 2 / span 1;
       justify-self: center;
       margin-bottom: 20px;
       min-height: 90px;
     }
-
   }
 
   &__social_media {
@@ -86,7 +83,7 @@ $limit: 500;
       grid-row: 3 / span 1;
     }
 
-    @include mediaQuery("<=500px"){
+    @include mediaQuery("<=500px") {
       grid-column: 2 / span 1;
       grid-row: 4 / span 1;
     }
@@ -103,7 +100,7 @@ $limit: 500;
     background-color: rgba(196, 196, 196, 0.15);
   }
 
-  @include mediaQuery("<=500px"){
+  @include mediaQuery("<=500px") {
     background-color: rgba(196, 196, 196, 0.15);
     grid-column: 1 / span 2;
     grid-row: 3 / span 1;
@@ -111,11 +108,11 @@ $limit: 500;
 }
 
 .copyright {
-  color: rgba(196, 196, 196, 0.30);
+  color: rgba(196, 196, 196, 0.3);
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
 
-  @include mediaQuery("<=500px"){
+  @include mediaQuery("<=500px") {
     grid-column: 1 / span 1;
     grid-row: 4 / span 1;
   }

@@ -32,7 +32,7 @@ const Hero = ({ image, title, titleEmphasis }) => {
         <Typography fontSize={18} color="gray_6" className={styles.typography} >
           {title} <b> {titleEmphasis} </b>
         </Typography>
-        <Link to="/post-a-job"><Button className={styles.button} variant="secondary">Post a job</Button></Link>
+        <Link to="/post-a-job"><Button className={styles.button} variant="primary">Post a job</Button></Link>
       </Grid>
     </Section>
   )

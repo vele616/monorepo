@@ -31,6 +31,16 @@ provider:
         - dynamodb:UpdateItem
         - dynamodb:DeleteItem
         - dynamodb:ListStreams
+      Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.HUBS_TABLE}"
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:ListStreams
       Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.URLS_TABLE}"
 functions:
   hubHandler:
@@ -39,7 +49,7 @@ functions:
     timeout: 180
     events:
       - schedule:
-          rate: rate(1 minutes)
+          rate: cron(15 10 ? * 6L 2002-2005)
   urlHandler:
     handler: src/urlHandler.exec
     memorySize: 768

@@ -1,13 +1,26 @@
-import React from 'react';
-import styles from './index.module.scss';
-import Typography from '../Typography';
+import React from "react";
+import PropTypes from "prop-types";
+import styles from "./index.module.scss";
+import Typography from "../Typography";
 
 /**
- * A standard title for Cards defined via CroCoder's design system.
+ * Wraps content into a Typography component and applies the default
+ * styling for a Card title.
  */
-const Title = ({children, ...props}) => (
-<Typography {...props} className={styles.title} element="h4" fontWeight={700} color="gray_2">
-  {children}
-</Typography>);
+const Title = ({ children, ...props }) => (
+  <Typography
+    {...props}
+    className={styles.title}
+    element="h4"
+    fontWeight={700}
+    color="gray_2"
+  >
+    {children}
+  </Typography>
+);
+
+Title.propTypes = {
+  children: PropTypes.node,
+};
 
 export default Title;

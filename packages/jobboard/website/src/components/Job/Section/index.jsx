@@ -1,10 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
 import styles from '@crocoder-dev/components/lib/scss/main.module.scss';
-import { Typography, Section as SectionComponent } from '@crocoder-dev/components';
+import {
+  Typography,
+  Section as SectionComponent,
+} from '@crocoder-dev/components';
 
-const Section = styled(SectionComponent)`
-`;
+const Section = styled(SectionComponent)``;
 const Label = styled(Typography)`
   max-width: ${styles.cardContentMaxWidth};
   margin: auto;
@@ -14,11 +16,15 @@ const Label = styled(Typography)`
   }
 `;
 
-export const JobSection = ({ title, children }) => {
+const JobSection = ({ title, children, style }) => {
   return (
     <Section backgroundColor="blue_6" removeMobilePadding>
-      <Label fontWeight={700} color="gray_2" element="h2"  >{title}</Label>
+      <Label fontWeight={700} color="gray_2" element="h2">
+        {title}
+      </Label>
       {children}
     </Section>
   );
 };
+
+export default JobSection;

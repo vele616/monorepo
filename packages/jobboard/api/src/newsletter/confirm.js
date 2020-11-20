@@ -23,7 +23,6 @@ exports.exec = async (event) => {
         ':emailHash': hash,
       },
     }).promise();
-    console.log(emailRecord);
     if (emailRecord.Items.length > 0 && emailRecord.Items[0].confirmed === false) {
       await client.update({
         TableName: process.env.NEWSLETTER_TABLE,
