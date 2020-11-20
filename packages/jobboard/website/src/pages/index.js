@@ -56,21 +56,26 @@ const StyledLink = styled(Link)`
   }
 `;
 
-const IndexPage = () => {
+const IndexPage = ({ data }) => {
+  const { nodes } = data.allMarkdownRemark;
+  const softwareJobsNumber = nodes.filter(t => t.frontmatter.jobType === 'software').length;
+  const otherJobsNumber = nodes.filter(t => t.frontmatter.jobType === 'other').length;
+
   return (
     <Layout>
       <Hero />
       <JobSection title="Software Developer Jobs">
         <DevJobListLimit12 />
-
         <StyledLink to="/software-developer-jobs">
-          VIEW MORE DEVELOPER JOBS
+          {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
         </StyledLink>
       </JobSection>
       <Newsletter />
       <JobSection title="Other IT Related Jobs">
         <OtherJobListLimit12 />
-        <StyledLink to="/other-it-jobs">VIEW MORE IT RELATED JOBS</StyledLink>
+        <StyledLink to="/other-it-jobs">
+          {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
+        </StyledLink>
       </JobSection>
       <Banner />
     </Layout>
@@ -78,3 +83,15 @@ const IndexPage = () => {
 };
 
 export default IndexPage;
+
+export const query = graphql`
+  query indexQuery {
+    allMarkdownRemark {
+    nodes {
+      frontmatter {
+        jobType
+      }
+    }
+  }
+  }
+`;
