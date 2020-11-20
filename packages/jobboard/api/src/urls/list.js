@@ -31,8 +31,8 @@ exports.exec = async () => {
     ).promise();
 
     const archived = {
-      archivedTrue: (result.Items).filter((item) => item.archived === true),
-      archivedFalse: (result.Items).filter((item) => item.archived === false),
+      archived: (result.Items).filter((item) => item.archived === true),
+      new: (result.Items).filter((item) => item.archived === false),
     };
 
     return {
