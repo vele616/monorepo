@@ -1,9 +1,7 @@
-import React, { useCallback, useState } from "react";
+import React, { useMemo, useState } from "react";
 import Grid from "../../components/Grid";
 import Typography from "../../components/Typography";
-import Icon from "../../components/Icon";
 import Button from "../../components/Button";
-import Footer from "../../components/Footer";
 import Input from "../../components/Input";
 import Listbox from "../../components/Listbox";
 import styles from "./listbox.module.scss";
@@ -15,62 +13,59 @@ export default {
   },
   component: Grid,
   subcomponents: { Button, Grid, Typography, Input, Listbox },
-  parameters: {
-    docs: { page: null },
-  },
 };
 
 const Template = () => {
-  const [currentSelection, setCurrentSelection] = useState([]);
+  const [options, setOptions] = useState(["Ananas", "Banana", "Avocado"]);
+  const [selectedOptions, setSelectedOptions] = useState([]);
 
-  function handleChange(items) {
-    setCurrentSelection(items);
+  function push() {
+    setOptions((prev) => [
+      ...prev,
+      `Orange ${Math.random().toString().slice(3, 6)}`,
+    ]);
   }
 
-  function renderSelection() {
-    return currentSelection.map((element) => {
-      return <p>{element.value}</p>;
-    });
+  function pop() {
+    const newOptions = [...options];
+    newOptions.pop();
+    setOptions(newOptions);
+  }
+
+  const renderdOptions = useMemo(() => {
+    return options.map((e) => <Listbox.Option key={e}>{e}</Listbox.Option>);
+  }, [options]);
+
+  function handleChange(opts) {
+    setSelectedOptions(
+      opts.map((opt) => (
+        <Listbox.Option
+          key={opt.value}
+        >{`${opt.value} ${opt.index}`}</Listbox.Option>
+      ))
+    );
   }
 
   return (
     <>
       <div className={styles.wrapper}>
-        <Listbox enableMultiselect={true} onSelectionChange={handleChange}>
-          <Listbox.Item>Ananas</Listbox.Item>
-          <Listbox.Item>Avocado</Listbox.Item>
-          <Listbox.Item>Antilope</Listbox.Item>
-          <Listbox.Item>America</Listbox.Item>
-          <Listbox.Item>Australia</Listbox.Item>
-          <Listbox.Item>Banana</Listbox.Item>
-          <Listbox.Item>Bush</Listbox.Item>
-          <Listbox.Item>Bloom</Listbox.Item>
-          <Listbox.Item>Doom</Listbox.Item>
-        </Listbox>
-
-        <h4>Current selection</h4>
-        {renderSelection()}
+        <div className={styles.inner_wrapper}>
+          <Listbox
+            className={styles.listbox}
+            enableMultiselect
+            onChange={handleChange}
+          >
+            {renderdOptions}
+          </Listbox>
+          <button type="button" onClick={push}>
+            Push
+          </button>
+          <button type="button" onClick={pop}>
+            Pop
+          </button>
+          <Listbox className={styles.listbox}>{selectedOptions}</Listbox>
+        </div>
       </div>
-      <Footer
-        logo={<img width="100%" src="/images/footer.png" />}
-        socialLinks={
-          <>
-            <Icon style={linkStyle} color="gray_1" icon="facebook2" />
-            <Icon style={linkStyle} color="gray_1" icon="twitter1" />
-            <Icon style={linkStyle} color="gray_1" icon="youtube" />
-          </>
-        }
-      >
-        <a style={{ color: "inherit" }} className="link">
-          Home
-        </a>
-        <a style={{ color: "inherit" }} className="link">
-          Terms of use
-        </a>
-        <a style={{ color: "inherit" }} className="link">
-          Privacy policy
-        </a>
-      </Footer>
     </>
   );
 };
