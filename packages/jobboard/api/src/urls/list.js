@@ -9,9 +9,9 @@ if (process.env.IS_OFFLINE) {
   };
 }
 
-const timeframe = 24 * 60 * 60 * 1000;
+const timeframe = 3 * 24 * 60 * 60 * 1000;
 
-const lastArchived = 24 * 60 * 60 * 1000;
+const lastArchived = 2 * 24 * 60 * 60 * 1000;
 
 const client = new AWS.DynamoDB.DocumentClient(options);
 
@@ -30,15 +30,9 @@ exports.exec = async () => {
       },
     ).promise();
 
-    const results = result.Items;
-
-    const archivedTrue = results.filter((item) => item.archived === true);
-
-    const archivedFalse = results.filter((item) => item.archived === false);
-
     const archived = {
-      archivedTrue,
-      archivedFalse,
+      archivedTrue: (result.Items).filter((item) => item.archived === true),
+      archivedFalse: (result.Items).filter((item) => item.archived === false),
     };
 
     return {
