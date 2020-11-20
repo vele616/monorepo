@@ -85,7 +85,7 @@ const Listbox = ({
   const optionValues = useMemo(() => {
     setSelectedOptions(mapValidChildren(() => false));
     return mapValidChildren((child) => getTextValue(child));
-  }, [children]);
+  }, [getTextValue, mapValidChildren]);
 
   const [focusedIndex, setFocusedIndex] = useState(-1);
   const listboxRef = useRef();
@@ -93,7 +93,7 @@ const Listbox = ({
 
   useEffect(() => {
     if (!enableMultiselect) {
-      setSelectedOptions(selectedOptions.map(() => false));
+      setSelectedOptions((prev) => prev.map(() => false));
     }
   }, [enableMultiselect]);
 
@@ -123,7 +123,7 @@ const Listbox = ({
         onOptionUnselect(newOption);
       }
     },
-    [onOptionSelect, onOptionUnselect, onChange, selectedOptions]
+    [onChange, onOptionSelect, onOptionUnselect, optionValues]
   );
 
   const selectOption = useCallback(
@@ -139,33 +139,36 @@ const Listbox = ({
       setSelectedOptions(newOptions);
       fireOnSelectedEvents(index, newOptions);
     },
-    [selectedOptions, enableMultiselect]
+    [selectedOptions, enableMultiselect, fireOnSelectedEvents]
   );
 
-  const manualFocus = useCallback((index) => {
-    setFocusedIndex(index);
-    typeAhead.clear();
-  }, []);
+  const manualFocus = useCallback(
+    (index) => {
+      setFocusedIndex(index);
+      typeAhead.clear();
+    },
+    [typeAhead]
+  );
 
   const focusNext = useCallback(() => {
     const nextIndex =
       focusedIndex >= optionValues.length - 1 ? 0 : focusedIndex + 1;
     manualFocus(nextIndex);
-  }, [focusedIndex]);
+  }, [focusedIndex, optionValues.length, manualFocus]);
 
   const focusPrevious = useCallback(() => {
     const nextIndex =
       focusedIndex <= 0 ? optionValues.length - 1 : focusedIndex - 1;
     manualFocus(nextIndex);
-  }, [focusedIndex]);
+  }, [focusedIndex, optionValues.length, manualFocus]);
 
   const focusFirst = useCallback(() => {
     manualFocus(0);
-  }, [focusedIndex]);
+  }, [manualFocus]);
 
   const focusLast = useCallback(() => {
     manualFocus(optionValues.length - 1);
-  }, [focusedIndex]);
+  }, [optionValues.length, manualFocus]);
 
   const handleOptionClick = useCallback(
     (index) => {
@@ -175,9 +178,12 @@ const Listbox = ({
     [selectOption]
   );
 
-  const handleOptionMouseEnter = useCallback((index) => {
-    manualFocus(index);
-  }, []);
+  const handleOptionMouseEnter = useCallback(
+    (index) => {
+      manualFocus(index);
+    },
+    [manualFocus]
+  );
 
   const setNextTypeAheadIndex = useCallback(
     (key) => {
@@ -219,7 +225,16 @@ const Listbox = ({
         }
       }
     },
-    [focusedIndex, selectedOptions, enableTypeAhead, typeAhead]
+    [
+      enableTypeAhead,
+      focusFirst,
+      focusLast,
+      focusNext,
+      focusPrevious,
+      focusedIndex,
+      handleOptionClick,
+      setNextTypeAheadIndex,
+    ]
   );
 
   const handleMouseEnter = useCallback(() => {
@@ -233,7 +248,7 @@ const Listbox = ({
     } else {
       setFocusedIndex(index);
     }
-  }, [selectedOptions, enableMultiselect]);
+  }, [selectedOptions, focusedIndex]);
 
   const handleOptionFocus = useCallback((index) => {
     setFocusedIndex(index);
@@ -260,7 +275,17 @@ const Listbox = ({
         enableMultiselect,
       });
     });
-  }, [focusedIndex, selectedOptions, disabled, showCheckIcon]);
+  }, [
+    children,
+    disabled,
+    focusedIndex,
+    selectedOptions,
+    handleOptionClick,
+    handleOptionMouseEnter,
+    handleOptionFocus,
+    showCheckIcon,
+    enableMultiselect,
+  ]);
 
   return (
     <div
