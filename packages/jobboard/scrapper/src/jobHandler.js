@@ -67,6 +67,7 @@ exports.exec = async (event) => {
       companyName,
       companyLogo,
       companyWebsite,
+      urlHash,
     } = data.dynamodb.NewImage;
     if (
       (data.eventName === "INSERT" || data.eventName === "MODIFY") &&
@@ -164,7 +165,7 @@ exports.exec = async (event) => {
         .replace(/(-)\1+/g, "$1")
         .toLowerCase();
 
-      const markdownKey = `${titleCompany}.md`;
+      const markdownKey = `${titleCompany}-${urlHash}.md`;
 
       await s3
         .putObject({
