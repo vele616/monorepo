@@ -4,8 +4,12 @@ import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Flexbox } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => (
-  <Section className={styles.section} backgroundColor="background_base">
+const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => [
+  <Section
+    key="initial"
+    className={styles.section}
+    backgroundColor="background_base"
+  >
     <Flexbox alignItems="center" className={styles.flex}>
       <Img
         className={styles.image}
@@ -59,8 +63,26 @@ const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => (
         alt={"abc"}
       />
     </Flexbox>
-  </Section>
-);
+  </Section>,
+  <Section className={styles.smallMobile} backgroundColor="white">
+    <Typography
+      element="h3"
+      color="gray_2"
+      className={styles.focus}
+      textAlign="center"
+      fontFamily="rubik"
+      fontSize={36}
+      fontWeight={300}
+    >
+      Let{" "}
+      <Typography fontWeight={600}>
+        <em>Cro</em>Coder
+      </Typography>{" "}
+      lighten the load by implementing your idea, so{" "}
+      <em>you can focus on things only you can do for your business</em>.
+    </Typography>
+  </Section>,
+];
 
 const WithQuery = () => (
   <StaticQuery

@@ -18,6 +18,9 @@
   .title, .image {
     flex-basis: 49%;
   }
+  .title {
+    min-width: 450px;
+  }
 }
 @include mediaQuery("<=tabletLandscape") {
   .title, .image {
@@ -26,7 +29,7 @@
   }
 
   .title {
-    margin-bottom: 25px;
+    margin-bottom: 35px;
   }
 }
 
