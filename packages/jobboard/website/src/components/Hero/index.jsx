@@ -48,7 +48,7 @@ const HeroWithQuery = () => (
           titleEmphasis
           image {
             childImageSharp {
-              fluid {
+              fluid(maxWidth: 1800) {
                 ...GatsbyImageSharpFluid
               }
             }

@@ -7,7 +7,10 @@ import Layout from '../components/Layout';
 
 const AllOtherITJobsPage = () => {
   return (
-    <Layout>
+    <Layout head={{
+      title: 'All Other IT Related Jobs',
+      description: '',
+    }}>
       <JobSection title="All Other IT Related Jobs">
         <OtherJobList />
       </JobSection>

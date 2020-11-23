@@ -8,10 +8,10 @@ import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
 
 
-const Layout = ({ children, pageTitle, stickyFooter }) => {
+const Layout = ({ children, head = {}, stickyFooter }) => {
   return (
     <>
-      <Head pageTitle={pageTitle} />
+      <Head title={head.title} description={head.description} />
       <Navigation Logo={<Link to='/'><CrocNav /></Link>}>
         <Link to="/post-a-job"><Button variant="secondary">Post a job</Button></Link>
       </Navigation>
