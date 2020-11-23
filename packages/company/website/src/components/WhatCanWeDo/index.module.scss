@@ -1,0 +1,67 @@
+@import "@crocoder-dev/components/lib/scss/main.module.scss";
+
+.section {
+  width: 100%;
+}
+
+.first {
+  flex-basis: 55%;
+  margin-left: 100px;
+  line-height: 1.6;
+  min-width: 380px;
+  @include mediaQuery(">=tabletLandscape", "<desktop") {
+    margin-left: 50px;
+  }
+}
+.image {
+  flex-basis: 400px;
+}
+
+.flex {
+  & + .flex {
+    margin-top: 30px;
+  }
+
+  @include mediaQuery("<tabletLandscape") {
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+}
+
+.second {
+  flex-basis: 50%;
+  margin-right: 100px;
+  line-height: 1.6;
+  min-width: 380px;
+  @include mediaQuery(">=tabletLandscape", "<desktop") {
+    margin-right: 50px;
+  }
+}
+
+@include mediaQuery("<tabletLandscape") {
+  .first, .second {
+    flex-basis: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    order: 0;
+    margin-bottom: 25px;
+    min-width: 100px;
+  }
+  .image {
+    order: 1;
+  }
+}
+
+.paragraph {
+  margin-top: 25px;
+  line-height: 1.8;
+  em {
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+
+.subtitle {
+  margin: 0.7em 0;
+  line-height: 1.3;
+}
