@@ -115,7 +115,6 @@ exports.exec = async (event) => {
             Key: { url: jobUrl },
             UpdateExpression:
               "set host = :host, archived = :archived, platform = :platform, companyLogo = :companyLogo, companyName = :companyName, companyWebsite = :companyWebsite, createdAt = if_not_exists(createdAt, :createdAt), updatedAt = :updatedAt, published = if_not_exists(published, :published), crawlable = :crawlable, hubUrl = :hubUrl, urlHash = if_not_exists(urlHash, :urlHash)",
-            // ConditionExpression: "attribute_not_exists(urlHash)",
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": url,
