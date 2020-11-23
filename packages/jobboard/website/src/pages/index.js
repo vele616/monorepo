@@ -66,16 +66,16 @@ const IndexPage = ({ data }) => {
       <Hero />
       <JobSection title="Software Developer Jobs">
         <DevJobListLimit12 />
-        <StyledLink to="/software-developer-jobs">
+        {softwareJobsNumber > 12 && <StyledLink to="/software-developer-jobs">
           {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
-        </StyledLink>
+        </StyledLink>}
       </JobSection>
       <Newsletter />
       <JobSection title="Other IT Related Jobs">
         <OtherJobListLimit12 />
-        <StyledLink to="/other-it-jobs">
+        {otherJobsNumber > 12 && <StyledLink to="/other-it-jobs">
           {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
-        </StyledLink>
+        </StyledLink>}
       </JobSection>
       <Banner />
     </Layout>
