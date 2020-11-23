@@ -1,5 +1,6 @@
+/* eslint-disable no-plusplus */
 import React from "react";
-import { render } from "@testing-library/react";
+import { render, fireEvent, getByTestId } from "@testing-library/react";
 import useTypeAhead from "../useTypeAhead";
 
 describe("useTypeAhead", () => {
@@ -18,36 +19,41 @@ describe("useTypeAhead", () => {
     /* 11 */ "Orange",
   ];
 
-  const Component = () => {
-    const typeAhead = useTypeAhead(array);
+  let i = 0;
+  const values = [
+    { key: "a", index: 0 },
+    { key: "a", index: 3 },
+    { key: "a", index: 6 },
+    { key: "a", index: 0 },
+    { key: "b", index: -1 },
+  ];
 
-    expect(typeAhead.next("a")).toBe(0);
-    expect(typeAhead.next("a")).toBe(3);
-    expect(typeAhead.next("q")).toBe(-1); // Non existent
-    expect(typeAhead.next("q")).toBe(-1); // Non existent
-    expect(typeAhead.next("a")).toBe(6); // Sequence continues
-    expect(typeAhead.next("a")).toBe(0);
-    expect(typeAhead.next("a")).toBe(3);
-    expect(typeAhead.next("b")).toBe(-1); // No 'ab' items due fast typing
-
-    setTimeout(() => {
-      expect(typeAhead.next("b")).toBe(1);
-      expect(typeAhead.next("b")).toBe(7);
-      expect(typeAhead.next("b")).toBe(9);
-      expect(typeAhead.next("b")).toBe(1);
-
-      setTimeout(() => {
-        expect(typeAhead.next("l")).toBe(8);
-        expect(typeAhead.next("e")).toBe(8);
-        expect(typeAhead.next("m")).toBe(8);
-        expect(typeAhead.next("o")).toBe(8);
-        expect(typeAhead.next("n")).toBe(8);
-      }, 300);
-    }, 300);
-    return <></>;
-  };
+  function next() {
+    return values[i++];
+  }
 
   test("Empty renders without issue", () => {
-    render(<Component />);
+    const Component = () => {
+      const typeAhead = useTypeAhead(array);
+
+      function handleClick() {
+        const { key, index } = next();
+        const typeAheadIndex = typeAhead.next(key);
+        expect(typeAheadIndex).toBe(index);
+      }
+
+      return (
+        <button data-testid="btn" onClick={handleClick}>
+          Click
+        </button>
+      );
+    };
+
+    const { container } = render(<Component />);
+
+    const button = getByTestId(container, "btn");
+    values.forEach(() => {
+      fireEvent.click(button);
+    });
   });
 });

@@ -188,7 +188,7 @@ const Listbox = ({
   const setNextTypeAheadIndex = useCallback(
     (key) => {
       const index = typeAhead.next(key);
-      if (index !== -1) setFocusedIndex(index);
+      if (index !== undefined && index !== -1) setFocusedIndex(index);
     },
     [typeAhead]
   );
@@ -289,6 +289,7 @@ const Listbox = ({
 
   return (
     <div
+      aria-activedescendant={focusedIndex}
       aria-disabled={disabled}
       aria-label={ariaLabel}
       aria-multiselectable={enableMultiselect}

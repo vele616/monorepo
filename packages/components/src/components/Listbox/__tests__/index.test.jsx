@@ -88,5 +88,33 @@ describe("Listbox Component", () => {
 
       expect(handleOnChange).toHaveBeenCalledTimes(2);
     });
+
+    test("Supports focus", () => {
+      const { container } = render(
+        <Listbox testId="listbox-1">
+          <Listbox.Option>Ananas</Listbox.Option>
+          <Listbox.Option disabled>Australia</Listbox.Option>
+          <Listbox.Option>Banana</Listbox.Option>
+          <Listbox.Option>Bloom</Listbox.Option>
+          <Listbox.Option>Afganistan</Listbox.Option>
+          <Listbox.Option>Automobile</Listbox.Option>
+          <Listbox.Option>Doom</Listbox.Option>
+        </Listbox>
+      );
+
+      const listbox = getByTestId(container, "listbox-1");
+      listbox.focus();
+
+      fireEvent.keyDown(listbox, { key: "a" });
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("0"); // next with letter a
+      fireEvent.keyDown(listbox, { key: "a" });
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("3"); // next with letter a
+      fireEvent.keyDown(listbox, { key: "a" });
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("4"); // next with letter a
+      fireEvent.keyDown(listbox, { key: "a" });
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("0"); // next with letter a
+      fireEvent.keyDown(listbox, { key: "d" });
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("0"); // next with 'ad' (preserve position)
+    });
   });
 });
