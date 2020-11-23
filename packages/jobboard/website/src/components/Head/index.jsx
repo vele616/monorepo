@@ -54,8 +54,8 @@ const Head = ({
       <meta content={pageTitleFull} name="twitter:title" />
       <meta content={description || siteDescription} name="twitter:description" />
       <meta content="summary_large_image" name="twitter:card" />
-      <meta content={`@${social.twitter}`} name="twitter:site" />
-      <meta content={`@${social.twitter}`} name="twitter:creator" />
+      <meta content="@crocoderdev" name="twitter:site" />
+      <meta content="@crocoderdev" name="twitter:creator" />
       <meta content={pageTitleFull} name="twitter:text:title" />
       <meta content={canonical} name="twitter:url" />
       <meta
