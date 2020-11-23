@@ -460,7 +460,7 @@ module.exports = {
             other: 0,
         },
         hashtag: '#reactnative',
-        keywords: ['reactnative'],
+        keywords: ['reactnative', 'react native'],
     },
     spark: {        
         rating: 60,
