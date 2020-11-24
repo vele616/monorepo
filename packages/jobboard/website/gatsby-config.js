@@ -1,5 +1,9 @@
 const siteConfig = require('./site-config');
 
+require('dotenv').config({
+  path: `.env`,
+});
+
 module.exports = {
   siteMetadata: {
     ...siteConfig,
@@ -10,14 +14,14 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-external-links",
+            resolve: 'gatsby-remark-external-links',
             options: {
-              target: "_blank",
-              rel: "nofollow noopener noreferrer"
-            }
-          }
-        ]
-      }
+              target: '_blank',
+              rel: 'nofollow noopener noreferrer',
+            },
+          },
+        ],
+      },
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
@@ -40,4 +44,4 @@ module.exports = {
       },
     },
   ],
-}
+};

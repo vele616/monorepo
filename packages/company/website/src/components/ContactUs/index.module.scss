@@ -56,14 +56,18 @@
 
 .callToAction {
 
-  button:first-child {
+  a {
+    text-decoration: none;
+  }
+
+  *:first-child {
     margin-right: 25px;
   }
 
   @include mediaQuery("<=tabletPortrait") {
     flex-direction: column !important;
 
-    button:first-child {
+    *:first-child {
       margin-right: 0;
       margin-bottom: 25px;
     }

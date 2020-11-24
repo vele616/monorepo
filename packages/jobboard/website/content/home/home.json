@@ -29,6 +29,10 @@
     "subtitle": "Get your daily dose of new job postings",
     "confirm": "A confirmation of terms of services",
     "inputLabel": "E-mail",
-    "submitButtonLabel": "Submit"
+    "submitButtonLabel": "Submit",
+    "mailNotValidErrorMessage": "Your email is not valid",
+    "mailNotConfirmedErrorMessage": "Check the confirmation",
+    "responseStatusMailAlreadyInDatabaseErrorMessage": "Entered email is already in database",
+    "responseStatusNotOkErrorMessage": "Something went wrong, please try again"
   }
 }
