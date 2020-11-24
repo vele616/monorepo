@@ -14,6 +14,28 @@
     "text2": "For the last several years, our developers worked exclusively with small businesses and startups, operating both as part of the team and as contractors. <br/> It is that experience and that knowledge, we want to offer to you.",
     "image2": "../images/crocoderteam.png"
   },
+  "howWeWork": {
+    "title": "How We Work",
+    "text": "In software development, there a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
+    "sections": [
+      {
+        "title": "DEFINITION",
+        "text": "In the definition part of the process, we try and create strict boundaries around the essence of the product. It’s also a part where you, as a client, are maximally involved. We use this part in the process to find out what you want to build and give you an outline on how we see your idea coming to life.",
+        "image": "../images/contact.png"
+      },
+      {
+        "title": "ITERATION",
+        "text": "Like we said, we iterate fast and often. We design, implement and test every feature. In this phase, we see the idea coming to life and improving with each deliverable. From this point forward, you have a finished solution that gets better and better. With each iteration, we’re closer to the imagined solution.",
+        "image": "../images/whatwedoIteration.png"
+      },
+      {
+        "title": "LAUNCH",
+        "text": "Once you are happy with your product - it’s time to showcase it to the world! We help prepare steps to do so and make sure you can continue with new implementations and improvements. We can also organize an educational hand-over to your team if you’d like. One thing we make sure is, you have enough documentation to continue.",
+        "image": "../images/whatwedoLaunch.png"
+      }
+    ]
+
+  },
   "contactUs": {
     "title": "We can do it - together!",
     "text": "Whether you need an MVP,  a completely custom software or just some short-term help implemeting a solution that will ehnance your business - let us know!",

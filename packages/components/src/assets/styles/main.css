@@ -1,11 +1,11 @@
 body {
   padding: 0 !important;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .link {
-  font-family: 'Rubik', sans-serif;
-  color: #85A32A;
+  font-family: "Rubik", sans-serif;
+  color: #85a32a;
   cursor: pointer;
   font-size: 16px;
   line-height: 20px;
@@ -13,15 +13,16 @@ body {
 }
 
 .link:hover {
-  color: #98B534;
+  color: #98b534;
 }
 
-.link:focus, .link:active {
-  color: #72911F;
+.link:focus,
+.link:active {
+  color: #72911f;
 }
 
 .link:disabled {
-  color: #E8E8E8;
+  color: #e8e8e8;
 }
 
 .link--primary {
@@ -51,14 +52,13 @@ body {
   border-color: #1e1a1a;
 }
 
-.link--primary:disabled, .link--primary:disabled:hover {
+.link--primary:disabled,
+.link--primary:disabled:hover {
   cursor: not-allowed;
   background-color: #e8e8e8;
   color: #828282;
   border-color: #e8e8e8;
 }
-
-
 
 .link--secondary {
   display: inline-block;
@@ -86,7 +86,8 @@ body {
   background-color: rgba(254, 209, 82, 90);
   border-color: #1e1a1a;
 }
-.link--secondary:disabled, .link--secondary:disabled:hover {
+.link--secondary:disabled,
+.link--secondary:disabled:hover {
   cursor: not-allowed;
   background-color: #e8e8e8;
   color: #828282;
