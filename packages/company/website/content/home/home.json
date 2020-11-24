@@ -1,8 +1,26 @@
 {
   "hero": {
-    "title": "CroCoder is a small group of enthusiastic developers that wishes to help others find",
-    "titleEmphasis": "fulfillment and merriment at work.",
-    "image": "../images/jobsHeader.png"
+    "title": "Entrepreneurship is a difficult process.",
+    "subtitle": "COLLABORATION MAKES IT EASY.",
+    "paragraph": "We are an experienced web development team that helps startups and small businesses <em>focus on what really matters.</em>",
+    "scheduleCall": "Schedule a call",
+    "howWeWork": "How we work"
+  },
+  "whatCanWeDo": {
+    "title1": "Once you start working on your business idea, Things can get overwhelming fast",
+    "text1": " If product development is one of those things you constantly worry about, <em>we got you covered!</em>  We are a small web development team that can implement that fantastic idea you've been pondering about. <br/> <br/>We work iterating fast and often so your product can grow to that sweet spot of <em>solving a problem for your customers that they actually want to pay for.</em>",
+    "image1":  "../images/overwhelming.png",
+    "title2": "We know we can do it, because we did it before",
+    "text2": "For the last several years, our developers worked exclusively with small businesses and startups, operating both as part of the team and as contractors. <br/> It is that experience and that knowledge, we want to offer to you.",
+    "image2":  "../images/crocoderteam.png"
+  },
+  "contactUs": {
+    "title": "We can do it - together!",
+    "text": "Whether you need an MVP,  a completely custom software or just some short-term help implemeting a solution that will ehnance your business - let us know!",
+    "scheduleCall": "Schedule a call",
+    "sendEmail": "Send us an email",
+    "email": "info@crocoder.dev",
+    "image":  "../images/wecandoit.png"
   },
   "contact": {
     "image":  "../images/contact.png",

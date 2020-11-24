@@ -1,12 +1,16 @@
 import React from "react";
 import Layout from "../components/Layout";
-import Contact from "../components/Contact";
-import './index.scss';
+import WhatCanWeDo from "../components/WhatCanWeDo";
+import Hero from "../components/Hero";
+import ContactUs from "../components/ContactUs";
+import "./index.scss";
 
 export default function Home() {
   return (
     <Layout stickyFooter>
-      <Contact />
+      <Hero />
+      <WhatCanWeDo />
+      <ContactUs />
     </Layout>
   );
 }
