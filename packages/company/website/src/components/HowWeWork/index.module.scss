@@ -89,10 +89,10 @@
   }
 }
 
-.description {
+.description > div {
   margin-top: 25px;
   line-height: 1.8;
-  animation: enter 1s;
+  animation: enter 1.6s;
 }
 
 @keyframes enter {

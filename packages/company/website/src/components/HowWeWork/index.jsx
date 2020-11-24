@@ -119,7 +119,10 @@ const HowWeWork = ({ title, text, sections }) => {
           color="gray_11"
           element="div"
         >
-          <div dangerouslySetInnerHTML={{ __html: sectionText }} />
+          <div
+            key={sectionText}
+            dangerouslySetInnerHTML={{ __html: sectionText }}
+          />
         </Typography>
       </div>
     </Section>,
