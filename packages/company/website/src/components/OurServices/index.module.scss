@@ -79,6 +79,8 @@
   }
 }
 
+// Size at which we need to stop showing only active offers
+// but show all at once, underneath each other
 @include mediaQuery("<1000px") {
   .card,
   .headline,
