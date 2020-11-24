@@ -74,10 +74,13 @@
 }
 
 .image {
-  max-height: 200px;
   flex-basis: 300px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin: 10px auto;
+  max-height: 250px;
+  max-width: 350px;
+  min-width: 278px;
+  padding: 0;
+  width: 100%;
 }
 
 .paragraph {

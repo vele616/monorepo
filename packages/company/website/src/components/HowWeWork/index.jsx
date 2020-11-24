@@ -30,16 +30,14 @@ const SectionTitle = ({ index, title, onClick, selected }) => {
   );
 };
 
-const HowWeWork = ({ title, text, sections }) => {
-  const [selectedIndex, setSelectedIndex] = useState(0);
+const SectionImage = ({ index, image, title, text, onClick }) => {
+  const handleOnClick = useCallback(() => {
+    if (onClick) onClick(index);
+  }, [onClick, index]);
 
-  const sectionText = useMemo(() => {
-    return sections[selectedIndex] ? sections[selectedIndex].text : "";
-  }, [selectedIndex]);
-
-  const images = useMemo(() => {
-    return sections.map(({ title, image, text }) => (
-      <>
+  return (
+    <>
+      <Button variant="sneaky" className={styles.image} onClick={handleOnClick}>
         <Img
           className={styles.image}
           fadeIn={false}
@@ -49,29 +47,51 @@ const HowWeWork = ({ title, text, sections }) => {
           fluid={image ? image.childImageSharp.fluid : {}}
           alt={title}
         />
-        <div className={styles.hidden}>
-          <Typography
-            className={styles.subtitle}
-            fontSize={26}
-            fontWeight={700}
-            fontFamily="rubik"
-            color="gray_11"
-            element="div"
-            textAlign="center"
-          >
-            {title}
-          </Typography>
-          <Typography
-            className={styles.paragraph}
-            fontSize={18}
-            fontFamily="rubik"
-            color="gray_11"
-            element="div"
-          >
-            <div dangerouslySetInnerHTML={{ __html: text }} />
-          </Typography>
-        </div>
-      </>
+      </Button>
+
+      <div className={styles.hidden}>
+        <Typography
+          className={styles.subtitle}
+          fontSize={26}
+          fontWeight={700}
+          fontFamily="rubik"
+          color="gray_11"
+          element="div"
+          textAlign="center"
+        >
+          {title}
+        </Typography>
+        <Typography
+          className={styles.paragraph}
+          fontSize={18}
+          fontFamily="rubik"
+          color="gray_11"
+          element="div"
+        >
+          <div dangerouslySetInnerHTML={{ __html: text }} />
+        </Typography>
+      </div>
+    </>
+  );
+};
+
+const HowWeWork = ({ title, text, sections }) => {
+  const [selectedIndex, setSelectedIndex] = useState(0);
+
+  const sectionText = useMemo(() => {
+    return sections[selectedIndex] ? sections[selectedIndex].text : "";
+  }, [selectedIndex]);
+
+  const images = useMemo(() => {
+    return sections.map(({ title, image, text }, index) => (
+      <SectionImage
+        onClick={setSelectedIndex}
+        key={title}
+        title={title}
+        image={image}
+        text={text}
+        index={index}
+      />
     ));
   }, [sections]);
 
