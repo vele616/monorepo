@@ -30,7 +30,7 @@ const ContactUs = ({ title, text, sendEmail, scheduleCall, email, image }) => (
           {text}
         </Typography>
         <Flexbox className={styles.callToAction}>
-          <Button>{scheduleCall}</Button>
+          <a href="#ContacUs">{scheduleCall}</a>
           <Button variant="secondary">{sendEmail}</Button>
         </Flexbox>
       </Typography>
@@ -66,7 +66,7 @@ const ContactUsWithQuery = () => (
         }
       }
     `}
-    render={(data) => <ContactUs {...data.homeJson.contactUs} />}
+    render={(data) => <ContactUs id="ContactUs" {...data.homeJson.contactUs} />}
   />
 );
 
