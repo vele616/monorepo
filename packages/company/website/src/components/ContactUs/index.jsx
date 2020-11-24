@@ -4,8 +4,6 @@ import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-
-
 const ContactUs = ({ title, text, sendEmail, scheduleCall, email, image }) => (
   <Section className={styles.section} backgroundColor="white">
     <Flexbox
@@ -32,8 +30,8 @@ const ContactUs = ({ title, text, sendEmail, scheduleCall, email, image }) => (
           {text}
         </Typography>
         <Flexbox className={styles.callToAction}>
-          <a target="_blank" rel="nofollow noopener noreferrer" href={process.env.GATSBY_CALENDLY_URL} class="link--primary">{scheduleCall}</a>
-          <Button variant="secondary">{sendEmail}</Button>
+          <a target="_blank" rel="nofollow noopener noreferrer" href={`${process.env.GATSBY_CALENDLY_URL}`} class="link--primary">{scheduleCall}</a>
+          <a target="_blank" rel="nofollow noopener noreferrer" href={`mailto:${process.env.GATSBY_EMAIL}`} class="link--secondary">{sendEmail}</a>
         </Flexbox>
       </Typography>
       <Img
