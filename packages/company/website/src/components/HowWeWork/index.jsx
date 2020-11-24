@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Section, Flexbox } from "@crocoder-dev/components";
+import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 import { useMemo } from "react";
 import { useCallback } from "react";
@@ -12,17 +12,21 @@ const SectionTitle = ({ index, title, onClick, selected }) => {
   }, [onClick, index]);
 
   return (
-    <Typography
+    <Button
+      variant="sneaky"
       className={`${styles.sectionTitle} ${selected && styles.selected}`}
-      fontSize={18}
-      fontFamily="rubik"
-      color="gray_11"
-      element="div"
-      textAlign="center"
       onClick={handleOnClick}
     >
-      {title}
-    </Typography>
+      <Typography
+        fontSize={26}
+        fontFamily="rubik"
+        color="gray_11"
+        element="div"
+        textAlign="center"
+      >
+        <span className={styles.underline}>{title}</span>
+      </Typography>
+    </Button>
   );
 };
 
@@ -48,7 +52,8 @@ const HowWeWork = ({ title, text, sections }) => {
         <div className={styles.hidden}>
           <Typography
             className={styles.subtitle}
-            fontSize={18}
+            fontSize={26}
+            fontWeight={700}
             fontFamily="rubik"
             color="gray_11"
             element="div"
@@ -108,7 +113,7 @@ const HowWeWork = ({ title, text, sections }) => {
       <div className={styles.sectionsWrapper}>
         <Flexbox justifyContent="space-between">{titles}</Flexbox>
         <Typography
-          className={styles.paragraph}
+          className={styles.description}
           fontSize={18}
           fontFamily="rubik"
           color="gray_11"

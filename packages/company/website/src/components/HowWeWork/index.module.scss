@@ -5,7 +5,7 @@
   flex-direction: row;
   -webkit-flex-direction: row;
   justify-content: space-between;
-  
+
   @include mediaQuery("<tabletLandscape") {
     flex-direction: column;
     -webkit-flex-direction: column;
@@ -13,8 +13,6 @@
 }
 
 .sectionsWrapper {
-  padding-left: 45px;
-  padding-right: 45px;
   @include mediaQuery("<tabletLandscape") {
     display: none;
   }
@@ -35,31 +33,39 @@
 
 .sectionTitle {
   cursor: pointer;
+  flex-basis: 300px;
   position: relative;
-  &:after {
-    bottom: 0px;
-    position: absolute;
-    width: 0%;
-    visibility: hidden;
-    z-index: 1;
-    background-color: $green_2;
-    height: 2px;
-    left: 50%;
-    content: "";
+  span {
+    display: inline-block;
+    position: relative;
+    &:after {
+      bottom: 0px;
+      position: absolute;
+      width: 0%;
+      visibility: hidden;
+      z-index: 1;
+      background-color: $green_2;
+      height: 2px;
+      left: 50%;
+      content: "";
+    }
   }
 }
 
 .selected {
   font-weight: bold;
-  color: $green_2;
-  &:after {
-    height: 1px;
-    width: 100%;
-    left: 0;
-    transition: left 200ms cubic-bezier(0, 0, 0.2, 1) 75ms,
-      width 200ms cubic-bezier(0, 0, 0.2, 1) 75ms;
+  span {
+    color: $green_2;
+    &:after {
+      height: 1px;
+      width: 100%;
+      left: 0;
+      transition: left 200ms cubic-bezier(0, 0, 0.2, 1) 75ms,
+        width 200ms cubic-bezier(0, 0, 0.2, 1) 75ms;
       visibility: visible;
+    }
   }
+
   transition: color 200ms cubic-bezier(0, 0, 0.2, 1) 75ms;
 }
 
@@ -76,10 +82,25 @@
 
 .paragraph {
   margin-top: 25px;
-  line-height: 1.8;
+  line-height: 2.4;
   em {
     font-style: normal;
     font-weight: 600;
+  }
+}
+
+.description {
+  margin-top: 25px;
+  line-height: 1.8;
+  animation: enter 1s;
+}
+
+@keyframes enter {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }
 
@@ -89,6 +110,6 @@
     .sectionsWrapper {
       padding-left: 0px;
       padding-right: 45px;
-    }    
+    }
   }
 }
