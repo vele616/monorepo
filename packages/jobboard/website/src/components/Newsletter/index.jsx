@@ -53,7 +53,7 @@ const Newsletter = ({
   }, []);
 
   const handleClick = React.useCallback(async () => {
-    const response = await fetch('http://localhost:3000/dev/newsletter/', {
+    const response = await fetch(process.env.GATSBY_NEWSLETTER_SUBSCRIBE_URL, {
       method: 'POST',
       body: JSON.stringify({ email: text, confirm: confirmed }),
     });
