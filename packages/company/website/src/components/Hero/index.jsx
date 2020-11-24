@@ -4,7 +4,15 @@ import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-const Hero = ({ title, paragraph, subtitle, scheduleCall, howWeWork }) => (
+const Hero = ({
+  title,
+  paragraph,
+  subtitle,
+  scheduleCall,
+  howWeWork,
+  scrollToContactUs,
+  scrollToHowWeWork,
+}) => (
   <Section className={styles.section} backgroundColor="white">
     <Typography
       className={styles.title}
@@ -33,13 +41,15 @@ const Hero = ({ title, paragraph, subtitle, scheduleCall, howWeWork }) => (
       <div dangerouslySetInnerHTML={{ __html: paragraph }} />
     </Typography>
     <Flexbox className={styles.callToAction}>
-      <Button>{scheduleCall}</Button>
-      <Button variant="secondary">{howWeWork}</Button>
+      <Button onClick={scrollToContactUs}>{scheduleCall}</Button>
+      <Button onClick={scrollToHowWeWork} variant="secondary">
+        {howWeWork}
+      </Button>
     </Flexbox>
   </Section>
 );
 
-const HeroWithQuery = () => (
+const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -54,7 +64,13 @@ const HeroWithQuery = () => (
         }
       }
     `}
-    render={(data) => <Hero {...data.homeJson.hero} />}
+    render={(data) => (
+      <Hero
+        scrollToContactUs={scrollToContactUs}
+        scrollToHowWeWork={scrollToHowWeWork}
+        {...data.homeJson.hero}
+      />
+    )}
   />
 );
 

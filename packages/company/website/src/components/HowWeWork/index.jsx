@@ -75,7 +75,7 @@ const SectionImage = ({ index, image, title, text, onClick }) => {
   );
 };
 
-const HowWeWork = ({ title, text, sections }) => {
+const HowWeWork = ({ title, text, sections, howWeWorkRef }) => {
   const [selectedIndex, setSelectedIndex] = useState(0);
 
   const sectionText = useMemo(() => {
@@ -108,6 +108,7 @@ const HowWeWork = ({ title, text, sections }) => {
 
   return [
     <Section className={styles.section} backgroundColor="white">
+      <div ref={howWeWorkRef} />
       <Typography
         className={styles.title}
         element="h1"
@@ -149,7 +150,7 @@ const HowWeWork = ({ title, text, sections }) => {
   ];
 };
 
-const WithQuery = () => (
+const WithQuery = ({ howWeWorkRef }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -172,7 +173,9 @@ const WithQuery = () => (
         }
       }
     `}
-    render={(data) => <HowWeWork {...data.homeJson.howWeWork} />}
+    render={(data) => (
+      <HowWeWork howWeWorkRef={howWeWorkRef} {...data.homeJson.howWeWork} />
+    )}
   />
 );
 
