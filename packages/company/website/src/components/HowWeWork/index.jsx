@@ -108,7 +108,6 @@ const HowWeWork = ({ title, text, sections, howWeWorkRef }) => {
 
   return [
     <Section className={styles.section} backgroundColor="white">
-      <div ref={howWeWorkRef} />
       <Typography
         className={styles.title}
         element="h1"
@@ -129,6 +128,7 @@ const HowWeWork = ({ title, text, sections, howWeWorkRef }) => {
       </Typography>
 
       <div className={styles.imagesWrapper} justifyContent="space-between">
+        <div ref={howWeWorkRef} />
         {images}
       </div>
       <div className={styles.sectionsWrapper}>
@@ -146,7 +146,7 @@ const HowWeWork = ({ title, text, sections, howWeWorkRef }) => {
           />
         </Typography>
       </div>
-    </Section>,
+    </Section>
   ];
 };
 
