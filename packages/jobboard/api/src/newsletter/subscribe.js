@@ -1,6 +1,7 @@
 const AWS = require('aws-sdk');
 const { customAlphabet } = require('nanoid');
 const englishLowercase = require('nanoid-dictionary/lowercase');
+const newsletter = require('../../emails/newsletter-confirmation');
 
 let options = {};
 
@@ -12,6 +13,8 @@ if (process.env.IS_OFFLINE) {
 }
 
 const client = new AWS.DynamoDB.DocumentClient(options);
+
+const emailService = new AWS.SES({ apiVersion: '2010-12-01' });
 
 exports.exec = async (event) => {
   const timestamp = new Date().getTime();
@@ -40,6 +43,28 @@ exports.exec = async (event) => {
             ':updatedAt': timestamp,
           },
         }).promise();
+
+        const params = {
+          Destination: {
+            ToAddresses: [
+              email,
+            ],
+          },
+          Message: {
+            Body: {
+              Html: {
+                Charset: 'UTF-8',
+                Data: newsletter.html(`http://www.example.com/${emailHash}`),
+              },
+            },
+            Subject: {
+              Charset: 'UTF-8',
+              Data: newsletter.subject,
+            },
+          },
+          Source: 'hello@crocoder.dev',
+        };
+        await emailService.sendEmail(params).promise();
       } else {
         return {
           statusCode: 304,
