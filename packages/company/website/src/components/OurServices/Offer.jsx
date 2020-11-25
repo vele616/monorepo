@@ -45,7 +45,7 @@ const OfferCard = ({ title, text, isVisible, isSmall }) => (
 const OfferHeadline = ({ isVisible, headline, callToAction }) => (
   <Flexbox
     justifyContent="space-between"
-    alignItems="center"
+    alignItems="baseline"
     className={`${styles.headline} ${isVisible && styles.visible}`}
   >
     <Typography

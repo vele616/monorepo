@@ -26,7 +26,7 @@ const ContactUs = ({
       <Typography
         className={styles.title}
         element="h3"
-        fontSize={26}
+        fontSize={50}
         fontWeight={700}
         color="gray_2"
       >
