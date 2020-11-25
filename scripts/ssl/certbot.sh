@@ -7,5 +7,5 @@ certbot certonly --non-interactive --manual \
  --logs-dir "./letsencrypt" \
  --agree-tos \
  --manual-public-ip-logging-ok \
- --domains crocoder.dev,jobs.crocoder.dev,www.crocoder.dev,blog.crocoder.dev \
+ --domains crocoder.dev,jobs.crocoder.dev,www.crocoder.dev,blog.crocoder.dev,sa.crocoder.dev \
  --email david@crocoder.dev
