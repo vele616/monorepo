@@ -1,7 +1,7 @@
 import React from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Section, Flexbox, Card } from "@crocoder-dev/components";
+import { Typography, Flexbox, Card } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 import { useMemo } from "react";
 
@@ -12,7 +12,7 @@ const Content = ({ title, text }) => (
       color="gray_2"
       element="h3"
       fontSize={26}
-      fontWeight="700"
+      fontWeight={700}
     >
       {title}
     </Typography>
@@ -43,6 +43,7 @@ const HowWeWork = ({ title, content, howWeWorkRef }) => {
 
       return (
         <Card
+          key={title}
           narrow
           image={cardImage}
           className={styles.card}
@@ -55,8 +56,12 @@ const HowWeWork = ({ title, content, howWeWorkRef }) => {
   }, [content]);
 
   return [
-    <div style={{ position: "relative", top: "-100px" }} ref={howWeWorkRef} />,
-    <div className={styles.section} backgroundColor="background_base">
+    <div
+      key="ref"
+      style={{ position: "relative", top: "-100px" }}
+      ref={howWeWorkRef}
+    />,
+    <div key="section" className={styles.section}>
       <Typography
         color="gray_2"
         element="h1"

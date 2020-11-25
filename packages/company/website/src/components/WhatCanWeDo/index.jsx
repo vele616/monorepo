@@ -21,7 +21,7 @@ const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => [
         className={styles.first}
         element="h3"
         fontSize={26}
-        fontWeight="700"
+        fontWeight={700}
         color="gray_2"
       >
         {title1}
@@ -41,7 +41,7 @@ const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => [
         className={styles.second}
         element="h3"
         fontSize={26}
-        fontWeight="700"
+        fontWeight={700}
         color="gray_2"
       >
         {title2}
@@ -64,7 +64,7 @@ const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => [
       />
     </Flexbox>
   </Section>,
-  <Section className={styles.smallMobile} backgroundColor="white">
+  <Section key="second" className={styles.smallMobile} backgroundColor="white">
     <Typography
       element="h3"
       color="gray_2"

@@ -18,12 +18,6 @@ const OffersTitle = ({ children, onClick, className, isActive }) => (
 
 const lineHeight = { lineHeight: "1.6" };
 const bottomMargin = { marginBottom: "15px" };
-const buttonStyle = {
-  marginLeft: "10px",
-  width: "200px",
-  flexGrow: 0,
-  flexShrink: 0,
-};
 
 const OfferCard = ({ title, text, isVisible, isSmall }) => (
   <Card
@@ -66,7 +60,7 @@ const OfferHeadline = ({ isVisible, headline, callToAction }) => (
       </Typography>
       <span dangerouslySetInnerHTML={{ __html: headline }} />
     </Typography>
-    <Button style={buttonStyle}>{callToAction}</Button>
+    {/*  <Button style={buttonStyle}>{callToAction}</Button> */}
   </Flexbox>
 );
 

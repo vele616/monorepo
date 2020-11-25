@@ -79,9 +79,13 @@
   margin: 10px auto;
   max-height: 250px;
   max-width: 350px;
-  min-width: 278px;
   padding: 0;
   width: 100%;
+
+  @include mediaQuery("<tabletLandscape") {
+
+  min-width: 278px;
+  }
 }
 
 .paragraph {

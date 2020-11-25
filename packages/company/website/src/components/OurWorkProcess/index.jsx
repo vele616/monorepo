@@ -80,7 +80,7 @@ const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
 
   const sectionText = useMemo(() => {
     return sections[selectedIndex] ? sections[selectedIndex].text : "";
-  }, [selectedIndex]);
+  }, [selectedIndex, sections]);
 
   const images = useMemo(() => {
     return sections.map(({ title, image, text }, index) => (
@@ -98,6 +98,7 @@ const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
   const titles = useMemo(() => {
     return sections.map(({ title }, index) => (
       <SectionTitle
+        key={title}
         selected={index === selectedIndex}
         index={index}
         title={title}
@@ -108,10 +109,11 @@ const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
 
   return [
     <div
+      key="ref"
       style={{ position: "relative", top: "-100px" }}
       ref={ourWorkProcessRef}
     />,
-    <Section className={styles.section} backgroundColor="white">
+    <Section key="section" className={styles.section} backgroundColor="white">
       <Typography
         className={styles.title}
         element="h1"
@@ -131,9 +133,7 @@ const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
         <div dangerouslySetInnerHTML={{ __html: text }} />
       </Typography>
 
-      <div className={styles.imagesWrapper} justifyContent="space-between">
-        {images}
-      </div>
+      <div className={styles.imagesWrapper}>{images}</div>
       <div className={styles.sectionsWrapper}>
         <Flexbox justifyContent="space-between">{titles}</Flexbox>
         <Typography

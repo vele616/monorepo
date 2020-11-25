@@ -121,7 +121,7 @@
 }
 
 
-@include mediaQuery("<700px") {
+@include mediaQuery("<1000px") {
   .headline {
     flex-wrap: wrap !important;
     & > span, & > button {
