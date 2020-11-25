@@ -14,6 +14,26 @@
     "text2": "For the last several years, our developers worked exclusively with small businesses and startups, operating both as part of the team and as contractors. <br/> It is that experience and that knowledge, we want to offer to you.",
     "image2": "../images/crocoderteam.png"
   },
+  "howWeWork": {
+    "title": "How we work",
+    "content": [
+      {
+        "title": "Your Remote Team",
+        "text": "It does not matter where you are located in the world - what matters is that we are part of your team now. We have taken care to have the right setup and equpment to get the job done. And remember, we are only one click away!",
+        "image": "../images/yourRemoteTeam.png"
+      },
+      {
+        "title": "Pride In Transparency",
+        "text": "It’s important for us that you are always in the loop about what’s going on. We keep meetings to a minimum but do insist on them as we want you to understand what we are working on and what you are paying for.",
+        "image": "../images/prideInTransparency.png"
+      },
+      {
+        "title": "Focus On You",
+        "text": "We are a small team and as such focus soly on you. We are extremely adaptable and want you to thrive. We feel we are invested in every business we’ve had a pleasure to work with so it’s very important for us that you succeed.",
+        "image": "../images/focusOnYou.png"
+      }
+    ]
+  },
   "ourWorkProcess": {
     "title": "Our Work Process",
     "text": "In software development, there a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
@@ -34,7 +54,6 @@
         "image": "../images/whatwedoLaunch.png"
       }
     ]
-
   },
   "contactUs": {
     "title": "We can do it - together!",
