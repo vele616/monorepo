@@ -11,22 +11,22 @@ import "./index.scss";
 export default function Home() {
   const contactUsRef = useRef(null);
 
-  const ourWorkProcessRef = useRef(null);
+  const howWeWorkRef = useRef(null);
 
   const scrollToContactUs = () => contactUsRef.current.scrollIntoView();
 
-  const scrollToOurWorkProcess = () =>
-    ourWorkProcessRef.current.scrollIntoView({ block: "start" });
+  const scrollToHowWeWork = () =>
+    howWeWorkRef.current.scrollIntoView({ block: "start" });
 
   return (
     <Layout scrollToContactUs={scrollToContactUs} stickyFooter>
       <Hero
-        scrollToOurWorkProcess={scrollToOurWorkProcess}
+        scrollToHowWeWork={scrollToHowWeWork}
         scrollToContactUs={scrollToContactUs}
       />
       <WhatCanWeDo />
-      <HowWeWork />
-      <OurWorkProcess ourWorkProcessRef={ourWorkProcessRef} />
+      <HowWeWork howWeWorkRef={howWeWorkRef} />
+      <OurWorkProcess />
       <OurServices />
       <ContactUs contactUsRef={contactUsRef} />
     </Layout>

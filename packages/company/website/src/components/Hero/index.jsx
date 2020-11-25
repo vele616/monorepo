@@ -8,9 +8,9 @@ const Hero = ({
   paragraph,
   subtitle,
   scheduleCall,
-  ourWorkProcess,
+  howWeWork,
   scrollToContactUs,
-  scrollToOurWorkProcess,
+  scrollToHowWeWork,
 }) => (
   <Section className={styles.section} backgroundColor="white">
     <Typography
@@ -41,14 +41,14 @@ const Hero = ({
     </Typography>
     <Flexbox className={styles.callToAction}>
       <Button onClick={scrollToContactUs}>{scheduleCall}</Button>
-      <Button onClick={scrollToOurWorkProcess} variant="secondary">
-        {ourWorkProcess}
+      <Button onClick={scrollToHowWeWork} variant="secondary">
+        {howWeWork}
       </Button>
     </Flexbox>
   </Section>
 );
 
-const HeroWithQuery = ({ scrollToContactUs, scrollToOurWorkProcess }) => (
+const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -57,7 +57,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToOurWorkProcess }) => (
             title
             subtitle
             paragraph
-            ourWorkProcess
+            howWeWork
             scheduleCall
           }
         }
@@ -66,7 +66,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToOurWorkProcess }) => (
     render={(data) => (
       <Hero
         scrollToContactUs={scrollToContactUs}
-        scrollToOurWorkProcess={scrollToOurWorkProcess}
+        scrollToHowWeWork={scrollToHowWeWork}
         {...data.homeJson.hero}
       />
     )}

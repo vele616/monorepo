@@ -11,7 +11,7 @@ const Content = ({ title, text }) => (
       className={styles.card__title}
       color="gray_2"
       element="h3"
-      fontSize={20}
+      fontSize={26}
       fontWeight="700"
     >
       {title}
