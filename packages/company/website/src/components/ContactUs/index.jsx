@@ -40,6 +40,7 @@ const ContactUs = ({
         </Typography>
         <Flexbox className={styles.callToAction}>
           <a
+            onClick={() => window.sa_event(`${process.env.GATSBY_SCHEDULE_CALL_CONTACT_US_CLICK_SA_EVENT}`)}
             target="_blank"
             rel="nofollow noopener noreferrer"
             href={`${process.env.GATSBY_CALENDLY_URL}`}
@@ -48,6 +49,7 @@ const ContactUs = ({
             {scheduleCall}
           </a>
           <a
+            onClick={() => window.sa_event(`${process.env.GATSBY_SEND_US_EMAIL_CONTACT_US_CLICK_SA_EVENT}`)}
             target="_blank"
             rel="nofollow noopener noreferrer"
             href={`mailto:${process.env.GATSBY_EMAIL}`}
