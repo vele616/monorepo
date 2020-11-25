@@ -7,7 +7,7 @@ import Footer from "../Footer";
 import CrocNav from "../../images/croc-nav.svg";
 import Head from "../Head";
 
-const Layout = ({ children, stickyFooter, pageTitle }) => {
+const Layout = ({ children, stickyFooter, pageTitle, scrollToContactUs }) => {
   return (
     <>
       <Head pageTitle={pageTitle} />
@@ -18,7 +18,9 @@ const Layout = ({ children, stickyFooter, pageTitle }) => {
           </Link>
         }
       >
-        <Button variant="secondary">Contact Us</Button>
+        <Button onClick={scrollToContactUs} variant="secondary">
+          Contact Us
+        </Button>
       </Navigation>
       {children}
       <Footer sticky={stickyFooter} />
