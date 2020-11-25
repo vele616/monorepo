@@ -9,10 +9,32 @@
   "whatCanWeDo": {
     "title1": "Once you start working on your business idea, Things can get overwhelming fast",
     "text1": " If product development is one of those things you constantly worry about, <em>we got you covered!</em>  We are a small web development team that can implement that fantastic idea you've been pondering about. <br/> <br/>We work iterating fast and often so your product can grow to that sweet spot of <em>solving a problem for your customers that they actually want to pay for.</em>",
-    "image1":  "../images/overwhelming.png",
+    "image1": "../images/overwhelming.png",
     "title2": "We know we can do it, because we did it before",
     "text2": "For the last several years, our developers worked exclusively with small businesses and startups, operating both as part of the team and as contractors. <br/> It is that experience and that knowledge, we want to offer to you.",
-    "image2":  "../images/crocoderteam.png"
+    "image2": "../images/crocoderteam.png"
+  },
+  "howWeWork": {
+    "title": "How We Work",
+    "text": "In software development, there a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
+    "sections": [
+      {
+        "title": "DEFINITION",
+        "text": "In the definition part of the process, we try and create strict boundaries around the essence of the product. It’s also a part where you, as a client, are maximally involved. We use this part in the process to find out what you want to build and give you an outline on how we see your idea coming to life.",
+        "image": "../images/contact.png"
+      },
+      {
+        "title": "ITERATION",
+        "text": "Like we said, we iterate fast and often. We design, implement and test every feature. In this phase, we see the idea coming to life and improving with each deliverable. From this point forward, you have a finished solution that gets better and better. With each iteration, we’re closer to the imagined solution.",
+        "image": "../images/whatwedoIteration.png"
+      },
+      {
+        "title": "LAUNCH",
+        "text": "Once you are happy with your product - it’s time to showcase it to the world! We help prepare steps to do so and make sure you can continue with new implementations and improvements. We can also organize an educational hand-over to your team if you’d like. One thing we make sure is, you have enough documentation to continue.",
+        "image": "../images/whatwedoLaunch.png"
+      }
+    ]
+
   },
   "contactUs": {
     "title": "We can do it - together!",
@@ -20,16 +42,45 @@
     "scheduleCall": "Schedule a call",
     "sendEmail": "Send us an email",
     "email": "info@crocoder.dev",
-    "image":  "../images/wecandoit.png"
+    "image": "../images/wecandoit.png"
+  },
+  "ourServices": {
+    "title": "Our Services",
+    "startups": {
+      "title": "For startups",
+      "offer": [
+        {
+          "title": "MVP BUILD",
+          "text": "We help you define the minimal scope for your product and outline how we intend to build it. Once we agree on the scope, timeline and tools, we can set a fixed price so <em>you don’t have to worry about additional costs</em>.<br/><br/>When building MVPs, we offer up to three months of development. We make sure our scope is realistic so we don’t take more than that.<br/><br/>Our offer includes UI/UX definition and design, frontend and backend implementation, infrastructure setup, scope analyzing and planning, and software project management.  Additional services available on request."
+        }
+      ],
+      "headline": "helps you <em>solve real world problems. </em>",
+      "callToAction": "Schedule call"
+    },
+    "business": {
+      "title": "For small businesses",
+      "offer": [
+        {
+          "title": "Feature Implementation",
+          "text": "We help you with a single small implementation unit on existing solutions.<br/><br/>This implementation has a fixed development time and must be deliverable in up to a month.<br/><br/>This type of cooperation is useful when you have an existing solution but your team might not have the time to implement a feature or a set of features.<br/>Or you might not have a team at all."
+        },
+        {
+          "title": "Consultancy",
+          "text": "We become advizors and/or maintainers for a fixed time and a fixed rate.<br/><br/>We might do one of the folowing:<ul><li>Software maintenance and support</li><li>Research and present technical options with their pros and cons</li><li>Implement larger features that include several months of development</li><li>Ogranize and implement web developer education and training for in-house team</li><li>Custom software development</li>"
+        }
+      ],
+      "headline": "helps you <em>focus on your core business.</em>",
+      "callToAction": "Schedule call"
+    }
   },
   "contact": {
-    "image":  "../images/contact.png",
+    "image": "../images/contact.png",
     "title": "Our website is coming soon",
     "text": "Meanwhile feel free to message us!",
     "email": "david@crocoder.dev"
   },
   "footer": {
-    "image":  "../images/logoFooter.png",
+    "image": "../images/logoFooter.png",
     "socialMedia": [
       {
         "icon": "linkedin1",

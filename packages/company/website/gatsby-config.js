@@ -1,5 +1,8 @@
+const siteConfig = require("./site-config");
 
-const siteConfig = require('./site-config');
+require("dotenv").config({
+  path: `.env`,
+});
 
 module.exports = {
   siteMetadata: {
@@ -12,24 +15,24 @@ module.exports = {
         plugins: [
           {
             resolve: "gatsby-remark-external-links",
-          }
-        ]
-      }
+          },
+        ],
+      },
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
-    'gatsby-transformer-json',
+    "gatsby-transformer-json",
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
-        name: 'content',
+        name: "content",
         path: `${__dirname}/content`,
       },
     },
     {
-      resolve: 'gatsby-plugin-react-svg',
+      resolve: "gatsby-plugin-react-svg",
       options: {
         rule: {
           include: /images\/.*\.svg$/,
@@ -37,4 +40,4 @@ module.exports = {
       },
     },
   ],
-}
+};
