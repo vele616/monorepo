@@ -14,7 +14,7 @@ export default function Home() {
 
   const scrollToContactUs = () => contactUsRef.current.scrollIntoView();
 
-  const scrollToHowWeWork = () => howWeWorkRef.current.scrollIntoView({ block: 'center' });
+  const scrollToHowWeWork = () => howWeWorkRef.current.scrollIntoView({ block: 'start' });
 
   return (
     <Layout scrollToContactUs={scrollToContactUs} stickyFooter>

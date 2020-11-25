@@ -107,6 +107,7 @@ const HowWeWork = ({ title, text, sections, howWeWorkRef }) => {
   }, [sections, selectedIndex]);
 
   return [
+    <div style={{ position: 'relative', top: '-100px' }} ref={howWeWorkRef} />,
     <Section className={styles.section} backgroundColor="white">
       <Typography
         className={styles.title}
@@ -128,7 +129,6 @@ const HowWeWork = ({ title, text, sections, howWeWorkRef }) => {
       </Typography>
 
       <div className={styles.imagesWrapper} justifyContent="space-between">
-        <div ref={howWeWorkRef} />
         {images}
       </div>
       <div className={styles.sectionsWrapper}>

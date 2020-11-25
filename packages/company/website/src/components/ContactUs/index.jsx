@@ -12,7 +12,8 @@ const ContactUs = ({
   email,
   image,
   contactUsRef,
-}) => (
+}) => [
+  <div style={{ position: 'relative', top: '-100px' }} ref={contactUsRef} />,
   <Section className={styles.section} backgroundColor="white">
     <Flexbox
       className={styles.flex}
@@ -37,7 +38,6 @@ const ContactUs = ({
         >
           {text}
         </Typography>
-        <div ref={contactUsRef} />
         <Flexbox className={styles.callToAction}>
           <a
             target="_blank"
@@ -65,7 +65,7 @@ const ContactUs = ({
       />
     </Flexbox>
   </Section>
-);
+];
 
 const ContactUsWithQuery = ({ contactUsRef }) => (
   <StaticQuery
