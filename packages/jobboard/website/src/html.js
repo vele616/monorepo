@@ -21,8 +21,8 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        <script async defer src="https://api.crocoder.dev/latest.js"></script>
-        <noscript><img src="https://api.crocoder.dev/noscript.gif" alt=""/></noscript>
+        <script async defer src="https://sa.crocoder.dev/latest.js"></script>
+        <noscript><img src="https://sa.crocoder.dev/noscript.gif" alt=""/></noscript>
       </body>
     </html>
   )
