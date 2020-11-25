@@ -18,7 +18,10 @@ const Layout = ({ children, stickyFooter, pageTitle, scrollToContactUs }) => {
           </Link>
         }
       >
-        <Button onClick={scrollToContactUs} variant="secondary">
+        <Button onClick={() => {
+          window.sa_event(`${process.env.GATSBY_SCHEDULE_CALL_NAVIGATION_CLICK_SA_EVENT}`);
+          scrollToContactUs();
+        }} variant="secondary">
           Contact Us
         </Button>
       </Navigation>

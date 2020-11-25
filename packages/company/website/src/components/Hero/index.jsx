@@ -1,5 +1,4 @@
 import React from "react";
-import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
@@ -41,8 +40,14 @@ const Hero = ({
       <div dangerouslySetInnerHTML={{ __html: paragraph }} />
     </Typography>
     <Flexbox className={styles.callToAction}>
-      <Button onClick={scrollToContactUs}>{scheduleCall}</Button>
-      <Button onClick={scrollToHowWeWork} variant="secondary">
+      <Button onClick={() => { 
+        window.sa_event(`${process.env.GATSBY_SCHEDULE_CALL_HERO_CLICK_SA_EVENT}`);
+        scrollToContactUs(); 
+      }}>{scheduleCall}</Button>
+      <Button onClick={() => { 
+        window.sa_event(`${process.env.GATSBY_HOW_WE_WORK_HERO_CLICK_SA_EVENT}`);
+        scrollToHowWeWork(); 
+      }} variant="secondary">
         {howWeWork}
       </Button>
     </Flexbox>
