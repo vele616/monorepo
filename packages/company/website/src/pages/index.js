@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 import Layout from "../components/Layout";
 import WhatCanWeDo from "../components/WhatCanWeDo";
 import OurWorkProcess from "../components/OurWorkProcess";
+import HowWeWork from "../components/HowWeWork";
 import OurServices from "../components/OurServices";
 import Hero from "../components/Hero";
 import ContactUs from "../components/ContactUs";
@@ -24,6 +25,7 @@ export default function Home() {
         scrollToContactUs={scrollToContactUs}
       />
       <WhatCanWeDo />
+      <HowWeWork />
       <OurWorkProcess ourWorkProcessRef={ourWorkProcessRef} />
       <OurServices />
       <ContactUs contactUsRef={contactUsRef} />
