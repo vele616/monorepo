@@ -1,5 +1,4 @@
 import React from "react";
-import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
@@ -9,9 +8,9 @@ const Hero = ({
   paragraph,
   subtitle,
   scheduleCall,
-  howWeWork,
+  ourWorkProcess,
   scrollToContactUs,
-  scrollToHowWeWork,
+  scrollToOurWorkProcess,
 }) => (
   <Section className={styles.section} backgroundColor="white">
     <Typography
@@ -42,14 +41,14 @@ const Hero = ({
     </Typography>
     <Flexbox className={styles.callToAction}>
       <Button onClick={scrollToContactUs}>{scheduleCall}</Button>
-      <Button onClick={scrollToHowWeWork} variant="secondary">
-        {howWeWork}
+      <Button onClick={scrollToOurWorkProcess} variant="secondary">
+        {ourWorkProcess}
       </Button>
     </Flexbox>
   </Section>
 );
 
-const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork }) => (
+const HeroWithQuery = ({ scrollToContactUs, scrollToOurWorkProcess }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -58,7 +57,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork }) => (
             title
             subtitle
             paragraph
-            howWeWork
+            ourWorkProcess
             scheduleCall
           }
         }
@@ -67,7 +66,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork }) => (
     render={(data) => (
       <Hero
         scrollToContactUs={scrollToContactUs}
-        scrollToHowWeWork={scrollToHowWeWork}
+        scrollToOurWorkProcess={scrollToOurWorkProcess}
         {...data.homeJson.hero}
       />
     )}

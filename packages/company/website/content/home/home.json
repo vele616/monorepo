@@ -4,7 +4,7 @@
     "subtitle": "COLLABORATION MAKES IT EASY.",
     "paragraph": "We are an experienced web development team that helps startups and small businesses <em>focus on what really matters.</em>",
     "scheduleCall": "Schedule a call",
-    "howWeWork": "How we work"
+    "ourWorkProcess": "Our work process"
   },
   "whatCanWeDo": {
     "title1": "Once you start working on your business idea, Things can get overwhelming fast",
@@ -14,8 +14,8 @@
     "text2": "For the last several years, our developers worked exclusively with small businesses and startups, operating both as part of the team and as contractors. <br/> It is that experience and that knowledge, we want to offer to you.",
     "image2": "../images/crocoderteam.png"
   },
-  "howWeWork": {
-    "title": "How We Work",
+  "ourWorkProcess": {
+    "title": "Our Work Process",
     "text": "In software development, there a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
     "sections": [
       {
