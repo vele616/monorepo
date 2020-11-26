@@ -1,5 +1,8 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
+.hide {
+  display: none !important;
+}
 
 .title {
   text-align: center; 
@@ -9,8 +12,38 @@
   margin-top: 16px;
 }
 
+.section {
+  min-height: 350px;
+
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    min-height: 310px;
+  }
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+    min-height: 370px;
+  }
+}
+
 .section > div {
   width: 100%;
+}
+
+.feedback {
+  margin: 60px auto 20px auto;
+  width: 600px;
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    margin: 50px auto 0px;
+    max-width: 90%;
+    text-align: center;
+  }
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+    max-width: 100%;
+    margin: 70px auto 0px;
+    text-align: center;
+  }
 }
 
 .grid {

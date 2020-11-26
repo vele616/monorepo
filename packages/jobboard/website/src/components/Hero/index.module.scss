@@ -12,7 +12,7 @@
 
 .grid  {
   box-sizing: border-box;
-  row-gap: 25px;
+  row-gap: 0px;
 
   @include mediaQuery(">=mobile", "<desktop"){
     row-gap: 15px;
@@ -29,24 +29,34 @@
 }
 
 .typography {
-  line-height: 32px;
-  max-width: 520px;
-  text-align: center;
-
-  @include mediaQuery(">=tabletPortrait", "<desktop") {
-    max-width: 480px;
-  }
+  margin-bottom: 1em;
 
   @include mediaQuery(">=mobile", "<tabletPortrait"){
-    max-width: 450px;
-    line-height: 25px;
+    margin-bottom: 0em;
+    text-align: center;
   }
 }
 
-.button {
+.buttons {
   grid-row: 4 / span 1;
+  display: flex;
+  width: 100%;
+
+  & > :first-child {
+    margin-right: 20px;
+  }
 
   @include mediaQuery(">=mobile", "<tabletPortrait"){
+    flex-wrap: wrap;
+    & > * {
+      flex-basis: 100%;
+      text-align: center;
+    }
+
+    & > :first-child {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
     grid-row: 4 / span 1;
   }
 }

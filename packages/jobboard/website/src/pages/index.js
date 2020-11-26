@@ -1,4 +1,5 @@
-import React from 'react';
+/* eslint-disable react/prop-types */
+import React, { useRef, useCallback } from 'react';
 import '@crocoder-dev/components/lib/main.css';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
@@ -10,73 +11,47 @@ import Newsletter from '../components/Newsletter';
 import Layout from '../components/Layout';
 import { graphql } from 'gatsby';
 
-// TODO Links with button style
-const StyledLink = styled(Link)`
-  background-color: #fec343;
-  border-color: #fec343;
-  border-radius: 6px;
-  border-style: solid;
-  border-width: 1px;
-  box-sizing: border-box;
-  color: #1e1a1a;
-  cursor: pointer;
-  display: block;
-  width: fit-content;
-  font-family: 'Rubik', sans-serif;
-  font-size: 15px;
-  font-weight: 500;
-  letter-spacing: 1px;
-  margin: auto;
-  padding: 16px 25px;
-  text-decoration: none;
-  text-transform: uppercase;
-
-  @media (max-width: 600px) {
-    position: relative;
-    padding: 10px 20px;
-    top: -15px;
-  }
-
-  &:disabled,
-  &:disabled:hover {
-    cursor: not-allowed;
-    background-color: #e8e8e8;
-    color: #828282;
-    border-color: #e8e8e8;
-  }
-
-  &:hover {
-    background-color: rgba(254, 209, 82, 90%);
-    border-color: rgba(254, 209, 82, 90%);
-  }
-
-  &:focus {
-    outline: none;
-    background-color: rgba(254, 209, 82, 90%);
-    border-color: #1e1a1a;
-  }
-`;
+const StyledLink = styled(Link)``;
 
 const IndexPage = ({ data }) => {
+  const subscribeRef = useRef(null);
+
+  const scrollToSubscribe = useCallback(() => {
+    console.log('click', subscribeRef.current);
+    subscribeRef &&
+      subscribeRef.current &&
+      subscribeRef.current.scrollIntoView();
+  }, []);
+
   const { nodes } = data.allMarkdownRemark;
-  const softwareJobsNumber = nodes.filter(t => t.frontmatter.jobType === 'software').length;
-  const otherJobsNumber = nodes.filter(t => t.frontmatter.jobType === 'other').length;
+  const softwareJobsNumber = nodes.filter(
+    (t) => t.frontmatter.jobType === 'software'
+  ).length;
+  const otherJobsNumber = nodes.filter((t) => t.frontmatter.jobType === 'other')
+    .length;
 
   return (
     <Layout>
-      <Hero />
+      <Hero scrollToSubscribe={scrollToSubscribe} />
       <JobSection title="Software Developer Jobs">
         <DevJobListLimit12 />
-        {softwareJobsNumber > 12 && <StyledLink to="/software-developer-jobs">
-          {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
-        </StyledLink>}
+        {softwareJobsNumber > 12 && (
+          <StyledLink
+            className={'link--secondary'}
+            to="/software-developer-jobs"
+          >
+            {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
+          </StyledLink>
+        )}
       </JobSection>
-      <Newsletter />
+      <Newsletter subscribeRef={subscribeRef} />
       <JobSection title="Other IT Related Jobs">
         <OtherJobListLimit12 />
-        {otherJobsNumber > 12 && <StyledLink to="/other-it-jobs">
-          {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
-        </StyledLink>}
+        {otherJobsNumber > 12 && (
+          <StyledLink className={'link--secondary'} to="/other-it-jobs">
+            {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
+          </StyledLink>
+        )}
       </JobSection>
       <Banner />
     </Layout>
@@ -88,11 +63,11 @@ export default IndexPage;
 export const query = graphql`
   query indexQuery {
     allMarkdownRemark {
-    nodes {
-      frontmatter {
-        jobType
+      nodes {
+        frontmatter {
+          jobType
+        }
       }
     }
-  }
   }
 `;
