@@ -1,0 +1,14 @@
+@import '../../styles/main.module.scss';
+
+.container {
+  height: 150vh;
+  position: relative;
+}
+
+.footer {
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+
