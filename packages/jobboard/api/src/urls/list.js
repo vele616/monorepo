@@ -34,7 +34,7 @@ exports.exec = async () => {
       statusCode: 200,
       body: JSON.stringify({
         archived: (result.Items).filter((item) => item.archived === true),
-        new: (result.Items).filter((item) => item.archived === false),
+        published: (result.Items).filter((item) => item.archived === false),
       }),
     };
   } catch (error) {
