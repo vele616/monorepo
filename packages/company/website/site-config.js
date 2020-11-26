@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteTitle: 'CroCoder 🐊',
   siteTitleShort: 'CroCoder',
-  siteDescription: 'CroCoder.dev helps companies build their product.',
+  siteDescription: 'COLLABORATION MAKES IT EASY. We are an experienced web development team that helps startups and small businesses focus on what really matters.',
   siteUrl: 'https://crocoder.dev',
   themeColor: '#000',
   backgroundColor: '#fff',
