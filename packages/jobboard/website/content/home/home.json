@@ -1,7 +1,8 @@
 {
   "hero": {
-    "title": "CroCoder is a small group of enthusiastic developers that wishes to help others find",
-    "titleEmphasis": "fulfillment and merriment at work.",
+    "title": "Don't miss out on an interesting remote job opportunity ever again.",
+    "callToActionSubscribe": "subscribe",
+    "callToActionPostAJob": "post a job",
     "image": "../images/jobsHeader.png"
   },
   "footer": {

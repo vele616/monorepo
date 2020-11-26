@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable react/prop-types */
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
@@ -17,6 +18,7 @@ const Newsletter = ({
   title_2,
   subtitle,
   data,
+  subscribeRef,
   confirm,
   inputLabel,
   submitButtonLabel,
@@ -45,7 +47,13 @@ const Newsletter = ({
     } else {
       setErrorMessage(null);
     }
-  }, [text, confirmed, touched]);
+  }, [
+    text,
+    confirmed,
+    touched,
+    mailNotValidErrorMessage,
+    mailNotConfirmedErrorMessage,
+  ]);
 
   const handleChange = React.useCallback((event) => {
     setTouched(true);
@@ -62,15 +70,25 @@ const Newsletter = ({
     } else if (response.status !== 200) {
       setErrorMessage(responseStatusNotOkErrorMessage);
     }
-  }, [text, confirmed]);
+  }, [
+    text,
+    confirmed,
+    responseStatusMailAlreadyInDatabaseErrorMessage,
+    responseStatusNotOkErrorMessage,
+  ]);
 
   const handleConfirm = React.useCallback(() => {
     setTouched(true);
     setConfirmed(!confirmed);
   }, [confirmed]);
 
-  return (
-    <Section className={styles.section}>
+  return [
+    <div
+      key="subscribeRef"
+      ref={subscribeRef}
+      style={{ position: 'relative', top: '-100px' }}
+    />,
+    <Section key="section" className={styles.section}>
       <Typography
         fontSize={65}
         element="div"
@@ -119,11 +137,11 @@ const Newsletter = ({
           </Typography>
         </Flexbox>
       </Grid>
-    </Section>
-  );
+    </Section>,
+  ];
 };
 
-const NewsletterWithQuery = () => (
+const NewsletterWithQuery = ({ subscribeRef }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -143,7 +161,13 @@ const NewsletterWithQuery = () => (
         }
       }
     `}
-    render={(data) => <Newsletter data={data} {...data.homeJson.newsletter} />}
+    render={(data) => (
+      <Newsletter
+        subscribeRef={subscribeRef}
+        data={data}
+        {...data.homeJson.newsletter}
+      />
+    )}
   />
 );
 
