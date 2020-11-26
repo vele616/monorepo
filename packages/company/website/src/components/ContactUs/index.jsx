@@ -1,7 +1,7 @@
-import React, { useRef } from "react";
+import React from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
+import { Typography, Section, Flexbox } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
 const ContactUs = ({
@@ -9,12 +9,15 @@ const ContactUs = ({
   text,
   sendEmail,
   scheduleCall,
-  email,
   image,
   contactUsRef,
 }) => [
-  <div style={{ position: 'relative', top: '-100px' }} ref={contactUsRef} />,
-  <Section className={styles.section} backgroundColor="white">
+  <div
+    key="ref"
+    style={{ position: "relative", top: "-100px" }}
+    ref={contactUsRef}
+  />,
+  <Section key="section" className={styles.section} backgroundColor="white">
     <Flexbox
       className={styles.flex}
       justifyContent="space-between"
@@ -23,7 +26,7 @@ const ContactUs = ({
       <Typography
         className={styles.title}
         element="h3"
-        fontSize={26}
+        fontSize={50}
         fontWeight={700}
         color="gray_2"
       >
@@ -40,20 +43,30 @@ const ContactUs = ({
         </Typography>
         <Flexbox className={styles.callToAction}>
           <a
-            onClick={() => window.sa_event(`${process.env.GATSBY_SCHEDULE_CALL_CONTACT_US_CLICK_SA_EVENT}`)}
+            onClick={() =>
+              window.sa_event(
+                `${process.env.GATSBY_SCHEDULE_CALL_CONTACT_US_CLICK_SA_EVENT}`
+              )
+            }
             target="_blank"
             rel="nofollow noopener noreferrer"
             href={`${process.env.GATSBY_CALENDLY_URL}`}
-            class="link--primary"
+            className="link--primary"
+            style={{ textAlign: "center" }}
           >
             {scheduleCall}
           </a>
           <a
-            onClick={() => window.sa_event(`${process.env.GATSBY_SEND_US_EMAIL_CONTACT_US_CLICK_SA_EVENT}`)}
+            onClick={() =>
+              window.sa_event(
+                `${process.env.GATSBY_SEND_US_EMAIL_CONTACT_US_CLICK_SA_EVENT}`
+              )
+            }
             target="_blank"
             rel="nofollow noopener noreferrer"
             href={`mailto:${process.env.GATSBY_EMAIL}`}
-            class="link--secondary"
+            className="link--secondary"
+            style={{ textAlign: "center" }}
           >
             {sendEmail}
           </a>
@@ -66,7 +79,7 @@ const ContactUs = ({
         alt={"abc"}
       />
     </Flexbox>
-  </Section>
+  </Section>,
 ];
 
 const ContactUsWithQuery = ({ contactUsRef }) => (

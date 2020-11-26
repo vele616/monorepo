@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import Layout from "../components/Layout";
 import WhatCanWeDo from "../components/WhatCanWeDo";
+import OurWorkProcess from "../components/OurWorkProcess";
 import HowWeWork from "../components/HowWeWork";
 import OurServices from "../components/OurServices";
 import Hero from "../components/Hero";
@@ -14,7 +15,8 @@ export default function Home() {
 
   const scrollToContactUs = () => contactUsRef.current.scrollIntoView();
 
-  const scrollToHowWeWork = () => howWeWorkRef.current.scrollIntoView({ block: 'start' });
+  const scrollToHowWeWork = () =>
+    howWeWorkRef.current.scrollIntoView({ block: "start" });
 
   return (
     <Layout scrollToContactUs={scrollToContactUs} stickyFooter>
@@ -24,6 +26,7 @@ export default function Home() {
       />
       <WhatCanWeDo />
       <HowWeWork howWeWorkRef={howWeWorkRef} />
+      <OurWorkProcess />
       <OurServices />
       <ContactUs contactUsRef={contactUsRef} />
     </Layout>
