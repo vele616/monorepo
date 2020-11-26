@@ -26,6 +26,7 @@ body {
 }
 
 .link--primary {
+  text-decoration: none;
   display: inline-block;
   border-radius: 6px;
   border-style: solid;
@@ -61,6 +62,7 @@ body {
 }
 
 .link--secondary {
+  text-decoration: none;
   display: inline-block;
   border-radius: 6px;
   border-style: solid;
