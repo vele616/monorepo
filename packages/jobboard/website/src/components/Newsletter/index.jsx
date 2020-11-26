@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable react/prop-types */
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
@@ -17,6 +18,7 @@ const Newsletter = ({
   title_2,
   subtitle,
   data,
+  subscribeRef,
   confirm,
   inputLabel,
   submitButtonLabel,
@@ -34,6 +36,8 @@ const Newsletter = ({
 
   const [touched, setTouched] = React.useState(false);
 
+  const [completed, setCompleted] = React.useState(false);
+  
   React.useEffect(() => {
     if (touched === false) {
       return;
@@ -45,7 +49,13 @@ const Newsletter = ({
     } else {
       setErrorMessage(null);
     }
-  }, [text, confirmed, touched]);
+  }, [
+    text,
+    confirmed,
+    touched,
+    mailNotValidErrorMessage,
+    mailNotConfirmedErrorMessage,
+  ]);
 
   const handleChange = React.useCallback((event) => {
     setTouched(true);
@@ -61,16 +71,28 @@ const Newsletter = ({
       setErrorMessage(responseStatusMailAlreadyInDatabaseErrorMessage);
     } else if (response.status !== 200) {
       setErrorMessage(responseStatusNotOkErrorMessage);
+    } else {
+      setCompleted(true);
     }
-  }, [text, confirmed]);
+  }, [
+    text,
+    confirmed,
+    responseStatusMailAlreadyInDatabaseErrorMessage,
+    responseStatusNotOkErrorMessage,
+  ]);
 
   const handleConfirm = React.useCallback(() => {
     setTouched(true);
     setConfirmed(!confirmed);
   }, [confirmed]);
 
-  return (
-    <Section className={styles.section}>
+  return [
+    <div
+      key="subscribeRef"
+      ref={subscribeRef}
+      style={{ position: 'relative', top: '-100px' }}
+    />,
+    <Section key="section" className={styles.section}>
       <Typography
         fontSize={65}
         element="div"
@@ -87,7 +109,15 @@ const Newsletter = ({
           {subtitle}
         </Typography>
       </Typography>
-      <Grid className={styles.grid} columnGap="60px">
+      <Grid className={completed ? styles.feedback : `${styles.feedback} ${styles.hide} `} columns="auto" rows="auto auto" columnGap="60px">
+        <Typography fontSize={26} fontWeight={700} color="gray_2">
+          Almost done!
+        </Typography>
+        <Typography fontSize={18} color="gray_2">
+          You’ll receive an email shortly to confirm your subscription. Please check your email.
+        </Typography>
+      </Grid>
+      <Grid className={completed ? `${styles.grid} ${styles.hide}` : styles.grid } columnGap="60px">
         <Input
           required
           label={inputLabel}
@@ -119,11 +149,11 @@ const Newsletter = ({
           </Typography>
         </Flexbox>
       </Grid>
-    </Section>
-  );
+    </Section>,
+  ];
 };
 
-const NewsletterWithQuery = () => (
+const NewsletterWithQuery = ({ subscribeRef }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -143,7 +173,13 @@ const NewsletterWithQuery = () => (
         }
       }
     `}
-    render={(data) => <Newsletter data={data} {...data.homeJson.newsletter} />}
+    render={(data) => (
+      <Newsletter
+        subscribeRef={subscribeRef}
+        data={data}
+        {...data.homeJson.newsletter}
+      />
+    )}
   />
 );
 
