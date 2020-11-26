@@ -34,6 +34,8 @@ const Newsletter = ({
 
   const [touched, setTouched] = React.useState(false);
 
+  const [completed, setCompleted] = React.useState(false);
+  
   React.useEffect(() => {
     if (touched === false) {
       return;
@@ -61,6 +63,8 @@ const Newsletter = ({
       setErrorMessage(responseStatusMailAlreadyInDatabaseErrorMessage);
     } else if (response.status !== 200) {
       setErrorMessage(responseStatusNotOkErrorMessage);
+    } else {
+      setCompleted(true);
     }
   }, [text, confirmed]);
 
@@ -87,7 +91,15 @@ const Newsletter = ({
           {subtitle}
         </Typography>
       </Typography>
-      <Grid className={styles.grid} columnGap="60px">
+      <Grid className={completed ? styles.feedback : `${styles.feedback} ${styles.hide} `} columns="auto" rows="auto auto" columnGap="60px">
+        <Typography fontSize={26} fontWeight={700} color="gray_2">
+          Almost done!
+        </Typography>
+        <Typography fontSize={18} color="gray_2">
+          You’ll receive an email shortly to confirm your subscription. Please check your email.
+        </Typography>
+      </Grid>
+      <Grid className={completed ? `${styles.grid} ${styles.hide}` : styles.grid } columnGap="60px">
         <Input
           required
           label={inputLabel}
