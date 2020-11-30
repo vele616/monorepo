@@ -7,14 +7,19 @@
   &__button {
     background-color: transparent;
     border: none;
+    border-radius: 100%;
     cursor: pointer;
     height: 50px;
     margin-left: 3px;
     margin-right: 3px;
     outline: none;
     padding: 0px;
+    position: relative;
     width: 50px;
-    transition: background-color 0.3s ease;
+
+    &.active {
+      border: solid 2px green;
+    }
   }
 
   &__button:hover {
@@ -32,12 +37,25 @@
     position: absolute;
     top: 40px;
     transition: left 0.3s ease-in-out;
-    width: 40px;
+    width: 30px;
+  }
+
+  &__controls {
+
+    display: inline-block;
+    visibility: hidden;
+
+    &.visible {
+      visibility: visible;
+    }
+
+    &.hidden {
+      display: none;
+    }
   }
 
 }
 
 .disabled {
-  background-color: transparent;
-  
+  background-color: transparent; 
 }

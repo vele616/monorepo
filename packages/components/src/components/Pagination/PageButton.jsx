@@ -5,14 +5,16 @@ import Button from "../Button";
 import Icon from "../Icon";
 import styles from "./index.module.scss";
 
-const PageButton = ({ onClick, value, icon, disabled }) => {
+const PageButton = ({ onClick, value, icon, active }) => {
   const handleOnClick = useCallback(() => {
     if (onClick) onClick(value);
   }, [onClick, value]);
 
   return (
     <Button
-      className={classnames(styles.pagination__button, styles.disabled)}
+      className={classnames(styles.pagination__button, {
+        [styles.active]: active,
+      })}
       onClick={handleOnClick}
     >
       {value || <Icon icon={icon} />}
@@ -24,7 +26,7 @@ PageButton.propTypes = {
   onClick: PropTypes.func,
   value: PropTypes.number,
   icon: PropTypes.string,
-  disabled: PropTypes.bool,
+  active: PropTypes.bool,
 };
 
 export default PageButton;

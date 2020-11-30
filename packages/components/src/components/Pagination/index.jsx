@@ -33,22 +33,10 @@ const Pagination = ({
   useEffect(() => {
     if (current <= 1 + visibleLeftRignt) {
       setFrom(1);
-      if (!allVisible) {
-        setControlsLeftVisible(false);
-        setControlsRightVisible(true);
-      }
     } else if (current >= pageCount - visibleLeftRignt) {
       setFrom(pageCount - visiblePages + 1);
-      if (!allVisible) {
-        setControlsLeftVisible(true);
-        setControlsRightVisible(false);
-      }
     } else {
       setFrom(current - visibleLeftRignt);
-      if (!allVisible) {
-        setControlsLeftVisible(true);
-        setControlsRightVisible(true);
-      }
     }
     if (onChange) onChange(current);
   }, [
@@ -60,6 +48,11 @@ const Pagination = ({
     onChange,
     allVisible,
   ]);
+
+  useEffect(() => {
+    setControlsLeftVisible(current > 1);
+    setControlsRightVisible(current < pageCount);
+  }, !allVisible && [current, pageCount]);
 
   const handleOnChange = useCallback(
     (value) => {
@@ -76,73 +69,58 @@ const Pagination = ({
     if (current > 1) setCurrent((prev) => prev - 1);
   }, [setCurrent, current]);
 
-  const first = useCallback(() => {
-    setCurrent(1);
-  }, [setCurrent]);
-
-  const last = useCallback(() => {
-    setCurrent(pageCount);
-  }, [setCurrent, pageCount]);
-
   const pageButtons = useMemo(
     () =>
-      Array.from({ length: visiblePages }, (_, i) => i + from).map((value) => {
+      Array.from({ length: visiblePages }, (_, i) => i + from).map((index) => {
+        const active = allVisible ? false : current === index;
         return (
-          <PageButton key={value} value={value} onClick={handleOnChange} />
+          <PageButton
+            active={active}
+            key={index}
+            value={index}
+            onClick={handleOnChange}
+          />
         );
       }),
-    [handleOnChange, from, visiblePages]
+    [visiblePages, from, allVisible, current, handleOnChange]
   );
 
   const underline = useMemo(() => {
     return (
-      pageCount > 0 &&
-      pageCount <= visiblePages && (
+      allVisible && (
         <div
           className={styles.pagination__underline}
           style={{ left: `${underlineLeft}px` }}
         />
       )
     );
-  }, [pageCount, visiblePages, underlineLeft]);
+  }, [allVisible, underlineLeft]);
 
   useEffect(() => {
-    //3 (first margin) + 5 (offset) + (curr-1) * (width + horizontal margins)
-    setUnderlineLeft(8 + (current - 1) * 56);
+    // 3 (first margin) + 10 (offset) + (curr-1) * (width + horizontal margins)
+    setUnderlineLeft(13 + (current - 1) * 56);
   }, [underline ? current : null]);
-
-  const nextButton = useMemo(() => {
-    return (
-      controlsRightVisible && <PageButton icon="chevron-right" onClick={next} />
-    );
-  }, [controlsRightVisible, next]);
-
-  const previousButton = useMemo(() => {
-    return (
-      controlsLeftVisible && (
-        <PageButton icon="chevron-left" onClick={previous} />
-      )
-    );
-  }, [controlsLeftVisible, previous]);
-
-  const firstButton = useMemo(() => {
-    return controlsLeftVisible && <PageButton value="1" onClick={first} />;
-  }, [controlsLeftVisible, first]);
-
-  const lastButton = useMemo(() => {
-    return (
-      controlsRightVisible && <PageButton value={pageCount} onClick={last} />
-    );
-  }, [controlsRightVisible, last, pageCount]);
 
   return (
     <div className={classnames(styles.pagination, className)}>
-      {underline}
-      {firstButton}
-      {previousButton}
+      <div
+        className={classnames(styles.pagination__controls, {
+          [styles.visible]: controlsLeftVisible,
+          [styles.hidden]: allVisible,
+        })}
+      >
+        <PageButton icon="chevron-left" onClick={previous} />
+      </div>
       {pageButtons}
-      {nextButton}
-      {lastButton}
+      <div
+        className={classnames(styles.pagination__controls, {
+          [styles.visible]: controlsRightVisible,
+          [styles.hidden]: allVisible,
+        })}
+      >
+        <PageButton icon="chevron-right" onClick={next} />
+      </div>
+      {underline}
     </div>
   );
 };
