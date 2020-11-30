@@ -1,0 +1,43 @@
+@import '../../styles/main.module.scss';
+
+.pagination {
+  position: relative;
+  display: inline-block;
+
+  &__button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    margin-left: 3px;
+    margin-right: 3px;
+    outline: none;
+    padding: 0px;
+    width: 50px;
+    transition: background-color 0.3s ease;
+  }
+
+  &__button:hover {
+    background-color: $blue_6;
+  }
+
+  &__button:focus {
+    background-color: $blue_6;
+  }
+
+  &__underline {
+    background-color: green;
+    border-radius: 10px;
+    height: 2px;
+    position: absolute;
+    top: 40px;
+    transition: left 0.3s ease-in-out;
+    width: 40px;
+  }
+
+}
+
+.disabled {
+  background-color: transparent;
+  
+}
