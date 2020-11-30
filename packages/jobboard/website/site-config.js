@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: 'CroCoder Jobs 🐊',
   siteTitleShort: 'CroCoder Jobs',
   siteDescription: 'CroCoder Jobs is hub for all remote jobs that are availiable in Croatia and Europe.',
-  siteUrl: 'https://crocoder.dev',
+  siteUrl: 'https://jobs.crocoder.dev',
   themeColor: '#000',
   backgroundColor: '#fff',
   pathPrefix: null,
