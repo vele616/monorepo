@@ -9,6 +9,7 @@ import Hero from '../components/Hero';
 import Banner from '../components/ContactBanner';
 import Newsletter from '../components/Newsletter';
 import Layout from '../components/Layout';
+import { graphql } from 'gatsby';
 
 const StyledLink = styled(Link)``;
 
