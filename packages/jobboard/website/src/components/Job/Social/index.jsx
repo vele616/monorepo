@@ -14,7 +14,7 @@ const JobSocialDetails = ({
   url,
 }) => {
   return (
-    <Section backgroundColor="background_base" className={styles.section}>
+    <Section className={styles.section}>
       <Grid className={styles.grid}>
         <div className={styles.image}>
           <CompanyLogo src={logoUrl} />
