@@ -9,7 +9,7 @@ export const OtherJobListLimit12 = () => (
         allMarkdownRemark(
           sort: { fields: frontmatter___timestamp, order: DESC }
           limit: 12,
-          filter: {frontmatter: {jobType: {eq: "software"}}}
+          filter: {frontmatter: {jobType: {eq: "software"}, archived: { ne: "true" }}}
         ) {
           nodes {
             id
