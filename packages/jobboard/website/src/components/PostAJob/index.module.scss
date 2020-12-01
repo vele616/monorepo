@@ -1,0 +1,67 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.wrapper {
+  @include mediaQuery("<mobile") {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+}
+
+
+.title {
+  text-align: center;
+  max-width: 80%;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.companyLogos {
+  align-items: center;
+  column-gap: 25px;
+  row-gap: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr auto;
+  grid-template-rows: 1fr;
+  justify-content: space-between;
+  padding: 40px;
+  width: 100%;
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+
+    padding: 30px;
+
+    row-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr auto;
+    width: auto;
+
+    .andMore {
+      grid-row: 3;
+      grid-column: 2
+    }
+  }
+
+  @include mediaQuery("<tabletPortrait") {
+    padding: 20px;
+    row-gap: 10px;
+    grid-template-columns: 100px 100px;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    width: auto;
+
+    .andMore {
+      grid-row: 4;
+      grid-column: 1 / span 2;
+    }
+  }
+}
+
+.logo {
+  align-self:stretch;
+}
+
+
+
