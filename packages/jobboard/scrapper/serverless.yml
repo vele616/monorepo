@@ -16,6 +16,10 @@ provider:
   iamRoleStatements:
     - Effect: "Allow"
       Action:
+       - "events:*"
+      Resource: "${self:provider.environment.EVENT_BUS_ARN}"
+    - Effect: "Allow"
+      Action:
        - "s3:*"
       Resource: "arn:aws:s3:::${self:provider.environment.MARKDOWN_S3_BUCKET}/*"
     - Effect: "Allow"
