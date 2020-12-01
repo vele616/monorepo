@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
 import NewsletterLayout from '../../components/Newsletter/Layout';
@@ -5,24 +6,30 @@ import { graphql } from 'gatsby';
 import { Location } from '@reach/router';
 
 const Subscribe = ({ data, location }) => {
-  const {
-    subscribe
-  } = data.newsletterJson;
+  const { subscribe } = data.newsletterJson;
 
   const params = new URLSearchParams(location.search);
 
-  const result = subscribe[params.get('response')] ? subscribe[params.get('response')] : subscribe['DEFAULT'];
-  
+  const result = subscribe[params.get('response')]
+    ? subscribe[params.get('response')]
+    : subscribe['DEFAULT'];
+
   return (
-    <NewsletterLayout isSubscribeSuccess={result.ref === 'SUCCESS'} image={result.image} buttonText={result.buttonText} title={result.title} subtitle={result.subtitle} text={result.text} />
+    <NewsletterLayout
+      isSubscribeSuccess={result.ref === 'SUCCESS'}
+      image={result.image}
+      buttonText={result.buttonText}
+      title={result.title}
+      subtitle={result.subtitle}
+      text={result.text}
+      titleColor={result.titleColor}
+    />
   );
 };
 
 const SubscribePage = (props) => (
   <Location>
-    {({ location }) => (
-      <Subscribe {...props} location={location}  ></Subscribe>
-    )}
+    {({ location }) => <Subscribe {...props} location={location}></Subscribe>}
   </Location>
 );
 
