@@ -17,25 +17,6 @@
     position: relative;
     width: 40px;
     transition: background-color 0.2s ease-in-out;
-
-    &::after {
-      border-radius: 100%;
-      border: solid 2px transparent;
-      box-sizing: border-box;
-      content: '';
-      height: 100%;
-      left: 50%;
-      position: absolute;
-      top: 50%;
-      transform: translate(-50%,-50%);
-      width: 100%;
-    }
-
-    &.active {
-      &::after {
-        border: solid 2px $green_4;
-      }
-    }
   }
 
   &__button:hover {

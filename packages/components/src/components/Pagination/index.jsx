@@ -31,9 +31,11 @@ const Pagination = ({
   }, [pageCount, visiblePages]);
 
   useEffect(() => {
-    setControlsLeftVisible(current > 1);
-    setControlsRightVisible(current < pageCount);
-  }, [!allVisible && [current, pageCount]]);
+    if (!allVisible) {
+      setControlsLeftVisible(current > 1);
+      setControlsRightVisible(current < pageCount);
+    }
+  }, [allVisible, current, pageCount]);
 
   const updateStartingIndex = useCallback(
     (value) => {
@@ -79,30 +81,17 @@ const Pagination = ({
         { length: visiblePages },
         (_, i) => i + startingIndex
       ).map((index) => (
-        <PageButton
-          active={!allVisible && current === index}
-          key={index}
-          value={index}
-          onClick={handleOnChange}
-        />
+        <PageButton key={index} value={index} onClick={handleOnChange} />
       )),
-    [visiblePages, startingIndex, current, allVisible, handleOnChange]
+    [visiblePages, startingIndex, handleOnChange]
   );
 
-  const underline = useMemo(() => {
-    return (
-      allVisible && (
-        <div
-          className={styles.pagination__underline}
-          style={{ left: `${underlineLeft}px` }}
-        />
-      )
-    );
-  }, [allVisible, underlineLeft]);
-
   useEffect(() => {
-    setUnderlineLeft(5 + (current - 1) * 46);
-  }, [underline ? current : null]);
+    const offset = allVisible ? 0 : 1;
+    setUnderlineLeft(
+      8 + (((current - startingIndex) % visiblePages) + offset) * 46
+    );
+  }, [allVisible, current, startingIndex, visiblePages]);
 
   return (
     <div className={classnames(styles.pagination, className)}>
@@ -123,7 +112,10 @@ const Pagination = ({
       >
         <PageButton icon="chevron-right" onClick={next} />
       </div>
-      {underline}
+      <div
+        className={styles.pagination__underline}
+        style={{ left: `${underlineLeft}px` }}
+      />
     </div>
   );
 };
