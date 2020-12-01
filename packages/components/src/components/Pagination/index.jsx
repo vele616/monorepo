@@ -19,7 +19,7 @@ const Pagination = ({
     visiblePages,
   ]);
 
-  const [from, setFrom] = useState(1);
+  const [startingIndex, setStartingIndex] = useState(1);
   const [current, setCurrent] = useState(1);
   const [underlineLeft, setUnderlineLeft] = useState(3);
 
@@ -31,58 +31,62 @@ const Pagination = ({
   }, [pageCount, visiblePages]);
 
   useEffect(() => {
-    if (current <= 1 + visibleLeftRignt) {
-      setFrom(1);
-    } else if (current >= pageCount - visibleLeftRignt) {
-      setFrom(pageCount - visiblePages + 1);
-    } else {
-      setFrom(current - visibleLeftRignt);
-    }
-    if (onChange) onChange(current);
-  }, [
-    visiblePages,
-    visibleLeftRignt,
-    pageCount,
-    current,
-    setFrom,
-    onChange,
-    allVisible,
-  ]);
-
-  useEffect(() => {
     setControlsLeftVisible(current > 1);
     setControlsRightVisible(current < pageCount);
-  }, !allVisible && [current, pageCount]);
+  }, [!allVisible && [current, pageCount]]);
+
+  const updateStartingIndex = useCallback(
+    (value) => {
+      if (value <= 1 + visibleLeftRignt) {
+        setStartingIndex(1);
+      } else if (value >= pageCount - visibleLeftRignt) {
+        setStartingIndex(pageCount - visiblePages + 1);
+      } else {
+        setStartingIndex(value - visibleLeftRignt);
+      }
+      if (onChange) onChange(value);
+    },
+    [onChange, pageCount, visibleLeftRignt, visiblePages]
+  );
 
   const handleOnChange = useCallback(
     (value) => {
       setCurrent(value);
+      updateStartingIndex(value);
     },
-    [setCurrent]
+    [updateStartingIndex]
   );
 
   const next = useCallback(() => {
-    if (current < pageCount) setCurrent((prev) => prev + 1);
-  }, [setCurrent, pageCount, current]);
+    if (current < pageCount) {
+      const value = current + 1;
+      setCurrent(value);
+      updateStartingIndex(value);
+    }
+  }, [current, pageCount, updateStartingIndex]);
 
   const previous = useCallback(() => {
-    if (current > 1) setCurrent((prev) => prev - 1);
-  }, [setCurrent, current]);
+    if (current > 1) {
+      const value = current - 1;
+      setCurrent(value);
+      updateStartingIndex(value);
+    }
+  }, [current, updateStartingIndex]);
 
   const pageButtons = useMemo(
     () =>
-      Array.from({ length: visiblePages }, (_, i) => i + from).map((index) => {
-        const active = allVisible ? false : current === index;
-        return (
-          <PageButton
-            active={active}
-            key={index}
-            value={index}
-            onClick={handleOnChange}
-          />
-        );
-      }),
-    [visiblePages, from, allVisible, current, handleOnChange]
+      Array.from(
+        { length: visiblePages },
+        (_, i) => i + startingIndex
+      ).map((index) => (
+        <PageButton
+          active={!allVisible && current === index}
+          key={index}
+          value={index}
+          onClick={handleOnChange}
+        />
+      )),
+    [visiblePages, startingIndex, current, allVisible, handleOnChange]
   );
 
   const underline = useMemo(() => {
@@ -97,8 +101,7 @@ const Pagination = ({
   }, [allVisible, underlineLeft]);
 
   useEffect(() => {
-    // 3 (first margin) + 10 (offset) + (curr-1) * (width + horizontal margins)
-    setUnderlineLeft(13 + (current - 1) * 56);
+    setUnderlineLeft(5 + (current - 1) * 46);
   }, [underline ? current : null]);
 
   return (
@@ -127,19 +130,23 @@ const Pagination = ({
 
 Pagination.propTypes = {
   /**
-   *
+   * onChange function will fire on every page selection change.
    */
   onChange: PropTypes.func,
   /**
-   *
+   * Total number of pages.
    */
   pageCount: PropTypes.number,
   /**
-   *
+   * Indicates how many pages can be seen at once.
+   * If visible count is 3 pagination component will show:
+   * < 1 2 3 >
+   * If visible count is 5 pagination component will show:
+   * < 1 2 3 4 5 >
    */
   visibleCount: PropTypes.number,
   /**
-   *
+   * Additional classname for div wrapper around buttons.
    */
   className: PropTypes.string,
 };
