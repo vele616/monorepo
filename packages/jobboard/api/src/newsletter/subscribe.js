@@ -54,7 +54,7 @@ exports.exec = async (event) => {
             Body: {
               Html: {
                 Charset: 'UTF-8',
-                Data: newsletter.html(`http://www.example.com/${emailHash}`),
+                Data: newsletter.html(`${process.env.NEWSLETTER_CONFIRM_ENDPOINT}/${email}/${emailHash}`),
               },
             },
             Subject: {
