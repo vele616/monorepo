@@ -1,0 +1,90 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.flex {
+  height: calc(100vh - 150px);
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    flex-direction: column !important;
+  }
+
+  @include mediaQuery(">=mobile", "<tabletPortrait") {
+  }
+}
+
+.rightContainer {
+  @include mediaQuery(">desktop") {
+    flex-basis: 40%;
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    padding: 0 190px;
+    flex-basis: 50%;
+  }
+}
+
+.leftContainer {
+  position: relative;
+
+  @include mediaQuery(">desktop") {
+    flex-basis: 60%;
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+    flex-basis: 50%;
+  }
+}
+
+.imageSuccessSubscribe {
+  
+  @include mediaQuery(">desktop") {
+    width: 100%;
+    margin-left: 5%;
+    max-width: 600px;
+  }
+
+
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+  }
+}
+
+.image {
+
+  @include mediaQuery(">desktop") {
+    margin-left: 30%;
+    max-width: 379px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+
+  @include mediaQuery(">=tabletPortrait", "<desktop") {
+  }
+}
+
+.float {
+  max-width: 600px;
+  margin-left: 64px;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.title {
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  margin-bottom: 21px;
+  text-transform: uppercase;
+}
+
+.text {
+  line-height: 1.8;
+  margin-bottom: 36px;
+}
+
+.button {
+  max-width: 266px;
+}
