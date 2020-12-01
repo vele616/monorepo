@@ -1,0 +1,8 @@
+{
+    "title": "Ready to catch your remote talent?",
+    "subtitle": "We are always happy to post <strong>remote-friendly</strong> IT related jobs. If your job is posted on a job-site we do not currently crawl, please <strong>send us an e-mail</strong> so we can see if we can add it.",
+    "text": "If you’re not using an external job posting site or you just want to post it here, that’s also doable! We envisioned our system to be as open as possible and you don’t need to pay any fees to post the ad here. All you need to do is open a PR on GitHub with your job’s details.",
+    "buttonTextRight": "SEND EMAIL",
+    "buttonTextLeft": "CREATE A PR",
+    "image": "../images/post-a-job.png"
+}
