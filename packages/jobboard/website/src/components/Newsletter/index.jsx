@@ -17,7 +17,6 @@ const Newsletter = ({
   title_1,
   title_2,
   subtitle,
-  data,
   subscribeRef,
   confirm,
   inputLabel,
@@ -26,7 +25,6 @@ const Newsletter = ({
   mailNotConfirmedErrorMessage,
   responseStatusMailAlreadyInDatabaseErrorMessage,
   responseStatusNotOkErrorMessage,
-  ...other
 }) => {
   const [text, setText] = React.useState('');
 

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import Img from 'gatsby-image';
 import { StaticQuery, graphql } from 'gatsby';
@@ -12,7 +13,7 @@ const PostAJob = ({ title, subtitle, contactUs, email, companies }) => {
         <Img
           fadeIn={false}
           key={name}
-          className={styles.logo}
+          className={`${styles.logo} ${styles[name.toLowerCase()]}`}
           imgStyle={{
             objectFit: 'contain',
           }}
