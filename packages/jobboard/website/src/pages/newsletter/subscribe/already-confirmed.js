@@ -1,18 +1,14 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
-import NewsletterLayout from '../../components/Newsletter/Layout';
+import NewsletterLayout from '../../../components/Newsletter/Layout';
 import { graphql } from 'gatsby';
 import { Location } from '@reach/router';
 
-const Subscribe = ({ data, location }) => {
+const Subscribe = ({ data }) => {
   const { subscribe } = data.newsletterJson;
 
-  const params = new URLSearchParams(location.search);
-
-  const result = subscribe[params.get('response')]
-    ? subscribe[params.get('response')]
-    : subscribe['DEFAULT'];
+  const result = subscribe['ALREADY_CONFIRMED'];
 
   return (
     <NewsletterLayout
@@ -36,40 +32,10 @@ const SubscribePage = (props) => (
 export default SubscribePage;
 
 export const query = graphql`
-  query subscribeQuery {
+  query alreadyConfirmedQuery {
     newsletterJson {
       subscribe {
         ALREADY_CONFIRMED {
-          ref
-          title
-          titleColor
-          subtitle
-          text
-          buttonText
-          image {
-            childImageSharp {
-              fluid(maxWidth: 600) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-        SUCCESS {
-          ref
-          title
-          titleColor
-          subtitle
-          text
-          buttonText
-          image {
-            childImageSharp {
-              fluid(maxWidth: 600) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-        DEFAULT {
           ref
           title
           titleColor

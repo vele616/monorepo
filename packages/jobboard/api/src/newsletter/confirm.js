@@ -35,31 +35,19 @@ exports.exec = async (event) => {
         },
       }).promise();
     } else if (emailRecord.Items.length > 0 && emailRecord.Items[0].confirmed === true) {
-      console.log({
-        statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ALREADY_CONFIRMED` },
-      });
       return {
         statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ALREADY_CONFIRMED` },
+        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}already-confirmed` },
       };
     } else {
-      console.log({
-        statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ERROR` },
-      })
       return {
         statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ERROR` },
+        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}error` },
       };
     }
-    console.log({
-      statusCode: 301,
-      headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=SUCCESS` },
-    });
     return {
       statusCode: 301,
-      headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=SUCCESS` },
+      headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}success` },
     };
   } catch (error) {
     console.log(error);

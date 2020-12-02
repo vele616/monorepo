@@ -35,13 +35,13 @@ exports.exec = async (event) => {
     } else {
       return {
         statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}?response=ERROR` },
+        headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}error` },
       };
     }
 
     return {
       statusCode: 301,
-      headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}?response=SUCCESS` },
+      headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}success` },
     };
   } catch (error) {
     console.log(error);
