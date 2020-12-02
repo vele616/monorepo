@@ -7,6 +7,7 @@ import Img from 'gatsby-image/withIEPolyfill';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
 import CrocNav from '../../images/croc-nav.svg';
+import Head from '../Head';
 import {
   Typography,
   Button,
@@ -64,6 +65,7 @@ const FullLayout = ({
   ...other
 }) => (
     <>
+      <Head />
       <Navigation Logo={<Link to='/'><CrocNav /></Link>}>
         <Link to="/post-a-job"><Button variant="secondary">Post a job</Button></Link>
       </Navigation>
