@@ -9,6 +9,8 @@ import Hero from '../components/Hero';
 import Banner from '../components/ContactBanner';
 import Newsletter from '../components/Newsletter';
 import Layout from '../components/Layout';
+import { graphql } from 'gatsby';
+import PostAJob from '../components/PostAJob';
 
 const StyledLink = styled(Link)``;
 
@@ -43,6 +45,9 @@ const IndexPage = ({ data }) => {
           </StyledLink>
         )}
       </JobSection>
+
+      <PostAJob />
+
       <Newsletter subscribeRef={subscribeRef} />
       <JobSection title="Other IT Related Jobs">
         <OtherJobListLimit12 />

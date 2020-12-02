@@ -16,6 +16,7 @@ const Head = ({
   description,
   canonical = siteUrl + (location.pathname || ''),
   pageTitleFull = title ? `${title} - ${siteTitle}` : siteTitle,
+  socialImageUrl,
 }) => {
   return (
     <Helmet defer={false}>
@@ -59,7 +60,7 @@ const Head = ({
       <meta content={pageTitleFull} name="twitter:text:title" />
       <meta content={canonical} name="twitter:url" />
       <meta
-        content={`${siteUrl}/social.png`}
+        content={socialImageUrl ? `${siteUrl}/${socialImageUrl}` : `${siteUrl}/social.png`}
         name="twitter:image"
       />
       <meta content="1024" name="twitter:image:width" />
@@ -74,7 +75,7 @@ const Head = ({
       <meta content="1024" property="og:image:width" />
       <meta content="512" property="og:image:height" />
       <meta
-        content={`${siteUrl}/social.png`}
+        content={socialImageUrl ? `${siteUrl}/${socialImageUrl}` : `${siteUrl}/social.png`}
         property="og:image"
       />
 

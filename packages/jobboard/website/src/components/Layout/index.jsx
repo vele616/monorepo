@@ -1,4 +1,5 @@
-import React from "react";
+/* eslint-disable react/prop-types */
+import React from 'react';
 import './index.scss';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
@@ -7,18 +8,29 @@ import Footer from '../Footer';
 import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
 
-
 const Layout = ({ children, head = {}, stickyFooter }) => {
   return (
     <>
-      <Head title={head.title} description={head.description} />
-      <Navigation Logo={<Link to='/'><CrocNav /></Link>}>
-        <Link to="/post-a-job"><Button variant="secondary">Post a job</Button></Link>
+      <Head
+        socialImageUrl={head.socialImageUrl}
+        title={head.title}
+        description={head.description}
+      />
+      <Navigation
+        Logo={
+          <Link to="/">
+            <CrocNav />
+          </Link>
+        }
+      >
+        <Link to="/post-a-job">
+          <Button variant="secondary">Post a job</Button>
+        </Link>
       </Navigation>
-       {children}
+      {children}
       <Footer sticky={stickyFooter} />
     </>
-  )
-}
+  );
+};
 
 export default Layout;

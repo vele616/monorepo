@@ -3,10 +3,9 @@ import styled from 'styled-components';
 import styles from '@crocoder-dev/components/lib/scss/main.module.scss';
 import {
   Typography,
-  Section as SectionComponent,
+  Section,
 } from '@crocoder-dev/components';
 
-const Section = styled(SectionComponent)``;
 const Label = styled(Typography)`
   max-width: ${styles.cardContentMaxWidth};
   margin: auto;

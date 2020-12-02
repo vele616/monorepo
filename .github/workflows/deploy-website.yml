@@ -22,10 +22,13 @@ jobs:
     - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GIT_TOKEN }}" > ~/.npmrc
     - run: ./scripts/jobboard/get-secrets.sh ${{ secrets.SECRET_BUCKET }} ./
     - run: cd packages/jobboard/website && yarn install --production=false
+    - run: cd packages/jobboard/website && yarn build:social
+    - run: cd packages/jobboard/website && yarn social
     - run: cd packages/jobboard/website && yarn build
-    - run: cd packages/jobboard/website && npx serverless deploy --conceal
-    - run: DISTRIBUTION=${{ secrets.JOBBOARD_WEBSITE_DISTRIBUTION }} ./scripts/invalidate/invalidate.sh
+    - run: cd packages/jobboard/website && npx serverless deploy --conceal     
       env:
         SERVERLESS_ACCESS_KEY: ${{ secrets.SERVERLESS_ACCESS_KEY }}
+    - run: DISTRIBUTION=${{ secrets.JOBBOARD_WEBSITE_DISTRIBUTION }} ./scripts/invalidate/invalidate.sh
+
 
 

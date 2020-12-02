@@ -1,6 +1,6 @@
 org: jobboard
-service: company-website
-app: company-website
+service: jobboard-website
+app: jobboard-website
 
 
 

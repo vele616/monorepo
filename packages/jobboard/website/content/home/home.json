@@ -10,11 +10,11 @@
     "socialMedia": [
       {
         "icon": "linkedin1",
-        "link": ""
+        "link": "https://www.linkedin.com/company/crocoderdev/"
       },
       {
         "icon": "youtube",
-        "link": ""
+        "link": "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA"
       }
     ]
   },
@@ -35,5 +35,37 @@
     "mailNotConfirmedErrorMessage": "Check the confirmation",
     "responseStatusMailAlreadyInDatabaseErrorMessage": "Entered email is already in database",
     "responseStatusNotOkErrorMessage": "Something went wrong, please try again"
+  },
+  "postAJob": {
+    "title": "We Find Jobs By Crawling Popular Recruitment Applications and Job Posting Sites",
+    "companies": [
+      { 
+        "logo": "../images/TalentLyft.png",
+        "name": "TalentLyft"
+      },
+      { 
+        "logo": "../images/Workable.png",
+        "name": "Workable"
+      },
+      { 
+        "logo": "../images/Greenhouse.png",
+        "name": "Greenhouse"
+      },
+      { 
+        "logo": "../images/BambooHR.png",
+        "name": "BambooHR"
+      },
+      { 
+        "logo": "../images/Lever.png",
+        "name": "Lever"
+      },
+      { 
+        "logo": "../images/Recruitee.png",
+        "name": "Recruitee"
+      }
+    ],
+    "subtitle": "Is your job posted there but not included on our site?",
+    "contactUs": "Send us an e-mail at ",
+    "email": "hello@crocoder.dev"
   }
 }

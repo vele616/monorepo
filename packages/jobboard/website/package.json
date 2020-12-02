@@ -36,6 +36,8 @@
     "dotenv": "^8.2.0",
     "favicons": "^6.2.0",
     "prettier": "2.0.5",
+    "puppeteer": "^5.5.0",
+    "serve-static": "^1.14.1",
     "serverless-dotenv-plugin": "^3.0.0",
     "serverless-s3-sync": "^1.15.0"
   },
@@ -53,7 +55,9 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "social": "node ./scripts/socials.js",
+    "build:social": "IS_SOCIAL=true yarn build"
   },
   "repository": {
     "type": "git",

@@ -9,6 +9,10 @@ export const JobPostTemplate = (props) => {
   if (!post) {
     return null;
   }
+  const { slug } = post.fields;
+  const social = /\/jobs\/(.*)\//g.exec(slug)[1];
+  const socialUrl = `social/${social}.png`;
+
   const {
     title,
     location,
@@ -28,6 +32,7 @@ export const JobPostTemplate = (props) => {
     <Layout head={{
       title,
       description: summary,
+      socialImageUrl: socialUrl,
     }}>
       <JobDetails
         title={title}
@@ -51,6 +56,9 @@ export const pageQuery = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         applyUrl
         host

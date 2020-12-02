@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import { Typography, Grid, Card, Icon } from '@crocoder-dev/components';
 import HashtagList from '../../HashtagList';

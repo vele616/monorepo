@@ -8,7 +8,7 @@ export const OtherJobList = () => (
       query {
         allMarkdownRemark(
           sort: { fields: frontmatter___timestamp, order: DESC },
-          filter: {frontmatter: {jobType: {eq: "software"}}}
+          filter: {frontmatter: {jobType: {eq: "software"}, archived: { ne: "true" }}}
         ) {
           nodes {
             id

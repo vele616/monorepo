@@ -1,0 +1,153 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+$footer__height--desktop: 150px;
+$navigation__height--desktop: 100px;
+
+.section {
+  position: relative;
+  padding-top: 0 !important; // TODO fix with next component library
+  
+
+  @include mediaQuery(">=1000px") {
+    min-height: 650px;
+    height: calc(100vh - #{$footer__height--desktop} - #{$navigation__height--desktop});
+  }
+
+  & > div {
+    max-width: 1200px;
+    position: absolute;
+    height: 100%;
+    width: calc(100% - #{$section__padding-horizontal--desktop * 2});
+    left: 50%;
+    transform: translateX(-50%);
+
+
+    @include mediaQuery("<1000px") {
+      position: relative;
+      left: 0%;
+      width: 100%;
+      transform: none;
+    }
+  }
+}
+
+.flex {
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+  @include mediaQuery(">=mobile", "<1000px") {
+    flex-direction: column !important;
+    position: relative;
+  }
+
+  @include mediaQuery(">=mobile", "<mobile") {
+  }
+}
+
+.rightContainer {
+  height: 100%;
+  @include mediaQuery(">1000px") {
+    flex-basis: 40%;
+  }
+
+  @include mediaQuery(">=mobile", "<1000px") {
+    flex-basis: 100%;
+    position: relative;
+    margin-bottom: 20px;
+  }
+}
+
+.leftContainer {
+  height: 100%;
+  position: relative;
+
+  @include mediaQuery(">1000px") {
+    flex-basis: 60%;
+  }
+
+  @include mediaQuery(">=mobile", "<1000px") {
+    flex-basis: 50%;
+    max-width: 85%;
+    margin: auto;
+  }
+}
+
+.imageSuccessSubscribe {
+  width: 100%;
+  max-width: 600px;
+
+  @include mediaQuery(">=mobile", "<1000px") {
+    max-width: 500px;
+    margin: auto;
+  }
+}
+
+.image {
+  max-width: 379px;
+  margin: auto;
+
+  @include mediaQuery(">1000px") {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+
+}
+
+.float {
+  @include mediaQuery(">1000px") {
+    max-width: 550px;
+    margin-left: 42px;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+}
+
+.title {
+  margin-bottom: 0.5em;
+}
+
+.subtitle {
+  line-height: 1.8;
+  margin-bottom: 1em;
+}
+
+.text {
+  line-height: 1.8;
+  margin-bottom: 36px;
+}
+
+.buttonContainer {
+  @include mediaQuery(">=mobile", "<1000px"){
+    flex-direction: column !important;
+    &>:last-child {
+      margin-top: 20px;
+    }
+  }
+}
+
+.button {
+  max-width: 266px;
+}
+
+@include mediaQuery(">1000px") {
+  .button {
+    margin-right: 20px;
+  }
+}
+
+@include mediaQuery(">=mobile", "<1000px"){
+  .text,.button,.subtitle, .title {
+    text-align: center;
+    margin-right: 20px;
+  }
+
+  .button {
+    width: 100%;
+    max-width: 100%;
+  }
+}
