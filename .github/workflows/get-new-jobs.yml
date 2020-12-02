@@ -12,7 +12,7 @@ jobs:
       with:
         author-name: ${{ secrets.BOT_NAME }}
         author-email: ${{ secrets.BOT_EMAIL }}
-        github-token: ${{ secrets.GIT_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
         jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
         starting-branch: development
