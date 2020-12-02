@@ -55,6 +55,7 @@ $navigation__height--desktop: 100px;
   @include mediaQuery(">=mobile", "<1000px") {
     flex-basis: 100%;
     position: relative;
+    margin-bottom: 20px;
   }
 }
 
@@ -107,12 +108,12 @@ $navigation__height--desktop: 100px;
 }
 
 .title {
-  margin-bottom: 6px;
+  margin-bottom: 0.5em;
 }
 
 .subtitle {
-  margin-bottom: 21px;
-  text-transform: uppercase;
+  line-height: 1.8;
+  margin-bottom: 1em;
 }
 
 .text {
@@ -120,13 +121,29 @@ $navigation__height--desktop: 100px;
   margin-bottom: 36px;
 }
 
+.buttonContainer {
+  @include mediaQuery(">=mobile", "<1000px"){
+    flex-direction: column !important;
+    &>:last-child {
+      margin-top: 20px;
+    }
+  }
+}
+
 .button {
   max-width: 266px;
+}
+
+@include mediaQuery(">1000px") {
+  .button {
+    margin-right: 20px;
+  }
 }
 
 @include mediaQuery(">=mobile", "<1000px"){
   .text,.button,.subtitle, .title {
     text-align: center;
+    margin-right: 20px;
   }
 
   .button {
