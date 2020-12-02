@@ -22,6 +22,7 @@ export const query = graphql`
       text
       buttonTextRight
       buttonTextLeft
+      urlToPR
       image {
         childImageSharp {
           fluid(maxWidth: 558) {

@@ -15,7 +15,7 @@ import {
   Navigation,
 } from '@crocoder-dev/components';
 
-const PostAJobLayout = ({title, buttonTextRight, buttonTextLeft, image, subtitle, text, email, urlToPR }) => {
+const PostAJobLayout = ({title, buttonTextRight, buttonTextLeft, image, subtitle, text, urlToPR }) => {
   return (
     <Section className={styles.section}>
       <Flexbox className={styles.flex}>
@@ -36,7 +36,7 @@ const PostAJobLayout = ({title, buttonTextRight, buttonTextLeft, image, subtitle
               <a
                 target="_blank"
                 rel="nofollow noopener noreferrer"
-                href={`mailto:${email}`}
+                href={`mailto:${process.env.GATSBY_EMAIL}`}
                 className={`link--primary ${styles.button}`}
                 style={{ textAlign: "center" }}
               >
