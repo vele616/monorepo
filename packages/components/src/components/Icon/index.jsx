@@ -7,7 +7,7 @@ import "../../assets/styles/icons.css";
  * This component uses the Typography component and has font size, color and weight capabilities.
  */
 const Icon = ({ icon, className, fontSize, fontWeight, color, ...other }) => {
-  let compositeClassName = `icon-${icon} ${className} `;
+  const compositeClassName = `icon-${icon} ${className} `;
 
   return (
     <Typography
@@ -18,10 +18,10 @@ const Icon = ({ icon, className, fontSize, fontWeight, color, ...other }) => {
       element="span"
       className={compositeClassName}
     >
-      <span className="path1"></span>
-      <span className="path2"></span>
-      <span className="path3"></span>
-      <span className="path4"></span>
+      <span className="path1" />
+      <span className="path2" />
+      <span className="path3" />
+      <span className="path4" />
     </Typography>
   );
 };
@@ -222,6 +222,7 @@ Icon.propTypes = {
    * Font weight of the icon - is passed down to the Typography component.
    */
   fontWeight: PropTypes.oneOf([100, 200, 300, 400, 500, 600, 700, 800, 900]),
+  className: PropTypes.string,
 };
 
 export default Icon;
