@@ -28,13 +28,13 @@
     "title_1": "Subscribe to ",
     "title_2": " jobs",
     "subtitle": "Get your daily dose of new job postings",
-    "confirm": "A confirmation of terms of services",
+    "confirm": "I give consent to CroCoder to use my email to send their newsletter.",
     "inputLabel": "E-mail",
     "submitButtonLabel": "Submit",
-    "mailNotValidErrorMessage": "Your email is not valid",
-    "mailNotConfirmedErrorMessage": "Check the confirmation",
-    "responseStatusMailAlreadyInDatabaseErrorMessage": "Entered email is already in database",
-    "responseStatusNotOkErrorMessage": "Something went wrong, please try again"
+    "mailNotValidErrorMessage": "You have entered an invalid email address.",
+    "mailNotConfirmedErrorMessage": "You need to confirm we may use your email address.",
+    "responseStatusMailAlreadyInDatabaseErrorMessage": "Your are already subscribed to the newsletter.",
+    "responseStatusNotOkErrorMessage": "Something went wrong, please try again."
   },
   "postAJob": {
     "title": "We Find Jobs By Crawling Popular Recruitment Applications and Job Posting Sites",

@@ -127,7 +127,7 @@ const Newsletter = ({
         }
         columns="auto"
         rows="auto auto"
-        columnGap="60px"
+        columnGap="45px"
       >
         <Typography fontSize={26} fontWeight={700} color="gray_2">
           Almost done!

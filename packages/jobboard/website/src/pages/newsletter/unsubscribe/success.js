@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
-import NewsletterLayout from '../../components/Newsletter/Layout';
+import NewsletterLayout from '../../../components/Newsletter/Layout';
 import { graphql } from 'gatsby';
 import { Location } from '@reach/router';
 
@@ -10,9 +10,7 @@ const Unsubscribe = ({ data, location }) => {
 
   const params = new URLSearchParams(location.search);
 
-  const result = unsubscribe[params.get('response')]
-    ? unsubscribe[params.get('response')]
-    : unsubscribe['DEFAULT'];
+  const result = unsubscribe['SUCCESS'];
 
   return (
     <NewsletterLayout
@@ -36,25 +34,10 @@ const UnsubscribePage = (props) => (
 export default UnsubscribePage;
 
 export const query = graphql`
-  query unsubscribeQuery {
+  query unsubscribeSuccessQuery {
     newsletterJson {
       unsubscribe {
         SUCCESS {
-          ref
-          title
-          titleColor
-          subtitle
-          text
-          buttonText
-          image {
-            childImageSharp {
-              fluid(maxWidth: 600) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-        DEFAULT {
           ref
           title
           titleColor
