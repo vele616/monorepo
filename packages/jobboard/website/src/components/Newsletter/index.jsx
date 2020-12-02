@@ -25,6 +25,8 @@ const Newsletter = ({
   mailNotConfirmedErrorMessage,
   responseStatusMailAlreadyInDatabaseErrorMessage,
   responseStatusNotOkErrorMessage,
+  responseStatusOKText,
+  responseStatusOKTitle,
 }) => {
   const [text, setText] = React.useState('');
 
@@ -130,11 +132,10 @@ const Newsletter = ({
         columnGap="45px"
       >
         <Typography fontSize={26} fontWeight={700} color="gray_2">
-          Almost done!
+          {responseStatusOKTitle}
         </Typography>
         <Typography fontSize={18} color="gray_2">
-          You’ll receive an email shortly to confirm your subscription. Please
-          check your email.
+          {responseStatusOKText}
         </Typography>
       </Grid>
       <Grid
@@ -195,6 +196,8 @@ const NewsletterWithQuery = ({ subscribeRef }) => (
             mailNotConfirmedErrorMessage
             responseStatusMailAlreadyInDatabaseErrorMessage
             responseStatusNotOkErrorMessage
+            responseStatusOKText
+            responseStatusOKTitle
           }
         }
       }
