@@ -1,12 +1,35 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import '@crocoder-dev/components/lib/main.css';
-import Layout from '../components/Layout';
+import FullLayout from '../components/PostAJob/Layout';
+import { graphql } from 'gatsby';
 
-const PostAJobPage = () => {
+
+
+const PostAJobPage = ({ data }) => {
   return (
-    <Layout>
-    </Layout>
+    <FullLayout {...data.postajobJson} />
   );
 };
 
 export default PostAJobPage;
+
+export const query = graphql`
+  query postAJobQuery {
+    postajobJson {
+      title
+      subtitle
+      text
+      buttonTextRight
+      buttonTextLeft
+      urlToPR
+      image {
+        childImageSharp {
+          fluid(maxWidth: 558) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }   
+  }
+`;
