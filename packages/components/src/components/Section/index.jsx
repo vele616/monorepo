@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import PropTypes from "prop-types";
+import classnames from "classnames";
 import styles from "./index.module.scss";
 
 const StyledSection = styled.section`
@@ -17,11 +18,18 @@ const StyledSection = styled.section`
  * wrapps content inside a container. You can use it to support standard spacing
  * inside of your application.
  */
-const Section = ({ children, className, removeMobilePadding, ...props }) => (
+const Section = ({
+  children,
+  className,
+  removeMobilePadding,
+  removeVerticalPadding,
+  ...props
+}) => (
   <StyledSection
-    className={`${styles.section} ${className || ""} ${
-      removeMobilePadding && styles.removeMobile
-    }`}
+    className={classnames(styles.section, className, {
+      [styles.removeMobile]: removeMobilePadding,
+      [styles.removeVerticalPadding]: removeVerticalPadding,
+    })}
     {...props}
   >
     <div className={styles.content}>{children}</div>
@@ -34,6 +42,10 @@ Section.propTypes = {
    * width.
    */
   removeMobilePadding: PropTypes.bool,
+  /**
+   * If set to true remove all vertical paddings
+   */
+  removeVerticalPadding: PropTypes.bool,
   children: PropTypes.node,
   /**
    * Optional. Background color of the section. Will be applied to fully available space.
@@ -140,7 +152,6 @@ Section.propTypes = {
     "orange_1",
     "orange_2",
     "orange_3",
-    "orange_4",
     "red_1",
     "red_2",
     "red_3",
