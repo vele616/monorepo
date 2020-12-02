@@ -35,25 +35,26 @@ const Newsletter = ({
   const [touched, setTouched] = React.useState(false);
 
   const [completed, setCompleted] = React.useState(false);
-  
+
+  const [loadingRequest, setLoadingRequest] = React.useState(false);
+
+  const getErrorMessage = React.useCallback(() => {
+    if (/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(text) === false) {
+      return mailNotValidErrorMessage;
+    } else if (confirmed === false) {
+      return mailNotConfirmedErrorMessage;
+    } else {
+      return null;
+    }
+  }, [text, confirmed, mailNotValidErrorMessage, mailNotConfirmedErrorMessage]);
+
   React.useEffect(() => {
     if (touched === false) {
       return;
     }
-    if (/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(text) === false) {
-      setErrorMessage(mailNotValidErrorMessage);
-    } else if (confirmed === false) {
-      setErrorMessage(mailNotConfirmedErrorMessage);
-    } else {
-      setErrorMessage(null);
-    }
-  }, [
-    text,
-    confirmed,
-    touched,
-    mailNotValidErrorMessage,
-    mailNotConfirmedErrorMessage,
-  ]);
+    const errorMessage = getErrorMessage();
+    setErrorMessage(errorMessage);
+  }, [touched, getErrorMessage]);
 
   const handleChange = React.useCallback((event) => {
     setTouched(true);
@@ -61,11 +62,22 @@ const Newsletter = ({
   }, []);
 
   const handleClick = React.useCallback(async () => {
+    const errorMessage = getErrorMessage();
+    if (errorMessage) {
+      setErrorMessage(errorMessage);
+      return;
+    }
+
+    setLoadingRequest(true);
+
     const response = await fetch(process.env.GATSBY_NEWSLETTER_SUBSCRIBE_URL, {
       method: 'POST',
       mode: 'cors',
       body: JSON.stringify({ email: text, confirm: confirmed }),
     });
+
+    setLoadingRequest(false);
+
     if (response.status === 304) {
       setErrorMessage(responseStatusMailAlreadyInDatabaseErrorMessage);
     } else if (response.status !== 200) {
@@ -78,6 +90,7 @@ const Newsletter = ({
     confirmed,
     responseStatusMailAlreadyInDatabaseErrorMessage,
     responseStatusNotOkErrorMessage,
+    getErrorMessage,
   ]);
 
   const handleConfirm = React.useCallback(() => {
@@ -108,15 +121,26 @@ const Newsletter = ({
           {subtitle}
         </Typography>
       </Typography>
-      <Grid className={completed ? styles.feedback : `${styles.feedback} ${styles.hide} `} columns="auto" rows="auto auto" columnGap="60px">
+      <Grid
+        className={
+          completed ? styles.feedback : `${styles.feedback} ${styles.hide} `
+        }
+        columns="auto"
+        rows="auto auto"
+        columnGap="60px"
+      >
         <Typography fontSize={26} fontWeight={700} color="gray_2">
           Almost done!
         </Typography>
         <Typography fontSize={18} color="gray_2">
-          You’ll receive an email shortly to confirm your subscription. Please check your email.
+          You’ll receive an email shortly to confirm your subscription. Please
+          check your email.
         </Typography>
       </Grid>
-      <Grid className={completed ? `${styles.grid} ${styles.hide}` : styles.grid } columnGap="60px">
+      <Grid
+        className={completed ? `${styles.grid} ${styles.hide}` : styles.grid}
+        columnGap="60px"
+      >
         <Input
           required
           label={inputLabel}
@@ -137,6 +161,9 @@ const Newsletter = ({
           className={styles.flex}
           onClick={handleConfirm}
         >
+          {loadingRequest && (
+            <Icon className={styles.waiting} icon="spinner8" />
+          )}
           <Icon
             fontSize={14}
             color="gray_2"
