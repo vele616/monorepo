@@ -1,16 +1,23 @@
 import React, { useState, useEffect, useCallback } from "react";
 import PropTypes from "prop-types";
 import "../../assets/styles/main.css";
+import classnames from "classnames";
 import Button from "../Button";
 import Hamburger from "./Hamburger";
 import styles from "./index.module.scss";
 import useDevice from "../../hooks/useDevice";
 import useScrollPrevent from "../../hooks/useScrollPrevent";
-
 /**
  * Basic button component of the CroCoder component library
  */
-const Navigation = ({ className, children, style, Logo, ...other }) => {
+const Navigation = ({
+  className,
+  children,
+  style,
+  Logo,
+  transparentOnZeroScroll = false,
+  ...other
+}) => {
   const [scrolled, setIsScrolled] = useState(false);
   const [opened, setIsOpened] = useState(false);
   const { isMobile } = useDevice();
@@ -45,9 +52,11 @@ const Navigation = ({ className, children, style, Logo, ...other }) => {
     <nav
       {...other}
       style={style}
-      className={`${className}  ${styles.navigation} ${
-        scrolled && styles.scroll
-      } ${!opened && styles.closed}`}
+      className={classnames(className, styles.navigation, {
+        [styles.scroll]: scrolled,
+        [styles.closed]: !opened,
+        [styles.transparent]: transparentOnZeroScroll && !scrolled && !opened,
+      })}
     >
       <div className={styles.navigation__image}>{Logo}</div>
       <Button
@@ -76,7 +85,7 @@ const Navigation = ({ className, children, style, Logo, ...other }) => {
 };
 
 Navigation.propTypes = {
-  children: PropTypes.node,
+  children: PropTypes.oneOfType([PropTypes.node, PropTypes.func]),
   className: PropTypes.string,
   style: PropTypes.shape({}),
   /**
@@ -84,6 +93,7 @@ Navigation.propTypes = {
    * Excluded from this component as it should be handled via the webapp (e.g. optimization of image resources).
    */
   Logo: PropTypes.node,
+  transparentOnZeroScroll: PropTypes.bool,
 };
 
 Navigation.defaultProps = {};
