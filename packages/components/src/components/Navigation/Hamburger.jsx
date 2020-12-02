@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 
 const Hamburger = ({ open, className }) => (
   <svg
+    aria-label="Hamburger Menu"
     className={className}
     viewBox="0 0 96 96"
     height="1em"
