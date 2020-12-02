@@ -118,7 +118,7 @@ exports.exec = async (event) => {
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": url,
-              ":createdAt": (timestamp - (timestamp % 86400*1000)),
+              ":createdAt": (timestamp - (timestamp % (86400*1000))),
               ":updatedAt": timestamp,
               ":published": false,
               ":crawlable": true,
