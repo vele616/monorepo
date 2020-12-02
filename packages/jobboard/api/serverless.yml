@@ -72,7 +72,7 @@ functions:
     timeout: 30
     events:
       - http:
-          path: unsubscribe/{email}/{hash}
+          path: newsletter/unsubscribe/{email}/{hash}
           method: get
           cors: true
   hub-list:

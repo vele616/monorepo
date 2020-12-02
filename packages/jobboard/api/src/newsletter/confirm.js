@@ -15,6 +15,7 @@ exports.exec = async (event) => {
   const timestamp = new Date().getTime();
   try {
     const { email, hash } = event.pathParameters;
+    console.log(email, hash);
     const emailRecord = await client.query({
       TableName: process.env.NEWSLETTER_TABLE,
       KeyConditionExpression: 'email = :email AND emailHash = :emailHash',
@@ -34,17 +35,28 @@ exports.exec = async (event) => {
         },
       }).promise();
     } else if (emailRecord.Items.length > 0 && emailRecord.Items[0].confirmed === true) {
+      console.log({
+        statusCode: 301,
+        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ALREADY_CONFIRMED` },
+      });
       return {
         statusCode: 301,
         headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ALREADY_CONFIRMED` },
       };
     } else {
+      console.log({
+        statusCode: 301,
+        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ERROR` },
+      })
       return {
         statusCode: 301,
         headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=ERROR` },
       };
     }
-
+    console.log({
+      statusCode: 301,
+      headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=SUCCESS` },
+    });
     return {
       statusCode: 301,
       headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}?response=SUCCESS` },
