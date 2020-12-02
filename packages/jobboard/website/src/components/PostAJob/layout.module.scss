@@ -1,13 +1,13 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
-$footer__height--desktop: 150px;
+$footer__height--desktop: 131.25px;
 $navigation__height--desktop: 100px;
 
 .section {
   position: relative;
   padding-top: 0 !important; // TODO fix with next component library
-  
 
+  
   @include mediaQuery(">=1000px") {
     min-height: 650px;
     height: calc(100vh - #{$footer__height--desktop} - #{$navigation__height--desktop});
