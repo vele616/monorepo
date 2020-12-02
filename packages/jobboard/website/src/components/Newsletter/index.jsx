@@ -108,7 +108,7 @@ const Newsletter = ({
           {subtitle}
         </Typography>
       </Typography>
-      <Grid className={completed ? styles.feedback : `${styles.feedback} ${styles.hide} `} columns="auto" rows="auto auto" columnGap="60px">
+      <Grid className={completed ? styles.feedback : `${styles.feedback} ${styles.hide} `} columns="auto" rows="auto auto" columnGap="45px">
         <Typography fontSize={26} fontWeight={700} color="gray_2">
           Almost done!
         </Typography>

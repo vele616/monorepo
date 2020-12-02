@@ -50,19 +50,21 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
   grid-template-rows: auto auto;
   margin: 60px auto 20px auto;
-  width: 600px;
-  row-gap: 5px;
+  width: 790px;
+  row-gap: 7px;
 
   @include mediaQuery(">=tabletPortrait", "<desktop") {
     margin: 20px auto;
     max-width: 90%;
     column-gap: 45px !important;
+    row-gap: 10px;
   }
 
   @include mediaQuery(">=mobile", "<tabletPortrait") {
     max-width: 100%;
     margin: 20px auto;
     grid-template-columns: auto;
+    row-gap: 10px;
   }
 }
 
