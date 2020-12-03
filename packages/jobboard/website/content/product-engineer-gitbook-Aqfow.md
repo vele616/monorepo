@@ -1,6 +1,6 @@
 ---
 title: "Product Engineer"
-location: "Full-remote"
+location: "Remote"
 host: "https://jobs.lever.co/gitbook?location=Full-remote"
 companyName: "GitBook"
 url: "https://jobs.lever.co/gitbook/674bc55f-584d-4db4-be9f-92f2122e7e4c"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#nodejs,#typescript,#css,#ui/ux,#management,#firebase,#photo
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
-summary: "To apply as a product engineer at GitBook, you preferably need to have some knowledge of: experience in: #reactjs, #nodejs, #typescript."
-summaryBackup: "GitBook is looking for a product engineer that has experience in: #reactjs, #nodejs, #typescript."
-featured: 20
+summary: "GitBook is looking for a product engineer that has experience in: #reactjs, #nodejs, #typescript."
+summaryBackup: "To apply as a product engineer at GitBook, you preferably need to have some experience in: #reactjs, #nodejs, #typescript."
+featured: 12
 ---
 
 [GitBook](https://www.gitbook.com/) is a **modern documentation platform** sustained by some of the best SaaS europeans VCs (Point 9 Capital, Notion Capital, Fly VC). Our ambition is to **empower team's intelligence.** We want to help **teams work more efficiently** by creating a single place to leverage their knowledge.
