@@ -1,18 +1,18 @@
 ---
-title: "Front-End React Native Engineer (Senior)"
+title: "Front-End React Native Engineer"
 location: "Remote (European timezone preferred), London, City of"
 host: "https://mfi.bamboohr.com/jobs/"
 companyName: "Maharishi Foundation International"
 url: "https://mfi.bamboohr.com/jobs/view.php?id=36&source=other"
 applyUrl: "https://mfi.bamboohr.com/jobs/view.php?id=36&source=other"
 timestamp: 1606991491034
-hashtags: "#reactjs,#typescript,#android,#ios,#aws,#marketing,#macos,#management,#ui/ux,#git"
+hashtags: "#reactnative,#typescript,#android,#ios,#aws,#marketing,#macos,#management,#ui/ux,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/maharishi-foundation-international"
 companyWebsite: "https://mfi.bamboohr.com/jobs/"
 summary: "To apply as a front-end react native engineer at Maharishi Foundation International, you preferably need to have 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers."
 summaryBackup: "Maharishi Foundation International is looking for a front-end react native engineer that has experience in: #reactjs, #typescript, #android."
-featured: 20
+featured: 2
 ---
 
 ## About Us
