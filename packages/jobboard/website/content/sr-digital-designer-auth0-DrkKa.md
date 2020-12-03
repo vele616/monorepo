@@ -1,18 +1,18 @@
 ---
-title: "Sr. Digital Designer"
+title: "Senior Digital Designer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/edca7bfa-1d46-410d-8c02-9c4502d00022"
 applyUrl: "https://jobs.lever.co/auth0/edca7bfa-1d46-410d-8c02-9c4502d00022/apply"
 timestamp: 1606992146565
-hashtags: "#branding,#devsec,#ui/ux,#management,#marketing,#accountant,#photoshop,#figma,#office,#optimization"
+hashtags: "#branding,#ui/ux,#figma,#management,#marketing,#accountant,#photoshop,#office,#optimization,#devsec"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Auth0 is looking for a sr. digital designer that has 4 years of design experience in the digital space."
 summaryBackup: "To apply as a sr. digital designer at Auth0, you preferably need to have some knowledge of: #branding, #devsec, #ui/ux."
-featured: 20
+featured: 1
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
