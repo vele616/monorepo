@@ -1,12 +1,12 @@
 ---
-title: "Senior Software Engineer, Administration Experience"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/f4e14660-8b53-44fe-a933-03b5f571b45d"
 applyUrl: "https://jobs.lever.co/auth0/f4e14660-8b53-44fe-a933-03b5f571b45d/apply"
 timestamp: 1606992149403
-hashtags: "#devsec,#management,#css,#reactjs,#accountant,#typescript,#ui/ux,#rest,#redis,#postgresql"
+hashtags: "#reactjs,#nodejs,#rest#accountant,#typescript,#ui/ux,#rest,#redis,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
