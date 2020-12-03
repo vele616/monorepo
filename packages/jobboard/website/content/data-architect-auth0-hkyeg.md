@@ -6,7 +6,7 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/2ca0b75c-53e1-4caa-a047-2cafd778708b"
 applyUrl: "https://jobs.lever.co/auth0/2ca0b75c-53e1-4caa-a047-2cafd778708b/apply"
 timestamp: 1606992173205
-hashtags: "#devsec,#ui/ux,#python,#spark,#kubernetes,#docker,#aws,#azure,#analysis"
+hashtags: "#devsec,#docker,#aws,#ui/ux,#python,#spark,#kubernetes,#azure,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
