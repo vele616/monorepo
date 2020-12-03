@@ -6,13 +6,13 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/fceb793f-0033-48d2-880d-4f3dcf22350e"
 applyUrl: "https://jobs.lever.co/stellar/fceb793f-0033-48d2-880d-4f3dcf22350e/apply"
 timestamp: 1606992133964
-hashtags: "#ui/ux,#javascript,#python,#golang,#finance,#accountant,#office,#rest"
+hashtags: "#javascript,#python,#golang,#finance,#accountant,#office,#rest,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
 summary: "If you have 5+ years real-world experience developing or implementing software within enterprise networks, Stellar Development Foundation is looking for someone with your knowledge."
 summaryBackup: "To apply as a senior software engineer at Stellar Development Foundation, you preferably need to have some knowledge of: #ui/ux, #javascript, #python."
-featured: 20
+featured: 15
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation (SDF) is looking for a talented, experienced, and hands-on engineer to join our team. In this role you’ll play a significant role in designing, building, and implementing innovative blockchain solutions for our ecosystem partners and you will lead the way in developing projects, from scoping & system design to development & best practice deployments. As a member of our team, you'll have the opportunity to work on a wide variety of problems focused on growing and scaling our global network. SDF’s partners span globally and are some of the most innovative software and financial companies.
