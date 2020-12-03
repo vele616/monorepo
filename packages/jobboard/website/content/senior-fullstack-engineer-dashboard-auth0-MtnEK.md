@@ -1,18 +1,18 @@
 ---
-title: "Senior Fullstack Engineer, Dashboard"
+title: "Senior Fullstack Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/dcf3cd09-471f-4d99-bea4-6dd2cd9f4dd8"
 applyUrl: "https://jobs.lever.co/auth0/dcf3cd09-471f-4d99-bea4-6dd2cd9f4dd8/apply"
 timestamp: 1606992152304
-hashtags: "#devsec,#reactjs,#javascript,#nodejs,#css,#html,#ui/ux,#management,#office,#rest"
+hashtags: "#reactjs,#javascript,#nodejs,#css,#html,#ui/ux,#management,#office,#rest,#devsec"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "If you have have experience engineering web application, working closely to the front, Auth0 is looking for someone with your knowledge."
+summary: "If you have have experience engineering web applications, Auth0 is looking for someone with your knowledge."
 summaryBackup: "Auth0 is looking for a senior fullstack engineer that has experience in: #devsec, #reactjs, #javascript."
-featured: 20
+featured: 3
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
@@ -40,7 +40,7 @@ This work enables a more secure, fully featured internet. As more developers sto
 *   Enjoy crafting front end developer tools
 *   Have experience engineering web application, working closely to the front-end
 *   Are familiar with NodeJS and RESTful APIs
-*   Have a deep understanding of JavaScript and TypeScriptAre comfortable writing semantic HTML and responsive CSS
+*   Have a deep understanding of JavaScript and TypeScript Are comfortable writing semantic HTML and responsive CSS
 *   Have attention to detail and make user experience a top priority
 *   Are able to balance idealism and pragmatism in a dynamic work environment
 *   Possess self-management skills with a continuous improvement mindset
