@@ -1,18 +1,18 @@
 ---
-title: "Senior Front End Engineer, IAM Login"
+title: "Senior Front End Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/edf1c77d-9b28-4196-9008-7dcac785643e"
 applyUrl: "https://jobs.lever.co/auth0/edf1c77d-9b28-4196-9008-7dcac785643e/apply"
 timestamp: 1606992155683
-hashtags: "#devsec,#reactjs,#ui/ux,#javascript,#nodejs,#typescript,#css,#html,#management,#office"
+hashtags: "#reactjs,#ui/ux,#javascript,#nodejs,#typescript,#css,#devsec,#html,#management,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "To apply as a senior front end engineer at Auth0, you preferably need to have have experience engineering web applications, working closely with the front."
+summary: "To apply as a senior front end engineer at Auth0, you preferably need to have have experience engineering web applications."
 summaryBackup: "To apply as a senior front end engineer at Auth0, you preferably need to have some knowledge of: #devsec, #reactjs, #ui/ux."
-featured: 20
+featured: 4
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
