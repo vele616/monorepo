@@ -10,9 +10,9 @@ hashtags: "#marketing,#sales,#branding,#content,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
-summary: "If you have 30 years, Mavenoid has a job opening for a content marketing lead"
+summary: "Love #marketing, #sales, #branding? Check out this job post!"
 summaryBackup: "Love #marketing, #sales, #branding? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Job description
