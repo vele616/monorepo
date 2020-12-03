@@ -1,18 +1,18 @@
 ---
-title: "Technical Support Engineer - 4pm-12am UTC"
+title: "Technical Support Engineer"
 location: "Austin, Texas, United States"
 host: "https://apply.workable.com/kinsta/"
 companyName: "Kinsta"
 url: "https://apply.workable.com/kinsta/j/380FA6C954/"
 applyUrl: "https://apply.workable.com/kinsta/j/380FA6C954/apply/"
 timestamp: 1606992106607
-hashtags: "#wordpress,#php,#linux,#office,#mariadb,#mysql,#German,#French,#Dutch,#English"
+hashtags: "#German,#French,#Dutch,#wordpress,#php,#linux,#office,#mariadb,#mysql,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kinsta"
 companyWebsite: "https://kinsta.com/"
-summary: "If you have a strong understanding of and experience with the following technologies, consider applying to Kinsta's job post for a new technical support engineer."
+summary: "If you are completely fluent in English with excellent written communication skills, consider applying to Kinsta's job post for a new technical support engineer."
 summaryBackup: "Love #wordpress, #php, #linux? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Description
