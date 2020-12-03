@@ -6,8 +6,8 @@ companyName: "Adzerk"
 url: "https://boards.greenhouse.io/adzerk/jobs/4939451002"
 applyUrl: "https://boards.greenhouse.io/adzerk/jobs/4939451002#app"
 timestamp: 1606991318754
-hashtags: "#sales,#javascript,#branding,#aws,#content,#marketing,#devsec,#rest"
-jobType: "software"
+hashtags: "#sales,#marketing,#branding,#aws,#content,#javascript,#devsec,#rest"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "Adzerk intends to hire a new sales engineer. If you have have prior experience working with REST APIs and a highly technical product, consider applying."
