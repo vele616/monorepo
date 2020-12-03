@@ -6,7 +6,7 @@ companyName: "mobymax"
 url: "https://mobymax.breezy.hr/p/173522a3532a-account-executive-inside-sales"
 applyUrl: "https://mobymax.breezy.hr/p/173522a3532a-account-executive-inside-sales/apply"
 timestamp: 1606991466505
-hashtags: "#sales,#accountant,#studentjob,#management,#windows,#branding,#devsec,#crm,#office"
+hashtags: "#sales,#accountant,#management,#studentjob,#windows,#branding,#devsec,#crm,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
