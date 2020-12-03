@@ -1,18 +1,18 @@
 ---
-title: "Account Executive - Italian and English"
+title: "Account Executive"
 location: "Milan, Metropolitan City of Milan, Italy"
 host: "https://apply.workable.com/kinsta/"
 companyName: "Kinsta"
 url: "https://apply.workable.com/kinsta/j/F3C403B230/"
 applyUrl: "https://apply.workable.com/kinsta/j/F3C403B230/apply/"
 timestamp: 1606992120161
-hashtags: "#sales,#accountant,#wordpress,#management,#crm,#English"
+hashtags: "#sales,#English,#Italian,#accountant,#wordpress,#management,#crm,"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kinsta"
 companyWebsite: "https://kinsta.com/"
 summary: "Kinsta is searching for an account executive that has 1-2 years of experience as an Account Executive in software sales."
 summaryBackup: "Excited about #sales, #accountant, #wordpress? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Description
