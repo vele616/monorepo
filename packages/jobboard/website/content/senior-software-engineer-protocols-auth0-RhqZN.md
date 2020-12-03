@@ -6,7 +6,7 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/c7fea6f7-ba06-4bc2-b173-f72eb314ea6c"
 applyUrl: "https://jobs.lever.co/auth0/c7fea6f7-ba06-4bc2-b173-f72eb314ea6c/apply"
 timestamp: 1606992206984
-hashtags: "#devsec,#typescript,#accountant,#ui/ux,#operations,#mongodb,#monitoring"
+hashtags: "#devsec,#typescript,#mongodb,#accountant,#ui/ux,#operations,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
@@ -37,7 +37,7 @@ You will often work with other teams both within the Engineering organization an
 *   Are a good communicator and enjoy interacting with people.
 *   Place a high value on security.
 *   Bring the right attitude to the team: ownership, accountability, attention to detail ...
-*   Have familiarity with the tools we currently use, such as [Node.js](http://Node.js), TypeScript, MongoDB.
+*   Have familiarity with the tools we currently use, such as Node.js, TypeScript, MongoDB.
 
 It’s not expected that a single candidate has expertise in all these areas. We’re looking for professional engineers, who can quickly learn and adapt as our systems and situation changes, rather than candidates with a rigid skill set.
 
