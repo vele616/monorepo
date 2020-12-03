@@ -1,5 +1,5 @@
 ---
-title: "Senior Ruby Engineer (Remote)"
+title: "Senior Ruby Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/websummit"
 companyName: "Web Summit"
