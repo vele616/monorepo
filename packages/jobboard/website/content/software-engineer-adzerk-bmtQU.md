@@ -6,12 +6,11 @@ companyName: "Adzerk"
 url: "https://boards.greenhouse.io/adzerk/jobs/4973584002"
 applyUrl: "https://boards.greenhouse.io/adzerk/jobs/4973584002#app"
 timestamp: 1606991314354
-hashtags: "#javascript,#java,#nodejs,#python,#typescript,#rustlang,#clojure,#rubylang,#ui/ux,#branding"
+hashtags: "#javascript,#java,#python,#nodejs,#typescript,#rustlang,#clojure,#rubylang,#ui/ux,#branding"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/adzerk"
-summary: "If you have 3-5 years experience to join our growing Developer Experience &amp, consider applying to Adzerk's job post for a new software engineer."
-summaryBackup: "Excited about #javascript, #java, #nodejs? Check out this job post!"
+summary: "Excited about #javascript, #java, #python? Check out this job post!"
+summaryBackup: "Excited about #javascript, #java, #python? Check out this job post!"
 featured: 20
 ---
 
