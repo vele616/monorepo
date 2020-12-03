@@ -39,11 +39,14 @@
     border-color: $lightColor;
   }
 
-  &:focus {
-    outline: none;
-    background-color: $lightColor;
-    border-color: $contrast;
+  &:not(:disabled) {
+    &:focus {
+      outline: none;
+      background-color: $lightColor;
+      border-color: $contrast;
+    }
   }
+
 }
 
 // Primary variant
