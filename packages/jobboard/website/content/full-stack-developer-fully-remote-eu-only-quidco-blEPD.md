@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Developer - Fully Remote (EU Only)"
+title: "Full Stack Developer"
 location: "London, London, City of"
 host: "https://quidco.bamboohr.com/jobs/"
 companyName: "Quidco"
 url: "https://quidco.bamboohr.com/jobs/view.php?id=48&source=other"
 applyUrl: "https://quidco.bamboohr.com/jobs/view.php?id=48&source=other"
 timestamp: 1606991434133
-hashtags: "#vuejs,#javascript,#reactjs,#php,#html,#css,#elasticsearch,#kubernetes,#docker,#redis"
+hashtags: "#javascript,#php,#sql,#html,#css,#elasticsearch,#kubernetes,#docker,#redis,#reactjs,#vuejs"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/quidco"
 companyWebsite: "https://quidco.bamboohr.com/jobs/"
 summary: "If you have 3 years experience as a full stack developer, consider applying to Quidco's job post for a new full stack developer."
 summaryBackup: "Excited about #vuejs, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 Quidco is a forever startup at heart company who's mission is to empower users to get the most out of every dollar they spend.  Using Quidco, over 10 million members have earned £800 million and counting worth of cashback on their everyday purchases.  Quidco is committed to providing the best technology to our end users to help them save on any device they are using, and any purchase they make.  We are looking for passionate and dedicated developers based anywhere in the EU, to join our team remotely and help us create the next generation of tools to help shoppers save.
