@@ -6,7 +6,7 @@ companyName: "Adzerk"
 url: "https://boards.greenhouse.io/adzerk/jobs/4948882002"
 applyUrl: "https://boards.greenhouse.io/adzerk/jobs/4948882002#app"
 timestamp: 1606991320911
-hashtags: "#operations,#clojure,#branding,#management,#linux,#aws,#devsec,#accountant,#marketing,#rest"
+hashtags: "#operations,#aws,#clojure,#branding,#management,#linux,#devsec,#accountant,#marketing,#rest"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/adzerk"
