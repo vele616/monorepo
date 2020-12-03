@@ -1,5 +1,5 @@
 ---
-title: "Digital Project Manager - Online Marketplace Development (Remote Role)"
+title: "Digital Project Manager"
 location: "Remote job"
 host: "https://cobbleweb.recruitee.com/"
 companyName: "CobbleWeb"
