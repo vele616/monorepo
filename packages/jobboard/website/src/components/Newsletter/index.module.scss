@@ -84,12 +84,8 @@
 }
 
 .button {
-  align-items: center;
-  display: flex;
   grid-column: 3 / span 1;
   grid-row: 1 / span 1;
-  justify-content: center;
-  position: relative;
 
   @include mediaQuery(">=mobile", "<tabletPortrait") {
     grid-column: 1 / span 1;
@@ -97,17 +93,6 @@
     margin-top: 20px;
   }
   
-  &__loading {
-    @include mediaQuery(">=mobile", "<tabletPortrait") {
-      padding-right: unset;
-    }
-    padding-right: 1.5em;
-  }
-
-  &__text {
-    transition: padding-right 0.2s ease-in-out;
-  }
-
 }
 
 .flex {
@@ -126,27 +111,14 @@
 
 
 .loaderIcon {
-
-  @include mediaQuery(">tabletPortrait", "<=720px") {
-    font-size: 0.7em;
-  }
-
   display: inline-block;
   font-size: 1em;
   height: 1em;
-  opacity: 0;
-  position: absolute;
-  right: 1em;
-  transition: opacity 0.2s ease-in-out;
   width: 1em;
-}
-
-.loading {
-  opacity: 1;
-  -webkit-animation: rotating 2s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
-  -moz-animation: rotating 2s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
-  -ms-animation: rotating 2s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
-  -o-animation: rotating 2s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
+  -webkit-animation: rotating 1s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
+  -moz-animation: rotating 1s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
+  -ms-animation: rotating 1s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
+  -o-animation: rotating 1s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
   animation: rotating 1s cubic-bezier(0.5856,0.0703,0.4143,0.9297) infinite;
 }
 

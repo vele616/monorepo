@@ -106,6 +106,11 @@ const Newsletter = ({
     setConfirmed(!confirmed);
   }, [confirmed]);
 
+  const sumbitContent = React.useMemo(() => {
+    if (!loadingRequest) return submitButtonLabel;
+    return <Icon className={styles.loaderIcon} icon="spinner8" />;
+  }, [loadingRequest, submitButtonLabel]);
+
   return [
     <div
       key="subscribeRef"
@@ -160,21 +165,9 @@ const Newsletter = ({
         <Button
           className={styles.button}
           onClick={handleClick}
-          disabled={errorMessage !== null}
+          disabled={errorMessage !== null || loadingRequest}
         >
-          <span
-            className={`${styles.button__text} ${
-              loadingRequest && styles.button__loading
-            }`}
-          >
-            {submitButtonLabel}
-          </span>
-          <Icon
-            className={`${styles.loaderIcon} ${
-              loadingRequest && styles.loading
-            }`}
-            icon="spinner8"
-          />
+          {sumbitContent}
         </Button>
         <Flexbox
           alignItems="baseline"
