@@ -6,13 +6,13 @@ companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4971448002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4971448002#app"
 timestamp: 1606992081422
-hashtags: "#python,#ui/ux,#management,#css,#devsec,#git,#operations,#rest,#figma,#analysis"
-jobType: "software"
+hashtags: "#python,#analysis,#management,#css,#devsec,#git,#operations,#rest,#figma"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have prior experience working with software development tools, like Git and the command line, Current Job Openings at Netlify is looking for someone with your knowledge."
-summaryBackup: "Love #python, #ui/ux, #management? Check out this job post!"
-featured: 20
+summary: "Love #python, #analysis, #management? Check out this job post!"
+summaryBackup: "Love #python, #analysis, #management? Check out this job post!"
+featured: 5
 ---
 
 ## Company Overview
