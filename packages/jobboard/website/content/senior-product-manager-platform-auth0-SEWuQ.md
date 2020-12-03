@@ -6,8 +6,8 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/a53d65eb-1d74-49ec-bb60-f5a47cd56d48"
 applyUrl: "https://jobs.lever.co/auth0/a53d65eb-1d74-49ec-bb60-f5a47cd56d48/apply"
 timestamp: 1606992170474
-hashtags: "#devsec,#css,#kubernetes,#aws,#azure,#management,#scrum"
-jobType: "software"
+hashtags: "#management,#scrum",#devsec,#css,#kubernetes,#aws,#azure
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Auth0 intends to hire a new senior product manager. If you have 4+ years of product management experience in a cloud-native technology company, with a total of 10+ years of experience in technology/engineering, consider applying."
