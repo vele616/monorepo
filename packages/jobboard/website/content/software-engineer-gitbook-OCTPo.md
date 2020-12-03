@@ -10,9 +10,9 @@ hashtags: "#reactjs,#nodejs,#typescript,#css,#management,#devsec,#firebase,#phot
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
-summary: "Interested in new opportunities and have as you already have experience developing a web application that scaled to millions of users? GitBook has a job opening for a software engineer."
+summary: "GitBook is looking for a software engineer that has experience in: #reactjs, #nodejs, #typescript."
 summaryBackup: "GitBook is looking for a software engineer that has experience in: #reactjs, #nodejs, #typescript."
-featured: 20
+featured: 2
 ---
 
 [GitBook](https://www.gitbook.com/) is a **modern documentation platform** sustained by some of the best SaaS europeans VCs (Point 9 Capital, Notion Capital, Fly VC). Our ambition is to **empower team's intelligence.** We want to help **teams work more efficiently** by creating a single place to leverage their knowledge.
