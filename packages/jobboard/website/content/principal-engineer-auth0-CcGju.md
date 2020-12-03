@@ -6,13 +6,13 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/e43c8bec-402a-4fc4-80ef-91454ac8a652"
 applyUrl: "https://jobs.lever.co/auth0/e43c8bec-402a-4fc4-80ef-91454ac8a652/apply"
 timestamp: 1606992179139
-hashtags: "#devsec,#ui/ux,#javascript,#aws,#azure,#kubernetes,#googlecloud,#management,#operations,#postgresql"
+hashtags: "#devsec,#nodejs,#aws,#javascript,#azure,#kubernetes,#googlecloud,#management,#operations,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Interested in new opportunities and have 10+ years of software development experience? Auth0 has a job opening for a principal engineer."
 summaryBackup: "To apply as a principal engineer at Auth0, you preferably need to have some knowledge of: #devsec, #ui/ux, #javascript."
-featured: 20
+featured: 10
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
