@@ -1,5 +1,5 @@
 ---
-title: "Digital Marketing Designer (Remote)"
+title: "Digital Marketing Designer"
 location: "Remote"
 host: "https://shorthand.freshteam.com/jobs"
 companyName: "Shorthand"
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#marketing,#branding,#css,#html,#management,#sales,#content,#s
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shorthand"
 companyWebsite: "https://shorthand.freshteam.com/jobs"
-summary: "If you have has at least two years of experience in a similar role, with a good understanding of multi, Shorthand has a job opening for a digital marketing designer"
+summary: "If you have has at least two years of experience in a similar role, with a good understanding of multi-channel marketing, Shorthand has a job opening for a digital marketing designer"
 summaryBackup: "Excited about #ui/ux, #marketing, #branding? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## The Opportunity
