@@ -1,16 +1,16 @@
 ---
-title: "Front-end/Full-stack Developer - Whereby"
+title: "Frontend/Full-stack Developer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/AD36A0AD2B/"
 applyUrl: "https://apply.workable.com/nixa/j/AD36A0AD2B/apply/"
 timestamp: 1606992251459
-hashtags: "#javascript,#management,#ui/ux,#css,#aws,#git,#devsec,#analysis,#office,#optimization"
+hashtags: "#javascript,#nodejs,#ui/ux,#css,#aws,#git,#devsec,#analysis,#office,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io intends to hire a new front-end. If you have 3-5+ years of experience as a software engineer, consider applying."
+summary: "Nixa.io intends to hire a new frontend developer. If you have 3-5+ years of experience as a software engineer, consider applying."
 summaryBackup: "Nixa.io is looking for a front-end that has experience in: #javascript, #management, #ui/ux."
 featured: 20
 ---
