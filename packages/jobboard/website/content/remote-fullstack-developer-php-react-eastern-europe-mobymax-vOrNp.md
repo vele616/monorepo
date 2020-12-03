@@ -1,18 +1,18 @@
 ---
-title: "Remote Fullstack Developer - PHP/React (Eastern Europe)"
+title: "Remote Fullstack Developer"
 location: "Remote Worldwide"
 host: "https://mobymax.breezy.hr/"
 companyName: "mobymax"
 url: "https://mobymax.breezy.hr/p/1be4f7622b9f-remote-fullstack-developer-php-react-eastern-europe"
 applyUrl: "https://mobymax.breezy.hr/p/1be4f7622b9f-remote-fullstack-developer-php-react-eastern-europe/apply"
 timestamp: 1606991452615
-hashtags: "#php,#reactjs,#studentjob,#javascript,#css,#html,#mysql,#English"
+hashtags: "#php,#reactjs,#mysql,#studentjob,#javascript,#css,#html,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
 summary: "Mobymax is looking for a remote fullstack developer that has the position requires a developer with experience and expertise building modern web applications and mobile web apps using the latest back."
 summaryBackup: "Mobymax is looking for a remote fullstack developer that has experience in: #php, #reactjs, #studentjob."
-featured: 20
+featured: 2
 ---
 
 ## About Us
