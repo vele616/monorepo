@@ -1,18 +1,18 @@
 ---
-title: "QA Engineer - Remote"
+title: "QA Engineer"
 location: "Remote OK"
 host: "https://mobymax.breezy.hr/"
 companyName: "mobymax"
 url: "https://mobymax.breezy.hr/p/0db6217718b5-qa-engineer-remote"
 applyUrl: "https://mobymax.breezy.hr/p/0db6217718b5-qa-engineer-remote/apply"
 timestamp: 1606991462634
-hashtags: "#studentjob,#javascript,#ui/ux,#ios,#jira,#analysis,#office,#English"
+hashtags: "#javascript,#ui/ux,#ios,#jira,#analysis,#office,#English,#studentjob"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
 summary: "If you have experience working in software or software development, particularly edtech, Mobymax is looking for someone with your skillset."
 summaryBackup: "Mobymax is looking for a qa engineer that has experience in: #studentjob, #javascript, #ui/ux."
-featured: 20
+featured: 4
 ---
 
 About Us
