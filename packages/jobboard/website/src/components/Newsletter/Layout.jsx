@@ -20,11 +20,25 @@ const NewsletterLayout = ({
   isSubscribeSuccess,
   title,
   buttonText,
+  buttonLinkTo,
   image,
   subtitle,
   text,
   titleColor = 'gray_2',
 }) => {
+  const button = React.useMemo(() => {
+    if (buttonText) {
+      if (buttonLinkTo) {
+        return (
+          <Link className={styles.link} to={buttonLinkTo}>
+            <Button className={styles.button}>{buttonText}</Button>
+          </Link>
+        );
+      }
+      return <Button className={styles.button}>{buttonText}</Button>;
+    }
+  }, [buttonText, buttonLinkTo]);
+
   return (
     <Section className={styles.section}>
       <Flexbox className={styles.flex}>
@@ -64,9 +78,7 @@ const NewsletterLayout = ({
             >
               {text}
             </Typography>
-            {buttonText && (
-              <Button className={styles.button}>{buttonText}</Button>
-            )}
+            {button}
           </Flexbox>
         </div>
       </Flexbox>

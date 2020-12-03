@@ -16,6 +16,7 @@ const Unsubscribe = ({ data, location }) => {
     <NewsletterLayout
       image={result.image}
       buttonText={result.buttonText}
+      buttonLinkTo={result.buttonLinkTo}
       title={result.title}
       subtitle={result.subtitle}
       text={result.text}
@@ -44,6 +45,7 @@ export const query = graphql`
           subtitle
           text
           buttonText
+          buttonLinkTo
           image {
             childImageSharp {
               fluid(maxWidth: 600) {
