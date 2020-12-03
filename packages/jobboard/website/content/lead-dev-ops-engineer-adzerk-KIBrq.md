@@ -1,12 +1,12 @@
 ---
-title: "Lead Dev/Ops Engineer"
+title: "Lead DevOps Engineer"
 location: "Anywhere"
 host: "https://boards.greenhouse.io/adzerk"
 companyName: "Adzerk"
 url: "https://boards.greenhouse.io/adzerk/jobs/4956615002"
 applyUrl: "https://boards.greenhouse.io/adzerk/jobs/4956615002#app"
 timestamp: 1606991312037
-hashtags: "#operations,#clojure,#branding,#management,#linux,#aws,#devsec,#accountant,#marketing,#rest"
+hashtags: "#linux,#aws,#operations,#clojure,#branding,#management,#devsec,#accountant,#marketing,#rest"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/adzerk"
