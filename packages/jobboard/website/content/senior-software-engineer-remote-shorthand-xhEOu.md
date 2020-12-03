@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Engineer (Remote)"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://shorthand.freshteam.com/jobs"
 companyName: "Shorthand"
