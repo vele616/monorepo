@@ -1,12 +1,12 @@
 ---
-title: "Senior DevOps Engineer, PSaaS"
+title: "Senior DevOps Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/008517e8-fd64-48ca-b584-5e5008fe4bb0"
 applyUrl: "https://jobs.lever.co/auth0/008517e8-fd64-48ca-b584-5e5008fe4bb0/apply"
 timestamp: 1606992176270
-hashtags: "#css,#management,#devsec,#ui/ux,#ansible,#puppet,#linux,#docker,#aws,#operations"
+hashtags: "#nodejs,#ansible,#puppet,#linux,#docker,#aws,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
