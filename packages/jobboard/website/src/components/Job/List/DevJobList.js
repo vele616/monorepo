@@ -7,7 +7,7 @@ export const DevJobList = () => (
     query={graphql`
       query {
         allMarkdownRemark(
-          sort: { fields: frontmatter___timestamp, order: DESC },
+          sort: { fields: [frontmatter___timestamp, frontmatter___featured], order: DESC },
           filter: {frontmatter: {jobType: {eq: "software"}, archived: { ne: "true" }}}
         ) {
           nodes {
