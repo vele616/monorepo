@@ -1,18 +1,18 @@
 ---
-title: "Senior Backend Engineer (Remote)"
+title: "Senior Backend Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/websummit"
 companyName: "Web Summit"
 url: "https://jobs.lever.co/websummit/c26d9aba-a606-45fb-98f1-2a7b1d4700eb"
 applyUrl: "https://jobs.lever.co/websummit/c26d9aba-a606-45fb-98f1-2a7b1d4700eb/apply"
 timestamp: 1606991442536
-hashtags: "#python,#java,#kotlin,#rubylang,#ui/ux,#linux,#aws,#operations,#git,#marketing"
+hashtags: "#rubylang,#aws,#python,#java,#kotlin,#ui/ux,#linux,#operations,#git,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit"
 companyWebsite: "https://websummit.com/"
 summary: "Web Summit is searching for a senior backend engineer that has 5+ years of commercial experience in an OOP language."
 summaryBackup: "Excited about #python, #java, #kotlin? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **About us:**
