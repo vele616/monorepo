@@ -6,13 +6,13 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/51e6037f-b344-4a83-97ae-0c549821e993"
 applyUrl: "https://jobs.lever.co/stellar/51e6037f-b344-4a83-97ae-0c549821e993/apply"
 timestamp: 1606992130423
-hashtags: "#ui/ux,#management,#finance,#accountant"
+hashtags: "#blockchain,#lead,#crypto"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
 summary: "If you have 5+ years of real-world software engineering experience, consider applying to Stellar Development Foundation's job post for a new lead blockchain architect."
 summaryBackup: "Love #ui/ux, #management, #finance? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 **Open to considering remote candidates in the US & Canada**
