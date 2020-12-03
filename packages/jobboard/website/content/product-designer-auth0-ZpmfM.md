@@ -6,7 +6,7 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/67a39bba-0e76-4264-a818-567ce009f81e"
 applyUrl: "https://jobs.lever.co/auth0/67a39bba-0e76-4264-a818-567ce009f81e/apply"
 timestamp: 1606992194459
-hashtags: "#ui/ux,#devsec,#management,#operations,#figma"
+hashtags: "#ui/ux,#management,#figma,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
