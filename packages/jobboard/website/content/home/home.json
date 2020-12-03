@@ -34,7 +34,9 @@
     "mailNotValidErrorMessage": "You have entered an invalid email address.",
     "mailNotConfirmedErrorMessage": "You need to confirm we may use your email address.",
     "responseStatusMailAlreadyInDatabaseErrorMessage": "Your are already subscribed to the newsletter.",
-    "responseStatusNotOkErrorMessage": "Something went wrong, please try again."
+    "responseStatusNotOkErrorMessage": "Something went wrong, please try again.",
+    "responseStatusOKText" : "You’ll receive an email shortly to confirm your subscription. Please check your email.",
+    "responseStatusOKTitle": "Almost done!"
   },
   "postAJob": {
     "title": "We Find Jobs By Crawling Popular Recruitment Applications and Job Posting Sites",
