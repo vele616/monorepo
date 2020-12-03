@@ -1,18 +1,18 @@
 ---
-title: "QA Engineer - Remote (Eastern Europe, South America)"
+title: "QA Engineer"
 location: "Remote Worldwide"
 host: "https://mobymax.breezy.hr/"
 companyName: "mobymax"
 url: "https://mobymax.breezy.hr/p/716eed5cc568-qa-engineer-remote-eastern-europe-south-america"
 applyUrl: "https://mobymax.breezy.hr/p/716eed5cc568-qa-engineer-remote-eastern-europe-south-america/apply"
 timestamp: 1606991455632
-hashtags: "#studentjob,#javascript,#ui/ux,#ios,#jira,#analysis,#office,#English"
+hashtags: "#javascript,#ui/ux,#jira,#analysis,#office,#English,#ios"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
 summary: "Mobymax wishes to hire a new qa engineer. If you have experience working in software or software development, particularly edtech, consider applying."
 summaryBackup: "Love #studentjob, #javascript, #ui/ux? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 About Us
