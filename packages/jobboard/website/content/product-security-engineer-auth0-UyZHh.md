@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/auth0/70ed041c-76de-420e-96a8-f7db541318ef"
 applyUrl: "https://jobs.lever.co/auth0/70ed041c-76de-420e-96a8-f7db541318ef/apply"
 timestamp: 1606992184825
 hashtags: "#devsec,#javascript,#ui/ux,#management"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Auth0 is looking for a product security engineer that has experience with JavaScript."
