@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Engineer (Integration)"
+title: "Senior Software Engineer"
 location: "SanFranciscoorRemote"
 host: "https://jobs.lever.co/stellar"
 companyName: "Stellar Development Foundation"
