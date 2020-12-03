@@ -10,7 +10,7 @@ hashtags: "#javascript,#reactjs,#nodejs,#management,#terraform,#kubernetes,#dock
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kodify"
 companyWebsite: "https://kodify.io/"
-summary: "Interested in new opportunities and have 3 years, and can show us examples of their work? Kodify has a job opening for a site reliability engineer."
+summary: "To apply as a site reliability engineer at Kodify, you preferably need to have some knowledge of: #javascript, #reactjs, #nodejs."
 summaryBackup: "To apply as a site reliability engineer at Kodify, you preferably need to have some knowledge of: #javascript, #reactjs, #nodejs."
 featured: 20
 ---
