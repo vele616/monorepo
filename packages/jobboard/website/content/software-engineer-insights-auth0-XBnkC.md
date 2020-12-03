@@ -6,11 +6,11 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/7c7bcb0c-729e-46a8-9a12-2f5500282a75"
 applyUrl: "https://jobs.lever.co/auth0/7c7bcb0c-729e-46a8-9a12-2f5500282a75/apply"
 timestamp: 1606992222463
-hashtags: "#devsec,#javascript,#postgresql,#nodejs,#typescript,#ui/ux,#operations,#analysis,#office,#rest"
+hashtags: "#typescript,#javascript,#postgresql,#devsec,#nodejs,#ui/ux,#operations,#analysis,#office,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "Excited about experience in: #devsec, #javascript, #postgresql? Check out this job post!"
+summary: "Excited about experience in: #typescript, #javascript, #postgresql? Check out this job post!"
 summaryBackup: "Excited about #devsec, #javascript, #postgresql? Check out this job post!"
 featured: 20
 ---
