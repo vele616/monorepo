@@ -6,8 +6,8 @@ companyName: "Adzerk"
 url: "https://boards.greenhouse.io/adzerk/jobs/4846142002"
 applyUrl: "https://boards.greenhouse.io/adzerk/jobs/4846142002#app"
 timestamp: 1606991325277
-hashtags: "#sales,#javascript,#branding,#aws,#content,#marketing,#devsec,#rest"
-jobType: "software"
+hashtags: "#sales,#marketing,#branding,#aws,#content,#devsec,#rest,#javascript"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "If you have have prior experience working with REST APIs and a highly technical product, Adzerk has a job opening for a solutions architect"
