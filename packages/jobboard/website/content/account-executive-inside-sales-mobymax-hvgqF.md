@@ -1,6 +1,6 @@
 ---
-title: "Account Executive / Inside Sales"
-location: "Remote OK"
+title: "Account Executive"
+location: "Remote"
 host: "https://mobymax.breezy.hr/"
 companyName: "mobymax"
 url: "https://mobymax.breezy.hr/p/173522a3532a-account-executive-inside-sales"
@@ -10,7 +10,7 @@ hashtags: "#sales,#accountant,#studentjob,#management,#windows,#branding,#devsec
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
-summary: "Love experience in: #sales, #accountant, #studentjob? Check out this job post!"
+summary: "Have experience in: #sales, #accountant, #studentjob? Check out this job post!"
 summaryBackup: "Excited about #sales, #accountant, #studentjob? Check out this job post!"
 featured: 20
 ---
