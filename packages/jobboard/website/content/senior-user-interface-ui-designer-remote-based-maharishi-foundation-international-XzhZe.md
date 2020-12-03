@@ -1,5 +1,5 @@
 ---
-title: "Senior User Interface (UI) Designer - Remote based"
+title: "Senior User Interface Designer"
 location: "Remote (European timezone preferred), London, City of"
 host: "https://mfi.bamboohr.com/jobs/"
 companyName: "Maharishi Foundation International"
@@ -10,7 +10,7 @@ hashtags: "#ui/ux,#marketing,#branding,#management,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/maharishi-foundation-international"
 companyWebsite: "https://mfi.bamboohr.com/jobs/"
-summary: "Maharishi Foundation International intends to hire a new senior user interface. If you have 60 years, the Transcendental Meditation technique has been learned by more than 10 million people worldwide via personal instruction from tens of thousands of certified teachers, consider applying."
+summary: "Love #ui/ux, #marketing, #branding? Check out this job post!"
 summaryBackup: "Love #ui/ux, #marketing, #branding? Check out this job post!"
 featured: 20
 ---
