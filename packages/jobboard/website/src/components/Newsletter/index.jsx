@@ -25,6 +25,8 @@ const Newsletter = ({
   mailNotConfirmedErrorMessage,
   responseStatusMailAlreadyInDatabaseErrorMessage,
   responseStatusNotOkErrorMessage,
+  responseStatusOKText,
+  responseStatusOKTitle,
 }) => {
   const [text, setText] = React.useState('');
 
@@ -35,25 +37,32 @@ const Newsletter = ({
   const [touched, setTouched] = React.useState(false);
 
   const [completed, setCompleted] = React.useState(false);
-  
+
+  const [loadingRequest, setLoadingRequest] = React.useState(false);
+
+  const [inputKey, setInputKey] = React.useState('');
+
+  React.useEffect(() => {
+    setInputKey(Math.random().toString());
+  }, []);
+
+  const getErrorMessage = React.useCallback(() => {
+    if (/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(text) === false) {
+      return mailNotValidErrorMessage;
+    } else if (confirmed === false) {
+      return mailNotConfirmedErrorMessage;
+    } else {
+      return null;
+    }
+  }, [text, confirmed, mailNotValidErrorMessage, mailNotConfirmedErrorMessage]);
+
   React.useEffect(() => {
     if (touched === false) {
       return;
     }
-    if (/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(text) === false) {
-      setErrorMessage(mailNotValidErrorMessage);
-    } else if (confirmed === false) {
-      setErrorMessage(mailNotConfirmedErrorMessage);
-    } else {
-      setErrorMessage(null);
-    }
-  }, [
-    text,
-    confirmed,
-    touched,
-    mailNotValidErrorMessage,
-    mailNotConfirmedErrorMessage,
-  ]);
+    const errorMessage = getErrorMessage();
+    setErrorMessage(errorMessage);
+  }, [touched, getErrorMessage]);
 
   const handleChange = React.useCallback((event) => {
     setTouched(true);
@@ -61,11 +70,22 @@ const Newsletter = ({
   }, []);
 
   const handleClick = React.useCallback(async () => {
+    const errorMessage = getErrorMessage();
+    if (errorMessage) {
+      setErrorMessage(errorMessage);
+      return;
+    }
+
+    setLoadingRequest(true);
+
     const response = await fetch(process.env.GATSBY_NEWSLETTER_SUBSCRIBE_URL, {
       method: 'POST',
       mode: 'cors',
       body: JSON.stringify({ email: text, confirm: confirmed }),
     });
+
+    setLoadingRequest(false);
+
     if (response.status === 304) {
       setErrorMessage(responseStatusMailAlreadyInDatabaseErrorMessage);
     } else if (response.status !== 200) {
@@ -78,12 +98,18 @@ const Newsletter = ({
     confirmed,
     responseStatusMailAlreadyInDatabaseErrorMessage,
     responseStatusNotOkErrorMessage,
+    getErrorMessage,
   ]);
 
   const handleConfirm = React.useCallback(() => {
     setTouched(true);
     setConfirmed(!confirmed);
   }, [confirmed]);
+
+  const sumbitContent = React.useMemo(() => {
+    if (!loadingRequest) return submitButtonLabel;
+    return <Icon className={styles.loaderIcon} icon="spinner8" />;
+  }, [loadingRequest, submitButtonLabel]);
 
   return [
     <div
@@ -108,18 +134,29 @@ const Newsletter = ({
           {subtitle}
         </Typography>
       </Typography>
-      <Grid className={completed ? styles.feedback : `${styles.feedback} ${styles.hide} `} columns="auto" rows="auto auto" columnGap="45px">
+      <Grid
+        className={
+          completed ? styles.feedback : `${styles.feedback} ${styles.hide} `
+        }
+        columns="auto"
+        rows="auto auto"
+        columnGap="45px"
+      >
         <Typography fontSize={26} fontWeight={700} color="gray_2">
-          Almost done!
+          {responseStatusOKTitle}
         </Typography>
         <Typography fontSize={18} color="gray_2">
-          You’ll receive an email shortly to confirm your subscription. Please check your email.
+          {responseStatusOKText}
         </Typography>
       </Grid>
-      <Grid className={completed ? `${styles.grid} ${styles.hide}` : styles.grid } columnGap="60px">
+      <Grid
+        className={completed ? `${styles.grid} ${styles.hide}` : styles.grid}
+        columnGap="60px"
+      >
         <Input
           required
           label={inputLabel}
+          key={inputKey}
           className={styles.input}
           onChange={handleChange}
           errorMessage={errorMessage}
@@ -128,9 +165,9 @@ const Newsletter = ({
         <Button
           className={styles.button}
           onClick={handleClick}
-          disabled={errorMessage !== null}
+          disabled={errorMessage !== null || loadingRequest}
         >
-          {submitButtonLabel}
+          {sumbitContent}
         </Button>
         <Flexbox
           alignItems="baseline"
@@ -168,6 +205,8 @@ const NewsletterWithQuery = ({ subscribeRef }) => (
             mailNotConfirmedErrorMessage
             responseStatusMailAlreadyInDatabaseErrorMessage
             responseStatusNotOkErrorMessage
+            responseStatusOKText
+            responseStatusOKTitle
           }
         }
       }

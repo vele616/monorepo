@@ -1,11 +1,11 @@
-const AWS = require('aws-sdk');
+const AWS = require("aws-sdk");
 
 let options = {};
 
 if (process.env.IS_OFFLINE) {
   options = {
-    region: 'localhost',
-    endpoint: 'http://localhost:8000',
+    region: "localhost",
+    endpoint: "http://localhost:8000",
   };
 }
 
@@ -16,28 +16,41 @@ exports.exec = async (event) => {
   try {
     const { email, hash } = event.pathParameters;
     console.log(email, hash);
-    const emailRecord = await client.query({
-      TableName: process.env.NEWSLETTER_TABLE,
-      KeyConditionExpression: 'email = :email AND emailHash = :emailHash',
-      ExpressionAttributeValues: {
-        ':email': email,
-        ':emailHash': hash,
-      },
-    }).promise();
-    if (emailRecord.Items.length > 0 && emailRecord.Items[0].confirmed === false) {
-      await client.update({
+    const emailRecord = await client
+      .query({
         TableName: process.env.NEWSLETTER_TABLE,
-        Key: { email, emailHash: hash },
-        UpdateExpression: 'SET confirmed = :confirmed, updatedAt = :updatedAt',
+        KeyConditionExpression: "email = :email AND emailHash = :emailHash",
         ExpressionAttributeValues: {
-          ':confirmed': true,
-          ':updatedAt': timestamp,
+          ":email": email,
+          ":emailHash": hash,
         },
-      }).promise();
-    } else if (emailRecord.Items.length > 0 && emailRecord.Items[0].confirmed === true) {
+      })
+      .promise();
+    if (
+      emailRecord.Items.length > 0 &&
+      emailRecord.Items[0].confirmed === false
+    ) {
+      await client
+        .update({
+          TableName: process.env.NEWSLETTER_TABLE,
+          Key: { email, emailHash: hash },
+          UpdateExpression:
+            "SET confirmed = :confirmed, updatedAt = :updatedAt",
+          ExpressionAttributeValues: {
+            ":confirmed": true,
+            ":updatedAt": timestamp,
+          },
+        })
+        .promise();
+    } else if (
+      emailRecord.Items.length > 0 &&
+      emailRecord.Items[0].confirmed === true
+    ) {
       return {
         statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_CONFIRM_URI}already-confirmed` },
+        headers: {
+          Location: `${process.env.REDIRECT_CONFIRM_URI}already-confirmed`,
+        },
       };
     } else {
       return {
