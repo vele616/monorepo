@@ -40,6 +40,12 @@ const Newsletter = ({
 
   const [loadingRequest, setLoadingRequest] = React.useState(false);
 
+  const [inputKey, setInputKey] = React.useState('');
+
+  React.useEffect(() => {
+    setInputKey(Math.random().toString());
+  }, []);
+
   const getErrorMessage = React.useCallback(() => {
     if (/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(text) === false) {
       return mailNotValidErrorMessage;
@@ -145,6 +151,7 @@ const Newsletter = ({
         <Input
           required
           label={inputLabel}
+          key={inputKey}
           className={styles.input}
           onChange={handleChange}
           errorMessage={errorMessage}
@@ -155,16 +162,25 @@ const Newsletter = ({
           onClick={handleClick}
           disabled={errorMessage !== null}
         >
-          {submitButtonLabel}
+          <span
+            className={`${styles.button__text} ${
+              loadingRequest && styles.button__loading
+            }`}
+          >
+            {submitButtonLabel}
+          </span>
+          <Icon
+            className={`${styles.loaderIcon} ${
+              loadingRequest && styles.loading
+            }`}
+            icon="spinner8"
+          />
         </Button>
         <Flexbox
           alignItems="baseline"
           className={styles.flex}
           onClick={handleConfirm}
         >
-          {loadingRequest && (
-            <Icon className={styles.waiting} icon="spinner8" />
-          )}
           <Icon
             fontSize={14}
             color="gray_2"
