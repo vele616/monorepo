@@ -6,13 +6,13 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/f758445c-2c71-46f8-843f-0bbfa140f4ef"
 applyUrl: "https://jobs.lever.co/auth0/f758445c-2c71-46f8-843f-0bbfa140f4ef/apply"
 timestamp: 1606992164662
-hashtags: "#content,#devsec,#python,#java,#windows,#English"
-jobType: "software"
+hashtags: "#content,#python,#java,#windows,#English"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Interested in new opportunities and have 2+ years experience as a Backend Developer Java, Python, or? Auth0 has a job opening for a senior content engineer."
 summaryBackup: "Auth0 is looking for a senior content engineer that has experience in: #content, #devsec, #python."
-featured: 20
+featured: 5
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
