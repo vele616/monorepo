@@ -1,18 +1,18 @@
 ---
-title: "Product Manager, Insights"
+title: "Product Manager"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/8adb406a-b210-4b24-8f06-60aa7400e04c"
 applyUrl: "https://jobs.lever.co/auth0/8adb406a-b210-4b24-8f06-60aa7400e04c/apply"
 timestamp: 1606992228571
-hashtags: "#marketing,#devsec,#analysis,#css,#ui/ux,#management,#operations"
+hashtags: "#analysis,#css,#management,#ui/ux,#operations,#marketing,#devsec"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "To apply as a product manager at Auth0, you preferably need to have 5 years of prior experience as a product manager or in an adjacent role involving modern, iterative product development."
 summaryBackup: "Auth0 is looking for a product manager that has experience in: #marketing, #devsec, #analysis."
-featured: 20
+featured: 2
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
