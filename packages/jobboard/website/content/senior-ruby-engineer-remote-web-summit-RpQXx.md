@@ -6,7 +6,7 @@ companyName: "Web Summit"
 url: "https://jobs.lever.co/websummit/75af9d00-ba64-47d1-a837-44614caf7c30"
 applyUrl: "https://jobs.lever.co/websummit/75af9d00-ba64-47d1-a837-44614caf7c30/apply"
 timestamp: 1606991449561
-hashtags: "#rubylang,#reactjs,#python,#java,#kotlin,#linux,#ui/ux,#scrum,#aws,#marketing"
+hashtags: "#rubylang,#kotlin,#python,#java,#linux,#reactjs,#ui/ux,#scrum,#aws,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit"
 companyWebsite: "https://websummit.com/"
