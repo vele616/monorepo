@@ -124,6 +124,10 @@ $navigation__height--desktop: 100px;
   max-width: 266px;
 }
 
+.link {
+  display: contents;
+}
+
 @include mediaQuery(">=mobile", "<1000px"){
   .text,.button,.subtitle, .title {
     text-align: center;
