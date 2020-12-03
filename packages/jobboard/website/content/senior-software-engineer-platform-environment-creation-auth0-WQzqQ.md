@@ -6,7 +6,7 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/518caaa7-21c0-464c-ab68-35e654dd2e6f"
 applyUrl: "https://jobs.lever.co/auth0/518caaa7-21c0-464c-ab68-35e654dd2e6f/apply"
 timestamp: 1606992219065
-hashtags: "#aws,#devsec,#ui/ux,#operations,#javascript,#golang,#typescript,#azure,#terraform,#management"
+hashtags: "#aws,#devsec,#javascript,#operations,#golang,#typescript,#azure,#terraform"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
