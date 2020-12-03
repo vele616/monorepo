@@ -6,13 +6,13 @@ companyName: "Mavenoid"
 url: "https://mav.recruitee.com/o/senior-frontend-engineer"
 applyUrl: "https://mav.recruitee.com/o/senior-frontend-engineer/c/new"
 timestamp: 1606991309932
-hashtags: "#nodejs,#python,#typescript,#javascript,#reactjs,#branding,#ui/ux,#office"
+hashtags: "#nodejs,#reactjs,#typescript,#python,#javascript,#branding,#ui/ux,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
-summary: "If you have you have some experience with NodeJS or Python, Mavenoid is looking for someone with your knowledge."
+summary: "If you have excellent understanding of Javascript and its ecosystem, Mavenoid is looking for someone with your knowledge."
 summaryBackup: "Mavenoid is looking for a senior frontend engineer that has experience in: #nodejs, #python, #typescript."
-featured: 20
+featured: 5
 ---
 
 ## Job description
