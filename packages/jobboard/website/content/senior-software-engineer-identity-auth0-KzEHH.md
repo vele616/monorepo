@@ -1,16 +1,16 @@
 ---
-title: "Senior Software Engineer, Identity"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/cfa85501-770d-4ee1-a8f2-7ce10480e86b"
 applyUrl: "https://jobs.lever.co/auth0/cfa85501-770d-4ee1-a8f2-7ce10480e86b/apply"
 timestamp: 1606992167560
-hashtags: "#devsec,#typescript,#accountant,#ui/ux,#operations,#postgresql,#mongodb,#dynamodb,#monitoring"
+hashtags: "#devsec,#nodejs,#operations,#postgresql,#mongodb,#dynamodb,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "Interested in new opportunities and have have experience building highly? Auth0 has a job opening for a senior software engineer."
+summary: "Auth0 is looking for a Senior Software Engineer to join their Sessions team."
 summaryBackup: "Excited about #devsec, #typescript, #accountant? Check out this job post!"
 featured: 20
 ---
