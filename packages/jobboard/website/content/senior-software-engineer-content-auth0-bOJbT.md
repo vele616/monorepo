@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer (Content)"
+title: "Senior R&D Content Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/d9d87125-50c2-4f09-bd16-d0632bbf7f30"
 applyUrl: "https://jobs.lever.co/auth0/d9d87125-50c2-4f09-bd16-d0632bbf7f30/apply"
 timestamp: 1606992187983
-hashtags: "#devsec,#content,#analysis,#git,#management,#English"
+hashtags: "#content,#analysis,#English,#git,#management,#devsec"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Auth0 is looking for a senior software engineer that has 8+ years of relevant technical and writing experience."
 summaryBackup: "Love #devsec, #content, #analysis? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
