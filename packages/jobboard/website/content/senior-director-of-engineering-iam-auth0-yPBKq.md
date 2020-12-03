@@ -6,8 +6,8 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/4558bed1-54ed-4c38-845e-ccd52e04d508"
 applyUrl: "https://jobs.lever.co/auth0/4558bed1-54ed-4c38-845e-ccd52e04d508/apply"
 timestamp: 1606992197781
-hashtags: "#management,#devsec,#css,#ui/ux,#operations,#scrum,#office,#monitoring,#optimization"
-jobType: "software"
+hashtags: "#management,#operations,#optimization,"#devsec,#css,#ui/ux,#scrum,#office,#monitoring
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "If you have 10+ years of technology leadership focused on SaaS primarily in identity and access management, Auth0 is looking for someone with your skillset."
