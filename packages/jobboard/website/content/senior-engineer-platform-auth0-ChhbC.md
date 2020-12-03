@@ -1,12 +1,12 @@
 ---
-title: "Senior Engineer, Platform"
+title: "Senior DevOps Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/14a4593a-bc42-482e-92f2-0822efac4b35"
 applyUrl: "https://jobs.lever.co/auth0/14a4593a-bc42-482e-92f2-0822efac4b35/apply"
 timestamp: 1606992161605
-hashtags: "#devsec,#kubernetes,#azure,#terraform,#management,#golang,#ansible,#docker,#operations"
+hashtags: "#terraform,#kubernetes,#azure,#management,#golang,#ansible,#docker,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
