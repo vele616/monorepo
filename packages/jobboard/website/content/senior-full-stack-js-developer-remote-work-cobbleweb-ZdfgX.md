@@ -1,5 +1,5 @@
 ---
-title: "Senior Full Stack JS Developer (remote work)"
+title: "Senior Full Stack JS Developer"
 location: "Remote job"
 host: "https://cobbleweb.recruitee.com/"
 companyName: "CobbleWeb"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cobbleweb"
 companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_source=recruitee"
 summary: "CobbleWeb is looking for a senior full stack js developer that has experience with REST APIs."
 summaryBackup: "Love #reactjs, #expressjs, #nodejs? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Job description
@@ -40,7 +40,7 @@ You are guaranteed to never be bored if you work with the CobbleWeb team. We are
 *   Adoption of Agile methodologies
 *   Experience with techniques such as TDD, continuous integration and continuous delivery
 *   Experience with test automation using JEST/ Mocha , Jenkins, Selenium or other testing framework would be advantageous
-*   RabbitMQ, Redis, AWSor Elastisearch is a plus
+*   RabbitMQ, Redis, AWS or Elastisearch is a plus
 *   Be willing to help your teammates, share your knowledge with them, and learn from them.
 *   Be open to receiving feedback.
 *   Be conscientious and have a good work ethic.
