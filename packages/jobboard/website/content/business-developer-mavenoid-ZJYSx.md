@@ -6,7 +6,7 @@ companyName: "Mavenoid"
 url: "https://mav.recruitee.com/o/business-developer"
 applyUrl: "https://mav.recruitee.com/o/business-developer/c/new"
 timestamp: 1606991303556
-hashtags: "#accountant,#sales,#branding,#management,#marketing,#scrum,#rest"
+hashtags: "#sales,#management,#marketing,#scrum,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
