@@ -1,5 +1,5 @@
 ---
-title: "Full-stack/Back-end Developer - Whereby"
+title: "Full-stack/Back-end Developer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
