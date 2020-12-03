@@ -1,18 +1,18 @@
 ---
-title: "Remote Back-end Developer"
+title: "Backend Developer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/26DD4AD960/"
 applyUrl: "https://apply.workable.com/nixa/j/26DD4AD960/apply/"
 timestamp: 1606992244935
-hashtags: "#ui/ux,#aws,#spring,#java,#kotlin,#terraform,#management,#devsec,#mysql"
+hashtags: "#java,#spring,#kotlin,#terraform,#management,#devsec,#mysql,#ui/ux,#aws,"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io wishes to hire a new remote back-end developer. If you have you have experience with Kotlin and/or Java, consider applying."
+summary: "Nixa.io wishes to hire a new remote backend developer. If you have you have experience with Kotlin and/or Java, consider applying."
 summaryBackup: "To apply as a remote back-end developer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #aws, #spring."
-featured: 20
+featured: 0
 ---
 
 ## Description
