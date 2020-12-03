@@ -43,7 +43,7 @@ Auth0 has been remote friendly since inception and embraces a remote work-style.
 *   Teach techniques to estimate capacity, velocity and throughput
 *   Teach forecasting techniques
 *   Teach interpretation of flow metrics and analytics
-*    Provide 1-1 mentorship
+*   Provide 1-1 mentorship
 *   Foster a Lean and Agile mindset
 *   Cultivate trust and psychological safety
 
