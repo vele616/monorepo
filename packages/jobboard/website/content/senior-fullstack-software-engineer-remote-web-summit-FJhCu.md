@@ -1,18 +1,18 @@
 ---
-title: "Senior Fullstack Software Engineer (Remote)"
+title: "Senior Fullstack Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/websummit"
 companyName: "Web Summit"
 url: "https://jobs.lever.co/websummit/13efd555-61a6-4cca-b882-c0fb1129e0f1"
 applyUrl: "https://jobs.lever.co/websummit/13efd555-61a6-4cca-b882-c0fb1129e0f1/apply"
 timestamp: 1606991439574
-hashtags: "#javascript,#ui/ux,#reactjs,#jquery,#python,#java,#kotlin,#rubylang,#html,#css"
+hashtags: "#reactjs,#javascript,#html,#css,#ui/ux,#jquery,#python,#java,#kotlin,#rubylang"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit"
 companyWebsite: "https://websummit.com/"
-summary: "Excited about experience in: #javascript, #ui/ux, #reactjs? Check out this job post!"
+summary: "Excited about experience in: #javascript, #reactjs, #ui/ux? Check out this job post!"
 summaryBackup: "Love #javascript, #ui/ux, #reactjs? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 **About us:**
