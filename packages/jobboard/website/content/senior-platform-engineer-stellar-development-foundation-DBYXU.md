@@ -6,13 +6,13 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/9bff1c6e-1c84-4984-b9af-3548ae302103"
 applyUrl: "https://jobs.lever.co/stellar/9bff1c6e-1c84-4984-b9af-3548ae302103/apply"
 timestamp: 1606992140198
-hashtags: "#ui/ux,#java,#golang,#rustlang,#finance,#accountant"
+hashtags: "#golang,#rustlang,#csharp"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
 summary: "If you have 4+ years of experience developing software on a team, Stellar Development Foundation is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #java, #golang? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation (SDF) is looking for a talented, experienced, and hands-on platform engineer to join our team. In this role, you’ll be designing, building, and implementing the tools and services that empower Stellar's ecosystem. By working within the platform team, you'll be working on open source projects that empower developers to use the Stellar network for a wide variety of goals and use cases.
