@@ -6,13 +6,13 @@ companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4931941002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4931941002#app"
 timestamp: 1606992068847
-hashtags: "#devsec,#operations,#windows,#linux,#ui/ux,#git,#management,#figma,#rest"
-jobType: "other"
+hashtags: "#devsec,#linux,#windows,#operations,#ui/ux,#git,#management,#figma,#rest"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Current Job Openings at Netlify is searching for a senior it engineer that has experience with various SSO services and integration."
 summaryBackup: "Current Job Openings at Netlify is looking for a senior it engineer that has experience in: #devsec, #operations, #windows."
-featured: 20
+featured: 10
 ---
 
 ## Company Overview
