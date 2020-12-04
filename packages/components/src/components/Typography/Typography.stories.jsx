@@ -1,6 +1,6 @@
 import React from "react";
 import Typography from "./index";
-import { colors, ColorControl } from "../__controls/color";
+import { colors, ColorControl } from "../../storybook/Controls/color";
 
 export default {
   title: "Components/Typography",

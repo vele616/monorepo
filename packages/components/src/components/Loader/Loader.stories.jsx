@@ -1,6 +1,6 @@
 import React from "react";
 import Loader from "./index";
-import { ColorControl } from "../__controls/color";
+import { ColorControl } from "../../storybook/Controls/color";
 
 export default {
   title: "Components/Loader",

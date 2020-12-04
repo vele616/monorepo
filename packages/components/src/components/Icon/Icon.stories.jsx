@@ -1,7 +1,7 @@
 import React from "react";
 import Flexbox from "../Flexbox";
 import Icon from "./index";
-import { ColorControl } from "../__controls/color";
+import { ColorControl } from "../../storybook/Controls/color";
 
 export default {
   title: "Components/Icon",

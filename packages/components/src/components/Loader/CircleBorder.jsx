@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styles from "./index.module.scss";
-import { colors } from "../__controls/color";
+import { colors } from "../../storybook/Controls/color";
 
 const CircleBorder = ({ size, color, thickness }) => {
   return (

@@ -5,7 +5,7 @@ import styles from "./index.module.scss";
 import CroCoder from "./CroCoder";
 import Dots from "./Dots";
 import CircleBorder from "./CircleBorder";
-import { colors } from "../__controls/color";
+import { colors } from "../../storybook/Controls/color";
 
 /**
  *

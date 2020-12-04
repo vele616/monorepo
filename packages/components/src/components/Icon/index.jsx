@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Typography from "../Typography/index";
 import "../../assets/styles/icons.css";
-import { colors } from "../__controls/color";
+import { colors } from "../../storybook/Controls/color";
 
 /**
  * Basic component for rendering CroCoder icons.
