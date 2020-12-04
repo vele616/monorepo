@@ -6,6 +6,21 @@
   display: inline-block;
 }
 
+.centerParent {
+  position: absolute;
+}
+
+.centerScreen {
+  position: fixed;
+}
+
+.centerParent, .centerScreen {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 $duration: 4s;
 $function:  cubic-bezier(0.76, 0, 0.24, 1); //cubic-bezier(0.11, 0, 0.5, 0); //cubic-bezier(0.36, 0, 0.66, -0.56);
 
@@ -46,18 +61,81 @@ $function:  cubic-bezier(0.76, 0, 0.24, 1); //cubic-bezier(0.11, 0, 0.5, 0); //c
   transform-origin: 50% 50%;
 }
 
+.border {
+  animation: rotate 2s linear 0s infinite;
+  transform-origin: center;
+  stroke-dasharray: 200 40;
+
+  &__contrast {
+    animation: rotate 2s linear 0s infinite;
+    transform-origin: center;
+    stroke-dasharray: 40 340;
+    stroke-dashoffset: -200;
+  }
+}
+
+
+
 @keyframes rotate {
   0% {
     transform: rotate(0deg);
   }
-  20% {
-    transform: rotate(360deg);
-  }
-  50% {
-    transform: rotate(360deg);
-  }
   100% {
     transform: rotate(360deg);
+  }
+}
+
+@keyframes upDown {
+  0% {
+    transform: translateY(0%);
+  }
+  30% {
+    
+    transform: translateY(100%);
+  }
+  60% {
+    
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes dotsPulse {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  40% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0);
+  }
+}
+
+$dot_duration: 1.5s;
+$dot_function: linear;
+
+.dot {
+  &__first {
+    transform-origin: right center;
+    animation: dotsPulse #{$dot_duration} #{$dot_function} 0.4s infinite;
+  }
+  &__second {
+    transform-origin: center;
+    animation: dotsPulse #{$dot_duration} #{$dot_function} 0.2s infinite;
+  }
+  &__third {
+    transform-origin: left center;
+    animation: dotsPulse #{$dot_duration} #{$dot_function} 0s infinite;
   }
 }
 
@@ -66,8 +144,18 @@ $function:  cubic-bezier(0.76, 0, 0.24, 1); //cubic-bezier(0.11, 0, 0.5, 0); //c
 @each $name, $value in $colors {
   .#{$name} {
     overflow: visible;
-    path {
+    path, circle {
       fill: $value;
+      stroke: $value;
+    }
+
+    .border__contrast {
+      stroke: map-get($contrasts, $name);
+      fill: transparent;
+    }
+    .border {
+      stroke: $value;
+      fill: transparent;
     }
   }
 }

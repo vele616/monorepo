@@ -1,10 +1,14 @@
 import React from "react";
 import Flexbox from "../Flexbox";
 import Icon from "./index";
+import { ColorControl } from "../__controls/color";
 
 export default {
   title: "Components/Icon",
   component: Icon,
+  argTypes: {
+    color: ColorControl,
+  },
 };
 
 export const Story1 = (args) => <Icon {...args} />;
