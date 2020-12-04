@@ -37,12 +37,18 @@ const IndexPage = ({ data }) => {
       <JobSection title="Software Developer Jobs">
         <DevJobListLimit12 />
         {softwareJobsNumber > 12 && (
-          <StyledLink
-            className={'link--secondary'}
-            to="/software-developer-jobs"
-          >
-            {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
-          </StyledLink>
+          <div style={{
+            width: "100%",
+            justifyContent: "center",
+            display: "flex",
+          }}>
+            <StyledLink
+              className={'link--secondary'}
+              to="/software-developer-jobs"
+            >
+              {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
+            </StyledLink>
+          </div>
         )}
       </JobSection>
 
@@ -52,9 +58,15 @@ const IndexPage = ({ data }) => {
       <JobSection title="Other IT Related Jobs">
         <OtherJobListLimit12 />
         {otherJobsNumber > 12 && (
-          <StyledLink className={'link--secondary'} to="/other-it-jobs">
-            {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
-          </StyledLink>
+          <div style={{
+            width: "100%",
+            justifyContent: "center",
+            display: "flex",
+          }}>
+            <StyledLink className={'link--secondary'} to="/other-it-jobs">
+              {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
+            </StyledLink>
+          </div>
         )}
       </JobSection>
       <Banner />
