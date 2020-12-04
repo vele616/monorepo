@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cobbleweb"
 companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_source=recruitee"
 summary: "CobbleWeb is looking for a senior full stack js developer that has experience with REST APIs."
 summaryBackup: "Love #reactjs, #expressjs, #nodejs? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Job description

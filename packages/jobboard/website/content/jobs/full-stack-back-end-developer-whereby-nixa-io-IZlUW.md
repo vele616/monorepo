@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "If you have you have experience working with a software product in a startup or in a company that values innovation, great user experiences and technical quality, Nixa.io is looking for someone with your skillset."
 summaryBackup: "To apply as a full-stack at Nixa.io, you preferably need to have some knowledge of: #management, #devsec, #ui/ux."
-featured: 0
+featured: 2
 ---
 
 ## Description

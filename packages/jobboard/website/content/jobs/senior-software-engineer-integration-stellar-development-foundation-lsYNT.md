@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-de
 companyWebsite: "https://www.stellar.org/"
 summary: "To apply as a senior software engineer at Stellar Development Foundation, you preferably need to have 5+ years real-world experience developing or implementing software within enterprise networks."
 summaryBackup: "To apply as a senior software engineer at Stellar Development Foundation, you preferably need to have some knowledge of: #ui/ux, #javascript, #python."
-featured: 0
+featured: 5
 ---
 
 **Open to considering remote candidates in the US & Canada**

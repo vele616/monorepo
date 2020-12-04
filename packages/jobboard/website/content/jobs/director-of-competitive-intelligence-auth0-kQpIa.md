@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Auth0 is looking for a director of competitive intelligence that has 8+ years of technology experience in SaaS Enterprise Software within the Identity and/or Security industries."
 summaryBackup: "Love #sales, #marketing, #devsec? Check out this job post!"
-featured: 0
+featured: 20
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 

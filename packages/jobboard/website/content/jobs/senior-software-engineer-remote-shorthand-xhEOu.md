@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shorthand"
 companyWebsite: "https://shorthand.freshteam.com/jobs"
 summary: "Shorthand wishes to hire a new senior software engineer. If you have 5 years of experience in Software Engineering roles, consider applying."
 summaryBackup: "Shorthand is looking for a senior software engineer that has experience in: #javascript, #nodejs, #typescript."
-featured: 20
+featured: 0
 ---
 
 ## The Opportunity

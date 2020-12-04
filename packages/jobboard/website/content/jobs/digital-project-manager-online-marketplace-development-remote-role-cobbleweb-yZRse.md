@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cobbleweb"
 companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_source=recruitee"
 summary: "To apply as a digital project manager at CobbleWeb, you preferably need to have 7+ years experience of managing digital projects."
 summaryBackup: "CobbleWeb is looking for a digital project manager that has experience in: #management, #scrum, #css."
-featured: 0
+featured: 5
 ---
 
 ## Job description

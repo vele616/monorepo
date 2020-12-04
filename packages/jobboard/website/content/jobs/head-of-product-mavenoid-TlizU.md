@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "If you have ensure consistency and quality in the user experience of the product, Mavenoid is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #branding, #management? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Job description

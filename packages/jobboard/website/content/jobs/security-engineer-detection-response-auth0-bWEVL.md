@@ -7,12 +7,12 @@ url: "https://jobs.lever.co/auth0/5a39d4c0-05ac-4ae5-8155-2c838dfc5a5b"
 applyUrl: "https://jobs.lever.co/auth0/5a39d4c0-05ac-4ae5-8155-2c838dfc5a5b/apply"
 timestamp: 1606953600000
 hashtags: "#devsec,#analysis,#linux,#aws,#branding,#management,#office,#operations,#monitoring,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "If you have 3-5 years working in a high-demand security team, Auth0 has a job opening for a security engineer"
 summaryBackup: "Excited about #devsec, #analysis, #linux? Check out this job post!"
-featured: 0
+featured: 20
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 

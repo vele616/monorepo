@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is looking for a nlp engineer that has experience in: #python, #pytorch, #tensorflow."
 summaryBackup: "Excited about #python, #pytorch, #tensorflow? Check out this job post!"
-featured: 0
+featured: 3
 ---
 
 ## Job description

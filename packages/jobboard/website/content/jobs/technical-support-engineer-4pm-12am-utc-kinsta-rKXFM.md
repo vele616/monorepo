@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kinsta"
 companyWebsite: "https://kinsta.com/"
 summary: "If you are completely fluent in English with excellent written communication skills, consider applying to Kinsta's job post for a new technical support engineer."
 summaryBackup: "Love #wordpress, #php, #linux? Check out this job post!"
-featured: 17
+featured: 3
 ---
 
 ## Description

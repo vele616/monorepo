@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "If you have you have previous experience with leading a high performing marketing or demand generation team, Mavenoid is looking for someone with your knowledge."
 summaryBackup: "Mavenoid is looking for a head of demand generation that has experience in: #marketing, #sales, #content."
-featured: 19
+featured: 1
 ---
 
 ## Job description

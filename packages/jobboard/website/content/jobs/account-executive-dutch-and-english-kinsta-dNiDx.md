@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kinsta"
 companyWebsite: "https://kinsta.com/"
 summary: "If you have 1-2 years of experience as an Account Executive in software sales, consider applying to Kinsta's job post for a new account executive."
 summaryBackup: "To apply as an account executive at Kinsta, you preferably need to have some knowledge of: #sales, #accountant, #wordpress."
-featured: 15
+featured: 5
 ---
 
 ## Description

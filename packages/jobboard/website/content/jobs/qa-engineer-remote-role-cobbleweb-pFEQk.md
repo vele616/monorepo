@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cobbleweb"
 companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_source=recruitee"
 summary: "If you have 3+ years experience as a QA Engineer, CobbleWeb is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #javascript, #css? Check out this job post!"
-featured: 12
+featured: 6
 ---
 
 ## Job description

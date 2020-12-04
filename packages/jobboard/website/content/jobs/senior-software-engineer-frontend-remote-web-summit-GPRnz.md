@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit
 companyWebsite: "https://websummit.com/"
 summary: "If you have at Web Summit we believe that the power of data and engineering can be applied to every facet of our events to make the attendee experience excellent, so whatever projects you work on you’ll work closely with our UX engineers, data scientists, engineers and web developers across all our conferences, consider applying to Web Summit's job post for a new senior software engineer."
 summaryBackup: "Web Summit is looking for a senior software engineer that has experience in: #javascript, #reactjs, #typescript."
-featured: 15
+featured: 5
 ---
 
 **About us:**

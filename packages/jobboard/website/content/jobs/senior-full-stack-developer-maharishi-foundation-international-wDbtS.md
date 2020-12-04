@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/maharishi-
 companyWebsite: "https://mfi.bamboohr.com/jobs/"
 summary: "If you have 3-5 years of testing and deploying code in a large scale production environment, consider applying to Maharishi Foundation International's job post for a new senior full stack developer."
 summaryBackup: "Excited about #reactjs, #swift, #objectivec? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## About Us

@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Excited about experience in: #python, #pytorch, #tensorflow? Check out this job post!"
 summaryBackup: "To apply as an ai at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
-featured: 19
+featured: 1
 ---
 
 ## Job description

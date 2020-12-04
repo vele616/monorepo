@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Love #marketing, #sales, #branding? Check out this job post!"
 summaryBackup: "Love #marketing, #sales, #branding? Check out this job post!"
-featured: 19
+featured: 1
 ---
 
 ## Job description

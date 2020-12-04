@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
 summary: "Mobymax is looking for a remote fullstack developer that has the position requires a developer with experience and expertise building modern web applications and mobile web apps using the latest back."
 summaryBackup: "Mobymax is looking for a remote fullstack developer that has experience in: #php, #reactjs, #studentjob."
-featured: 18
+featured: 2
 ---
 
 ## About Us

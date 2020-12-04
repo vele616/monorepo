@@ -12,7 +12,7 @@ jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as an associate support community moderator at Current Job Openings at Netlify, you preferably need to have some knowledge of: experience in: #content, #socialmedia, #management."
 summaryBackup: "Current Job Openings at Netlify is looking for an associate support community moderator that has experience in: #content, #socialmedia, #management."
-featured: 15
+featured: 5
 ---
 
 ## Company Overview

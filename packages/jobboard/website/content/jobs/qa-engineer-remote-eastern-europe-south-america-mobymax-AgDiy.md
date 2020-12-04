@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
 summary: "Mobymax wishes to hire a new qa engineer. If you have experience working in software or software development, particularly edtech, consider applying."
 summaryBackup: "Love #studentjob, #javascript, #ui/ux? Check out this job post!"
-featured: 16
+featured: 4
 ---
 
 About Us

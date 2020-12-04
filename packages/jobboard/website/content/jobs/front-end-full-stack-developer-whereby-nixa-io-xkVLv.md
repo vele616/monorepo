@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io intends to hire a new frontend developer. If you have 3-5+ years of experience as a software engineer, consider applying."
 summaryBackup: "Nixa.io is looking for a front-end that has experience in: #javascript, #management, #ui/ux."
-featured: 17
+featured: 3
 ---
 
 ## Description

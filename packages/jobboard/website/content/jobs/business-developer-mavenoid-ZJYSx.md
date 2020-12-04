@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is looking for a business developer that has 1 year of experience in B2B sales or business development."
 summaryBackup: "Love #accountant, #sales, #branding? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Job description

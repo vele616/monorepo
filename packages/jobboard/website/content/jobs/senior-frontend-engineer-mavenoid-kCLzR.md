@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "If you have excellent understanding of Javascript and its ecosystem, Mavenoid is looking for someone with your knowledge."
 summaryBackup: "Mavenoid is looking for a senior frontend engineer that has experience in: #nodejs, #python, #typescript."
-featured: 15
+featured: 5
 ---
 
 ## Job description

@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit
 companyWebsite: "https://websummit.com/"
 summary: "Web Summit is searching for a senior backend engineer that has 5+ years of commercial experience in an OOP language."
 summaryBackup: "Excited about #python, #java, #kotlin? Check out this job post!"
-featured: 10
+featured: 7
 ---
 
 **About us:**

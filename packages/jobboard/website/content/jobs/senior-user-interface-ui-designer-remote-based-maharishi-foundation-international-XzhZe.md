@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/maharishi-
 companyWebsite: "https://mfi.bamboohr.com/jobs/"
 summary: "Love #ui/ux, #marketing, #branding? Check out this job post!"
 summaryBackup: "Love #ui/ux, #marketing, #branding? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## About Us

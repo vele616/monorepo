@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
 summary: "GitBook is looking for a product engineer that has experience in: #reactjs, #nodejs, #typescript."
 summaryBackup: "To apply as a product engineer at GitBook, you preferably need to have some experience in: #reactjs, #nodejs, #typescript."
-featured: 8
+featured: 6
 ---
 
 [GitBook](https://www.gitbook.com/) is a **modern documentation platform** sustained by some of the best SaaS europeans VCs (Point 9 Capital, Notion Capital, Fly VC). Our ambition is to **empower team's intelligence.** We want to help **teams work more efficiently** by creating a single place to leverage their knowledge.

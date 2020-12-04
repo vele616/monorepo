@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kodify"
 companyWebsite: "https://kodify.io/"
 summary: "To apply as a site reliability engineer at Kodify, you preferably need to have some knowledge of: #javascript, #reactjs, #nodejs."
 summaryBackup: "To apply as a site reliability engineer at Kodify, you preferably need to have some knowledge of: #javascript, #reactjs, #nodejs."
-featured: 20
+featured: 0
 ---
 
 ## Job description

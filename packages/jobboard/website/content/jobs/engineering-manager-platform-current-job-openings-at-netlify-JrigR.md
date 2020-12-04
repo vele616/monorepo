@@ -12,7 +12,7 @@ jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Current Job Openings at Netlify intends to hire a new engineering manager. If you have experience working and managing remote teams is a big plus, consider applying."
 summaryBackup: "Excited about #management, #golang, #rustlang? Check out this job post!"
-featured: 19
+featured: 1
 ---
 
 ## Company Overview

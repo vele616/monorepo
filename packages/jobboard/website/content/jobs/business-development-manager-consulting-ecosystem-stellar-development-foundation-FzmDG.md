@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-de
 companyWebsite: "https://www.stellar.org/"
 summary: "If you have 3+ years of experience working in business development and / or growing a business as a founder, especially in highly technical industries, consider applying to Stellar Development Foundation's job post for a new business development manager."
 summaryBackup: "To apply as a business development manager at Stellar Development Foundation, you preferably need to have some knowledge of: #accountant, #marketing, #finance."
-featured: 18
+featured: 2
 ---
 
 **Open to considering remote candidates in the US and Canada**

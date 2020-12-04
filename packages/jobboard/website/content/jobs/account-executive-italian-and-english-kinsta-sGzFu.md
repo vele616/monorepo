@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kinsta"
 companyWebsite: "https://kinsta.com/"
 summary: "Kinsta is searching for an account executive that has 1-2 years of experience as an Account Executive in software sales."
 summaryBackup: "Excited about #sales, #accountant, #wordpress? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Description

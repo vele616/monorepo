@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
 summary: "Have experience in: #sales, #management, #office? Check out this job post!"
 summaryBackup: "Excited about #sales, #accountant, #studentjob? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 MobyMax is the most widely adopted edtech platform in the U.S. Millions of students use Moby every day to catch up to grade level, close learning gaps, or to move ahead of their class at their own pace. Join us; we’re transforming the way children learn, and we’re doing it in our slippers.
