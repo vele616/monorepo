@@ -107,10 +107,6 @@ exports.exec = async (event) => {
       )
     );
 
-    const createdAt = timestamp - (timestamp % 86400000);
-
-    console.log(timestamp, createdAt, timestamp % 86400000);
-
     const result = await Promise.all(
       urls.map((jobUrl) => {
         return client
@@ -122,7 +118,7 @@ exports.exec = async (event) => {
             ExpressionAttributeValues: {
               ":companyName": companyName,
               ":host": url,
-              ":createdAt": createdAt,
+              ":createdAt": timestamp,
               ":updatedAt": timestamp,
               ":published": false,
               ":crawlable": true,

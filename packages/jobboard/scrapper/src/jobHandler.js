@@ -149,7 +149,7 @@ exports.exec = async (event) => {
         host,
         result.url,
         result.applyUrl,
-        timestamp,
+        timestamp - (timestamp % 86400000),
         result.content,
         hashtags,
         jobType,
