@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Interested in new opportunities and have 3+ years of experience as a Product Manager in a technology company? Hometime has a job opening for a technical product manager."
 summaryBackup: "Hometime is looking for a technical product manager that has experience in: #ui/ux, #marketing, #management."
-featured: 20
+featured: 10
 ---
 
 ## About Hometime:
