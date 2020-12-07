@@ -1,16 +1,16 @@
 ---
-title: "Business Development Manager (Remote/Europe)"
-location: "United Kingdom"
+title: "Business Development Manager"
+location: "United Kingdom or Remote"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/E2AAE9D0DF/"
 applyUrl: "https://apply.workable.com/primer-api/j/E2AAE9D0DF/apply/"
 timestamp: 1607299200000
-hashtags: "#sales,#management,#windows,#analysis"
+hashtags: "#sales,#management,#communication,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
-summary: "Primer wishes to hire a new business development manager. If you have experience in/understanding of payments is highly desirable, consider applying."
+summary: "Primer wishes to hire a new business development manager with experience in B2B enterprise sales."
 summaryBackup: "To apply as a business development manager at Primer, you preferably need to have some knowledge of: #sales, #management, #windows."
 featured: 20
 ---
