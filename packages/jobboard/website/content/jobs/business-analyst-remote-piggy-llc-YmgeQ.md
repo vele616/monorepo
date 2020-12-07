@@ -1,12 +1,12 @@
 ---
-title: "Business Analyst - Remote"
-location: "London, GB - Remote OK"
+title: "Business Analyst"
+location: "London, GB or Remote"
 host: "https://piggy-llc.breezy.hr/"
 companyName: "piggy-llc"
 url: "https://piggy-llc.breezy.hr/p/7a9c3f2b0792-business-analyst-remote"
 applyUrl: "https://piggy-llc.breezy.hr/p/7a9c3f2b0792-business-analyst-remote/apply"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#management,#operations,#translation,#analysis,#office,#optimization,#English"
+hashtags: "#analysis,#datamanagement,#innovation,#ui/ux,#management,#operations,#translation,#office,#optimization,#English"
 jobType: "other"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
