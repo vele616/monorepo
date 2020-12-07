@@ -6,13 +6,13 @@ companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=82&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=82&source=other"
 timestamp: 1607299200000
-hashtags: "#marketing,#operations,#content,#ui/ux,#management,#analysis"
+hashtags: "#analysis,#operations,#content,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
-summary: "Hometime is searching for a project manager that has improving property onboarding processes to streamline Partner operations and to enable a seamless Homeowner experience."
+summary: "Hometime is searching for a project manager that wants to improve property onboarding processes and enable a seamless Homeowner experience."
 summaryBackup: "Excited about #marketing, #operations, #content? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## About Hometime
