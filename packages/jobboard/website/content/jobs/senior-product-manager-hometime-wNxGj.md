@@ -6,13 +6,13 @@ companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=77&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=77&source=other"
 timestamp: 1607299200000
-hashtags: "#operations,#marketing,#ui/ux,#management,#analysis"
+hashtags: "#management,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
-summary: "Hometime is looking for a senior product manager that has 5+ years experience as a Product Manager."
+summary: "Hometime is looking for a senior product manager that has 5+ years experience."
 summaryBackup: "To apply as a senior product manager at Hometime, you preferably need to have some knowledge of: #operations, #marketing, #ui/ux."
-featured: 20
+featured: 10
 ---
 
 ## About Hometime:
