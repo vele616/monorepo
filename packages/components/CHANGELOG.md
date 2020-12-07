@@ -2,6 +2,16 @@
 
 Here you can see what's new added, changed or fixed in which version of our component library.
 
+## 0.5.1.
+##### _Dec 7 2020_
+
+**TLDR**: Fixing Navigation style bug
+
+#### Bugfix
+
+- **Navigation**: had a issue with positioning of link children. [PR 333](https://github.com/crocoder-dev/monorepo/pull/333)
+
+
 ## 0.5.0
 
 ##### _Dec 7 2020_
