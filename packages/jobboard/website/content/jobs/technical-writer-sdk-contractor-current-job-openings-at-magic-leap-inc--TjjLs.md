@@ -11,7 +11,7 @@ jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. wishes to hire a new technical writer. If you have 5+ years of experience as a technical writer required, consider applying."
-summaryBackup: "To apply as a technical writer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #content, #css, #html."
+summaryBackup: "To apply as a technical writer at Magic Leap, Inc., you preferably need to have some knowledge of: #content, #css, #html."
 featured: 20
 ---
 
