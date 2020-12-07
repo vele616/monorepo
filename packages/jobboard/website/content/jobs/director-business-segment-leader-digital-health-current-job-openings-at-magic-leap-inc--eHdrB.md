@@ -50,5 +50,3 @@ Owns entire product life cycle management for their products and segment.
 ## Additional Information
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
-
-#LI-TW1
