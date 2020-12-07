@@ -75,4 +75,6 @@ $card__padding: (
 :export {
   cardContentMaxWidth: $card__content--max-width;
   sectionContentMaxWidth: $section__content--max-width;
+  sectionPadding: (map-get($section__padding, "desktop") ";" map-get($section__padding, "tabletLandscape") ";" map-get($section__padding, "tabletPortrait") ";" map-get($section__padding, "mobile") ";" map-get($section__padding, "mobileMini"));
+  cardPadding: (map-get($card__padding, "desktop") ";" map-get($card__padding, "tabletLandscape") ";" map-get($card__padding, "tabletPortrait") ";" map-get($card__padding, "mobile") ";" map-get($card__padding, "mobileMini"));
 }

@@ -2,14 +2,14 @@
 title: "Marketing Campaign Manager"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4974327002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4974327002#app"
 timestamp: 1606953600000
 hashtags: "#marketing,#management,#branding,#sales,#content,#analytics,#ui/ux,#git,#figma,#office"
 jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify wishes to hire a new marketing campaign manager. If you have 5+ years work experience, consider applying."
+summary: "Netlify wishes to hire a new marketing campaign manager. If you have 5+ years work experience, consider applying."
 summaryBackup: "Excited about #management, #marketing, #sales? Check out this job post!"
 featured: 20
 ---

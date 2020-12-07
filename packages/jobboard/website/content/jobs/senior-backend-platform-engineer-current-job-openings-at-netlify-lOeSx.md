@@ -2,7 +2,7 @@
 title: "Senior Backend Platform Engineer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4816434002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4816434002#app"
 timestamp: 1606953600000
@@ -11,7 +11,7 @@ jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Love experience in: #rustlang, #golang, #javascript? Check out this job post!"
-summaryBackup: "To apply as a senior backend platform engineer at Current Job Openings at Netlify, you preferably need to have some knowledge of: #rustlang, #golang, #javascript."
+summaryBackup: "To apply as a senior backend platform engineer at Netlify, you preferably need to have some knowledge of: #rustlang, #golang, #javascript."
 featured: 6
 ---
 

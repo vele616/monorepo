@@ -5,7 +5,7 @@ host: "https://jobs.lever.co/gitbook?location=Full-remote"
 companyName: "GitBook"
 url: "https://jobs.lever.co/gitbook/396af216-e8a1-41ec-b91f-30d64e44e02b"
 applyUrl: "https://jobs.lever.co/gitbook/396af216-e8a1-41ec-b91f-30d64e44e02b/apply"
-timestamp: 1606953600000
+timestamp: 1607299200000
 hashtags: "#reactjs,#nodejs,#typescript,#css,#management,#devsec,#firebase,#photoshop,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"

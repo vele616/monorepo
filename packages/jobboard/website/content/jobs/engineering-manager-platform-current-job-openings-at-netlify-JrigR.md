@@ -2,7 +2,7 @@
 title: "Engineering Manager"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4812118002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4812118002#app"
 timestamp: 1606953600000
@@ -10,7 +10,7 @@ hashtags: "#management,#golang,#rustlang,#rubylang,#ui/ux,#content,#accountant,#
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify intends to hire a new engineering manager. If you have experience working and managing remote teams is a big plus, consider applying."
+summary: "Netlify intends to hire a new engineering manager. If you have experience working and managing remote teams is a big plus, consider applying."
 summaryBackup: "Excited about #management, #golang, #rustlang? Check out this job post!"
 featured: 1
 ---

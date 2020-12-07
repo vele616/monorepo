@@ -2,15 +2,14 @@
 title: "Interaction Designer"
 location: "Plantation Fl, OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2518300"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2518300#app"
 timestamp: 1607299200000
 hashtags: "#ui/ux,#branding,#jira"
-jobType: "software"
-
+jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. intends to hire a new interaction designer. If you have 3-5 years in UX Design with at least 2 shipped projects with a full development cycle from concept through completion, consider applying."
+summary: "Magic Leap, Inc. intends to hire a new interaction designer. If you have 3-5 years in UX Design with at least 2 shipped projects with a full development cycle from concept through completion, consider applying."
 summaryBackup: "Love #ui/ux, #branding, #jira? Check out this job post!"
 featured: 10
 ---

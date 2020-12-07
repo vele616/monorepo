@@ -1,17 +1,17 @@
 ---
-title: "Lead Engineer, Applications R&D, Health"
+title: "Lead Engineer, Applications R&D"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2464663"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2464663#app"
 timestamp: 1607299200000
-hashtags: "#unity,#cplusplus,#ui/ux,#scrum,#content,#git,#translation,#management"
+hashtags: "#unity,#cplusplus,#scrum,#ui/ux,#content,#git,#translation,#management"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7+ years of industry experience implementing applications & services on mobile platforms, Current Job Openings at Magic Leap, Inc. has a job opening for a lead engineer"
-summaryBackup: "To apply as a lead engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #management, #unity."
+summary: "If you have 7+ years of industry experience implementing applications & services on mobile platforms, Magic Leap, Inc. has a job opening for a lead engineer"
+summaryBackup: "To apply as a lead engineer at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #management, #unity."
 featured: 10
 ---
 
