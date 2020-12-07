@@ -23,7 +23,7 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
           </Link>
         }
       >
-        <Link className={`${styles.aboutUs} link`} to="https://crocoder.dev/">
+        <a className={`${styles.aboutUs} link`} href="https://crocoder.dev/">
           About{' '}
           <Typography fontWeight={600}>
             <Typography fontWeight={600} color="primary">
@@ -31,7 +31,7 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
             </Typography>
             Coder
           </Typography>
-        </Link>
+        </a>
         <Link to="/post-a-job">
           <Button variant="secondary">Post a job</Button>
         </Link>

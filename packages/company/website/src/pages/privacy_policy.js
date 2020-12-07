@@ -1,5 +1,5 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, navigate } from "gatsby";
 import Layout from "../components/Layout";
 import PropTypes from "prop-types";
 import "@crocoder-dev/components/lib/main.css";
@@ -18,8 +18,17 @@ const PrivacyPolicy = ({ data }) => {
     changes,
     contact,
   } = data.privacypolicyJson;
+
+  const scrollToContactUs = () => {
+    navigate("/", {
+      state: {
+        scroll: true,
+      },
+    });
+  };
+
   return (
-    <Layout pageTitle="Privacy policy">
+    <Layout scrollToContactUs={scrollToContactUs} pageTitle="Privacy policy">
       <Section style={{ paddingTop: 0, paddingBottom: "20px" }}>
         <Typography fontSize={34} element="h1" color="gray_2">
           {title}

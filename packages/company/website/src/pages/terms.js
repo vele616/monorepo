@@ -4,13 +4,23 @@ import Layout from "../components/Layout";
 import PropTypes from "prop-types";
 import "@crocoder-dev/components/lib/main.css";
 import { Typography, Section } from "@crocoder-dev/components";
+import { navigate } from "gatsby";
 
 const lineHeight = { lineHeight: "1.8" };
 
 const Terms = ({ data }) => {
   const { content, title, license, links, contact } = data.termsJson;
+
+  const scrollToContactUs = () => {
+    navigate("/", {
+      state: {
+        scroll: true,
+      },
+    });
+  };
+
   return (
-    <Layout pageTitle="Terms of use">
+    <Layout pageTitle="Terms of use" scrollToContactUs={scrollToContactUs}>
       <Section style={{ paddingTop: 0, paddingBottom: "20px" }}>
         <Typography fontSize={34} element="h1" color="gray_2">
           {title}
