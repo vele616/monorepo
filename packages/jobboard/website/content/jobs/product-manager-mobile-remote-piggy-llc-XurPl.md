@@ -1,5 +1,5 @@
 ---
-title: "Product Manager - Mobile (Remote)"
+title: "Product Manager - Mobile"
 location: "London, GB - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
 companyName: "piggy-llc"
@@ -12,7 +12,7 @@ jobType: "other"
 companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Interested in new opportunities and have 5+ years experience as a mobile app product manager? Piggy-llc has a job opening for a product manager."
 summaryBackup: "Piggy-llc is looking for a product manager that has experience in: #management, #marketing, #analysis."
-featured: 20
+featured: 3
 ---
 
 Piggy, a rapidly growing company best known for helping users save money through its automatic coupons and cashback offerings, is seeking a mobile product manager to join its team. The ideal candidate will have a proven experience working remotely, a keen eye for detail, outstanding and a team-oriented attitude, and a working knowledge of the affiliate industry.
