@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-import './index.scss';
+import styles from './index.module.scss';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
 import { Navigation, Button } from '@crocoder-dev/components';
@@ -23,6 +23,9 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
           </Link>
         }
       >
+        <Link className={`${styles.aboutUs} link`} to="https://crocoder.dev/">
+          About Us
+        </Link>
         <Link to="/post-a-job">
           <Button variant="secondary">Post a job</Button>
         </Link>
