@@ -2,17 +2,17 @@
 title: "Lead Systems Engineer, Graphics"
 location: "Plantation, FL, Sunnyvale, CA, Culver City, CA, Austin, TX, and Remotely"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2259450"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2259450#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#scrum,#office,#optimization"
-jobType: "other"
+hashtags: "#directX,#openGL,#c,#vulkan,#c++"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is looking for a lead systems engineer that has 2+ years of experience architecting rendering pipelines."
-summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a lead systems engineer that has experience in: #ui/ux, #scrum, #office."
-featured: 20
+summary: "Magic Leap, Inc. is seeking an experienced lead systems engineer with expertise in graphics development. "
+summaryBackup: "Magic Leap, Inc. is looking for a lead systems engineer that has experience in: #ui/ux, #scrum, #office."
+featured: 12
 ---
 
 ## Job Description
