@@ -1,12 +1,12 @@
 ---
-title: "Infrastructure Engineer (Remote)"
+title: "Infrastructure Engineer"
 location: "United Kingdom"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/AFF0F6F4AF/"
 applyUrl: "https://apply.workable.com/primer-api/j/AFF0F6F4AF/apply/"
 timestamp: 1607299200000
-hashtags: "#aws,#ui/ux,#python,#terraform,#kubernetes,#docker,#operations,#monitoring,#office"
+hashtags: "#aws,#python,#terraform,#kubernetes,#docker,#operations,#monitoring,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
