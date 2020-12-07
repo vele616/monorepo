@@ -10,7 +10,7 @@ hashtags: "#operations,#management,#marketing,#sales,#office,#French,#optimizati
 jobType: "other"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "If you have 3 years experience within a similar business support role, Piggy-llc is looking for someone with your skillset."
+summary: "Piggy is seeking a business operations analyst to join its exciting team of professionals. This role is specifically seeking individuals with native or very advanced levels of knowledge in French and English."
 summaryBackup: "To apply as a business operations analyst at Piggy-llc, you preferably need to have some knowledge of: #operations, #management, #marketing."
 featured: 20
 ---
