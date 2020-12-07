@@ -1,18 +1,18 @@
 ---
-title: "Principal Engineer, Algorithms and Deep Learning R&D, Health"
+title: "Principal Engineer, Algorithms and Deep Learning"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2511427"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2511427#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#python,#tensorflow,#git,#management,#translation,#analysis,#monitoring,#optimization"
+hashtags: "#python,#tensorflow,#optimization,#git,#management,#translation,#analysis,#monitoring"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 10+ years of industry experience as a software algorithm developer, researcher and/or data scientist, Current Job Openings at Magic Leap, Inc. has a job opening for a principal engineer"
+summary: "If you have 10+ years of industry experience as a software algorithm developer, researcher and/or data scientist, Magic Leap, Inc. has a job opening for a principal engineer"
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a principal engineer that has experience in: #ui/ux, #python, #tensorflow."
-featured: 20
+featured: 10
 ---
 
 ## Job Description
