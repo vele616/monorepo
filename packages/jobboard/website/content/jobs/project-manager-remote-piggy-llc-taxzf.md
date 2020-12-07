@@ -1,16 +1,16 @@
 ---
-title: "Project Manager - Remote"
-location: "London, GB - Remote OK"
+title: "Project Manager"
+location: "London, GB or Remote"
 host: "https://piggy-llc.breezy.hr/"
 companyName: "piggy-llc"
 url: "https://piggy-llc.breezy.hr/p/48809ae39ce2-project-manager-remote"
 applyUrl: "https://piggy-llc.breezy.hr/p/48809ae39ce2-project-manager-remote/apply"
 timestamp: 1607299200000
-hashtags: "#management,#windows,#jira,#scrum,#office"
+hashtags: "#management,#office,#jira,#scrum,#windows"
 jobType: "other"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "Piggy-llc is looking for a project manager that has proven experience working in an agile, sprint."
+summary: "Joinpiggy.com is looking for a project manager to work with our development team. The selected candidate can expect to work in a fast-paced environment with a growing company. Working hours will be European business hours."
 summaryBackup: "Love #management, #windows, #jira? Check out this job post!"
 featured: 20
 ---
