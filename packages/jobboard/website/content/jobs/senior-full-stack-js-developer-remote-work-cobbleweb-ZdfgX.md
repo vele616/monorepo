@@ -5,7 +5,7 @@ host: "https://cobbleweb.recruitee.com/"
 companyName: "CobbleWeb"
 url: "https://cobbleweb.recruitee.com/o/senior-full-stack-js-developer-remote-work"
 applyUrl: "https://cobbleweb.recruitee.com/o/senior-full-stack-js-developer-remote-work/c/new"
-timestamp: 1606953600000
+timestamp: 1607299200000
 hashtags: "#reactjs,#expressjs,#nodejs,#scrum,#docker,#management,#redis,#mongodb,#mysql,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cobbleweb"
