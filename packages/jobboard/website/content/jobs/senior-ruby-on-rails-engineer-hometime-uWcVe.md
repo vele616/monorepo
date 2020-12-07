@@ -6,13 +6,13 @@ companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=15&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=15&source=other"
 timestamp: 1607299200000
-hashtags: "#rails,#rubylang,#operations,#marketing,#javascript,#reactjs,#nodejs,#ui/ux,#branding,#git"
+hashtags: "#rails,#rubylang,#reactjs,#operations,#marketing,#javascript,#nodejs,#ui/ux,#branding,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "If you have experience with using React with Rails, Hometime is looking for someone with your knowledge."
 summaryBackup: "Excited about #rails, #rubylang, #operations? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## About Hometime:
