@@ -2,11 +2,11 @@
 title: "Senior Software Engineer, Voice Input"
 location: "Plantation, FL; Sunnyvale, CA; Toronto, ON; Austin, TX; Seattle, WA; Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2129850"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2129850#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#nodejs,#python,#linux,#android,#operations"
+hashtags: "#cplusplus,#nodejs,#python,#linux,#android,#operations"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
