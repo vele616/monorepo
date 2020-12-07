@@ -1,17 +1,17 @@
 ---
-title: "Business Development Manager (Remote/Singapore)"
-location: "Singapore"
+title: "Business Development Manager"
+location: "Singapore or Remote"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/6B9ACF095B/"
 applyUrl: "https://apply.workable.com/primer-api/j/6B9ACF095B/apply/"
 timestamp: 1607299200000
-hashtags: "#sales,#management,#windows,#analysis"
+hashtags: "#sales,#management,#communcation,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
-summary: "If you have experience in/understanding of payments is highly desirable, Primer is looking for someone with your skillset."
-summaryBackup: "Love #sales, #management, #windows? Check out this job post!"
+summary: "Primer is looking for business development manager who is able to understand a complex, challenging problem and get to grips with it quickly with experience in B2B enterprise sales."
+summaryBackup: "Love #sales, #management, #communcation? Check out this job post!"
 featured: 20
 ---
 
