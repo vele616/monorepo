@@ -1,0 +1,141 @@
+@import "@crocoder-dev/components/lib/scss/main.module.scss";
+
+$padding-top-image: 100px;
+$padding-top-content: 80px;
+
+.card {
+  background-color: transparent;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  overflow: visible;
+
+  @include mediaQuery("<=950px") {
+    margin: 0px;
+  }
+
+
+  @include mediaQuery(">800px", "<=desktop") {
+    flex-basis: 45%;
+    margin: 0;
+  }
+
+  & > div:last-child {
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: $padding-top-image;
+    flex-grow: 1;
+    @include mediaQuery("<=desktop") {
+      padding-top: 20px;
+    }
+  }
+
+  & > div:first-child {
+    height: 200px;
+    box-sizing: border-box;
+    top: $padding-top-content;
+    background-color: transparent;
+    flex-grow: 0;
+    flex-shrink: 0;
+    @include mediaQuery("<=desktop") {
+      top: 10px;
+    }
+  }
+
+  &__image {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  &:first-child > :first-child {
+    padding-top: 77%;
+
+    &>div {
+      top: 100px;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+
+      @include mediaQuery("<800px") {
+        top: 120px;
+      }
+    }
+  }
+  &:nth-child(2) > :first-child {
+    padding-top: 77%;
+    &>div {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+
+    @include mediaQuery("<450px") {
+      top: 30px;
+    }
+  }
+  &:nth-child(3) > :first-child {
+    padding-top: 77%;
+    @include mediaQuery("<800px") {
+      padding-top: 60%;
+    }
+    &>div {
+      top: 55px;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+
+      @include mediaQuery("<800px") {
+        top: 0px;
+      }
+    }
+  }
+
+  &__title {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+}
+
+.paragraph {
+  line-height: 1.8;
+  margin-top: 25px;
+  em {
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+
+.section {
+  padding-top: 0;
+  width: 100%;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 1300px;
+  width: 90%;
+  position: relative;
+  top: -80px;
+
+  align-items: stretch;
+
+  @include mediaQuery(">800px", "<=desktop") {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  @include mediaQuery("<=800px") {
+    flex-direction: column;
+    max-width: 400px;
+  }
+
+  @include mediaQuery("<mobile") {
+    max-width: 100vw;
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "subscribe": {
+    "ALREADY_CONFIRMED": {
+      "ref": "ALREADY CONFIRMED",
+      "title": "We know this email",
+      "titleColor": "gray_2",
+      "image": "../images/newsletter-already-confirmed.png",
+      "subtitle": "ALREADY CONFIRMED",
+      "text": "We’re happy to see you’re excited to use our service, however we must let you know that you already subscribed with this email address and it has been confirmed before. Guess there is nothing more for you to do but to relax and wait for the next job opportunity!",
+      "buttonText": "BROWSE JOBS",
+      "buttonLinkTo": "/"
+    } ,
+    "SUCCESS": {
+      "ref": "SUCCESS",
+      "title": "You’re all set!",
+      "titleColor": "gray_2",
+      "image": "../images/newsletter-subscribe-success.png",
+      "subtitle": "successful subscribe",
+      "text": "You have successfully confirmed your email and are now subscribed to CroCoder’s newsletter. We’ll keep you posted on all interesting remote roles we find. Stay tuned!",
+      "buttonText": "BROWSE JOBS",
+      "buttonLinkTo": "/"
+    },
+    "DEFAULT": {
+      "ref": "ERROR",
+      "title": "We Have Error",
+      "titleColor": "negative",
+      "image": "../images/newsletter-error.png",
+      "subtitle": "subscribe error",
+      "text": "What this means is that we were unable to subscribe you to our service. We do apologise for the inconvenience and we would like you to try again. ",
+      "buttonText": "",
+      "buttonLinkTo": ""
+    } 
+  },
+  "unsubscribe": {
+    "SUCCESS": {
+      "ref": "SUCCESS",
+      "title": "We’re sad to see you leave!",
+      "titleColor": "negative",
+      "image": "../images/newsletter-successful-unsubscribe.png",
+      "subtitle": "successful Unsubscribe",
+      "text": "We’ve successfully unsubscribed you from our newsletter. You will not receive any emails with new job offers from us. If this was a mistake, you can subsrcibe again.",
+      "buttonText": "BROWSE JOBS",
+      "buttonLinkTo": "/"
+    },
+    "DEFAULT": {
+      "ref": "ERROR",
+      "title": "Cannot Unsubscribe",
+      "titleColor": "gray_2",
+      "image": "../images/newsletter-error.png",
+      "subtitle": "Unsubscribe error",
+      "text": "This is not us keeping you from unsubscribing, but something went wrong with our service. We are so sorry for the inconvenience, can you try again?",
+      "buttonText": "",
+      "buttonLinkTo": ""
+    } 
+  }
+}

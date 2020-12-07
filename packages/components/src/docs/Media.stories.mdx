@@ -1,0 +1,93 @@
+import { Meta } from '@storybook/addon-docs/blocks';
+import styles from '../styles/main.module.scss';
+
+<Meta title="Design System/Screen Size" />
+
+<style>{`
+  .subheading {
+    --mediumdark: '#999999';
+    font-weight: 900;
+    font-size: 13px;
+    color: #999;
+    letter-spacing: 6px;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    margin-top: 40px;
+  }
+
+  .color-display {
+    color: #424C6D;
+    margin: 10px;
+    cursor: pointer;
+    background: none;
+    padding: 0;
+    border: none;
+    position: relative;
+  }
+
+  .color-display:before {
+    content: "copied";
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: black;
+    font-weight:700;
+    visibility: hidden;
+    transition: all 1s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  .color-display:active:before {
+    visibility: visible;
+    transform: scale(1.4);
+  }
+
+  .color-display:focus {
+    outline: none;  
+  }
+  
+
+  .color-background {
+    height: 75px;
+    width: 75px;
+  }
+  .color-background:hover {
+    opacity: 0.9;
+  }
+  .color-display:focus .color-background  {
+    opacity: 0.9;
+    outline: 1px solid #47bbe0;
+  }
+`}</style>
+
+# Screen Sizes
+
+The component library understands several screen dimensions:
+- **desktop** : >= 1200px
+- **tabletLandscape** : >= 800px && <1200px
+- **tabletPortrait** : >= 600px && <800px
+- **mobile** : >= 320px && <600px
+
+These are available inside of storybook and exported as scss variables.
+In addition, you can use the `mediaQuery` mixin from the component library to
+write simple CSS media queries. Note that it can accept either the before mentioned 
+keys or an actual size in pixels.
+
+
+```scss
+// import our main scss before so it's accessable
+
+.exampleClass {
+  @include mediaQuery(">=350px", "tabletLandscape") {
+    color: blue;
+  }
+
+  @include mediaQuery(">desktop") {
+    color: red;
+  }
+}
+
+```
+
+**Note** that our maximum screen size is **1800px** - after that point you should see 
+no changes on our components.

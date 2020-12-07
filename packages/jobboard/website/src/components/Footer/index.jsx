@@ -1,60 +1,75 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
 import { Icon, Footer as FooterComponent } from '@crocoder-dev/components';
+import CrocNav from '../../images/croc-nav.svg';
 import styles from './index.module.scss';
 
-
-const Footer = ({ image, socialMedia }) => {
-
+const Footer = ({ image, socialMedia, sticky }) => {
   return (
     <FooterComponent
+      className={sticky ? styles.sticky : ''}
       logo={
-        <Img
-          fadeIn={false}
-          className={styles.image}
-          fluid={image ? image.childImageSharp.fluid : {}}
-          alt={'abc'}
-        />}
-      socialLinks={(
+        <Link to="/">
+          <div className={styles.image}><CrocNav /></div>
+        </Link>
+      }
+      socialLinks={
         <>
-          {socialMedia.map(mediaLink => (
-            <Link  className={styles.icon}  key={mediaLink.icon} href={mediaLink.link}>
+          {socialMedia.map((mediaLink) => (
+            <Link
+              className={styles.icon}
+              key={mediaLink.icon}
+              to={mediaLink.link}
+            >
               <Icon color="gray_1" icon={mediaLink.icon} />
             </Link>
           ))}
         </>
-      )}
+      }
     >
-      <Link style={{ color: 'inherit' }} className="link">Home</Link>
-      <Link style={{ color: 'inherit' }} className="link">Terms of use</Link>
-      <Link style={{ color: 'inherit' }} className="link">Privacy policy</Link>
+      <Link to="/" style={{ color: 'inherit' }} className="link">
+        Home
+      </Link>
+      <a
+        href="https://crocoder.dev/terms"
+        style={{ color: 'inherit' }}
+        className="link"
+      >
+        Terms of use
+      </a>
+      <a
+        href="https://crocoder.dev/privacy_policy"
+        style={{ color: 'inherit' }}
+        className="link"
+      >
+        Privacy policy
+      </a>
     </FooterComponent>
-  )
+  );
 };
 
-const FooterWithQuery = () => (
+const FooterWithQuery = ({ sticky }) => (
   <StaticQuery
     query={graphql`
-    query {
-      homeJson {
-        footer {
-          socialMedia {
-            link
-            icon
-          }
-          image {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
+      query {
+        homeJson {
+          footer {
+            socialMedia {
+              link
+              icon
+            }
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
         }
       }
-    }
-  `}
-    render={data => (<Footer {...data.homeJson.footer} />)}
+    `}
+    render={(data) => <Footer {...data.homeJson.footer} sticky={sticky} />}
   />
 );
 

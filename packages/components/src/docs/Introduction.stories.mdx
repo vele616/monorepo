@@ -49,16 +49,6 @@ import { Meta } from '@storybook/addon-docs/blocks';
     align-items: flex-start;
   }
 
-  .link-item:hover {
-    border-color: #1EA7FD50;
-    transform: translate3d(0, -3px, 0);
-    box-shadow: rgba(0, 0, 0, 0.08) 0 3px 10px 0;
-  }
-
-  .link-item:active {
-    border-color: #1EA7FD;
-    transform: translate3d(0, 0, 0);
-  }
 
   .link-item strong {
     font-weight: 700;
@@ -108,41 +98,28 @@ import { Meta } from '@storybook/addon-docs/blocks';
 
 # Welcome to CroCoder's component library!
 
+We have prepared some docs for you to checkout which are grouped into three main sections.
 
-
-<div class="subheading">Components</div>
+<div class="subheading">Sections</div>
 
 <div class="link-list">
-  <a class="link-item" href="https://storybook.js.org/docs/react/api/presets" target="_blank">
-  
+  <div class="link-item">
     <span>
-      <strong>Presets for popular tools</strong>
-      Easy setup for TypeScript, SCSS and more.
+      <strong>Design System</strong>
+      General definitions of our design system. Points developers to some basic scss variables and values to use when developing components.
     </span>
-  </a>
-  <a class="link-item" href="https://storybook.js.org/docs/react/configure/webpack" target="_blank">
-  
+  </div>
+   <div class="link-item">
     <span>
-      <strong>Build configuration</strong>
-      How to customize webpack and Babel
+      <strong>Components</strong>
+      Showcase of all components that we're exposing as part of the <code>@crocoder.dev/components</code> library.
     </span>
-  </a>
-  <a class="link-item" href="https://storybook.js.org/docs/react/configure/styling-and-css" target="_blank">
-   
+  </div>
+   <div class="link-item">
     <span>
-      <strong>Styling</strong>
-      How to load and configure CSS libraries
+      <strong>Examples</strong>
+      Complex examples of parts of web applications that include using multiple components at once.
     </span>
-  </a>
-  <a class="link-item" href="https://storybook.js.org/docs/react/get-started/setup#configure-storybook-for-your-stack" target="_blank">
-   
-    <span>
-      <strong>Data</strong>
-      Providers and mocking for data libraries
-    </span>
-  </a>
+  </div>
 </div>
 
-<div class="tip-wrapper">
-  <span class="tip">Tip</span>Edit the Markdown in <code>src/storybook-examples/welcome.mdx</code>
-</div>

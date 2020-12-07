@@ -1,5 +1,6 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
+.sticky {}
 
 .icon {
   background: $white;
@@ -15,7 +16,11 @@
 
 
 .image {
+  cursor: pointer;
   height: auto;
-  width: 100%;
-  min-width: 200px;
+  width: 225px;
+    
+  @include mediaQuery(">=mobile","<tabletPortrait"){
+    width: 200px;
+  }
 }

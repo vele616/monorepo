@@ -1,16 +1,17 @@
-import React from 'react';
-import { Motion, spring, presets } from 'react-motion';
-import PropTypes from 'prop-types';
+import React from "react";
+import { Motion, spring, presets } from "react-motion";
+import PropTypes from "prop-types";
 
 const Hamburger = ({ open, className }) => (
   <svg
+    aria-label="Hamburger Menu"
     className={className}
     viewBox="0 0 96 96"
     height="1em"
     style={{
-      overflow: 'visible',
-      cursor: 'pointer',
-      WebkitTapHighlightColor: 'rgba(0,0,0,0)',
+      overflow: "visible",
+      cursor: "pointer",
+      WebkitTapHighlightColor: "rgba(0,0,0,0)",
     }}
   >
     <Motion
@@ -28,16 +29,18 @@ const Hamburger = ({ open, className }) => (
           strokeLinejoin="round"
         >
           <line
-            transform={`translate(${x * 12}, ${x * -7}) rotate(${x *
-              45}, 7, 26)`}
+            transform={`translate(${x * 12}, ${x * -7}) rotate(${
+              x * 45
+            }, 7, 26)`}
             x1="7"
             y1="26"
             x2="89"
             y2="26"
           />
           <line
-            transform={`translate(${x * 12}, ${x * 7}) rotate(${x *
-              -45}, 7, 70)`}
+            transform={`translate(${x * 12}, ${x * 7}) rotate(${
+              x * -45
+            }, 7, 70)`}
             x1="7"
             y1="70"
             x2="89"
@@ -58,11 +61,12 @@ const Hamburger = ({ open, className }) => (
 );
 
 Hamburger.propTypes = {
-  open: PropTypes.boolean,
+  open: PropTypes.bool,
+  className: PropTypes.string,
 };
 
 Hamburger.defaultProps = {
   open: false,
-}
+};
 
 export default Hamburger;

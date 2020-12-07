@@ -8,7 +8,7 @@
   },
   "description": "A basic component library of the CroCoder team",
   "author": "CroCoder Dev Team",
-  "version": "0.3.0",
+  "version": "0.5.1",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -16,15 +16,61 @@
   },
   "scripts": {
     "build": "webpack --mode=production",
-    "storybook": "start-storybook -s ./src/assets -p 6006 ",
     "build-storybook": "build-storybook",
-    "start": "yarn storybook"
+    "start": "yarn storybook",
+    "storybook": "start-storybook -s ./src/assets -p 6006 ",
+    "test": "jest",
+    "test:update": "jest --updateSnapshot",
+    "test:watch": "jest --watchAll",
+    "test:visuals": "jest --testPathPattern='__visuals__' --testPathIgnorePatterns=[]",
+    "test:visuals:update": "jest --testPathPattern='__visuals__' --testPathIgnorePatterns=[] -u"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": [
+      "airbnb",
+      "prettier",
+      "prettier/react",
+      "plugin:react-hooks/recommended"
+    ],
+    "plugins": [
+      "jest"
+    ],
+    "env": {
+      "jest/globals": true,
+      "browser": true
+    },
+    "rules": {
+      "react/require-default-props": [
+        2,
+        {
+          "forbidDefaultForRequired": false,
+          "ignoreFunctionalComponents": true
+        }
+      ],
+      "react/button-has-type": [
+        0
+      ],
+      "react/jsx-props-no-spreading": [
+        0
+      ]
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --pattern \"**/*.*(js|jsx|css)\" --staged && yarn test"
+    }
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "identity-obj-proxy",
+      "\\.(css|scss)$": "identity-obj-proxy"
+    },
+    "testPathIgnorePatterns": [
+      "__visuals__"
+    ]
   },
   "babel": {
     "presets": [
@@ -52,33 +98,56 @@
     "@storybook/addon-actions": "^6.0.26",
     "@storybook/addon-essentials": "^6.0.26",
     "@storybook/addon-links": "^6.0.26",
+    "@storybook/addon-storyshots": "^6.0.28",
+    "@storybook/addon-storyshots-puppeteer": "^6.0.28",
     "@storybook/addons": "^6.0.26",
     "@storybook/react": "^6.0.26",
     "@storybook/theming": "^6.0.26",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
+    "@testing-library/dom": "^7.26.5",
+    "@testing-library/jest-dom": "^5.11.5",
+    "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^7.1.2",
     "babel-loader": "^8.1.0",
     "copy-webpack-plugin": "^6.2.1",
     "css-loader": "^4.3.0",
     "eslint": "^7.10.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^6.15.0",
     "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "file-loader": "^6.1.0",
+    "husky": "^4.3.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.6.3",
+    "jest-image-snapshot": "^4.2.0",
+    "jest-styled-components": "^7.0.3",
     "mini-css-extract-plugin": "^0.12.0",
     "node-sass": "^4.14.1",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
-    "postcss-normalize": "^9.0.0",
-    "postcss-preset-env": "^6.7.0",
+    "postcss-flexbugs-fixes": "4.2.1",
+    "postcss-normalize": "8.0.1",
+    "postcss-preset-env": "6.7.0",
+    "prettier": "2.1.2",
+    "pretty-quick": "^3.1.0",
+    "puppeteer": "^5.4.1",
     "react-is": "^16.13.1",
+    "react-test-renderer": "^17.0.1",
     "resolve-url-loader": "^3.1.1",
     "sass-loader": "^10.0.2",
     "style-loader": "^1.3.0",
     "styled-components": "^5.2.0",
-    "webpack": "^4.44.2",
+    "terser-webpack-plugin": "4.2.3",
+    "webpack": "4.44.2",
     "webpack-bundle-analyzer": "^3.9.0",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2",
     "react-motion": "^0.5.2"
   }
 }

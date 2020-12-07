@@ -19,6 +19,7 @@ $gray_8: #504040;
 $gray_9: #340E0D;
 $gray_10: #726666;
 $gray_11: #71768B;
+$gray_12: #828282;
 
 $green_1: #539500;
 $green_2: #67A807;
@@ -114,6 +115,7 @@ $colors: (
   "gray_9": $gray_9,
   "gray_10": $gray_10,
   "gray_11": $gray_11,
+  "gray_12": $gray_12,
   "green_1": $green_1,
   "green_2": $green_2,
   "green_4": $green_4,
@@ -176,6 +178,7 @@ $contrasts: (
   "gray_9": $red_4,
   "gray_10": $gray_5,
   "gray_11": $white,  // (4.5)
+  "gray_12": $gray_5, 
 
   "green_1": $gray_7, // (4.65)
   "green_2": $gray_7, // (5.9)
@@ -237,6 +240,7 @@ $contrasts: (
   gray_9: $gray_9;
   gray_10: $gray_10;
   gray_11: $gray_11;
+  gray_12: $gray_12;
   green_1: $green_1;
   green_2: $green_2;
   green_4: $green_4;

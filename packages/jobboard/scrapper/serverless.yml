@@ -16,12 +16,27 @@ provider:
   iamRoleStatements:
     - Effect: "Allow"
       Action:
+       - "events:*"
+      Resource: "${self:provider.environment.EVENT_BUS_ARN}"
+    - Effect: "Allow"
+      Action:
        - "s3:*"
       Resource: "arn:aws:s3:::${self:provider.environment.MARKDOWN_S3_BUCKET}/*"
     - Effect: "Allow"
       Action:
        - "s3:*"
       Resource: "arn:aws:s3:::${self:provider.environment.LOGOS_S3_BUCKET}/*"
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:ListStreams
+        - dynamodb:BatchWriteItem
+      Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.HUBS_TABLE}"
     - Effect: Allow
       Action:
         - dynamodb:Query
@@ -39,7 +54,7 @@ functions:
     timeout: 180
     events:
       - schedule:
-          rate: rate(1 minutes)
+          rate: cron(15 10 ? * 6L 2002-2005)
   urlHandler:
     handler: src/urlHandler.exec
     memorySize: 768
@@ -90,7 +105,7 @@ resources:
         ProvisionedThroughput:
           ReadCapacityUnits: 1
           WriteCapacityUnits: 1
-        TableName: ${self:provider.environment.URLS_TABLE}
+        TableName: ${self:provider.environment.HUBS_TABLE}
         StreamSpecification:
           StreamViewType: NEW_AND_OLD_IMAGES
     URLSDynamoDbTable:

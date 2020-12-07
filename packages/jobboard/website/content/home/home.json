@@ -1,7 +1,8 @@
 {
   "hero": {
-    "title": "CroCoder is a small group of enthusiastic developers that wishes to help others find",
-    "titleEmphasis": "fulfillment and merriment at work.",
+    "title": "Don't miss out on an interesting remote job opportunity ever again.",
+    "callToActionSubscribe": "subscribe",
+    "callToActionPostAJob": "post a job",
     "image": "../images/jobsHeader.png"
   },
   "footer": {
@@ -9,11 +10,11 @@
     "socialMedia": [
       {
         "icon": "linkedin1",
-        "link": ""
+        "link": "https://www.linkedin.com/company/crocoderdev/"
       },
       {
         "icon": "youtube",
-        "link": ""
+        "link": "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA"
       }
     ]
   },
@@ -27,8 +28,46 @@
     "title_1": "Subscribe to ",
     "title_2": " jobs",
     "subtitle": "Get your daily dose of new job postings",
-    "confirm": "A confirmation of terms of services",
+    "confirm": "I give consent to CroCoder to use my email to send their newsletter.",
     "inputLabel": "E-mail",
-    "submitButtonLabel": "Submit"
+    "submitButtonLabel": "Submit",
+    "mailNotValidErrorMessage": "You have entered an invalid email address.",
+    "mailNotConfirmedErrorMessage": "You need to confirm we may use your email address.",
+    "responseStatusMailAlreadyInDatabaseErrorMessage": "Your are already subscribed to the newsletter.",
+    "responseStatusNotOkErrorMessage": "Something went wrong, please try again.",
+    "responseStatusOKText" : "You’ll receive an email shortly to confirm your subscription. Please check your email.",
+    "responseStatusOKTitle": "Almost done!"
+  },
+  "postAJob": {
+    "title": "We Find Jobs By Crawling Popular Recruitment Applications and Job Posting Sites",
+    "companies": [
+      { 
+        "logo": "../images/TalentLyft.png",
+        "name": "TalentLyft"
+      },
+      { 
+        "logo": "../images/Workable.png",
+        "name": "Workable"
+      },
+      { 
+        "logo": "../images/Greenhouse.png",
+        "name": "Greenhouse"
+      },
+      { 
+        "logo": "../images/BambooHR.png",
+        "name": "BambooHR"
+      },
+      { 
+        "logo": "../images/Lever.png",
+        "name": "Lever"
+      },
+      { 
+        "logo": "../images/Recruitee.png",
+        "name": "Recruitee"
+      }
+    ],
+    "subtitle": "Is your job posted there but not included on our site?",
+    "contactUs": "Send us an e-mail at ",
+    "email": "hello@crocoder.dev"
   }
 }
