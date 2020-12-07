@@ -10,7 +10,7 @@ hashtags: "#csharp,#cplusplus,#unity,#scrum,#content,#git,#management,"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a principal engineer at Magic Leap, Inc., you preferably need to have 10+ years of industry experience implementing applications &amp services on mobile platforms."
+summary: "To apply as a principal engineer at Magic Leap, Inc., you preferably need to have 10+ years of industry experience implementing applications and services on mobile platforms."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a principal engineer that has experience in: #ui/ux, #unity, #scrum."
 featured: 20
 ---
