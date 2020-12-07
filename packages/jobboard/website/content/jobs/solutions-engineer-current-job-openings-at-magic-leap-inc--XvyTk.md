@@ -10,7 +10,7 @@ hashtags: "#sales,#operations,#unity,#windows,#content,#ui/ux,#management,#optim
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 5-7+ years of experience in demonstrating and establishing technical feasibility/wins among Enterprise customers, Current Job Openings at Magic Leap, Inc. is looking for someone with your skillset."
+summary: "If you have 5-7+ years of experience in demonstrating and establishing technical feasibility/wins among Enterprise customers, Magic Leap, Inc. is looking for someone with your skillset."
 summaryBackup: "To apply as a solutions engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #sales, #operations, #unity."
 featured: 20
 ---
