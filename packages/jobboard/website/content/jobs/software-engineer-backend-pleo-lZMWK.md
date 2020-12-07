@@ -6,13 +6,13 @@ companyName: "Pleo"
 url: "https://boards.greenhouse.io/pleo/jobs/4154617003"
 applyUrl: "https://boards.greenhouse.io/pleo/jobs/4154617003#app"
 timestamp: 1607299200000
-hashtags: "#kotlin,#typescript,#aws,#python,#kubernetes,#management,#terraform,#docker,#azure,#heroku"
+hashtags: "#kotlin,#typescript,#aws,#python,#kubernetes,#terraform,#docker,#azure,#heroku"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "Love experience in: #kotlin, #typescript, #aws? Check out this job post!"
+summary: "Love #kotlin, #typescript, #aws? Check out this job post!"
 summaryBackup: "Love #kotlin, #typescript, #aws? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
