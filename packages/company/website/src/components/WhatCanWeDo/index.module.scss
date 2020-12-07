@@ -7,7 +7,7 @@
 .first {
   flex-basis: 55%;
   margin-left: 100px;
-  line-height: 1.6;
+  line-height: 1.8;
   min-width: 380px;
   @include mediaQuery(">=tabletLandscape", "<desktop") {
     margin-left: 50px;
@@ -31,7 +31,7 @@
 .second {
   flex-basis: 50%;
   margin-right: 100px;
-  line-height: 1.6;
+  line-height: 1.8;
   min-width: 380px;
   @include mediaQuery(">=tabletLandscape", "<desktop") {
     margin-right: 50px;
@@ -69,7 +69,7 @@
 
 .focus {
   margin: 0 auto;
-  line-height: 1.6;
+  line-height: 1.8;
   max-width: 1000px;
 
   @include mediaQuery("<=tabletLandscape", ">tabletPortrait") {
