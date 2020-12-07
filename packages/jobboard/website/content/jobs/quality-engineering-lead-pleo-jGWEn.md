@@ -12,10 +12,8 @@ jobType: "software"
 companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "Pleo is searching for a quality engineering lead that has prior to your technical leadership experience, you have extensive experience working hands."
 summaryBackup: "Pleo is looking for a quality engineering lead that has experience in: #java, #kotlin, #typescript."
-featured: 20
+featured: 1
 ---
-
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
 
 Imagine a world that you deploy on a Friday afternoon and then go do whatever it is you normally do (in our case is usually having a beer or 2 with our colleagues) without stress. That's the world we want to live in. And of course we are not talking about shipping on Fridays for the sake of it. We are talking about shipping with confidence in general, even if it has to be a Friday :P
 
