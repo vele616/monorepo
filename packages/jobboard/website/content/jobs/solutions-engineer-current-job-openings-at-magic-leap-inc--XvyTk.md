@@ -8,10 +8,9 @@ applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2427592#app"
 timestamp: 1607299200000
 hashtags: "#sales,#operations,#unity,#windows,#content,#ui/ux,#management,#optimization"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 5-7+ years of experience in demonstrating and establishing technical feasibility/wins among Enterprise customers, Magic Leap, Inc. is looking for someone with your skillset."
-summaryBackup: "To apply as a solutions engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #sales, #operations, #unity."
+summaryBackup: "To apply as a solutions engineer at Magic Leap, Inc., you preferably need to have some knowledge of: #sales, #operations, #unity."
 featured: 20
 ---
 

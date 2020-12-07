@@ -11,7 +11,7 @@ jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 10+ years of industry experience as a software algorithm developer, researcher and/or data scientist, Magic Leap, Inc. has a job opening for a principal engineer"
-summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a principal engineer that has experience in: #ui/ux, #python, #tensorflow."
+summaryBackup: "Magic Leap, Inc. is looking for a principal engineer that has experience in: #ui/ux, #python, #tensorflow."
 featured: 10
 ---
 

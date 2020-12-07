@@ -11,7 +11,7 @@ jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. is searching for a senior recruiter that has 5+ years of full-cycle recruiting experience."
-summaryBackup: "To apply as a senior recruiter at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #HR, #marketing."
+summaryBackup: "To apply as a senior recruiter at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #HR, #marketing."
 featured: 5
 ---
 

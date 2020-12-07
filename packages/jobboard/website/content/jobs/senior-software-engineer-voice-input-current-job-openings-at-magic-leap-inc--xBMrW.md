@@ -10,7 +10,7 @@ hashtags: "#cplusplus,#nodejs,#python,#linux,#android,#operations"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a senior software engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have 5+ years’ experience as a Software Engineer."
+summary: "To apply as a senior software engineer at Magic Leap, Inc., you preferably need to have 5+ years’ experience as a Software Engineer."
 summaryBackup: "Love #ui/ux, #nodejs, #python? Check out this job post!"
 featured: 15
 ---
