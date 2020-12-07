@@ -1,18 +1,18 @@
 ---
-title: "Senior/Lead Software Engineer, Browser"
+title: "Senior/Lead Software Engineer"
 location: "Sunnyvale, CA; Plantation, FL (HQ); Austin, TX; Culver City, CA; Seattle, WA; Toronto, ON; Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2219341"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2219341#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#javascript,#css,#html,#operations,#office"
+hashtags: "#cplusplus,#javascript,#css,#html,#operations,#office"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a senior at Current Job Openings at Magic Leap, Inc., you preferably need to have 5+ years) experience with at least one of the following."
+summary: "Love #cplusplus, #javascript, #css? Check out this job post!"
 summaryBackup: "Love #ui/ux, #javascript, #css? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 Magic Leap is an eclectic group of people who share a magical vision of the future. And we’re growing.
