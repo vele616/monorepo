@@ -7,12 +7,12 @@ url: "https://boards.greenhouse.io/magicleapinc/jobs/2201018"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2201018#app"
 timestamp: 1607299200000
 hashtags: "#linux,#ui/ux,#analysis,#android,#management,#operations,#office"
-jobType: "other"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Current Job Openings at Magic Leap, Inc. is looking for a lead performance engineer that has extensive experience with system analysis for embedded systems for latency, system interconnect, throughput and bandwidth problems."
 summaryBackup: "Love #linux, #ui/ux, #analysis? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Company Description
