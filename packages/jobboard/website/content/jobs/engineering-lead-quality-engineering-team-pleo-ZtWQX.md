@@ -1,18 +1,18 @@
 ---
-title: "Engineering Lead - Quality Engineering Team"
+title: "Lead - Quality Engineering Team"
 location: "Copenhagen/ Remote"
 host: "https://boards.greenhouse.io/pleo"
 companyName: "Pleo"
 url: "https://boards.greenhouse.io/pleo/jobs/4267603003"
 applyUrl: "https://boards.greenhouse.io/pleo/jobs/4267603003#app"
 timestamp: 1607299200000
-hashtags: "#java,#kotlin,#typescript,#kubernetes,#docker,#management,#office,#monitoring"
+hashtags: "#kubernetes,#docker,#typescript,#java,#kotlin,#management,#monitoring"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "If you have prior to your technical leadership experience, you have extensive experience working hands, Pleo has a job opening for an engineering lead"
+summary: "If you have have broad experience in testing by building test automation solutions, metric systems, or improving testing effectiveness, Pleo has a job opening for an engineering lead."
 summaryBackup: "To apply as an engineering lead at Pleo, you preferably need to have some knowledge of: #java, #kotlin, #typescript."
-featured: 20
+featured: 5
 ---
 
 ![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
