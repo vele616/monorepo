@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/adzerk/jobs/4956615002"
 applyUrl: "https://boards.greenhouse.io/adzerk/jobs/4956615002#app"
 timestamp: 1606953600000
 hashtags: "#linux,#aws,#operations,#clojure,#branding,#management,#devsec,#accountant,#marketing,#rest"
-jobType: "other"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "Adzerk is looking for a lead dev that has 5-10 years experience) to join our growing team! This is a rare opportunity to be our first Dev/Ops Engineer who will own improvements to our existing structure and own our systems moving forward as we scale to our next level of growth!."

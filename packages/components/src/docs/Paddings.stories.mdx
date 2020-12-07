@@ -1,7 +1,10 @@
-import { Meta } from '@storybook/addon-docs/blocks';
-import styles from '../styles/main.module.scss';
+import { Meta } from "@storybook/addon-docs/blocks";
+import styles from "../styles/main.module.scss";
+import Flexbox from "../components/Flexbox";
+import CardDisplay from "../storybook/Components/CardDisplay";
+import SectionDisplay from "../storybook/Components/SectionDisplay";
 
-<Meta title="Design System/Spacing" />
+<Meta title="Design System/Spacing And Paddings" />
 
 <style>{`
   .subheading {
@@ -60,4 +63,60 @@ import styles from '../styles/main.module.scss';
   }
 `}</style>
 
-# Spacings
+# Spacing and Paddings
+
+This page contains basic definitions for spacing among elements in our products. This spacing changes based on screen size and element to
+which it's applied.
+
+<br />
+
+## Section
+
+The `Section` component represents a &lt;section&gt; element which is useful when you do not have a more specific semantic element to represent it.
+It's usually defined by a heading and should contain a logical unit represented - it's not a generic container (as &lt;div&gt;) and do not treat it
+like such.
+
+Our `Section` provides some basic styling and visually shows some spacing in between it's inside content and all outside content.
+
+<Flexbox flexWrap="wrap" justifyContent="space-between">
+  <SectionDisplay screen="desktop" title="Desktop" />
+  <SectionDisplay screen="tabletLandscape" title="Tablet Landscape" /> 
+  <SectionDisplay screen="tabletPortrait" title="Tablet Portrait"/> 
+  <SectionDisplay screen="mobile" title="Mobile"/> 
+  <SectionDisplay screen="mobileMini" title="Mobile Mini"/> 
+</Flexbox>
+
+There are also special cases we cover:
+- When the `removeMobilePadding` is set to true, the section will not include any padding on mobile screens
+- When the `removeVerticalPadding` is set to true, the section will not include vertical paddings. This is recommended when you have sections next to each other to elinimate large vertical empty space.
+
+The following table presents also variables available in *.scss* when you import the *main.module.scss*.
+
+| Base | Dimension variation | Screen Variation |
+| ------------- | ------------- | ------------- |
+| $section__padding | -horizontal <br/> -vertical | --desktop <br/> --tabletLandscape <br/> -- tabletPortrait <br/> --mobile <br /> --mobileMini|
+
+The `Section` component is implemented in a way that it contains a wrapper with the before mentioned padding and a child div element with the content passed as children.
+The child's maximum width (and therefore width of your content) is *1100px*.
+
+## Card
+
+The `Card` component represents a group of content on a surface. It can contain
+actions on a certain topic, image to represent the group of content and has basic style definitions
+for some default text which can be displayed inside(title, subtitle and paragraph).
+
+<Flexbox flexWrap="wrap" justifyContent="space-between">
+  <CardDisplay screen="desktop" title="Desktop" />
+  <CardDisplay screen="tabletLandscape" title="Tablet Landscape" /> 
+  <CardDisplay screen="tabletPortrait" title="Tablet Portrait"/> 
+  <CardDisplay screen="mobile" title="Mobile"/> 
+</Flexbox>
+
+The following table presents also variables available in *.scss* when you import the *main.module.scss*.
+
+| Base | Dimension variation | Screen Variation |
+| ------------- | ------------- | ------------- |
+| $card__padding | -horizontal <br/> -vertical | --desktop <br/> --tabletLandscape <br/> -- tabletPortrait <br/> --mobile <br /> --mobileMini|
+
+The `Card` component is implemented in a way that all children are included in a wrapper that has the before mentioned padding applied.
+The component's maximum width (and therefore width of your content) is *1100px*.

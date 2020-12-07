@@ -2,7 +2,7 @@
 title: "Associate Support Community Moderator"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4946250002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4946250002#app"
 timestamp: 1606953600000
@@ -10,8 +10,8 @@ hashtags: "#content,#socialmedia,#management,#ui/ux,#marketing,#git,#figma,#rest
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "To apply as an associate support community moderator at Current Job Openings at Netlify, you preferably need to have some knowledge of: experience in: #content, #socialmedia, #management."
-summaryBackup: "Current Job Openings at Netlify is looking for an associate support community moderator that has experience in: #content, #socialmedia, #management."
+summary: "To apply as an associate support community moderator at Netlify, you preferably need to have some knowledge of: experience in: #content, #socialmedia, #management."
+summaryBackup: "Netlify is looking for an associate support community moderator that has experience in: #content, #socialmedia, #management."
 featured: 5
 ---
 

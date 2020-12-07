@@ -2,7 +2,7 @@
 title: "Senior IT Engineer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4931941002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4931941002#app"
 timestamp: 1606953600000
@@ -10,8 +10,8 @@ hashtags: "#devsec,#linux,#windows,#operations,#ui/ux,#git,#management,#figma,#r
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify is searching for a senior it engineer that has experience with various SSO services and integration."
-summaryBackup: "Current Job Openings at Netlify is looking for a senior it engineer that has experience in: #devsec, #operations, #windows."
+summary: "Netlify is searching for a senior it engineer that has experience with various SSO services and integration."
+summaryBackup: "Netlify is looking for a senior it engineer that has experience in: #devsec, #operations, #windows."
 featured: 10
 ---
 
