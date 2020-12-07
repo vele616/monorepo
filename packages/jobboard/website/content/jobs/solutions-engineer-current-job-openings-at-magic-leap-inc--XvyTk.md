@@ -2,7 +2,7 @@
 title: "Solutions Engineer"
 location: "Remote or Plantation, FL (HQ)"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2427592"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2427592#app"
 timestamp: 1607299200000
