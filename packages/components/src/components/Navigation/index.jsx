@@ -92,6 +92,4 @@ Navigation.propTypes = {
   transparentOnZeroScroll: PropTypes.bool,
 };
 
-Navigation.defaultProps = {};
-
 export default Navigation;
