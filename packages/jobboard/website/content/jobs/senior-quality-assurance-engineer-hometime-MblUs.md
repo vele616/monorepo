@@ -6,13 +6,13 @@ companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=70&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=70&source=other"
 timestamp: 1607299200000
-hashtags: "#marketing,#rails,#rubylang,#management,#operations,#branding,#scrum"
-jobType: "other"
+hashtags: "#qa,#rails,#rubylang,#management,#operations,#branding,#scrum"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime intends to hire a new senior quality assurance engineer. If you have 3+ years as a QA Engineer, consider applying."
 summaryBackup: "Hometime is looking for a senior quality assurance engineer that has experience in: #marketing, #rails, #rubylang."
-featured: 20
+featured: 5
 ---
 
 Hometime is the largest and fastest growing platform and brand for flexible rental providers  in the APAC region. 
