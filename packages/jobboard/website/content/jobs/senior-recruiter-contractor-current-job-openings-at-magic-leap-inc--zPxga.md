@@ -2,7 +2,7 @@
 title: "Senior Recruiter - Contractor"
 location: "Plantation, FL OR  Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2515865"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2515865#app"
 timestamp: 1607299200000
@@ -10,9 +10,9 @@ hashtags: "#management,#HR,#marketing,#analysis,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is searching for a senior recruiter that has 5+ years of full-cycle recruiting experience."
+summary: "Magic Leap, Inc. is searching for a senior recruiter that has 5+ years of full-cycle recruiting experience."
 summaryBackup: "To apply as a senior recruiter at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #HR, #marketing."
-featured: 20
+featured: 5
 ---
 
 ## Job Description
@@ -59,5 +59,3 @@ The best candidates will draw on extensive knowledge of Talent Acquisition and h
 ## Additional Information
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
-
-#LI-DV1
