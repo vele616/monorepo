@@ -8,7 +8,7 @@
   },
   "description": "A basic component library of the CroCoder team",
   "author": "CroCoder Dev Team",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -36,7 +36,8 @@
       "jest"
     ],
     "env": {
-      "jest/globals": true
+      "jest/globals": true,
+      "browser": true
     },
     "rules": {
       "react/require-default-props": [

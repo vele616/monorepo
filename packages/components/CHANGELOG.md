@@ -2,11 +2,30 @@
 
 Here you can see what's new added, changed or fixed in which version of our component library.
 
+## 0.5.0
+
+##### _Dec 7 2020_
+
+**TLDR**: Added a new Loader component and fixing some logging and styling bugs.
+
+#### Feature
+
+- **Loader**: basic implementation of the loader components. [PR 266](https://github.com/crocoder-dev/monorepo/pull/266)
+- **Navigation**: added `transparentOnZeroScroll` property which allows the navigation to be transparent until the user 
+scrolls. Done as part of [PR 116](https://github.com/crocoder-dev/monorepo/pull/116)
+- **Section**: added `removeVerticalPadding` which if set to true, eliminates all vertical padding applied on the Section component and in all screen sizes. [PR 117](https://github.com/crocoder-dev/monorepo/pull/117)
+- **docs**: added basic media and section/card padding documentation.
+
+#### Bugfix
+
+- **Button disabled style**: had a border issue in Firefox. [PR 174](https://github.com/crocoder-dev/monorepo/pull/174)
+- **Color propTypes**: were not properly set in some components and as such resulted in massive logging of errors in websites. This has been tackled in [PR 116](https://github.com/crocoder-dev/monorepo/pull/116) and [PR 266](https://github.com/crocoder-dev/monorepo/pull/266).
+
 ## 0.4.1
 
 ##### _Nov 26 2020_
 
-****TLDR****: Fixing a style related bug and navigation closing issue.
+**TLDR**: Fixing a style related bug and navigation closing issue.
 
 #### Bugfix
 
