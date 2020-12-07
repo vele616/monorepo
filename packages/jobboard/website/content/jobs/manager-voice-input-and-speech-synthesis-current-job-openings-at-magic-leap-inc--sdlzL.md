@@ -2,17 +2,17 @@
 title: "Manager, Voice Input and Speech Synthesis"
 location: "Plantation, FL; Sunnyvale, CA;  Austin, TX; Seattle, WA; Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2429260"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2429260#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#nodejs,#python,#management,#analytics,#analysis,#office"
-jobType: "other"
+hashtags: "#ui/ux,#nodejs,#python,#cplusplus,#management,#analytics,#analysis,#office"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years of experience in software services development and productization, including 2+ years as technical/team lead in speech processing or related field, Current Job Openings at Magic Leap, Inc. is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #nodejs, #python? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job Description
