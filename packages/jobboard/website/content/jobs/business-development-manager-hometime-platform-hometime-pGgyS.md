@@ -1,18 +1,18 @@
 ---
-title: "Business Development Manager (Hometime Platform)"
+title: "Business Development Manager"
 location: "Remote, New South Wales"
 host: "https://hometime.bamboohr.com/jobs/"
 companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=81&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=81&source=other"
 timestamp: 1607299200000
-hashtags: "#marketing,#management,#operations,#css,#analysis"
+hashtags: "#management,#operations,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "If you have 3+ years of mid-market business development experience in SaaS, cloud or similar businesses, Hometime is looking for someone with your knowledge."
 summaryBackup: "To apply as a business development manager at Hometime, you preferably need to have some knowledge of: #marketing, #management, #operations."
-featured: 20
+featured: 10
 ---
 
 ## About Hometime:
