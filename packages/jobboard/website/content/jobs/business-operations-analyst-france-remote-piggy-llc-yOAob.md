@@ -1,6 +1,6 @@
 ---
-title: "Business Operations Analyst - France (Remote)"
-location: "Paris, FR - Remote OK"
+title: "Business Operations Analyst"
+location: "Paris, FR or Remote"
 host: "https://piggy-llc.breezy.hr/"
 companyName: "piggy-llc"
 url: "https://piggy-llc.breezy.hr/p/5c55acbc3586-business-operations-analyst-france-remote"
