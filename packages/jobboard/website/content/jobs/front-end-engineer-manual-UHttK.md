@@ -6,7 +6,7 @@ companyName: "Manual"
 url: "https://manual.recruitee.com/o/front-end-engineer-london"
 applyUrl: "https://manual.recruitee.com/o/front-end-engineer-london/c/new"
 timestamp: 1607299200000
-hashtags: "#reactjs,#php,#javascript,#laravel,#jquery,#python,#rubylang,#ui/ux,#heroku,#css"
+hashtags: "#reactjs,#javascript,#css,#php,#laravel,#jquery,#ui/ux,#heroku"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/manual"
 companyWebsite: "https://www.manual.co/"
