@@ -2,17 +2,17 @@
 title: "Senior Software Engineer, Application Framework"
 location: "Plantation, FL; Toronto, ON; Sunnyvale, CA; Culver City, CA; Seattle, WA; Austin, TX; Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2033303"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2033303#app"
 timestamp: 1607299200000
-hashtags: "#content,#ui/ux,#scrum,#analysis,#optimization"
-jobType: "other"
+hashtags: "#cplusplus,#ui/ux,#scrum,#analysis,#optimization,#content"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a senior software engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have 5+ years of professional experience in the gaming industry or using real-time 3D technologies."
-summaryBackup: "To apply as a senior software engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #content, #ui/ux, #scrum."
-featured: 20
+summary: "To apply as a senior software engineer at Magic Leap, Inc., you preferably need to have 5+ years of professional experience in the gaming industry or using real-time 3D technologies."
+summaryBackup: "To apply as a senior software engineer at Magic Leap, Inc., you preferably need to have some knowledge of: #content, #ui/ux, #scrum."
+featured: 15
 ---
 
 ## Company Description
