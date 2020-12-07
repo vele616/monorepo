@@ -1,18 +1,18 @@
 ---
-title: "Director, Business Segment Leader, Digital Health"
+title: "Director,Business Segment Leader"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2464600"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2464600#app"
 timestamp: 1607299200000
-hashtags: "#marketing,#management,#ui/ux,#operations,#socialmedia,#translation,#optimization"
+hashtags: "#management,#operations,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is looking for a director that has 10 years experience leading teams in the health industry, preferably with experience in both HW and SW as well as regulatory."
+summary: "Magic Leap, Inc. is looking for a director that has 10 years experience leading teams in the health industry, preferably with experience in both HW and SW as well as regulatory."
 summaryBackup: "Love #marketing, #management, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Director, Business Segment Leader, Digital Health 
