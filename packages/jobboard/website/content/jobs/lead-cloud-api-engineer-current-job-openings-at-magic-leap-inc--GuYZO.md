@@ -2,15 +2,15 @@
 title: "Lead Cloud API Engineer"
 location: "Plantation, FL; Sunnyvale, CA; Toronto, ON, Culver City, CA; Austin, TX; Remote Location"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2458483"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2458483#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#nodejs,#python,#linux,#android,#ios,#aws,#management,#git,#redis"
+hashtags: "#nodejs,#python,#linux,#android,#ios,#aws,#management,#git,#ui/ux,#redis"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 8+ years’ experience designing high-performance, secure, multi-tenant cloud services, Current Job Openings at Magic Leap, Inc. is looking for someone with your knowledge."
+summary: "If you have 8+ years’ experience designing high-performance, secure, multi-tenant cloud services, Magic Leap, Inc. is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #nodejs, #python? Check out this job post!"
 featured: 20
 ---
