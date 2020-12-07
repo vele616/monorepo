@@ -1,16 +1,16 @@
 ---
-title: "Principal Engineer, Applications R&D, Health"
+title: "Principal Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2464793"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2464793#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#unity,#scrum,#content,#git,#management,#translation"
-jobType: "other"
+hashtags: "#csharp,#cplusplus,#unity,#scrum,#content,#git,#management,"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a principal engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have 10+ years of industry experience implementing applications &amp."
+summary: "To apply as a principal engineer at Magic Leap, Inc., you preferably need to have 10+ years of industry experience implementing applications &amp services on mobile platforms."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a principal engineer that has experience in: #ui/ux, #unity, #scrum."
 featured: 20
 ---
