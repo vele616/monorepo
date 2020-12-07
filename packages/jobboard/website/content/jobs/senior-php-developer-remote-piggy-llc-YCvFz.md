@@ -1,8 +1,8 @@
 ---
-title: "Senior PHP Developer - Remote"
+title: "Senior PHP Developer"
 location: "London, GB - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
-companyName: "piggy-llc"
+companyName: "Piggy LLC"
 url: "https://piggy-llc.breezy.hr/p/f29b791cef21-senior-php-developer-remote"
 applyUrl: "https://piggy-llc.breezy.hr/p/f29b791cef21-senior-php-developer-remote/apply"
 timestamp: 1607299200000
@@ -10,7 +10,7 @@ hashtags: "#php,#aws,#dynamodb,#ui/ux,#git,#management,#mysql,#scrum,#office,#En
 jobType: "software"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "Piggy-llc is searching for a senior php developer that has experience in an agile dev environment, with CI and Unit and Integration testing."
+summary: "Piggy LLC is searching for a senior php developer that has experience in an agile dev environment, with CI and Unit and Integration testing."
 summaryBackup: "Love #php, #aws, #dynamodb? Check out this job post!"
 featured: 20
 ---
