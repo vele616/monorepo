@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
 
 body {
   margin: 0!important;
@@ -10,4 +11,13 @@ body {
 * {
   scroll-behavior: smooth;
   text-size-adjust: 100%;
+}
+
+
+
+
+.jobs {
+  @include mediaQuery(">tabletPortrait"){
+    margin-left: 25% !important;
+  }
 }

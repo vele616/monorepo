@@ -1,9 +1,9 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-import './index.scss';
+import styles from './index.module.scss';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
-import { Navigation, Button } from '@crocoder-dev/components';
+import { Navigation, Button, Typography } from '@crocoder-dev/components';
 import Footer from '../Footer';
 import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
@@ -19,10 +19,24 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
       <Navigation
         Logo={
           <Link to="/">
-            <CrocNav />
+            <CrocNav style={{ verticalAlign: 'bottom' }} />
           </Link>
         }
       >
+        <a
+          className={`${styles.aboutUs} link`}
+          rel="noreferrer noopener"
+          target="_blank"
+          href="https://crocoder.dev/"
+        >
+          About{' '}
+          <Typography fontWeight={600}>
+            <Typography fontWeight={600} color="primary">
+              Cro
+            </Typography>
+            Coder
+          </Typography>
+        </a>
         <Link to="/post-a-job">
           <Button variant="secondary">Post a job</Button>
         </Link>

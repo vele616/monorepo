@@ -6,6 +6,7 @@ export { default as Grid } from "./Grid";
 export { default as Icon } from "./Icon";
 export { default as Input } from "./Input";
 export { default as Listbox } from "./Listbox";
+export { default as Loader } from "./Loader";
 export { default as Navigation } from "./Navigation";
 export { default as Section } from "./Section";
 export { default as Tag } from "./Tag";

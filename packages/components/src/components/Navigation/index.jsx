@@ -7,8 +7,9 @@ import Hamburger from "./Hamburger";
 import styles from "./index.module.scss";
 import useDevice from "../../hooks/useDevice";
 import useScrollPrevent from "../../hooks/useScrollPrevent";
+
 /**
- * Basic button component of the CroCoder component library
+ * Basic Navigation component for the CroCoder component library.
  */
 const Navigation = ({
   className,
@@ -22,9 +23,6 @@ const Navigation = ({
   const [opened, setIsOpened] = useState(false);
   const { isMobile } = useDevice();
   const { disableScroll, enableScroll } = useScrollPrevent();
-
-  // TODO fix style for single element nav
-  // TODO animations?
 
   useEffect(() => {
     const scrollHandler = () => {
@@ -64,13 +62,11 @@ const Navigation = ({
         aria-haspopup="true"
         aria-expanded={opened && isMobile}
         aria-controls="navigation-content-menu"
+        aria-label="Navigation"
         variant="sneaky"
         onClick={toggleMenu}
         className={styles.navigation__burger}
       >
-        <label hidden htmlFor="navigation-content-menu">
-          Navigation
-        </label>
         {isMobile && (
           <Hamburger className={styles.navigation__hamburger} open={opened} />
         )}
@@ -95,7 +91,5 @@ Navigation.propTypes = {
   Logo: PropTypes.node,
   transparentOnZeroScroll: PropTypes.bool,
 };
-
-Navigation.defaultProps = {};
 
 export default Navigation;
