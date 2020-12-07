@@ -23,7 +23,12 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
           </Link>
         }
       >
-        <a className={`${styles.aboutUs} link`} href="https://crocoder.dev/">
+        <a
+          className={`${styles.aboutUs} link`}
+          rel="noreferrer noopener"
+          target="_blank"
+          href="https://crocoder.dev/"
+        >
           About{' '}
           <Typography fontWeight={600}>
             <Typography fontWeight={600} color="primary">

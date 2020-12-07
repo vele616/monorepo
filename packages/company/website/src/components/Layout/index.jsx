@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
-import { Navigation, Button } from "@crocoder-dev/components";
+import { Navigation, Button, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
 import CrocNav from "../../images/croc-nav.svg";
 import styles from "./index.module.scss";
@@ -22,9 +22,16 @@ const Layout = ({ children, stickyFooter, pageTitle, scrollToContactUs }) => {
           <>
             <a
               target="_blank"
+              rel="noreferrer noopener"
               className={`${styles.jobs} link`}
               href="https://jobs.crocoder.dev/"
             >
+              <Typography fontWeight={600}>
+                <Typography fontWeight={600} color="primary">
+                  Cro
+                </Typography>
+                Coder
+              </Typography>{" "}
               Jobs
             </a>
             <Button
