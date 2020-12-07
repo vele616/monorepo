@@ -6,13 +6,13 @@ companyName: "Current Job Openings at Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2464663"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2464663#app"
 timestamp: 1607299200000
-hashtags: "#ui/ux,#management,#unity,#scrum,#content,#git,#translation"
+hashtags: "#unity,#cplusplus,#ui/ux,#scrum,#content,#git,#translation,#management"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7+ years of industry experience implementing applications &amp, Current Job Openings at Magic Leap, Inc. has a job opening for a lead engineer"
+summary: "If you have 7+ years of industry experience implementing applications & services on mobile platforms, Current Job Openings at Magic Leap, Inc. has a job opening for a lead engineer"
 summaryBackup: "To apply as a lead engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #management, #unity."
-featured: 20
+featured: 10
 ---
 
 ## Job Description
