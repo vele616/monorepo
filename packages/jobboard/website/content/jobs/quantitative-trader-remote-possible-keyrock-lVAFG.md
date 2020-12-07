@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Trader (Remote possible)"
+title: "Quantitative Trader"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
