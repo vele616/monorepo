@@ -1,5 +1,5 @@
 ---
-title: "Lead Engineer, Systems Design, Health"
+title: "Lead Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
 companyName: "Magic Leap, Inc."
