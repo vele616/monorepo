@@ -1,8 +1,8 @@
 ---
 title: "Technical Writer, SDK - Contractor"
-location: "Remote Location"
+location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2413362"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2413362#app"
 timestamp: 1607299200000
@@ -10,7 +10,7 @@ hashtags: "#content,#css,#html,#windows,#macos,#android,#ios,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. wishes to hire a new technical writer. If you have 5+ years of experience as a technical writer required, consider applying."
+summary: "Magic Leap, Inc. wishes to hire a new technical writer. If you have 5+ years of experience as a technical writer required, consider applying."
 summaryBackup: "To apply as a technical writer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #content, #css, #html."
 featured: 20
 ---
