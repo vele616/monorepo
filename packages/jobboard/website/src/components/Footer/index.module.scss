@@ -18,9 +18,12 @@
   text-decoration: none;
 }
 
-
 .image {
   cursor: pointer;
   height: auto;
-  width: 100%;
+  width: 225px;
+    
+  @include mediaQuery(">=mobile","<tabletPortrait"){
+    width: 200px;
+  }
 }

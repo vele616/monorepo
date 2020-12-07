@@ -1,7 +1,7 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
 import { Icon, Footer as FooterComponent } from '@crocoder-dev/components';
+import CrocNav from '../../images/croc-nav.svg';
 import styles from './index.module.scss';
 
 const Footer = ({ image, socialMedia, sticky }) => {
@@ -10,12 +10,7 @@ const Footer = ({ image, socialMedia, sticky }) => {
       className={sticky ? styles.sticky : ''}
       logo={
         <Link to="/">
-          <Img
-            fadeIn={false}
-            className={styles.image}
-            fluid={image ? image.childImageSharp.fluid : {}}
-            alt={'abc'}
-          />
+          <div className={styles.image}><CrocNav /></div>
         </Link>
       }
       socialLinks={
