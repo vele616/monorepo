@@ -4,6 +4,6 @@
     "text": "If you’re not using an external job posting site or you just want to post it here, that’s also doable! We envisioned our system to be as open as possible and you don’t need to pay any fees to post the ad here. All you need to do is open a PR on GitHub with your job’s details.",
     "buttonTextRight": "SEND EMAIL",
     "buttonTextLeft": "CREATE A PR",
-    "urlToPR": "https://github.com/crocoder-dev/monorepo/pulls",
+    "urlToPR": "https://www.notion.so/crocoderdev/How-To-Post-A-Job-6e83b577dc1f4a4ba440a4538a0d6db8",
     "image": "../images/post-a-job.png"
 }
