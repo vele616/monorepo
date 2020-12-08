@@ -1,18 +1,18 @@
 ---
-title: "Senior Product Manager - Platform (m/f/d)"
+title: "Senior Product Manager"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/91aec9e5025f01-senior-product-manager-platform-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/91aec9e5025f01-senior-product-manager-platform-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#ui/ux,#management,#marketing,#css,#scrum,#translation,#analysis,#German,#optimization,#English"
+hashtags: "#scrum,#ui/ux,#management,#marketing,#css,#translation,#analysis,,#optimization,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "Jimdo is searching for a senior product manager that has 5+ years of experience as a Product Manager / Product Owner for digital product, ideally for internal."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Senior Product Manager - Platform (m/f/d)
