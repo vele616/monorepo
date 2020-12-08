@@ -1,8 +1,8 @@
 ---
-title: "Lead Developer Experience Engineer - Node & Integrations"
+title: "Lead Developer Experience Engineer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4989368002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4989368002#app"
 timestamp: 1607385600000
@@ -10,9 +10,9 @@ hashtags: "#nodejs,#management,#javascript,#ui/ux,#git,#figma,#translation,#rest
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify intends to hire a new lead developer experience engineer. If you have js, Nuxt, Gatsby, and others — and build solutions to improve the experience of using those tools with Netlify, consider applying."
+summary: "Netlify intends to hire a new lead developer experience engineer. If you've built things with Next.js, Nuxt, Gatsby, Eleventy, Scully, consider applying."
 summaryBackup: "Excited about #nodejs, #management, #javascript? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Company Overview
