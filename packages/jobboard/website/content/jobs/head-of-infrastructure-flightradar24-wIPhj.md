@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flightrada
 companyWebsite: "https://flightradar24.com/"
 summary: "Flightradar24 is looking for a head of infrastructure that has previous experience either as a team lead or technical lead is desirable, or similar roles involving leadership of people and projects."
 summaryBackup: "Excited about #aws, #linux, #azure? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 In addition to our systems and cloud infrastructures we operate a globally distributed network of 30,000 Raspberry Pi-based radio receivers, feeding real-time aircraft data into our platform.
