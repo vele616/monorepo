@@ -6,13 +6,13 @@ companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/0e704de41dac01-senior-user-researcher-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/0e704de41dac01-senior-user-researcher-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#ui/ux,#marketing,#German,#analysis,#office,#English"
+hashtags: "#ui/ux,#marketing,#analysis,#German,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
-summary: "If you have 3+ years of experience in User Research, UX Research, Market Research Human-Computer Interaction, or a related field, Jimdo has a job opening for a senior user researcher"
+summary: "If you have 3+ years of experience in User Research, UX Research, Market Research Human-Computer Interaction, or a related field, Jimdo has a job opening for a senior user researcher."
 summaryBackup: "Love #ui/ux, #marketing, #German? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Senior User Researcher
