@@ -1,18 +1,18 @@
 ---
-title: "Senior C++ Developer (remote)"
+title: "Senior C++ Developer"
 location: "Remote"
 host: "https://careers.flightradar24.com/jobs/"
 companyName: "Flightradar24"
 url: "https://careers.flightradar24.com/jobs/979007-senior-c-developer-remote"
 applyUrl: "https://careers.flightradar24.com/jobs/979007-senior-c-developer-remote/applications/new?"
 timestamp: 1607385600000
-hashtags: "#python,#ui/ux,#terraform,#ansible,#linux,#kubernetes,#docker,#aws,#azure,#socialmedia"
+hashtags: "#cplusplus,#python,#linux,#ui/ux,#terraform,#ansible,#kubernetes,#docker,#aws,#azure,#socialmedia"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flightradar24"
 companyWebsite: "https://flightradar24.com/"
 summary: "Interested in new opportunities and have 4 years of professional development, ideally in online/web services environments and with similar tech stacks? Flightradar24 has a job opening for a senior c++ developer."
 summaryBackup: "Love #python, #ui/ux, #terraform? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 Your work will improve the experience of millions of daily Flightradar24 users, as well as enable our business and enterprise customers to effectively integrate our aviation data and services with their businesses.
