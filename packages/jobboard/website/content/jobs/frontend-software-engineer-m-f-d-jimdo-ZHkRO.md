@@ -1,18 +1,18 @@
 ---
-title: "Frontend Software Engineer (m/f/d)"
+title: "Frontend Software Engineer"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/a743116f15ed01-frontend-software-engineer-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/a743116f15ed01-frontend-software-engineer-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#javascript,#reactjs,#html,#ui/ux,#angular,#vuejs,#typescript,#css,#management"
+hashtags: "#javascript,#reactjs,#vuejs,#html,#ui/ux,#angular,,#typescript,#css,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "Jimdo intends to hire a new frontend software engineer. If you have you enjoy and have experience building web applications professionally, consider applying."
 summaryBackup: "Jimdo is looking for a frontend software engineer that has experience in: #javascript, #reactjs, #html."
-featured: 20
+featured: 5
 ---
 
 ## Software Engineer - Frontend
