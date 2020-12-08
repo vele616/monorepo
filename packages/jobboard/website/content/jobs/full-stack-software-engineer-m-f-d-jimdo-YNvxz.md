@@ -1,12 +1,12 @@
 ---
-title: "Full Stack Software Engineer (m/f/d)"
+title: "Full Stack Software Engineer"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
-companyName: "jimdo"
+companyName: "Jimdo"
 url: "https://jimdo.breezy.hr/p/1b8869db742801-full-stack-software-engineer-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/1b8869db742801-full-stack-software-engineer-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#javascript,#ui/ux,#vuejs,#angular,#reactjs,#nodejs,#python,#java,#kotlin,#typescript"
+hashtags: "#javascript,#nodejs,#python,#java,#vuejs,#angular,#reactjs,#kotlin,#typescript,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
