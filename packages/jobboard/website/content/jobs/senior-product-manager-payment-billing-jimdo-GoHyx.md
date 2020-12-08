@@ -6,13 +6,13 @@ companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/1028dc26a0d201-senior-product-manager-payment-billing"
 applyUrl: "https://jimdo.breezy.hr/p/1028dc26a0d201-senior-product-manager-payment-billing/apply"
 timestamp: 1607385600000
-hashtags: "#marketing,#css,#ui/ux,#management,#scrum,#translation,#analysis,#finance,#German,#optimization"
+hashtags: "#scrum,#marketing,#management,#css,#ui/ux,#translation,#analysis,#finance,#German,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "Interested in new opportunities and have 5+ years of experience as a Product Manager / Product Owner for digital products including 3+ years of experience working on billing and payment platforms or at a FinTech company? Jimdo has a job opening for a senior product manager payment & billing."
 summaryBackup: "To apply as a senior product manager payment & billing at Jimdo, you preferably need to have some knowledge of: #marketing, #css, #ui/ux."
-featured: 20
+featured: 5
 ---
 
 ## Senior Product Manager Payment & Billing
