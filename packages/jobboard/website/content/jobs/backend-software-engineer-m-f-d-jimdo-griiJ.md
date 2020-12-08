@@ -1,18 +1,18 @@
 ---
-title: "Backend Software Engineer (m/f/d)"
+title: "Backend Software Engineer"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/5b3c16dafe4b01-backend-software-engineer-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/5b3c16dafe4b01-backend-software-engineer-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#ui/ux,#javascript,#reactjs,#nodejs,#python,#java,#kotlin,#typescript,#windows,#aws"
+hashtags: "#nodejs,#python,#java,#kotlin,#typescript,#windows,#aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "If you have 5 years of professional experience building web applications, Jimdo has a job opening for a backend software engineer"
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Software Engineer - Backend
