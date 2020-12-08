@@ -44,5 +44,43 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: 'gatsby-plugin-local-search',
+      options: {
+        name: 'jobs',
+        engine: 'flexsearch',
+        engineOptions: 'speed',
+        query: `
+        {
+          allMarkdownRemark(sort: {fields: [frontmatter___timestamp, frontmatter___featured], order: DESC}, filter: {frontmatter: {archived: {ne: "true"}}}) {
+            nodes {
+              id
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+                companyName
+                summary
+              }
+              rawMarkdownBody
+            }
+          }
+        }
+        `,
+        ref: 'id',
+        index: ['title', 'companyName', 'summary', 'body'],
+        store: ['slug', 'title', 'companyName', 'summary'],
+        normalizer: ({ data }) =>
+          data.allMarkdownRemark.nodes.map((node) => ({
+            id: node.id,
+            slug: node.fields.slug,
+            summary: node.frontmatter.summary,
+            companyName: node.frontmatter.companyName,
+            title: node.frontmatter.title,
+            body: node.rawMarkdownBody,
+          })),
+      },
+    },
   ],
 };
