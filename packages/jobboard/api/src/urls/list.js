@@ -9,7 +9,7 @@ if (process.env.IS_OFFLINE) {
   };
 }
 
-const timeframe = 24 * 60 * 60 * 1000;
+const timeframe = 12 * 60 * 60 * 1000;
 
 const lastArchived = 24 * 60 * 60 * 1000;
 
