@@ -1,18 +1,18 @@
 ---
-title: "Front-end Developer – JavaScript (remote)"
+title: "Front-end Developer – JavaScript"
 location: "Remote"
 host: "https://careers.flightradar24.com/jobs/"
 companyName: "Flightradar24"
 url: "https://careers.flightradar24.com/jobs/973215-front-end-developer-javascript-remote"
 applyUrl: "https://careers.flightradar24.com/jobs/973215-front-end-developer-javascript-remote/applications/new?"
 timestamp: 1607385600000
-hashtags: "#javascript,#css,#html,#php,#ui/ux,#rest,#socialmedia,#optimization,#English"
+hashtags: "#javascript,#css,#html,#php,#ui/ux,#rest,#nodejs,#socialmedia,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flightradar24"
 companyWebsite: "https://flightradar24.com/"
-summary: "If you have 4 years experience of modern web development, consider applying to Flightradar24's job post for a new front-end developer – javascript."
+summary: "If you have 4 years experience of modern web development, consider applying to Flightradar24's job post for a new front-end developer."
 summaryBackup: "Love #javascript, #css, #html? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## What you’ll do
