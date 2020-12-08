@@ -1,5 +1,5 @@
 ---
-title: "Senior User Researcher (m/f/d)"
+title: "Senior User Researcher"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
