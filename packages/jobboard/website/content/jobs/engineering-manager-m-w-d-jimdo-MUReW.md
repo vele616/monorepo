@@ -1,18 +1,18 @@
 ---
-title: "Engineering  Manager (m/w/d)"
+title: "Engineering  Manager"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
-companyName: "jimdo"
+companyName: "Jimdo"
 url: "https://jimdo.breezy.hr/p/1b966e5de79d01-engineering-manager-m-w-d"
 applyUrl: "https://jimdo.breezy.hr/p/1b966e5de79d01-engineering-manager-m-w-d/apply"
 timestamp: 1607385600000
 hashtags: "#management,#ui/ux,#operations,#translation"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "Jimdo is searching for an engineering  manager that has 2+ years of experience leading an engineering team."
 summaryBackup: "Excited about #management, #ui/ux, #operations? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Engineering Manager
