@@ -19,11 +19,16 @@ const JobDetails = ({
   applyUrl,
 }) => {
   const [urlRef, applyRefUrl, companyWebsiteRef] = useMemo(() => {
-    const applyRefUrl = new URL(applyUrl);
+    let applyRefUrl;
+    try {
+      applyRefUrl = new URL(applyUrl);
+      applyRefUrl.searchParams.append('ref', 'jobs.crocoder.dev');
+    } catch (error) {
+      applyRefUrl = applyUrl;
+    }
     const companyWebsiteRef = new URL(companyWebsite);
     const urlRef = new URL(url);
     urlRef.searchParams.append('ref', 'jobs.crocoder.dev');
-    applyRefUrl.searchParams.append('ref', 'jobs.crocoder.dev');
     companyWebsiteRef.searchParams.append('ref', 'jobs.crocoder.dev');
     return [urlRef, applyRefUrl, companyWebsiteRef];
   }, [url, applyUrl, companyWebsite]);
