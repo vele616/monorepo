@@ -54,4 +54,3 @@ Benefits of working at Flightradar24 include:
 *   Modern office in the heart of beautiful downtown Stockholm, Sweden
 *   Being part of a diverse team with 15+ nationalities represented
 
-_Does this sound interesting but you want to know more? Just send us your questions via the button below. You can withdraw your interest at any time._
