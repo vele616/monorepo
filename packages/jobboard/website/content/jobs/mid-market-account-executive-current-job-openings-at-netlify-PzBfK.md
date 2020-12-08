@@ -2,17 +2,16 @@
 title: "Mid Market Account Executive"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4989388002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4989388002#app"
 timestamp: 1607385600000
-hashtags: "#sales,#ui/ux,#git,#management,#marketing,#operations,#figma,#rest"
+hashtags: "#sales,#management,#marketing,#operations,#ui/ux,#git,#figma,#rest"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a mid market account executive at Current Job Openings at Netlify, you preferably need to have 3+ years of mid-market sales experience, ideally with a highly technical cloud service."
 summaryBackup: "Current Job Openings at Netlify is looking for a mid market account executive that has experience in: #sales, #ui/ux, #git."
-featured: 20
+featured: 10
 ---
 
 ## Company Overview
