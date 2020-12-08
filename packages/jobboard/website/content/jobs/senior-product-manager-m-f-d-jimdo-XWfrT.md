@@ -1,12 +1,12 @@
 ---
-title: "Senior Product Manager (m/f/d)"
-location: "Hamburg, DE - Remote OK"
+title: "Senior Product Manager"
+location: "Hamburg, DE or Remote"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/68157240fd3301-senior-product-manager-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/68157240fd3301-senior-product-manager-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#ui/ux,#management,#marketing,#css,#scrum,#translation,#analysis,#optimization"
+hashtags: "#management,#marketing,#scrum,#translation,#analysis,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
