@@ -6,13 +6,13 @@ companyName: "FRISS | fraud, risk & compliance"
 url: "https://friss.recruitee.com/o/fight-fraud-as-sales-director-dach"
 applyUrl: "https://friss.recruitee.com/o/fight-fraud-as-sales-director-dach/c/new"
 timestamp: 1607472000000
-hashtags: "#sales,#marketing,#management,#translation,#German,#optimization"
+hashtags: "#German,#sales,#management,#translation,#optimization,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "Love experience in: #sales, #marketing, #management? Check out this job post!"
+summary: "Love experience in: #German,#sales,#management? Check out this job post!"
 summaryBackup: "To apply as a fight fraud! as sales director dach at FRISS | fraud, risk & compliance, you preferably need to have some knowledge of: #sales, #marketing, #management."
-featured: 20
+featured: 5
 ---
 
 ## Job description
