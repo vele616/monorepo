@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-mo
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "Awesome Motive, Inc is searching for a wordpress developer that has professional experience with WordPress plugin development, architecture, and standards."
 summaryBackup: "Love #wordpress, #php, #git? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 As a WordPress Developer, you're responsible for Making Stuff Go. You will build infrastructure to create new features, improve existing code, squash bugs, and help us rapidly scale our platform.
