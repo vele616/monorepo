@@ -1,5 +1,5 @@
 ---
-title: "WordPress Technical Support (Remote)"
+title: "WordPress Technical Support"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
@@ -7,12 +7,12 @@ url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=2&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=2&source=other"
 timestamp: 1607472000000
 hashtags: "#wordpress,#css,#html,#javascript,#php,#operations,#branding,#git,#marketing,#office"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have 2 years of experience with WordPress, Awesome Motive, Inc has a job opening for a wordpress technical support"
 summaryBackup: "Awesome Motive, Inc is looking for a wordpress technical support that has experience in: #wordpress, #css, #html."
-featured: 20
+featured: 10
 ---
 
 As a WordPress Technical Support Specialist, you’re responsible for guiding people to the fullest use of our products. You will build relationships based on trust which result in happy, passionate, and loyal customers through listening to their needs.
