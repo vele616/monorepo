@@ -1,18 +1,18 @@
 ---
-title: "Sr. Front-End Engineer - React"
+title: "Senior Frontend Engineer"
 location: "Ukraine"
 host: "https://apply.workable.com/wonderment/"
 companyName: "Wonderment Apps"
 url: "https://apply.workable.com/wonderment/j/1CE9A3FD3F/"
 applyUrl: "https://apply.workable.com/wonderment/j/1CE9A3FD3F/apply/"
 timestamp: 1607472000000
-hashtags: "#ui/ux,#reactjs,#management,#javascript,#jquery,#windows,#css,#html,#scrum,#photoshop"
+hashtags: "#ui/ux,#reactjs,#javascript,#management,#jquery,#windows,#css,#html,#scrum,#photoshop"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wonderment-apps"
 companyWebsite: "http://www.wondermentapps.com/"
 summary: "If you have knowledge and experience of software development throughout the entire lifecycle, Wonderment Apps is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #reactjs, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
