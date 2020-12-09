@@ -1,5 +1,5 @@
 ---
-title: "Backend Engineer - Remote"
+title: "Backend Engineer"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
