@@ -1,16 +1,16 @@
 ---
-title: "Go engineer"
+title: "Go Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/stickermule"
 companyName: "Sticker Mule"
 url: "https://jobs.lever.co/stickermule/479b76fe-10cb-4624-a2e6-4a9cc65c55fa"
 applyUrl: "https://jobs.lever.co/stickermule/479b76fe-10cb-4624-a2e6-4a9cc65c55fa/apply"
 timestamp: 1607472000000
-hashtags: "#docker,#branding,#operations,#redis,#postgresql,#office,#English"
-jobType: "other"
+hashtags: "#docker,#golang,#postgresql,#operations,#redis,#office,#branding,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sticker-mule"
 companyWebsite: "https://www.stickermule.com/"
-summary: "Sticker Mule is looking for a go engineer that has experience in: experience in: #docker, #branding, #operations."
+summary: "Sticker Mule is looking for a go engineer that has experience in: #docker, #golang, #postgresql."
 summaryBackup: "Love #docker, #branding, #operations? Check out this job post!"
 featured: 20
 ---
