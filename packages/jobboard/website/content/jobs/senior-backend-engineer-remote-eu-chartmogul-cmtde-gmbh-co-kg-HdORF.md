@@ -1,12 +1,12 @@
 ---
-title: "Senior Backend Engineer - Remote (EU)"
-location: "Remote job"
+title: "Senior Backend Engineer"
+location: "Remote"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
 url: "https://jobs.chartmogul.com/o/senior-backend-engineer-remote-eu-berlin"
 applyUrl: "https://jobs.chartmogul.com/o/senior-backend-engineer-remote-eu-berlin/c/new"
 timestamp: 1607472000000
-hashtags: "#rails,#rubylang,#terraform,#aws,#ui/ux,#management,#marketing,#postgresql,#rest,#translation"
+hashtags: "#postgresql,#rubylang,#terraform,#aws,#rails,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul-cmtde-gmbh-co-kg"
 companyWebsite: "https://chartmogul.com/"
@@ -47,7 +47,7 @@ As with many young companies, your responsibilities will change over time. Howev
 
 ## Nice to Have:
 
-*   Experience withRust.
+*   Experience with Rust.
 *   Knowledge of CI/CD systems and practice.
 *   Good knowledge of provisioning and orchestration tools. We presently use SaltStack and Terraform.
 
