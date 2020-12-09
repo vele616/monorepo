@@ -1,23 +1,23 @@
 ---
-title: "FIGHT FRAUD! as Professional Services Consultant"
+title: "Professional Services Consultant"
 location: "Remote job"
 host: "https://friss.recruitee.com/"
-companyName: "FRISS | fraud, risk & compliance"
+companyName: "FRISS "
 url: "https://friss.recruitee.com/o/fight-fraud-as-professional-services-consultant"
 applyUrl: "https://friss.recruitee.com/o/fight-fraud-as-professional-services-consultant/c/new"
 timestamp: 1607472000000
-hashtags: "#office,#management,#Dutch,#German,#optimization,#English"
+hashtags: "#Dutch,#English,#management,#German,#optimization,"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "FRISS | fraud, risk & compliance is looking for a fight fraud! as professional services consultant that has experience in: experience in: #office, #management, #Dutch."
+summary: "FRISS is looking for professional services consultant that has experience in: #Dutch, #English, #management."
 summaryBackup: "To apply as a fight fraud! as professional services consultant at FRISS | fraud, risk & compliance, you preferably need to have some knowledge of: #office, #management, #Dutch."
-featured: 20
+featured: 4
 ---
 
 ## Job description
 
-We need you to help us reach our Big Hairy Audacious Goal! By building really smart software we enable insurers worldwide to automatically detect insurance fraud and identify high risks. Our ultimate dream is that in 2025 the FRISS Score is the global trusted standard for honest insurance. Are you ready for an adventure? Our Customer Excellence team needs a new **ProfessionalServices Consultant**: if your **Dutch** is as good as yourEnglish, let's see whether there's a click!
+We need you to help us reach our Big Hairy Audacious Goal! By building really smart software we enable insurers worldwide to automatically detect insurance fraud and identify high risks. Our ultimate dream is that in 2025 the FRISS Score is the global trusted standard for honest insurance. Are you ready for an adventure? Our Customer Excellence team needs a new **Professional Services Consultant**: if your **Dutch** is as good as yourEnglish, let's see whether there's a click!
 
 ## Your mission as a Consultant
 
