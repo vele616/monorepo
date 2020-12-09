@@ -1,5 +1,5 @@
 ---
-title: "Product Marketing & Product Partnerships Mgr (EU)"
+title: "Product Marketing Manager"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
