@@ -1,5 +1,5 @@
 ---
-title: "Ruby Engineer (Security) - Remote (EU)"
+title: "Ruby Engineer (Security)"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
