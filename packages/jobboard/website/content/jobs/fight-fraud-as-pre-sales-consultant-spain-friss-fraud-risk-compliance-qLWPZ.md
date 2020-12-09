@@ -1,17 +1,17 @@
 ---
-title: "FIGHT FRAUD! as Pre-Sales Consultant SPAIN"
-location: "Remote job"
+title: "Pre-Sales Consultant"
+location: "Remote"
 host: "https://friss.recruitee.com/"
-companyName: "FRISS | fraud, risk & compliance"
+companyName: "Friss"
 url: "https://friss.recruitee.com/o/fight-fraud-as-presales-consultant-spain"
 applyUrl: "https://friss.recruitee.com/o/fight-fraud-as-presales-consultant-spain/c/new"
 timestamp: 1607472000000
-hashtags: "#sales,#css,#translation,#marketing,#analysis,#office,#French"
+hashtags: "#sales,#marketing,#Spanish,#analysis,#English,#French"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "FRISS | fraud, risk & compliance is looking for a fight fraud! as pre-sales consultant spain that has experience in: experience in: #sales, #css, #translation."
-summaryBackup: "FRISS | fraud, risk & compliance is looking for a fight fraud! as pre-sales consultant spain that has experience in: #sales, #css, #translation."
+summary: "Friss is looking for a pre-sales consultant to help them to reach Big Hairy Audacious Goal By building really smart software we enable insurers worldwide to automatically detect insurance fraud and identify high risks!"
+summaryBackup: "Friss is looking for a fight fraud! as pre-sales consultant spain that has experience in: #sales, #css, #translation."
 featured: 20
 ---
 
