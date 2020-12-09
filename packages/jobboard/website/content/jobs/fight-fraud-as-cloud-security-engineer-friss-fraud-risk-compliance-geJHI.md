@@ -1,17 +1,17 @@
 ---
-title: "FIGHT FRAUD! as Cloud Security Engineer"
-location: "Remote job"
+title: "Cloud Security Engineer"
+location: "Remote"
 host: "https://friss.recruitee.com/"
-companyName: "FRISS | fraud, risk & compliance"
+companyName: "FRISS"
 url: "https://friss.recruitee.com/o/fight-fraud-as-cloud-security-engineer"
 applyUrl: "https://friss.recruitee.com/o/fight-fraud-as-cloud-security-engineer/c/new"
 timestamp: 1607472000000
-hashtags: "#ui/ux,#scrum,#office"
-jobType: "other"
+hashtags: "#devsec,#security,#devops,#cloud,#encryption"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "Love experience in: #ui/ux, #scrum, #office? Check out this job post!"
-summaryBackup: "FRISS | fraud, risk & compliance is looking for a fight fraud! as cloud security engineer that has experience in: #ui/ux, #scrum, #office."
+summary: "Friss is looking for someone to make sure that products they develop and the infrastructure they use, are secure (by design) and compliant with existing laws and regulations."
+summaryBackup: "FRISS is looking for a fight fraud! as cloud security engineer that has experience in: #ui/ux, #scrum, #office."
 featured: 20
 ---
 
