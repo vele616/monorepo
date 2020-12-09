@@ -1,23 +1,23 @@
 ---
-title: "Backend Engineer - Remote (EU)"
+title: "Backend Engineer - Remote"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
 url: "https://jobs.chartmogul.com/o/backend-engineer-remote-eu-berlin"
 applyUrl: "https://jobs.chartmogul.com/o/backend-engineer-remote-eu-berlin/c/new"
 timestamp: 1607472000000
-hashtags: "#rubylang,#ui/ux,#analysis,#marketing,#rest,#English"
-jobType: "other"
+hashtags: "#rubylang,#rust,#postgresql,#sql,#backend"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul-cmtde-gmbh-co-kg"
 companyWebsite: "https://chartmogul.com/"
-summary: "If you have you have experience with SQLand 2, ChartMogul CMTDE GmbH & Co. KG is looking for someone with your skillset."
+summary: "If you have you have experience with SQL and at least two programming languages, preferably Rust and Ruby, ChartMogul CMTDE GmbH & Co. KG is looking for someone with your skillset."
 summaryBackup: "To apply as a backend engineer at ChartMogul CMTDE GmbH & Co. KG, you preferably need to have some knowledge of: #rubylang, #ui/ux, #analysis."
-featured: 20
+featured: 10
 ---
 
 ## Job description
 
-We are looking forenthusiastic junior software engineers to join our experienced Analytics and Data Platform engineering teams respectively. Yourprimary focus will be to learn our codebases andtech stack, andassist with all functions of software coding and design - all while continually striving toimprove your coding and design skills.
+We are looking forenthusiastic junior software engineers to join our experienced Analytics and Data Platform engineering teams respectively. Your primary focus will be to learn our codebases andtech stack, andassist with all functions of software coding and design - all while continually striving toimprove your coding and design skills.
 
 If you havegood working knowledge of basic programming languages, a passion forlearning new technologies quickly, and the ability to work in a team environment, we want to hear from you!
 
@@ -37,14 +37,14 @@ As with many young companies, your responsibilities will change over time. Here 
 ## Professionally
 
 *   Good knowledge of the fundamentals of software development – how to structure programs and decompose problems, when to apply patterns, and understand how and whento select the right paradigm for a task.
-*   You have experience with SQLand 2 (or more) programming languages.
+*   You have experience with SQL and 2 (or more) programming languages.
 *   Ability to work as a team member.
 *   Ability to work creatively and analytically in a problem-solving environment.
 *   Speaking English fluently.
 *   Nice to have:
     *   Experience with Ruby.
-    *   Experience withPostgreSQL.
-    *   Experience withRust.
+    *   Experience with PostgreSQL.
+    *   Experience with Rust.
 
 **Behaviourally**
 
