@@ -6,13 +6,13 @@ companyName: "ChartMogul CMTDE GmbH & Co. KG"
 url: "https://jobs.chartmogul.com/o/product-marketing-product-partnerships-mgr-eu"
 applyUrl: "https://jobs.chartmogul.com/o/product-marketing-product-partnerships-mgr-eu/c/new"
 timestamp: 1607472000000
-hashtags: "#marketing,#css,#ui/ux,#sales,#content,#analysis,#management,#office,#English"
+hashtags: "#marketing,#content,#analysis,#css,#ui/ux,#sales,#management,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul-cmtde-gmbh-co-kg"
 companyWebsite: "https://chartmogul.com/"
-summary: "Excited about experience in: #marketing, #css, #ui/ux? Check out this job post!"
+summary: "Excited about experience in: #marketing, #content, #analysis? Check out this job post!"
 summaryBackup: "Excited about #marketing, #css, #ui/ux? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Job description
