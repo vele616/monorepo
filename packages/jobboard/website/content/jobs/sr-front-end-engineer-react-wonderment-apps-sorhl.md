@@ -7,7 +7,7 @@ url: "https://apply.workable.com/wonderment/j/1CE9A3FD3F/"
 applyUrl: "https://apply.workable.com/wonderment/j/1CE9A3FD3F/apply/"
 timestamp: 1607472000000
 hashtags: "#ui/ux,#reactjs,#javascript,#management,#jquery,#windows,#css,#html,#scrum,#photoshop"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wonderment-apps"
 companyWebsite: "http://www.wondermentapps.com/"
 summary: "If you have knowledge and experience of software development throughout the entire lifecycle, Wonderment Apps is looking for someone with your skillset."
