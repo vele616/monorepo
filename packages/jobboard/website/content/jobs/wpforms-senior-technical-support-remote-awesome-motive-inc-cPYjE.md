@@ -1,5 +1,5 @@
 ---
-title: "WPForms Senior Technical Support (Remote)"
+title: "WPForms Senior Technical Support"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-mo
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "Awesome Motive, Inc is searching for a wpforms senior technical support that has 1 year of experience managing a team of 2 or more."
 summaryBackup: "Love #wordpress, #management, #css? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 As a Senior Technical Support Specialist within WPForms, you’ll be responsible for supervising a small group of support team members. You'll work with these team members closely to help guide their professional development, provide advice through your WordPress expertise, ensure individual and team goals are consistently met/exceeded, and continually reinforce a positive, team-oriented culture.
