@@ -1,16 +1,16 @@
 ---
-title: "Mid-Level Backend Software Engineer"
+title: "Backend Software Engineer"
 location: "Remote-EU"
 host: "https://jobs.lever.co/vitaminsoftware/?location=Remote%20-%20EU"
 companyName: "Vitamin Software"
 url: "https://jobs.lever.co/vitaminsoftware/04b9eeb5-31f9-4dc0-8328-cf7d70cb00da"
 applyUrl: "https://jobs.lever.co/vitaminsoftware/04b9eeb5-31f9-4dc0-8328-cf7d70cb00da/apply"
 timestamp: 1607472000000
-hashtags: "#management,#aws,#azure,#operations,#monitoring,#English"
+hashtags: "#aws,#azure,#monitoring,#operations,#management,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vitamin-software"
 companyWebsite: "https://www.vitaminsoftware.com/"
-summary: "Vitamin Software is searching for a mid-level backend software engineer that has 3 years."
+summary: "Vitamin Software is searching for a mid-level backend software engineer that has 3 years of experience."
 summaryBackup: "Vitamin Software is looking for a mid-level backend software engineer that has experience in: #management, #aws, #azure."
 featured: 20
 ---
