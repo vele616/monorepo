@@ -1,16 +1,16 @@
 ---
-title: "WordPress Developer (Remote)"
+title: "WordPress Developer"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
 url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=3&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=3&source=other"
 timestamp: 1607472000000
-hashtags: "#wordpress,#php,#git,#javascript,#reactjs,#vuejs,#jquery,#golang,#management,#branding"
+hashtags: "#wordpress,#php,#mysql,#git,#javascript,#jquery,#management,#branding,#reactjs,#vuejs"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
-summary: "Awesome Motive, Inc is searching for a wordpress developer that has professional experience with WordPress."
+summary: "Awesome Motive, Inc is searching for a wordpress developer that has professional experience with WordPress plugin development, architecture, and standards."
 summaryBackup: "Love #wordpress, #php, #git? Check out this job post!"
 featured: 20
 ---
