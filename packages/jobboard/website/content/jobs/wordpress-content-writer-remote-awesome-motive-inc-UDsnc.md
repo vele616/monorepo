@@ -1,18 +1,18 @@
 ---
-title: "WordPress Content Writer (Remote)"
+title: "WordPress Content Writer"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
 url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=4&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=4&source=other"
 timestamp: 1607472000000
-hashtags: "#wordpress,#html,#operations,#content,#analysis,#branding,#management,#asana,#optimization,#office"
+hashtags: "#content,#wordpress,#html,#operations,#analysis,#branding,#management,#asana,#optimization,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
-summary: "If you have an overview of your experience with self, Awesome Motive, Inc is looking for someone with your skillset."
+summary: "If you have the ability to research and understand technical concepts, then explain them in simple terms to people who aren’t tech-savvy, Awesome Motive, Inc is looking for someone with your skillset."
 summaryBackup: "Excited about #wordpress, #html, #operations? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 As a Writer at Awesome Motive, you’re responsible for growing our organic traffic and converting website visitors into email subscribers and customers.
