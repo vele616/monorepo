@@ -1,5 +1,5 @@
 ---
-title: "FIGHT FRAUD! as Sales Director DACH"
+title: "Sales Director"
 location: "Remote job"
 host: "https://friss.recruitee.com/"
 companyName: "FRISS | fraud, risk & compliance"
