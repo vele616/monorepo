@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudi
 companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio is looking for a qa internship that has experience in: #javascript, #jquery, #internship."
 summaryBackup: "Excited about #javascript, #jquery, #internship? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## What we are looking for?
