@@ -1,5 +1,5 @@
 ---
-title: "Technical Support Internship (Remote)"
+title: "Technical Support Internship"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
