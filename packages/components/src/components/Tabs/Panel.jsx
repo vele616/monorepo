@@ -3,12 +3,17 @@ import PropTypes from "prop-types";
 import classnames from "classnames";
 import styles from "./index.module.scss";
 
-const Panel = ({ className, children, hidden }) => {
+const Panel = ({ classAnimation, className, children, hidden }) => {
   return (
     <div
-      className={classnames(styles.tabs__panelList__panel, className, {
-        [styles.hidden]: hidden,
-      })}
+      className={classnames(
+        styles.tabs__panelList__panel,
+        className,
+        classAnimation,
+        {
+          [styles.hidden]: hidden,
+        }
+      )}
       role="tabpanel"
     >
       {children}
@@ -23,6 +28,10 @@ Panel.propTypes = {
    * Children elements of Panel component.
    */
   children: PropTypes.node,
+  /**
+   * Animation class propagated by the parent (Tabs.PanelList)
+   */
+  classAnimation: PropTypes.string,
   /**
    * Additional classname for Panel component.
    */

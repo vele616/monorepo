@@ -35,15 +35,12 @@ const PanelList = ({
 
   const allPanels = useMemo(() => {
     return (
-      <div
-        className={classnames(
-          styles.tabs__panelList,
-          className,
-          classAnimation
-        )}
-      >
+      <div className={classnames(styles.tabs__panelList, className)}>
         {React.Children.map(children, (child, index) => {
-          return React.cloneElement(child, { hidden: selectedIndex !== index });
+          return React.cloneElement(child, {
+            hidden: selectedIndex !== index,
+            classAnimation,
+          });
         })}
       </div>
     );
