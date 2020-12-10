@@ -1,12 +1,12 @@
 ---
-title: "Ruby on Rails Developer (Remote Non-UK based)"
+title: "Ruby on Rails Developer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/bit-zesty/?lng=en"
 companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/D8336DB20F/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/D8336DB20F/apply/"
 timestamp: 1607558400000
-hashtags: "#rails,#rubylang,#reactjs,#ui/ux,#postgresql,#elasticsearch,#mongodb,#mysql,#management,#office"
+hashtags: "#rails,#rubylang,#postgresql,#reactjs,#ui/ux,#elasticsearch,#mongodb,#mysql,#management,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
