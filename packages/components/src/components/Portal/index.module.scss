@@ -1,0 +1,111 @@
+@import "../../styles/main.module.scss";
+
+.relative {
+  position: fixed;
+
+  &.left_top {
+    left: 0;
+    top: 0;
+    transform: translate(0, 0);
+
+    &.withParent {
+      transform: translate(-100%, -100%);
+    }
+  }
+
+  &.center_top {
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, 0);
+
+    &.withParent {
+      transform: translate(-50%, -100%);
+
+      &.removeHalf {
+        transform: translate(0, -100%);
+      }
+    }
+  }
+
+  &.right_top {
+    left: 100%;
+    top: 0;
+    transform: translate(-100%, 0);
+
+    &.withParent {
+      transform: translate(0%, -100%);
+    }
+  }
+
+  &.left_center {
+    left: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+
+    &.withParent {
+      transform: translate(-100%, -50%);
+    }
+  }
+
+  &.center_center {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    &.withParent {
+      transform: translate(-50%, -50%);
+
+      &.removeHalf {
+        transform: translate(0, 0%);
+      }
+    }
+  }
+
+  &.right_center {
+    left: 100%;
+    top: 50%;
+    transform: translate(-100%, -50%);
+
+    &.withParent {
+      transform: translate(0%, -50%);
+    }
+  }
+
+  &.left_bottom {
+    left: 0;
+    top: 100%;
+    transform: translate(0, -100%);
+
+    &.withParent {
+      transform: translate(-100%, 0%);
+    }
+  }
+
+  &.center_bottom {
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%, -100%);
+
+    &.withParent {
+      transform: translate(-50%, 0%);
+
+      &.removeHalf {
+        transform: translate(0, 0%);
+      }
+    }
+  }
+
+  &.right_bottom {
+    left: 100%;
+    top: 100%;
+    transform: translate(-100%, -100%);
+
+    &.withParent {
+      transform: translate(0%, 0%);
+    }
+  }
+}
+
+.base {
+  position: relative;
+}
