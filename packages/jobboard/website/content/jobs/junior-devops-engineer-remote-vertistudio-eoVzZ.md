@@ -1,18 +1,18 @@
 ---
-title: "Junior DevOps Engineer (Remote)"
+title: "Junior DevOps Engineer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/1SdZXEdkA57T/junior-devops-engineer-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/1SdZXEdkA57T/junior-devops-engineer-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#javascript,#css,#html,#docker,#aws,#content,#ui/ux,#git,#marketing,#English"
-jobType: "other"
+hashtags: "#javascript,#docker,#aws,#css,#html,#content,#ui/ux,#git,#marketing,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
-summary: "To apply as a junior devops engineer at VertiStudio, you preferably need to have some knowledge of: experience in: #javascript, #css, #html."
+summary: "To apply as a junior devops engineer at VertiStudio, you preferably need to have some knowledge of: experience in: #javascript, #docker, #aws."
 summaryBackup: "To apply as a junior devops engineer at VertiStudio, you preferably need to have some knowledge of: #javascript, #css, #html."
-featured: 20
+featured: 1
 ---
 
 ## What we are looking for?
