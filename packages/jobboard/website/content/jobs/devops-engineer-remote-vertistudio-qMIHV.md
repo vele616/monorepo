@@ -1,18 +1,18 @@
 ---
-title: "DevOps Engineer (Remote)"
+title: "DevOps Engineer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/ugw8GH4euDMZ/devops-engineer-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/ugw8GH4euDMZ/devops-engineer-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#nodejs,#golang,#php,#ui/ux,#terraform,#kubernetes,#docker,#aws,#content,#management"
+hashtags: "#devops,#docker,#kubernetes,#golang,#terraform,#nodejs,#aws,#content,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
 summary: "To apply as a devops engineer at VertiStudio, you preferably need to have 2+ years experience using AWS."
 summaryBackup: "Excited about #nodejs, #golang, #php? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## About us
