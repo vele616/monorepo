@@ -8,7 +8,7 @@ const PanelList = ({
   className,
   children,
   selectedIndex,
-  dynamic,
+  stateless,
   animation = "enter",
 }) => {
   const classAnimation = useMemo(() => {
@@ -49,7 +49,7 @@ const PanelList = ({
     );
   }, [children, classAnimation, className, selectedIndex]);
 
-  return dynamic ? allPanels : singlePanel;
+  return stateless ? allPanels : singlePanel;
 };
 
 PanelList.tabType = "PanelList";
@@ -70,7 +70,7 @@ PanelList.propTypes = {
   /**
    * Indicator if children will be rendered each time or they will be hidden and visible on demand.
    */
-  dynamic: PropTypes.bool,
+  stateless: PropTypes.bool,
   /**
    * Panel with this index will be shown.
    */

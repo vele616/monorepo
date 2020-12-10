@@ -1,7 +1,6 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Tabs from "./index";
 import Button from "../Button";
-import Typography from "../Typography";
 
 export default {
   title: "Components/Tabs",
@@ -35,20 +34,6 @@ export const Story1 = (args) => {
 export const Story2 = (args) => {
   return (
     <div>
-      <div
-        style={{
-          width: "20%",
-          height: "100vh",
-          backgroundColor: "papayawhip",
-          marginRight: "10px",
-          display: "inline-block",
-          padding: "10px 20px",
-        }}
-      >
-        Sample of controlled Tabs Component. Try clicking on buttons below to
-        change selected tab
-      </div>
-
       <Tabs {...args}>
         {(tabClick) => {
           return (
@@ -83,6 +68,14 @@ export const Story2 = (args) => {
 };
 
 Story2.storyName = "Controlled";
+Story2.parameters = {
+  docs: {
+    description: {
+      story: `This story shows Tabs component that can be controlled from outside. In this example, clicking
+      on each button will force component to change its tab.`,
+    },
+  },
+};
 
 export const Story3 = (args) => {
   return (
@@ -107,52 +100,76 @@ Story3.parameters = {
     defaultViewport: "mobileMinimum",
   },
 };
-
-export const Story4 = (args) => {
-  return (
-    <Tabs {...args}>
-      <Tabs.TabList>
-        <Tabs.Tab>DEFINITION</Tabs.Tab>
-        <Tabs.Tab>ITERATION</Tabs.Tab>
-        <Tabs.Tab>LAUNCH</Tabs.Tab>
-        <Tabs.Tab>DEFINITION</Tabs.Tab>
-        <Tabs.Tab>ITERATION</Tabs.Tab>
-        <Tabs.Tab>LAUNCH</Tabs.Tab>
-      </Tabs.TabList>
-      <Tabs.PanelList>
-        <Tabs.Panel>{text1}</Tabs.Panel>
-        <Tabs.Panel>{text2}</Tabs.Panel>
-        <Tabs.Panel>{text3}</Tabs.Panel>
-      </Tabs.PanelList>
-    </Tabs>
-  );
+Story3.parameters = {
+  docs: {
+    description: {
+      story: `This story shows Tabs component on small screen`,
+    },
+  },
 };
 
-Story4.storyName = "Larger";
+// eslint-disable-next-line react/prop-types
+const Loader = ({ timeout }) => {
+  const [state, setState] = useState("Loading...");
+
+  useEffect(() => {
+    setTimeout(() => {
+      setState("Loaded!");
+    }, timeout);
+  }, [timeout]);
+
+  return <div>{state}</div>;
+};
 
 export const Story5 = (args) => {
   return (
-    <Tabs {...args}>
-      <Tabs.TabList>
-        <Tabs.Tab>
-          <Typography
-            fontSize={26}
-            fontFamily="rubik"
-            element="div"
-            fontWeight={700}
-          >
-            DEFINITION
-          </Typography>
-        </Tabs.Tab>
-        <Tabs.Tab>ITERATION</Tabs.Tab>
-        <Tabs.Tab>LAUNCH</Tabs.Tab>
-      </Tabs.TabList>
-      <Tabs.PanelList>
-        <Tabs.Panel>{text1}</Tabs.Panel>
-        <Tabs.Panel>{text2}</Tabs.Panel>
-        <Tabs.Panel>{text3}</Tabs.Panel>
-      </Tabs.PanelList>
-    </Tabs>
+    <div>
+      <Tabs stateless {...args}>
+        <Tabs.TabList>
+          <Tabs.Tab>DEFINITION</Tabs.Tab>
+          <Tabs.Tab>ITERATION</Tabs.Tab>
+          <Tabs.Tab>LAUNCH</Tabs.Tab>
+        </Tabs.TabList>
+        <Tabs.PanelList>
+          <Tabs.Panel>
+            <Loader timeout={2000} />
+          </Tabs.Panel>
+          <Tabs.Panel>
+            <Loader timeout={4000} />
+          </Tabs.Panel>
+          <Tabs.Panel>
+            <Loader timeout={6000} />
+          </Tabs.Panel>
+        </Tabs.PanelList>
+      </Tabs>
+      <Tabs {...args}>
+        <Tabs.TabList>
+          <Tabs.Tab>DEFINITION</Tabs.Tab>
+          <Tabs.Tab>ITERATION</Tabs.Tab>
+          <Tabs.Tab>LAUNCH</Tabs.Tab>
+        </Tabs.TabList>
+        <Tabs.PanelList>
+          <Tabs.Panel>
+            <Loader timeout={2000} />
+          </Tabs.Panel>
+          <Tabs.Panel>
+            <Loader timeout={4000} />
+          </Tabs.Panel>
+          <Tabs.Panel>
+            <Loader timeout={6000} />
+          </Tabs.Panel>
+        </Tabs.PanelList>
+      </Tabs>
+    </div>
   );
 };
-Story5.storyName = "Styled";
+Story5.storyName = "Stateless";
+Story5.parameters = {
+  docs: {
+    description: {
+      story: `This story shows Stateless vs. Statefull component. If stateless property is set to true,
+      this component will become 'stateless'. This means that each panel will be loaded only once and then 
+      toggled via selected tab. If component is Statefull, content will load each time due state change.`,
+    },
+  },
+};

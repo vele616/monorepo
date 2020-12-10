@@ -13,6 +13,7 @@ const Tabs = ({
   onTabChange,
   defaultTab,
   orientation = "horizontal",
+  stateless,
 }) => {
   const [selectedIndex, setSelectedIndex] = useState(defaultTab || 0);
 
@@ -47,13 +48,14 @@ const Tabs = ({
           });
         case "PanelList":
           return React.cloneElement(child, {
+            stateless,
             selectedIndex,
           });
         default:
           return child;
       }
     });
-  }, [children, handleOnTabClick, selectedIndex, orientation]);
+  }, [children, handleOnTabClick, selectedIndex, orientation, stateless]);
 
   return (
     <div
@@ -95,6 +97,10 @@ Tabs.propTypes = {
    * one below another.
    */
   orientation: PropTypes.oneOf(["vertical", "horizontal"]),
+  /**
+   * Indicator if children will be rendered each time or they will be hidden and visible on demand.
+   */
+  stateless: PropTypes.bool,
 };
 
 export default Tabs;
