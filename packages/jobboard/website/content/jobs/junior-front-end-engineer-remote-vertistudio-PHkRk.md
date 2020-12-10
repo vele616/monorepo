@@ -1,5 +1,5 @@
 ---
-title: "Junior Front-end Engineer (Remote)"
+title: "Junior Front-end Engineer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#javascript,#php,#wordpress,#ui/ux,#html,#css,#content,#mark
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
-summary: "VertiStudio is looking for a junior front-end engineer that has experience in: experience in: #reactjs, #javascript, #php."
+summary: "VertiStudio is looking for a junior front-end engineer that has experience in #reactjs and preferably in #php and #wordpress."
 summaryBackup: "Love #reactjs, #javascript, #php? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## What we are looking for?
