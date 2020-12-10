@@ -1,18 +1,18 @@
 ---
-title: "QA Engineer (Remote)"
+title: "QA Engineer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/3WyHFGtDKXzt/qa-engineer-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/3WyHFGtDKXzt/qa-engineer-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#wordpress,#ui/ux,#content,#git,#marketing,#English"
-jobType: "other"
+hashtags: "#wordpress,#ui/ux,#English,#content,#git,#marketing"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio intends to hire a new qa engineer. If you have previous experience with WordPress, consider applying."
 summaryBackup: "VertiStudio is looking for a qa engineer that has experience in: #wordpress, #ui/ux, #content."
-featured: 20
+featured: 15
 ---
 
 Are you a creative person, passionate about testing and automation?
