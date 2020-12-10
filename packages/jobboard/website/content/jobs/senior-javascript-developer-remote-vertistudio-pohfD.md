@@ -1,18 +1,18 @@
 ---
-title: "Senior JavaScript Developer (Remote)"
+title: "Senior JavaScript Developer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/ZBt4Z38cEtdd/senior-javascript-developer-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/ZBt4Z38cEtdd/senior-javascript-developer-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#javascript,#ui/ux,#wordpress,#reactjs,#php,#css,#html,#marketing,#content,#analysis"
+hashtags: "#javascript,#wordpress,#reactjs,#php,#ui/ux,#css,#html,#marketing,#content,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio wishes to hire a new senior javascript developer. If you have 2+ years experience building web applications, consider applying."
 summaryBackup: "To apply as a senior javascript developer at VertiStudio, you preferably need to have some knowledge of: #javascript, #ui/ux, #wordpress."
-featured: 20
+featured: 12
 ---
 
 ## About us
