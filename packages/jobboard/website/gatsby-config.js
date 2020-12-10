@@ -49,7 +49,11 @@ module.exports = {
       options: {
         name: 'jobs',
         engine: 'flexsearch',
-        engineOptions: 'speed',
+        engineOptions: {
+          encode: "balance",
+          tokenize: "full",
+          threshold: 1,
+      },
         query: `
         {
           allMarkdownRemark(sort: {fields: [frontmatter___timestamp, frontmatter___featured], order: DESC}, filter: {frontmatter: {archived: {ne: "true"}}}) {
@@ -60,6 +64,7 @@ module.exports = {
               }
               frontmatter {
                 title
+                hashtags
                 companyName
                 summary
               }
@@ -69,13 +74,16 @@ module.exports = {
         }
         `,
         ref: 'id',
-        index: ['title', 'companyName', 'summary', 'body'],
-        store: ['slug', 'title', 'companyName', 'summary'],
+        index: ['title', 'indexedSlug', 'companyName', 'summary', 'body', 'hashtagsString'],
+        store: ['slug', 'title', 'companyName', 'summary', 'hashtags'],
         normalizer: ({ data }) =>
           data.allMarkdownRemark.nodes.map((node) => ({
             id: node.id,
             slug: node.fields.slug,
+            indexedSlug: node.fields.slug.split('-').join(' '),
             summary: node.frontmatter.summary,
+            hashtags: node.frontmatter.hashtags.split(',').slice(0,3),
+            hashtagsString: node.frontmatter.hashtags.split(',').slice(0,3).join(' ').replace(/#/g, ''),
             companyName: node.frontmatter.companyName,
             title: node.frontmatter.title,
             body: node.rawMarkdownBody,
