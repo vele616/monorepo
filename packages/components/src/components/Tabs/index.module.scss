@@ -1,0 +1,124 @@
+@import '../../styles/main.module.scss';
+
+.tabs {
+  display: inline-flex;
+  flex-direction: column;
+
+  @include mediaQuery("<=tabletPortrait") {
+    width: 100%;
+  }
+
+  &__vertical {
+    flex-direction: row;
+  } 
+
+  &__tabList {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    -webkit-user-select: none;       
+    user-select: none;
+
+    &__vertical {
+      flex-direction: column;
+      max-width: min-content;
+    } 
+   
+    &__tab {
+      background-color: transparent;
+      border: none;
+      cursor: pointer;
+      flex-grow: 1;
+      opacity: 0.5;
+      outline: none;
+      padding: 16px 25px 14px 25px;
+      position: relative;
+
+      &.selected {
+        color: green;
+        opacity: 1;
+      }
+
+      &:focus {
+        &:not(.selected) {
+          opacity: 0.7;
+        }
+      }
+   
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+
+  &__panelListMultiple {
+    display: flex;
+    height: 150px;
+
+    &__panel {
+      box-sizing: border-box;
+      padding: 10px 20px;
+      height: 100%;
+    }
+  }
+
+  &__panelList {
+    
+    height: 150px;
+   
+    &.enter {
+      animation: enter 1.6s;
+    }
+
+    &.fastEnter {
+      animation: enter 0.6s;
+    }
+
+    &__panel {
+      box-sizing: border-box;
+      padding: 10px 20px;
+      width: 100%;
+      height: 100%;
+      &.hidden {
+        display: none;
+      }
+    }
+  }
+
+}
+
+@keyframes enter {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+.underline {
+  background-color: rgba(117, 97, 97, 0.342);
+  bottom: 0;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+
+  &.vertical {
+    top: 0;
+  }
+
+  &__selected {
+    background-color: green;
+    bottom: 0;
+    height: 3px;
+    position: absolute;
+    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    width: 300px;
+  }
+}
