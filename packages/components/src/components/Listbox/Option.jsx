@@ -63,8 +63,11 @@ const Option = ({
       onFocus={handleFocus}
       tabIndex={0}
     >
-      {showCheckIcon && selected && (
-        <Icon className={`${styles.listbox__icon}`} icon="check" />
+      {enableMultiselect && showCheckIcon && selected && (
+        <Icon className={`${styles.listbox__icon}`} icon="checkbox-checked" />
+      )}
+      {enableMultiselect && showCheckIcon && !selected && (
+        <Icon className={`${styles.listbox__icon}`} icon="checkbox-unchecked" />
       )}
       <span>{children}</span>
     </div>
