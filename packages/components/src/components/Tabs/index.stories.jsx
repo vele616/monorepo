@@ -1,6 +1,7 @@
 import React from "react";
 import Tabs from "./index";
 import Button from "../Button";
+import Typography from "../Typography";
 
 export default {
   title: "Components/Tabs",
@@ -128,3 +129,30 @@ export const Story4 = (args) => {
 };
 
 Story4.storyName = "Larger";
+
+export const Story5 = (args) => {
+  return (
+    <Tabs {...args}>
+      <Tabs.TabList>
+        <Tabs.Tab>
+          <Typography
+            fontSize={26}
+            fontFamily="rubik"
+            element="div"
+            fontWeight={700}
+          >
+            DEFINITION
+          </Typography>
+        </Tabs.Tab>
+        <Tabs.Tab>ITERATION</Tabs.Tab>
+        <Tabs.Tab>LAUNCH</Tabs.Tab>
+      </Tabs.TabList>
+      <Tabs.PanelList>
+        <Tabs.Panel>{text1}</Tabs.Panel>
+        <Tabs.Panel>{text2}</Tabs.Panel>
+        <Tabs.Panel>{text3}</Tabs.Panel>
+      </Tabs.PanelList>
+    </Tabs>
+  );
+};
+Story5.storyName = "Styled";

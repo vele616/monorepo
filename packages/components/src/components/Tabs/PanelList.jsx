@@ -55,11 +55,26 @@ const PanelList = ({
 PanelList.tabType = "PanelList";
 
 PanelList.propTypes = {
-  className: PropTypes.string,
-  children: PropTypes.node,
-  selectedIndex: PropTypes.number,
-  dynamic: PropTypes.bool,
+  /**
+   * Animation that will be triggered each time content changes.
+   */
   animation: PropTypes.oneOf(["none", "enter", "fastEnter"]),
+  /**
+   * Children of PanelList elements. This elements should be of type Panel
+   */
+  children: PropTypes.node,
+  /**
+   * Additional classname for PanelList component.
+   */
+  className: PropTypes.string,
+  /**
+   * Indicator if children will be rendered each time or they will be hidden and visible on demand.
+   */
+  dynamic: PropTypes.bool,
+  /**
+   * Panel with this index will be shown.
+   */
+  selectedIndex: PropTypes.number,
 };
 
 export default PanelList;

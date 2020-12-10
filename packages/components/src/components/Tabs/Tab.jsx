@@ -2,7 +2,6 @@ import React, { useCallback, useRef, useEffect } from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames";
 import styles from "./index.module.scss";
-import Typography from "../Typography";
 
 const Tab = ({
   className,
@@ -48,26 +47,37 @@ const Tab = ({
       role="tab"
       onClick={handleOnClick}
     >
-      <Typography
-        element="div"
-        fontSize={18}
-        fontFamily="rubik"
-        className={styles.tabText}
-      >
-        {children}
-      </Typography>
+      {children}
     </button>
   );
 };
 
 Tab.tabType = "Tab";
 Tab.propTypes = {
-  className: PropTypes.string,
+  /**
+   * Children of Tab component. This is usually string.
+   */
   children: PropTypes.node,
-  onClick: PropTypes.func,
+  /**
+   * Additional classname for Tab component.
+   */
+  className: PropTypes.string,
+  /**
+   * Index of this tab.
+   */
   index: PropTypes.number,
-  selected: PropTypes.bool,
+  /**
+   * Function that will trigger when tab is clicked.
+   */
+  onClick: PropTypes.func,
+  /**
+   * Function that will trigger when tab is selected.
+   */
   onTabSelect: PropTypes.func,
+  /**
+   * Indicator if this Tab is currently selected. Only one tab can be selected at the time.
+   */
+  selected: PropTypes.bool,
 };
 
 export default Tab;

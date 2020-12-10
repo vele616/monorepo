@@ -72,11 +72,29 @@ Tabs.Panel = Panel;
 Tabs.PanelList = PanelList;
 
 Tabs.propTypes = {
-  orientation: PropTypes.oneOf(["vertical", "horizontal"]),
-  className: PropTypes.string,
+  /**
+   * Children of Tabs component. Children can also be a function if you want to access
+   * onClick handler for each tab. Top children elements should be Tabs.TabList and Tabs.PanelList only.
+   * TabList should contain only Tabs.Tab elements and Tab.PanelList should contain only Tabs.Panel elements.
+   */
   children: PropTypes.oneOfType([PropTypes.node, PropTypes.func]),
-  onTabChange: PropTypes.func,
+  /**
+   * Additional classname for Tabs component.
+   */
+  className: PropTypes.string,
+  /**
+   * Index of default selected tab.
+   */
   defaultTab: PropTypes.number,
+  /**
+   * Function that will trigger each time tab is changed.
+   */
+  onTabChange: PropTypes.func,
+  /**
+   * Orientation of tabs. Set horizontal to have tabs in line or vertical to have tabs
+   * one below another.
+   */
+  orientation: PropTypes.oneOf(["vertical", "horizontal"]),
 };
 
 export default Tabs;

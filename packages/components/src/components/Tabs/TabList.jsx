@@ -17,12 +17,13 @@ const Keys = Object.freeze({
 });
 
 const TabList = ({
-  className,
   children,
+  className,
   onClick,
   orientation,
-  underlineType = "line",
   selectedIndex,
+  underlineClassname,
+  underlineType = "line",
 }) => {
   const [underlineLeft, setUnderlineLeft] = useState(0);
   const [underlineWidth, setUnderlineWidth] = useState(0);
@@ -126,6 +127,7 @@ const TabList = ({
         left={underlineLeft}
         top={underlineTop}
         orientation={orientation}
+        className={underlineClassname}
       />
     </div>
   );
@@ -134,12 +136,35 @@ const TabList = ({
 TabList.tabType = "TabList";
 
 TabList.propTypes = {
-  className: PropTypes.string,
+  /**
+   * Children of TabList component.
+   */
   children: PropTypes.node,
+  /**
+   * Additional classname for TabList component.
+   */
+  className: PropTypes.string,
+  /**
+   * Function that will trigger when Tab is clicked.
+   */
   onClick: PropTypes.func,
+  /**
+   * Orientation of tabs. Set horizontal to have tabs in line or vertical to have tabs
+   * one below another.
+   */
   orientation: PropTypes.oneOf(["horizontal", "vertical"]),
-  underlineType: PropTypes.oneOf(["line"]),
+  /**
+   * Index of selected Tab.
+   */
   selectedIndex: PropTypes.number,
+  /**
+   * Additional classname for line under tabs.
+   */
+  underlineClassname: PropTypes.string,
+  /**
+   * Underline type.
+   */
+  underlineType: PropTypes.oneOf(["line"]),
 };
 
 export default TabList;
