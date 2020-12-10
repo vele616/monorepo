@@ -1,16 +1,16 @@
 ---
-title: "QA Internship (Remote)"
+title: "QA Internship"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/Ekb973cGpvgv/qa-internship-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/Ekb973cGpvgv/qa-internship-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#javascript,#jquery,#internship,#wordpress,#content,#git,#css,#html,#marketing,#ui/ux"
+hashtags: "#javascript,#jquery,#git,#wordpress,#internship,#content,#css,#html,#marketing,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
-summary: "VertiStudio is looking for a qa internship that has experience in: experience in: #javascript, #jquery, #internship."
+summary: "VertiStudio is looking for a qa internship that has experience in: #javascript, #jquery, #internship."
 summaryBackup: "Excited about #javascript, #jquery, #internship? Check out this job post!"
 featured: 20
 ---
