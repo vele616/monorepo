@@ -6,13 +6,13 @@ companyName: "Primer Technologies, Inc."
 url: "https://jobs.lever.co/pri.ai/3a1a5640-c844-4778-b729-31db94fb9ae3"
 applyUrl: "https://jobs.lever.co/pri.ai/3a1a5640-c844-4778-b729-31db94fb9ae3/apply"
 timestamp: 1607558400000
-hashtags: "#ui/ux,#management,#css,#html,#translation,#photoshop,#figma,#scrum"
+hashtags: "#ui/ux,#css,#html,#translation,#photoshop,#figma,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer-technologies-inc-"
 companyWebsite: "http://www.primer.ai/"
 summary: "To apply as an ux designer at Primer Technologies, Inc., you preferably need to have 3+ years of professional experience working in UX roles."
 summaryBackup: "Love #ui/ux, #management, #css? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 **Design at Primer**
