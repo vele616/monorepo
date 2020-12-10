@@ -6,13 +6,13 @@ companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/sI7oeoiF_1dl/templates-starter-sites-designer-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/sI7oeoiF_1dl/templates-starter-sites-designer-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#ui/ux,#css,#html,#wordpress,#content,#marketing,#figma,#analysis,#office,#English"
+hashtags: "#ui/ux,#css,#wordpress,#content,#marketing,#figma,#analysis,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
-summary: "To apply as a templates at VertiStudio, you preferably need to have 2+ years experience building graphical designs."
+summary: "To apply as a Templates/Starter Sites Designer at VertiStudio, you preferably need to have 2+ years experience building graphical designs."
 summaryBackup: "VertiStudio is looking for a templates that has experience in: #ui/ux, #css, #html."
-featured: 20
+featured: 5
 ---
 
 ## About us
