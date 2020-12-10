@@ -35,7 +35,7 @@
       position: relative;
 
       &.selected {
-        color: green;
+        color: $green_2;
         opacity: 1;
       }
 
@@ -108,7 +108,7 @@
   }
 
   &__selected {
-    background-color: green;
+    background-color: $green_2;
     bottom: 0;
     height: 3px;
     position: absolute;

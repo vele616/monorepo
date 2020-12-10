@@ -8,6 +8,7 @@ import Panel from "./Panel";
 import PanelList from "./PanelList";
 
 const Tabs = ({
+  animation = "enter",
   className,
   children,
   onTabChange,
@@ -50,12 +51,20 @@ const Tabs = ({
           return React.cloneElement(child, {
             stateless,
             selectedIndex,
+            animation,
           });
         default:
           return child;
       }
     });
-  }, [children, handleOnTabClick, selectedIndex, orientation, stateless]);
+  }, [
+    children,
+    handleOnTabClick,
+    selectedIndex,
+    orientation,
+    stateless,
+    animation,
+  ]);
 
   return (
     <div
@@ -74,6 +83,10 @@ Tabs.Panel = Panel;
 Tabs.PanelList = PanelList;
 
 Tabs.propTypes = {
+  /**
+   * Animation that will be triggered each time content changes.
+   */
+  animation: PropTypes.oneOf(["none", "enter", "fastEnter"]),
   /**
    * Children of Tabs component. Children can also be a function if you want to access
    * onClick handler for each tab. Top children elements should be Tabs.TabList and Tabs.PanelList only.
