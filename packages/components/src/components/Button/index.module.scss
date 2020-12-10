@@ -76,3 +76,33 @@
     outline: none;
   }
 }
+
+// Pill variant
+.pill {
+  background-color: transparent;
+  border-radius: 50px;
+  border: solid 1px $gray_2;
+  outline: none;
+
+  &:focus {
+    border: solid 2px $green_4;
+  }
+  
+  &:hover {
+    &:not(:disabled) {
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+    }
+  }
+
+  &:disabled {
+    color: #c4c4c4;
+    background-color: transparent;
+  }
+
+  &:active {
+    &:not(:disabled) {
+      border: solid 2px $green_4;
+      color: $green_1;
+    }
+  }
+}

@@ -45,3 +45,26 @@ Sneaky.args = {
   variant: "sneaky",
   children: "Sneaky",
 };
+
+export const Pill = (args) => {
+  return (
+    <>
+      <Button {...args}>Job Type</Button>
+      <Button {...args}>Contract Type</Button>
+      <Button {...args}>Skills</Button>
+      <Button disabled {...args}>
+        Disabled
+      </Button>
+    </>
+  );
+};
+Pill.parameters = {
+  docs: {
+    description: {
+      story: "",
+    },
+  },
+};
+Pill.args = {
+  variant: "pill",
+};
