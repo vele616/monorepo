@@ -3,13 +3,13 @@ title: "Senior Javascript Engineer"
 url: "https://www.aenetworks.tv/"
 companyName: "A+E Networks"
 applyUrl: "mailto:mihovil.rister@gmail.com"
-timestamp: 1607472000000
+timestamp: 1607990400000
 hashtags: "#javascript,#typescript,#qa,#automation,#android,#ios"
 logoUrl: "https://www.aenetworks.tv/sites/all/themes/aenetworksuk/logo.png" 
 jobType: software
 companyWebsite: "https://www.aenetworks.tv/"
 summary: "A+E Networks is looking for a Croatia based contractor with 6+ years of software development experience to join it's QA automation team!"
-featured: 0
+featured: -1
 ---
 ### About
 We are a team of 6 spread across few timezones and represent the QA automation team at A+E Networks (History, Lifetime).
