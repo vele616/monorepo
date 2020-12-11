@@ -4,12 +4,16 @@ import CrocNav from '../../images/croc-nav.svg';
 import { Icon, Footer as FooterComponent } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-const Footer = ({ image, socialMedia, sticky }) => {
+const Footer = ({ socialMedia, sticky, scrollToTop }) => {
   return (
     <FooterComponent
       className={sticky ? styles.sticky : ""}
       logo={
-        <Link to="/">
+        <Link to="/" onClick={
+          () => {
+            if(scrollToTop) scrollToTop();
+          }
+        }>
           <div className={styles.image}><CrocNav /></div>
         </Link>
       }
@@ -40,7 +44,7 @@ const Footer = ({ image, socialMedia, sticky }) => {
   );
 };
 
-const FooterWithQuery = ({ sticky }) => (
+const FooterWithQuery = ({ sticky, scrollToTop }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -50,18 +54,11 @@ const FooterWithQuery = ({ sticky }) => (
               link
               icon
             }
-            image {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
           }
         }
       }
     `}
-    render={(data) => <Footer {...data.homeJson.footer} sticky={sticky} />}
+    render={(data) => <Footer {...data.homeJson.footer} scrollToTop={scrollToTop} sticky={sticky} />}
   />
 );
 
