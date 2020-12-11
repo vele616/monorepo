@@ -128,13 +128,13 @@ const Loader = () => {
 export const Story5 = (args) => {
   return (
     <div>
-      <Tabs stateless {...args}>
+      <Tabs {...args}>
         <Tabs.TabList>
           <Tabs.Tab>DEFINITION</Tabs.Tab>
           <Tabs.Tab>ITERATION</Tabs.Tab>
           <Tabs.Tab>LAUNCH</Tabs.Tab>
         </Tabs.TabList>
-        <Tabs.PanelList>
+        <Tabs.PanelList stateless>
           <Tabs.Panel>
             <Loader />
           </Tabs.Panel>
