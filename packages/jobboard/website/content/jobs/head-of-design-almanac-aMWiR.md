@@ -6,13 +6,13 @@ companyName: "Almanac"
 url: "https://boards.greenhouse.io/almanac/jobs/4834031002"
 applyUrl: "https://boards.greenhouse.io/almanac/jobs/4834031002#app"
 timestamp: 1607644800000
-hashtags: "#ui/ux,#branding,#windows,#management,#marketing,#operations,#office"
+hashtags: "#ui/ux,#branding,#marketing"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/almanac"
 summary: "Almanac is looking for a head of design that has 5-8 years of design work at a Series A-C startup with."
 summaryBackup: "Love #ui/ux, #branding, #windows? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## About Almanac
