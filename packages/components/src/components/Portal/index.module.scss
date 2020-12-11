@@ -47,7 +47,11 @@
     transform: translate(0, -50%);
 
     &.withParent {
-      transform: translate(-100%, 0%);
+      transform: translate(-100%, -50%);
+
+      &.removeHalf {
+        transform: translate(-100%, 0%);
+      }
     }
   }
 
@@ -71,7 +75,11 @@
     transform: translate(-100%, -50%);
 
     &.withParent {
-      transform: translate(0%, 0%);
+      transform: translate(0%, -50%);
+
+      &.removeHalf {
+        transform: translate(0%, 0%);
+      }
     }
   }
 
