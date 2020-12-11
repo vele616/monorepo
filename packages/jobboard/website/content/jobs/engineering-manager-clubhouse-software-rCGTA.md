@@ -6,7 +6,7 @@ companyName: "Clubhouse Software"
 url: "https://boards.greenhouse.io/clubhousesoftware/jobs/4938096002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/4938096002#app"
 timestamp: 1607644800000
-hashtags: "#css,#ui/ux,#management,#marketing,#sales,#scrum,#analysis,#monitoring"
+hashtags: "#management,#scrum,#analysis,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
