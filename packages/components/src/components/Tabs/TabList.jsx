@@ -23,6 +23,7 @@ const TabList = ({
   orientation,
   selectedIndex,
   underlineClassname,
+  maxUnderlineWidth,
   underlineType = "line",
 }) => {
   const [underlineLeft, setUnderlineLeft] = useState(0);
@@ -45,13 +46,27 @@ const TabList = ({
       try {
         const tabListRect = tabListRef.current.getBoundingClientRect();
         if (orientation === "horizontal") {
-          setUnderlineLeft(left - tabListRect.left);
+          if (maxUnderlineWidth >= 0 && maxUnderlineWidth <= width) {
+            setUnderlineLeft(
+              left - tabListRect.left + width / 2 - maxUnderlineWidth / 2
+            );
+            setUnderlineWidth(maxUnderlineWidth);
+          } else {
+            setUnderlineLeft(left - tabListRect.left);
+            setUnderlineWidth(width);
+          }
           setUnderlineTop(0);
-          setUnderlineWidth(width);
         } else if (orientation === "vertical") {
-          setUnderlineLeft(left - tabListRect.left);
+          if (maxUnderlineWidth >= 0 && maxUnderlineWidth <= width) {
+            setUnderlineLeft(left - tabListRect.left);
+            setUnderlineLeft(
+              left - tabListRect.left + width / 2 - maxUnderlineWidth / 2
+            );
+          } else {
+            setUnderlineLeft(left - tabListRect.left);
+            setUnderlineWidth(width);
+          }
           setUnderlineTop(bottom - tabListRect.top);
-          setUnderlineWidth(width);
         }
       } catch (e) {
         setUnderlineLeft(0);
@@ -59,7 +74,7 @@ const TabList = ({
         setUnderlineWidth(0);
       }
     },
-    [orientation]
+    [maxUnderlineWidth, orientation]
   );
 
   const selectNext = useCallback(() => {
@@ -151,6 +166,10 @@ TabList.propTypes = {
    * Additional classname for TabList component.
    */
   className: PropTypes.string,
+  /**
+   * Maximum length of selected underline line, defined in pixels. Defaults to 100% of tab width.
+   */
+  maxUnderlineWidth: PropTypes.number,
   /**
    * Function that will trigger when Tab is clicked.
    */
