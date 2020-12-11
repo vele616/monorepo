@@ -1,5 +1,5 @@
 ---
-title: "Fullstack Engineer (JS + Ruby)"
+title: "Fullstack Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/almanac"
 companyName: "Almanac"
@@ -10,7 +10,7 @@ hashtags: "#rubylang,#reactjs,#javascript,#rails,#heroku,#git,#postgresql,#rest"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/almanac"
-summary: "Almanac is searching for a fullstack engineer that has 3+ years experience working with a modern JS framework, ideally React."
+summary: "Almanac is searching for a fullstack engineer that has 3+ years experience working with a modern JS framework, ideally React as well as experience with Ruby or a similar language."
 summaryBackup: "Love #rubylang, #reactjs, #javascript? Check out this job post!"
 featured: 20
 ---
