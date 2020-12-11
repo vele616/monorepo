@@ -6,13 +6,13 @@ companyName: "Primer Technologies, Inc."
 url: "https://jobs.lever.co/pri.ai/dbf9033a-7153-4dc2-85e8-a975b94dbeb9"
 applyUrl: "https://jobs.lever.co/pri.ai/dbf9033a-7153-4dc2-85e8-a975b94dbeb9/apply"
 timestamp: 1607558400000
-hashtags: "#python,#golang,#css,#ui/ux,#sales,#analysis,#finance"
+hashtags: "#python,#golang,#ml,#css,#ui/ux,#sales,#analysis,#finance"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer-technologies-inc-"
 companyWebsite: "http://www.primer.ai/"
 summary: "Primer Technologies, Inc. intends to hire a new senior machine learning engineer. If you have 5+ years of shipping commercial software, consider applying."
 summaryBackup: "Excited about #python, #golang, #css? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 As a Senior Machine Learning Engineer, you will have the opportunity to make a wide impact on our machine learning processes, tooling, coding standards, and codebase. Primer believes in creating an environment that encourages and creates opportunities for growth. Whether it’s helping create and contribute to a set of architectural principles, or pushing us to adopt high-impact OSS, we need engineers to help us make those decisions.
