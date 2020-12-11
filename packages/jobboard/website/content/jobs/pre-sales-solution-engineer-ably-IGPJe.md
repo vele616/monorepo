@@ -6,13 +6,13 @@ companyName: "Ably"
 url: "https://jobs.ably.io/o/presales-solution-engineer-london"
 applyUrl: "https://jobs.ably.io/o/presales-solution-engineer-london/c/new"
 timestamp: 1607644800000
-hashtags: "#sales,#translation,#management,#marketing,#socialmedia,#scrum,#analysis,#rest,#English"
+hashtags: "#sales,#English,#management,#marketing,#socialmedia,#scrum,#analysis,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ably"
 companyWebsite: "https://www.ably.io/careers"
 summary: "If you have 8 years of experience within software pre-sales engineering, Ably is looking for someone with your knowledge."
 summaryBackup: "Ably is looking for a pre-sales solution engineer that has experience in: #sales, #translation, #management."
-featured: 20
+featured: 3
 ---
 
 ## Job description
