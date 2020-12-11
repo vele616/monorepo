@@ -154,7 +154,7 @@ Portal.propTypes = {
 
 Portal.defaultProps = {
   className: "",
-  positionOffset: 0,
+  positionOffset: null,
   parentId: null,
   relative: false,
   includeHalf: false,
