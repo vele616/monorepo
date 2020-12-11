@@ -64,6 +64,18 @@ const mergeSorted = (firstArray, secondArray) => {
   }
 }
 
+const search = (index, store, query = '', seniority = null, contractType = null, tags = []) => {
+  if(query === '' && !seniority && !contractType && tags.length !== 0) {
+    return Object.values(store)
+    .filter(x => tags.length === 0 || tags.some(t => x.hashtags.includes(t)));
+  } 
+  return createSearchQuery(query, seniority, contractType)
+    .map(q => index.search({query: q}))
+    .reduce(mergeSorted)
+    .filter((v, i, a) => a.indexOf(v) === i)
+    .map(t => store[t])
+    .filter(x => tags.length === 0 || tags.some(t => x.hashtags.includes(t)));
+}
 
 const Search = ({ index, store }) => {
   React.useEffect(() => {
@@ -75,14 +87,10 @@ const Search = ({ index, store }) => {
     });
     jobs.import(index);
 
-    const search = createSearchQuery('node.js', 'SENIOR', 'FULLTIME').map(q => jobs.search({query: q, threshold: 2})).reduce(mergeSorted).filter((v, i, a) => a.indexOf(v) === i).map(t => store[t]);
+    const result1 = search(jobs, store, '', null, null, ['#python']);
+    const result2 = search(jobs, store, 'SENIOR', null, null, []);
 
-    console.log(search, createSearchQuery('node.js', 'SENIOR', 'FULLTIME'));
-
-    //jobs.search('senior developer').then(t => console.log(t, t.length, t.map(t => store[t])));
-    //jobs.search({ query: 'team lead', threshold: 7 }).then(t => console.log(t, t.length, t.map(t => store[t].slug)));
-    //jobs.search({ query: 'head' }).then(t => console.log(t, t.length, t.map(t => store[t].slug)));
-    //jobs.search({ query: 'principal' }).then(t => console.log(t, t.length, t.map(t => store[t].slug)));
+    console.log(result1, result2);
   }, []);
   return (
     <Section>
