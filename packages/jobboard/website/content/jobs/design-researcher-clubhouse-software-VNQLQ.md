@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/clubhousesoftware/jobs/4673488002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/4673488002#app"
 timestamp: 1607644800000
 hashtags: "#ui/ux,#css,#marketing,#office"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "To apply as a design researcher at Clubhouse Software, you preferably need to have 3 years experience with design research or a related field."
