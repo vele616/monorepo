@@ -8,7 +8,7 @@ const PanelList = ({
   className,
   children,
   selectedIndex,
-  stateless,
+  preventPanelUnmount,
   animation = "enter",
 }) => {
   const classAnimation = useMemo(() => {
@@ -46,7 +46,7 @@ const PanelList = ({
     );
   }, [children, classAnimation, className, selectedIndex]);
 
-  return stateless ? allPanels : singlePanel;
+  return preventPanelUnmount ? allPanels : singlePanel;
 };
 
 PanelList.tabType = "PanelList";
@@ -65,9 +65,11 @@ PanelList.propTypes = {
    */
   className: PropTypes.string,
   /**
-   * Indicator if children will be rendered each time or they will be hidden and visible on demand.
+   * Indicator if children will be rendered each time or they will be hidden and visible on demand. Defaults to false.
+   * If set to true all panels will be rendered at once and will stay like that until tabs component is unmounted.
+   * If set to false each panel will unmount when deselected.
    */
-  stateless: PropTypes.bool,
+  preventPanelUnmount: PropTypes.bool,
   /**
    * Panel with this index will be shown.
    */

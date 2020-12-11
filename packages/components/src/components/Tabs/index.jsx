@@ -14,7 +14,7 @@ const Tabs = ({
   onTabChange,
   defaultTab,
   orientation = "horizontal",
-  stateless,
+  preventPanelUnmount,
 }) => {
   const [selectedIndex, setSelectedIndex] = useState(defaultTab || 0);
 
@@ -49,7 +49,7 @@ const Tabs = ({
           });
         case "PanelList":
           return React.cloneElement(child, {
-            stateless,
+            preventPanelUnmount,
             selectedIndex,
             animation,
           });
@@ -62,7 +62,7 @@ const Tabs = ({
     handleOnTabClick,
     selectedIndex,
     orientation,
-    stateless,
+    preventPanelUnmount,
     animation,
   ]);
 
@@ -111,9 +111,11 @@ Tabs.propTypes = {
    */
   orientation: PropTypes.oneOf(["vertical", "horizontal"]),
   /**
-   * Indicator if children will be rendered each time or they will be hidden and visible on demand.
+   * Indicator if children will be rendered each time or they will be hidden and visible on demand. Defaults to false.
+   * If set to true all panels will be rendered at once and will stay like that until tabs component is unmounted.
+   * If set to false each panel will unmount when deselected.
    */
-  stateless: PropTypes.bool,
+  preventPanelUnmount: PropTypes.bool,
 };
 
 export default Tabs;

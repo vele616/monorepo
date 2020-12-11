@@ -134,7 +134,7 @@ export const Story5 = (args) => {
           <Tabs.Tab>ITERATION</Tabs.Tab>
           <Tabs.Tab>LAUNCH</Tabs.Tab>
         </Tabs.TabList>
-        <Tabs.PanelList stateless>
+        <Tabs.PanelList preventPanelUnmount>
           <Tabs.Panel>
             <Loader />
           </Tabs.Panel>
@@ -167,13 +167,17 @@ export const Story5 = (args) => {
     </div>
   );
 };
-Story5.storyName = "Stateless";
+Story5.storyName = "Prevent Panel Unmount";
 Story5.parameters = {
   docs: {
     description: {
-      story: `This story shows Stateless vs. Statefull component. If stateless property is set to true,
-      this component will become 'stateless'. This means that each panel will be loaded only once and then 
-      toggled via selected tab. If component is Statefull, content will load each time due state change.`,
+      story: `This story shows difference when preventPanelUnmount argument is set to true/false. If set to true,
+      all panels will be rendered at once and will stay like that until tabs component is unmounted. Only selected panel
+      will be visible, all other panels will remain hidden. If set to false each panel will unmount when deselected. Selecting
+      tab in this mode will mount panel each time causing it to render again.
+      Left Tabs component will load all timers at once. Changing tabs won't start timers again.
+      Right Tabs component wont load all timers at once, but only selected. Chaning tabs will cause rerender causing timers to start from beginnig.
+      `,
     },
   },
 };
