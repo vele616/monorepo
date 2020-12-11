@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { useState, useEffect } from "react";
 import {
   desktop,
@@ -11,7 +12,7 @@ const myHooks = {};
 /**
  * Custom hook for screen-size detection in components.
  */
-function useDevice(mobileLimit, tabletLimit, desktopLimit, largeDesktopLimit) {
+function hook(mobileLimit, tabletLimit, desktopLimit, largeDesktopLimit) {
   const [viewport, setViewport] = useState({
     isMobile: false,
     isDesktop: false,
@@ -48,7 +49,7 @@ function useDevice(mobileLimit, tabletLimit, desktopLimit, largeDesktopLimit) {
   return viewport;
 }
 
-export default function memoizedHook(custom) {
+export default function useDevice(custom) {
   const mobileLimit =
     (custom && custom.mobile) || Number(mobile.replace("px", ""));
   const tabletLimit =
@@ -60,8 +61,7 @@ export default function memoizedHook(custom) {
 
   const deviceKey = `${mobileLimit}, ${tabletLimit}, ${desktopLimit}, ${largeDesktopLimit}`;
   if (!myHooks[deviceKey]) {
-    // eslint-disable-next-line react-hooks/rules-of-hooks
-    myHooks[deviceKey] = useDevice(
+    myHooks[deviceKey] = hook(
       mobileLimit,
       tabletLimit,
       desktopLimit,
