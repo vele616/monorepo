@@ -3,6 +3,7 @@
 .tabs {
   display: inline-flex;
   flex-direction: column;
+  overflow: hidden;
 
   @include mediaQuery("<=tabletPortrait") {
     width: 100%;

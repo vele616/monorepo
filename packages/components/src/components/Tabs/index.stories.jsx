@@ -2,9 +2,12 @@ import React, { useState, useEffect } from "react";
 import Tabs from "./index";
 import Button from "../Button";
 
+const { Tab, TabList, Panel, PanelList } = Tabs;
+
 export default {
   title: "Components/Tabs",
   component: Tabs,
+  subcomponents: { Tab, TabList, Panel, PanelList },
 };
 
 const text1 =
@@ -35,7 +38,7 @@ export const Story2 = (args) => {
   return (
     <div>
       <Tabs {...args}>
-        {(tabClick) => {
+        {(selectTab) => {
           return (
             <>
               <Tabs.TabList>
@@ -49,13 +52,13 @@ export const Story2 = (args) => {
                 <Tabs.Panel>{text3}</Tabs.Panel>
               </Tabs.PanelList>
               <div>
-                <Button style={{ margin: "10px" }} onClick={() => tabClick(0)}>
+                <Button style={{ margin: "10px" }} onClick={() => selectTab(0)}>
                   1
                 </Button>
-                <Button style={{ margin: "10px" }} onClick={() => tabClick(1)}>
+                <Button style={{ margin: "10px" }} onClick={() => selectTab(1)}>
                   2
                 </Button>
-                <Button style={{ margin: "10px" }} onClick={() => tabClick(2)}>
+                <Button style={{ margin: "10px" }} onClick={() => selectTab(2)}>
                   3
                 </Button>
               </div>
@@ -99,8 +102,6 @@ Story3.parameters = {
   viewport: {
     defaultViewport: "mobileMinimum",
   },
-};
-Story3.parameters = {
   docs: {
     description: {
       story: `This story shows Tabs component on small screen`,
@@ -109,14 +110,17 @@ Story3.parameters = {
 };
 
 // eslint-disable-next-line react/prop-types
-const Loader = ({ timeout }) => {
-  const [state, setState] = useState("Loading...");
+const Loader = () => {
+  const [state, setState] = useState(10);
 
   useEffect(() => {
-    setTimeout(() => {
-      setState("Loaded!");
-    }, timeout);
-  }, [timeout]);
+    const id = setInterval(() => {
+      setState((prev) => {
+        if (prev <= 1) clearInterval(id);
+        return prev - 1;
+      });
+    }, 1000);
+  }, []);
 
   return <div>{state}</div>;
 };
@@ -132,13 +136,13 @@ export const Story5 = (args) => {
         </Tabs.TabList>
         <Tabs.PanelList>
           <Tabs.Panel>
-            <Loader timeout={2000} />
+            <Loader />
           </Tabs.Panel>
           <Tabs.Panel>
-            <Loader timeout={4000} />
+            <Loader />
           </Tabs.Panel>
           <Tabs.Panel>
-            <Loader timeout={6000} />
+            <Loader />
           </Tabs.Panel>
         </Tabs.PanelList>
       </Tabs>
@@ -150,13 +154,13 @@ export const Story5 = (args) => {
         </Tabs.TabList>
         <Tabs.PanelList>
           <Tabs.Panel>
-            <Loader timeout={2000} />
+            <Loader />
           </Tabs.Panel>
           <Tabs.Panel>
-            <Loader timeout={4000} />
+            <Loader />
           </Tabs.Panel>
           <Tabs.Panel>
-            <Loader timeout={6000} />
+            <Loader />
           </Tabs.Panel>
         </Tabs.PanelList>
       </Tabs>

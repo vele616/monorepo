@@ -15,16 +15,16 @@ const Tab = ({
 
   const handleTabSelect = useCallback(() => {
     if (onTabSelect) {
-      const {
-        x,
-        y,
-        width,
-        height,
-        top,
-        bottom,
-        left,
-      } = buttonRef.current.getBoundingClientRect();
-      onTabSelect({ x, y, width, height, top, bottom, left });
+      try {
+        const {
+          left,
+          width,
+          bottom,
+        } = buttonRef.current.getBoundingClientRect();
+        onTabSelect({ left, width, bottom });
+      } catch (e) {
+        onTabSelect({ left: 0, width: 0, bottom: 0 });
+      }
     }
   }, [onTabSelect]);
 

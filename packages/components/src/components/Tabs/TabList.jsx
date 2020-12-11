@@ -29,27 +29,34 @@ const TabList = ({
   const [underlineWidth, setUnderlineWidth] = useState(0);
   const [underlineTop, setUnderlineTop] = useState();
 
-  const tabCount = useMemo(
-    () =>
-      React.Children.map(children, (child) => child.type.tabType === "Tab")
-        .length,
-    [children]
-  );
+  const tabCount = useMemo(() => {
+    const tabs = React.Children.map(
+      children,
+      (child) => child.type.tabType === "Tab"
+    );
+    if (tabs) return tabs.length || 0;
+    return 0;
+  }, [children]);
 
   const tabListRef = useRef();
 
   const handleTabSelect = useCallback(
     ({ left, width, bottom }) => {
-      const tabListRect = tabListRef.current.getBoundingClientRect();
-
-      if (orientation === "horizontal") {
-        setUnderlineLeft(left - tabListRect.left);
+      try {
+        const tabListRect = tabListRef.current.getBoundingClientRect();
+        if (orientation === "horizontal") {
+          setUnderlineLeft(left - tabListRect.left);
+          setUnderlineTop(0);
+          setUnderlineWidth(width);
+        } else if (orientation === "vertical") {
+          setUnderlineLeft(left - tabListRect.left);
+          setUnderlineTop(bottom - tabListRect.top);
+          setUnderlineWidth(width);
+        }
+      } catch (e) {
+        setUnderlineLeft(0);
         setUnderlineTop(0);
-        setUnderlineWidth(width);
-      } else if (orientation === "vertical") {
-        setUnderlineLeft(left - tabListRect.left);
-        setUnderlineTop(bottom - tabListRect.top);
-        setUnderlineWidth(width);
+        setUnderlineWidth(0);
       }
     },
     [orientation]

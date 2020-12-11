@@ -28,7 +28,7 @@ const PanelList = ({
           classAnimation
         )}
       >
-        {children[selectedIndex]}
+        {children && children[selectedIndex]}
       </div>
     );
   }, [children, classAnimation, className, selectedIndex]);
