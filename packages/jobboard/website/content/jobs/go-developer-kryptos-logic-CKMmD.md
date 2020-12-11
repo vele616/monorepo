@@ -6,13 +6,13 @@ companyName: "Kryptos Logic"
 url: "https://jobs.kryptoslogic.com/o/go-developer"
 applyUrl: "https://jobs.kryptoslogic.com/o/go-developer/c/new"
 timestamp: 1607644800000
-hashtags: "#golang,#ui/ux,#management,#kubernetes,#aws,#googlecloud,#git"
+hashtags: "#golang,#kubernetes,#aws,#googlecloud,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kryptos-logic"
 companyWebsite: "https://www.kryptoslogic.com/"
 summary: "If you have software development experience using Go and a strong understanding of software engineering principles, Kryptos Logic is looking for someone with your skillset."
 summaryBackup: "Kryptos Logic is looking for a go developer that has experience in: #golang, #ui/ux, #management."
-featured: 20
+featured: 3
 ---
 
 ## Job description
@@ -46,5 +46,5 @@ This list is just some of the things we are looking for - we’d love to hear fr
 *   Software development experience using Go and a strong understanding of software engineering principles.
 *   Experience developing low-latency microservices and APIs.
 *   Experience developing, deploying and managing containerised applications, preferably using GCP/AWS Kubernetes Services.
-*   Experience developing streaming capabilities withKafka.
+*   Experience developing streaming capabilities with Kafka.
 *   Experience with gRPC.
