@@ -1,18 +1,18 @@
 ---
 title: "Senior Frontend Engineer"
-location: "Anywhere"
+location: "Remote"
 host: "https://boards.greenhouse.io/clubhousesoftware"
 companyName: "Clubhouse Software"
 url: "https://boards.greenhouse.io/clubhousesoftware/jobs/4811820002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/4811820002#app"
 timestamp: 1607644800000
-hashtags: "#reactjs,#management,#javascript,#ui/ux"
+hashtags: "#reactjs,#javascript,#webpack,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
-summary: "Clubhouse Software intends to hire a new senior frontend engineer. If you have clubhouse’s engineering team is a diverse mix of individuals with experience at large and small companies and with a range of technical skill, consider applying."
+summary: "Clubhouse Software intends to hire a new senior frontend engineer with previous experience in providing technical and architectural guidance, React and JS build tools."
 summaryBackup: "Excited about #reactjs, #management, #javascript? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Clubhouse was built by software engineers with the goal of making project management software less painful, more collaborative, and help software development teams do their best work. The platform combines a simple, modern UI with enterprise-grade tools, allowing technology companies to plan and manage their projects effectively, visualize progress across the organization, and define deadlines and milestones based upon data and predictive modeling.
