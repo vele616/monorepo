@@ -1,6 +1,6 @@
 ---
 title: "Senior Product Designer"
-location: "Anywhere"
+location: "Remote"
 host: "https://boards.greenhouse.io/clubhousesoftware"
 companyName: "Clubhouse Software"
 url: "https://boards.greenhouse.io/clubhousesoftware/jobs/4783480002"
