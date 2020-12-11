@@ -14,7 +14,7 @@ const Tab = ({
   const buttonRef = useRef();
 
   const handleTabSelect = useCallback(() => {
-    if (onTabSelect) {
+    if (onTabSelect && selected) {
       try {
         const {
           left,
@@ -26,7 +26,12 @@ const Tab = ({
         onTabSelect({ left: 0, width: 0, bottom: 0 });
       }
     }
-  }, [onTabSelect]);
+  }, [onTabSelect, selected]);
+
+  useEffect(() => {
+    window.addEventListener("resize", handleTabSelect);
+    return () => window.removeEventListener("resize", handleTabSelect);
+  }, [handleTabSelect]);
 
   const handleOnClick = useCallback(() => {
     if (onClick) onClick(index);
