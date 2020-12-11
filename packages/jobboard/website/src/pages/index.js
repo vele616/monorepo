@@ -17,6 +17,10 @@ const StyledLink = styled(Link)``;
 const IndexPage = ({ data }) => {
   const subscribeRef = useRef(null);
 
+  const topRef = useRef(null);
+
+  const scrollToTop = () => topRef.current.scrollIntoView({ block: "end" });
+
   const scrollToSubscribe = useCallback(() => {
     console.log('click', subscribeRef.current);
     subscribeRef &&
@@ -32,8 +36,8 @@ const IndexPage = ({ data }) => {
     .length;
 
   return (
-    <Layout>
-      <Hero scrollToSubscribe={scrollToSubscribe} />
+    <Layout scrollToTop={scrollToTop}>
+      <Hero topRef={topRef} scrollToSubscribe={scrollToSubscribe} />
       <JobSection title="Software Developer Jobs">
         <DevJobListLimit12 />
         {softwareJobsNumber > 12 && (
