@@ -7,12 +7,12 @@ url: "https://boards.greenhouse.io/clubhousesoftware/jobs/4673488002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/4673488002#app"
 timestamp: 1607644800000
 hashtags: "#ui/ux,#css,#marketing,#office"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "To apply as a design researcher at Clubhouse Software, you preferably need to have 3 years experience with design research or a related field."
 summaryBackup: "Clubhouse Software is looking for a design researcher that has experience in: #ui/ux, #css, #marketing."
-featured: 20
+featured: 10
 ---
 
 Based in New York, Clubhouse is the collaborative home for modern software teams. Thousands of fast-growing organizations use Clubhouse to plan and build software, including Glitch, Nubank, Dataiku, Scale AI, FullStory, and LaunchDarkly.
