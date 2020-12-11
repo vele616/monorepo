@@ -81,28 +81,52 @@
 .pill {
   background-color: transparent;
   border-radius: 50px;
-  border: solid 1px $gray_2;
+  border: none;
   outline: none;
+  position: relative;
+
+  &::after {
+    border-radius: 50px;
+    border: solid 1px $gray_2;
+    box-sizing: border-box;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
 
   &:focus {
-    border: solid 2px $green_4;
+    &::after {
+      border: solid 2px $green_4;
+    }
   }
   
   &:hover {
     &:not(:disabled) {
       box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
     }
+    &:disabled {
+      color: #c4c4c4;
+      background-color: white;
+    }
   }
 
   &:disabled {
     color: #c4c4c4;
-    background-color: transparent;
+    background-color: white;
+    &::after {
+      border-color: #c4c4c4;
+    }
   }
 
   &:active {
     &:not(:disabled) {
-      border: solid 2px $green_4;
       color: $green_1;
+      &::after {
+        border: solid 2px $green_4;
+      }
     }
   }
 }

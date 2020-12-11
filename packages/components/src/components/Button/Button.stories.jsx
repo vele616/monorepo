@@ -49,9 +49,15 @@ Sneaky.args = {
 export const Pill = (args) => {
   return (
     <>
-      <Button {...args}>Job Type</Button>
-      <Button {...args}>Contract Type</Button>
-      <Button {...args}>Skills</Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Job Type
+      </Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Contract Type
+      </Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Skills
+      </Button>
       <Button disabled {...args}>
         Disabled
       </Button>
