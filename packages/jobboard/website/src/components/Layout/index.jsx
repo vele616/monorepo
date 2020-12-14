@@ -18,11 +18,12 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
       />
       <Navigation
         Logo={
-          <Link to="/" onClick={
-            () => {
-              if(scrollToTop) scrollToTop();
-            }
-          }>
+          <Link
+            to="/"
+            onClick={() => {
+              if (scrollToTop) scrollToTop();
+            }}
+          >
             <CrocNav style={{ verticalAlign: 'bottom' }} />
           </Link>
         }

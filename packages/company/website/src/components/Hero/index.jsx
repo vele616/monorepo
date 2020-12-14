@@ -41,14 +41,25 @@ const Hero = ({
       <div ref={topRef} dangerouslySetInnerHTML={{ __html: paragraph }} />
     </Typography>
     <Flexbox className={styles.callToAction}>
-      <Button onClick={() => { 
-        window.sa_event(`${process.env.GATSBY_SCHEDULE_CALL_HERO_CLICK_SA_EVENT}`);
-        scrollToContactUs(); 
-      }}>{scheduleCall}</Button>
-      <Button onClick={() => { 
-        window.sa_event(`${process.env.GATSBY_HOW_WE_WORK_HERO_CLICK_SA_EVENT}`);
-        scrollToHowWeWork(); 
-      }} variant="secondary">
+      <Button
+        onClick={() => {
+          window.sa_event(
+            `${process.env.GATSBY_SCHEDULE_CALL_HERO_CLICK_SA_EVENT}`
+          );
+          scrollToContactUs();
+        }}
+      >
+        {scheduleCall}
+      </Button>
+      <Button
+        onClick={() => {
+          window.sa_event(
+            `${process.env.GATSBY_HOW_WE_WORK_HERO_CLICK_SA_EVENT}`
+          );
+          scrollToHowWeWork();
+        }}
+        variant="secondary"
+      >
         {howWeWork}
       </Button>
     </Flexbox>
