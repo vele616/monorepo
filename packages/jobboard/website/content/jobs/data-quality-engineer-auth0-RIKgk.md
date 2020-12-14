@@ -6,13 +6,13 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/92d8d625-756f-45e7-8b05-51ed942dd16e"
 applyUrl: "https://jobs.lever.co/auth0/92d8d625-756f-45e7-8b05-51ed942dd16e/apply"
 timestamp: 1607904000000
-hashtags: "#javascript,#python,#golang,#ui/ux,#management,#analysis"
+hashtags: "#javascript,#golang,#python,#analysis,#ui/ux,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "Auth0 is searching for a data quality engineer that has 3+ years of experience in software testing or data analysis."
 summaryBackup: "Excited about #javascript, #python, #golang? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
