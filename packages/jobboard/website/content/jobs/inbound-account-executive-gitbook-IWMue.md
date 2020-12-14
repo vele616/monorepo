@@ -1,16 +1,16 @@
 ---
 title: "Inbound Account Executive"
-location: "Full-remote"
+location: "Remote"
 host: "https://jobs.lever.co/gitbook?location=Full-remote"
 companyName: "GitBook"
 url: "https://jobs.lever.co/gitbook/ad09e1d9-cb6e-4d2c-8d1d-cd4b509b681b"
 applyUrl: "https://jobs.lever.co/gitbook/ad09e1d9-cb6e-4d2c-8d1d-cd4b509b681b/apply"
 timestamp: 1607904000000
-hashtags: "#sales,#css,#management,#marketing,#analytics,#photoshop,#English"
+hashtags: "#sales,#marketing,#management,#analytics,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
-summary: "GitBook is looking for an inbound account executive that has experience in: experience in: #sales, #css, #management."
+summary: "As an Inbound Account Executive you will handle inbound requests and then be responsible for the entire sales cycle to crush quotas and generate revenue."
 summaryBackup: "Excited about #sales, #css, #management? Check out this job post!"
 featured: 20
 ---
