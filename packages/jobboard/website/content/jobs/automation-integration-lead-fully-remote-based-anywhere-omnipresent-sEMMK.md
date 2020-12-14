@@ -10,7 +10,7 @@ hashtags: "#operations,#management,#optimization,#marketing,#analysis,#sales,#so
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "If you have 5 years experience with ideally someone who has seen several implementations and contexts, Omnipresent is looking for someone with your knowledge."
+summary: "If you have 3 to 5 years of experience with several implementations and contexts, Omnipresent is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
 featured: 10
 ---
