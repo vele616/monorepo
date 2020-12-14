@@ -128,13 +128,13 @@ const Loader = () => {
 export const Story5 = (args) => {
   return (
     <div>
-      <Tabs {...args}>
+      <Tabs preventPanelUnmount {...args}>
         <Tabs.TabList>
           <Tabs.Tab>DEFINITION</Tabs.Tab>
           <Tabs.Tab>ITERATION</Tabs.Tab>
           <Tabs.Tab>LAUNCH</Tabs.Tab>
         </Tabs.TabList>
-        <Tabs.PanelList preventPanelUnmount>
+        <Tabs.PanelList>
           <Tabs.Panel>
             <Loader />
           </Tabs.Panel>
