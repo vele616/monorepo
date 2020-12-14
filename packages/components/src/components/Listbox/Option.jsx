@@ -1,4 +1,4 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useEffect, useRef } from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames";
 import styles from "./index.module.scss";
@@ -19,6 +19,14 @@ const Option = ({
   showCheckIcon = true,
   testId,
 }) => {
+  const optionRef = useRef();
+
+  useEffect(() => {
+    if (active && optionRef.current) {
+      optionRef.current.focus();
+    }
+  }, [active]);
+
   const handleClick = useCallback(
     (e) => {
       e.stopPropagation();
@@ -55,6 +63,7 @@ const Option = ({
       })}
       id={id}
       data-testid={testId}
+      ref={optionRef}
       role="option"
       aria-selected={selected}
       onClick={handleClick}

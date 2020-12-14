@@ -195,7 +195,7 @@ const Listbox = ({
 
   const handleKeyDown = useCallback(
     (event) => {
-      if (event.keyCode !== Keys.Tab) {
+      if (event.keyCode === Keys.ArrowDown || event.keyCode === Keys.ArrowUp) {
         event.preventDefault();
         event.stopPropagation();
       }
@@ -206,9 +206,6 @@ const Listbox = ({
           break;
         case Keys.ArrowDown:
           focusNext();
-          break;
-        case Keys.Space:
-          handleOptionClick(focusedIndex);
           break;
         case Keys.Enter:
           handleOptionClick(focusedIndex);
@@ -300,7 +297,7 @@ const Listbox = ({
       })}
       id={id}
       onFocus={handleOnFocus}
-      onKeyDown={handleKeyDown}
+      onKeyDownCapture={handleKeyDown}
       onMouseEnter={handleMouseEnter}
       ref={listboxRef}
       role="listbox"
