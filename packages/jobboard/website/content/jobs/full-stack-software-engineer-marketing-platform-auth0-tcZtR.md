@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Software Engineer - Marketing Platform"
+title: "Full Stack Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/899fe407-b43b-4e67-9cf9-5f115843aeb3"
 applyUrl: "https://jobs.lever.co/auth0/899fe407-b43b-4e67-9cf9-5f115843aeb3/apply"
 timestamp: 1607904000000
-hashtags: "#marketing,#css,#javascript,#reactjs,#operations,#html,#linux,#heroku,#ui/ux,#git"
+hashtags: "#nodejs,#devops,#reactjs,#html,#css,#linux,#heroku,#ui/ux,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "Auth0 is searching for a full stack software engineer that has developer Experience talks about the ease of use, scalability and maintainability of our systems, thus providing speed to our development process through the right tools."
+summary: "Auth0 is searching for a full stack software engineer to create, maintain and improve the software foundations of the whole marketing team."
 summaryBackup: "Auth0 is looking for a full stack software engineer that has experience in: #marketing, #css, #javascript."
-featured: 20
+featured: 12
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
