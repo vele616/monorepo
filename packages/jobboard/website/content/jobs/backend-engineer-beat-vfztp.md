@@ -6,11 +6,11 @@ companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2366354"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2366354#app"
 timestamp: 1607904000000
-hashtags: "#ui/ux,#python,#java,#golang,#php,#kotlin,#operations,#scrum,#kubernetes,#docker"
+hashtags: "#golang,#sql,#docker,#python,#php,#kotlin,#java,#csharp,#kubernetes"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Interested in new opportunities and have 3 years of experience? Beat has a job opening for a backend engineer."
+summary: "Interested in new opportunities and have 3+ years of experience? Beat has a job opening for a backend engineer."
 summaryBackup: "Beat is looking for a backend engineer that has experience in: #ui/ux, #python, #java."
 featured: 20
 ---
