@@ -1,18 +1,18 @@
 ---
-title: "Senior Product Manager - Security"
+title: "Senior Product Manager-Security"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/9326d718-6e4a-47fb-a7a2-f2257885c312"
 applyUrl: "https://jobs.lever.co/auth0/9326d718-6e4a-47fb-a7a2-f2257885c312/apply"
 timestamp: 1607904000000
-hashtags: "#marketing,#sales,#content,#css,#management,#operations,#scrum,#office"
+hashtags: "#management,#operations,#marketing,#sales,#content,#css,#scrum,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "If you have 10+ years of industry experience, Auth0 has a job opening for a senior product manager"
+summary: "If you have 10+ years of industry experience in Security Operations, Threat Intelligence, and Identity Access Management (IAM), Auth0 has a job opening for a senior product manager"
 summaryBackup: "To apply as a senior product manager at Auth0, you preferably need to have some knowledge of: #marketing, #sales, #content."
-featured: 20
+featured: 5
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
