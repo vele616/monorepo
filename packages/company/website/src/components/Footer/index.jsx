@@ -1,6 +1,6 @@
 import React from "react";
 import { StaticQuery, graphql, Link } from "gatsby";
-import CrocNav from '../../images/croc-nav.svg';
+import CrocFooter from "../../images/croc-footer.svg";
 import { Icon, Footer as FooterComponent } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
@@ -9,12 +9,15 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
     <FooterComponent
       className={sticky ? styles.sticky : ""}
       logo={
-        <Link to="/" onClick={
-          () => {
-            if(scrollToTop) scrollToTop();
-          }
-        }>
-          <div className={styles.image}><CrocNav /></div>
+        <Link
+          to="/"
+          onClick={() => {
+            if (scrollToTop) scrollToTop();
+          }}
+        >
+          <div className={styles.image}>
+            <CrocFooter />
+          </div>
         </Link>
       }
       socialLinks={
@@ -58,7 +61,13 @@ const FooterWithQuery = ({ sticky, scrollToTop }) => (
         }
       }
     `}
-    render={(data) => <Footer {...data.homeJson.footer} scrollToTop={scrollToTop} sticky={sticky} />}
+    render={(data) => (
+      <Footer
+        {...data.homeJson.footer}
+        scrollToTop={scrollToTop}
+        sticky={sticky}
+      />
+    )}
   />
 );
 
