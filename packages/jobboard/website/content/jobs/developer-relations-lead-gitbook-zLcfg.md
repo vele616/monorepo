@@ -6,13 +6,13 @@ companyName: "GitBook"
 url: "https://jobs.lever.co/gitbook/c6564f58-67dd-45b6-8e6d-be044e045153"
 applyUrl: "https://jobs.lever.co/gitbook/c6564f58-67dd-45b6-8e6d-be044e045153/apply"
 timestamp: 1607904000000
-hashtags: "#css,#content,#git,#marketing,#socialmedia,#photoshop"
+hashtags: "#content,#marketing,#socialmedia,#git,#photoshop,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
 summary: "If you have experience working in a fast, GitBook has a job opening for a developer relations lead"
 summaryBackup: "GitBook is looking for a developer relations lead that has experience in: #css, #content, #git."
-featured: 20
+featured: 15
 ---
 
 **​**🤔Why are we opening this position ?
