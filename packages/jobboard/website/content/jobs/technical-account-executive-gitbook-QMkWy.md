@@ -6,11 +6,11 @@ companyName: "GitBook"
 url: "https://jobs.lever.co/gitbook/e1ac4dd7-4c8f-4a09-9ba5-2e5f73ea8c5d"
 applyUrl: "https://jobs.lever.co/gitbook/e1ac4dd7-4c8f-4a09-9ba5-2e5f73ea8c5d/apply"
 timestamp: 1607904000000
-hashtags: "#management,#sales,#css,#analytics,#marketing,#photoshop,#English"
+hashtags: "#management,#analytics,#English,#sales,#css,#marketing,#photoshop"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
-summary: "Excited about experience in: #management, #sales, #css? Check out this job post!"
+summary: "Excited about #management,#analytics,#English? Check out this job post!"
 summaryBackup: "Excited about #management, #sales, #css? Check out this job post!"
 featured: 20
 ---
