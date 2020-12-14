@@ -18,7 +18,7 @@
   &__option {
     align-items: center;
     border-bottom: solid 1px $gray_5;
-    color: $gray_2;
+    color: $contrast;
     display: flex;
     flex-grow: 1;
     outline: none;
@@ -42,7 +42,7 @@
 
   &__icon {
     padding-right: 5px;
-    color: $gray_11;
+    color: $contrast;
   }
 }
 
