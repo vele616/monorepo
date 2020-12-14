@@ -81,13 +81,13 @@
 .pill {
   background-color: transparent;
   border-radius: 50px;
-  border: solid 1px $gray_2;
+  border: 2px solid $contrast;
   outline: none;
   position: relative;
+  color: $contrast;
 
   &:focus {
-    border: solid 2px $green_4;
-    padding: 15px 24px 13px 24px;
+    border: 2px solid $green_4;
   }
   
   &:hover {
@@ -95,13 +95,49 @@
       box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
     }
     &:disabled {
-      background-color: white;
-      color: #c4c4c4;
+      background-color: transparent;
+      color: $gray_12;
+      border-color: map-get($contrasts, "gray_12");
     }
   }
 
   &:disabled {
-    background-color: white;
-    color: #c4c4c4;
+    background-color: transparent;
+    color: $gray_12;
+    border-color: map-get($contrasts, "gray_12");
+  }
+}
+
+
+// Select variant TODO check if needed as variant
+.select {
+  background-color: $white;
+  border: none;
+  border-bottom: 2px solid $contrast;
+  border-radius: 0;
+  color: $contrast;
+  outline: none;
+  position: relative;
+  padding: 15px 10px 10px 10px;
+
+  &:focus {
+    border-bottom-color:  $green_4;
+  }
+  
+  &:hover {
+    &:not(:disabled) {
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+    }
+    &:disabled {
+      background-color: transparent;
+      color: $gray_12;
+      border-color: map-get($contrasts, "gray_12");
+    }
+  }
+
+  &:disabled {
+    background-color: transparent;
+    color: $gray_12;
+    border-color: map-get($contrasts, "gray_12");
   }
 }

@@ -70,7 +70,13 @@ Button.propTypes = {
    * buttons that appear on the site. By specifying the `variant` property,
    * you specify which style you're using.
    */
-  variant: PropTypes.oneOf(["primary", "secondary", "sneaky"]),
+  variant: PropTypes.oneOf([
+    "primary",
+    "secondary",
+    "sneaky",
+    "pill",
+    "select",
+  ]),
   /**
    * Available button types - correspond to the HTML button type attribute values.
    */
