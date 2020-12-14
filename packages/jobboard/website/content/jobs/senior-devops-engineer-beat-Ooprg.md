@@ -6,13 +6,13 @@ companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2528112"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2528112#app"
 timestamp: 1607904000000
-hashtags: "#management,#python,#golang,#rubylang,#kubernetes,#terraform,#linux,#aws,#azure,#ui/ux"
+hashtags: "#golang,#python,#rubylang,#kubernetes,#terraform,#linux,#aws,#azure,#ui/ux, #management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Interested in new opportunities and have 3+ years of experience running production workloads? Beat has a job opening for a senior devops engineer."
 summaryBackup: "Love #management, #python, #golang? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## About us
