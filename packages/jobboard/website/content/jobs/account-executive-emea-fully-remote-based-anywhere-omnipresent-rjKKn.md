@@ -1,5 +1,5 @@
 ---
-title: "Account Executive - EMEA - Fully Remote - Based Anywhere"
+title: "Account Executive"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
@@ -10,7 +10,7 @@ hashtags: "#sales,#marketing,#management,#css,#analytics,#operations,#socialmedi
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "Omnipresent intends to hire a new account executive. If you have 2 or 3 years, consider applying."
+summary: "Omnipresent intends to hire a new account executive. If you have 2 or 3 years experience as Account Executive, or been in a similar sales/customer service role, consider applying."
 summaryBackup: "Love #sales, #marketing, #management? Check out this job post!"
 featured: 20
 ---
