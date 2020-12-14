@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
 summary: "To apply as a ruby on rails developer at Bit Zesty, you preferably need to have experience of working with live applications including ongoing maintenance."
 summaryBackup: "Love #rails, #rubylang, #reactjs? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Description

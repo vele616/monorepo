@@ -14,6 +14,10 @@ export default function Home({ location }) {
 
   const howWeWorkRef = useRef(null);
 
+  const topRef = useRef(null);
+
+  const scrollToTop = () => topRef.current.scrollIntoView({ block: "end" });
+
   const scrollToContactUs = () => contactUsRef.current.scrollIntoView();
 
   const scrollToHowWeWork = () =>
@@ -31,8 +35,13 @@ export default function Home({ location }) {
   }, []);
 
   return (
-    <Layout scrollToContactUs={scrollToContactUs} stickyFooter>
+    <Layout
+      scrollToTop={scrollToTop}
+      scrollToContactUs={scrollToContactUs}
+      stickyFooter
+    >
       <Hero
+        topRef={topRef}
         scrollToHowWeWork={scrollToHowWeWork}
         scrollToContactUs={scrollToContactUs}
       />
