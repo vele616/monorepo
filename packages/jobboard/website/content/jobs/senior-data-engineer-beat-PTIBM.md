@@ -6,11 +6,11 @@ companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2368369"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2368369#app"
 timestamp: 1607904000000
-hashtags: "#spark,#reactjs,#java,#scala,#operations,#hadoop,#kubernetes,#ui/ux,#scrum"
+hashtags: "#spark,#java,#scala,#operations,#hadoop,#kubernetes,#ui/ux,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Interested in new opportunities and have experience building and running large? Beat has a job opening for a senior data engineer."
+summary: "Beat has a job opening for a senior data engineer to help them tackle some of the most fundamental data-driven challenges."
 summaryBackup: "Beat is looking for a senior data engineer that has experience in: #spark, #reactjs, #java."
 featured: 20
 ---
