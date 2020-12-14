@@ -82,12 +82,14 @@ class Portal extends React.Component {
       relative,
       className,
       includeHalf,
+      ariaHidden,
       x,
       y,
       parentId,
     } = this.props;
     return ReactDOM.createPortal(
       <div
+        aria-hidden={ariaHidden}
         style={this.state}
         className={classnames(className, {
           [styles.fixed]: !relative,
@@ -97,6 +99,7 @@ class Portal extends React.Component {
           [styles.removeHalf]: !includeHalf,
         })}
       >
+        {/** TODO add layer to support outside click handling */}
         {typeof children === "function"
           ? children(this.updateScreenPosition)
           : children || null}
@@ -107,6 +110,10 @@ class Portal extends React.Component {
 }
 
 Portal.propTypes = {
+  /**
+   * Makes element hidden from assistive technologies.
+   */
+  ariaHidden: PropTypes.bool,
   /**
    * Classname applied to the wrapper around all children.
    * This wrapper has position-related CSS applied to it.
@@ -160,6 +167,7 @@ Portal.defaultProps = {
   includeHalf: false,
   x: "center",
   y: "center",
+  ariaHidden: false,
 };
 
 export default Portal;
