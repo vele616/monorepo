@@ -1,18 +1,18 @@
 ---
-title: "Automation & Integration Lead - Fully Remote - Based Anywhere"
-location: "United States"
+title: "Automation & Integration Lead"
+location: "United States - Fully Remote - Based Anywhere"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/271BDB2F70/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/271BDB2F70/apply/"
 timestamp: 1607904000000
-hashtags: "#operations,#management,#marketing,#analysis,#sales,#socialmedia,#scrum,#finance,#optimization"
+hashtags: "#operations,#management,#optimization,#marketing,#analysis,#sales,#socialmedia,#scrum,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
 summary: "If you have 5 years experience with ideally someone who has seen several implementations and contexts, Omnipresent is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
