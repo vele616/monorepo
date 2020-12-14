@@ -14,20 +14,6 @@ const Template = (args) => {
       <Select {...args}>
         <Select.Option>Banana</Select.Option>
         <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
-        <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
       </Select>
     </div>
   );
@@ -35,7 +21,23 @@ const Template = (args) => {
 
 export const Story1 = Template.bind({});
 Story1.storyName = "Basic";
-Story1.args = {
-  x: "center",
-  y: "top",
+
+const Template1 = (args) => {
+  return (
+    <div>
+      <Select pill {...args}>
+        <Select.Option>Banana</Select.Option>
+        <Select.Option>Apple</Select.Option>
+      </Select>
+    </div>
+  );
+};
+
+export const Story2 = Template1.bind({});
+Story2.storyName = "Pills";
+
+Story2.argTypes = {
+  className: { control: { disable: true } },
+  children: { control: { disable: true } },
+  pill: { control: { disable: true } },
 };
