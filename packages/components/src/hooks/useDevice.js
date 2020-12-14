@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/rules-of-hooks */
 import { useState, useEffect } from "react";
 import {
   desktop,
@@ -7,48 +6,9 @@ import {
   viewportLimit,
 } from "../styles/main.module.scss";
 
-const myHooks = {};
-
 /**
  * Custom hook for screen-size detection in components.
  */
-function hook(mobileLimit, tabletLimit, desktopLimit, largeDesktopLimit) {
-  const [viewport, setViewport] = useState({
-    isMobile: false,
-    isDesktop: false,
-    isTablet: false,
-    isLargeDesktop: false,
-  });
-
-  useEffect(() => {
-    const isMobile = () =>
-      window.innerWidth < tabletLimit && window.innerWidth >= mobileLimit;
-    const isTablet = () =>
-      window.innerWidth >= tabletLimit && window.innerWidth < desktopLimit;
-    const isDesktop = () => window.innerWidth >= desktopLimit;
-    const isLargeDesktop = () => window.innerWidth > largeDesktopLimit;
-
-    setViewport({
-      isMobile: isMobile(),
-      isTablet: isTablet(),
-      isDesktop: isDesktop(),
-      isLargeDesktop: isLargeDesktop(),
-    });
-    const resizeHanlder = () => {
-      setViewport({
-        isMobile: isMobile(),
-        isTablet: isTablet(),
-        isDesktop: isDesktop(),
-        isLargeDesktop: isLargeDesktop(),
-      });
-    };
-    window.addEventListener("resize", resizeHanlder);
-    return () => window.removeEventListener("resize", resizeHanlder);
-  }, [desktopLimit, largeDesktopLimit, mobileLimit, tabletLimit]);
-
-  return viewport;
-}
-
 export default function useDevice(custom) {
   const mobileLimit =
     (custom && custom.mobile) || Number(mobile.replace("px", ""));
@@ -59,14 +19,34 @@ export default function useDevice(custom) {
   const largeDesktopLimit =
     (custom && custom.largeDesktop) || Number(viewportLimit.replace("px", ""));
 
-  const deviceKey = `${mobileLimit}, ${tabletLimit}, ${desktopLimit}, ${largeDesktopLimit}`;
-  if (!myHooks[deviceKey]) {
-    myHooks[deviceKey] = hook(
-      mobileLimit,
-      tabletLimit,
-      desktopLimit,
-      largeDesktopLimit
-    );
-  }
-  return myHooks[deviceKey];
+  const [isMobile, setIsMobile] = useState(false);
+  const [isDesktop, setIsDesktop] = useState(false);
+  const [isTablet, setIsTablet] = useState(false);
+  const [isLargeDesktop, setIsLargeDesktop] = useState(false);
+
+  useEffect(() => {
+    const checkIsMobile = () =>
+      window.innerWidth < tabletLimit && window.innerWidth >= mobileLimit;
+    const checkIsTablet = () =>
+      window.innerWidth >= tabletLimit && window.innerWidth < desktopLimit;
+    const checkIsDesktop = () => window.innerWidth >= desktopLimit;
+    const checkIsLargeDesktop = () => window.innerWidth > largeDesktopLimit;
+
+    setIsMobile(checkIsMobile());
+    setIsDesktop(checkIsTablet());
+    setIsTablet(checkIsDesktop());
+    setIsLargeDesktop(checkIsLargeDesktop());
+
+    const resizeHanlder = () => {
+      setIsMobile(checkIsMobile());
+      setIsDesktop(checkIsTablet());
+      setIsTablet(checkIsDesktop());
+      setIsLargeDesktop(checkIsLargeDesktop());
+    };
+
+    window.addEventListener("resize", resizeHanlder);
+    return () => window.removeEventListener("resize", resizeHanlder);
+  }, [desktopLimit, largeDesktopLimit, mobileLimit, tabletLimit]);
+
+  return { isMobile, isDesktop, isTablet, isLargeDesktop };
 }
