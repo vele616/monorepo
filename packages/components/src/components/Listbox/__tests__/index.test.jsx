@@ -108,15 +108,15 @@ describe("Listbox Component", () => {
       listbox.focus();
 
       fireEvent.keyDown(listbox, { key: "a" });
-      expect(listbox.getAttribute("aria-activedescendant")).toBe("0"); // next with letter a
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("lb-option-0"); // next with letter a
       fireEvent.keyDown(listbox, { key: "a" });
-      expect(listbox.getAttribute("aria-activedescendant")).toBe("3"); // next with letter a
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("lb-option-3"); // next with letter a
       fireEvent.keyDown(listbox, { key: "a" });
-      expect(listbox.getAttribute("aria-activedescendant")).toBe("4"); // next with letter a
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("lb-option-4"); // next with letter a
       fireEvent.keyDown(listbox, { key: "a" });
-      expect(listbox.getAttribute("aria-activedescendant")).toBe("0"); // next with letter a
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("lb-option-0"); // next with letter a
       fireEvent.keyDown(listbox, { key: "d" });
-      expect(listbox.getAttribute("aria-activedescendant")).toBe("0"); // next with 'ad' (preserve position)
+      expect(listbox.getAttribute("aria-activedescendant")).toBe("lb-option-0"); // next with 'ad' (preserve position)
     });
   });
 });

@@ -50,7 +50,7 @@ const Option = ({
         [styles.listbox__option__active]: active,
         [styles.listbox__option__selectedActive]: active && selected,
       })}
-      id={id}
+      id={id || `lb-option-${index}`}
       ref={optionRef}
       data-testid={testId}
       role="option"
@@ -96,7 +96,7 @@ Option.propTypes = {
   /**
    *
    */
-  id: PropTypes.string,
+  id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   /**
    *
    */
