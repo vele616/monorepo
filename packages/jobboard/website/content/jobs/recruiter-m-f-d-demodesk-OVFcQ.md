@@ -1,18 +1,18 @@
 ---
-title: "Recruiter (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "Recruiter"
+location: "Remote Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/2917d656-6d5d-44f4-933e-1f040431e357"
 applyUrl: "https://jobs.lever.co/demodesk/2917d656-6d5d-44f4-933e-1f040431e357/apply"
 timestamp: 1607990400000
-hashtags: "#sales,#linux,#content,#analytics,#management,#German"
+hashtags: "#operations,#content,#German,#analytics,#management,#sales,#linux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "Interested in new opportunities and have 5+ years years experience in a fast-growing international tech company? Demodesk has a job opening for a recruiter."
 summaryBackup: "Love #sales, #linux, #content? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Mission
@@ -43,7 +43,7 @@ As our first full time recruiter, you will be in the unique position to set the 
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.500) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
 About us
