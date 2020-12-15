@@ -391,12 +391,12 @@ Listbox.propTypes = {
    * Provide array with IDs if multi selection is on.
    * Providing array will multiple IDs on single selection Listbox will set only first Option as defaultly selected.
    */
-  defaultSelected: PropTypes.oneOfType(
+  defaultSelected: PropTypes.oneOfType([
     PropTypes.arrayOf(
-      PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
-      PropTypes.string
-    )
-  ),
+      PropTypes.oneOfType([PropTypes.number, PropTypes.string])
+    ),
+    PropTypes.string,
+  ]),
   /**
    * If set to true enables selection of multiple options
    */
