@@ -1,12 +1,12 @@
 ---
-title: "Full-Stack Engineer Real-time Conversation Assistance (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "Full-Stack Engineer Real-time Conversation Assistance"
+location: "Remote"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/ed97b776-57c6-4086-b820-6230a60df4c3"
 applyUrl: "https://jobs.lever.co/demodesk/ed97b776-57c6-4086-b820-6230a60df4c3/apply"
 timestamp: 1607990400000
-hashtags: "#rubylang,#rails,#python,#sales,#css,#terraform,#linux,#kubernetes,#aws,#content"
+hashtags: "#rubylang,#rails,#vuejs,#reactjs,#python,#sales,#css,#terraform,#linux,#kubernetes,#aws,#content"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
