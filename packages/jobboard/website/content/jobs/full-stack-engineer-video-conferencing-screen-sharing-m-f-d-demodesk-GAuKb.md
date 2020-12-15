@@ -1,18 +1,18 @@
 ---
-title: "Full-Stack Engineer Video Conferencing & Screen Sharing (m/f/d)"
+title: "Full-Stack Engineer"
 location: "RemoteMunich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/992625d2-6629-4dcf-8534-084a7927196e"
 applyUrl: "https://jobs.lever.co/demodesk/992625d2-6629-4dcf-8534-084a7927196e/apply"
 timestamp: 1607990400000
-hashtags: "#rubylang,#rails,#python,#css,#terraform,#kubernetes,#aws,#sales,#redis,#postgresql"
+hashtags: "#nodejs,#rails,#python,#css,#terraform,#kubernetes,#aws,#sales,#redis,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "To apply as a full-stack engineer video conferencing & screen sharing at Demodesk, you preferably need to have 3 years professional experience in Web Development working with python or ruby."
 summaryBackup: "To apply as a full-stack engineer video conferencing & screen sharing at Demodesk, you preferably need to have some knowledge of: #rubylang, #rails, #python."
-featured: 20
+featured: 1
 ---
 
 Your Mission:
