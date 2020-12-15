@@ -78,38 +78,72 @@ class Portal extends React.Component {
 
   render() {
     const {
+      ariaHidden,
       children,
-      relative,
       className,
       includeHalf,
-      ariaHidden,
+      onOutsideClick,
+      outsideLayerVisible,
+      parentId,
+      relative,
+      useOutsideLayer,
       x,
       y,
-      parentId,
     } = this.props;
     return ReactDOM.createPortal(
-      <div
-        aria-hidden={ariaHidden}
-        style={this.state}
-        className={classnames(className, {
-          [styles.fixed]: !relative,
-          [styles.base]: relative,
-          [styles.withParent]: !!parentId,
-          [styles[`${x}_${y}`]]: true,
-          [styles.removeHalf]: !includeHalf,
-        })}
-      >
-        {/** TODO add layer to support outside click handling */}
-        {typeof children === "function"
-          ? children(this.updateScreenPosition)
-          : children || null}
-      </div>,
+      <>
+        {useOutsideLayer && (
+          // This <div> is used to capture outside events
+          // eslint-disable-next-line jsx-a11y/no-static-element-interactions
+          <div
+            className={classnames(styles.outside, {
+              [styles.visible]: outsideLayerVisible,
+            })}
+            onKeyPress={onOutsideClick}
+            onClick={onOutsideClick}
+          />
+        )}
+        <div
+          aria-hidden={ariaHidden}
+          style={this.state}
+          className={classnames(className, {
+            [styles.fixed]: !relative,
+            [styles.base]: relative,
+            [styles.withParent]: !!parentId,
+            [styles[`${x}_${y}`]]: true,
+            [styles.removeHalf]: !includeHalf,
+          })}
+        >
+          {typeof children === "function"
+            ? children(this.updateScreenPosition)
+            : children || null}
+        </div>
+      </>,
       this.element
     );
   }
 }
 
 Portal.propTypes = {
+  /**
+   * Gets called when the outside layer is clicked.
+   * Must be used with `useOutsideLayer` property.
+   */
+  onOutsideClick: PropTypes.func,
+
+  /**
+   * When set to true, the component will apply additional styling
+   * to the outside layer to make it visible. Must be used
+   * with the `useOutsideLayer` property.
+   */
+  outsideLayerVisible: PropTypes.bool,
+  /**
+   * If set to true, the Portal component
+   * adds an additional outside layer. This is useful when you
+   * wish to stop interaction of the user and the background while
+   * the Portal children are visible.
+   */
+  useOutsideLayer: PropTypes.bool,
   /**
    * Makes element hidden from assistive technologies.
    */
@@ -168,6 +202,9 @@ Portal.defaultProps = {
   x: "center",
   y: "center",
   ariaHidden: false,
+  useOutsideLayer: false,
+  onOutsideClick: null,
+  outsideLayerVisible: false,
 };
 
 export default Portal;
