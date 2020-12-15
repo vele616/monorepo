@@ -1,18 +1,18 @@
 ---
-title: "WebRTC Video Conferencing Engineer (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "WebRTC Video Conferencing Engineer"
+location: "Remote; Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/3928b9d1-aacc-4489-a943-df05b04e70e4"
 applyUrl: "https://jobs.lever.co/demodesk/3928b9d1-aacc-4489-a943-df05b04e70e4/apply"
 timestamp: 1607990400000
 hashtags: "#rubylang,#python,#javascript,#sales,#linux,#content,#management,#German"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 3 years professional experience in Web Development working with python or ruby, Demodesk has a job opening for a webrtc video conferencing engineer"
 summaryBackup: "Demodesk is looking for a webrtc video conferencing engineer that has experience in: #rubylang, #python, #javascript."
-featured: 20
+featured: 15
 ---
 
 Your Mission:
@@ -27,7 +27,7 @@ As a member of our “machine” team you will be working on the heart of our pr
 *   Have expert knowledge of information security principles
 *   Have experience with managing distributed systems and architectures
 *   Work across software layers including browsers and WebRTC internals to achieve top streaming performance. 
-*   Understanding and Experience with the following VoIP CODECs and technologies ([G.711](http://G.711), [G.729](http://G.729), [G.722](http://G.722), OPUS, [H.264](http://H.264), VP8, VP9, WebRTC, [H.323](http://H.323), SIP, Network Analyzers)
+*   Understanding and Experience with the following VoIP CODECs and technologies (G.711, G.729, G.722, OPUS, H.264, VP8, VP9, WebRTC, H.323, SIP, Network Analyzers)
 *   Understanding and Experience with Network Infrastructure (Firewalls, Routers, Switches & Wireless)
 
 ## Goals
@@ -40,7 +40,7 @@ As a member of our “machine” team you will be working on the heart of our pr
 
 ## Your Profile
 
-*   ~3 years professional experience in Web Development working with python or ruby ([node.js](http://node.js) beneficial)
+*   ~3 years professional experience in Web Development working with python or ruby (node.js beneficial)
 *   Ideally previous experience in ruby (extensive experience in python is also fine, you will pick up ruby fast)
 *   At least one project working with distributed systems
 *   Profound knowledge of how to set up efficient systems for scaling
@@ -56,7 +56,7 @@ As a member of our “machine” team you will be working on the heart of our pr
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.500) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
 About us
