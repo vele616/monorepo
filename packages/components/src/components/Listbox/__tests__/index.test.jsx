@@ -10,6 +10,8 @@ import Listbox from "../index";
 
 describe("Listbox Component", () => {
   describe("Single Select Listbox", () => {
+    window.HTMLElement.prototype.scrollIntoView = jest.fn();
+
     test("Empty renders without issue", () => {
       const { container } = render(<Listbox testId="listbox-1" />);
       const listbox = getByTestId(container, "listbox-1");
