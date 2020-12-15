@@ -1,17 +1,17 @@
 ---
-title: "UX/UI Designer - Remote"
-location: "Dublin, County Dublin, Ireland"
+title: "UX/UI Designer"
+location: "Remote"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/CD41448A4F/"
 applyUrl: "https://apply.workable.com/fonoa/j/CD41448A4F/apply/"
 timestamp: 1607990400000
-hashtags: "#operations,#css,#windows,#branding,#ui/ux,#sales,#management,#figma,#translation,#office"
+hashtags: "#ui/ux,#design,#figma,#wireframes"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
-summary: "If you have 4+ years of digital product design experience working on web and native applications, Fonoa Technologies has a job opening for an ux"
-summaryBackup: "Excited about #operations, #css, #windows? Check out this job post!"
+summary: "If you have 4+ years of digital product design experience working on web and native applications, Fonoa Technologies has a job opening for an UX/UI Designer."
+summaryBackup: "Excited about #ui/ux,#design,#figma,#wireframes? Check out this job post!"
 featured: 20
 ---
 
