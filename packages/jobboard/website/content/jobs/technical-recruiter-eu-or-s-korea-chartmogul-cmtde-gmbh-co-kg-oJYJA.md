@@ -1,39 +1,39 @@
 ---
-title: "Technical Recruiter (EU or S. Korea)"
-location: "Remote job"
+title: "Technical Recruiter"
+location: "Remote job (EU or S. Korea)"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
 url: "https://jobs.chartmogul.com/o/technical-recruiter-eu-or-s-korea"
 applyUrl: "https://jobs.chartmogul.com/o/technical-recruiter-eu-or-s-korea/c/new"
 timestamp: 1607990400000
-hashtags: "#branding,#ui/ux,#css,#management,#operations,#sales,#finance,#English"
+hashtags: "#branding,#operations,#English,#ui/ux,#css,#management,#sales,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul-cmtde-gmbh-co-kg"
 companyWebsite: "https://chartmogul.com/"
-summary: "To apply as a technical recruiter at ChartMogul CMTDE GmbH & Co. KG, you preferably need to have some knowledge of: experience in: #branding, #ui/ux, #css."
+summary: "To apply as a technical recruiter at ChartMogul CMTDE GmbH & Co. KG, you preferably need to have some knowledge of: #branding,#operations and #English."
 summaryBackup: "To apply as a technical recruiter at ChartMogul CMTDE GmbH & Co. KG, you preferably need to have some knowledge of: #branding, #ui/ux, #css."
-featured: 20
+featured: 15
 ---
 
 ## Job description
 
 You're a passionate and skilled recruiter and topics like "candidate experience" and"employer branding" get you excited!
 
-Hi.We’re the people of ChartMogul. A distributedteam of 40+ people that fell in love with subscription dataand great design. People say we’re nice :) We're on a mission tobuild an iconicsoftware business with global impact,and the time has come to hire our first dedicated recruiter to help us accomplish this. We'relooking for a smart, proactive recruiterwith exceptional organizational skills and the will to set up and lead our recruitment and employer branding efforts. The role can bebased anywhere in the EU or the greater Seoul area,and we're looking for someone to join us as soon as possible!
+Hi.We’re the people of ChartMogul. A distributed team of 40+ people that fell in love with subscription dataand great design. People say we’re nice :) We're on a mission to build an iconic software business with global impact,and the time has come to hire our first dedicated recruiter to help us accomplish this. We're looking for a smart, proactive recruiter with exceptional organizational skills and the will to set up and lead our recruitment and employer branding efforts. The role can bebased anywhere in the EU or the greater Seoul area,and we're looking for someone to join us as soon as possible!
 
 ## This is what you’d be working on:
 
 *   Help us build an exceptional team at ChartMogul by leading all efforts associated with recruitment.
     *   Our team is heavily weighted towards product development, so much of the hiring will be for engineers andproduct designers. You will also be responsible for commercial and operational hiring (e.g.marketing, sales, finance, etc.).
-*   Maintain and continuously improve our hiring processes so we consistently deliver an exceptionalcandidate experience.
-*   Create, build, and execute a strong employer branding strategy so top talent becomes aware of ChartMogul and thebenefits of joining our team.
+*   Maintain and continuously improve our hiring processes so we consistently deliver an exceptional candidate experience.
+*   Create, build, and execute a strong employer branding strategy so top talent becomes aware of ChartMogul and the benefits of joining our team.
 *   Identify and maintain relationships with top industry talent months (or even years) ahead of a potential engagement.
 
 ## Why this could be the perfect opportunity:
 
 *   You’ll become part of a kind and highly dedicated team who works with top tier SaaS and subscription businesses globally.
-*   You'll take on an importantrole with a high degreeof autonomy and ownership that will have an outsized impact on thefuture success of the business (as hiring the right people is probably the most important thing we can do).
-*   You’ll receive a competitivecompensationpackage including stock options and education budget.
+*   You'll take on an important role with a high degree of autonomy and ownership that will have an outsized impact on the future success of the business (as hiring the right people is probably the most important thing we can do).
+*   You’ll receive a competitive compensation package including stock options and education budget.
 
 ## Requirements
 
