@@ -1,12 +1,12 @@
 ---
-title: "Revenue Operations Analyst (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "Revenue Operations Analyst"
+location: "Remote; Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/cb03f1b1-2333-4d8b-9766-ca711076ea97"
 applyUrl: "https://jobs.lever.co/demodesk/cb03f1b1-2333-4d8b-9766-ca711076ea97/apply"
 timestamp: 1607990400000
-hashtags: "#operations,#sales,#css,#marketing,#linux,#content,#management,#photoshop,#analysis,#crm"
+hashtags: "#operations,#management,#analysis,#sales,#marketing,#linux,#content,#photoshop,#css,#crm"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
@@ -47,7 +47,7 @@ As the first Revenue Operations Analyst you will be responsible for the technica
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.500) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
 About us
