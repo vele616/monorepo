@@ -1,12 +1,12 @@
 ---
-title: "Senior Platform / Site Reliability Engineer - Remote"
-location: "Dublin, County Dublin, Ireland"
+title: "Senior Platform / Site Reliability Engineer"
+location: "Remote"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/CB49E9822A/"
 applyUrl: "https://apply.workable.com/fonoa/j/CB49E9822A/apply/"
 timestamp: 1607990400000
-hashtags: "#azure,#aws,#css,#operations,#terraform,#ansible,#python,#ui/ux,#kubernetes,#docker"
+hashtags: "#azure,#aws,#devops,#docker,#terraform,#ansible,#python,#kubernetes"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
