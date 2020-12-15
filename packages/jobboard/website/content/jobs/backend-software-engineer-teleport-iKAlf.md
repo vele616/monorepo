@@ -6,13 +6,13 @@ companyName: "Teleport"
 url: "https://jobs.lever.co/gravitational/8a3ba43b-ae42-4225-aaf0-7f54713202d6"
 applyUrl: "https://jobs.lever.co/gravitational/8a3ba43b-ae42-4225-aaf0-7f54713202d6/apply"
 timestamp: 1607990400000
-hashtags: "#golang,#rustlang,#javascript,#reactjs,#nodejs,#linux,#kubernetes,#ui/ux,#git,#management"
+hashtags: "#golang,#rustlang,#linux,#javascript,#reactjs,#nodejs,#kubernetes,#ui/ux,#git,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
 summary: "If you have golang or Rust experience, Teleport has a job opening for a backend software engineer"
 summaryBackup: "Love #golang, #rustlang, #javascript? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.
