@@ -2,17 +2,9 @@ import React, { useMemo } from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Tabs } from "@crocoder-dev/components";
-//import useDevice from "@crocoder-dev/components/src/hooks/useDevice";
 import styles from "./index.module.scss";
 
-// max sirina 250px underlina
-// resize handler
-// ako je manji od 360 onda stavi vert inace horizonlta, smanji malo font ako treba
-
 const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
-  // const { isMobile } = useDevice({ tablet: styles.limit });
-  // const orientation = useMemo(() => isMobile ? 'vertical' : 'horizontal');
-
   const titles = useMemo(() => {
     return sections.map(({ title }) => (
       <Tabs.Tab className={styles.tabs__tabList__tab} key={title}>
@@ -73,7 +65,7 @@ const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
         style={{ position: "relative", top: "-100px" }}
         ref={ourWorkProcessRef}
       />
-      ,
+
       <Section key="section" className={styles.section} backgroundColor="white">
         <Typography
           className={styles.title}
@@ -94,8 +86,13 @@ const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
           <div dangerouslySetInnerHTML={{ __html: text }} />
         </Typography>
 
-        <Tabs orientation="horizontal" className={styles.tabs}>
-          <Tabs.TabList className={styles.tabs__tabList}>{titles}</Tabs.TabList>
+        <Tabs className={styles.tabs}>
+          <Tabs.TabList
+            maxUnderlineWidth={250}
+            className={styles.tabs__tabList}
+          >
+            {titles}
+          </Tabs.TabList>
           <Tabs.PanelList className={styles.tabs__panelList}>
             {panels}
           </Tabs.PanelList>
