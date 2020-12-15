@@ -1,18 +1,18 @@
 ---
-title: "Senior Product Designer (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "Senior Product Designer"
+location: "Remote; Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/41537219-1869-4014-92c0-68cd936a73ba"
 applyUrl: "https://jobs.lever.co/demodesk/41537219-1869-4014-92c0-68cd936a73ba/apply"
 timestamp: 1607990400000
-hashtags: "#ui/ux,#sales,#linux,#content,#management,#office,#German,#English"
+hashtags: "#ui/ux,#sales,#content,#management,#linux,#office,#German,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk is searching for a senior product designer that has 3 years experience in designing digital products."
 summaryBackup: "Excited about #ui/ux, #sales, #linux? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Mission
@@ -22,7 +22,7 @@ As a Product Designer you will be a key member of the product team where you’l
 ## Goals
 
 *   Partner with product teams and other stakeholders to **define problems and goals, map flows, prototype interactions** and contribute to the overall direction of your product area
-*   R**esearch, define, design and test solutions** to assess and validate design ideas. Help sales teams to improve the quality and efficiency of their meetings with an easy-to-use video platform.
+*   **Research, define, design and test solutions** to assess and validate design ideas. Help sales teams to improve the quality and efficiency of their meetings with an easy-to-use video platform.
 *   Create **high fidelity visual designs** that excites users yet meets the highest usability standards.
 *   **Provide clear documentation** that enables engineering teams to deliver high quality features 
 *   **Give and solicit feedback** from your peers, including other product designers and teammates in your product team in order to improve design processes and quality.
@@ -47,7 +47,7 @@ As a Product Designer you will be a key member of the product team where you’l
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.500) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
 About us
