@@ -1,18 +1,18 @@
 ---
-title: "Junior Product Designer (m/f/d)"
+title: "Junior Product Designer"
 location: "RemoteMunich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/bc4d6089-d560-4322-9fca-21f6dd76ae1b"
 applyUrl: "https://jobs.lever.co/demodesk/bc4d6089-d560-4322-9fca-21f6dd76ae1b/apply"
 timestamp: 1607990400000
-hashtags: "#ui/ux,#sales,#linux,#content,#management,#office,#German,#English"
+hashtags: "#ui/ux,#English,#German,"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "Interested in new opportunities and have from crafting the user experience and designing high fidelity interfaces, to shaping the design strategy of Demodesk? Demodesk has a job opening for a junior product designer."
 summaryBackup: "To apply as a junior product designer at Demodesk, you preferably need to have some knowledge of: #ui/ux, #sales, #linux."
-featured: 20
+featured: 5
 ---
 
 Mission
