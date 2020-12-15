@@ -10,7 +10,7 @@ hashtags: "#marketing,#content,#html,#javascript,#analytics,#management,#css,#op
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
-summary: "If you have journey on the website, including creating and modifying visual elements and content pieces to optimize the buyer journey, and conducting experiments, such as A/B tests, to create the best buying experience, Teleport is looking for someone with your knowledge."
+summary: "Teleport is looking for someone with a deep understanding of the developer audience, an expert on SEO, Google Search Console, and Tag Manager to optimize and own the user journey on our website."
 summaryBackup: "Teleport is looking for a growth marketing manager that has experience in: #marketing, #content, #html."
 featured: 20
 ---
