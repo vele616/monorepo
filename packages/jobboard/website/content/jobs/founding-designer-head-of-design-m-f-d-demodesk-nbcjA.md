@@ -1,5 +1,5 @@
 ---
-title: "Founding Designer / Head of Design (m/f/d)"
+title: "Founding Designer"
 location: "RemoteMunich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk intends to hire a new founding designer. If you have 5+ years work experience as UX/UI designer for a web application, optimally in a fast growing international B2B SaaS startup, consider applying."
 summaryBackup: "Demodesk is looking for a founding designer that has experience in: #ui/ux, #branding, #marketing."
-featured: 20
+featured: 10
 ---
 
 Mission
