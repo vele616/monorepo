@@ -1,18 +1,18 @@
 ---
-title: "Senior Backend Engineer - Remote"
+title: "Senior Backend Engineer"
 location: "Dublin, County Dublin, Ireland"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/8B5FF4A78D/"
 applyUrl: "https://apply.workable.com/fonoa/j/8B5FF4A78D/apply/"
 timestamp: 1607990400000
-hashtags: "#ui/ux,#operations,#nodejs,#css,#windows,#docker,#azure,#sales,#rest,#scrum"
+hashtags: "#csharp,#nodejs,#azure,#ui/ux,#operations,#css,#windows,#docker,#sales,#rest,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
 summary: "Fonoa Technologies is looking for a senior backend engineer that has 5 years experience in software development, with at least 3 of them designing and working on high-scale environments, ideally in C# or NodeJS alternatively."
 summaryBackup: "Love #ui/ux, #operations, #nodejs? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
