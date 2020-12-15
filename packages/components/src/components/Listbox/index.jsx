@@ -387,9 +387,15 @@ Listbox.propTypes = {
   disabled: PropTypes.bool,
   /**
    * Array of IDs of defaultly selected options. You need to define ID of every option to enable default selection.
+   * Provide string of ID or array with single ID if multi selection is off.
+   * Provide array with IDs if multi selection is on.
+   * Providing array will multiple IDs on single selection Listbox will set only first Option as defaultly selected.
    */
-  defaultSelected: PropTypes.arrayOf(
-    PropTypes.oneOfType([PropTypes.number, PropTypes.string])
+  defaultSelected: PropTypes.oneOfType(
+    PropTypes.arrayOf(
+      PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
+      PropTypes.string
+    )
   ),
   /**
    * If set to true enables selection of multiple options
