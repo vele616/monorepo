@@ -6,11 +6,11 @@ companyName: "BuildZoom"
 url: "https://jobs.lever.co/buildzoom/5081c1f2-5c2a-4bda-ae9f-9d8d0350ea01"
 applyUrl: "https://jobs.lever.co/buildzoom/5081c1f2-5c2a-4bda-ae9f-9d8d0350ea01/apply"
 timestamp: 1607990400000
-hashtags: "#content,#windows,#ui/ux,#management,#office,#English"
+hashtags: "#content,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/buildzoom"
 companyWebsite: "http://www.buildzoom.com/"
-summary: "BuildZoom is looking for a content editor that has experience in: experience in: #content, #windows, #ui/ux."
+summary: "BuildZoom is looking for a content editor that has experience in: experience in: #content, #office, #English."
 summaryBackup: "BuildZoom is looking for a content editor that has experience in: #content, #windows, #ui/ux."
 featured: 20
 ---
