@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import Listbox from "./index";
 
 export default {
@@ -135,6 +135,40 @@ Story5.parameters = {
   docs: {
     description: {
       story: `Some options can be disabled.`,
+    },
+  },
+};
+
+export const Story6 = () => {
+  const listboxRef = useRef();
+  return (
+    <div>
+      <div>
+        <Listbox enableMultiselect forwardRef={listboxRef}>
+          <Listbox.Option>Ananas</Listbox.Option>
+          <Listbox.Option disabled>Avocado</Listbox.Option>
+          <Listbox.Option>Banana</Listbox.Option>
+          <Listbox.Option>Bush</Listbox.Option>
+          <Listbox.Option disabled>Bloom</Listbox.Option>
+          <Listbox.Option>Doom</Listbox.Option>
+        </Listbox>
+      </div>
+      <button
+        onClick={() => {
+          listboxRef.current.clear();
+        }}
+      >
+        Clear
+      </button>
+    </div>
+  );
+};
+Story6.storyName = "Controlled";
+Story6.parameters = {
+  docs: {
+    description: {
+      story: `This listbox can expose inner functions. In this example, listbox can expose 'clear' function.
+      Calling this function will clear all selection`,
     },
   },
 };

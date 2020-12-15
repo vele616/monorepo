@@ -4,6 +4,7 @@ import React, {
   useRef,
   useMemo,
   useEffect,
+  useImperativeHandle,
 } from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames";
@@ -29,10 +30,11 @@ const Listbox = ({
   enableMultiselect = false,
   enableTypeAhead = true,
   id,
+  onChange,
   onOptionSelect,
   onOptionUnselect,
-  onChange,
   orientation = "vertical",
+  forwardRef,
   showCheckIcon = true,
   testId,
 }) => {
@@ -57,6 +59,10 @@ const Listbox = ({
     [children]
   );
 
+  const [selectedOptions, setSelectedOptions] = useState(() => {
+    return mapValidChildren(() => false);
+  });
+
   const getTextValue = useCallback((option) => {
     if (option && option.props && option.props.value) {
       return option.props.value;
@@ -77,10 +83,6 @@ const Listbox = ({
     }
     return "";
   }, []);
-
-  const [selectedOptions, setSelectedOptions] = useState(() => {
-    return mapValidChildren(() => false);
-  });
 
   const optionValues = useMemo(() => {
     setSelectedOptions(mapValidChildren(() => false));
@@ -142,6 +144,16 @@ const Listbox = ({
     [selectedOptions, enableMultiselect, fireOnSelectedEvents]
   );
 
+  useImperativeHandle(
+    forwardRef,
+    () => ({
+      clear: () => {
+        setSelectedOptions(selectedOptions.map(() => false));
+      },
+    }),
+    [selectedOptions]
+  );
+
   const manualFocus = useCallback(
     (index) => {
       setFocusedIndex(index);
@@ -178,7 +190,7 @@ const Listbox = ({
     [selectOption]
   );
 
-  const handleOptionMouseEnter = useCallback(
+  const handleOptionMouseMove = useCallback(
     (index) => {
       manualFocus(index);
     },
@@ -197,7 +209,6 @@ const Listbox = ({
     (event) => {
       if (event.keyCode === Keys.ArrowDown || event.keyCode === Keys.ArrowUp) {
         event.preventDefault();
-        event.stopPropagation();
       }
 
       switch (event.keyCode) {
@@ -240,12 +251,17 @@ const Listbox = ({
 
   const handleOnFocus = useCallback(() => {
     const index = selectedOptions.findIndex((e) => e === true);
-    if (focusedIndex === -1) {
+
+    if (focusedIndex < -1 || index < 0) {
       setFocusedIndex(0);
     } else {
       setFocusedIndex(index);
     }
   }, [selectedOptions, focusedIndex]);
+
+  const handleOnBlur = useCallback(() => {
+    setFocusedIndex(-1);
+  }, []);
 
   const handleOptionFocus = useCallback((index) => {
     setFocusedIndex(index);
@@ -263,7 +279,7 @@ const Listbox = ({
 
       return React.cloneElement(child, {
         handleOptionClick,
-        handleOptionMouseEnter,
+        handleOptionMouseMove,
         handleOptionFocus,
         index,
         active,
@@ -278,7 +294,7 @@ const Listbox = ({
     focusedIndex,
     selectedOptions,
     handleOptionClick,
-    handleOptionMouseEnter,
+    handleOptionMouseMove,
     handleOptionFocus,
     showCheckIcon,
     enableMultiselect,
@@ -286,7 +302,7 @@ const Listbox = ({
 
   return (
     <div
-      aria-activedescendant={focusedIndex}
+      aria-activedescendant={focusedIndex < 0 ? null : focusedIndex}
       aria-disabled={disabled}
       aria-label={ariaLabel}
       aria-multiselectable={enableMultiselect}
@@ -296,7 +312,8 @@ const Listbox = ({
         [styles.listbox__horizontal]: orientation === "horizontal",
       })}
       id={id}
-      onFocus={handleOnFocus}
+      onFocusCapture={handleOnFocus}
+      onBlurCapture={handleOnBlur}
       onKeyDownCapture={handleKeyDown}
       onMouseEnter={handleMouseEnter}
       ref={listboxRef}
@@ -360,6 +377,11 @@ Listbox.propTypes = {
    * Horizontal or vertical display of listbox.
    */
   orientation: PropTypes.oneOf(["vertical", "horizontal"]),
+  /**
+   * Reference to listbox component. When set, this ref will expose 'clear' function.
+   * Clear function can be used to clear listbox selection.
+   */
+  forwardRef: PropTypes.func,
   /**
    * If set to true, option will display check icon when selected.
    */
