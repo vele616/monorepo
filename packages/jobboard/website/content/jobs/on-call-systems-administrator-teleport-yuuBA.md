@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/gravitational/736f8ce8-1aef-48df-9fac-1bc6bafc305b"
 applyUrl: "https://jobs.lever.co/gravitational/736f8ce8-1aef-48df-9fac-1bc6bafc305b/apply"
 timestamp: 1607990400000
 hashtags: "#kubernetes,#linux,#python,#terraform,#ansible,#aws,#googlecloud,#postgresql,#monitoring"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
 summary: "Interested in new opportunities and have strong experience with Linux systems administration and expertise in network setup? Teleport has a job opening for an on call systems administrator."
