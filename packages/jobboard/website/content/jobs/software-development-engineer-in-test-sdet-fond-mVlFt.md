@@ -1,5 +1,5 @@
 ---
-title: "Software Development Engineer in Test (SDET)"
+title: "Software Development Engineer in Test"
 location: "Remote"
 host: "https://jobs.lever.co/fond?location=Remote"
 companyName: "Fond"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fond"
 companyWebsite: "http://fond.co/"
 summary: "If you have 2-5 years experience as a QA Engineer, Software Developer or an SDET in a production web application setting, Fond is looking for someone with your skillset."
 summaryBackup: "Love #rubylang, #css, #javascript? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 Fond is a SaaS platform that seamlessly consolidates employee rewards and recognition processes into one easy-to-use solution. With Fond, employees and managers can recognize each other, redeem rewards, access exclusive corporate discounts, and measure success so HR departments spend less time managing programs and more time driving results. If you want to be part of the team that delivers industry-leading engagement and recognition capabilities for top companies, Fond is for you!
@@ -47,7 +47,7 @@ Fond’s engineering team aspires to deliver industry-leading elegant, innovativ
 *   Extensive testing tools experience (e.g. Selenium, Cucumber, RSpec, Cypress)
 *   Automated testing services experience (e.g. CircleCI, TravisCI)
 *   Proficient in working in an agile setting where code reviews and quality are a priority
-*   Experience writing JavaScript code, either vanilla JS or using a framework such as [Node.js](http://Node.js), React, Redux 3rd party API usage and integration experience
+*   Experience writing JavaScript code, either vanilla JS or using a framework such as Node.js, React, Redux 3rd party API usage and integration experience
 *   Knowledge of SQL
 *   Ability to empathize with end-user needs; build with ease of adoption in mind
 *   Excellent communication and interpersonal skills
