@@ -6,18 +6,18 @@ companyName: "Teleport"
 url: "https://jobs.lever.co/gravitational/46382184-d052-4841-8244-9d03fbd8025e"
 applyUrl: "https://jobs.lever.co/gravitational/46382184-d052-4841-8244-9d03fbd8025e/apply"
 timestamp: 1607990400000
-hashtags: "#content,#marketing,#management,#sales,#linux,#terraform,#ansible,#aws"
+hashtags: "#marketing,#management,#content,#sales,#linux,#terraform,#ansible,#aws"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
-summary: "Teleport intends to hire a new technical product marketing manager. If you have prior engineering and product management experience) and the ability to articulate compelling, consider applying."
+summary: "Teleport intends to hire a new technical product marketing manager. If you have prior engineering and product management experience and the ability to articulate compelling narratives around product benefits, capabilities and features, consider applying."
 summaryBackup: "Excited about #content, #marketing, #management? Check out this job post!"
 featured: 20
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.
 
-We are looking for a  Technical Product Marketing Manager to join our team. We need someone with a strong understanding of Linux and cloud technology to create technical blogs, write API sample code using a favorite language, record demo videos,  and webinars to help developers learn, use, and understand how to get started with Teleport, how to improve their SSH, application and database access.
+We are looking for a  Technical Product Marketing Manager to join our team. We need someone with a strong understanding of Linux and cloud technology to create technical blogs, write API sample code using a favorite language, record demo videos and webinars to help developers learn, use, and understand how to get started with Teleport, how to improve their SSH, application and database access.
 
 This role requires both a deep understanding of the technology (prior engineering and product management experience) and the ability to articulate compelling  narratives around product benefits, capabilities, and features that appeal to our developer audience. You must be able to lead initiatives and work cross-functionally to produce a variety of technical content assets, including blog posts, case studies, learning resources, and more.
 
