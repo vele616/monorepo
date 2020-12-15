@@ -263,10 +263,6 @@ const Listbox = ({
     setFocusedIndex(-1);
   }, []);
 
-  const handleOptionFocus = useCallback((index) => {
-    setFocusedIndex(index);
-  }, []);
-
   const renderChildren = useCallback(() => {
     let index = -1;
 
@@ -280,7 +276,6 @@ const Listbox = ({
       return React.cloneElement(child, {
         handleOptionClick,
         handleOptionMouseMove,
-        handleOptionFocus,
         index,
         active,
         selected,
@@ -295,7 +290,6 @@ const Listbox = ({
     selectedOptions,
     handleOptionClick,
     handleOptionMouseMove,
-    handleOptionFocus,
     showCheckIcon,
     enableMultiselect,
   ]);

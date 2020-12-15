@@ -10,7 +10,6 @@ const Option = ({
   className,
   disabled = false,
   handleOptionClick,
-  handleOptionFocus,
   handleOptionMouseMove,
   id,
   index,
@@ -42,10 +41,6 @@ const Option = ({
     [handleOptionMouseMove, disabled, index]
   );
 
-  const handleFocus = useCallback(() => {
-    if (handleOptionFocus && !disabled) handleOptionFocus(index);
-  }, [handleOptionFocus, disabled, index]);
-
   return (
     <div
       aria-disabled={disabled}
@@ -63,7 +58,6 @@ const Option = ({
       onClick={handleClick}
       onKeyPress={() => {}}
       onMouseMove={handleMouseMove}
-      onFocus={handleFocus}
       tabIndex={-1}
     >
       {showCheckIcon && selected && (
@@ -95,10 +89,6 @@ Option.propTypes = {
    *
    */
   handleOptionClick: PropTypes.func,
-  /**
-   *
-   */
-  handleOptionFocus: PropTypes.func,
   /**
    *
    */
