@@ -4,6 +4,7 @@ import React, {
   useRef,
   useMemo,
   useEffect,
+  useImperativeHandle,
 } from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames";
@@ -23,39 +24,65 @@ const Keys = Object.freeze({
 
 const Listbox = ({
   ariaLabel = "listbox",
+  ariaLabelledby,
   children,
   className,
   disabled = false,
+  defaultSelected = [],
   enableMultiselect = false,
   enableTypeAhead = true,
   id,
+  onChange,
   onOptionSelect,
   onOptionUnselect,
-  onChange,
   orientation = "vertical",
+  forwardRef,
   showCheckIcon = true,
   testId,
 }) => {
-  const mapValidChildren = useCallback(
-    (callback) => {
-      return React.Children.map(children || [], (child) => {
-        if (React.isValidElement(child)) {
-          if (!child.props.disabled) {
-            return callback(child);
-          }
-        } else {
-          console.warn(
-            `Trying to render invalid element.
-          Listbox options should be of type Listbox.Option.
-          You rendered:`,
-            child
-          );
+  const validChildren = useMemo(() => {
+    return React.Children.map(children || [], (child) => {
+      if (React.isValidElement(child)) {
+        if (!child.props.disabled) {
+          return child;
         }
-        return undefined;
-      });
-    },
-    [children]
-  );
+      } else {
+        console.warn(
+          `Trying to render invalid element.
+        Listbox options should be of type Listbox.Option.
+        You rendered:`,
+          child
+        );
+      }
+      return undefined;
+    });
+  }, [children]);
+
+  const optionIds = useMemo(() => {
+    return validChildren.map((child, index) => {
+      if (child.props.id !== null && child.props.id !== undefined) {
+        return child.props.id;
+      }
+      return `lb-option-${index}`;
+    });
+  }, [validChildren]);
+
+  const [selectedOptions, setSelectedOptions] = useState(() => {
+    return optionIds.map((optionId) => {
+      if (!optionIds.includes(optionId)) {
+        console.warn(
+          `Option with ID ${optionId} does not exists in options list.`
+        );
+      }
+      if (enableMultiselect) {
+        return defaultSelected.includes(optionId);
+      }
+      if (typeof defaultSelected === "string") {
+        return defaultSelected === optionId;
+      }
+      return defaultSelected[0] === optionId;
+    });
+  });
 
   const getTextValue = useCallback((option) => {
     if (option && option.props && option.props.value) {
@@ -78,14 +105,9 @@ const Listbox = ({
     return "";
   }, []);
 
-  const [selectedOptions, setSelectedOptions] = useState(() => {
-    return mapValidChildren(() => false);
-  });
-
   const optionValues = useMemo(() => {
-    setSelectedOptions(mapValidChildren(() => false));
-    return mapValidChildren((child) => getTextValue(child));
-  }, [getTextValue, mapValidChildren]);
+    return validChildren.map((child) => getTextValue(child));
+  }, [getTextValue, validChildren]);
 
   const [focusedIndex, setFocusedIndex] = useState(-1);
   const listboxRef = useRef();
@@ -93,7 +115,14 @@ const Listbox = ({
 
   useEffect(() => {
     if (!enableMultiselect) {
-      setSelectedOptions((prev) => prev.map(() => false));
+      setSelectedOptions((prev) => {
+        const newSelectedOptions = prev.map(() => false);
+        const selectedIndex = prev.findIndex((option) => option === true);
+        if (selectedIndex >= 0) {
+          newSelectedOptions[selectedIndex] = true;
+        }
+        return newSelectedOptions;
+      });
     }
   }, [enableMultiselect]);
 
@@ -104,7 +133,10 @@ const Listbox = ({
       if (onChange) {
         const selection = newOptions.reduce((array, selected, index) => {
           if (selected)
-            return [...array, { index, value: optionValues[index] }];
+            return [
+              ...array,
+              { index, value: optionValues[index], id: optionIds[index] },
+            ];
           return array;
         }, []);
         onChange(selection);
@@ -113,6 +145,7 @@ const Listbox = ({
       const newOption = {
         index: newOptionIndex,
         value: optionValues[newOptionIndex],
+        id: optionIds[newOptionIndex],
       };
 
       if (newOptions[newOptionIndex]) {
@@ -123,7 +156,7 @@ const Listbox = ({
         onOptionUnselect(newOption);
       }
     },
-    [onChange, onOptionSelect, onOptionUnselect, optionValues]
+    [onChange, onOptionSelect, onOptionUnselect, optionIds, optionValues]
   );
 
   const selectOption = useCallback(
@@ -178,7 +211,7 @@ const Listbox = ({
     [selectOption]
   );
 
-  const handleOptionMouseEnter = useCallback(
+  const handleOptionMouseMove = useCallback(
     (index) => {
       manualFocus(index);
     },
@@ -195,9 +228,8 @@ const Listbox = ({
 
   const handleKeyDown = useCallback(
     (event) => {
-      if (event.keyCode !== Keys.Tab) {
+      if (event.keyCode === Keys.ArrowDown || event.keyCode === Keys.ArrowUp) {
         event.preventDefault();
-        event.stopPropagation();
       }
 
       switch (event.keyCode) {
@@ -206,9 +238,6 @@ const Listbox = ({
           break;
         case Keys.ArrowDown:
           focusNext();
-          break;
-        case Keys.Space:
-          handleOptionClick(focusedIndex);
           break;
         case Keys.Enter:
           handleOptionClick(focusedIndex);
@@ -243,18 +272,19 @@ const Listbox = ({
 
   const handleOnFocus = useCallback(() => {
     const index = selectedOptions.findIndex((e) => e === true);
-    if (focusedIndex === -1) {
+
+    if (focusedIndex < -1 || index < 0) {
       setFocusedIndex(0);
     } else {
       setFocusedIndex(index);
     }
   }, [selectedOptions, focusedIndex]);
 
-  const handleOptionFocus = useCallback((index) => {
-    setFocusedIndex(index);
+  const handleOnBlur = useCallback(() => {
+    setFocusedIndex(-1);
   }, []);
 
-  const renderChildren = useCallback(() => {
+  const options = useMemo(() => {
     let index = -1;
 
     return React.Children.map(children || [], (child) => {
@@ -266,8 +296,7 @@ const Listbox = ({
 
       return React.cloneElement(child, {
         handleOptionClick,
-        handleOptionMouseEnter,
-        handleOptionFocus,
+        handleOptionMouseMove,
         index,
         active,
         selected,
@@ -281,17 +310,37 @@ const Listbox = ({
     focusedIndex,
     selectedOptions,
     handleOptionClick,
-    handleOptionMouseEnter,
-    handleOptionFocus,
+    handleOptionMouseMove,
     showCheckIcon,
     enableMultiselect,
   ]);
 
+  useImperativeHandle(
+    forwardRef,
+    () => ({
+      clear: () => {
+        setSelectedOptions(selectedOptions.map(() => false));
+      },
+      getSelectedOptions: () => {
+        return selectedOptions.reduce((array, selected, index) => {
+          if (selected)
+            return [
+              ...array,
+              { index, value: optionValues[index], id: optionIds[index] },
+            ];
+          return array;
+        }, []);
+      },
+    }),
+    [selectedOptions, optionValues, optionIds]
+  );
+
   return (
     <div
-      aria-activedescendant={focusedIndex}
+      aria-activedescendant={focusedIndex < 0 ? null : optionIds[focusedIndex]}
       aria-disabled={disabled}
       aria-label={ariaLabel}
+      aria-labelledby={ariaLabelledby}
       aria-multiselectable={enableMultiselect}
       aria-orientation={orientation}
       className={classnames(styles.listbox, className, {
@@ -299,15 +348,16 @@ const Listbox = ({
         [styles.listbox__horizontal]: orientation === "horizontal",
       })}
       id={id}
-      onFocus={handleOnFocus}
-      onKeyDown={handleKeyDown}
+      onFocusCapture={handleOnFocus}
+      onBlurCapture={handleOnBlur}
+      onKeyDownCapture={handleKeyDown}
       onMouseEnter={handleMouseEnter}
       ref={listboxRef}
       role="listbox"
       tabIndex={0}
       data-testid={testId}
     >
-      {renderChildren()}
+      {options}
     </div>
   );
 };
@@ -319,6 +369,10 @@ Listbox.propTypes = {
    *
    */
   ariaLabel: PropTypes.string,
+  /**
+   * Refers to the element containing the listbox label.
+   */
+  ariaLabelledby: PropTypes.string,
   /**
    * Listbox options. Every option should be Listbox.Option component.
    */
@@ -332,6 +386,18 @@ Listbox.propTypes = {
    */
   disabled: PropTypes.bool,
   /**
+   * Array of IDs of defaultly selected options. You need to define ID of every option to enable default selection.
+   * Provide string of ID or array with single ID if multi selection is off.
+   * Provide array with IDs if multi selection is on.
+   * Providing array will multiple IDs on single selection Listbox will set only first Option as defaultly selected.
+   */
+  defaultSelected: PropTypes.oneOfType([
+    PropTypes.arrayOf(
+      PropTypes.oneOfType([PropTypes.number, PropTypes.string])
+    ),
+    PropTypes.string,
+  ]),
+  /**
    * If set to true enables selection of multiple options
    */
   enableMultiselect: PropTypes.bool,
@@ -343,7 +409,7 @@ Listbox.propTypes = {
   /**
    *
    */
-  id: PropTypes.string,
+  id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   /**
    * Callback function that triggers each time option is selected.
    * Returns single element as object with value and index.
@@ -363,6 +429,11 @@ Listbox.propTypes = {
    * Horizontal or vertical display of listbox.
    */
   orientation: PropTypes.oneOf(["vertical", "horizontal"]),
+  /**
+   * Reference to listbox component. When set, this ref will expose 'clear' function.
+   * Clear function can be used to clear listbox selection.
+   */
+  forwardRef: PropTypes.objectOf(PropTypes.object),
   /**
    * If set to true, option will display check icon when selected.
    */

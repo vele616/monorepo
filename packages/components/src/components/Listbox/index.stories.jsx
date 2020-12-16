@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef, useState } from "react";
 import Listbox from "./index";
 
 export default {
@@ -121,7 +121,7 @@ Story4.parameters = {
 export const Story5 = () => {
   return (
     <Listbox>
-      <Listbox.Option>Ananas</Listbox.Option>
+      <Listbox.Option defaultSelected>Ananas</Listbox.Option>
       <Listbox.Option disabled>Avocado</Listbox.Option>
       <Listbox.Option>Banana</Listbox.Option>
       <Listbox.Option>Bush</Listbox.Option>
@@ -135,6 +135,105 @@ Story5.parameters = {
   docs: {
     description: {
       story: `Some options can be disabled.`,
+    },
+  },
+};
+
+export const Story6 = () => {
+  const listboxRef = useRef();
+
+  const [selectedItems, setSelectedItems] = useState([]);
+
+  return (
+    <div>
+      <div>
+        <Listbox enableMultiselect forwardRef={listboxRef}>
+          <Listbox.Option>Ananas</Listbox.Option>
+          <Listbox.Option disabled>Avocado</Listbox.Option>
+          <Listbox.Option id="banana-id">Banana</Listbox.Option>
+          <Listbox.Option>Bush</Listbox.Option>
+          <Listbox.Option disabled>Bloom</Listbox.Option>
+          <Listbox.Option>Doom</Listbox.Option>
+        </Listbox>
+      </div>
+      <button
+        onClick={() => {
+          listboxRef.current.clear();
+        }}
+      >
+        Clear
+      </button>
+      <button
+        onClick={() => {
+          setSelectedItems(listboxRef.current.getSelectedOptions());
+        }}
+      >
+        Print Selection
+      </button>
+      <div>{JSON.stringify(selectedItems, null, 2)}</div>
+    </div>
+  );
+};
+Story6.storyName = "Controlled";
+Story6.parameters = {
+  docs: {
+    description: {
+      story: `This listbox can expose inner functions. In this example, listbox can expose 'clear' function.
+      Calling this function will clear all selection`,
+    },
+  },
+};
+
+export const Story7 = () => {
+  return (
+    <div>
+      <p>
+        <strong>Multiselect</strong>
+      </p>
+      <Listbox defaultSelected={["ananas-id", "banana-id"]} enableMultiselect>
+        <Listbox.Option id="ananas-id">Ananas</Listbox.Option>
+        <Listbox.Option id="avocado-id" disabled>
+          Avocado
+        </Listbox.Option>
+        <Listbox.Option id="banana-id">Banana</Listbox.Option>
+        <Listbox.Option>Bush</Listbox.Option>
+        <Listbox.Option disabled>Bloom</Listbox.Option>
+        <Listbox.Option>Doom</Listbox.Option>
+      </Listbox>
+      <p>
+        <strong>Singleselect ID as Array</strong>
+      </p>
+      <Listbox defaultSelected={["banana-id"]}>
+        <Listbox.Option id="ananas-id">Ananas</Listbox.Option>
+        <Listbox.Option id="avocado-id" disabled>
+          Avocado
+        </Listbox.Option>
+        <Listbox.Option id="banana-id">Banana</Listbox.Option>
+        <Listbox.Option>Bush</Listbox.Option>
+        <Listbox.Option disabled>Bloom</Listbox.Option>
+        <Listbox.Option>Doom</Listbox.Option>
+      </Listbox>
+      <p>
+        <strong>Singleselect ID as string</strong>
+      </p>
+      <Listbox defaultSelected="banana-id">
+        <Listbox.Option id="ananas-id">Ananas</Listbox.Option>
+        <Listbox.Option id="avocado-id" disabled>
+          Avocado
+        </Listbox.Option>
+        <Listbox.Option id="banana-id">Banana</Listbox.Option>
+        <Listbox.Option>Bush</Listbox.Option>
+        <Listbox.Option disabled>Bloom</Listbox.Option>
+        <Listbox.Option>Doom</Listbox.Option>
+      </Listbox>
+    </div>
+  );
+};
+Story7.storyName = "Default selection";
+Story7.parameters = {
+  docs: {
+    description: {
+      story: `This shows defaultly selected options`,
     },
   },
 };
