@@ -1,17 +1,17 @@
 ---
-title: "Growth Marketer North America (Remote)"
+title: "Growth Marketer"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
-companyName: "Remo-co"
+companyName: "Remo"
 url: "https://remo1.freshteam.com/jobs/Qvx2pqMrYSA9/growth-marketer-north-america-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/Qvx2pqMrYSA9/growth-marketer-north-america-remote#applicant-form"
 timestamp: 1608076800000
-hashtags: "#marketing,#content,#css,#office,#ui/ux,#management,#sales,#socialmedia,#English"
+hashtags: "#marketing,#sales,#ui/ux,#management,#socialmedia,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
-summary: "Remo-co wishes to hire a new growth marketer north america. If you have 2-5 years of B2B sales experience, ideally in SaaS, is a bonus, consider applying."
-summaryBackup: "Remo-co is looking for a growth marketer north america that has experience in: #marketing, #content, #css."
+summary: "Remo wishes to hire a new growth marketer. If you have 2-5 years of B2B sales experience, ideally in SaaS is a bonus, consider applying."
+summaryBackup: "Remo is looking for a growth marketer north america that has experience in: #marketing, #content, #css."
 featured: 20
 ---
 
