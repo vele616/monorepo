@@ -1,18 +1,18 @@
 ---
-title: "Senior Product Manager (Observability)"
+title: "Senior Product Manager"
 location: "Remote"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4989818002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4989818002#app"
 timestamp: 1608076800000
-hashtags: "#ui/ux,#management,#marketing,#css,#sales,#analysis,#git,#monitoring,#operations,#figma"
+hashtags: "#management,#analysis,#operations,#sales,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have as a Product Manager with our team, you'll be specializing in building integrated monitoring and debugging experiences that span across multiple Netlify products, including Build, Edge and Functions, Current Job Openings at Netlify has a job opening for a senior product manager"
-summaryBackup: "To apply as a senior product manager at Current Job Openings at Netlify, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
-featured: 20
+summary: "As a Product Manager at Netlify, you'll be specializing in building integrated monitoring and debugging experiences that span across multiple Netlify products, including Build, Edge and Functions"
+summaryBackup: "To apply as a senior product manager at Netlify, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
+featured: 15
 ---
 
 ## Company Overview
