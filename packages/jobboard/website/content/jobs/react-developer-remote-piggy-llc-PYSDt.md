@@ -1,5 +1,5 @@
 ---
-title: "React Developer - Remote"
+title: "React Developer"
 location: "United Kingdom - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
 companyName: "piggy-llc"
@@ -12,7 +12,7 @@ jobType: "software"
 companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "To apply as a react developer at Piggy-llc, you preferably need to have 2 years experience using REACT in a commercial environment."
 summaryBackup: "Love #javascript, #reactjs, #office? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 Joinpiggy.com is looking for React developers to join its technical team’s expansion. The ideal candidate will be based in a European time zone.
