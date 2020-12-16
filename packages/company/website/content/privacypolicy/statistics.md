@@ -1,1 +1,1 @@
-CroCoder may collect statistics about the behavior of visitors to its website. CroCoder may display this information publicly or provide it to others. However, CroCoder does not disclose your personally-identifying information.
+We may collect statistics about the behavior of visitors to its website. We may display this information publicly or provide it to others. However, we do not collect and disclose any  personally-identifying information to any party.
