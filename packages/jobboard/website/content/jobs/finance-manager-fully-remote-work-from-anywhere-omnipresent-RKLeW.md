@@ -1,16 +1,16 @@
 ---
-title: "Finance Manager - Fully Remote - Work from anywhere"
-location: "United Kingdom"
+title: "Finance Manager"
+location: "Remote"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/B42DD5F17A/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/B42DD5F17A/apply/"
 timestamp: 1608076800000
-hashtags: "#management,#css,#marketing,#office,#operations,#socialmedia,#analysis,#finance"
+hashtags: "#management,#xero,#finance,#analysis,#ukgaap,#frs102"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "Omnipresent is searching for a finance manager that has experience with Xero advantageous but not essential."
+summary: "Omnipresent is searching for a finance manager to be a commercially minded CIMA/ACCA (or equivalent) qualified accountant with strong technical skills."
 summaryBackup: "Omnipresent is looking for a finance manager that has experience in: #management, #css, #marketing."
 featured: 20
 ---
