@@ -23,10 +23,13 @@ const Input = ({
 }) => {
   const [empty, setEmpty] = useState(!value);
 
-  const handleChange = useCallback((e) => {
-    setEmpty(e.target.value.length === 0);
-    if (onChange) onChange(e);
-  }, []);
+  const handleChange = useCallback(
+    (e) => {
+      setEmpty(e.target.value.length === 0);
+      if (onChange) onChange(e);
+    },
+    [onChange]
+  );
 
   return (
     <div
