@@ -96,11 +96,12 @@ class Portal extends React.Component {
           // This <div> is used to capture outside events
           // eslint-disable-next-line jsx-a11y/no-static-element-interactions
           <div
+            aria-hidden={ariaHidden}
             className={classnames(styles.outside, {
               [styles.visible]: outsideLayerVisible,
             })}
-            onKeyPress={onOutsideClick}
-            onClick={onOutsideClick}
+            onKeyPress={!ariaHidden ? onOutsideClick : undefined}
+            onClick={!ariaHidden ? onOutsideClick : undefined}
           />
         )}
         <div
