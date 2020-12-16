@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Primer is looking for business development manager who is able to understand a complex, challenging problem and get to grips with it quickly with experience in B2B enterprise sales."
 summaryBackup: "Love #sales, #management, #communcation? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

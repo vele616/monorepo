@@ -13,6 +13,7 @@ companyWebsite: "https://www.friss.com/"
 summary: "FRISS is looking for professional services consultant that has experience in: #Dutch, #English, #management."
 summaryBackup: "To apply as a fight fraud! as professional services consultant at FRISS | fraud, risk & compliance, you preferably need to have some knowledge of: #office, #management, #Dutch."
 featured: 4
+archived: "true"
 ---
 
 ## Job description

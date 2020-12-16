@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Primer is looking for a partnerships manager that has experience in payments, with a deep understanding of the ecosystem, in a sales/partnership/channels role."
 summaryBackup: "To apply as a partnerships manager at Primer, you preferably need to have some knowledge of: #management, #sales, #analysis."
 featured: 20
+archived: "true"
 ---
 
 ## Description

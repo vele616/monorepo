@@ -13,6 +13,7 @@ companyWebsite: "http://www.primer.ai/"
 summary: "To apply as an ux designer at Primer Technologies, Inc., you preferably need to have 3+ years of professional experience working in UX roles."
 summaryBackup: "Love #ui/ux, #management, #css? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 **Design at Primer**

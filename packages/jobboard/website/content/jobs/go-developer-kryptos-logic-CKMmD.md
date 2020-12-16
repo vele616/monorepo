@@ -13,6 +13,7 @@ companyWebsite: "https://www.kryptoslogic.com/"
 summary: "If you have software development experience using Go and a strong understanding of software engineering principles, Kryptos Logic is looking for someone with your skillset."
 summaryBackup: "Kryptos Logic is looking for a go developer that has experience in: #golang, #ui/ux, #management."
 featured: 3
+archived: "true"
 ---
 
 ## Job description
