@@ -1,12 +1,12 @@
 ---
-title: "Chat Support Specialist (Remote)"
+title: "Chat Support Specialist"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
 companyName: "Remo-co"
 url: "https://remo1.freshteam.com/jobs/YChcYqiCe4P8/chat-support-specialist-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/YChcYqiCe4P8/chat-support-specialist-remote#applicant-form"
 timestamp: 1608076800000
-hashtags: "#css,#windows,#branding,#marketing,#office,#English"
+hashtags: "#marketing,#office,#windows,#css,#branding,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
