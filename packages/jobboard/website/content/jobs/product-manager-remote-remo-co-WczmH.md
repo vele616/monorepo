@@ -1,16 +1,16 @@
 ---
-title: "Product Manager (Remote)"
+title: "Product Manager"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
 companyName: "Remo-co"
 url: "https://remo1.freshteam.com/jobs/D-Iu_QtKSaXy/product-manager-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/D-Iu_QtKSaXy/product-manager-remote#applicant-form"
 timestamp: 1608076800000
-hashtags: "#management,#css,#marketing,#operations,#analytics,#ui/ux,#analysis"
+hashtags: "#management,#marketing,#operations,#analytics,#ui/ux,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
-summary: "Remo-co wishes to hire a new product manager. If you have 2+ years of working as a software engineer, consider applying."
+summary: "Remo-co wishes to hire a new product manager. If you have 5+ years Product Management experience, consider applying."
 summaryBackup: "Love #management, #css, #marketing? Check out this job post!"
 featured: 20
 ---
