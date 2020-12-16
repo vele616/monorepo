@@ -4,6 +4,10 @@
   position: relative;
   display: inline-block;
 
+  &__buttonWrapper {
+    display: inline-block;
+  }
+
   &__button {
     background-color: transparent;
     border: none;
@@ -17,6 +21,11 @@
     position: relative;
     width: 40px;
     transition: background-color 0.2s ease-in-out;
+
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    -webkit-user-select: none;       
+    user-select: none;
   }
 
   &__button:hover {

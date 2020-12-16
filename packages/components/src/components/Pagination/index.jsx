@@ -1,15 +1,26 @@
-import React, { useMemo, useState, useCallback, useEffect } from "react";
+import React, {
+  useMemo,
+  useState,
+  useCallback,
+  useEffect,
+  useRef,
+  useImperativeHandle,
+} from "react";
 import classnames from "classnames";
 import PropTypes from "prop-types";
 import styles from "./index.module.scss";
 import PageButton from "./PageButton";
 
 const Pagination = ({
+  defaultPage = 1,
   onChange,
   pageCount = 1,
   visibleCount = 7,
   className,
+  forwardRef,
 }) => {
+  const paginationRef = useRef();
+
   const visiblePages = useMemo(() => Math.min(pageCount, visibleCount), [
     pageCount,
     visibleCount,
@@ -20,7 +31,9 @@ const Pagination = ({
   ]);
 
   const [startingIndex, setStartingIndex] = useState(1);
-  const [current, setCurrent] = useState(1);
+  const [current, setCurrent] = useState(defaultPage || 1);
+
+  const [underlineWidth, setUnderlineWidth] = useState(0);
   const [underlineLeft, setUnderlineLeft] = useState(3);
 
   const [controlsLeftVisible, setControlsLeftVisible] = useState(false);
@@ -53,10 +66,12 @@ const Pagination = ({
 
   const handleOnChange = useCallback(
     (value) => {
-      setCurrent(value);
-      updateStartingIndex(value);
+      if (value > 0 && value <= pageCount) {
+        setCurrent(value);
+        updateStartingIndex(value);
+      }
     },
-    [updateStartingIndex]
+    [pageCount, updateStartingIndex]
   );
 
   const next = useCallback(() => {
@@ -75,26 +90,45 @@ const Pagination = ({
     }
   }, [current, updateStartingIndex]);
 
+  const handleOnSelected = useCallback((width) => {
+    setUnderlineWidth(width);
+  }, []);
+
   const pageButtons = useMemo(
     () =>
       Array.from(
         { length: visiblePages },
         (_, i) => i + startingIndex
       ).map((index) => (
-        <PageButton key={index} value={index} onClick={handleOnChange} />
+        <PageButton
+          key={index}
+          value={index}
+          onClick={handleOnChange}
+          selected={index === current}
+          onSelected={handleOnSelected}
+        />
       )),
-    [visiblePages, startingIndex, handleOnChange]
+    [visiblePages, startingIndex, handleOnChange, current, handleOnSelected]
   );
 
   useEffect(() => {
     const offset = allVisible ? 0 : 1;
     setUnderlineLeft(
-      8 + (((current - startingIndex) % visiblePages) + offset) * 46
+      8 + (((current - startingIndex) % visiblePages) + offset) * underlineWidth
     );
-  }, [allVisible, current, startingIndex, visiblePages]);
+  }, [allVisible, current, startingIndex, underlineWidth, visiblePages]);
+
+  useImperativeHandle(forwardRef, () => {
+    return {
+      changePage: handleOnChange,
+    };
+  });
 
   return (
-    <div className={classnames(styles.pagination, className)}>
+    <div
+      ref={paginationRef}
+      className={classnames(styles.pagination, className)}
+    >
       <div
         className={classnames(styles.pagination__controls, {
           [styles.visible]: controlsLeftVisible,
@@ -122,9 +156,18 @@ const Pagination = ({
 
 Pagination.propTypes = {
   /**
+   * This page is selected when Pagination is created.
+   */
+  defaultPage: PropTypes.number,
+  /**
    * onChange function will fire on every page selection change.
    */
   onChange: PropTypes.func,
+  /**
+   * Reference that can be passed to Pagination. This reference will expose
+   * changePage function so it can be used by other components.
+   */
+  forwardRef: PropTypes.objectOf(PropTypes.object),
   /**
    * Total number of pages.
    */
