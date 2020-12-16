@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import Pagination from "./index";
 
 export default {
@@ -77,5 +77,41 @@ WithControlsLarge.parameters = {
 };
 WithControlsLarge.args = {
   pageCount: 50,
+  visibleCount: 7,
+};
+
+export const Controlled = (args) => {
+  const paginationRef = useRef();
+
+  return (
+    <div>
+      <Pagination forwardRef={paginationRef} {...args} />
+      <div>
+        <button onClick={() => paginationRef.current.changePage(5)}>
+          Select Page 5
+        </button>
+        <button onClick={() => paginationRef.current.changePage(10)}>
+          Select Page 10
+        </button>
+        <button onClick={() => paginationRef.current.changePage(20)}>
+          Select Page 20
+        </button>
+      </div>
+    </div>
+  );
+};
+
+Controlled.storyName = "Controlled";
+Controlled.parameters = {
+  docs: {
+    description: {
+      story: `This story shows that Pagination component can be controlled from outside by
+      exposing functions through forwardRef argument. Clicking on buttons 5 and 10 will lead to page 5 and 10.
+      Page 20 does not exists, therefore, pagination won't change current page if button 20 is clicked.`,
+    },
+  },
+};
+Controlled.args = {
+  pageCount: 12,
   visibleCount: 7,
 };
