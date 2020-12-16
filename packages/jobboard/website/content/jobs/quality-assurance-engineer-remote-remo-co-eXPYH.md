@@ -1,13 +1,13 @@
 ---
-title: "Quality Assurance Engineer (Remote)"
+title: "Quality Assurance Engineer"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
 companyName: "Remo-co"
 url: "https://remo1.freshteam.com/jobs/htD0dHbF0LSP/quality-assurance-engineer-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/htD0dHbF0LSP/quality-assurance-engineer-remote#applicant-form"
 timestamp: 1608076800000
-hashtags: "#python,#golang,#php,#typescript,#googlecloud,#management,#jira"
-jobType: "software"
+hashtags: "#management,#jira,#python,#typescript,#golang,#php,#googlecloud"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "If you have 2+ years of performance and automation testing experience, Remo-co has a job opening for a quality assurance engineer"
