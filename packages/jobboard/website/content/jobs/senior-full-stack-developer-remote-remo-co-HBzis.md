@@ -1,18 +1,18 @@
 ---
-title: "Senior Full Stack Developer (Remote)"
+title: "Senior Full Stack Developer"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
-companyName: "Remo-co"
+companyName: "Remo"
 url: "https://remo1.freshteam.com/jobs/kCOMGmoOdiAH/senior-full-stack-developer-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/kCOMGmoOdiAH/senior-full-stack-developer-remote#applicant-form"
 timestamp: 1608076800000
-hashtags: "#javascript,#reactjs,#css,#html,#ui/ux,#management,#mongodb,#firebase,#rest"
+hashtags: "#javascript,#reactjs,#redux,#html,#ui/ux,#management,#mongodb,#firebase,#rest,#css"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
-summary: "Remo-co intends to hire a new senior full stack developer. If you have 5 years of experience in maintaining a living and complex codebase with a modern stacks, consider applying."
+summary: "Remo intends to hire a new senior full stack developer. If you have 5 years of experience in maintaining a living and complex codebase with a modern stacks, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Please take out 15min test here: https://apply.hire.toggl.com/3282K5ZPYLY6D6KBM5
