@@ -1,5 +1,5 @@
 ---
-title: "Senior Product Manager-Security"
+title: "Senior Product Manager"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"

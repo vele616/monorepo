@@ -12,6 +12,7 @@ export { default as Section } from "./Section";
 export { default as Tag } from "./Tag";
 export { default as Textarea } from "./Textarea";
 export { default as Typography } from "./Typography";
+export { default as Tabs } from "./Tabs";
 
 export { default as useDevice } from "../hooks/useDevice";
 export { default as useTypeAhead } from "../hooks/useTypeAhead";

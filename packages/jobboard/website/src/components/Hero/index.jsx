@@ -79,7 +79,11 @@ const HeroWithQuery = ({ scrollToSubscribe, topRef }) => (
       }
     `}
     render={(data) => (
-      <Hero scrollToSubscribe={scrollToSubscribe} topRef={topRef} {...data.homeJson.hero} />
+      <Hero
+        scrollToSubscribe={scrollToSubscribe}
+        topRef={topRef}
+        {...data.homeJson.hero}
+      />
     )}
   />
 );
