@@ -9,11 +9,17 @@ import Hero from '../components/Hero';
 import Banner from '../components/ContactBanner';
 import Newsletter from '../components/Newsletter';
 import Layout from '../components/Layout';
+import { graphql } from 'gatsby';
+import PostAJob from '../components/PostAJob';
 
 const StyledLink = styled(Link)``;
 
 const IndexPage = ({ data }) => {
   const subscribeRef = useRef(null);
+
+  const topRef = useRef(null);
+
+  const scrollToTop = () => topRef.current.scrollIntoView({ block: 'end' });
 
   const scrollToSubscribe = useCallback(() => {
     console.log('click', subscribeRef.current);
@@ -30,26 +36,45 @@ const IndexPage = ({ data }) => {
     .length;
 
   return (
-    <Layout>
-      <Hero scrollToSubscribe={scrollToSubscribe} />
+    <Layout scrollToTop={scrollToTop}>
+      <Hero topRef={topRef} scrollToSubscribe={scrollToSubscribe} />
       <JobSection title="Software Developer Jobs">
         <DevJobListLimit12 />
         {softwareJobsNumber > 12 && (
-          <StyledLink
-            className={'link--secondary'}
-            to="/software-developer-jobs"
+          <div
+            style={{
+              width: '100%',
+              justifyContent: 'center',
+              display: 'flex',
+            }}
           >
-            {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
-          </StyledLink>
+            <StyledLink
+              className={'link--secondary'}
+              to="/software-developer-jobs"
+            >
+              {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
+            </StyledLink>
+          </div>
         )}
       </JobSection>
+
+      <PostAJob />
+
       <Newsletter subscribeRef={subscribeRef} />
       <JobSection title="Other IT Related Jobs">
         <OtherJobListLimit12 />
         {otherJobsNumber > 12 && (
-          <StyledLink className={'link--secondary'} to="/other-it-jobs">
-            {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
-          </StyledLink>
+          <div
+            style={{
+              width: '100%',
+              justifyContent: 'center',
+              display: 'flex',
+            }}
+          >
+            <StyledLink className={'link--secondary'} to="/other-it-jobs">
+              {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
+            </StyledLink>
+          </div>
         )}
       </JobSection>
       <Banner />

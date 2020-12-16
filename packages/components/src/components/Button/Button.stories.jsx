@@ -45,3 +45,32 @@ Sneaky.args = {
   variant: "sneaky",
   children: "Sneaky",
 };
+
+export const Pill = (args) => {
+  return (
+    <>
+      <Button style={{ margin: "10px" }} {...args}>
+        Job Type
+      </Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Contract Type
+      </Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Skills
+      </Button>
+      <Button disabled {...args}>
+        Disabled
+      </Button>
+    </>
+  );
+};
+Pill.parameters = {
+  docs: {
+    description: {
+      story: "",
+    },
+  },
+};
+Pill.args = {
+  variant: "pill",
+};

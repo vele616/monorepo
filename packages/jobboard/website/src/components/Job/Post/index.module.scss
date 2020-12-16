@@ -109,6 +109,7 @@
 
   .tags {
     flex-wrap: wrap !important;
+    align-items: baseline !important;
     min-width: 130px;
     width: auto;
     grid-row: 1 / span 2;

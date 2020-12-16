@@ -1,60 +1,88 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
 import { Icon, Footer as FooterComponent } from '@crocoder-dev/components';
+import CrocFooter from '../../images/croc-footer.svg';
 import styles from './index.module.scss';
 
-
-const Footer = ({ image, socialMedia, sticky }) => {
+const Footer = ({ socialMedia, sticky, scrollToTop }) => {
   return (
     <FooterComponent
       className={sticky ? styles.sticky : ''}
       logo={
-        <Img
-          fadeIn={false}
-          className={styles.image}
-          fluid={image ? image.childImageSharp.fluid : {}}
-          alt={'abc'}
-        />}
-      socialLinks={(
+        <Link
+          to="/"
+          onClick={() => {
+            if (scrollToTop) scrollToTop();
+          }}
+        >
+          <div className={styles.image}>
+            <CrocFooter />
+          </div>
+        </Link>
+      }
+      socialLinks={
         <>
-          {socialMedia.map(mediaLink => (
-            <Link className={styles.icon}  key={mediaLink.icon} to={mediaLink.link}>
+          {socialMedia.map((mediaLink) => (
+            <Link
+              className={styles.icon}
+              key={mediaLink.icon}
+              to={mediaLink.link}
+            >
               <Icon color="gray_1" icon={mediaLink.icon} />
             </Link>
           ))}
         </>
-      )}
+      }
     >
-      <Link to="/" style={{ color: 'inherit' }} className="link">Home</Link>
-      <a href="https://crocoder.dev/terms" style={{ color: 'inherit' }} className="link">Terms of use</a>
-      <a href="https://crocoder.dev/privacy_policy"style={{ color: 'inherit' }} className="link">Privacy policy</a>
+      <Link to="/" style={{ color: 'inherit' }} className="link">
+        Home
+      </Link>
+      <a
+        href="https://crocoder.dev/terms"
+        style={{ color: 'inherit' }}
+        className="link"
+      >
+        Terms of use
+      </a>
+      <a
+        href="https://crocoder.dev/privacy_policy"
+        style={{ color: 'inherit' }}
+        className="link"
+      >
+        Privacy policy
+      </a>
     </FooterComponent>
-  )
+  );
 };
 
-const FooterWithQuery = ({sticky}) => (
+const FooterWithQuery = ({ sticky, scrollToTop }) => (
   <StaticQuery
     query={graphql`
-    query {
-      homeJson {
-        footer {
-          socialMedia {
-            link
-            icon
-          }
-          image {
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
+      query {
+        homeJson {
+          footer {
+            socialMedia {
+              link
+              icon
+            }
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
         }
       }
-    }
-  `}
-    render={data => (<Footer {...data.homeJson.footer} sticky={sticky} />)}
+    `}
+    render={(data) => (
+      <Footer
+        {...data.homeJson.footer}
+        scrollToTop={scrollToTop}
+        sticky={sticky}
+      />
+    )}
   />
 );
 

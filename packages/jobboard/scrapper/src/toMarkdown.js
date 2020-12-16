@@ -35,6 +35,7 @@ ${logoUrl ? `logoUrl: "${logoUrl}"` : ''}
 companyWebsite: "${companyWebsite}"
 summary: "${summary}"
 summaryBackup: "${summaryBackup}"
+featured: 20
 ---
 
 ${turndownService.turndown(sanitize(body))}

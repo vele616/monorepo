@@ -50,6 +50,48 @@ $padding-top-content: 80px;
     padding-left: 20px;
     padding-right: 20px;
   }
+  &:first-child > :first-child {
+    padding-top: 77%;
+
+    &>div {
+      top: 100px;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+
+      @include mediaQuery("<800px") {
+        top: 120px;
+      }
+    }
+  }
+  &:nth-child(2) > :first-child {
+    padding-top: 77%;
+    &>div {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+
+    @include mediaQuery("<450px") {
+      top: 30px;
+    }
+  }
+  &:nth-child(3) > :first-child {
+    padding-top: 77%;
+    @include mediaQuery("<800px") {
+      padding-top: 60%;
+    }
+    &>div {
+      top: 55px;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+
+      @include mediaQuery("<800px") {
+        top: 0px;
+      }
+    }
+  }
 
   &__title {
     font-weight: bold;

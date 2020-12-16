@@ -726,15 +726,6 @@ module.exports = {
         hashtag: '#content',
         keywords: ['content', 'content writer', 'writer', 'copywriter'],
     },
-    accountant: {
-        rating: 40,
-        class: {
-            software: 0,
-            other: 100,
-        },
-        hashtag: '#accountant',
-        keywords: ['accountant'],
-    },
     adobe: {
         rating: 30,
         class: {
@@ -978,15 +969,6 @@ module.exports = {
         hashtag: '#scrum',
         keywords: ['scrum', 'kanban', 'agile'],
     },
-    security: {
-        rating: 40,
-        class: {
-            software: 100,
-            other: 0,
-        },
-        hashtag: '#devsec',
-        keywords: ['cyber security', 'security', 'devsec', 'devsecops'],
-    },
     socialMedia: {
         rating: 40,
         class: {
@@ -995,15 +977,6 @@ module.exports = {
         },
         hashtag: '#socialmedia',
         keywords : ['social media', 'social'],
-    },
-    student: {        
-        rating: 40,
-        class: {
-            software: 50,
-            other: 50,
-        },
-        hashtag: '#studentjob',
-        keywords: ['student'],
     },
     uml: {
         rating: 30,

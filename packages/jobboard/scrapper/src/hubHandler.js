@@ -37,7 +37,7 @@ exports.exec = async () => {
       },
     ).promise();
 
-    const hubs = result.Items.slice(0, 1).map(t => ({ url: t.url, platform: t.platform }));
+    const hubs = result.Items.sort((a, b) => a.crawledAt - b.crawledAt).slice(0, 10).map(t => ({ url: t.url, platform: t.platform }));
 
     if (hubs.length > 0) {
 

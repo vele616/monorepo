@@ -7,9 +7,9 @@ export const OtherJobListLimit12 = () => (
     query={graphql`
       query {
         allMarkdownRemark(
-          sort: { fields: frontmatter___timestamp, order: DESC }
+          sort: { fields: [frontmatter___timestamp, frontmatter___featured], order: DESC }
           limit: 12,
-          filter: {frontmatter: {jobType: {eq: "software"}}}
+          filter: {frontmatter: {jobType: {eq: "other"}, archived: { ne: "true" }}}
         ) {
           nodes {
             id

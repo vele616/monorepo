@@ -57,6 +57,8 @@ exports.createPages = async ({ graphql, actions }) => {
   `);
   const jobPosts = jobPostsResult.data.allMarkdownRemark.edges;
   const jobPostTemplate = path.resolve('./src/templates/JobPost.js');
+  const jobPostSocialTemplate = path.resolve('./src/templates/JobPostSocial.js');
+
   jobPosts.forEach(post => {
     createPage({
       path: post.node.fields.slug,
@@ -66,4 +68,18 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     })
   });
+
+  if(process.env.IS_SOCIAL === 'true') {
+    jobPosts.forEach(post => {
+      createPage({
+        path: `${post.node.fields.slug}social`,
+        component: jobPostSocialTemplate,
+        context: {
+          slug: post.node.fields.slug,
+        }
+      })
+    });
+  }
+
+
 };

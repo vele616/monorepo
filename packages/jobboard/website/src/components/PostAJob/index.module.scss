@@ -1,0 +1,94 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.wrapper {
+  @include mediaQuery("<mobile") {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+}
+
+
+.title {
+  text-align: center;
+  max-width: 80%;
+  line-height: 1.6;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.companyLogos {
+  align-items: center;
+  column-gap: 0;
+  row-gap: 25px;
+  display: grid;
+  grid-template-columns: 145px 177px 140px 150px 120px 189px auto;
+  grid-template-rows: 1fr;
+  justify-content: space-between;
+  padding: 40px 0;
+  width: 100%;
+  min-width: 1200px;
+
+  @include mediaQuery(">=tabletPortrait", "<1300px") {
+
+    padding: 30px;
+
+    min-width: unset;
+    row-gap: 20px;
+    column-gap: 25px;
+    grid-template-columns: 145px 177px 140px;
+    grid-template-rows: 1fr 1fr auto;
+    width: auto;
+
+    .andMore {
+      grid-row: 3;
+      grid-column: 2
+    }
+  }
+
+  @include mediaQuery("<tabletPortrait") {
+    padding: 20px 0;
+    row-gap: 20px;
+    column-gap: 25px;
+    grid-template-columns: 142px 177px;
+    grid-template-rows: 42px 32px 34px 1fr;
+    width: auto;
+    min-width: 80%;
+
+    .andMore {
+      grid-row: 4;
+      grid-column: 1 / span 2;
+    }
+  }
+
+  @include mediaQuery("<400px") {
+    grid-template-columns: 1fr;
+    grid-template-rows: 42px 32px 32px 23px 34px 34px auto;
+    width: auto;
+    min-width: 150px;
+    row-gap: 15px;
+
+    .andMore {
+      grid-row: 7;
+      grid-column: 1 / span 1;
+    }
+  }
+}
+
+
+
+.talentlyft {
+  position: relative;
+  top: -25%;
+
+}
+
+.greenhouse {
+  align-self: end;
+  @include mediaQuery(">=tabletPortrait", "<1300px") {
+    align-self: center;
+  }
+}

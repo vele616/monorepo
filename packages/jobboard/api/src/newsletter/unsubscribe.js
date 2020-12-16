@@ -1,11 +1,11 @@
-const AWS = require('aws-sdk');
+const AWS = require("aws-sdk");
 
 let options = {};
 
 if (process.env.IS_OFFLINE) {
   options = {
-    region: 'localhost',
-    endpoint: 'http://localhost:8000',
+    region: "localhost",
+    endpoint: "http://localhost:8000",
   };
 }
 
@@ -17,10 +17,10 @@ exports.exec = async (event) => {
     const emailRecord = await client
       .query({
         TableName: process.env.NEWSLETTER_TABLE,
-        KeyConditionExpression: 'email = :email AND emailHash = :emailHash',
+        KeyConditionExpression: "email = :email AND emailHash = :emailHash",
         ExpressionAttributeValues: {
-          ':email': email,
-          ':emailHash': hash,
+          ":email": email,
+          ":emailHash": hash,
         },
       })
       .promise();
@@ -35,13 +35,13 @@ exports.exec = async (event) => {
     } else {
       return {
         statusCode: 301,
-        headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}?response=ERROR` },
+        headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}error` },
       };
     }
 
     return {
       statusCode: 301,
-      headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}?response=SUCCESS` },
+      headers: { Location: `${process.env.REDIRECT_UNSUBSCRIBE_URI}success` },
     };
   } catch (error) {
     console.log(error);
