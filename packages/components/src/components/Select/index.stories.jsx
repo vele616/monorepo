@@ -13,7 +13,7 @@ const Template = (args) => {
     <div>
       <Select {...args}>
         <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
+        <Select.Option>erwer</Select.Option>
       </Select>
     </div>
   );
@@ -27,7 +27,7 @@ const Template1 = (args) => {
     <div>
       <Select pill {...args}>
         <Select.Option>Banana</Select.Option>
-        <Select.Option>Apple</Select.Option>
+        <Select.Option>erwer</Select.Option>
       </Select>
     </div>
   );

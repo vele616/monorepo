@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect } from "react";
+import React, { useState, useCallback, useEffect, useMemo } from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames";
 import Button from "../Button";
@@ -9,25 +9,60 @@ import Listbox from "../Listbox";
 import Typography from "../Typography";
 import Option from "./Options";
 
+/**
+ * Basic component for displaying a list of options to the user.
+ * It supports multiselect and choice confirmation.
+ */
 const Select = ({
-  className,
-  id,
-  title,
-  placeholder,
+  applyText,
   children,
+  className,
   clear,
+  clearAllText,
+  clearText,
   confirmChoice,
+  defaultSelection,
+  id,
   multiselect,
+  onChange,
   pill,
+  label,
+  required,
+  renderSelection,
+  errorMessage,
+  error,
+  title,
 }) => {
   const [elementId] = useState(id || new Date().getTime().toString());
   const [open, setOpen] = useState(false);
   const [tempSelection, setTempSelection] = useState();
-  const [selection, setSelection] = useState([]); // TODO add initial selection
+  const [selection, setSelection] = useState(defaultSelection);
+
+  const renderButtonContent = useMemo(() => {
+    if (renderSelection) {
+      return renderSelection;
+    }
+
+    /* Checks if the user has selected something. If he has, render's the first value
+     * of the selection. */
+    // eslint-disable-next-line func-names
+    return function (sel) {
+      return (
+        <>
+          {sel.length !== 0 && (
+            <span>
+              {sel[0].value}
+              {sel.length > 1 && "+"}
+            </span>
+          )}
+        </>
+      );
+    };
+  }, [renderSelection]);
 
   useEffect(() => {
     const firstChild = document.querySelector(
-      `#listbox-${elementId} [role="option"]`
+      `#listbox-${elementId} [role="listbox"]`
     );
     if (firstChild && open) {
       firstChild.focus();
@@ -42,8 +77,10 @@ const Select = ({
     setSelection(tempSelection);
     setTempSelection([]);
     setOpen((prev) => !prev);
-    // TODO Support onChange property as well
-  }, [tempSelection]);
+    if (onChange) {
+      onChange(tempSelection);
+    }
+  }, [tempSelection, onChange]);
 
   const clearSelection = useCallback(() => {
     setTempSelection([]);
@@ -57,42 +94,62 @@ const Select = ({
       } else {
         setSelection(value);
         setOpen((prev) => !prev);
+        if (onChange) {
+          onChange(value);
+        }
       }
-      // TODO Support onChange property as well
     },
-    [confirmChoice]
+    [confirmChoice, onChange]
   );
 
   return (
-    <div className={classnames(className, styles.select)}>
+    <div
+      id={elementId}
+      className={classnames(className, styles.select, {
+        [styles.opened]: !open,
+        [styles.error]: error,
+        [styles.empty]: selection.length === 0,
+      })}
+    >
+      {label && (
+        <label
+          id={`label-${elementId}`}
+          htmlFor={`button-${elementId}`}
+          className={styles.label}
+        >
+          {label} {required && "*"}
+        </label>
+      )}
       <Button
         className={classnames({
-          [styles.opened]: open,
           [styles.selected]: selection.length !== 0,
-          [styles.minimal]: !pill,
+          [styles.button]: !pill,
         })}
         aria-haspopup="listbox"
+        aria-expanded={open}
+        aria-labelledby={
+          label
+            ? `label-${elementId} button-${elementId}`
+            : `button-${elementId}`
+        }
         id={`button-${elementId}`}
         onClick={toggleOpen}
-        variant={pill ? "pill" : "select"}
+        variant={pill ? "pill" : "sneaky"}
       >
-        {selection.length === 0 && <span>{placeholder} </span>}
-        {selection.length !== 0 && (
-          <span>
-            {" "}
-            {selection[0].value}{" "}
-            {/** TODO add render function and pass value to it */}
-            {selection.length > 1 && "+"}{" "}
-          </span>
-        )}
+        {renderButtonContent && renderButtonContent(selection)}
         {!pill && (
           <Icon
-            style={{ marginLeft: "10px", fontSize: "1.5em" }}
+            className={styles.icon}
             icon={open ? "chevron-up" : "chevron-down"}
           />
         )}
       </Button>
+      {errorMessage && error && (
+        <span className={styles.message}>{errorMessage}</span>
+      )}
       <Portal
+        useOutsideLayer
+        onOutsideClick={toggleOpen}
         parentId={`button-${elementId}`}
         x="center"
         y="bottom"
@@ -102,7 +159,12 @@ const Select = ({
         <div className={styles.card}>
           {title && (
             <div className={styles.header}>
-              <Typography fontSize={20} color="contrast" fontWeight={500}>
+              <Typography
+                id={`title-${elementId}`}
+                fontSize={20}
+                color="contrast"
+                fontWeight={500}
+              >
                 {title}
               </Typography>
             </div>
@@ -110,6 +172,9 @@ const Select = ({
           <div className={styles.list}>
             <Listbox
               ariaHidden={!open}
+              aria-labelledby={
+                label ? `label-${elementId}` : `title-${elementId}`
+              }
               id={`listbox-${elementId}`}
               className={styles.listbox}
               enableMultiselect={multiselect}
@@ -127,13 +192,14 @@ const Select = ({
                   className={styles.sneaky}
                 >
                   <Typography fontSize={16} color="contrast" fontWeight={500}>
-                    Clear {multiselect && "all"}
+                    {!multiselect && clearText}
+                    {multiselect && clearAllText}
                   </Typography>
                 </Button>
               )}
               {confirmChoice && (
                 <Button variant="secondary" onClick={confirmTemporarySelection}>
-                  Apply {/** TODO add optional text values */}
+                  {applyText}
                 </Button>
               )}
             </div>
@@ -145,26 +211,105 @@ const Select = ({
 };
 
 Select.propTypes = {
-  // TODO Add docs
+  /**
+   * Classname applied to the wrapper element of the Select component.
+   * Direct parent of the button that collapses the listbox element.
+   */
   className: PropTypes.string,
+  /**
+   * An array of Select.Option komponents that represent available choices for the user.
+   */
   children: PropTypes.node,
+  /**
+   * Id of the wrapper element. If passed, the component will use to generate ID's for
+   * it's button and listbox as well. If not passed, it's automatically generated by the component.
+   */
   id: PropTypes.string,
+  /**
+   * If set to true, the user will have to confirm the listbox selection by clicking
+   * on a generated button. In such case, the `Select` component's `onChange` function
+   * will not be called until the selected options are confirmed.
+   */
   confirmChoice: PropTypes.bool,
+  /**
+   * If set to true, the user can select multiple options.
+   * This will result in showing checkboxes next to each option.
+   */
   multiselect: PropTypes.bool,
+  /**
+   * Title of the listbox - displayed on the top of the scrollable list of options.
+   */
   title: PropTypes.string,
+  /**
+   * If set to true, will remove all selected options (in other words, reset to the empty state).
+   * If used with `confirmChoice`, will not apply if it's not confirmed.
+   */
   clear: PropTypes.bool,
-  placeholder: PropTypes.string,
+
+  /**
+   * If set to true, the `Select` component will have a custom pill-like styling
+   * for the toggable button. Useful when creating filters.
+   */
   pill: PropTypes.bool,
-  // TODO add option to disable button size change
+  /**
+   * Callback function that triggers each time the selected value changes.
+   * If `confirmChoice` property is used, it will be called only after the
+   * user's choice has been confirmed.
+   * The `Select` component will pass the array of elected options
+   * as the first argument of this function.
+   */
+  onChange: PropTypes.func,
+
+  /**
+   * Function responsible for rendering the textual content
+   * of the Select button. Use it to apply additional formating or
+   * styling. As argument it receives the selection array.
+   * It should return the node to render. The default implementation
+   * checks if the user has selected something. If he has, render's the first value
+   * of the selection.
+   * In case there are multiple elements selected, the + sign is added at the end of the first selection.
+   */
+  renderSelection: PropTypes.func,
+  /**
+   * Text of the apply button (shown when `confirmChoice` property is set to true).
+   */
+  applyText: PropTypes.string,
+  /**
+   * When `clear` property set to true and `multiselect` set to false, shown
+   * for the clear option.
+   */
+  clearText: PropTypes.string,
+  /**
+   * When `clear` property set to true and `multiselect` set to true, shown
+   * for the clear option.
+   */
+  clearAllText: PropTypes.string,
+
+  /**
+   * An array filled with id's of options that are initially selected.
+   * These id's must be applied to the `Select.Option` components in order
+   * to be applied.
+   */
+  defaultSelection: PropTypes.arrayOf(PropTypes.string),
+
+  label: PropTypes.string,
+  required: PropTypes.bool,
+  error: PropTypes.bool,
+  errorMessage: PropTypes.string,
 };
 
 Select.defaultProps = {
+  defaultSelection: [],
+  clearAllText: "Clear all",
+  clearText: "Clear",
+  applyText: "Apply",
   confirmChoice: false,
   multiselect: false,
   clear: false,
   title: null,
   pill: false,
-  placeholder: "Select",
+  label: "Banana",
+  required: false,
 };
 
 Select.Option = Option;

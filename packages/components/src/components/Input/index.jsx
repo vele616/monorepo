@@ -23,10 +23,13 @@ const Input = ({
 }) => {
   const [empty, setEmpty] = useState(!value);
 
-  const handleChange = useCallback((e) => {
-    setEmpty(e.target.value.length === 0);
-    if (onChange) onChange(e);
-  }, []);
+  const handleChange = useCallback(
+    (e) => {
+      setEmpty(e.target.value.length === 0);
+      if (onChange) onChange(e);
+    },
+    [onChange]
+  );
 
   return (
     <div
@@ -63,6 +66,10 @@ Input.propTypes = {
   errorMessage: PropTypes.string,
   id: PropTypes.string,
   label: PropTypes.string,
+  /**
+   * A function called on input's change - will receive React's
+   * synthetic event as first (and only) argument.
+   */
   onChange: PropTypes.func,
   /**
    * If set to true, will add a '*' character
