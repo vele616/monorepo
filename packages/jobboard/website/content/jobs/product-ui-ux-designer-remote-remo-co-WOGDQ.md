@@ -1,5 +1,5 @@
 ---
-title: "Product UI/UX Designer (Remote)"
+title: "Product UI/UX Designer"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
 companyName: "Remo-co"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Interested in new opportunities and have 3+ years of experience designing and building B2B software and visual web applications with a consumer end-user? Remo-co has a job opening for a product ui."
 summaryBackup: "Remo-co is looking for a product ui that has experience in: #ui/ux, #branding, #management."
-featured: 20
+featured: 5
 ---
 
 ## About Remo
