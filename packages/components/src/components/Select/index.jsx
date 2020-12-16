@@ -5,6 +5,7 @@ import Button from "../Button";
 import Icon from "../Icon";
 import styles from "./index.module.scss";
 import Portal from "../Portal";
+import FieldLayout from "../FieldLayout";
 import Listbox from "../Listbox";
 import Typography from "../Typography";
 import Option from "./Options";
@@ -47,8 +48,20 @@ const Select = ({
      * of the selection. */
     // eslint-disable-next-line func-names
     return function (sel) {
+      if (!pill)
+        return (
+          <>
+            {sel.length !== 0 && (
+              <span>
+                {sel[0].value}
+                {sel.length > 1 && "+"}
+              </span>
+            )}
+          </>
+        );
       return (
         <>
+          {(!sel || sel.length === 0) && <span>{label}</span>}
           {sel.length !== 0 && (
             <span>
               {sel[0].value}
@@ -58,7 +71,7 @@ const Select = ({
         </>
       );
     };
-  }, [renderSelection]);
+  }, [renderSelection, pill, label]);
 
   useEffect(() => {
     const firstChild = document.querySelector(
@@ -103,27 +116,26 @@ const Select = ({
   );
 
   return (
-    <div
+    <FieldLayout
       id={elementId}
+      label={label}
+      required={required}
+      labelHtmlFor={`button-${elementId}`}
+      labelId={`label-${elementId}`}
+      error={error}
+      errorMessage={errorMessage}
+      empty={selection.length === 0}
       className={classnames(className, styles.select, {
-        [styles.opened]: !open,
-        [styles.error]: error,
-        [styles.empty]: selection.length === 0,
+        [styles.opened]: open,
+        [styles.selected]: selection.length !== 0,
+        [styles.pill]: pill,
       })}
     >
-      {label && (
-        <label
-          id={`label-${elementId}`}
-          htmlFor={`button-${elementId}`}
-          className={styles.label}
-        >
-          {label} {required && "*"}
-        </label>
-      )}
       <Button
         className={classnames({
           [styles.selected]: selection.length !== 0,
           [styles.button]: !pill,
+          [styles.pill]: pill,
         })}
         aria-haspopup="listbox"
         aria-expanded={open}
@@ -144,9 +156,6 @@ const Select = ({
           />
         )}
       </Button>
-      {errorMessage && error && (
-        <span className={styles.message}>{errorMessage}</span>
-      )}
       <Portal
         useOutsideLayer
         onOutsideClick={toggleOpen}
@@ -206,7 +215,7 @@ const Select = ({
           )}
         </div>
       </Portal>
-    </div>
+    </FieldLayout>
   );
 };
 

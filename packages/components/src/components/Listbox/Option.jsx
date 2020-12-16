@@ -9,6 +9,7 @@ const Option = ({
   children,
   className,
   disabled = false,
+  enableMultiselect,
   handleOptionClick,
   handleOptionMouseMove,
   id,
@@ -116,6 +117,8 @@ Option.propTypes = {
    *
    */
   testId: PropTypes.string,
+
+  enableMultiselect: PropTypes.bool,
 };
 
 export default Option;
