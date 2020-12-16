@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "If you have 3 years experience in a customer support role, preferably within a Software as a Service, Remo-co is looking for someone with your knowledge."
 summaryBackup: "Love #css, #windows, #branding? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 About RemoRemo is the fastest growing interactive event, marketing, and educational platform. Built to take the pain out of online events at a time when larger in-person gatherings are difficult.
