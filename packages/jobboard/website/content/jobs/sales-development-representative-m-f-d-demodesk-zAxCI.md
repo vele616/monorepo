@@ -1,12 +1,12 @@
 ---
-title: "Sales Development Representative (m/f/d)"
+title: "Sales Development Representative"
 location: "RemoteMunich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/5b6115e5-851a-4711-a162-d5576a5f5731"
 applyUrl: "https://jobs.lever.co/demodesk/5b6115e5-851a-4711-a162-d5576a5f5731/apply"
 timestamp: 1608163200000
-hashtags: "#sales,#marketing,#css,#linux,#socialmedia,#content,#management,#office,#German,#analysis"
+hashtags: "#sales,#German,#analysis,#css,#linux,#socialmedia,#content,#management,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
