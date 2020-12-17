@@ -2,7 +2,7 @@
 title: "Senior Front End Engineer"
 location: "London, GB - Remote OK"
 host: "https://hire-space.breezy.hr/"
-companyName: "hire-space"
+companyName: "Hire Space"
 url: "https://hire-space.breezy.hr/p/8c7ca75929f701-senior-front-end-engineer"
 applyUrl: "https://hire-space.breezy.hr/p/8c7ca75929f701-senior-front-end-engineer/apply"
 timestamp: 1608163200000
@@ -10,7 +10,7 @@ hashtags: "#reactjs,#ui/ux,#javascript,#typescript,#operations,#css,#html,#socia
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hire-space"
 companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
-summary: "Hire-space is searching for a senior front end engineer that has have solid experience in React, and are comfortable working with different react design patterns."
+summary: "Hire Space is searching for a senior front end engineer that has have solid experience in React, and are comfortable working with different react design patterns."
 summaryBackup: "Hire-space is looking for a senior front end engineer that has experience in: #reactjs, #ui/ux, #javascript."
 featured: 20
 ---
