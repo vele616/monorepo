@@ -1,5 +1,5 @@
 ---
-title: "QA Tester (m/f/d)"
+title: "QA Tester"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
 companyName: "deca-games"
