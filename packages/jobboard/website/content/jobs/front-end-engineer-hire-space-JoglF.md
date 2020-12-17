@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hire-space
 companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
 summary: "If you have have solid experience in React, and are comfortable working with different react design patterns, consider applying to Hire-space's job post for a new front end engineer."
 summaryBackup: "Hire-space is looking for a front end engineer that has experience in: #reactjs, #ui/ux, #javascript."
-featured: 20
+featured: 15
 ---
 
 ## About Hire Space
