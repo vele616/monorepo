@@ -1,16 +1,16 @@
 ---
-title: "Account Executive – Iberia (m/f/d)"
+title: "Account Executive"
 location: "Remote"
 host: "https://jobs.lever.co/cargo-2/"
 companyName: "cargo.one"
 url: "https://jobs.lever.co/cargo-2/ee4a5bcd-29d8-4ae7-bde5-ac5a2ec109f2"
 applyUrl: "https://jobs.lever.co/cargo-2/ee4a5bcd-29d8-4ae7-bde5-ac5a2ec109f2/apply"
 timestamp: 1608163200000
-hashtags: "#sales,#windows,#management,#marketing,#analytics,#crm,#English"
+hashtags: "#sales,#management,#crm,#marketing,#analytics,#Spanish,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cargo-one"
 companyWebsite: "https://www.cargo.one/"
-summary: "If you have have experience as a Sales Development Representative or Account Executive in the sale of software, Cargo.one has a job opening for an account executive – iberia"
+summary: "If you have have experience as a Sales Development Representative or Account Executive in the sale of software, Cargo.one has a job opening for an account executive."
 summaryBackup: "To apply as an account executive – iberia at Cargo.one, you preferably need to have some knowledge of: #sales, #windows, #management."
 featured: 20
 ---
