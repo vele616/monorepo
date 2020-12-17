@@ -1,18 +1,18 @@
 ---
-title: "Senior, Software Engineer"
+title: "Senior Software Engineer"
 location: "Orlando, FL OR  Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
 companyName: "Current Job Openings at Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2266914"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2266914#app"
 timestamp: 1608163200000
-hashtags: "#unity,#content,#python,#operations,#ui/ux,#management,#office,#cad,#jira"
-jobType: "other"
+hashtags: "#unity,#python,#cplusplus"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Current Job Openings at Magic Leap, Inc. is looking for a senior that has strong experience with 3D development in Unity is required."
 summaryBackup: "Love #unity, #content, #python? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Job Description
