@@ -1,14 +1,20 @@
-import React, { useState, useCallback, useEffect, useMemo } from "react";
+import React, {
+  useState,
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+} from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames";
-import Button from "../Button";
-import Icon from "../Icon";
 import styles from "./index.module.scss";
 import Portal from "../Portal";
 import FieldLayout from "../FieldLayout";
 import Listbox from "../Listbox";
-import Typography from "../Typography";
 import Option from "./Options";
+import Header from "./Header";
+import Footer from "./Footer";
+import Button from "./Button";
 
 /**
  * Basic component for displaying a list of options to the user.
@@ -24,6 +30,7 @@ const Select = ({
   confirmChoice,
   defaultSelection,
   id,
+  disabled,
   multiselect,
   onChange,
   pill,
@@ -36,16 +43,29 @@ const Select = ({
 }) => {
   const [elementId] = useState(id || new Date().getTime().toString());
   const [open, setOpen] = useState(false);
-  const [tempSelection, setTempSelection] = useState();
+  const listfoxRef = useRef();
   const [selection, setSelection] = useState(defaultSelection);
 
+  const selectedIds = useMemo(() => {
+    if (selection.length > 0) {
+      return selection.map((item) => item.id);
+    }
+    return null;
+  }, [selection]);
+
+  /**
+   * We wish to allow flexibility in rendering
+   * content out of the selected values.
+   * If the client does not pass anything, we need to display
+   * the value of the selected element or the label as placeholder.
+   * If there are multiple values, we will display a + next to the first
+   * value.
+   */
   const renderButtonContent = useMemo(() => {
     if (renderSelection) {
       return renderSelection;
     }
 
-    /* Checks if the user has selected something. If he has, render's the first value
-     * of the selection. */
     // eslint-disable-next-line func-names
     return function (sel) {
       if (!pill)
@@ -74,39 +94,46 @@ const Select = ({
   }, [renderSelection, pill, label]);
 
   useEffect(() => {
-    const firstChild = document.querySelector(
-      `#listbox-${elementId} [role="listbox"]`
-    );
-    if (firstChild && open) {
-      firstChild.focus();
+    const listbox = document.getElementById(`listbox-${elementId}`);
+    if (listbox && open) {
+      listbox.focus();
     }
   }, [elementId, open]);
 
   const toggleOpen = useCallback(() => {
-    setOpen((prev) => !prev);
-  }, []);
+    const button = document.getElementById(`button-${elementId}`);
+    // We're going to close, return focus on button
+    if (button && open) {
+      button.focus();
+    }
+
+    setOpen(!open);
+  }, [elementId, open]);
 
   const confirmTemporarySelection = useCallback(() => {
-    setSelection(tempSelection);
-    setTempSelection([]);
+    const currentSelection = listfoxRef.current.getSelectedOptions();
+    setSelection(currentSelection);
     setOpen((prev) => !prev);
-    if (onChange) {
-      onChange(tempSelection);
+    const button = document.getElementById(`button-${elementId}`);
+    if (button) {
+      button.focus();
     }
-  }, [tempSelection, onChange]);
+    if (onChange) {
+      onChange(currentSelection);
+    }
+  }, [onChange, elementId]);
 
   const clearSelection = useCallback(() => {
-    setTempSelection([]);
-    // TODO clear child
+    listfoxRef.current.clear();
   }, []);
 
   const onListboxChange = useCallback(
     (value) => {
-      if (confirmChoice) {
-        setTempSelection(value);
-      } else {
-        setSelection(value);
+      // Don't need to confirm choice,
+      // Go ahead and select it
+      if (!confirmChoice) {
         setOpen((prev) => !prev);
+        setSelection(value);
         if (onChange) {
           onChange(value);
         }
@@ -124,97 +151,67 @@ const Select = ({
       labelId={`label-${elementId}`}
       error={error}
       errorMessage={errorMessage}
-      empty={selection.length === 0}
+      removeChildrenStyle={pill}
+      removeBottomBorder={pill}
+      hideLabel={pill}
+      empty={selection.length === 0 && !open}
       className={classnames(className, styles.select, {
-        [styles.opened]: open,
-        [styles.selected]: selection.length !== 0,
+        [styles["select--opened"]]: open,
         [styles.pill]: pill,
       })}
     >
       <Button
-        className={classnames({
-          [styles.selected]: selection.length !== 0,
-          [styles.button]: !pill,
-          [styles.pill]: pill,
-        })}
-        aria-haspopup="listbox"
-        aria-expanded={open}
-        aria-labelledby={
-          label
-            ? `label-${elementId} button-${elementId}`
-            : `button-${elementId}`
-        }
-        id={`button-${elementId}`}
-        onClick={toggleOpen}
-        variant={pill ? "pill" : "sneaky"}
-      >
-        {renderButtonContent && renderButtonContent(selection)}
-        {!pill && (
-          <Icon
-            className={styles.icon}
-            icon={open ? "chevron-up" : "chevron-down"}
-          />
-        )}
-      </Button>
-      <Portal
-        useOutsideLayer
-        onOutsideClick={toggleOpen}
-        parentId={`button-${elementId}`}
-        x="center"
-        y="bottom"
-        ariaHidden={!open}
-        className={classnames(styles.portal, {})}
-      >
-        <div className={styles.card}>
-          {title && (
-            <div className={styles.header}>
-              <Typography
-                id={`title-${elementId}`}
-                fontSize={20}
-                color="contrast"
-                fontWeight={500}
+        elementId={elementId}
+        label={label}
+        open={open}
+        pill={pill}
+        renderButtonContent={renderButtonContent}
+        selection={selection}
+        toggleOpen={toggleOpen}
+        disabled={disabled}
+      />
+      {open && (
+        <Portal
+          useOutsideLayer
+          onOutsideClick={toggleOpen}
+          parentId={`button-${elementId}`}
+          x="center"
+          y="bottom"
+          className={styles.portal}
+        >
+          <div className={styles.card}>
+            {title && <Header elementId={elementId} title={title} />}
+            <div className={styles.listbox__wrapper}>
+              <Listbox
+                ariaHidden={!open}
+                forwardRef={listfoxRef}
+                aria-labelledby={
+                  label ? `label-${elementId}` : `title-${elementId}`
+                }
+                id={`listbox-${elementId}`}
+                className={styles.listbox}
+                enableMultiselect={multiselect}
+                defaultSelected={selectedIds}
+                onChange={!confirmChoice ? onListboxChange : undefined}
               >
-                {title}
-              </Typography>
+                {children}
+              </Listbox>
             </div>
-          )}
-          <div className={styles.list}>
-            <Listbox
-              ariaHidden={!open}
-              aria-labelledby={
-                label ? `label-${elementId}` : `title-${elementId}`
-              }
-              id={`listbox-${elementId}`}
-              className={styles.listbox}
-              enableMultiselect={multiselect}
-              onChange={onListboxChange}
-            >
-              {children}
-            </Listbox>
+            {(clear || confirmChoice) && (
+              <Footer
+                clear={clear}
+                clearSelection={clearSelection}
+                multiselect={multiselect}
+                clearText={clearText}
+                clearAllText={clearAllText}
+                confirmChoice={confirmChoice}
+                confirmTemporarySelection={confirmTemporarySelection}
+                applyText={applyText}
+              />
+            )}
           </div>
-          {(clear || confirmChoice) && (
-            <div className={styles.footer}>
-              {clear && (
-                <Button
-                  variant="sneaky"
-                  onClick={clearSelection}
-                  className={styles.sneaky}
-                >
-                  <Typography fontSize={16} color="contrast" fontWeight={500}>
-                    {!multiselect && clearText}
-                    {multiselect && clearAllText}
-                  </Typography>
-                </Button>
-              )}
-              {confirmChoice && (
-                <Button variant="secondary" onClick={confirmTemporarySelection}>
-                  {applyText}
-                </Button>
-              )}
-            </div>
-          )}
-        </div>
-      </Portal>
+        </Portal>
+      )}
     </FieldLayout>
   );
 };
@@ -300,6 +297,8 @@ Select.propTypes = {
    * to be applied.
    */
   defaultSelection: PropTypes.arrayOf(PropTypes.string),
+
+  disabled: PropTypes.bool,
 
   label: PropTypes.string,
   required: PropTypes.bool,

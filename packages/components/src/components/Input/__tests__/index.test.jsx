@@ -14,13 +14,14 @@ describe("Input Component", () => {
         className="wrapper empty"
       >
         <label
+          aria-hidden={false}
           className="label"
         >
           Banana
            
         </label>
         <div
-          className="field"
+          className="field includeBorder style__child"
         >
           <input
             className="input"

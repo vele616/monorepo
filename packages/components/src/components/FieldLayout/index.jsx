@@ -19,10 +19,10 @@ const Field = ({
   empty,
   labelId,
   labelHtmlFor,
+  removeChildrenStyle,
+  removeBottomBorder,
+  hideLabel,
 }) => {
-  // TODO label visibility property
-  // TODO disable child style changing via props
-  // TODO select label when opened goes down on focus removal - additional styling required
   return (
     <div
       id={id}
@@ -32,10 +32,22 @@ const Field = ({
         [styles.empty]: empty,
       })}
     >
-      <label id={labelId} htmlFor={labelHtmlFor} className={styles.label}>
+      <label
+        id={labelId}
+        aria-hidden={hideLabel}
+        htmlFor={labelHtmlFor}
+        className={styles.label}
+      >
         {label} {required && "*"}
       </label>
-      <div className={styles.field}>{children}</div>
+      <div
+        className={classnames(styles.field, {
+          [styles.includeBorder]: !removeBottomBorder,
+          [styles.style__child]: !removeChildrenStyle,
+        })}
+      >
+        {children}
+      </div>
       {errorMessage && error && (
         <span title={errorMessage} className={styles.message}>
           {errorMessage}
@@ -55,6 +67,9 @@ const FieldPropTypes = {
   label: PropTypes.string,
   labelId: PropTypes.string,
   labelHtmlFor: PropTypes.string,
+  removeChildrenStyle: PropTypes.bool,
+  removeBottomBorder: PropTypes.bool,
+  hideLabel: PropTypes.bool,
 
   /**
    * If set to true, will add a '*' character
@@ -67,7 +82,11 @@ const FieldPropTypes = {
 
 Field.propTypes = FieldPropTypes;
 
-Field.defaultProps = {};
+Field.defaultProps = {
+  removeChildrenStyle: false,
+  removeBottomBorder: false,
+  hideLabel: false,
+};
 
 export { FieldPropTypes };
 export default Field;

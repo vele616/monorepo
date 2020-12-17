@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import React, {
   useState,
   useCallback,
@@ -75,12 +76,12 @@ const Listbox = ({
         );
       }
       if (enableMultiselect) {
-        return defaultSelected.includes(optionId);
+        return defaultSelected && defaultSelected.includes(optionId);
       }
       if (typeof defaultSelected === "string") {
-        return defaultSelected === optionId;
+        return defaultSelected && defaultSelected === optionId;
       }
-      return defaultSelected[0] === optionId;
+      return defaultSelected && defaultSelected[0] === optionId;
     });
   });
 
