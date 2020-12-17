@@ -14,11 +14,7 @@ const JobList = ({ jobs, scrollToJobWithIndex }) => {
     <React.Fragment key={job.jobUrl}>
       <JobPost {...job} />
       {scrollToJobWithIndex === index && (
-        <div
-          key="aa"
-          style={{ top: '-100px', position: 'relative' }}
-          ref={jobRef}
-        />
+        <div style={{ top: '-100px', position: 'relative' }} ref={jobRef} />
       )}
     </React.Fragment>
   ));
