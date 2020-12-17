@@ -76,6 +76,7 @@ const IndexPage = ({ data }) => {
             <StyledLink
               className={`link--secondary ${styles.link}`}
               to="/other-it-jobs"
+              state={{ linkFromIndex: true }}
             >
               {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
             </StyledLink>
