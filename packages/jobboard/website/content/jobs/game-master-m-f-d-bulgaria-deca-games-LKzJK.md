@@ -2,7 +2,7 @@
 title: "Game Master"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/9bb4636cb97701-game-master-m-f-d-bulgaria"
 applyUrl: "https://deca-games.breezy.hr/p/9bb4636cb97701-game-master-m-f-d-bulgaria/apply"
 timestamp: 1608163200000

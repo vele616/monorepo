@@ -2,7 +2,7 @@
 title: "Game Design Systems / Balance"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/5d4aa1c0958701-game-design-systems-balance"
 applyUrl: "https://deca-games.breezy.hr/p/5d4aa1c0958701-game-design-systems-balance/apply"
 timestamp: 1608163200000

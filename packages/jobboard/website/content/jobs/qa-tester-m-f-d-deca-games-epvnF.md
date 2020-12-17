@@ -2,7 +2,7 @@
 title: "QA Tester"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/574c84e4a99b01-qa-tester-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/574c84e4a99b01-qa-tester-m-f-d/apply"
 timestamp: 1608163200000

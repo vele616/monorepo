@@ -1,5 +1,5 @@
 ---
-title: "(Senior) Java Developer"
+title: "Senior Java Developer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
 companyName: "Deca Games"
