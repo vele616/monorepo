@@ -1,8 +1,8 @@
 ---
-title: "Junior Product Manager (m/f/d)"
+title: "Junior Product Manager"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/1cd1d779a7bc01-junior-product-manager-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/1cd1d779a7bc01-junior-product-manager-m-f-d/apply"
 timestamp: 1608163200000
@@ -10,7 +10,7 @@ hashtags: "#management,#ui/ux,#analysis,#analytics,#operations,#scrum,#optimizat
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Deca-games is searching for a junior product manager that has 2+ years' experience working with Data Analytics."
+summary: "Deca Games is searching for a junior product manager that has 2+ years' experience working with Data Analytics."
 summaryBackup: "Love #management, #ui/ux, #analysis? Check out this job post!"
 featured: 20
 ---
