@@ -1,18 +1,18 @@
 ---
-title: "Game Master (m/f/d) - Bulgaria"
+title: "Game Master"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
 companyName: "deca-games"
 url: "https://deca-games.breezy.hr/p/9bb4636cb97701-game-master-m-f-d-bulgaria"
 applyUrl: "https://deca-games.breezy.hr/p/9bb4636cb97701-game-master-m-f-d-bulgaria/apply"
 timestamp: 1608163200000
-hashtags: "#operations,#management,#office,#monitoring,#English"
+hashtags: "#operations,#management,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Excited about experience in: #operations, #management, #office? Check out this job post!"
+summary: "Excited about experience in: #operations, #management, #English? Check out this job post!"
 summaryBackup: "To apply as a game master at Deca-games, you preferably need to have some knowledge of: #operations, #management, #office."
-featured: 20
+featured: 1
 ---
 
 ## Who we are looking for
