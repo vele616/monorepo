@@ -1,16 +1,16 @@
 ---
-title: "Mid / Senior Developer Backend C++/C# (m/f/d)"
+title: "Mid / Senior Developer Backend C++/C#"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/0dd0a653bc1801-mid-senior-developer-backend-c-c-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/0dd0a653bc1801-mid-senior-developer-backend-c-c-m-f-d/apply"
 timestamp: 1608163200000
-hashtags: "#ui/ux,#python,#unity,#scrum,#windows,#git,#management,#optimization,#English"
+hashtags: "#cplusplus,#csharp,#git,#scrum,#windows,#management,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "If you have experience in working with, consider applying to Deca-games's job post for a new mid."
+summary: "If you at least six years of gaming industry experience, consider applying to Deca-games's job post for a new mid."
 summaryBackup: "Love #ui/ux, #python, #unity? Check out this job post!"
 featured: 20
 ---
