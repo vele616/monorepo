@@ -1,8 +1,8 @@
 ---
-title: "(Senior) Java Developer (m/f/d)"
+title: "(Senior) Java Developer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/9ae0c0e061c401-senior-java-developer-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/9ae0c0e061c401-senior-java-developer-m-f-d/apply"
 timestamp: 1608163200000
@@ -10,7 +10,7 @@ hashtags: "#java,#spring,#python,#golang,#ui/ux,#android,#ios,#aws,#googlecloud"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "If you have 4+ years of Games Industry experience, Deca-games has a job opening for a "
+summary: "If you have 4+ years of Games Industry experience, Deca Games has a job opening for you."
 summaryBackup: "Deca-games is looking for a  that has experience in: #java, #spring, #python."
 featured: 20
 ---
