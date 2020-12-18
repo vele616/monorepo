@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer - Frontend"
+title: "Senior Frontend Engineer"
 location: "Paris, FR - Remote OK"
 host: "https://athenian.breezy.hr/"
 companyName: "athenian"
 url: "https://athenian.breezy.hr/p/39667a6eebca01-senior-software-engineer-frontend"
 applyUrl: "https://athenian.breezy.hr/p/39667a6eebca01-senior-software-engineer-frontend/apply"
 timestamp: 1608249600000
-hashtags: "#css,#git,#javascript,#reactjs,#ui/ux,#html,#jira,#docker,#operations,#postgresql"
+hashtags: "#css,#javascript,#reactjs,#ui/ux,#html,#jira,#docker,#operations,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/athenian"
 companyWebsite: "https://athenian.co/"
 summary: "Athenian wishes to hire a new senior software engineer. If you have strong experience with Web Standards, consider applying."
 summaryBackup: "To apply as a senior software engineer at Athenian, you preferably need to have some knowledge of: #css, #git, #javascript."
-featured: 20
+featured: 0
 ---
 
 ## Senior Software Engineer - Frontend
