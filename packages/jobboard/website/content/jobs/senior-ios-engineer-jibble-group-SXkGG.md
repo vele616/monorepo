@@ -1,12 +1,12 @@
 ---
 title: "Senior iOS Engineer"
-location: "Remote Worldwide"
+location: "Remote"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
 companyName: "jibble-group"
 url: "https://jibble-group.breezy.hr/p/c3e818c9e6c901-senior-ios-engineer"
 applyUrl: "https://jibble-group.breezy.hr/p/c3e818c9e6c901-senior-ios-engineer/apply"
 timestamp: 1608249600000
-hashtags: "#swift,#ui/ux,#ios,#management,#kotlin,#css,#git,#marketing,#operations,#jira"
+hashtags: "#swift,#ui/ux,#ios,#kotlin,#css,#git,#agile,#operations,#jira"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
