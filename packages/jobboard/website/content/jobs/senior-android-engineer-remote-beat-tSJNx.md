@@ -1,5 +1,5 @@
 ---
-title: "Senior Android Engineer, Remote"
+title: "Senior Android Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat is searching for a senior android engineer that has 3+ years of native Android app development experience."
 summaryBackup: "Beat is looking for a senior android engineer that has experience in: #android, #kotlin, #scrum."
-featured: 20
+featured: 1
 ---
 
 ## About us
