@@ -6,7 +6,7 @@ companyName: "jibble-group"
 url: "https://jibble-group.breezy.hr/p/4e5f3fe5a25401-senior-back-end-developer"
 applyUrl: "https://jibble-group.breezy.hr/p/4e5f3fe5a25401-senior-back-end-developer/apply"
 timestamp: 1608249600000
-hashtags: "#ui/ux,#management,#vuejs,#typescript,#aws,#css,#postgresql,#operations,#marketing,#elasticsearch"
+hashtags: "#csharp,#elasticsearch,#postgresql,#ui/ux,#management,#vuejs,#typescript,#css,#operations,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
