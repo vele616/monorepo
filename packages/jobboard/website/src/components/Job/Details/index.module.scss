@@ -204,7 +204,7 @@
 .button {
   margin-top: 1em;
   display:inline-block;
-
+  text-align: center;
   @include mediaQuery("<750px") {
    margin: 1em auto;
    display: block;
@@ -216,7 +216,7 @@
   grid-row: 4 / span 1;
   max-width: 273px;
   justify-self: flex-end;
-
+ 
   @include mediaQuery("<750px") {
     text-align: center;
     grid-column: 1 / span 3;
