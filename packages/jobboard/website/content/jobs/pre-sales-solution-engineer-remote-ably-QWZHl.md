@@ -1,18 +1,18 @@
 ---
-title: "Pre-Sales Solution Engineer (remote)"
+title: "Pre-Sales Solution Engineer"
 location: "Remote job"
 host: "https://jobs.ably.io/"
 companyName: "Ably"
 url: "https://jobs.ably.io/o/presales-solution-engineer-remote"
 applyUrl: "https://jobs.ably.io/o/presales-solution-engineer-remote/c/new"
 timestamp: 1608249600000
-hashtags: "#sales,#translation,#management,#marketing,#socialmedia,#scrum,#analysis,#rest,#English"
+hashtags: "#English,#sales,#marketing,#translation,#management,#socialmedia,#scrum,#analysis,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ably"
 companyWebsite: "https://www.ably.io/careers"
 summary: "To apply as a pre-sales solution engineer at Ably, you preferably need to have 8 years of experience within software pre-sales engineering."
 summaryBackup: "To apply as a pre-sales solution engineer at Ably, you preferably need to have some knowledge of: #sales, #translation, #management."
-featured: 20
+featured: 5
 ---
 
 ## Job description
