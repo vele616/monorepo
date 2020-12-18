@@ -1,16 +1,16 @@
 ---
 title: "Sales Development Representative"
-location: "Remote Worldwide"
+location: "Remote"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
 companyName: "jibble-group"
 url: "https://jibble-group.breezy.hr/p/c61a6dc5a2bb01-sales-development-representative"
 applyUrl: "https://jibble-group.breezy.hr/p/c61a6dc5a2bb01-sales-development-representative/apply"
 timestamp: 1608249600000
-hashtags: "#sales,#css,#management,#marketing,#analysis,#office,#English"
+hashtags: "#sales,#management,#marketing,#analysis,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "If you have 1 years of experience as an SDR, you're driven about tech &amp, Jibble-group is looking for someone with your knowledge."
+summary: "If you have 1 years of experience as an SDR, you're driven about tech and growth targets, and you have a proven track record, Jibble-group is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #css, #management? Check out this job post!"
 featured: 20
 ---
