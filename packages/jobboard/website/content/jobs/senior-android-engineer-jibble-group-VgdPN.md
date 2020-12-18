@@ -2,7 +2,7 @@
 title: "Senior Android Engineer"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
-companyName: "jibble-group"
+companyName: "Jibble Group"
 url: "https://jibble-group.breezy.hr/p/d8252f2fff9001-senior-android-engineer"
 applyUrl: "https://jibble-group.breezy.hr/p/d8252f2fff9001-senior-android-engineer/apply"
 timestamp: 1608249600000
@@ -10,14 +10,16 @@ hashtags: "#kotlin,#ui/ux,#android,#management,#css,#tensorflow,#git,#operations
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "If you have 2+ years of mobile development using Kotlin, Jibble-group is looking for someone with your skillset."
+summary: "If you have 2+ years of mobile development using Kotlin, Jibble Group is looking for someone with your skillset."
 summaryBackup: "Jibble-group is looking for a senior android engineer that has experience in: #kotlin, #ui/ux, #android."
 featured: 20
 ---
 
 Our MissionTo help businesses save time and money, and unleash their human potential. Our vision is to power and empower millions of businesses with our software.
 
-About Jibble GroupWe’re a scale-up in the Workforce Management space that has fully embraced remote work since 2017. Headquartered in Kuala Lumpur, Malaysia, we have 65 staff in 13 different countries.
+## About Jibble Group
+
+We’re a scale-up in the Workforce Management space that has fully embraced remote work since 2017. Headquartered in Kuala Lumpur, Malaysia, we have 65 staff in 13 different countries.
 
 We launched PayrollPanda.my and Jibble.io in 2016 and 2017 respectively. PayrollPanda has become Malaysia’s leading cloud payroll software, and Jibble an award-winning time clock solution, targeting the fastest-growing region in the world - South-East Asia.
 
