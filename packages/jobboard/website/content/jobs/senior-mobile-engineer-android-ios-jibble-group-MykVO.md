@@ -1,18 +1,18 @@
 ---
-title: "Senior Mobile Engineer (Android / iOS)"
+title: "Senior Mobile Engineer"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
 companyName: "jibble-group"
 url: "https://jibble-group.breezy.hr/p/4a6a6d4f564f01-senior-mobile-engineer-android-ios"
 applyUrl: "https://jibble-group.breezy.hr/p/4a6a6d4f564f01-senior-mobile-engineer-android-ios/apply"
 timestamp: 1608249600000
-hashtags: "#kotlin,#android,#ios,#swift,#ui/ux,#management,#css,#tensorflow,#marketing,#git"
+hashtags: "#kotlin,#swift,#android,#ios,#ui/ux,#management,#css,#tensorflow,#marketing,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "Jibble-group is looking for a senior mobile engineer that has 2+ years of mobile development using Kotlin."
+summary: "Jibble-group is looking for a senior mobile engineer that has 2+ years of mobile development using Kotlin or 3+ years using Swift."
 summaryBackup: "Excited about #kotlin, #android, #ios? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Our Mission
