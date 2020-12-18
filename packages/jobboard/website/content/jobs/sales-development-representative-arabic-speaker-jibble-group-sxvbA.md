@@ -1,12 +1,12 @@
 ---
-title: "Sales Development Representative (Arabic Speaker)"
+title: "Sales Development Representative"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
 companyName: "jibble-group"
 url: "https://jibble-group.breezy.hr/p/34ec17646b2201-sales-development-representative-arabic-speaker"
 applyUrl: "https://jibble-group.breezy.hr/p/34ec17646b2201-sales-development-representative-arabic-speaker/apply"
 timestamp: 1608249600000
-hashtags: "#sales,#css,#management,#marketing,#Arabic,#analysis,#office"
+hashtags: "#Arabic,#sales,#marketing,#css,#management,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
