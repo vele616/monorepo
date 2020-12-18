@@ -21,9 +21,14 @@
   font-size: #{getFluidvalue($minValue, $maxValue)};
 }
 
-// @include mediaQuery(">viewportLimit") {
-//   font-size: #{$maxValue}px;
-// }
+
+@mixin setMaxFontSize($maxValue) {
+  @include mediaQuery(">viewportLimit") {
+    font-size: #{$maxValue}px;
+  }
+}
+
+
 
 @mixin setScrollbar(
   $width,
