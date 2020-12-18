@@ -1,11 +1,9 @@
 import React from "react";
 import Select from "./index";
-import Card from "../Card";
 
 export default {
   title: "Components/Select",
   component: Select,
-  subComponents: [Card],
 };
 
 const Template = (args) => {
