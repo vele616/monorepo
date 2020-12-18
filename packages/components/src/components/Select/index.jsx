@@ -38,6 +38,7 @@ const Select = ({
   required,
   renderSelection,
   errorMessage,
+  hideLabel,
   error,
   title,
 }) => {
@@ -153,7 +154,7 @@ const Select = ({
       errorMessage={errorMessage}
       removeChildrenStyle={pill}
       removeBottomBorder={pill}
-      hideLabel={pill}
+      hideLabel={pill || hideLabel}
       empty={selection.length === 0 && !open}
       className={classnames(className, styles.select, {
         [styles["select--opened"]]: open,
@@ -217,6 +218,10 @@ const Select = ({
 };
 
 Select.propTypes = {
+  /**
+   * If set to true, will hide label
+   */
+  hideLabel: PropTypes.bool,
   /**
    * Classname applied to the wrapper element of the Select component.
    * Direct parent of the button that collapses the listbox element.

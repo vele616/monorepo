@@ -20,7 +20,6 @@ $padding_bottom: 7px;
   @include mediaQuery("<=360px") {
     min-width: 190px;
   }
-
   ::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     opacity: 0; /* Firefox */
@@ -35,6 +34,11 @@ $padding_bottom: 7px;
     /* Microsoft Edge */
     opacity: 0;
   }
+}
+
+.hideLabel {
+  padding-top: 0;
+  min-height: calc(2em + #{$padding_bottom * 2});
 }
 
 // By default, we expect you to style the child

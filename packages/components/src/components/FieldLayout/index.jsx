@@ -30,6 +30,7 @@ const Field = ({
       className={classnames(className, styles.wrapper, {
         [styles.error]: error,
         [styles.empty]: empty,
+        [styles.hideLabel]: hideLabel,
       })}
     >
       <label
