@@ -1,5 +1,5 @@
 ---
-title: "Senior Back-End Developer"
+title: "Senior Backend Developer"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
 companyName: "jibble-group"
