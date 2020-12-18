@@ -2,7 +2,7 @@
 title: "Senior Front-End Developer"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
-companyName: "jibble-group"
+companyName: "Jibble Group"
 url: "https://jibble-group.breezy.hr/p/dd9322f4001f01-senior-front-end-developer"
 applyUrl: "https://jibble-group.breezy.hr/p/dd9322f4001f01-senior-front-end-developer/apply"
 timestamp: 1608249600000
@@ -10,7 +10,7 @@ hashtags: "#vuejs,#ui/ux,#typescript,#css,#aws,#operations,#marketing,#managemen
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "If you have 5 years of commercial web development experience, Jibble-group has a job opening for a senior front-end developer"
+summary: "If you have 5 years of commercial web development experience, Jibble Group has a job opening for a senior front-end developer"
 summaryBackup: "Jibble-group is looking for a senior front-end developer that has experience in: #vuejs, #ui/ux, #typescript."
 featured: 20
 ---
