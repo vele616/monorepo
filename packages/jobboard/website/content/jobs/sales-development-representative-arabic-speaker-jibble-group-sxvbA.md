@@ -10,7 +10,7 @@ hashtags: "#Arabic,#sales,#marketing,#css,#management,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "Jibble-group is searching for a sales development representative that has 1 years of experience as an SDR, you're driven about tech &amp."
+summary: "Jibble-group is searching for a sales development representative that has 1 years of experience as an SDR."
 summaryBackup: "Excited about #sales, #css, #management? Check out this job post!"
 featured: 20
 ---
