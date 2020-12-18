@@ -270,18 +270,26 @@ const Listbox = ({
     if (listboxRef.current) listboxRef.current.focus();
   }, []);
 
-  const handleOnFocus = useCallback(() => {
-    const index = selectedOptions.findIndex((e) => e === true);
+  const handleOnFocus = useCallback(
+    (event) => {
+      // Handle focus event only if it is not coming from child element
+      if (!event.currentTarget.contains(event.relatedTarget)) {
+        const index = selectedOptions.findIndex((e) => e === true);
+        if (focusedIndex < -1 || index < 0) {
+          setFocusedIndex(0);
+        } else {
+          setFocusedIndex(index);
+        }
+      }
+    },
+    [selectedOptions, focusedIndex]
+  );
 
-    if (focusedIndex < -1 || index < 0) {
-      setFocusedIndex(0);
-    } else {
-      setFocusedIndex(index);
+  const handleOnBlur = useCallback((event) => {
+    // Handle blur event only if it is not coming from child element
+    if (!event.currentTarget.contains(event.relatedTarget)) {
+      setFocusedIndex(-1);
     }
-  }, [selectedOptions, focusedIndex]);
-
-  const handleOnBlur = useCallback(() => {
-    setFocusedIndex(-1);
   }, []);
 
   const options = useMemo(() => {
