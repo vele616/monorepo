@@ -9,6 +9,7 @@ const Option = ({
   children,
   className,
   disabled = false,
+  enableMultiselect,
   handleOptionClick,
   handleOptionMouseMove,
   id,
@@ -60,8 +61,11 @@ const Option = ({
       onMouseMove={handleMouseMove}
       tabIndex={-1}
     >
-      {showCheckIcon && selected && (
-        <Icon className={`${styles.listbox__icon}`} icon="check" />
+      {enableMultiselect && showCheckIcon && selected && (
+        <Icon className={`${styles.listbox__icon}`} icon="checkbox-checked" />
+      )}
+      {enableMultiselect && showCheckIcon && !selected && (
+        <Icon className={`${styles.listbox__icon}`} icon="checkbox-unchecked" />
       )}
       <span>{children}</span>
     </div>
@@ -113,6 +117,8 @@ Option.propTypes = {
    *
    */
   testId: PropTypes.string,
+
+  enableMultiselect: PropTypes.bool,
 };
 
 export default Option;
