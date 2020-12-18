@@ -2,6 +2,36 @@
 
 Here you can see what's new added, changed or fixed in which version of our component library.
 
+## 0.6.0
+##### _Dec 18 2020_
+
+**TLDR**: Added several components (FieldLayout, Portal, Select, Tabs) and fixed several bugs (mostly style related).
+#### Feature
+
+- **Aria Hidden Global Style**: applying `visibility=hidden` for all elements that have `aria-hidden` set to true.[PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+- **Button**: added `pill` style variant [PR 429](https://github.com/crocoder-dev/monorepo/pull/429)
+- **Listbox**: this version includes several changes:
+  - the Space key will not select options (only Enter key will) [PR 446](https://github.com/crocoder-dev/monorepo/pull/446) 
+  - pressing Tab will not move focus to the next Option but will move focus outside of Listbox component [PR 446](https://github.com/crocoder-dev/monorepo/pull/446)
+  - added a new property called `forwardRef` which allows the client to use refs with the Listbox component. The Listbox component exposes two functions: `clear` and `getSelectedOptions`. [PR 446](https://github.com/crocoder-dev/monorepo/pull/446)
+  - event handling in options was changed a bit to support the focus/state expectations of the parent components[PR 446](https://github.com/crocoder-dev/monorepo/pull/446) [PR 525](https://github.com/crocoder-dev/monorepo/pull/525)
+  - the component now supports passing values that are defaultly selected [PR 446](https://github.com/crocoder-dev/monorepo/pull/446)
+- **FieldLayout**: a basic component for creating various input fields. Useful to unify visual feedback for various states. Used in Input component and Select component [PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+- **Input**: updated implementation to use FieldLayout component. [PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+- **Navigation**: added new property called `defaultScrolled` that changes the initial value of the scrolled state. [PR 513](https://github.com/crocoder-dev/monorepo/pull/513)
+- **Portal**: basic implementation. Use to create content in a portal (outside parent DOM). This component will look for the portal layer and will inject all elements there [PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+- **Select**: basic implementation of a select component. Basically a collapsible listbox component with custom styling and functionality. Uses the newly-created FieldLayout component [PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+- **Tabs**: added component basic implementation [PR 445](https://github.com/crocoder-dev/monorepo/pull/445)
+
+#### Bugfix
+
+- **Listbox**: 
+  - when multiselection available, the option should always include an icon (be it an empty one or a checked one). The implementation before showed only checkIcon on selection regardless of multiselect option. This has been fixed in this version. [PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+  - in case the listbox is too small to show all options, once an option becomes active it's scrolled into view [PR 446](https://github.com/crocoder-dev/monorepo/pull/446)
+  - when no option is selected, aria attributes are displayed properly in HTML [PR 446](https://github.com/crocoder-dev/monorepo/pull/446)
+- **Hooks**: before this version, the available hooks were not exported. Now the client has access to: `useDevice`, `useTypeAhead` and `useScrollPrevent` [PR 431](https://github.com/crocoder-dev/monorepo/pull/431)
+- **Typography**: fixed issue with maximum font-size values. In addition, updated the fluid font size mixin so similar issues are avoided. [PR 526](https://github.com/crocoder-dev/monorepo/pull/526)
+
 ## 0.5.1.
 ##### _Dec 7 2020_
 
