@@ -303,11 +303,35 @@ Select.propTypes = {
    */
   defaultSelection: PropTypes.arrayOf(PropTypes.string),
 
+  /**
+   * If set to true, disables the control.
+   */
   disabled: PropTypes.bool,
 
+  /**
+   * Label that is placed on top and as placeholder
+   * for the Select control.
+   */
   label: PropTypes.string,
+  /**
+   * If set to true, the control will be rendered
+   * with a * character that indicates the input is
+   * required.
+   */
   required: PropTypes.bool,
+
+  /**
+   * If set to true, will apply specific styling
+   * to the component to indicate to the user
+   * there is something wrong with the input.
+   */
   error: PropTypes.bool,
+
+  /**
+   * If `error` is set to true, the component
+   * will display the passed message underneath the Select
+   * control.
+   */
   errorMessage: PropTypes.string,
 };
 
@@ -321,7 +345,7 @@ Select.defaultProps = {
   clear: false,
   title: null,
   pill: false,
-  label: "Banana",
+  label: null,
   required: false,
 };
 
