@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, navigate } from "gatsby";
+import { Link } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
 import { Navigation, Button, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
