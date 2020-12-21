@@ -1,18 +1,18 @@
 ---
-title: "WordPress Technical Support Manager (Remote)"
+title: "WordPress Technical Support Manager"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
 url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=17&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=17&source=other"
 timestamp: 1608508800000
-hashtags: "#wordpress,#management,#php,#branding,#git,#office,#operations,#monitoring,#English"
+hashtags: "#wordpress,#management,#operations,#php,#branding,#git,#office,#monitoring,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have 2 years of experience managing a team of 10 or more, Awesome Motive, Inc is looking for someone with your knowledge."
 summaryBackup: "To apply as a wordpress technical support manager at Awesome Motive, Inc, you preferably need to have some knowledge of: #wordpress, #management, #php."
-featured: 20
+featured: 15
 ---
 
 As a Technical Support Manager within Awesome Motive, you’ll be responsible for ensuring the success of one of our world-class WordPress support teams. You'll work remotely with Senior Support to coordinate all team members, lead numerous responsibilities and initiatives within support, and continually reinforce a positive, team-oriented culture. 
@@ -33,14 +33,11 @@ Responsibilities include (but are not limited to):
 
 *   Setting a high standard of performance goals and KPIs for the support team, and ensuring the team consistently meets or exceeds these goals.
 *   Continually monitoring and providing feedback on the performance of senior support.  
-    
 *   Frequently checking in with senior support about the performance of their reports, and determining the most appropriate actions based on both their feedback and your personal observations/experiences.
 *   Communicating regularly with the support team, including leading weekly support team meetings.
 *   Organizing and leading support trainings.
 *   Onboarding new support team members.  
-    
 *   Delegating support responsibilities, and helping senior support to manage fluctuating workloads.  
-    
 *   Providing written and verbal performance reviews for your team.
 *   Managing time off requests and scheduling.
 *   Assisting with support team hiring.
@@ -54,8 +51,7 @@ Skills you'll need to succeed in this role:
 *   Excellent English writing and communication skills, including a strong ability to show empathy in your writing. We believe communication is **critical**.
 *   Strong leadership with the ability to step up and take charge.
 *   Patience, grace, and a sense of humor.
-*   Talent for taking something complicated and explaining it simply.  
-    
+*   Talent for taking something complicated and explaining it simply.   
 *   Ability to prioritize workloads in order to balance an assortment of tasks and meet deadlines.
 *   Exceptional problem-solving abilities.
 *   Experience using WordPress.
@@ -63,7 +59,6 @@ Skills you'll need to succeed in this role:
 ## Bonus points if you also have:
 
 *   Proven track record working in a support team for WordPress plugins.  
-    
 *   Experience managing a team remotely.
 *   Experience using Awesome Motive products, such as WPForms, WP Mail SMTP, MonsterInsights, OptinMonster, etc.
 *   Experience working with the major services that many of our products integrate with (Zapier, Mailchimp, Drip, Stripe, etc).
