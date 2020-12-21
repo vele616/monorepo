@@ -1,12 +1,12 @@
 ---
-title: "Mid Market Account Executive - EMEA"
+title: "Mid Market Account Executive"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5004955002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5004955002#app"
 timestamp: 1608508800000
-hashtags: "#sales,#ui/ux,#git,#management,#marketing,#operations,#figma,#rest"
+hashtags: "#sales,#management,#operations,#figma,#rest"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
