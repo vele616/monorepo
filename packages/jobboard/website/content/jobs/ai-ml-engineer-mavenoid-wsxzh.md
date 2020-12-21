@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Excited about experience in: #python, #pytorch, #tensorflow? Check out this job post!"
 summaryBackup: "To apply as an ai at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
 featured: 1
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "http://www.primer.ai/"
 summary: "If you have 4+ years of shipping commercial software, Primer Technologies, Inc. is looking for someone with your skillset."
 summaryBackup: "Excited about #python, #java, #golang? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 As a **Senior Backend Engineer**, you will have the opportunity to make a wide impact on our tooling, coding standards, and codebase. Primer believes in creating an environment that encourages and creates opportunities for growth. Whether it’s helping create and contribute to a set of architectural principles, or pushing us to adopt high-impact OSS, we need engineers to help us make those decisions.

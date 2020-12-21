@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "Adzerk intends to hire a new sales engineer. If you have have prior experience working with REST APIs and a highly technical product, consider applying."
 summaryBackup: "Excited about #sales, #javascript, #branding? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Adzerk enables our customers to build innovative and relevant advertising and content experiences quickly and easily. The Adzerk Sales Engineer is a vital member of our sales team that works to delight prospective customers and their integrating engineers. They are effective communicators who can pivot with ease — from discussing targeting options and GDPR with a CEO, to the latest javascript framework or the latency involved with making requests from Google Cloud to AWS with a developer. They should be comfortable sketching out ad request / API workflows on a whiteboard, and delivering a product demo to a crowded room. 

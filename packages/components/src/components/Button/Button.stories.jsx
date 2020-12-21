@@ -1,5 +1,6 @@
 import React from "react";
 import Button from "./index";
+import Icon from "../Icon";
 
 export default {
   title: "Components/Button",
@@ -73,4 +74,34 @@ Pill.parameters = {
 };
 Pill.args = {
   variant: "pill",
+};
+
+export const Select = (args) => {
+  return (
+    <>
+      <Button
+        style={{ margin: "10px", display: "flex", alignItems: "center" }}
+        {...args}
+      >
+        Job Type{" "}
+        <Icon
+          style={{ marginLeft: "10px", fontSize: "1.5em" }}
+          icon="chevron-down"
+        />
+      </Button>
+      <Button disabled {...args}>
+        Disabled
+      </Button>
+    </>
+  );
+};
+Select.parameters = {
+  docs: {
+    description: {
+      story: "",
+    },
+  },
+};
+Select.args = {
+  variant: "select",
 };

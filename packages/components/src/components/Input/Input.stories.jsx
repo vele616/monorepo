@@ -1,8 +1,12 @@
 import Input from "./index";
+import FieldLayout from "../FieldLayout";
 
 export default {
   title: "Components/Input",
   component: Input,
+  subcomponents: {
+    FieldLayout,
+  },
 };
 
 const Template = Input.bind();
