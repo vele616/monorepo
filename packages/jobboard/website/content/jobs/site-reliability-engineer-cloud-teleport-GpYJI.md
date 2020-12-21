@@ -1,5 +1,5 @@
 ---
-title: "Site Reliability Engineer, Cloud"
+title: "Site Reliability Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/gravitational?location=Remote"
 companyName: "Teleport"
@@ -10,9 +10,9 @@ hashtags: "#kubernetes,#python,#golang,#rustlang,#linux,#aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
-summary: "Love experience in: #kubernetes, #python, #golang? Check out this job post!"
+summary: "If you are interested in software infrastructure and security on Kubernetes, excited to work with experienced software development team, this job is for you."
 summaryBackup: "Teleport is looking for a site reliability engineer that has experience in: #kubernetes, #python, #golang."
-featured: 20
+featured: 15
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.
