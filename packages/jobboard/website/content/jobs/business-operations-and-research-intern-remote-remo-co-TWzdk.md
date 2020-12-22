@@ -1,16 +1,16 @@
 ---
-title: "Business Operations and Research Intern (Remote)"
+title: "Business Operations and Research Intern"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
 companyName: "Remo-co"
 url: "https://remo1.freshteam.com/jobs/ZwsdK4B31AXa/business-operations-and-research-intern-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/ZwsdK4B31AXa/business-operations-and-research-intern-remote#applicant-form"
 timestamp: 1608595200000
-hashtags: "#operations,#marketing,#HR,#management,#sales,#analysis,#office,#finance"
+hashtags: "#operations,#analysis,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
-summary: "Excited about experience in: #operations, #marketing, #HR? Check out this job post!"
+summary: "Excited about experience in: #operations, #analysis, #finance? Check out this job post!"
 summaryBackup: "Remo-co is looking for a business operations and research intern that has experience in: #operations, #marketing, #HR."
 featured: 20
 ---
