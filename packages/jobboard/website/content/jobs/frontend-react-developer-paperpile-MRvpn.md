@@ -1,6 +1,6 @@
 ---
 title: "Frontend / React developer"
-location: ""
+location: "Remote"
 host: "https://apply.workable.com/paperpile/"
 companyName: "Paperpile"
 url: "https://apply.workable.com/paperpile/j/EB9AB619CC/"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#javascript,#typescript,#nodejs,#android,#ios,#css,#html,#wi
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/paperpile"
 companyWebsite: "https://paperpile.com/"
-summary: "Paperpile is looking for a frontend that has you have experience and a deep understanding of the underlying web technologies."
+summary: "Paperpile is looking for a React developer that has experience and a deep understanding of the underlying web technologies."
 summaryBackup: "Love #reactjs, #javascript, #typescript? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 ## Description
