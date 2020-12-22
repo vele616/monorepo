@@ -1,5 +1,5 @@
 ---
-title: "Remote Technical Recruiter - Nixa.io team"
+title: "Remote Technical Recruiter"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io is searching for a remote technical recruiter that has 0-4 years of professional experience."
 summaryBackup: "Love #marketing, #content, #management? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Description
