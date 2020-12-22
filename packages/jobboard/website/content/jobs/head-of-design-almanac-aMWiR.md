@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/almanac"
 summary: "Almanac is looking for a head of design that has 5-8 years of design work at a Series A-C startup with."
 summaryBackup: "Love #ui/ux, #branding, #windows? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## About Almanac

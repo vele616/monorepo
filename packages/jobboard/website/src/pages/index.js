@@ -11,6 +11,7 @@ import Newsletter from '../components/Newsletter';
 import Layout from '../components/Layout';
 import { graphql } from 'gatsby';
 import PostAJob from '../components/PostAJob';
+import styles from './index.module.scss';
 
 const StyledLink = styled(Link)``;
 
@@ -49,8 +50,9 @@ const IndexPage = ({ data }) => {
             }}
           >
             <StyledLink
-              className={'link--secondary'}
+              className={`link--secondary ${styles.link}`}
               to="/software-developer-jobs"
+              state={{ linkFromIndex: true }}
             >
               {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
             </StyledLink>
@@ -71,7 +73,11 @@ const IndexPage = ({ data }) => {
               display: 'flex',
             }}
           >
-            <StyledLink className={'link--secondary'} to="/other-it-jobs">
+            <StyledLink
+              className={`link--secondary ${styles.link}`}
+              to="/other-it-jobs"
+              state={{ linkFromIndex: true }}
+            >
               {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
             </StyledLink>
           </div>

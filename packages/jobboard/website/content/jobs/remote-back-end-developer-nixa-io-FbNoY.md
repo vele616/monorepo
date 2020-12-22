@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io wishes to hire a new remote backend developer. If you have you have experience with Kotlin and/or Java, consider applying."
 summaryBackup: "To apply as a remote back-end developer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #aws, #spring."
 featured: 0
+archived: "true"
 ---
 
 ## Description

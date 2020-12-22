@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "Excited about #javascript, #java, #python? Check out this job post!"
 summaryBackup: "Excited about #javascript, #java, #python? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 ## We want engineers who are passionate about making the internet a better place.

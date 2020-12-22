@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "Adzerk wishes to hire a new senior site reliability engineer. If you have 5-10 years experience) to join our growing team! This is a rare opportunity to be our first SRE who will own improvements to our existing structure and own our systems moving forward as we scale to our next level of growth!, consider applying."
 summaryBackup: "Adzerk is looking for a senior site reliability engineer that has experience in: #operations, #clojure, #branding."
 featured: 7
+archived: "true"
 ---
 
 ## We want engineers who are passionate about making the internet a better place.

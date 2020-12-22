@@ -13,6 +13,7 @@ companyWebsite: "http://www.primer.ai/"
 summary: "Primer Technologies, Inc. intends to hire a new senior machine learning engineer. If you have 5+ years of shipping commercial software, consider applying."
 summaryBackup: "Excited about #python, #golang, #css? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 As a Senior Machine Learning Engineer, you will have the opportunity to make a wide impact on our machine learning processes, tooling, coding standards, and codebase. Primer believes in creating an environment that encourages and creates opportunities for growth. Whether it’s helping create and contribute to a set of architectural principles, or pushing us to adopt high-impact OSS, we need engineers to help us make those decisions.

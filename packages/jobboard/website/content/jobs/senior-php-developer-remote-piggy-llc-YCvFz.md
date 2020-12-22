@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Piggy LLC is searching for a senior php developer that has experience in an agile dev environment, with CI and Unit and Integration testing."
 summaryBackup: "Love #php, #aws, #dynamodb? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Joinpiggy.com is looking for the highest caliber back end developers to join its technical team’s expansion. Candidates must be located in a European time zone.

@@ -17,9 +17,10 @@ const Navigation = ({
   style,
   Logo,
   transparentOnZeroScroll = false,
+  defaultScrolled = false,
   ...other
 }) => {
-  const [scrolled, setIsScrolled] = useState(false);
+  const [scrolled, setIsScrolled] = useState(defaultScrolled || false);
   const [opened, setIsOpened] = useState(false);
   const { isMobile } = useDevice();
   const { disableScroll, enableScroll } = useScrollPrevent();
@@ -81,6 +82,11 @@ const Navigation = ({
 };
 
 Navigation.propTypes = {
+  /**
+   * Indicator whether navigation is already scrolled. This is useful to prevent navigation "jumps"
+   * when changing page but scroll preserves position.
+   */
+  defaultScrolled: PropTypes.bool,
   children: PropTypes.oneOfType([PropTypes.node, PropTypes.func]),
   className: PropTypes.string,
   style: PropTypes.shape({}),
@@ -89,6 +95,9 @@ Navigation.propTypes = {
    * Excluded from this component as it should be handled via the webapp (e.g. optimization of image resources).
    */
   Logo: PropTypes.node,
+  /**
+   * Indicator if navigation should be transparent if page is not scrolled.
+   */
   transparentOnZeroScroll: PropTypes.bool,
 };
 

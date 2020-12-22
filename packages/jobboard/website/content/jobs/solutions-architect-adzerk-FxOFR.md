@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "If you have have prior experience working with REST APIs and a highly technical product, consider applying to Adzerk's job post for a new solutions architect."
 summaryBackup: "To apply as a solutions architect at Adzerk, you preferably need to have some knowledge of: #sales, #javascript, #branding."
 featured: 10
+archived: "true"
 ---
 
 Adzerk enables our customers to build innovative and relevant advertising and content experiences quickly and easily. The Adzerk Solutions Architect is a vital member of our sales team that works to delight prospective customers and their integrating engineers. They are effective communicators who can pivot with ease — from discussing targeting options and GDPR with a CEO, to the latest javascript framework or the latency involved with making requests from Google Cloud to AWS with a developer. They should be comfortable sketching out ad request / API workflows on a whiteboard, and delivering a product demo to a crowded room. 
