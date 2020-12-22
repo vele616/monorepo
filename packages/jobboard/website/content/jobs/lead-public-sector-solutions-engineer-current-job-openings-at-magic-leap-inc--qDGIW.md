@@ -2,7 +2,7 @@
 title: "Lead, Public Sector Solutions Engineer"
 location: "Plantation, FL, Orlando, FL. Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2552263"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2552263#app"
 timestamp: 1608595200000
@@ -10,9 +10,9 @@ hashtags: "#unity,#windows,#content,#ui/ux,#operations,#sales,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. wishes to hire a new lead. If you have 5-7+ years of experience in demonstrating and establishing technical feasibility/wins among Enterprise customers, consider applying."
+summary: "Magic Leap, Inc. wishes to hire a new lead. If you have 5-7+ years of experience in demonstrating and establishing technical feasibility/wins among Enterprise customers, consider applying."
 summaryBackup: "Excited about #unity, #windows, #content? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Public Sector Solutions Engineer
@@ -64,5 +64,3 @@ ML Horizons is seeking a high energy, personable Public Sector Solutions Enginee
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
 *    This position may have access to ITAR controlled technical data, or material placed under a security classification or similar restriction by the US Government.  As such, this position will require a US Person as defined in the ITAR, and may require the successful completion of a background check for a US Department of Defense security clearance
-
-#LI-REMOTE
