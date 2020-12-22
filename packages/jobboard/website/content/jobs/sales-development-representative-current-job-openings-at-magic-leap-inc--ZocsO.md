@@ -1,8 +1,8 @@
 ---
 title: "Sales Development Representative"
-location: "Sal Lake City, Utah, Remote"
+location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2552406"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2552406#app"
 timestamp: 1608595200000
@@ -10,7 +10,7 @@ hashtags: "#sales,#management,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have strong phone presence and experience dialing dozens of calls per day and/or outbound campaigns via a myriad of channels, Current Job Openings at Magic Leap, Inc. is looking for someone with your knowledge."
+summary: "Magic Leap is looking for a talented and competitive Sales Development Representative (SDR) that thrives in a relatively long sales cycle environment."
 summaryBackup: "Excited about #sales, #management, #office? Check out this job post!"
 featured: 20
 ---
