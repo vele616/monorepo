@@ -1,16 +1,16 @@
 ---
-title: "Product Design Intern (Remote)"
+title: "Product Design Intern"
 location: "Remote"
 host: "https://remo1.freshteam.com/jobs/search?utf8=%E2%9C%93&%5Bquery%5D=&%5Bbranch_id%5D=&%5Bremote%5D=0&%5Bremote%5D=1&commit=Go"
-companyName: "Remo-co"
+companyName: "Remo"
 url: "https://remo1.freshteam.com/jobs/z1jo92gz6jIm/product-design-intern-remote"
 applyUrl: "https://remo1.freshteam.com/jobs/z1jo92gz6jIm/product-design-intern-remote#applicant-form"
 timestamp: 1608595200000
-hashtags: "#ui/ux,#android,#ios,#office,#photoshop,#figma"
+hashtags: "#ui/ux,#android,#ios,#photoshop,#figma,#sketch,#illustrator"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/remo-co"
 companyWebsite: "https://remo1.freshteam.com/jobs"
-summary: "Remo-co is searching for a product design intern that has some experience with design tools."
+summary: "Remo is searching for a product design intern that has some experience with design tools."
 summaryBackup: "To apply as a product design intern at Remo-co, you preferably need to have some knowledge of: #ui/ux, #android, #ios."
 featured: 20
 ---
