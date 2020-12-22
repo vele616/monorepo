@@ -1,5 +1,5 @@
 ---
-title: "Business Developer - Nixa.io team"
+title: "Business Developer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io is looking for a business developer that has 1-3 years of professional experience with sales."
 summaryBackup: "Love #sales, #marketing, #management? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Description
