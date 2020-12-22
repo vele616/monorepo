@@ -1,0 +1,66 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+$limitTablet: 800;
+$limitDesktop: 1200;
+
+:export {
+  limitTablet: $limitTablet;
+  limitDesktop: $limitDesktop;
+}
+
+.icon {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+  box-sizing: content-box;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.header  {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 90px;
+
+  @include mediaQuery("<#{$limitTablet}px" ) {
+    padding: 0px;
+    margin-bottom: 20px;
+  }
+
+  &__viewControls {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 10px;
+    min-width: max-content;
+    @include mediaQuery("<#{$limitTablet}px") {
+      display: none;
+    }
+  }
+}
+
+.resultList {
+
+  @include sectionPadding("desktop", true);
+     
+  @include mediaQuery(">=tabletLandscape", "<desktop") {
+    @include sectionPadding("tabletLandscape", true);
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+    @include sectionPadding("tabletPortrait", true);
+  }
+
+  @include mediaQuery("<tabletPortrait") {
+    padding-left: 0px;
+    padding-right: 0px; 
+  }
+
+  &__grid {
+    & > * {
+      margin: 0px;
+      width: 100%;
+    }
+  }
+}
