@@ -1,5 +1,5 @@
 ---
-title: "Frontend / React developer"
+title: "React developer"
 location: "Remote"
 host: "https://apply.workable.com/paperpile/"
 companyName: "Paperpile"
