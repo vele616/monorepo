@@ -1,5 +1,5 @@
 ---
-title: "VP Growth - Nixa.io team"
+title: "VP of Growth"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#sales,#management,#css,#analysis,#optimization,#content,#
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io wishes to hire a new vp growth. If you have 5+ years of experience and a track record of creating sustainable growth through successful planning and managing of sales and marketing initiatives, consider applying."
+summary: "Nixa.io wishes to hire a new VP of growth. If you have 5+ years of experience and a track record of creating sustainable growth through successful planning and managing of sales and marketing initiatives, consider applying."
 summaryBackup: "Love #marketing, #sales, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
