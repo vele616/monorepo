@@ -1,12 +1,12 @@
 ---
-title: "Producer (m/f/d)"
+title: "Producer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
 companyName: "deca-games"
 url: "https://deca-games.breezy.hr/p/946aa16a8a2901-producer-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/946aa16a8a2901-producer-m-f-d/apply"
 timestamp: 1608595200000
-hashtags: "#management,#socialmedia,#jira,#scrum,#analysis"
+hashtags: "#management,#jira,#scrum,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
