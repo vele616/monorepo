@@ -1,5 +1,5 @@
 ---
-title: "Remote Community Specialist/Manager - Nixa.io team"
+title: "Remote Community Specialist/Manager"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
