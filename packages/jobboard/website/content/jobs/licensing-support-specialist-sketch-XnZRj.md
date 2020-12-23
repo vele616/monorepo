@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/ff1743d0-bc3e-4345-a3bc-520ff36404be"
 applyUrl: "https://jobs.lever.co/sketch/ff1743d0-bc3e-4345-a3bc-520ff36404be/apply"
 timestamp: 1608681600000
-hashtags: "#ui/ux,#management,#css,#git,#office,#English"
+hashtags: "#management,#office,#English,#css,#git,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
 summary: "Sketch wishes to hire a new licensing support specialist. If you have experience and familiarity with support for SaaS, consider applying."
 summaryBackup: "Sketch is looking for a licensing support specialist that has experience in: #ui/ux, #management, #css."
-featured: 20
+featured: 10
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products every day. Want to join us and help us take our customer support to the next level? We’re looking to grow our talented team with a full-time **Licensing Specialist**.
@@ -65,7 +65,7 @@ In **Customer Support,** there are 14 people split into two teams — Licensing 
 *   Manage simultaneous incoming tickets effectively.
 *   Follow up on customer queries with the Product & Technology teams when needed
 *   Follow the internal procedures and keep accurate documentation of your interactions
-*   Help to build, improve and maintain processes\*\*,\*\* like a better system of contacting our support services or better automatization
+*   Help to build, improve and maintain processes, like a better system of contacting our support services or better automatization
 
 ## We care about your well-being and your professional success, so we offer you
 
