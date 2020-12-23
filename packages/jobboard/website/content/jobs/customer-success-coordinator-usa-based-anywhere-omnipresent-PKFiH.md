@@ -1,5 +1,5 @@
 ---
-title: "Customer Success Coordinator - USA - Based Anywhere"
+title: "Customer Success Coordinator"
 location: "United States"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
