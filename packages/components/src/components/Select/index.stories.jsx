@@ -27,6 +27,14 @@ const Template1 = (args) => {
         <Select.Option>Banana</Select.Option>
         <Select.Option>erwer</Select.Option>
       </Select>
+      <Select {...args}>
+        <Select.Option>Banana</Select.Option>
+        <Select.Option>erwer</Select.Option>
+      </Select>
+      <Select {...args}>
+        <Select.Option>Banana</Select.Option>
+        <Select.Option>erwer</Select.Option>
+      </Select>
     </div>
   );
 };
@@ -39,6 +47,7 @@ Story2.args = {
   confirmChoice: true,
   clear: true,
   title: "Fruit",
+  label: "Fruit",
 };
 
 Story2.argTypes = {
