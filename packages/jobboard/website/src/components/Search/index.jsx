@@ -1,7 +1,5 @@
 /* eslint-disable react/prop-types */
-import React, { useCallback, useContext, useState } from 'react';
-import Img from 'gatsby-image';
-import { StaticQuery, graphql } from 'gatsby';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   Typography,
   Section,
@@ -10,211 +8,135 @@ import {
   Select,
   Input,
 } from '@crocoder-dev/components';
-import { useMemo } from 'react';
 import styles from './index.module.scss';
+import QueryTitle from './QueryTitle';
+import querystring from 'query-string';
+import { StaticQuery, graphql } from 'gatsby';
 
-const Search = ({}) => {
-  const [searchText, setSearchText] = useState('');
-  const [searchQuery, setSearchQuery] = useState([]);
-
-  const [filterSelectionType, setFilterSelectionType] = useState([]);
-  const [filterSelectionContract, setFilterSelectionContract] = useState([]);
-  const [filterSelectionExperience, setFilterSelectionExperience] = useState(
-    []
-  );
-  const [filterSelectionSkills, setFilterSelectionSkills] = useState([]);
-
-  const green = useCallback((text) => {
-    return (
-      text && (
-        <Typography color="green_2">{` ${text.toLowerCase()}`}</Typography>
-      )
-    );
-  }, []);
-
-  const title = useMemo(() => {
-    const jobType =
-      filterSelectionType.map((option) => option.value).join(' or ') || '';
-    const jobContract =
-      filterSelectionContract.map((option) => option.value).join(' or ') || '';
-    const jobExperience =
-      filterSelectionExperience.map((option) => option.value).join(' or ') ||
-      '';
-    const jobSkills =
-      filterSelectionSkills.map((option) => option.value).join(' or ') || '';
-
-    if (Object.keys(searchQuery).length > 0) {
-      return (
-        <Typography
-          className={styles.title}
-          color="gray_2"
-          fontFamily="rubik"
-          fontSize={65}
-          fontWeight={500}
-          element="div"
-        >
-          Oh, so you’re looking for a{green(jobContract)}
-          {green(jobExperience)}
-          {green(jobType)}
-          {green(jobSkills)}
-          {} job post
-          {searchText && ` that mentions `}
-          {searchText && green(searchText)}.
-        </Typography>
-      );
-    } else {
-      return (
-        <>
-          <Typography
-            className={styles.title}
-            color="gray_2"
-            fontFamily="rubik"
-            fontSize={65}
-            fontWeight={500}
-            element="div"
-          >
-            So glad you’re here!
-          </Typography>
-          <Typography
-            className={styles.subtitle}
-            color="gray_2"
-            fontFamily="rubik"
-            fontSize={50}
-            fontWeight={500}
-            element="div"
-          >
-            What are you looking for?
-          </Typography>
-        </>
-      );
+const Search = ({ filters, location }) => {
+  const queryParams = useMemo(() => {
+    if (location.search) {
+      const { input, ...queryFilters } = querystring.parse(location.search);
+      const defaultQueryFilters = {};
+      Object.entries(queryFilters).map(([key, options]) => {
+        defaultQueryFilters[key] = options
+          .split(',')
+          .map((id) => ({ id: id, value: id })); // BUG INSIDE SELECT DEFAULT SELECTION
+      });
+      return { input: input || '', filters: defaultQueryFilters };
     }
-  }, [
-    searchQuery,
-    filterSelectionType,
-    filterSelectionContract,
-    filterSelectionExperience,
-    filterSelectionSkills,
-  ]);
+    return { input: '', filters: {} };
+  }, [location]);
 
-  const handleOnFilterChangeType = useCallback((selection) => {
-    setFilterSelectionType(selection);
+  const [searchInput, setSearchInput] = useState(() => queryParams.input);
+  const [filterSelection, setFilterSelection] = useState(
+    () => queryParams.filters
+  );
+
+  const handleInputChange = useCallback((event) => {
+    setSearchInput(event.target.value);
   }, []);
 
-  const handleOnFilterChangeContract = useCallback((selection) => {
-    setFilterSelectionContract(selection);
-  }, []);
+  useEffect(() => {
+    if (location.search) {
+      const { input } = querystring.parse(location.search);
+      if (input) setSearchInput(input);
+    }
+  }, [location]);
 
-  const handleOnFilterChangeExperience = useCallback((selection) => {
-    setFilterSelectionExperience(selection);
-  }, []);
+  const setHistory = useCallback(() => {
+    if (!filterSelection || Object.keys(filterSelection) === 0) return;
 
-  const handleOnFilterChangeSkills = useCallback((selection) => {
-    setFilterSelectionSkills(selection);
-  }, []);
+    const historyParams = searchInput ? { input: searchInput } : {};
+    Object.entries(filterSelection).forEach(([key, options]) => {
+      if (key && options && options.length > 0)
+        historyParams[key] = options.map(({ id }) => id);
+    });
 
-  const handleTextChange = useCallback((event) => {
-    setSearchText(event.target.value);
-  }, []);
+    history.replaceState(
+      historyParams,
+      'Jobboard search',
+      `?${new URLSearchParams(historyParams).toString()}`
+    );
+  }, [filterSelection, searchInput]);
 
   const handleSearch = useCallback(
     (event) => {
       if (event && event.key && event.key !== 'Enter') return;
-
-      const jobType =
-        filterSelectionType.map((option) => option.value).join(', ') || '';
-      const jobContract =
-        filterSelectionContract.map((option) => option.value).join(', ') || '';
-      const jobExperience =
-        filterSelectionExperience.map((option) => option.value).join(', ') ||
-        '';
-      const jobSkills =
-        filterSelectionSkills.map((option) => option.value).join(', ') || '';
-
-      setSearchQuery({
-        jobType: jobType,
-        jobContract: jobContract,
-        jobExperience: jobExperience,
-        jobSkills: jobSkills,
-      });
+      setHistory();
+      // handle search
     },
-    [
-      searchText,
-      filterSelectionType,
-      filterSelectionContract,
-      filterSelectionExperience,
-      filterSelectionSkills,
-    ]
+    [setHistory]
   );
+
+  const handleOnFilterChange = useCallback((selection, id) => {
+    setFilterSelection((prev) => ({
+      ...prev,
+      [id]: selection,
+    }));
+  }, []);
+
+  const renderFilters = useCallback(() => {
+    return filters.map(({ id, name, options }) => (
+      <Select
+        defaultSelection={filterSelection[id]}
+        key={id}
+        onChange={(selection) => handleOnFilterChange(selection, id)}
+        className={styles.filters__filter}
+        pill
+        multiselect
+        confirmChoice
+        clear
+        label={name}
+        title={name}
+      >
+        {options.map(({ id, value }) => (
+          <Select.Option key={id} id={id}>
+            {value}
+          </Select.Option>
+        ))}
+      </Select>
+    ));
+  }, [filters, filterSelection]);
 
   return (
     <Section className={styles.wrapper}>
-      {title}
+      <QueryTitle filters={filterSelection} searchInput={searchInput} />
       <div className={styles.search} onKeyDown={handleSearch}>
         <Input
           className={styles.search__input}
           label="Search by keyboard or filter attributes"
-          onChange={handleTextChange}
+          onChange={handleInputChange}
         />
         <Button onClick={handleSearch} variant="secondary">
           Search
         </Button>
       </div>
-      <div className={styles.filters}>
-        <Select
-          onChange={handleOnFilterChangeType}
-          className={styles.filters__filter}
-          pill
-          multiselect
-          confirmChoice
-          clear
-          label="Job Type"
-          title="Job Type"
-        >
-          <Select.Option>Content writer</Select.Option>
-          <Select.Option>erwer</Select.Option>
-        </Select>
-        <Select
-          onChange={handleOnFilterChangeContract}
-          className={styles.filters__filter}
-          pill
-          multiselect
-          confirmChoice
-          clear
-          label="Contract Type"
-          title="Contract Type"
-        >
-          <Select.Option>Part Time</Select.Option>
-          <Select.Option>Full Time</Select.Option>
-        </Select>
-        <Select
-          onChange={handleOnFilterChangeExperience}
-          className={styles.filters__filter}
-          pill
-          multiselect
-          confirmChoice
-          clear
-          label="Experience Level"
-          title="Experience Level"
-        >
-          <Select.Option>Junior</Select.Option>
-          <Select.Option>Senior</Select.Option>
-        </Select>
-        <Select
-          onChange={handleOnFilterChangeSkills}
-          className={styles.filters__filter}
-          pill
-          multiselect
-          confirmChoice
-          clear
-          label="Skills"
-          title="Skills"
-        >
-          <Select.Option>erwer</Select.Option>
-          <Select.Option>erwer</Select.Option>
-        </Select>
-      </div>
+      <div className={styles.filters}>{renderFilters()}</div>
     </Section>
   );
 };
 
-export default Search;
+const SearchWithQuery = ({ location }) => {
+  return (
+    <StaticQuery
+      query={graphql`
+        query {
+          searchJson {
+            filters {
+              id
+              name
+              options {
+                id
+                value
+              }
+            }
+          }
+        }
+      `}
+      render={(data) => <Search location={location} {...data.searchJson} />}
+    />
+  );
+};
+
+export default SearchWithQuery;
