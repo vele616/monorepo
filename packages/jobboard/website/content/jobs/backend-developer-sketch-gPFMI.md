@@ -6,7 +6,7 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/898bf1d8-43f7-4cd6-a866-b528cec7f42e"
 applyUrl: "https://jobs.lever.co/sketch/898bf1d8-43f7-4cd6-a866-b528cec7f42e/apply"
 timestamp: 1608681600000
-hashtags: "#nodejs,#ui/ux,#clojure,#aws,#operations,#office,#git,#management,#redis,#postgresql"
+hashtags: "#golang,#elixir,#aws,#operations,#office,#git,#management,#redis,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
