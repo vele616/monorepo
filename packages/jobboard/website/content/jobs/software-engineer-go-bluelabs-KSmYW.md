@@ -1,13 +1,13 @@
 ---
-title: "Software Engineer (Go)"
+title: "Software Engineer"
 location: "Remote job"
 host: "https://careers.bluelabs.eu/"
 companyName: "BlueLabs"
 url: "https://careers.bluelabs.eu/o/software-engineer-go-2"
 applyUrl: "https://careers.bluelabs.eu/o/software-engineer-go-2/c/new"
 timestamp: 1608681600000
-hashtags: "#operations,#management,#golang,#terraform,#ui/ux,#postgresql,#analysis,#finance,#English"
-jobType: "other"
+hashtags: "#golang,#terraform,#operations,#management,#ui/ux,#postgresql,#analysis,#finance,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bluelabs"
 companyWebsite: "https://www.bluelabs.eu/"
 summary: "If you have 1+ years of professional software development experience using Go, BlueLabs is looking for someone with your skillset."
