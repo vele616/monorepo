@@ -94,23 +94,6 @@ const Pagination = ({
     setUnderlineWidth(width);
   }, []);
 
-  const pageButtons = useMemo(
-    () =>
-      Array.from(
-        { length: visiblePages },
-        (_, i) => i + startingIndex
-      ).map((index) => (
-        <PageButton
-          key={index}
-          value={index}
-          onClick={handleOnChange}
-          selected={index === current}
-          onSelected={handleOnSelected}
-        />
-      )),
-    [visiblePages, startingIndex, handleOnChange, current, handleOnSelected]
-  );
-
   useEffect(() => {
     const offset = allVisible ? 0 : 1;
     setUnderlineLeft(
@@ -137,7 +120,17 @@ const Pagination = ({
       >
         <PageButton icon="chevron-left" onClick={previous} />
       </div>
-      {pageButtons}
+      {Array.from({ length: visiblePages }, (_, i) => i + startingIndex).map(
+        (index) => (
+          <PageButton
+            key={index}
+            value={index}
+            onClick={handleOnChange}
+            selected={index === current}
+            onSelected={handleOnSelected}
+          />
+        )
+      )}
       <div
         className={classnames(styles.pagination__controls, {
           [styles.visible]: controlsRightVisible,
