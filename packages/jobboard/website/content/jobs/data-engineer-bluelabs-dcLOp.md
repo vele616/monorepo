@@ -6,7 +6,7 @@ companyName: "BlueLabs"
 url: "https://careers.bluelabs.eu/o/data-engineer"
 applyUrl: "https://careers.bluelabs.eu/o/data-engineer/c/new"
 timestamp: 1608681600000
-hashtags: "#python,#golang,#swift,#operations,#marketing,#management,#ui/ux,#analysis,#redis,#postgresql"
+hashtags: "#python,#golang,#postgresql,#operations,#marketing,#management,#ui/ux,#analysis,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bluelabs"
 companyWebsite: "https://www.bluelabs.eu/"
