@@ -6,7 +6,7 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/de82e0b3-57e5-40b4-9cba-f1bb9000aec2"
 applyUrl: "https://jobs.lever.co/sketch/de82e0b3-57e5-40b4-9cba-f1bb9000aec2/apply"
 timestamp: 1608681600000
-hashtags: "#ui/ux,#marketing,#css,#git,#management,#macos,#content,#office,#rest"
+hashtags: "#ui/ux,#marketing,#content,#git,#management,#macos,#office,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
