@@ -161,6 +161,7 @@ const Select = ({
       className={classnames(className, styles.select, {
         [styles["select--opened"]]: open,
         [styles.pill]: pill,
+        [styles.pillActive]: pill && selection,
       })}
     >
       <Button
