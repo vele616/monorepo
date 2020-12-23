@@ -14,10 +14,10 @@ import PostAJob from '../components/PostAJob';
 import styles from './index.module.scss';
 import Search from '../components/Search';
 
-const SearchPage = ({ data }) => {
+const SearchPage = ({ location }) => {
   return (
     <Layout>
-      <Search></Search>
+      <Search location={location}></Search>
     </Layout>
   );
 };
