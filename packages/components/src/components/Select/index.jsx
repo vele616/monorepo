@@ -41,6 +41,8 @@ const Select = ({
   hideLabel,
   error,
   title,
+  x,
+  y,
 }) => {
   const [elementId] = useState(id || new Date().getTime().toString());
   const [open, setOpen] = useState(false);
@@ -176,8 +178,8 @@ const Select = ({
           useOutsideLayer
           onOutsideClick={toggleOpen}
           parentId={`button-${elementId}`}
-          x="center"
-          y="bottom"
+          x={x}
+          y={y}
           className={styles.portal}
         >
           <div className={styles.card}>
@@ -333,6 +335,16 @@ Select.propTypes = {
    * control.
    */
   errorMessage: PropTypes.string,
+  /**
+   * In case of fixed positioning, sets the position of the
+   * children (selection listbox) on the X-axis.
+   */
+  x: PropTypes.oneOf(["left", "center", "right"]),
+  /**
+   * In case of fixed positioning, sets the position of the
+   * children (selection listbox) on the Y-axis.
+   */
+  y: PropTypes.oneOf(["top", "center", "bottom"]),
 };
 
 Select.defaultProps = {
@@ -347,6 +359,8 @@ Select.defaultProps = {
   pill: false,
   label: null,
   required: false,
+  x: "center",
+  y: "bottom",
 };
 
 Select.Option = Option;
