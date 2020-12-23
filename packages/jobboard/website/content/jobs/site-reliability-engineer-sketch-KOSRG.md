@@ -6,7 +6,7 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/9e0bb17d-d74f-4f84-921c-2e880c7403df"
 applyUrl: "https://jobs.lever.co/sketch/9e0bb17d-d74f-4f84-921c-2e880c7403df/apply"
 timestamp: 1608681600000
-hashtags: "#ui/ux,#python,#operations,#terraform,#chef,#macos,#aws,#office,#management,#git"
+hashtags: "#python,#terraform,#chef,#operations,#macos,#aws,#office,#management,#ui/ux,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
