@@ -1,13 +1,17 @@
 /* eslint-disable react/prop-types */
-import React from 'react';
-import { Typography } from '@crocoder-dev/components';
+import React, { useEffect, useState } from 'react';
+import { Typography, Button } from '@crocoder-dev/components';
 import { useMemo } from 'react';
+import styles from './index.module.scss';
+import Typing from './Typing';
 
 const Green = ({ children = '' }) => (
   <Typography color="green_4">{` ${children.toLowerCase()}`}</Typography>
 );
 
 const QueryTitle = ({ filters, searchInput }) => {
+  const [hasSearched, setHasSearched] = useState(false);
+
   const input = useMemo(
     () =>
       searchInput && (
@@ -20,29 +24,47 @@ const QueryTitle = ({ filters, searchInput }) => {
   );
 
   const filterValues = useMemo(() => {
-    const allFilters =
-      Object.values(filters).map(
-        (options) =>
-          (options &&
-            options.length > 0 &&
-            options.map(({ value }) => value).join(' or ')) ||
-          ''
-      ) || [];
-    return allFilters.map((filter) => <Green key={filter}>{filter}</Green>);
+    return Object.values(filters).map((options, index) => {
+      if (options && options.length > 0) {
+        return (
+          <Green key={index}>
+            {options.map(({ value }) => value).join(' or ')}
+          </Green>
+        );
+      }
+    });
   }, [filters]);
 
+  useEffect(() => {
+    if (filterValues.length > 0 || input) setHasSearched(true);
+  }, [filterValues, input]);
+
   return (
-    <Typography
-      color="gray_2"
-      fontFamily="rubik"
-      fontSize={50}
-      fontWeight={500}
-      element="div"
-    >
-      Oh, so you’re looking for a{filterValues}
-      {} job posts
-      {input}?
-    </Typography>
+    (hasSearched && (
+      <Typography
+        className={styles.queryTitle}
+        color="gray_2"
+        fontFamily="rubik"
+        fontSize={36}
+        fontWeight={500}
+        element="div"
+      >
+        Oh, so you’re looking for a{filterValues}
+        {} job posts
+        {input}?
+      </Typography>
+    )) || (
+      <Typography
+        className={styles.queryTitle}
+        color="gray_2"
+        fontFamily="rubik"
+        fontSize={36}
+        fontWeight={500}
+        element="div"
+      >
+        Are you looking for any jobs?
+      </Typography>
+    )
   );
 };
 
