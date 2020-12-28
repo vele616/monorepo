@@ -1,5 +1,11 @@
 /* eslint-disable react/prop-types */
-import React, { useState, useMemo } from 'react';
+import React, {
+  useState,
+  useMemo,
+  useEffect,
+  useCallback,
+  useRef,
+} from 'react';
 import {
   Typography,
   Grid,
@@ -17,11 +23,24 @@ const Views = Object.freeze({
 
 const ResultList = ({ jobs = [] }) => {
   const [view, setView] = useState(Views.List);
+  const [isScrollingUp, setIsScrollingUp] = useState(false);
+
+  const searchRef = useRef();
 
   const { isMobile, isDesktop } = useDevice({
     tablet: styles.limitTablet,
     desktop: styles.limitDesktop,
   });
+
+  useEffect(() => {
+    let lastWindowY = window.scrollY;
+    const scrollHandler = () => {
+      setIsScrollingUp(window.scrollY > lastWindowY);
+      lastWindowY = window.scrollY;
+    };
+    window.addEventListener('scroll', scrollHandler);
+    return () => window.removeEventListener('scroll', scrollHandler);
+  }, []);
 
   const columns = useMemo(() => {
     if (view === Views.List || isMobile) return '1fr';
@@ -35,8 +54,12 @@ const ResultList = ({ jobs = [] }) => {
     ));
   }, [jobs, view]);
 
+  const scrollToTop = useCallback(() => {
+    searchRef.current.scrollIntoView({ block: 'start' });
+  }, []);
+
   return (
-    <div className={styles.resultList}>
+    <div className={styles.resultList} ref={searchRef}>
       <div className={styles.header}>
         <Typography
           color="gray_2"
@@ -74,6 +97,14 @@ const ResultList = ({ jobs = [] }) => {
       >
         {jobPosts}
       </Grid>
+      <Button
+        onClick={scrollToTop}
+        className={`${styles.floatingButton} ${
+          isScrollingUp && styles.scrollingUp
+        }`}
+      >
+        <Icon icon="chevron-up" />
+      </Button>
     </div>
   );
 };
