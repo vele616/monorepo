@@ -1,5 +1,5 @@
 ---
-title: "Senior React Developer (Contract)"
+title: "Senior React Developer"
 location: "Remote job"
 host: "https://dockyardinc1.recruitee.com/"
 companyName: "DockYard, Inc."
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-i
 companyWebsite: "https://dockyard.com/"
 summary: "Interested in new opportunities and have experience architecting complex frontends with React? DockYard, Inc. has a job opening for a senior react developer."
 summaryBackup: "Excited about #reactjs, #ui/ux, #javascript? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
