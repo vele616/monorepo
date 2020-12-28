@@ -1,5 +1,5 @@
 ---
-title: "Marketing Growth Lead (full-time / contractor, North America or Europe)"
+title: "Marketing Growth Lead"
 location: "Denmark"
 host: "https://apply.workable.com/codeable-aps/"
 companyName: "Codeable ApS"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/codeable-a
 companyWebsite: "http://codeable.io/"
 summary: "Codeable ApS is looking for a marketing growth lead that has 3-5+ years of digital / performance / product / growth marketing experience."
 summaryBackup: "Excited about #marketing, #operations, #wordpress? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Description
