@@ -1,12 +1,12 @@
 ---
 title: "Product Manager"
-location: "Remote job"
+location: "Remote"
 host: "https://vinovest.recruitee.com/"
 companyName: "Vinovest"
 url: "https://vinovest.recruitee.com/o/product-manager"
 applyUrl: "https://vinovest.recruitee.com/o/product-manager/c/new"
 timestamp: 1609113600000
-hashtags: "#ui/ux,#analytics,#management,#marketing,#optimization"
+hashtags: "#management,#marketing,#productmanagement"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
