@@ -46,7 +46,7 @@ const Search = ({
       });
     }
     return defaultQueryFilters;
-  }, [location]); // TODO: click from outside, or with ref get items // BUG INSIDE SELECT DEFAULT SELECTION
+  }, [location]);
 
   const [searchInput, setSearchInput] = useState(() => queryParams.q);
   const [filterSelection, setFilterSelection] = useState(
@@ -113,6 +113,15 @@ const Search = ({
     ));
   }, [filters, filterSelection]);
 
+  const [empty, setEmpty] = useState(true);
+
+  useEffect(() => {
+    const anyFilters = Object.values(filterSelection).some(
+      (filter) => filter && filter.length > 0
+    );
+    setEmpty(!searchInput && !anyFilters);
+  }, [searchInput, filterSelection]);
+
   return (
     <Section className={styles.section}>
       <Typography
@@ -139,24 +148,33 @@ const Search = ({
         onKeyDownCapture={handleSearch}
       >
         <Input
-          defaultValue="hello world" //TODO: add default value to input component
-          className={styles.search__input} //TODO: add max chars to input
-          label={searchLabel} //TODO: input font style inherit?
+          defaultValue="hello world"
+          className={styles.search__input}
+          label={searchLabel}
           onChange={handleInputChange}
         />
         <Button className={styles.search__button} variant="sneaky">
-          <Icon color="gray_2" icon="search1" fontSize={30} />
+          <Icon
+            className={styles.search__button__icon}
+            color="gray_2"
+            icon="search1"
+            fontSize={30}
+          />
         </Button>
       </Flexbox>
       <Flexbox className={styles.filters}>{renderFilters()}</Flexbox>
-      <Flexbox justifyContent="space-between">
-        <QueryTitle filters={filterSelection} searchInput={searchInput} />
+      <Flexbox alignItems="center" justifyContent="space-between">
+        <QueryTitle
+          empty={empty}
+          filters={filterSelection}
+          searchInput={searchInput}
+        />
         <Button
           onClick={handleSearch}
           className={styles.searchButton}
           variant="secondary"
         >
-          {isMobile ? 'SEARCH' : searchButtonText}
+          {isMobile || empty ? 'SEARCH' : searchButtonText}
         </Button>
       </Flexbox>
     </Section>

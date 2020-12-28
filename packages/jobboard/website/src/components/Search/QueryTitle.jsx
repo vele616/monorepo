@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React, { useEffect, useState } from 'react';
-import { Typography, Button } from '@crocoder-dev/components';
+import { Typography } from '@crocoder-dev/components';
 import { useMemo } from 'react';
 import styles from './index.module.scss';
 import Typing from './Typing';
@@ -9,7 +9,7 @@ const Green = ({ children = '' }) => (
   <Typography color="green_4">{` ${children.toLowerCase()}`}</Typography>
 );
 
-const QueryTitle = ({ filters, searchInput }) => {
+const QueryTitle = ({ filters, searchInput, empty }) => {
   const [hasSearched, setHasSearched] = useState(false);
 
   const input = useMemo(
@@ -40,12 +40,26 @@ const QueryTitle = ({ filters, searchInput }) => {
   }, [filterValues, input]);
 
   return (
+    (empty && (
+      <Typography
+        className={styles.queryTitle}
+        color="gray_2"
+        fontFamily="rubik"
+        fontSize={30}
+        fontWeight={500}
+        element="div"
+      >
+        Ah, you are probably looking for
+        <Green>every </Green>
+        job post there is.
+      </Typography>
+    )) ||
     (hasSearched && (
       <Typography
         className={styles.queryTitle}
         color="gray_2"
         fontFamily="rubik"
-        fontSize={36}
+        fontSize={30}
         fontWeight={500}
         element="div"
       >
@@ -58,7 +72,7 @@ const QueryTitle = ({ filters, searchInput }) => {
         className={styles.queryTitle}
         color="gray_2"
         fontFamily="rubik"
-        fontSize={36}
+        fontSize={30}
         fontWeight={500}
         element="div"
       >
