@@ -6,13 +6,13 @@ companyName: "Oddball"
 url: "https://boards.greenhouse.io/oddball/jobs/4295635003"
 applyUrl: "https://boards.greenhouse.io/oddball/jobs/4295635003#app"
 timestamp: 1609113600000
-hashtags: "#reactjs,#aws,#ui/ux,#management,#elasticsearch,#analysis"
+hashtags: "#reactjs,#aws,#elasticsearch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/oddball"
 companyWebsite: "https://boards.greenhouse.io/oddball"
 summary: "To apply as a software architect at Oddball, you preferably need to have 10 years related experience in programming, architecture, systems analysis and project management."
 summaryBackup: "Oddball is looking for a software architect that has experience in: #reactjs, #aws, #ui/ux."
-featured: 20
+featured: 5
 ---
 
 Oddball believes that the best products are built when engineers understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space.
