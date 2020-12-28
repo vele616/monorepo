@@ -1,5 +1,5 @@
 ---
-title: "HTML/CSS Specialist (Contract)"
+title: "HTML/CSS Specialist"
 location: "Remote job"
 host: "https://dockyardinc1.recruitee.com/"
 companyName: "DockYard, Inc."
@@ -7,10 +7,10 @@ url: "https://dockyardinc1.recruitee.com/o/htmlcss-specialist-contract"
 applyUrl: "https://dockyardinc1.recruitee.com/o/htmlcss-specialist-contract/c/new"
 timestamp: 1609113600000
 hashtags: "#css,#html,#ui/ux,#git,#operations,#office,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
-summary: "DockYard, Inc. is looking for a html that has experience with Sketch and Git preferred."
+summary: "DockYard, Inc. is looking for a HTML/CSS specialist that has experience with Sketch and Git."
 summaryBackup: "DockYard, Inc. is looking for a html that has experience in: #css, #html, #ui/ux."
 featured: 20
 ---
