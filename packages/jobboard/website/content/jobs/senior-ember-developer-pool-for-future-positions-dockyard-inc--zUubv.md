@@ -1,12 +1,12 @@
 ---
-title: "Senior Ember Developer  (pool for future positions)"
+title: "Senior Ember Developer"
 location: "Remote job"
 host: "https://dockyardinc1.recruitee.com/"
 companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/senior-ember-developer-pool-for-future-positions"
 applyUrl: "https://dockyardinc1.recruitee.com/o/senior-ember-developer-pool-for-future-positions/c/new"
 timestamp: 1609113600000
-hashtags: "#ui/ux,#rails,#rubylang,#css,#html,#management,#office"
+hashtags: "#rails,#rubylang,#management,#css,#html,#ui/ux,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
