@@ -24,6 +24,7 @@ const Typing = ({
 
     const characterSequence = children.split("");
 
+    // Add incorrect letter on random position
     if (errorChance >= 0 && errorChance <= 1 && children.length >= 6) {
       if (Math.random() > 1 - errorChance) {
         const incorrectLetterPosition =
@@ -43,13 +44,24 @@ const Typing = ({
       }
     }
 
+    // Add 0-3 pauses on random positions
+    if (children.length >= 3) {
+      for (let index = Math.floor(Math.random() * 4); index > 0; index -= 1) {
+        characterSequence.splice(
+          Math.floor(Math.random() * characterSequence.length - 1),
+          0,
+          CHARACTERS.WAIT
+        );
+      }
+    }
+
     const timer = setInterval(() => {
       switch (characterSequence[currentCharacter.current]) {
         case CHARACTERS.BACKSPACE:
           setText((prev) => prev.slice(0, -1));
           break;
         case CHARACTERS.WAIT:
-          return;
+          break;
         default:
           setText((prev) => prev + characterSequence[currentCharacter.current]);
           break;

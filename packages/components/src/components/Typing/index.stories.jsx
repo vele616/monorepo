@@ -40,48 +40,26 @@ Story3.parameters = {
   },
 };
 
-export const Story4 = () => {
+export const Story4 = (args) => {
   return (
     <>
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>A</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>AB</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>ABC</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>ABCD</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>ABCDE</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>ABCDEF</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>ABCDEFG</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>ABCDEFGH</Typing>
       <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
-      <div />
-      <Typing errorChance={1} typingInterval={100}>
-        This component can type slowly!
-      </Typing>
+      <Typing {...args}>This component can type slowly!</Typing>
       <div />
     </>
   );
@@ -93,4 +71,8 @@ Story4.parameters = {
       story: `This story shows multiple typing components, one below another.`,
     },
   },
+};
+Story4.args = {
+  errorChance: 1,
+  typingInterval: 100,
 };
