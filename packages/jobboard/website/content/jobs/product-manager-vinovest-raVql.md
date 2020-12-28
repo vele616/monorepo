@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/product-manager/c/new"
 timestamp: 1609113600000
 hashtags: "#management,#marketing,#productmanagement"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest is searching for a product manager that has 3+ years of experience leading major product initiatives across consumer or direct-to-customer business products."
 summaryBackup: "Excited about #ui/ux, #analytics, #management? Check out this job post!"
