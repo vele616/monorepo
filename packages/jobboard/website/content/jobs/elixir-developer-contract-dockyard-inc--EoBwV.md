@@ -1,18 +1,18 @@
 ---
-title: "Elixir Developer (Contract)"
-location: "Remote job"
+title: "Elixir Developer"
+location: "Remote"
 host: "https://dockyardinc1.recruitee.com/"
 companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/elixir-developer-contract"
 applyUrl: "https://dockyardinc1.recruitee.com/o/elixir-developer-contract/c/new"
 timestamp: 1609113600000
-hashtags: "#ui/ux,#postgresql,#scrum,#office,#English"
-jobType: "other"
+hashtags: "#elixir,#phoenix,#postgresql,#agile,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
-summary: "If you have 1-2 years of production experience with Elixir &amp, DockYard, Inc. is looking for someone with your knowledge."
+summary: "If you have 1-2 years of production experience with Elixir & Phoenix, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "DockYard, Inc. is looking for an elixir developer that has experience in: #ui/ux, #postgresql, #scrum."
-featured: 20
+featured: 18
 ---
 
 ## Job description
