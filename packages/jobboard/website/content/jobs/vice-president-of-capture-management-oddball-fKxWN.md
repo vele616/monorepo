@@ -6,13 +6,13 @@ companyName: "Oddball"
 url: "https://boards.greenhouse.io/oddball/jobs/4275660003"
 applyUrl: "https://boards.greenhouse.io/oddball/jobs/4275660003#app"
 timestamp: 1609113600000
-hashtags: "#windows,#management,#scrum,#analysis,#optimization"
+hashtags: "#management,#scrum,#analysis,#optimization,#windows"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/oddball"
 companyWebsite: "https://boards.greenhouse.io/oddball"
 summary: "If you have 10 years of directly related Business Development and/or Capture experience, Oddball is looking for someone with your skillset."
 summaryBackup: "Love #windows, #management, #scrum? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Oddball believes that the best products are built when teams understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space.
