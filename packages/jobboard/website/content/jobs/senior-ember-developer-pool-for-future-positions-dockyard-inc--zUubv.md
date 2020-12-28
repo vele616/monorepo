@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-i
 companyWebsite: "https://dockyard.com/"
 summary: "If you have experience developing single page applications with Ember, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #rails, #rubylang? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job description
