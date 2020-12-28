@@ -1,18 +1,18 @@
 ---
-title: "Elixir Developer (pool for future positions)"
+title: "Elixir Developer"
 location: "Remote job"
 host: "https://dockyardinc1.recruitee.com/"
 companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/elixir-developer-pool-for-future-positions"
 applyUrl: "https://dockyardinc1.recruitee.com/o/elixir-developer-pool-for-future-positions/c/new"
 timestamp: 1609113600000
-hashtags: "#ui/ux,#management,#postgresql,#office"
+hashtags: "#elixir,#postgresql,#ui/ux,#management,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
-summary: "If you have production experience with Elixir &amp, DockYard, Inc. is looking for someone with your skillset."
+summary: "If you have production experience with Elixir and Phoenix, DockYard, Inc. is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #management, #postgresql? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Job description
