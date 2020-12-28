@@ -6,13 +6,13 @@ companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/senior-business-development-executive"
 applyUrl: "https://dockyardinc1.recruitee.com/o/senior-business-development-executive/c/new"
 timestamp: 1609113600000
-hashtags: "#sales,#ui/ux,#management,#macos,#branding,#marketing,#asana,#crm,#office"
+hashtags: "#sales,#management,#asana,#branding,#marketing,#crm,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
 summary: "Interested in new opportunities and have 4+ years experience in sales and/or delivery of digital product services? DockYard, Inc. has a job opening for a senior business development executive."
 summaryBackup: "To apply as a senior business development executive at DockYard, Inc., you preferably need to have some knowledge of: #sales, #ui/ux, #management."
-featured: 20
+featured: 5
 ---
 
 ## Job description
