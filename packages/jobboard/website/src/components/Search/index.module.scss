@@ -8,6 +8,11 @@ $tabletLandscapeLimit: 800;
 
 .section {
 
+  @include mediaQuery("<=400px") {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
   & > :first-child {
     width: 100%;
   }
@@ -48,9 +53,6 @@ $tabletLandscapeLimit: 800;
   }
 }
 
-
-
-
 .search {
 
   border-radius: 6px;
@@ -63,18 +65,18 @@ $tabletLandscapeLimit: 800;
 
   @include mediaQuery("<tabletPortrait") {
     margin-top: 20px;
+    padding-left: 10px;
   }
 
   @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
     margin-top: 30px;
   }
-
-  @include mediaQuery(">=tabletLandscape", "<desktop") {
-    
-  }
  
   &__button {
-    
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
 
   &__input {
@@ -87,11 +89,9 @@ $tabletLandscapeLimit: 800;
       padding-top: 0.5em;
     }
 
-    @include mediaQuery("<tabletPortrait") {
- 
-    }
     
     @include ellipsis();
+    overflow: visible;
 
     & > :first-child {
      
@@ -102,7 +102,8 @@ $tabletLandscapeLimit: 800;
       }
 
       @include mediaQuery("<tabletPortrait") {
-        @include getFluidFontSize(14, 16);
+        @include getFluidFontSize(14, 14);
+        transform: translateY(-1.2em);
       } 
       
     }
