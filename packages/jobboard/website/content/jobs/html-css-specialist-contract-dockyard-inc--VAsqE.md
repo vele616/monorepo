@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-i
 companyWebsite: "https://dockyard.com/"
 summary: "DockYard, Inc. is looking for a HTML/CSS specialist that has experience with Sketch and Git."
 summaryBackup: "DockYard, Inc. is looking for a html that has experience in: #css, #html, #ui/ux."
-featured: 20
+featured: 11
 ---
 
 ## Job description
