@@ -1,5 +1,23 @@
 {
+  "title": "So glad you’re here!",
+  "subtitle": "What are you looking for?",
+  "searchLabel": "Search by keyboard or filter attributes",
+  "searchButtonText": "YES I AM",
   "filters": [
+    {
+      "id": "experience",
+      "name": "Experience Level",
+      "options": [
+        { 
+          "id": "junior",
+          "value": "Junior"
+        },
+        { 
+          "id": "senior",
+          "value": "Senior"
+        }
+      ]
+    },
     {
       "id": "type",
       "name": "Job Type",
@@ -29,26 +47,16 @@
       ]
     },
     {
-      "id": "experience",
-      "name": "Experience Level",
-      "options": [
-        { 
-          "id": "junior",
-          "value": "Junior"
-        },
-        { 
-          "id": "senior",
-          "value": "Senior"
-        }
-      ]
-    },
-    {
       "id": "skills",
       "name": "Skills",
       "options": [
         { 
-          "id": "One",
-          "value": "Two"
+          "id": "react",
+          "value": "React.js"
+        },
+        { 
+          "id": "node",
+          "value": "Node.js"
         }
       ]
     }
