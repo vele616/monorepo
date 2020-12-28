@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is looking for a nlp engineer that has experience in: #python, #pytorch, #tensorflow."
 summaryBackup: "Excited about #python, #pytorch, #tensorflow? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Job description

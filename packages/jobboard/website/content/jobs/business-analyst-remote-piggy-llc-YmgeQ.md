@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Piggy-llc is looking for a business analyst that has 5+ years of relevant experience."
 summaryBackup: "Piggy-llc is looking for a business analyst that has experience in: #ui/ux, #management, #operations."
 featured: 20
+archived: "true"
 ---
 
 JoinPiggy.com is seeking a dynamic, results-oriented individual to fill a Business Solutions Analyst position to provide and support business applications, requirements documentation, and data management. Business Solutions Analysts are responsible for translating business needs into effective technology solutions and/or process improvements that optimize processes and ensure the business applications continue to serve the company.

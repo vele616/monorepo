@@ -1,5 +1,6 @@
 import React from "react";
 import Button from "./index";
+import Icon from "../Icon";
 
 export default {
   title: "Components/Button",
@@ -44,4 +45,63 @@ Sneaky.parameters = {
 Sneaky.args = {
   variant: "sneaky",
   children: "Sneaky",
+};
+
+export const Pill = (args) => {
+  return (
+    <>
+      <Button style={{ margin: "10px" }} {...args}>
+        Job Type
+      </Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Contract Type
+      </Button>
+      <Button style={{ margin: "10px" }} {...args}>
+        Skills
+      </Button>
+      <Button disabled {...args}>
+        Disabled
+      </Button>
+    </>
+  );
+};
+Pill.parameters = {
+  docs: {
+    description: {
+      story: "",
+    },
+  },
+};
+Pill.args = {
+  variant: "pill",
+};
+
+export const Select = (args) => {
+  return (
+    <>
+      <Button
+        style={{ margin: "10px", display: "flex", alignItems: "center" }}
+        {...args}
+      >
+        Job Type{" "}
+        <Icon
+          style={{ marginLeft: "10px", fontSize: "1.5em" }}
+          icon="chevron-down"
+        />
+      </Button>
+      <Button disabled {...args}>
+        Disabled
+      </Button>
+    </>
+  );
+};
+Select.parameters = {
+  docs: {
+    description: {
+      story: "",
+    },
+  },
+};
+Select.args = {
+  variant: "select",
 };

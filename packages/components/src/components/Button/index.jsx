@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import classnames from "classnames";
 import styles from "./index.module.scss";
-
 /**
  * The Button component represents a graphical control element that gives
  * the user a simple way to trigger an action inside the system.
@@ -28,7 +28,7 @@ const Button = ({
     disabled={disabled}
     type={type}
     onClick={onClick}
-    className={`${className || ""}  ${styles.button} ${styles[variant]}`}
+    className={classnames(className, styles.button, styles[variant])}
   >
     {children}
   </button>
@@ -70,7 +70,7 @@ Button.propTypes = {
    * buttons that appear on the site. By specifying the `variant` property,
    * you specify which style you're using.
    */
-  variant: PropTypes.oneOf(["primary", "secondary", "sneaky"]),
+  variant: PropTypes.oneOf(["primary", "secondary", "sneaky", "pill"]),
   /**
    * Available button types - correspond to the HTML button type attribute values.
    */

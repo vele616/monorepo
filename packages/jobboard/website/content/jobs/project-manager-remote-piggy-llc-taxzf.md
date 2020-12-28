@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Joinpiggy.com is looking for a project manager to work with our development team. The selected candidate can expect to work in a fast-paced environment with a growing company. Working hours will be European business hours."
 summaryBackup: "Love #management, #windows, #jira? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Joinpiggy.com is looking for a project manager to work with our development team. The selected candidate can expect to work in a fast-paced environment with a growing company. Working hours will be European business hours.

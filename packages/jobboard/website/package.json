@@ -54,6 +54,7 @@
     "build:dir": "mkdirp ./public/icons/",
     "build:favicons": "node scripts/favicons",
     "develop": "gatsby develop -p 5000",
+    "develop:social": "IS_SOCIAL=true gatsby develop -p 5000",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",
     "start": "npm run develop",
     "serve": "gatsby serve",

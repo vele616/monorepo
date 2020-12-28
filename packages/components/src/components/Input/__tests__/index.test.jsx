@@ -11,20 +11,25 @@ describe("Input Component", () => {
     const tree = renderer.create(<Input label="Banana" />).toJSON();
     expect(tree).toMatchInlineSnapshot(`
       <div
-        className="input__wrapper empty"
+        className="wrapper empty"
       >
         <label
-          className="input__label"
+          aria-hidden={false}
+          className="label"
         >
           Banana
            
         </label>
-        <input
-          className="  input "
-          disabled={false}
-          onChange={[Function]}
-          placeholder="Banana"
-        />
+        <div
+          className="field includeBorder style__child"
+        >
+          <input
+            className="input"
+            disabled={false}
+            onChange={[Function]}
+            placeholder="Banana"
+          />
+        </div>
       </div>
     `);
   });

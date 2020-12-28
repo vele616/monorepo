@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/adzerk"
 summary: "Adzerk is looking for a lead dev that has 5-10 years experience) to join our growing team! This is a rare opportunity to be our first Dev/Ops Engineer who will own improvements to our existing structure and own our systems moving forward as we scale to our next level of growth!."
 summaryBackup: "To apply as a lead dev at Adzerk, you preferably need to have some knowledge of: #operations, #clojure, #branding."
 featured: 0
+archived: "true"
 ---
 
 ## We want engineers who are passionate about making the internet a better place.

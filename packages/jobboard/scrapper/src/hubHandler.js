@@ -12,10 +12,10 @@ if (process.env.IS_OFFLINE) {
 
 if (process.env.IS_OFFLINE) {
   options = {
-    endpoint: 'http://127.0.0.1:4010',
+    endpoint: "http://127.0.0.1:4010",
     accessKeyId: "YOURKEY",
     secretAccessKey: "YOURSECRET",
-    region: "localhost"
+    region: "localhost",
   };
 }
 
@@ -27,30 +27,37 @@ exports.exec = async () => {
   try {
     const timestamp = new Date().getTime();
 
-    const result = await client.scan(
-      {
+    const result = await client
+      .scan({
         TableName: process.env.HUBS_TABLE,
-        FilterExpression: 'crawledAt < :timestamp',
+        FilterExpression: "crawledAt < :timestamp",
         ExpressionAttributeValues: {
           ":timestamp": timestamp - 24 * 60 * 60 * 1000,
-        }
-      },
-    ).promise();
+        },
+      })
+      .promise();
 
-    const hubs = result.Items.sort((a, b) => a.timestamp - b.timestamp).slice(0, 10).map(t => ({ url: t.url, platform: t.platform }));
+    const hubs = result.Items.sort((a, b) => a.crawledAt - b.crawledAt)
+      .slice(0, 10)
+      .map((t) => ({ url: t.url, platform: t.platform }));
 
     if (hubs.length > 0) {
-
-      await Promise.all(hubs.map(({ url, platform }) => eventBridge.putEvents({
-        Entries: [
-          {
-            EventBusName: 'jobboard',
-            Source: 'hub.crawl',
-            DetailType: 'request',
-            Detail: JSON.stringify({ url, platform }),
-          },
-        ]
-      }).promise()));
+      await Promise.all(
+        hubs.map(({ url, platform }) =>
+          eventBridge
+            .putEvents({
+              Entries: [
+                {
+                  EventBusName: "jobboard",
+                  Source: "hub.crawl",
+                  DetailType: "request",
+                  Detail: JSON.stringify({ url, platform }),
+                },
+              ],
+            })
+            .promise()
+        )
+      );
 
       const requestItems = hubs.map(({ url, platform }) => ({
         PutRequest: {
@@ -59,13 +66,15 @@ exports.exec = async () => {
             platform: platform,
             crawledAt: timestamp,
           },
-        }
-      }));
-      await client.batchWrite({
-        RequestItems: {
-          [process.env.HUBS_TABLE]: requestItems,
         },
-      }).promise();
+      }));
+      await client
+        .batchWrite({
+          RequestItems: {
+            [process.env.HUBS_TABLE]: requestItems,
+          },
+        })
+        .promise();
     }
   } catch (error) {
     console.warn(error);

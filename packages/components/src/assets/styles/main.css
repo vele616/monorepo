@@ -3,6 +3,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+[aria-hidden="true"] {
+  visibility: hidden;
+}
+
 .link {
   font-family: "Rubik", sans-serif;
   color: #85a32a;

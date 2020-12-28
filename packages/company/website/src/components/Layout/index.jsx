@@ -7,13 +7,24 @@ import CrocNav from "../../images/croc-nav.svg";
 import styles from "./index.module.scss";
 import Head from "../Head";
 
-const Layout = ({ children, stickyFooter, pageTitle, scrollToContactUs }) => {
+const Layout = ({
+  children,
+  stickyFooter,
+  pageTitle,
+  scrollToContactUs,
+  scrollToTop,
+}) => {
   return (
     <>
       <Head pageTitle={pageTitle} />
       <Navigation
         Logo={
-          <Link to="/">
+          <Link
+            to="/"
+            onClick={() => {
+              if (scrollToTop) scrollToTop();
+            }}
+          >
             <CrocNav />
           </Link>
         }
@@ -50,7 +61,7 @@ const Layout = ({ children, stickyFooter, pageTitle, scrollToContactUs }) => {
         )}
       </Navigation>
       {children}
-      <Footer sticky={stickyFooter} />
+      <Footer scrollToTop={scrollToTop} sticky={stickyFooter} />
     </>
   );
 };
