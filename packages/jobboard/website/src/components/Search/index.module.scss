@@ -25,11 +25,10 @@ $tabletLandscapeLimit: 800;
   }
 }
 
-
 .queryTitle {
+  max-height: 200px;
+  overflow: auto;
   word-wrap: break-word;
-  min-width: 40%;
-
   @include mediaQuery("<tabletLandscape") {
     display: none;
   }

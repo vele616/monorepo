@@ -29,8 +29,6 @@ const Search = ({
     const defaultQueryFilters = { q: '', filters: {} };
     if (location.search) {
       const { q, ...queryFilters } = querystring.parse(location.search);
-
-      console.log(q);
       defaultQueryFilters.q = q;
 
       Object.entries(queryFilters).map(([key, options]) => {
@@ -47,7 +45,6 @@ const Search = ({
         }
       });
     }
-    console.log(defaultQueryFilters);
     return defaultQueryFilters;
   }, [location]); // TODO: click from outside, or with ref get items // BUG INSIDE SELECT DEFAULT SELECTION
 
