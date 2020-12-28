@@ -6,13 +6,13 @@ companyName: "Oddball"
 url: "https://boards.greenhouse.io/oddball/jobs/4170254003"
 applyUrl: "https://boards.greenhouse.io/oddball/jobs/4170254003#app"
 timestamp: 1609113600000
-hashtags: "#java,#javascript,#reactjs,#angular,#spring,#windows,#aws,#azure,#ui/ux,#management"
+hashtags: "#java,#javascript,#spring,#windows,#aws,#azure,#ui/ux,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/oddball"
 companyWebsite: "https://boards.greenhouse.io/oddball"
 summary: "If you have 5+ years experience in software development using technologies including Spring, SpringBoot, EJBs, Hibernate and JDBC, consider applying to Oddball's job post for a new senior java engineer."
 summaryBackup: "Oddball is looking for a senior java engineer that has experience in: #java, #javascript, #reactjs."
-featured: 20
+featured: 1
 ---
 
 Oddball believes that the best products are built when engineers understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space.
