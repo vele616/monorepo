@@ -2,7 +2,7 @@
 title: "Content Marketer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/4999018002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/4999018002#app"
 timestamp: 1608076800000
@@ -10,8 +10,8 @@ hashtags: "#marketing,#management,#sales,#analytics,#branding,#content,#ui/ux,#g
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Interested in new opportunities and have 4+ years of work experience, preferably in the B2B software industry? Current Job Openings at Netlify has a job opening for a content marketer."
-summaryBackup: "Current Job Openings at Netlify is looking for a content marketer that has experience in: #marketing, #management, #sales."
+summary: "Interested in new opportunities and have 4+ years of work experience, preferably in the B2B software industry? Netlify has a job opening for a content marketer."
+summaryBackup: "Netlify is looking for a content marketer that has experience in: #marketing, #management, #sales."
 featured: 10
 ---
 

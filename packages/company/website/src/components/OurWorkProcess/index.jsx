@@ -1,43 +1,50 @@
-import React, { useState } from "react";
+import React, { useMemo } from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
+import { Typography, Section, Tabs } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
-import { useMemo } from "react";
-import { useCallback } from "react";
 
-const SectionTitle = ({ index, title, onClick, selected }) => {
-  const handleOnClick = useCallback(() => {
-    if (onClick) onClick(index);
-  }, [onClick, index]);
+const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
+  const titles = useMemo(() => {
+    return sections.map(({ title }) => (
+      <Tabs.Tab className={styles.tabs__tabList__tab} key={title}>
+        <Typography
+          className={styles.tabs__title}
+          fontSize={26}
+          fontFamily="rubik"
+          element="div"
+          fontWeight={400}
+        >
+          {title}
+        </Typography>
+      </Tabs.Tab>
+    ));
+  }, [sections]);
 
-  return (
-    <Button
-      variant="sneaky"
-      className={`${styles.sectionTitle} ${selected && styles.selected}`}
-      onClick={handleOnClick}
-    >
-      <Typography
-        fontSize={26}
-        fontFamily="rubik"
-        color="gray_11"
-        element="div"
-        textAlign="center"
-      >
-        <span className={styles.underline}>{title}</span>
-      </Typography>
-    </Button>
-  );
-};
-
-const SectionImage = ({ index, image, title, text, onClick }) => {
-  const handleOnClick = useCallback(() => {
-    if (onClick) onClick(index);
-  }, [onClick, index]);
-
-  return (
-    <>
-      <Button variant="sneaky" className={styles.image} onClick={handleOnClick}>
+  const panels = useMemo(() => {
+    return sections.map(({ title, image, text }) => (
+      <Tabs.Panel className={styles.tabs__panelList__panel} key={text}>
+        <div>
+          <Typography
+            className={styles.descriptionTitle}
+            fontSize={26}
+            fontFamily="rubik"
+            color="gray_2"
+            element="div"
+            fontWeight={700}
+          >
+            {title}
+          </Typography>
+          <Typography
+            className={styles.description}
+            fontSize={18}
+            fontFamily="rubik"
+            color="gray_11"
+            element="div"
+          >
+            <div dangerouslySetInnerHTML={{ __html: text }} />
+          </Typography>
+        </div>
         <Img
           className={styles.image}
           fadeIn={false}
@@ -47,17 +54,25 @@ const SectionImage = ({ index, image, title, text, onClick }) => {
           fluid={image ? image.childImageSharp.fluid : {}}
           alt={title}
         />
-      </Button>
+      </Tabs.Panel>
+    ));
+  }, [sections]);
 
-      <div className={styles.hidden}>
+  return (
+    <>
+      <div
+        key="ref"
+        style={{ position: "relative", top: "-100px" }}
+        ref={ourWorkProcessRef}
+      />
+
+      <Section key="section" className={styles.section} backgroundColor="white">
         <Typography
-          className={styles.subtitle}
-          fontSize={26}
+          className={styles.title}
+          element="h1"
+          fontSize={50}
           fontWeight={700}
-          fontFamily="rubik"
-          color="gray_11"
-          element="div"
-          textAlign="center"
+          color="gray_2"
         >
           {title}
         </Typography>
@@ -70,87 +85,21 @@ const SectionImage = ({ index, image, title, text, onClick }) => {
         >
           <div dangerouslySetInnerHTML={{ __html: text }} />
         </Typography>
-      </div>
+
+        <Tabs className={styles.tabs}>
+          <Tabs.TabList
+            maxUnderlineWidth={250}
+            className={styles.tabs__tabList}
+          >
+            {titles}
+          </Tabs.TabList>
+          <Tabs.PanelList className={styles.tabs__panelList}>
+            {panels}
+          </Tabs.PanelList>
+        </Tabs>
+      </Section>
     </>
   );
-};
-
-const OurWorkProcess = ({ title, text, sections, ourWorkProcessRef }) => {
-  const [selectedIndex, setSelectedIndex] = useState(0);
-
-  const sectionText = useMemo(() => {
-    return sections[selectedIndex] ? sections[selectedIndex].text : "";
-  }, [selectedIndex, sections]);
-
-  const images = useMemo(() => {
-    return sections.map(({ title, image, text }, index) => (
-      <SectionImage
-        onClick={setSelectedIndex}
-        key={title}
-        title={title}
-        image={image}
-        text={text}
-        index={index}
-      />
-    ));
-  }, [sections]);
-
-  const titles = useMemo(() => {
-    return sections.map(({ title }, index) => (
-      <SectionTitle
-        key={title}
-        selected={index === selectedIndex}
-        index={index}
-        title={title}
-        onClick={setSelectedIndex}
-      />
-    ));
-  }, [sections, selectedIndex]);
-
-  return [
-    <div
-      key="ref"
-      style={{ position: "relative", top: "-100px" }}
-      ref={ourWorkProcessRef}
-    />,
-    <Section key="section" className={styles.section} backgroundColor="white">
-      <Typography
-        className={styles.title}
-        element="h1"
-        fontSize={50}
-        fontWeight={700}
-        color="gray_2"
-      >
-        {title}
-      </Typography>
-      <Typography
-        className={styles.paragraph}
-        fontSize={18}
-        fontFamily="rubik"
-        color="gray_11"
-        element="div"
-      >
-        <div dangerouslySetInnerHTML={{ __html: text }} />
-      </Typography>
-
-      <div className={styles.imagesWrapper}>{images}</div>
-      <div className={styles.sectionsWrapper}>
-        <Flexbox justifyContent="space-between">{titles}</Flexbox>
-        <Typography
-          className={styles.description}
-          fontSize={18}
-          fontFamily="rubik"
-          color="gray_11"
-          element="div"
-        >
-          <div
-            key={sectionText}
-            dangerouslySetInnerHTML={{ __html: sectionText }}
-          />
-        </Typography>
-      </div>
-    </Section>,
-  ];
 };
 
 const WithQuery = ({ ourWorkProcessRef }) => (

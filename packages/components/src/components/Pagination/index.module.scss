@@ -1,0 +1,67 @@
+@import '../../styles/main.module.scss';
+
+.pagination {
+  position: relative;
+  display: inline-block;
+
+  &__buttonWrapper {
+    display: inline-block;
+  }
+
+  &__button {
+    background-color: transparent;
+    border: none;
+    border-radius: 100%;
+    cursor: pointer;
+    height: 40px;
+    margin-left: 3px;
+    margin-right: 3px;
+    outline: none;
+    padding: 0px;
+    position: relative;
+    width: 40px;
+    transition: background-color 0.2s ease-in-out;
+
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    -webkit-user-select: none;       
+    user-select: none;
+  }
+
+  &__button:hover {
+    background-color: $blue_6;
+  }
+
+  &__button:focus {
+    background-color: $blue_6;
+  }
+
+  &__underline {
+    background-color: $green_4;
+    border-radius: 10px;
+    height: 2px;
+    position: absolute;
+    top: 35px;
+    transition: left 0.3s ease-in-out;
+    width: 30px;
+  }
+
+  &__controls {
+
+    display: inline-block;
+    visibility: hidden;
+
+    &.visible {
+      visibility: visible;
+    }
+
+    &.hidden {
+      display: none;
+    }
+  }
+
+}
+
+.disabled {
+  background-color: transparent; 
+}

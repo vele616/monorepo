@@ -32,7 +32,7 @@ export default function Home({ location }) {
         },
       });
     }
-  }, []);
+  }, [location]);
 
   return (
     <Layout
