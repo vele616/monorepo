@@ -7,7 +7,7 @@ url: "https://dockyardinc1.recruitee.com/o/elixir-developer-pool-for-future-posi
 applyUrl: "https://dockyardinc1.recruitee.com/o/elixir-developer-pool-for-future-positions/c/new"
 timestamp: 1609113600000
 hashtags: "#elixir,#postgresql,#ui/ux,#management,#office"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
 summary: "If you have production experience with Elixir and Phoenix, DockYard, Inc. is looking for someone with your skillset."
