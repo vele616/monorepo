@@ -1,12 +1,12 @@
 ---
-title: "Account Executive (EMEA)"
+title: "Account Executive"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4204304003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4204304003?t=02952e2a3us#app"
 timestamp: 1609200000000
-hashtags: "#sales,#css,#windows,#crm,#office,#English"
+hashtags: "#sales,#crm,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
