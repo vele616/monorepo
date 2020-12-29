@@ -12,8 +12,12 @@ const JobPost = ({
   companyLogo,
   tags,
   summary,
+  gridElement,
 }) => (
-  <Grid alignItems="center" className={styles.wrapper}>
+  <Grid
+    alignItems="center"
+    className={`${gridElement && styles.gridElement} ${styles.wrapper}`}
+  >
     <CompanyLogo src={companyLogo} className={styles.image} />
     <Card narrow className={styles.card}>
       <Grid className={styles.post__content}>

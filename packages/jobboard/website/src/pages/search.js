@@ -15,11 +15,7 @@ import styles from './index.module.scss';
 import Search from '../components/Search';
 
 const SearchPage = ({ location }) => {
-  return (
-    <Layout>
-      <Search location={location}></Search>
-    </Layout>
-  );
+  return <Layout></Layout>;
 };
 
 export default SearchPage;
