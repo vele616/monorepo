@@ -12,7 +12,7 @@ jobType: "software"
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 4+ years full stack engineering experience, consider applying to Hopin's job post for a new senior full-stack engineer."
 summaryBackup: "To apply as a senior full-stack engineer at Hopin, you preferably need to have some knowledge of: #javascript, #reactjs, #vuejs."
-featured: 20
+featured: 1
 ---
 
 ## The role
