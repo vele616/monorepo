@@ -9,9 +9,11 @@ const CHARACTERS = Object.freeze({
 
 const Typing = ({
   children,
+  continueOnUpdate,
   errorChance = 1,
   typingInterval = 50,
   availableLetters = "abcdefghijklmnopqrstuvwxyz",
+  onFinish,
 }) => {
   const [text, setText] = useState("");
   const currentCharacter = useRef(0);
@@ -19,13 +21,25 @@ const Typing = ({
   useEffect(() => {
     if (!children || typeof children !== "string") return null;
 
-    setText("");
     currentCharacter.current = 0;
 
-    const characterSequence = children.split("");
+    let typedText = children;
+
+    if (continueOnUpdate && text) {
+      if (children.startsWith(text)) {
+        typedText = children.slice(text.length);
+      }
+      if (text.startsWith(children)) {
+        return setText(children);
+      }
+    } else {
+      setText("");
+    }
+
+    const characterSequence = typedText.split("");
 
     // Add incorrect letter on random position
-    if (errorChance >= 0 && errorChance <= 1 && children.length >= 6) {
+    if (errorChance >= 0 && errorChance <= 1 && typedText.length >= 6) {
       if (Math.random() > 1 - errorChance) {
         const incorrectLetterPosition =
           Math.floor(Math.random() * (characterSequence.length - 5)) + 3;
@@ -45,7 +59,7 @@ const Typing = ({
     }
 
     // Add 0-3 pauses on random positions
-    if (children.length >= 3) {
+    if (typedText.length >= 3) {
       for (let index = Math.floor(Math.random() * 4); index > 0; index -= 1) {
         characterSequence.splice(
           Math.floor(Math.random() * characterSequence.length - 1),
@@ -70,11 +84,20 @@ const Typing = ({
       currentCharacter.current += 1;
       if (currentCharacter.current >= characterSequence.length) {
         clearInterval(timer);
+        if (onFinish) onFinish();
       }
     }, typingInterval);
 
     return () => clearInterval(timer);
-  }, [availableLetters, children, errorChance, typingInterval]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [
+    availableLetters,
+    children,
+    errorChance,
+    onFinish,
+    typingInterval,
+    continueOnUpdate,
+  ]);
 
   return text;
 };
@@ -101,6 +124,15 @@ Typing.propTypes = {
    * Interval in miliseconds between each letter.
    */
   typingInterval: PropTypes.number,
+  /**
+   * Callback function that will be called when all text is typed
+   */
+  onFinish: PropTypes.func,
+  /**
+   * If set to true, typing will contitnue if updated text starts the same as old text from
+   * last typed letter. If set to true, it will type from begining each time.
+   */
+  continueOnUpdate: PropTypes.bool,
 };
 
 export default Typing;

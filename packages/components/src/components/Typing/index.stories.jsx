@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useCallback, useState, useMemo } from "react";
 import Typing from "./index";
 
 export default {
@@ -64,7 +64,7 @@ export const Story4 = (args) => {
     </>
   );
 };
-Story4.storyName = "Make errors";
+Story4.storyName = "Bunch of text";
 Story4.parameters = {
   docs: {
     description: {
@@ -75,4 +75,50 @@ Story4.parameters = {
 Story4.args = {
   errorChance: 1,
   typingInterval: 100,
+};
+
+export const Story5 = (args) => {
+  const [text, setText] = useState("We have some");
+
+  const update = useCallback(function* generator() {
+    yield setText((prev) => `${prev} colors that`);
+    yield setText((prev) => `${prev} are`);
+    yield setText((prev) => `${prev} green`);
+    yield setText((prev) => `${prev.slice(0, -5)}`);
+    yield setText((prev) => `${prev} red.`);
+  }, []);
+
+  const generator = useMemo(() => update(), [update]);
+
+  return (
+    <>
+      <strong>Continue typing:</strong>
+      <div>
+        <Typing {...args}>{text}</Typing>
+      </div>
+      <strong>Type from start:</strong>
+      <div>
+        <Typing {...args} continueOnUpdate={false}>
+          {text}
+        </Typing>
+      </div>
+      <div>
+        <button onClick={() => generator.next()}>Update sentence</button>
+      </div>
+    </>
+  );
+};
+Story5.storyName = "Continue typing on update";
+Story5.parameters = {
+  docs: {
+    description: {
+      story: `This story shows that text can be continuously typed. Set 'continueOnUpdate' argument to true
+      for this to work. Top Typing shows continuously typing. Bottom Typing shows default, (start from begginig) typing.`,
+    },
+  },
+};
+Story5.args = {
+  errorChance: 0,
+  typingInterval: 50,
+  continueOnUpdate: true,
 };
