@@ -35,7 +35,7 @@ const ResultList = ({ jobs = [] }) => {
   useEffect(() => {
     let lastWindowY = window.scrollY;
     const scrollHandler = () => {
-      setIsScrollingUp(window.scrollY > lastWindowY);
+      setIsScrollingUp(window.scrollY > 500 && window.scrollY < lastWindowY);
       lastWindowY = window.scrollY;
     };
     window.addEventListener('scroll', scrollHandler);
@@ -99,9 +99,7 @@ const ResultList = ({ jobs = [] }) => {
       </Grid>
       <Button
         onClick={scrollToTop}
-        className={`${styles.floatingButton} ${
-          isScrollingUp && styles.scrollingUp
-        }`}
+        className={`${styles.floatingButton} ${!isScrollingUp && styles.hide}`}
       >
         <Icon icon="chevron-up" />
       </Button>

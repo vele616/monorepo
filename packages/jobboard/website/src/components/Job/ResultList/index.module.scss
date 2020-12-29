@@ -26,7 +26,7 @@ $limitDesktop: 1200;
   width: 50px;
   transition: bottom 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
 
-  &.scrollingUp {
+  &.hide {
     bottom: - 100px;
   }
 
