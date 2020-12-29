@@ -1,0 +1,159 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+$tabletLandscapeLimit: 800;
+
+:export {
+  tabletLandscapeLimit: $tabletLandscapeLimit;
+}
+
+.section {
+
+  @include mediaQuery("<=400px") {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  & > :first-child {
+    width: 100%;
+  }
+
+  &__title {
+    @include mediaQuery("<tabletPortrait") {
+      font-size: 28px !important;
+    }
+  }
+
+  &__subtitle {
+    @include mediaQuery("<tabletPortrait") {
+      font-size: 18px !important;
+    }
+  }
+}
+
+.queryTitle {
+  max-height: 200px;
+  overflow: auto;
+  word-wrap: break-word;
+  @include mediaQuery("<tabletLandscape") {
+    display: none;
+  }
+}
+
+.searchButton {
+  align-self: flex-start !important;
+  margin-left: 40px;
+  max-width: 225px;
+  min-width: 225px;
+  width: 225px;
+
+  @include mediaQuery("<tabletLandscape") {
+    width: 100%;
+    min-width: 100%;
+    margin-left: 0px;
+  }
+}
+
+.search {
+
+  border-radius: 6px;
+  border: 2px solid #424C6D;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  overflow: hidden;
+  padding-left: 20px;
+  position: relative;
+
+  @include mediaQuery("<tabletPortrait") {
+    margin-top: 20px;
+    padding-left: 10px;
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+    margin-top: 30px;
+  }
+ 
+  &__button {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+    &__icon {
+      font-size: 20px !important;
+    }
+  }
+
+  &__input {
+   
+    flex-grow: 1;
+    min-height: 0px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    
+    
+
+    @include ellipsis();
+    overflow: visible;
+
+    & > :first-child {
+     
+      left: 2px;
+      transform: translateY(calc(-0.5em - 7px));
+
+      @include mediaQuery("<tabletPortrait") {
+        @include getFluidFontSize(14, 14);
+        transform: translateY(-1.2em);
+      } 
+      
+    }
+
+    & > :last-child {    
+
+      border: none;
+    
+      &::after {
+        content: none;
+      }
+
+      & > :first-child {
+        width: 100%;
+        font-size: 1em;
+        font-family: inherit;
+      }
+    }
+  }
+}
+
+.filters {
+
+  margin-bottom: 15px;
+ 
+  @include mediaQuery("<tabletPortrait") {
+    justify-content: space-between !important;
+  }
+
+  @include mediaQuery("<500px") {
+    flex-wrap: wrap !important;
+  }
+
+  &__filter {
+    
+    margin-right: 15px;
+    
+    & > :last-child > :first-child {
+      @include getFluidFontSize(12, 16);
+    }
+
+    @include mediaQuery("<500px") {
+      margin-top: 5px;
+      width: 100%;
+    }
+
+    @include mediaQuery("<tabletPortrait") {
+      margin-right: 5px;
+    }
+  }
+
+}
+
+

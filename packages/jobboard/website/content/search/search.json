@@ -1,0 +1,64 @@
+{
+  "title": "So glad you’re here!",
+  "subtitle": "What are you looking for?",
+  "searchLabel": "Search by keyboard or filter attributes",
+  "searchButtonText": "YES I AM",
+  "filters": [
+    {
+      "id": "experience",
+      "name": "Experience Level",
+      "options": [
+        { 
+          "id": "junior",
+          "value": "Junior"
+        },
+        { 
+          "id": "senior",
+          "value": "Senior"
+        }
+      ]
+    },
+    {
+      "id": "type",
+      "name": "Job Type",
+      "options": [
+        { 
+          "id": "content-writer",
+          "value": "Content Writer"
+        },
+        { 
+          "id": "frontend-developer",
+          "value": "Frontend developer"
+        }
+      ]
+    },
+    {
+      "id": "contract",
+      "name": "Contract Type",
+      "options": [
+        { 
+          "id": "part-time",
+          "value": "Part time"
+        },
+        { 
+          "id": "full-time",
+          "value": "Full time"
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "name": "Skills",
+      "options": [
+        { 
+          "id": "react",
+          "value": "React.js"
+        },
+        { 
+          "id": "node",
+          "value": "Node.js"
+        }
+      ]
+    }
+  ]
+}

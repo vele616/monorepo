@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "dependencies": {
-    "@crocoder-dev/components": "0.5.1",
+    "@crocoder-dev/components": "0.6.0",
     "babel-eslint": "10.1.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-jsx-a11y": "6.4.1",
@@ -26,6 +26,7 @@
     "gatsby-transformer-sharp": "2.5.2",
     "node-sass": "4.14.1",
     "prop-types": "15.7.2",
+    "query-string": "^6.13.7",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "^6.0.0",
