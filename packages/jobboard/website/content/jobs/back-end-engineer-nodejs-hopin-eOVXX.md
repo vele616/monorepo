@@ -1,16 +1,16 @@
 ---
-title: "Back End Engineer - NodeJS"
+title: "Node.js Engineer"
 location: "Remote (anywhere)"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4200978003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4200978003?t=02952e2a3us#app"
 timestamp: 1609200000000
-hashtags: "#nodejs,#ui/ux,#aws,#office,#rest,#monitoring"
+hashtags: "#nodejs,#aws,#rest"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "To apply as a back end engineer at Hopin, you preferably need to have 5 years experience in software development, with at least 3 of them designing and working on high-scale environments."
+summary: "To apply as a backend engineer at Hopin, you preferably need to have 5 years experience in software development, with at least 3 of them designing and working on high-scale environments."
 summaryBackup: "Love #nodejs, #ui/ux, #aws? Check out this job post!"
 featured: 20
 ---
