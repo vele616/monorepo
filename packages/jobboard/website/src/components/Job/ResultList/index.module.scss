@@ -29,7 +29,6 @@ $limitDesktop: 1200;
   &.hide {
     bottom: - 100px;
   }
-
 }
 
 .icon {
@@ -42,21 +41,14 @@ $limitDesktop: 1200;
   text-align: center;
 }
 
-.header  {
-  align-items: center;
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 90px;
 
-  @include mediaQuery("<#{$limitTablet}px" ) {
-    padding: 0px;
-    margin-bottom: 20px;
-  }
+.section  {
+  margin-bottom: 20px;
+  overflow: visible;
 
   &__viewControls {
     display: flex;
     justify-content: flex-end;
-    margin-left: 10px;
     min-width: max-content;
     @include mediaQuery("<#{$limitTablet}px") {
       display: none;
@@ -66,6 +58,7 @@ $limitDesktop: 1200;
 
 .resultList {
 
+  padding-top: 0px !important;
   @include sectionPadding("desktop", true);
      
   @include mediaQuery(">=tabletLandscape", "<desktop") {

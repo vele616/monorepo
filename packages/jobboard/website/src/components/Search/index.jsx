@@ -22,18 +22,18 @@ const Search = ({
   searchButtonText,
   filters,
   location,
+  onSearch,
+  className,
 }) => {
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
 
   const queryParams = useMemo(() => {
     const defaultQueryFilters = { q: '', filters: {} };
-    if (location.search) {
+    if (location && location.search) {
       const { q, ...queryFilters } = querystring.parse(location.search);
       defaultQueryFilters.q = q;
-
       Object.entries(queryFilters).map(([key, options]) => {
         const filter = filters.find((filter) => filter.id === key);
-
         if (filter && filter.options && filter.options.length > 0) {
           defaultQueryFilters.filters[key] = [];
           options.split(',').map((id) => {
@@ -44,6 +44,12 @@ const Search = ({
           });
         }
       });
+      if (onSearch) {
+        onSearch({
+          input: defaultQueryFilters.q,
+          filters: defaultQueryFilters.filters,
+        });
+      }
     }
     return defaultQueryFilters;
   }, [location]);
@@ -78,9 +84,11 @@ const Search = ({
     (event) => {
       if (event && event.key && event.key !== 'Enter') return;
       setHistory();
-      // handle search
+      if (onSearch) {
+        onSearch({ input: searchInput, filters: filterSelection });
+      }
     },
-    [setHistory]
+    [setHistory, searchInput, filterSelection]
   );
 
   const handleOnFilterChange = useCallback((selection, id) => {
@@ -123,7 +131,7 @@ const Search = ({
   }, [searchInput, filterSelection]);
 
   return (
-    <Section className={styles.section}>
+    <Section className={`${styles.section} ${className}`}>
       <Typography
         className={styles.section__title}
         color="gray_2"
@@ -181,7 +189,7 @@ const Search = ({
   );
 };
 
-const SearchWithQuery = ({ location }) => {
+const SearchWithQuery = (props) => {
   return (
     <StaticQuery
       query={graphql`
@@ -202,7 +210,7 @@ const SearchWithQuery = ({ location }) => {
           }
         }
       `}
-      render={(data) => <Search location={location} {...data.searchJson} />}
+      render={(data) => <Search {...props} {...data.searchJson} />}
     />
   );
 };

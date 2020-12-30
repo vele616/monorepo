@@ -12,6 +12,7 @@ import {
   Icon,
   Button,
   useDevice,
+  Section,
 } from '@crocoder-dev/components';
 import JobPost from './../Post';
 import styles from './index.module.scss';
@@ -55,12 +56,26 @@ const ResultList = ({ jobs = [] }) => {
   }, [jobs, view]);
 
   const scrollToTop = useCallback(() => {
-    searchRef.current.scrollIntoView({ block: 'start' });
+    searchRef.current.scrollIntoView({ block: 'end', behavior: 'smooth' });
   }, []);
 
+  const jobsCountText = useMemo(() => {
+    if (jobs.length) {
+      return (
+        <>
+          WE FOUND
+          <Typography fontWeight={700}> {jobs.length} </Typography>
+          JOBS THAT MATCH.
+        </>
+      );
+    }
+    return 'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.';
+  }, [jobs.length]);
+
   return (
-    <div className={styles.resultList} ref={searchRef}>
-      <div className={styles.header}>
+    <>
+      <div ref={searchRef} />
+      <Section className={styles.section}>
         <Typography
           color="gray_2"
           fontWeight={300}
@@ -68,42 +83,48 @@ const ResultList = ({ jobs = [] }) => {
           fontFamily="rubik"
           element="span"
         >
-          WE FOUND<Typography fontWeight={700}> {jobs.length || 0} </Typography>
-          JOBS THAT MATCH.
+          {jobsCountText}
         </Typography>
-        <div className={styles.header__viewControls}>
-          <Button
-            variant="sneaky"
-            className={styles.icon}
-            onClick={() => setView(Views.List)}
-          >
-            <Icon fontSize={26} icon="list1" />
-          </Button>
-          <Button
-            variant="sneaky"
-            className={styles.icon}
-            onClick={() => setView(Views.Grid)}
-          >
-            <Icon fontSize={26} icon="apps" />
-          </Button>
-        </div>
+        {(jobs && jobs.length && (
+          <div className={styles.section__viewControls}>
+            <Button
+              variant="sneaky"
+              className={styles.icon}
+              onClick={() => setView(Views.List)}
+            >
+              <Icon fontSize={26} icon="list1" />
+            </Button>
+            <Button
+              variant="sneaky"
+              className={styles.icon}
+              onClick={() => setView(Views.Grid)}
+            >
+              <Icon fontSize={26} icon="apps" />
+            </Button>
+          </div>
+        )) ||
+          ''}
+      </Section>
+      <div className={styles.resultList}>
+        <Grid
+          className={styles.resultList__grid}
+          justifyItems="center"
+          rowGap="30px"
+          columnGap="40px"
+          columns={columns}
+        >
+          {jobPosts}
+        </Grid>
+        <Button
+          onClick={scrollToTop}
+          className={`${styles.floatingButton} ${
+            !isScrollingUp && styles.hide
+          }`}
+        >
+          <Icon icon="chevron-up" />
+        </Button>
       </div>
-      <Grid
-        className={styles.resultList__grid}
-        justifyItems="center"
-        rowGap="30px"
-        columnGap="40px"
-        columns={columns}
-      >
-        {jobPosts}
-      </Grid>
-      <Button
-        onClick={scrollToTop}
-        className={`${styles.floatingButton} ${!isScrollingUp && styles.hide}`}
-      >
-        <Icon icon="chevron-up" />
-      </Button>
-    </div>
+    </>
   );
 };
 

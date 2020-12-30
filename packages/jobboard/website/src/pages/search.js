@@ -1,21 +1,29 @@
 /* eslint-disable react/prop-types */
-import React, { useRef, useCallback } from 'react';
-import '@crocoder-dev/components/lib/main.css';
-import { Link } from 'gatsby';
-import styled from 'styled-components';
-import { DevJobListLimit12, OtherJobListLimit12 } from '../components/Job/List';
-import JobSection from '../components/Job/Section';
-import Hero from '../components/Hero';
-import Banner from '../components/ContactBanner';
-import Newsletter from '../components/Newsletter';
+import React, { useCallback, useState } from 'react';
 import Layout from '../components/Layout';
-import { graphql } from 'gatsby';
-import PostAJob from '../components/PostAJob';
-import styles from './index.module.scss';
 import Search from '../components/Search';
+import SearchResults from '../components/Search/Results';
+import styles from './index.module.scss';
 
 const SearchPage = ({ location }) => {
-  return <Layout></Layout>;
+  const [searchQuery, setSearchQuery] = useState({});
+  const [hasSearched, setHasSearched] = useState(false);
+
+  const handleOnSearch = useCallback((query) => {
+    setHasSearched(true);
+    setSearchQuery(query);
+  }, []);
+
+  return (
+    <Layout pageTitle="search">
+      <Search
+        className={`${!hasSearched && styles.search}`}
+        onSearch={handleOnSearch}
+        location={location}
+      />
+      {hasSearched && <SearchResults searchQuery={searchQuery} />}
+    </Layout>
+  );
 };
 
 export default SearchPage;
