@@ -27,7 +27,7 @@ const SearchResults = ({ index, store, searchQuery }) => {
     if (skills && skills.length > 0) {
     }
 
-    const results = jobsIndex.search(input, [], ['PARTTIME'], []);
+    const results = jobsIndex.search(input, ['JUNIOR', 'SENIOR'], ['FULLTIME'], []);
     return <ResultList jobs={results} />;
   }, [searchQuery]);
 

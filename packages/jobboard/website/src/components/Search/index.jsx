@@ -24,8 +24,11 @@ const Search = ({
   location,
   onSearch,
   className,
+  hashtags,
 }) => {
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
+
+  hashtags.sort();
 
   const queryParams = useMemo(() => {
     const defaultQueryFilters = { q: '', filters: {} };
@@ -190,6 +193,7 @@ const Search = ({
   );
 };
 
+
 const SearchWithQuery = (props) => {
   return (
     <StaticQuery
@@ -209,9 +213,23 @@ const SearchWithQuery = (props) => {
               }
             }
           }
+          allMarkdownRemark {
+            nodes {
+              frontmatter {
+                hashtags
+              }
+            }
+          }
         }
       `}
-      render={(data) => <Search {...props} {...data.searchJson} />}
+      render={
+        (data) => <Search 
+          {...props}
+          {...data.searchJson}
+          hashtags={
+            [...new Set(data.allMarkdownRemark.nodes.flatMap(node => node.frontmatter.hashtags.split(',').splice(0, 3)))]
+          } 
+        />}
     />
   );
 };
