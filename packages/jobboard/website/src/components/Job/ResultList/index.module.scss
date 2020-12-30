@@ -46,6 +46,10 @@ $limitDesktop: 1200;
   margin-bottom: 20px;
   overflow: visible;
   
+  & > :first-child {
+    width: 100%;
+  }
+
   @include mediaQuery("<tabletPortrait") {
     text-align: center;
     & > :first-child > :first-child {

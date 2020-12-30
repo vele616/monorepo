@@ -36,8 +36,15 @@ const ResultList = ({ jobs = [] }) => {
   useEffect(() => {
     let lastWindowY = window.scrollY;
     const scrollHandler = () => {
+      // Set scroll up only if window is low enough
       setIsScrollingUp(window.scrollY > 500 && window.scrollY < lastWindowY);
-      lastWindowY = window.scrollY;
+      // Ignore small changes
+      if (
+        lastWindowY < window.scrollY - 100 ||
+        lastWindowY > window.scrollY + 100
+      ) {
+        lastWindowY = window.scrollY;
+      }
     };
     window.addEventListener('scroll', scrollHandler);
     return () => window.removeEventListener('scroll', scrollHandler);
