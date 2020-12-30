@@ -22,7 +22,25 @@ class SearchIndex {
     this.index.import(index);
   }
 
-  search(query = '', seniority = null, contractType = null, tags = []) {
+  search(query = '', seniority = [], contractType = [], tags = []) {
+    
+
+    const prepareSearchQuery = (query, seniority, contractType) => {
+      if (seniority.length === 0 && contractType.length === 0) {
+        return [query];
+      } else if (contractType.length === 0) {
+        return seniority.map(s => [query, s]);
+      } else if (seniority.length === 0) {
+        return contractType.map(c => [query, null, c]);
+      } else {
+        return seniority.flatMap((s) =>
+          contractType.map((c) => [query, s, c])
+        );
+      }
+    }
+
+    console.log(prepareSearchQuery(query, seniority, contractType));
+    
     const createSearchQuery = (query, seniority, contractType) => {
       const s = searchTerms[seniority];
       const c = searchTerms[contractType];
@@ -60,7 +78,7 @@ class SearchIndex {
         (x) => tags.length === 0 || tags.some((t) => x.hashtags.includes(t))
       );
     }
-    return createSearchQuery(query, seniority, contractType)
+    return prepareSearchQuery(query, seniority, contractType).flatMap(r => createSearchQuery(...r)) 
       .map((q) => this.index.search({ query: q, threshold: 2 }))
       .reduce(mergeSorted)
       .filter((v, i, a) => a.indexOf(v) === i)
