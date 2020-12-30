@@ -68,7 +68,7 @@ $limitDesktop: 1200;
 }
 
 .resultList {
-
+  animation: enter 1.6s ease;
   padding-top: 0px !important;
   @include sectionPadding("desktop", true);
      
@@ -90,5 +90,14 @@ $limitDesktop: 1200;
       margin: 0px;
       width: 100%;
     }
+  }
+}
+
+@keyframes enter{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
   }
 }

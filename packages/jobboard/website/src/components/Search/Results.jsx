@@ -27,7 +27,12 @@ const SearchResults = ({ index, store, searchQuery }) => {
     if (skills && skills.length > 0) {
     }
 
-    const results = jobsIndex.search(input, ['JUNIOR', 'SENIOR'], ['FULLTIME'], []);
+    const results = jobsIndex.search(
+      input,
+      ['JUNIOR', 'SENIOR'],
+      ['FULLTIME'],
+      []
+    );
     return <ResultList jobs={results} />;
   }, [searchQuery]);
 
@@ -35,7 +40,7 @@ const SearchResults = ({ index, store, searchQuery }) => {
     setLoading(false);
   }, [jobs]);
 
-  return <>{loading ? <Loader type="dots" /> : jobs}</>;
+  return jobs;
 };
 
 const SearchWithQuery = ({ searchQuery }) => (
