@@ -51,7 +51,7 @@ const ResultList = ({ jobs = [] }) => {
 
   const jobPosts = useMemo(() => {
     return jobs.map((job) => (
-      <JobPost gridElement={view === Views.Grid} {...job} />
+      <JobPost key={job.slug} gridElement={view === Views.Grid} {...job} />
     ));
   }, [jobs, view]);
 

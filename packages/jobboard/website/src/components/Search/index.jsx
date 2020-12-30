@@ -44,6 +44,7 @@ const Search = ({
           });
         }
       });
+      // TODO: fix bad state issue when new components version arrives
       if (onSearch) {
         onSearch({
           input: defaultQueryFilters.q,

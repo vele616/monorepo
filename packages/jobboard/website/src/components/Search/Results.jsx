@@ -28,20 +28,7 @@ const SearchResults = ({ index, store, searchQuery }) => {
     }
 
     const results = jobsIndex.search(input, null, null, []);
-
-    return (
-      <ResultList
-        jobs={results.map((job) => ({
-          title: job.title,
-          location: job.location,
-          jobUrl: job.slug,
-          tags: job.hashtags,
-          companyLogo: job.logoUrl,
-          companyName: job.companyName,
-          summary: job.summary,
-        }))}
-      />
-    );
+    return <ResultList jobs={results} />;
   }, [searchQuery]);
 
   useEffect(() => {

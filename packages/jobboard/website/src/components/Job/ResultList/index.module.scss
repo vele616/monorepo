@@ -45,6 +45,13 @@ $limitDesktop: 1200;
 .section  {
   margin-bottom: 20px;
   overflow: visible;
+  
+  @include mediaQuery("<tabletPortrait") {
+    text-align: center;
+    & > :first-child > :first-child {
+      @include getFluidFontSize(18, 20);
+    }
+  }
 
   &__viewControls {
     display: flex;
