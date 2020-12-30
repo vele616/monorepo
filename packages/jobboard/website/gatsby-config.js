@@ -67,6 +67,7 @@ module.exports = {
                 hashtags
                 companyName
                 summary
+                logoUrl
               }
               rawMarkdownBody
             }
@@ -82,7 +83,7 @@ module.exports = {
           'body',
           'hashtagsString',
         ],
-        store: ['slug', 'title', 'companyName', 'summary', 'hashtags'],
+        store: ['slug', 'title', 'companyName', 'summary', 'hashtags', 'companyLogo'],
         normalizer: ({ data }) =>
           data.allMarkdownRemark.nodes.map((node) => ({
             id: node.id,
@@ -96,6 +97,7 @@ module.exports = {
               .join(' ')
               .replace(/#/g, ''),
             companyName: node.frontmatter.companyName,
+            companyLogo: node.frontmatter.logoUrl,
             title: node.frontmatter.title,
             body: node.rawMarkdownBody,
           })),
