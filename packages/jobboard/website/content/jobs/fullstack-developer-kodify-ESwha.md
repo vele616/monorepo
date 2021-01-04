@@ -6,7 +6,7 @@ companyName: "Kodify"
 url: "https://kodify.recruitee.com/o/fullstack-developer-barcelona"
 applyUrl: "https://kodify.recruitee.com/o/fullstack-developer-barcelona/c/new"
 timestamp: 1609718400000
-hashtags: "#html,#css,#javascript,#ui/ux,#reactjs,#nodejs,#management,#kubernetes,#docker,#aws"
+hashtags: "#nodejs,#javascript,#mongodb,#reactjs,#management,#kubernetes,#docker,#aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kodify"
 companyWebsite: "https://kodify.io/"
