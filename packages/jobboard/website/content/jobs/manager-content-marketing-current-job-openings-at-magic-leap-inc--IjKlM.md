@@ -2,15 +2,15 @@
 title: "Manager, Content Marketing"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2557706"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2557706#app"
 timestamp: 1609718400000
-hashtags: "#marketing,#management,#ui/ux,#sales,#content,#analysis,#socialmedia,#office,#operations,#photoshop"
+hashtags: "#marketing,#management,#content,#analysis,#socialmedia,#office,#operations,#photoshop"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7-10+ years of experience in marketing, content production and design, with a focus on digital content and broad range of budgets, Current Job Openings at Magic Leap, Inc. is looking for someone with your knowledge."
+summary: "If you have 7-10+ years of experience in marketing, content production and design, with a focus on digital content and broad range of budgets, Magic Leap, Inc. is looking for someone with your knowledge."
 summaryBackup: "To apply as a manager at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #marketing, #management, #ui/ux."
 featured: 20
 ---
