@@ -12,9 +12,3 @@ body {
   scroll-behavior: smooth;
   text-size-adjust: 100%;
 }
-
-.aboutUs {
-  @include mediaQuery(">tabletPortrait"){
-    margin-left: 25% !important;
-  }
-}

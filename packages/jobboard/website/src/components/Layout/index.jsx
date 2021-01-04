@@ -28,8 +28,11 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
           </Link>
         }
       >
+        <Link className={`link`} to="/search">
+          🔎 Search
+        </Link>
         <a
-          className={`${styles.aboutUs} link`}
+          className={`link`}
           rel="noreferrer noopener"
           target="_blank"
           href="https://crocoder.dev/"
