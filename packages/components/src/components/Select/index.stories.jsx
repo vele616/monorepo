@@ -44,7 +44,7 @@ Story2.storyName = "Pills";
 Story2.args = {
   pill: true,
   multiselect: true,
-  confirmChoice: true,
+  confirmChoice: false,
   clear: true,
   title: "Fruit",
   label: "Fruit",

@@ -148,14 +148,14 @@ const Select = ({
       // Don't need to confirm choice,
       // Go ahead and select it
       if (!confirmChoice) {
-        setOpen((prev) => !prev);
+        if (!multiselect) setOpen((prev) => !prev);
         setSelection(value);
         if (onChange) {
           onChange(value);
         }
       }
     },
-    [confirmChoice, onChange]
+    [confirmChoice, multiselect, onChange]
   );
 
   return (
