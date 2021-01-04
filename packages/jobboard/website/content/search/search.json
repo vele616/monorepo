@@ -9,12 +9,20 @@
       "name": "Experience Level",
       "options": [
         { 
-          "id": "junior",
+          "id": "JUNIOR",
           "value": "Junior"
         },
         { 
-          "id": "senior",
+          "id": "SENIOR",
           "value": "Senior"
+        },
+        { 
+          "id": "MID",
+          "value": "Mid"
+        },
+        { 
+          "id": "LEAD",
+          "value": "Lead"
         }
       ]
     },
@@ -37,12 +45,16 @@
       "name": "Contract Type",
       "options": [
         { 
-          "id": "part-time",
+          "id": "PARTTIME",
           "value": "Part time"
         },
         { 
-          "id": "full-time",
+          "id": "FULLTIME",
           "value": "Full time"
+        },
+        { 
+          "id": "CONTRACT",
+          "value": "Contract"
         }
       ]
     },

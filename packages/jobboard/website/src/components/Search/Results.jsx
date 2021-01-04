@@ -13,31 +13,41 @@ const SearchResults = ({ index, store, searchQuery }) => {
   ]);
 
   const jobs = useMemo(() => {
-    setLoading(true);
+    //setLoading(true);
 
     const { input, filters } = searchQuery;
     const { experience, type, contract, skills } = filters || {};
 
+    let experienceIds = [];
+    let typeIds = []; // TODO: where goes type?
+    let contractIds = [];
+    let skillsIds = [];
+
     if (experience && experience.length > 0) {
+      experienceIds = experience.map((e) => e.id);
     }
     if (type && type.length > 0) {
+      typeIds = type.map((t) => t.id);
     }
     if (contract && contract.length > 0) {
+      contractIds = contract.map((c) => c.id);
     }
     if (skills && skills.length > 0) {
+      skillsIds = skills.map((s) => s.id);
     }
 
     const results = jobsIndex.search(
       input,
-      ['JUNIOR', 'SENIOR'],
-      ['FULLTIME'],
-      []
+      experienceIds,
+      contractIds,
+      skillsIds
     );
+
     return <ResultList jobs={results} />;
   }, [searchQuery]);
 
   useEffect(() => {
-    setLoading(false);
+    //setLoading(false);
   }, [jobs]);
 
   return jobs;
