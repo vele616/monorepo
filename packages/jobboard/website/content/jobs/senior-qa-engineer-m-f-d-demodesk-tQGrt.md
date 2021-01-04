@@ -1,17 +1,17 @@
 ---
-title: "Senior QA Engineer (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "Senior QA Engineer"
+location: "Remote"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/8c1a1799-483e-4aad-8d18-f3a3f2d14199"
 applyUrl: "https://jobs.lever.co/demodesk/8c1a1799-483e-4aad-8d18-f3a3f2d14199/apply"
 timestamp: 1609718400000
-hashtags: "#sales,#linux,#content,#ui/ux,#management,#rest,#German,#English"
-jobType: "other"
+hashtags: "#qualityassurance,#linux,#testing,#rest,#German,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "Excited about experience in: #sales, #linux, #content? Check out this job post!"
-summaryBackup: "To apply as a senior qa engineer at Demodesk, you preferably need to have some knowledge of: #sales, #linux, #content."
+summary: "Demodesk is looking for Senior QA Engineer with strong QA experience to test complex backend and data logic as well as Vue.js-based single-page front-end applications."
+summaryBackup: "To apply as a senior qa engineer at Demodesk, you preferably need to have some knowledge of: #linux, #content."
 featured: 20
 ---
 
