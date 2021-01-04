@@ -2,15 +2,15 @@
 title: "Sales Solutions Engineer, EMEA"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2556538"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2556538#app"
 timestamp: 1609718400000
-hashtags: "#sales,#unity,#content,#ui/ux,#management,#optimization"
+hashtags: "#sales,#content,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a sales solutions engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have experience in “rapid prototyping” of scenarios – show what can be done with simple programming that can later turn into more complicated, enterprise."
+summary: "To apply as a sales solutions engineer at Magic Leap, Inc., you preferably need to have experience in “rapid prototyping” of scenarios – show what can be done with simple programming that can later turn into more complicated, enterprise."
 summaryBackup: "Love #sales, #unity, #content? Check out this job post!"
 featured: 20
 ---
