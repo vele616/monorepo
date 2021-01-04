@@ -11,7 +11,7 @@ const Template = (args) => {
     <div>
       <Select {...args}>
         <Select.Option>Banana</Select.Option>
-        <Select.Option>erwer</Select.Option>
+        <Select.Option>Avocado</Select.Option>
       </Select>
     </div>
   );
@@ -25,15 +25,15 @@ const Template1 = (args) => {
     <div>
       <Select {...args}>
         <Select.Option>Banana</Select.Option>
-        <Select.Option>erwer</Select.Option>
+        <Select.Option>Avocado</Select.Option>
       </Select>
       <Select {...args}>
         <Select.Option>Banana</Select.Option>
-        <Select.Option>erwer</Select.Option>
+        <Select.Option>Avocado</Select.Option>
       </Select>
       <Select {...args}>
         <Select.Option>Banana</Select.Option>
-        <Select.Option>erwer</Select.Option>
+        <Select.Option>Avocado</Select.Option>
       </Select>
     </div>
   );
@@ -54,4 +54,25 @@ Story2.argTypes = {
   className: { control: { disable: true } },
   children: { control: { disable: true } },
   pill: { control: { disable: true } },
+};
+
+export const Story4 = (args) => {
+  return (
+    <div>
+      <Select {...args}>
+        <Select.Option id="ban">Banana</Select.Option>
+        <Select.Option id="ana">Avocado</Select.Option>
+      </Select>
+    </div>
+  );
+};
+Story4.storyName = "Defaults";
+Story4.args = {
+  pill: true,
+  multiselect: true,
+  confirmChoice: true,
+  clear: true,
+  defaultSelection: ["ban", "ana"],
+  title: "Fruit",
+  label: "Fruit",
 };
