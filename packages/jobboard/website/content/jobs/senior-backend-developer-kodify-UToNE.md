@@ -6,13 +6,13 @@ companyName: "Kodify"
 url: "https://kodify.recruitee.com/o/senior-backend-developer"
 applyUrl: "https://kodify.recruitee.com/o/senior-backend-developer/c/new"
 timestamp: 1609718400000
-hashtags: "#nodejs,#javascript,#reactjs,#management,#ui/ux,#kubernetes,#docker,#aws,#git,#content"
+hashtags: "#nodejs,#javascript,#mongodb,#management,#ui/ux,#kubernetes,#docker,#aws,#git,#content"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kodify"
 companyWebsite: "https://kodify.io/"
 summary: "Interested in new opportunities and have 3 years, and can show us examples of their work? Kodify has a job opening for a senior backend developer."
 summaryBackup: "To apply as a senior backend developer at Kodify, you preferably need to have some knowledge of: #nodejs, #javascript, #reactjs."
-featured: 20
+featured: 1
 ---
 
 ## Job description
