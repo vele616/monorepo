@@ -2,15 +2,15 @@
 title: "Manager, Partner Marketing"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2557710"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2557710#app"
 timestamp: 1609718400000
-hashtags: "#marketing,#management,#branding,#sales,#office"
+hashtags: "#marketing,#management,#branding,#sales"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Interested in new opportunities and have 7+ years of marketing and communications, with experience in technology? Current Job Openings at Magic Leap, Inc. has a job opening for a manager."
+summary: "Interested in new opportunities and have 7+ years of marketing and communications, with experience in technology? Magic Leap, Inc. has a job opening for a manager."
 summaryBackup: "Love #marketing, #management, #branding? Check out this job post!"
 featured: 20
 ---
