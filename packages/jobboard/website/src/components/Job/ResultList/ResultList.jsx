@@ -58,7 +58,13 @@ const ResultList = ({ jobs = [] }) => {
 
   const jobPosts = useMemo(() => {
     return jobs.map((job) => (
-      <JobPost key={job.slug} gridElement={view === Views.Grid} {...job} />
+      <JobPost
+        key={job.slug}
+        gridElement={view === Views.Grid}
+        jobUrl={job.slug}
+        tags={job.hashtags}
+        {...job}
+      />
     ));
   }, [jobs, view]);
 
@@ -96,6 +102,7 @@ const ResultList = ({ jobs = [] }) => {
           <div className={styles.section__viewControls}>
             <Button
               variant="sneaky"
+              title="List view"
               className={styles.icon}
               onClick={() => setView(Views.List)}
             >
@@ -103,6 +110,7 @@ const ResultList = ({ jobs = [] }) => {
             </Button>
             <Button
               variant="sneaky"
+              title="Grid view"
               className={styles.icon}
               onClick={() => setView(Views.Grid)}
             >
