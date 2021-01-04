@@ -2,15 +2,15 @@
 title: "Manager, Digital Marketing"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2557700"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2557700#app"
 timestamp: 1609718400000
-hashtags: "#marketing,#ui/ux,#management,#analysis,#content,#branding,#sales,#socialmedia,#optimization"
+hashtags: "#marketing,#management,#analysis,#content,#branding,#sales,#socialmedia,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 5+ years experience in digital marketing, Current Job Openings at Magic Leap, Inc. is looking for someone with your skillset."
+summary: "If you have 5+ years experience in digital marketing, Magic Leap, Inc. is looking for someone with your skillset."
 summaryBackup: "To apply as a manager at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #marketing, #ui/ux, #management."
 featured: 20
 ---
