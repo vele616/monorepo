@@ -1,5 +1,5 @@
 ---
-title: "Senior DevOps Engineer (m/f/d)"
+title: "Senior DevOps Engineer"
 location: "RemoteMunich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
@@ -10,7 +10,7 @@ hashtags: "#rubylang,#rails,#golang,#kubernetes,#sales,#terraform,#linux,#aws,#m
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "To apply as a senior devops engineer at Demodesk, you preferably need to have some knowledge of: experience in: #rubylang, #rails, #golang."
+summary: "To apply as a senior devops engineer at Demodesk, you preferably need to have some knowledge of: #rubylang, #rails, #golang."
 summaryBackup: "Excited about #rubylang, #rails, #golang? Check out this job post!"
 featured: 20
 ---
@@ -50,7 +50,7 @@ We are looking for the first DevOps Engineer (m/f/d) to join our team. You will 
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.500) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
 About us
