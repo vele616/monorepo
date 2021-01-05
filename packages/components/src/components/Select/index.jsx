@@ -45,12 +45,25 @@ const Select = ({
   y,
 }) => {
   const [elementId] = useState(id || new Date().getTime().toString());
-  const [open, setOpen] = useState(false);
-  const listfoxRef = useRef();
-  const [selection, setSelection] = useState(defaultSelection);
+  const [open, setOpen] = useState(
+    () => defaultSelection && defaultSelection.length > 0
+  );
+  const listboxRef = useRef();
+  const [selection, setSelection] = useState([]);
+  const [defaultsLoaded, setDefaultsLoaded] = useState(false);
+
+  useEffect(() => {
+    if (defaultSelection && defaultSelection.length > 0 && listboxRef.current) {
+      const defaults = listboxRef.current.getSelectedOptions() || [];
+      if (onChange) onChange(defaults);
+      setSelection(defaults);
+    }
+    setDefaultsLoaded(true);
+    setOpen(false);
+  }, [defaultSelection, onChange]);
 
   const selectedIds = useMemo(() => {
-    if (selection.length > 0) {
+    if (selection && selection.length > 0) {
       return selection.map((item) => item.id);
     }
     return null;
@@ -114,7 +127,7 @@ const Select = ({
   }, [elementId, open]);
 
   const confirmTemporarySelection = useCallback(() => {
-    const currentSelection = listfoxRef.current.getSelectedOptions();
+    const currentSelection = listboxRef.current.getSelectedOptions();
     setSelection(currentSelection);
     setOpen((prev) => !prev);
     const button = document.getElementById(`button-${elementId}`);
@@ -127,7 +140,7 @@ const Select = ({
   }, [onChange, elementId]);
 
   const clearSelection = useCallback(() => {
-    listfoxRef.current.clear();
+    listboxRef.current.clear();
   }, []);
 
   const onListboxChange = useCallback(
@@ -135,14 +148,14 @@ const Select = ({
       // Don't need to confirm choice,
       // Go ahead and select it
       if (!confirmChoice) {
-        setOpen((prev) => !prev);
+        if (!multiselect) setOpen((prev) => !prev);
         setSelection(value);
         if (onChange) {
           onChange(value);
         }
       }
     },
-    [confirmChoice, onChange]
+    [confirmChoice, multiselect, onChange]
   );
 
   return (
@@ -157,7 +170,7 @@ const Select = ({
       removeChildrenStyle={pill}
       removeBottomBorder={pill}
       hideLabel={pill || hideLabel}
-      empty={selection.length === 0 && !open}
+      empty={selection && selection.length === 0 && !open}
       className={classnames(className, styles.select, {
         [styles["select--opened"]]: open,
         [styles.pill]: pill,
@@ -188,14 +201,16 @@ const Select = ({
             <div className={styles.listbox__wrapper}>
               <Listbox
                 ariaHidden={!open}
-                forwardRef={listfoxRef}
+                forwardRef={listboxRef}
                 aria-labelledby={
                   label ? `label-${elementId}` : `title-${elementId}`
                 }
                 id={`listbox-${elementId}`}
                 className={styles.listbox}
                 enableMultiselect={multiselect}
-                defaultSelected={selectedIds}
+                defaultSelected={
+                  defaultsLoaded ? selectedIds : defaultSelection
+                }
                 onChange={!confirmChoice ? onListboxChange : undefined}
               >
                 {children}

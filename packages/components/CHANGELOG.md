@@ -2,6 +2,28 @@
 
 Here you can see what's new added, changed or fixed in which version of our component library.
 
+## 1.0.0
+##### _Jan 5 2021_
+
+**TLDR**: Added several components (Typing, Pagination) and fixed several bugs (mostly style related). Included breaking change of Select component.
+#### Feature
+
+  - **Typing**: added basic component that gets string as children and than displays it by typing letter by letter, with small pauses [PR 570](https://github.com/crocoder-dev/monorepo/pull/570)
+  - **Pagination**: added basic component for pagination. Pagination component can display N sequential numbers, each representing page that can be selected. [PR 544](https://github.com/crocoder-dev/monorepo/pull/544)
+  - **Expose Portal X Y**: Portal component has now exposed X and Y properties. [PR 556](https://github.com/crocoder-dev/monorepo/pull/556)
+  - **Input properties**: Input component now exposes maxLength and defaultValue as props. [PR 606](https://github.com/crocoder-dev/monorepo/pull/606)
+
+#### Bugfix
+
+  - **Pill Button border style**: Pill button has now default border of 1px instead of 2px. Border will change to 2px when focused. [PR 555](https://github.com/crocoder-dev/monorepo/pull/555)
+  - **Input style**: Input has now proper minimum lenght to match Field Layout component. [PR 606](https://github.com/crocoder-dev/monorepo/pull/606)
+  - **Select**: dropdown won't close on option select if multiselection is enabled [PR 607](https://github.com/crocoder-dev/monorepo/pull/607)
+
+#### Breaking changes
+
+  - **Select**: fixed defaultSelection property to be array of ID's instead array of objects. [PR 607](https://github.com/crocoder-dev/monorepo/pull/607)
+
+
 ## 0.6.0
 ##### _Dec 18 2020_
 
