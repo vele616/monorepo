@@ -27,20 +27,6 @@
       ]
     },
     {
-      "id": "type",
-      "name": "Job Type",
-      "options": [
-        { 
-          "id": "content-writer",
-          "value": "Content Writer"
-        },
-        { 
-          "id": "frontend-developer",
-          "value": "Frontend developer"
-        }
-      ]
-    },
-    {
       "id": "contract",
       "name": "Contract Type",
       "options": [
@@ -55,20 +41,6 @@
         { 
           "id": "CONTRACT",
           "value": "Contract"
-        }
-      ]
-    },
-    {
-      "id": "skills",
-      "name": "Skills",
-      "options": [
-        { 
-          "id": "react",
-          "value": "React.js"
-        },
-        { 
-          "id": "node",
-          "value": "Node.js"
         }
       ]
     }
