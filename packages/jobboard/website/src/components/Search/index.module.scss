@@ -8,6 +8,8 @@ $tabletLandscapeLimit: 800;
 
 .section {
 
+  padding-bottom: 20px !important;
+
   @include mediaQuery("<=400px") {
     padding-left: 10px;
     padding-right: 10px;
@@ -31,7 +33,8 @@ $tabletLandscapeLimit: 800;
 }
 
 .queryTitle {
-  max-height: 200px;
+  max-height: 105px;
+  height: 105px;
   overflow: auto;
   word-wrap: break-word;
   @include mediaQuery("<tabletLandscape") {

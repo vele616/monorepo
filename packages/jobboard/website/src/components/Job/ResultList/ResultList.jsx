@@ -72,19 +72,6 @@ const ResultList = ({ jobs = [] }) => {
     searchRef.current.scrollIntoView({ block: 'end', behavior: 'smooth' });
   }, []);
 
-  const jobsCountText = useMemo(() => {
-    if (jobs.length) {
-      return (
-        <>
-          WE FOUND
-          <Typography fontWeight={700}> {jobs.length} </Typography>
-          JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
-        </>
-      );
-    }
-    return 'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.';
-  }, [jobs.length]);
-
   return (
     <>
       <div ref={searchRef} />
@@ -96,7 +83,15 @@ const ResultList = ({ jobs = [] }) => {
           fontFamily="rubik"
           element="span"
         >
-          {jobsCountText}
+          {jobs.length > 0 ? (
+            <>
+              WE FOUND
+              <Typography fontWeight={700}> {jobs.length} </Typography>
+              JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
+            </>
+          ) : (
+            'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.'
+          )}
         </Typography>
         {(jobs && jobs.length && (
           <div className={styles.section__viewControls}>
@@ -120,7 +115,7 @@ const ResultList = ({ jobs = [] }) => {
         )) ||
           ''}
       </Section>
-      <div className={styles.resultList}>
+      <div key={jobs} className={styles.resultList}>
         <Grid
           className={styles.resultList__grid}
           justifyItems="center"
