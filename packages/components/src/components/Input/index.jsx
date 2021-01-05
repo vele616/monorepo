@@ -2,17 +2,18 @@ import React, { useState, useCallback } from "react";
 import PropTypes from "prop-types";
 import FieldLayout from "../FieldLayout";
 import styles from "./index.module.scss";
-
 /**
  * Basic input component of the CroCoder component library
  */
 const Input = ({
   className,
+  defaultValue,
   disabled,
   error,
   errorMessage,
   id,
   label,
+  maxLength,
   onChange,
   required,
   style,
@@ -21,7 +22,7 @@ const Input = ({
   type,
   value,
 }) => {
-  const [empty, setEmpty] = useState(!value);
+  const [empty, setEmpty] = useState(!value && !defaultValue);
 
   const handleChange = useCallback(
     (e) => {
@@ -46,7 +47,9 @@ const Input = ({
         id={id}
         testid={testId}
         title={title}
+        defaultValue={defaultValue}
         disabled={disabled}
+        maxLength={maxLength}
         onChange={handleChange}
         type={type}
         placeholder={label}
@@ -74,6 +77,8 @@ Input.propTypes = {
   errorMessage: PropTypes.string,
   label: PropTypes.string,
   required: PropTypes.bool,
+  maxLength: PropTypes.number,
+  defaultValue: PropTypes.string,
 };
 
 Input.defaultProps = {
