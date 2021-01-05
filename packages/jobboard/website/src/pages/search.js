@@ -16,12 +16,10 @@ const SearchPage = ({ location }) => {
 
   return (
     <Layout pageTitle="search">
-      <Search
-        className={`${!hasSearched && styles.search}`}
-        onSearch={handleOnSearch}
-        location={location}
-      />
-      {hasSearched && <SearchResults searchQuery={searchQuery} />}
+      <div className={styles.search}>
+        <Search onSearch={handleOnSearch} location={location} />
+        {hasSearched && <SearchResults searchQuery={searchQuery} />}
+      </div>
     </Layout>
   );
 };
