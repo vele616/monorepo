@@ -2,7 +2,7 @@
 title: "Events Marketing Manager"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5009377002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5009377002#app"
 timestamp: 1609804800000
@@ -10,7 +10,7 @@ hashtags: "#marketing,#management,#sales,#ui/ux,#windows,#content,#branding,#git
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify is looking for an events marketing manager that has 5+ years of experience managing events, ideally in the technology industry."
+summary: "Netlify is looking for an events marketing manager that has 5+ years of experience managing events, ideally in the technology industry."
 summaryBackup: "To apply as an events marketing manager at Current Job Openings at Netlify, you preferably need to have some knowledge of: #marketing, #management, #sales."
 featured: 20
 ---
