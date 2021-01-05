@@ -1,7 +1,14 @@
 ### [Versions]
 
 Here you can see what's new added, changed or fixed in which version of our component library.
+## 1.0.1
+##### _Jan 5 2021_
 
+**TLDR**: Exported missing Pagination and Typing components.
+#### Bugfix
+
+  - **Exports**: Exported missing Pagination and Typing components.
+  
 ## 1.0.0
 ##### _Jan 5 2021_
 
