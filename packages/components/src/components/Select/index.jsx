@@ -141,6 +141,7 @@ const Select = ({
 
   const clearSelection = useCallback(() => {
     listboxRef.current.clear();
+    setSelection([]);
   }, []);
 
   const onListboxChange = useCallback(
