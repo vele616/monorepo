@@ -2,15 +2,15 @@
 title: "Director / Manager, Enterprise Sales, EMEA Manufacturing"
 location: "London, Switzerland, Belgium or REMOTE"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2564212"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2564212#app"
 timestamp: 1609804800000
-hashtags: "#sales,#marketing,#management,#socialmedia,#crm,#German,#French"
+hashtags: "#German,#French,#sales,#marketing,#management,#socialmedia,#crm"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is searching for a director that has 10 years of sales and/or business development experience, preferably with both Engineering and Business background."
+summary: "Magic Leap, Inc. is searching for a director that has 10 years of sales and/or business development experience, preferably with both Engineering and Business background."
 summaryBackup: "Love #sales, #marketing, #management? Check out this job post!"
 featured: 20
 ---
