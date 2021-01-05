@@ -6,13 +6,13 @@ companyName: "hire-space"
 url: "https://hire-space.breezy.hr/p/a12d0c8653b801-front-end-engineer"
 applyUrl: "https://hire-space.breezy.hr/p/a12d0c8653b801-front-end-engineer/apply"
 timestamp: 1609804800000
-hashtags: "#reactjs,#ui/ux,#javascript,#typescript,#operations,#css,#html,#socialmedia,#git,#management"
+hashtags: "#reactjs,#ui/ux,#javascript,#typescript,#twilio,#css,#html,#webrtc"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hire-space"
 companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
 summary: "If you have have solid experience in React, and are comfortable working with different react design patterns, consider applying to Hire-space's job post for a new front end engineer."
 summaryBackup: "Love #reactjs, #ui/ux, #javascript? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## About Hire Space
