@@ -78,7 +78,7 @@ const ResultList = ({ jobs = [] }) => {
         <>
           WE FOUND
           <Typography fontWeight={700}> {jobs.length} </Typography>
-          JOBS THAT MATCH.
+          JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
         </>
       );
     }
