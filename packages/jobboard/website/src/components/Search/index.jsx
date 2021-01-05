@@ -26,6 +26,7 @@ const Search = ({
   className,
   hashtags,
 }) => {
+  const maxInputLenght = 115;
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
 
   hashtags.sort();
@@ -34,30 +35,16 @@ const Search = ({
     const defaultQueryFilters = { q: '', filters: {} };
     if (location && location.search) {
       const { q, ...queryFilters } = querystring.parse(location.search);
-      defaultQueryFilters.q = q;
+      if (typeof q === 'string')
+        defaultQueryFilters.q = q.slice(0, maxInputLenght);
       Object.entries(queryFilters).map(([key, options]) => {
-        const filter = filters.find((filter) => filter.id === key);
-        if (filter && filter.options && filter.options.length > 0) {
-          defaultQueryFilters.filters[key] = [];
-          options.split(',').map((id) => {
-            const option = filter.options.find((option) => option.id === id);
-            if (option && option.id && option.value) {
-              defaultQueryFilters.filters[key].push(option);
-            }
-          });
-        }
+        defaultQueryFilters.filters[key] = options.split(',') || [];
       });
-      // TODO: fix bad state issue when new components version arrives
-      if (onSearch) {
-        onSearch({
-          input: defaultQueryFilters.q,
-          filters: defaultQueryFilters.filters,
-        });
-      }
     }
     return defaultQueryFilters;
   }, [location]);
 
+  const [empty, setEmpty] = useState(true);
   const [searchInput, setSearchInput] = useState(() => queryParams.q);
   const [filterSelection, setFilterSelection] = useState(
     () => queryParams.filters
@@ -102,30 +89,52 @@ const Search = ({
     }));
   }, []);
 
-  const renderFilters = useCallback(() => {
-    return filters.map(({ id, name, options }) => (
-      <Select
-        defaultSelection={filterSelection[id]}
-        key={id}
-        onChange={(selection) => handleOnFilterChange(selection, id)}
-        className={styles.filters__filter}
-        pill
-        multiselect
-        confirmChoice
-        clear
-        label={name}
-        title={name}
-      >
-        {options.map(({ id, value }) => (
-          <Select.Option key={id} id={id}>
-            {value}
-          </Select.Option>
+  const renderFilters = useMemo(() => {
+    return (
+      <>
+        {filters.map(({ id, name, options }) => (
+          <Select
+            defaultSelection={
+              queryParams && queryParams.filters && queryParams.filters[id]
+            }
+            key={id}
+            onChange={(selection) => handleOnFilterChange(selection, id)}
+            className={styles.filters__filter}
+            pill
+            multiselect
+            clear
+            label={name}
+            title={name}
+          >
+            {options.map(({ id, value }) => (
+              <Select.Option key={id} id={id}>
+                {value}
+              </Select.Option>
+            ))}
+          </Select>
         ))}
-      </Select>
-    ));
-  }, [filters, filterSelection]);
-
-  const [empty, setEmpty] = useState(true);
+        <Select
+          defaultSelection={
+            queryParams && queryParams.filters && queryParams.filters['skills']
+          }
+          key="skills"
+          onChange={(selection) => handleOnFilterChange(selection, 'skills')}
+          className={styles.filters__filter}
+          pill
+          multiselect
+          clear
+          label="Skills"
+          title="Skills"
+        >
+          {hashtags.map((tag) => (
+            <Select.Option key={tag} id={tag}>
+              {typeof tag === 'string' && tag.replace('#', '')}
+            </Select.Option>
+          ))}
+        </Select>
+      </>
+    );
+  }, [filters, queryParams.filters]);
 
   useEffect(() => {
     const anyFilters = Object.values(filterSelection).some(
@@ -160,7 +169,8 @@ const Search = ({
         onKeyDownCapture={handleSearch}
       >
         <Input
-          defaultValue="hello world"
+          maxLength={maxInputLenght}
+          defaultValue={queryParams.q || ''}
           className={styles.search__input}
           label={searchLabel}
           onChange={handleInputChange}
@@ -174,7 +184,7 @@ const Search = ({
           />
         </Button>
       </Flexbox>
-      <Flexbox className={styles.filters}>{renderFilters()}</Flexbox>
+      <Flexbox className={styles.filters}>{renderFilters}</Flexbox>
       <Flexbox alignItems="center" justifyContent="space-between">
         <QueryTitle
           empty={empty}
@@ -192,7 +202,6 @@ const Search = ({
     </Section>
   );
 };
-
 
 const SearchWithQuery = (props) => {
   return (
@@ -222,14 +231,19 @@ const SearchWithQuery = (props) => {
           }
         }
       `}
-      render={
-        (data) => <Search 
+      render={(data) => (
+        <Search
           {...props}
           {...data.searchJson}
-          hashtags={
-            [...new Set(data.allMarkdownRemark.nodes.flatMap(node => node.frontmatter.hashtags.split(',').splice(0, 3)))]
-          } 
-        />}
+          hashtags={[
+            ...new Set(
+              data.allMarkdownRemark.nodes.flatMap((node) =>
+                node.frontmatter.hashtags.split(',').splice(0, 3)
+              )
+            ),
+          ]}
+        />
+      )}
     />
   );
 };
