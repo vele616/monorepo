@@ -39,7 +39,6 @@
   grid-row: 1 / span 1;
   height: auto;
   width: 100%;
-  z-index: 1;
 }
 
 .post__content {
@@ -237,7 +236,6 @@
     display: block;
     height: auto;
     width: 100%;
-    z-index: 1;
     grid-column: 1 / span 1;
     grid-row: 1 / span 1;
   }

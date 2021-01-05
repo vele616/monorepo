@@ -5,9 +5,11 @@ import { useMemo } from 'react';
 import styles from './index.module.scss';
 import Typing from './Typing';
 
-const Green = ({ children = '' }) => (
-  <Typography color="green_4">{` ${children.toLowerCase()}`}</Typography>
-);
+const Green = ({ children = '' }) => {
+  return (
+    <Typography color="green_4">{` ${children.toLowerCase()}`}</Typography>
+  );
+};
 
 const QueryTitle = ({ filters, searchInput, empty }) => {
   const [hasSearched, setHasSearched] = useState(false);
@@ -24,12 +26,18 @@ const QueryTitle = ({ filters, searchInput, empty }) => {
   );
 
   const filterValues = useMemo(() => {
-    return Object.values(filters).map((options, index) => {
+    if (!filters) return;
+
+    const filterArray = Object.values(filters).filter((arr) => arr.length > 0);
+    return filterArray.map((options, index) => {
       if (options && options.length > 0) {
         return (
-          <Green key={index}>
-            {options.map(({ value }) => value).join(' or ')}
-          </Green>
+          <>
+            <Green key={index}>
+              {options.map(({ value }) => value).join(' / ')}
+            </Green>
+            {index < filterArray.length - 1 && ` and`}
+          </>
         );
       }
     });
