@@ -143,7 +143,7 @@ const Search = ({
 
   useEffect(() => {
     // Execute search if there is something in query params on first load
-    if (!onSearch || Object.keys(queryParams.filters).length === 0) return;
+    if (Object.keys(queryParams.filters).length === 0 && !queryParams.q) return;
 
     const searchData = { input: queryParams.q, filters: {} };
     Object.entries(queryParams.filters).map(([filterId, options]) => {
@@ -167,7 +167,7 @@ const Search = ({
         }
       }
     });
-    onSearch(searchData);
+    if (onSearch) onSearch(searchData);
   }, []);
 
   return (
