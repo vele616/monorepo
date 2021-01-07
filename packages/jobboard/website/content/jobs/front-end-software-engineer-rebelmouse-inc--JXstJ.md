@@ -6,7 +6,7 @@ companyName: "RebelMouse, Inc."
 url: "https://careers.rebelmouse.com/o/frontend-software-engineer"
 applyUrl: "https://careers.rebelmouse.com/o/frontend-software-engineer/c/new"
 timestamp: 1609977600000
-hashtags: "#javascript,#css,#html,#ui/ux,#optimization"
+hashtags: "#javascript,#css,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
