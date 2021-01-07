@@ -10,9 +10,9 @@ hashtags: "#management,#spring,#marketing,#css,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
-summary: "Customer.io wishes to hire a new engineering manager. If you have 2,000 USD reimbursement per year to use on conferences, books, classes, or workshops, consider applying."
+summary: "Customer.io wishes to hire a new engineering manager. If you have experience as an engineering manager in the SaaS industry, consider applying."
 summaryBackup: "To apply as an engineering manager at Customer.io, you preferably need to have some knowledge of: #management, #spring, #marketing."
-featured: 20
+featured: 10
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://customer.io).
