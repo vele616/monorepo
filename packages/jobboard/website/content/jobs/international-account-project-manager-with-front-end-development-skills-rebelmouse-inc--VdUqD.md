@@ -1,16 +1,16 @@
 ---
-title: "INTERNATIONAL :  Account/Project Manager with Front End Development Skills"
+title: "Account/Project Manager with Front End Development Skills"
 location: "Remote job"
 host: "https://careers.rebelmouse.com/"
 companyName: "RebelMouse, Inc."
 url: "https://careers.rebelmouse.com/o/international-accountproject-manager-with-front-end-development-skills"
 applyUrl: "https://careers.rebelmouse.com/o/international-accountproject-manager-with-front-end-development-skills/c/new"
 timestamp: 1609977600000
-hashtags: "#css,#html,#windows,#macos,#content,#socialmedia,#analytics,#ui/ux,#management,#photoshop"
+hashtags: "#css,#html,#photoshop"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
-summary: "RebelMouse, Inc. is looking for an international :  account that has 5+ years of relevant experience."
+summary: "RebelMouse, Inc. is looking for an Account/Project Manager with Front End Development Skills that has 5+ years of relevant experience."
 summaryBackup: "RebelMouse, Inc. is looking for an international :  account that has experience in: #css, #html, #windows."
 featured: 20
 ---
