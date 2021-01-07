@@ -6,13 +6,13 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2293143"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2293143#app"
 timestamp: 1609977600000
-hashtags: "#management,#marketing,#spring,#golang,#android,#ios,#content,#ui/ux,#office,#rest"
+hashtags: "#golang,#android,#ios,#management,#marketing,#spring,#content,#ui/ux,#office,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
-summary: "If you have 2,000 USD reimbursement per year to use on conferences, books, classes, or workshops, Customer.io is looking for someone with your skillset."
+summary: "If you have experience shipping code in a production environment on both iOS and Android apps, Customer.io is looking for someone with your skillset."
 summaryBackup: "Love #management, #marketing, #spring? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Hey! Brian from [Customer.io](http://customer.io) here - we're looking for someone with a background in building mobile apps to help us create tools that improve the lives of your fellow app developers.
