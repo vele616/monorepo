@@ -6,7 +6,7 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2438713"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2438713#app"
 timestamp: 1609977600000
-hashtags: "#marketing,#sales,#spring,#css,#management,#office"
+hashtags: "#sales,#marketing,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
