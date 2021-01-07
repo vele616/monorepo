@@ -141,6 +141,19 @@ const Select = ({
 
   const clearSelection = useCallback(() => {
     listboxRef.current.clear();
+    if (!confirmChoice) {
+      let defaultValue;
+      if (!multiselect) {
+        setOpen((prev) => !prev);
+        defaultValue = '';
+      }  else {
+        defaultValue = [];
+      }
+      setSelection(defaultValue);
+      if (onChange) {
+        onChange(defaultValue);
+      }
+    }
   }, []);
 
   const onListboxChange = useCallback(
