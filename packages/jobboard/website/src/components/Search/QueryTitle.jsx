@@ -44,7 +44,8 @@ const QueryTitle = ({ filters, searchInput, empty }) => {
   }, [filters]);
 
   useEffect(() => {
-    if (filterValues.length > 0 || input) setHasSearched(true);
+    if ((filterValues && filterValues.length > 0) || input)
+      setHasSearched(true);
   }, [filterValues, input]);
 
   return (

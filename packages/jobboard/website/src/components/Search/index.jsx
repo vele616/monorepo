@@ -46,9 +46,7 @@ const Search = ({
 
   const [empty, setEmpty] = useState(true);
   const [searchInput, setSearchInput] = useState(() => queryParams.q);
-  const [filterSelection, setFilterSelection] = useState(
-    () => queryParams.filters
-  );
+  const [filterSelection, setFilterSelection] = useState();
 
   const handleInputChange = useCallback((event) => {
     setSearchInput(event.target.value);
@@ -137,11 +135,40 @@ const Search = ({
   }, [filters, queryParams.filters]);
 
   useEffect(() => {
-    const anyFilters = Object.values(filterSelection).some(
+    const anyFilters = Object.values(filterSelection || {}).some(
       (filter) => filter && filter.length > 0
     );
     setEmpty(!searchInput && !anyFilters);
   }, [searchInput, filterSelection]);
+
+  useEffect(() => {
+    // Execute search if there is something in query params on first load
+    if (!onSearch || Object.keys(queryParams.filters).length === 0) return;
+
+    const searchData = { input: queryParams.q, filters: {} };
+    Object.entries(queryParams.filters).map(([filterId, options]) => {
+      // Get only valid skills
+      if (filterId === 'skills' && options && options.length > 0) {
+        const existingSkills = options.filter((opt) =>
+          hashtags.find((tag) => tag === opt)
+        );
+        if (existingSkills && existingSkills.length > 0) {
+          searchData.filters['skills'] = existingSkills;
+        }
+      }
+      // Get valid experiences and valid contract-types
+      const filter = filters.find((f) => f.id === filterId);
+      if (filter && filter.options) {
+        const existingOptions = options.filter((option) =>
+          filter.options.find((o) => o.id === option)
+        );
+        if (existingOptions && existingOptions.length > 0) {
+          searchData.filters[filterId] = existingOptions;
+        }
+      }
+    });
+    onSearch(searchData);
+  }, []);
 
   return (
     <Section className={`${styles.section} ${className}`}>

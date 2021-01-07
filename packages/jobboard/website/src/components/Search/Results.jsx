@@ -19,13 +19,13 @@ const SearchResults = ({ index, store, searchQuery }) => {
     let skillsIds = [];
 
     if (experience && experience.length > 0) {
-      experienceIds = experience.map((e) => e.id);
+      experienceIds = experience.map((e) => e.id || e);
     }
     if (contract && contract.length > 0) {
-      contractIds = contract.map((c) => c.id);
+      contractIds = contract.map((c) => c.id || c);
     }
     if (skills && skills.length > 0) {
-      skillsIds = skills.map((s) => s.id);
+      skillsIds = skills.map((s) => s.id || s);
     }
 
     const results = jobsIndex.search(
