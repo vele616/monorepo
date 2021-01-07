@@ -7,7 +7,7 @@ url: "https://careers.rebelmouse.com/o/senior-python-engineer"
 applyUrl: "https://careers.rebelmouse.com/o/senior-python-engineer/c/new"
 timestamp: 1609977600000
 hashtags: "#python,#wordpress,#analysis"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
 summary: "Interested in new opportunities and have 3+ years of relevant experience? RebelMouse, Inc. has a job opening for a senior python engineer."

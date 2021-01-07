@@ -53,7 +53,7 @@ Soft skills
 
 Hard Skills
 
-*   **2+ years of proven work experience as an Account/Project Manager**
+*   2+ years of proven work experience as an Account/Project Manager
 *   5+ years of experience with HTML5/CSS3
 *   Experience with photoshop, figma etc
 *   3+ years of experience with vanilla js as well as libs and frameworks
