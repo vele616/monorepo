@@ -1,6 +1,16 @@
 ### [Versions]
 
 Here you can see what's new added, changed or fixed in which version of our component library.
+
+# 1.0.2
+
+##### _Jan 7 2021_
+
+**TLDR**: Fixed a bug in Select component.
+#### Bugfix
+
+  - **Exports**: When you call clearSelection and confirmChoice is false now really clears the state of Select component.
+  
 ## 1.0.1
 ##### _Jan 5 2021_
 
