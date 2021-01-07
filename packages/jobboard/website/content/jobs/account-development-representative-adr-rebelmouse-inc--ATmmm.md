@@ -1,12 +1,12 @@
 ---
-title: "Account Development Representative (ADR)"
-location: "Remote job"
+title: "Account Development Representative"
+location: "Remote"
 host: "https://careers.rebelmouse.com/"
 companyName: "RebelMouse, Inc."
 url: "https://careers.rebelmouse.com/o/account-development-representative-adr"
 applyUrl: "https://careers.rebelmouse.com/o/account-development-representative-adr/c/new"
 timestamp: 1609977600000
-hashtags: "#sales,#management,#office,#operations,#socialmedia,#translation,#crm"
+hashtags: "#sales,#management,#crm,#operations,#socialmedia,#translation"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
