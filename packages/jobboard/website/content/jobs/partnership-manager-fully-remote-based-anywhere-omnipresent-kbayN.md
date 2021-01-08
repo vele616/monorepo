@@ -1,5 +1,5 @@
 ---
-title: "Partnership Manager - Fully Remote - Based Anywhere"
+title: "Partnership Manager"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresen
 companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent is searching for a partnership manager that has 5 years in sales, partnerships or business development."
 summaryBackup: "Omnipresent is looking for a partnership manager that has experience in: #marketing, #operations, #sales."
-featured: 20
+featured: 10
 ---
 
 ## Description
