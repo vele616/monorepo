@@ -1,5 +1,5 @@
 ---
-title: "Sales Development Representative - EMEA - Based Anywhere"
+title: "Sales Development Representative"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
