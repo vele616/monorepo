@@ -1,8 +1,8 @@
 ---
-title: "UX Design Specialist - maternity cover"
+title: "UX Design Specialist"
 location: "Remote Worldwide"
 host: "https://sherpany.breezy.hr/?&location=Worldwide#positions"
-companyName: "sherpany"
+companyName: "Sherpany"
 url: "https://sherpany.breezy.hr/p/39f949e1103701-ux-design-specialist-maternity-cover"
 applyUrl: "https://sherpany.breezy.hr/p/39f949e1103701-ux-design-specialist-maternity-cover/apply"
 timestamp: 1610064000000
@@ -12,10 +12,8 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sherpany"
 companyWebsite: "https://www.sherpany.com/en/"
 summary: "To apply as an ux design specialist at Sherpany, you preferably need to have you continuously develop user experiences of all our digital touch points."
 summaryBackup: "Love #management, #macos, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
-
-![](https://gallery-cdn.breezy.hr/c6cae/ben-kolde-430909-unsplash.jpeg)
 
 Sherpany\`s mission is to give back time by turning formal meetings from time-wasters into value-creators. Our team is building a mobile and web based platform that allows effective choice making by digitally transforming meetings and decision making processes. In cutting administrative, organizational and repetitive work Sherpany\`s platform is actively sparing resources like paper, shipping and transportation. Within the next 5 years we aim to give back over 2 Mio. hours of extra time to people making decisions thereby enabling them to focus on value-adding work. Our headquarter is located in Zurich and we have offices in Lisbon, Berlin, Paris, Milan and Wroclaw.
 
@@ -62,4 +60,3 @@ Talent Acquisition Specialist
 
 marc.duny(at)sherpany.com
 
-![](https://gallery-cdn.breezy.hr/193b2/Pic%201.jpg)
