@@ -1,12 +1,12 @@
 ---
-title: "Performance Marketer, Demand Generation Lead - USA OR EMEA - Fully Remote - Based Anywhere"
+title: "Performance Marketer, Demand Generation Lead"
 location: "United States"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/CB28563591/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/CB28563591/apply/"
 timestamp: 1610064000000
-hashtags: "#marketing,#ui/ux,#management,#socialmedia,#content,#analysis,#sales,#photoshop,#figma,#office"
+hashtags: "#marketing,#management,#socialmedia,#content,#analysis,#sales,#photoshop,#figma,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
