@@ -21,7 +21,7 @@ exports.exec = async () => {
     const result = await client.scan(
       {
         TableName: process.env.URLS_TABLE,
-        FilterExpression: 'createdAt > :timestamp AND published = :published OR archivedAt > :archivedAt',
+        FilterExpression: 'createdAt > :timestamp AND published = :published AND attribute_exists(jobPostFilename) OR archivedAt > :archivedAt',
         ExpressionAttributeValues: {
           ':timestamp': timestamp - timeframe,
           ':published': false,
