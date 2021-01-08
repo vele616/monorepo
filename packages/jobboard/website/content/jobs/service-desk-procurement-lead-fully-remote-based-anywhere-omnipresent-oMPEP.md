@@ -1,5 +1,5 @@
 ---
-title: "Service Desk & Procurement Lead - Fully Remote - Based Anywhere"
+title: "Service Desk & Procurement Lead"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
