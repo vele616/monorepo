@@ -1,5 +1,5 @@
 ---
-title: "Technical SEO Webflow and Web Developer -"
+title: "Technical SEO Webflow and Web Developer"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
