@@ -1,13 +1,13 @@
 ---
-title: "Data Protection & IT Security Analyst - Fully Remote - Based Anywhere"
+title: "Data Protection & IT Security Analyst"
 location: "Germany"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/9B67AB8B52/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/9B67AB8B52/apply/"
 timestamp: 1610064000000
-hashtags: "#operations,#ui/ux,#management,#analysis,#marketing,#socialmedia"
-jobType: "other"
+hashtags: "#operations,#management,#analysis,#marketing,#socialmedia"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
 summary: "If you have in addition to your experience with security matters, you’re naturally curious, customer oriented, and easily discover ways to simplify and improve how security operations function and how effective technologies can be utilised for real impact, Omnipresent has a job opening for a data protection & it security analyst"
