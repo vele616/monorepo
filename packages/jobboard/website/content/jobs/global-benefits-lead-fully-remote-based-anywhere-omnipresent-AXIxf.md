@@ -1,5 +1,5 @@
 ---
-title: "Global Benefits Lead - Fully Remote - Based anywhere"
+title: "Global Benefits Lead"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
