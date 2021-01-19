@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary
 companyWebsite: "http://www.redcanary.com/"
 summary: "If you have 7+ years closing experience in a B2B technical sale, preferably in the information security industry, consider applying to Red Canary's job post for a new regional sales director."
 summaryBackup: "Excited about #sales, #management, #office? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **Why Red Canary**
