@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/13997cbd-1783-4abc-997c-c08c5b85af65"
 applyUrl: "https://jobs.lever.co/redcanary/13997cbd-1783-4abc-997c-c08c5b85af65/apply"
 timestamp: 1611014400000
-hashtags: "#sales,#python,#rubylang,#css,#windows,#linux,#marketing,#elasticsearch"
-jobType: "software"
+hashtags: "#sales,#marketing,#windows,#linux,#python,#rubylang,#css,#elasticsearch"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary intends to hire a new sales engineer. If you have line and are comfortable with configuring systems, troubleshooting, and interacting with scripts or have experience with scripting languages like Python, PowerShell, Ruby, etc, consider applying."
+summary: "Red Canary intends to hire a new sales engineer. If you demonstrate a firm understanding of primary security tenants and is familiar with fundamental cloud infrastructure concepts or have experience with scripting languages like Python, PowerShell, Ruby, etc, consider applying."
 summaryBackup: "Excited about #sales, #python, #rubylang? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 **Why Red Canary**
