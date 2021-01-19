@@ -15,11 +15,11 @@ summaryBackup: "Excited about #marketing, #sales, #management? Check out this jo
 featured: 20
 ---
 
-Why Red Canary
+## Why Red Canary
 
 Red Canary was founded to create a world where every organization can make its greatest impact without fear of cyber attack. Our combination of market-defining technology, processes, and expertise is preventing breaches every day.  We are completely changing the way security is delivered and setting the new standard for security vendors. We are passionate. We have big goals. And we are looking for the best people to join us.
 
-How you will contribute
+## How you will contribute
 
 We are currently hiring for a head of product marketing. Reporting to the CMO, you will lead our small but influential product marketing team. This is a critical leadership role that will help drive affection for and usage of our products through thought-provoking, inspirational stories and marketing programs.
 
