@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary
 companyWebsite: "http://www.redcanary.com/"
 summary: "To apply as a senior sales engineer at Red Canary, you preferably need to have line and are comfortable with configuring systems, troubleshooting, and interacting with scripts or have experience with scripting languages like Python, PowerShell, Ruby, etc."
 summaryBackup: "Love #sales, #python, #rubylang? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **Why Red Canary**
