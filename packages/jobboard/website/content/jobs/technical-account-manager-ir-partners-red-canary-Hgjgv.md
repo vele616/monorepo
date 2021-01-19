@@ -1,18 +1,18 @@
 ---
-title: "Technical Account Manager, IR Partners"
+title: "Technical Account Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/4ccc0126-f855-4f8f-8b19-9305e97a0798"
 applyUrl: "https://jobs.lever.co/redcanary/4ccc0126-f855-4f8f-8b19-9305e97a0798/apply"
 timestamp: 1611014400000
-hashtags: "#operations,#marketing,#css,#ui/ux,#management,#sales,#analysis"
+hashtags: "#operations,#management,#analysis,#marketing,#css,#ui/ux,#sales"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is searching for a technical account manager that has experience working in a Security Operations Center."
 summaryBackup: "Love #operations, #marketing, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **Who You Are**
