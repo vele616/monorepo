@@ -6,7 +6,7 @@ companyName: "Leadfeeder"
 url: "https://apply.workable.com/leadfeeder/j/C67272F373/"
 applyUrl: "https://apply.workable.com/leadfeeder/j/C67272F373/apply/"
 timestamp: 1611014400000
-hashtags: "#css,#javascript,#html,#marketing,#sales,#branding,#management,#office,#analysis,#German"
+hashtags: "#English,#css,#javascript,#html,#marketing,#sales,#branding,#management,#office,#analysis,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder"
 companyWebsite: "https://www.leadfeeder.com/"
