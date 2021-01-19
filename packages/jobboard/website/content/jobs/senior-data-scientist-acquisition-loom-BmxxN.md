@@ -51,33 +51,33 @@ We have rich, complex datasets and our team performs a wide variety of analytica
 
 **Perks at Loom:**
 
-\* Competitive compensation and equity package
+* Competitive compensation and equity package
 
-\* 99% company paid medical, dental, and vision coverage for employees and dependents (for US employees)
+* 99% company paid medical, dental, and vision coverage for employees and dependents (for US employees)
 
-\* Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)
+* Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)
 
-\* Healthcare reimbursement (for International employees) 
+* Healthcare reimbursement (for International employees) 
 
-\* Life, AD&D, Short and Long Term Disability Insurance
+* Life, AD&D, Short and Long Term Disability Insurance
 
-\* Long-term disability insurance
+* Long-term disability insurance
 
-\* 401(k) with 4% company matching
+* 401(k) with 4% company matching
 
-\* Professional development reimbursement
+* Professional development reimbursement
 
-\* Mental health and wellness reimbursement
+* Mental health and wellness reimbursement
 
-\* Gym reimbursement
+* Gym reimbursement
 
-\* Unlimited PTO 
+* Unlimited PTO 
 
-\* Paid parental leave
+* Paid parental leave
 
-\* Remote work opportunities 
+* Remote work opportunities 
 
-\* Home office & technology reimbursement
+* Home office & technology reimbursement
 
 **Loom = Equal Opportunity Employer:**
 
