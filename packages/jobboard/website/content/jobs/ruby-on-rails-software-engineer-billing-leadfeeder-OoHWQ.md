@@ -1,5 +1,5 @@
 ---
-title: "Ruby on Rails Software Engineer - Billing"
+title: "Software Engineer"
 location: "Prague, Prague, Czechia"
 host: "https://apply.workable.com/leadfeeder/"
 companyName: "Leadfeeder"
@@ -10,7 +10,7 @@ hashtags: "#rails,#rubylang,#aws,#management,#sales,#css,#terraform,#kubernetes,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder"
 companyWebsite: "https://www.leadfeeder.com/"
-summary: "If you have 2+ years work experience writing maintainable and well-tested Ruby on Rails apps, Leadfeeder has a job opening for a ruby on rails software engineer"
+summary: "If you have 2+ years work experience writing maintainable and well-tested Ruby on Rails apps, Leadfeeder has a job opening for a Ruby on Rails Software Engineer"
 summaryBackup: "Love #rails, #rubylang, #aws? Check out this job post!"
 featured: 20
 ---
