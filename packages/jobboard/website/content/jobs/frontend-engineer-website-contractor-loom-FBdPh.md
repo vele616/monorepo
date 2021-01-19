@@ -1,18 +1,18 @@
 ---
-title: "Frontend Engineer - Website Contractor"
+title: "Frontend Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/useloom/?location=Remote&department=Loom%20Team&team=Engineering"
 companyName: "Loom"
 url: "https://jobs.lever.co/useloom/0fc9724d-1a5d-4c26-a274-7008f9306548"
 applyUrl: "https://jobs.lever.co/useloom/0fc9724d-1a5d-4c26-a274-7008f9306548/apply"
 timestamp: 1611014400000
-hashtags: "#css,#marketing,#content,#ui/ux,#reactjs,#html,#analytics,#management,#figma,#analysis"
-jobType: "other"
+hashtags: "#reactjs,#html,#css,#marketing,#content,#ui/ux,#analytics,#management,#figma,#analysis"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/loom"
 companyWebsite: "https://www.loom.com/"
 summary: "Loom is looking for a frontend engineer that has 2+ years of professional working experience."
 summaryBackup: "Excited about #css, #marketing, #content? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 **About Loom:**
