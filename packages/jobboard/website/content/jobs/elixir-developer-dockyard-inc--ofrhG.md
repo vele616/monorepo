@@ -6,13 +6,13 @@ companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/elixir-developer-boston"
 applyUrl: "https://dockyardinc1.recruitee.com/o/elixir-developer-boston/c/new"
 timestamp: 1611014400000
-hashtags: "#ui/ux,#management,#postgresql,#office"
-jobType: "other"
+hashtags: "#elixir,#postgresql,#office,#ui/ux,#management"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
-summary: "If you have production experience with Elixir &amp, DockYard, Inc. is looking for someone with your knowledge."
+summary: "If you have production experience with Elixir, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "DockYard, Inc. is looking for an elixir developer that has experience in: #ui/ux, #management, #postgresql."
-featured: 20
+featured: 12
 ---
 
 ## Job description
