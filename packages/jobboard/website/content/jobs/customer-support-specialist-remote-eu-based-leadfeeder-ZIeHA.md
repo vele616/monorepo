@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Specialist (remote, EU-based)"
+title: "Customer Support Specialist"
 location: "Lisbon, Lisbon, Portugal"
 host: "https://apply.workable.com/leadfeeder/"
 companyName: "Leadfeeder"
 url: "https://apply.workable.com/leadfeeder/j/C67272F373/"
 applyUrl: "https://apply.workable.com/leadfeeder/j/C67272F373/apply/"
 timestamp: 1611014400000
-hashtags: "#css,#marketing,#sales,#javascript,#html,#branding,#management,#office,#analysis,#German"
+hashtags: "#css,#javascript,#html,#marketing,#sales,#branding,#management,#office,#analysis,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder"
 companyWebsite: "https://www.leadfeeder.com/"
-summary: "If you have 1-2 years of relevant work experience in, consider applying to Leadfeeder's job post for a new customer support specialist."
+summary: "If you have 1-2 years of relevant work experience in technical support, consider applying to Leadfeeder's job post for a new customer support specialist."
 summaryBackup: "To apply as a customer support specialist at Leadfeeder, you preferably need to have some knowledge of: #css, #marketing, #sales."
-featured: 20
+featured: 5
 ---
 
 ## Description
