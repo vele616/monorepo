@@ -6,13 +6,13 @@ companyName: "Help Scout"
 url: "https://jobs.lever.co/helpscout/6e63ff7c-6fd4-4901-b29b-5a67a2dc27f8"
 applyUrl: "https://jobs.lever.co/helpscout/6e63ff7c-6fd4-4901-b29b-5a67a2dc27f8/apply"
 timestamp: 1611014400000
-hashtags: "#management,#ui/ux,#marketing,#finance,#office,#optimization"
+hashtags: "#management,#office,#optimization,#ui/ux,#marketing,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/help-scout"
 companyWebsite: "http://www.helpscout.com/"
-summary: "To apply as a senior engineering manager at Help Scout, you preferably need to have 4 years, you get a month of paid vacation."
+summary: "To apply as a senior engineering manager at Help Scout, you preferably need to be passionate about leading, mentoring, and coaching people to accomplish great things."
 summaryBackup: "To apply as a senior engineering manager at Help Scout, you preferably need to have some knowledge of: #management, #ui/ux, #marketing."
-featured: 20
+featured: 17
 ---
 
 “Your role as a manager is not to do the work yourself, even if you are the best at it, because that will only take you so far. Your role is to improve the purpose, people, and process of your team to get as high a multiplier effect on your collective outcome as you can.”
@@ -53,7 +53,7 @@ Engineers on your team(s) will be members of cross-functional groups that are wo
 *   You believe diverse teams are critical for high performance and understand the value of fostering an inclusive environment for your team to thrive. You understand the important impact you can have as a coach on DEI efforts in hiring and promoting team members.
 *   You believe remote teams are the future of work, and have experience working with remote teams or can adjust your work/management style to be remote-friendly.
 
-Benefits
+## Benefits
 
 **Competitive salary** - Our salary formula is public to all employees (but doesn't divulge your specific salary) and we update it at least once per year. Your salary is the same no matter where you live. Our goal is to pay at or above the market rate of a US-based tech hub like Boston or Seattle.
 
