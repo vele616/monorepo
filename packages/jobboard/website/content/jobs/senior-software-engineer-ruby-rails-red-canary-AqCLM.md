@@ -1,12 +1,12 @@
 ---
-title: "Senior Software Engineer, Ruby/Rails"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/b10694b8-c346-491c-b351-914e2991ad17"
 applyUrl: "https://jobs.lever.co/redcanary/b10694b8-c346-491c-b351-914e2991ad17/apply"
 timestamp: 1611014400000
-hashtags: "#rails,#rubylang,#operations,#reactjs,#css,#postgresql,#docker,#aws,#ui/ux,#marketing"
+hashtags: "#rails,#rubylang,#reactjs,#operations,#css,#postgresql,#docker,#aws,#ui/ux,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
