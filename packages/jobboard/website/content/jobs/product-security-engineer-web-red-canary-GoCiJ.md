@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/redcanary/dd375df8-db9c-433b-a7f7-d8887fa16d27"
 applyUrl: "https://jobs.lever.co/redcanary/dd375df8-db9c-433b-a7f7-d8887fa16d27/apply"
 timestamp: 1611014400000
 hashtags: "#rubylang,#javascript,#golang,#rails,#management,#aws,#office,#operations,#analysis,#ui/ux"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "If you have experience with industry tools and technologies such as Burp Suite, etc, Red Canary is looking for someone with your skillset."
