@@ -7,7 +7,7 @@ url: "https://dockyardinc1.recruitee.com/o/htmlcss-specialist-boston"
 applyUrl: "https://dockyardinc1.recruitee.com/o/htmlcss-specialist-boston/c/new"
 timestamp: 1611014400000
 hashtags: "#css,#html,#git,#operations,#office,#ui/ux,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
 summary: "DockYard, Inc. is searching for a html that has experience with Sketch and Git preferred."
