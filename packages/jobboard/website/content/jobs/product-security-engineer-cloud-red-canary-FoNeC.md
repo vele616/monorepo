@@ -1,18 +1,18 @@
 ---
-title: "Product Security Engineer, Cloud"
+title: "Product Security Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/76450b30-7239-4db3-8119-85a380b3f847"
 applyUrl: "https://jobs.lever.co/redcanary/76450b30-7239-4db3-8119-85a380b3f847/apply"
 timestamp: 1611014400000
-hashtags: "#ui/ux,#python,#golang,#rubylang,#operations,#kubernetes,#docker,#aws,#azure,#office"
+hashtags: "#python,#golang,#kubernetes,#rubylang,#operations,#docker,#aws,#azure,#ui/ux,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "If you have strong experience with the security nuances involved with distributed Cloud computing, including standards and best practices, Red Canary is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #python, #golang? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 **Why Red Canary**
