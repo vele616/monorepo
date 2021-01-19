@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/00300232-757e-4216-b6a9-5e4235c26342"
 applyUrl: "https://jobs.lever.co/redcanary/00300232-757e-4216-b6a9-5e4235c26342/apply"
 timestamp: 1611014400000
-hashtags: "#operations,#management,#css,#terraform,#kubernetes,#aws,#marketing,#monitoring,#analysis"
+hashtags: "#terraform,#kubernetes,#aws,#operations,#management,#css,#marketing,#monitoring,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary wishes to hire a new senior production engineer. If you have you use your skills and experience to address production impacts, either directly or through/with your team members, consider applying."
+summary: "Red Canary wishes to hire a new senior production engineer. If you use your skills and experience to address production impacts, either directly or through/with your team members, consider applying."
 summaryBackup: "To apply as a senior production engineer at Red Canary, you preferably need to have some knowledge of: #operations, #management, #css."
-featured: 20
+featured: 15
 ---
 
 **Why Red Canary**
