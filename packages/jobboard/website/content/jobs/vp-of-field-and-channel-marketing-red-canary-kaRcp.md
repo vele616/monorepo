@@ -6,20 +6,20 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/7b2e8af9-0899-4fda-a531-0798955d9153"
 applyUrl: "https://jobs.lever.co/redcanary/7b2e8af9-0899-4fda-a531-0798955d9153/apply"
 timestamp: 1611014400000
-hashtags: "#marketing,#sales,#windows,#ui/ux,#management,#content,#rest,#monitoring,#optimization"
+hashtags: "#marketing,#sales,#management,#windows,#ui/ux,#content,#rest,#monitoring,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary is looking for a vp of field and channel marketing that has demonstrable experience partnering with the sales team, providing marketing expertise to help them achieve their revenue goals versus administrative sales support."
+summary: "Red Canary is looking for a VP of Field and Channel Marketing that has demonstrable experience partnering with the sales team, providing marketing expertise to help them achieve their revenue goals versus administrative sales support."
 summaryBackup: "Red Canary is looking for a vp of field and channel marketing that has experience in: #marketing, #sales, #windows."
-featured: 20
+featured: 13
 ---
 
-Why Red Canary
+## Why Red Canary
 
 Red Canary was founded to create a world where every organization can make its greatest impact without fear of cyber attack. Our combination of market-defining technology, processes, and expertise is preventing breaches every day. We are completely changing the way security is delivered and setting the new standard for security vendors. We are passionate. We have big goals. And we are looking for the best people to join us.
 
-How you will contribute 
+## How you will contribute 
 
 Red Canary is hiring a field and channel marketing leader with deep expertise in global field marketing, channel marketing, and global events teams, reporting directly to the Chief Marketing Officer. This role encompasses regional marketing worldwide, and in the future the US Federal regions, channel and technology alliances partner marketing, and global customer, industry, and internal events.
 
