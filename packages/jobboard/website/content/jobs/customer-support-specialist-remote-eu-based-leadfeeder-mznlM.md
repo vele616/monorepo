@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Specialist (remote, EU-based)"
+title: "Customer Support Specialist"
 location: "Utrecht, Utrecht, Netherlands"
 host: "https://apply.workable.com/leadfeeder/"
 companyName: "Leadfeeder"
 url: "https://apply.workable.com/leadfeeder/j/1F7E689C43/"
 applyUrl: "https://apply.workable.com/leadfeeder/j/1F7E689C43/apply/"
 timestamp: 1611014400000
-hashtags: "#css,#marketing,#sales,#javascript,#html,#branding,#management,#office,#analysis,#German"
+hashtags: "#English,#German,#marketing,#css,#sales,#javascript,#html,#branding,#management,#office,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder"
 companyWebsite: "https://www.leadfeeder.com/"
-summary: "If you have 1-2 years of relevant work experience in, consider applying to Leadfeeder's job post for a new customer support specialist."
+summary: "If you have 1-2 years of relevant work experience in technical support, consider applying to Leadfeeder's job post for a new customer support specialist."
 summaryBackup: "Leadfeeder is looking for a customer support specialist that has experience in: #css, #marketing, #sales."
-featured: 20
+featured: 10
 ---
 
 ## Description
