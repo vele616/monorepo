@@ -1,12 +1,12 @@
 ---
-title: "Senior Data Scientist, Acquisition"
+title: "Senior Data Scientist"
 location: "Remote"
 host: "https://jobs.lever.co/useloom/?location=Remote&department=Loom%20Team&team=Engineering"
 companyName: "Loom"
 url: "https://jobs.lever.co/useloom/fa1a8152-fd9e-41a4-88e1-7ef2f0510156"
 applyUrl: "https://jobs.lever.co/useloom/fa1a8152-fd9e-41a4-88e1-7ef2f0510156/apply"
 timestamp: 1611014400000
-hashtags: "#marketing,#sales,#python,#analysis,#analytics,#ui/ux,#postgresql,#figma,#optimization,#rest"
+hashtags: "#python,#analytics,#postgresql,#analysis,#ui/ux,#figma,#optimization,#marketing,#sales,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/loom"
 companyWebsite: "https://www.loom.com/"
