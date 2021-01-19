@@ -1,18 +1,18 @@
 ---
-title: "Partner Relationship Manager - Microsoft"
+title: "Partner Relationship Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/ca985464-7d8d-40f3-ba7f-121e53cb5b6a"
 applyUrl: "https://jobs.lever.co/redcanary/ca985464-7d8d-40f3-ba7f-121e53cb5b6a/apply"
 timestamp: 1611014400000
-hashtags: "#windows,#sales,#marketing,#management,#operations,#optimization"
+hashtags: "#sales,#marketing,#management,#operations,#optimization,#windows"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "If you have 5+ years of experience with a combination of sales, marketing, and sales operations background within a security or technology organization, Red Canary has a job opening for a partner relationship manager"
 summaryBackup: "Excited about #windows, #sales, #marketing? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 **Why Red Canary**
