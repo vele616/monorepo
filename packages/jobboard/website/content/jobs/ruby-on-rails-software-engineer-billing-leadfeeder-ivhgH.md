@@ -1,5 +1,5 @@
 ---
-title: "Ruby on Rails Software Engineer - Billing"
+title: "Software Engineer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/leadfeeder/"
 companyName: "Leadfeeder"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder
 companyWebsite: "https://www.leadfeeder.com/"
 summary: "If you have 2+ years work experience writing maintainable and well-tested Ruby on Rails apps, Leadfeeder is looking for someone with your knowledge."
 summaryBackup: "Leadfeeder is looking for a ruby on rails software engineer that has experience in: #rails, #rubylang, #aws."
-featured: 20
+featured: 14 
 ---
 
 ## Description
