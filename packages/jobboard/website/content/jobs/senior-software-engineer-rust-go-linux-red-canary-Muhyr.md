@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer, Rust/Go & Linux"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/51159c79-56ec-4335-8175-bf9cd72621a6"
 applyUrl: "https://jobs.lever.co/redcanary/51159c79-56ec-4335-8175-bf9cd72621a6/apply"
 timestamp: 1611014400000
-hashtags: "#rustlang,#linux,#ui/ux,#operations,#css,#aws,#azure,#marketing"
+hashtags: "#rustlang,#linux,#aws,#ui/ux,#operations,#css,#azure,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary wishes to hire a new senior software engineer. If you have experience with low, consider applying."
+summary: "Red Canary wishes to hire a new senior software engineer. If you are experienced debugger and troubleshooter of complex systems and data pipelines, consider applying."
 summaryBackup: "Love #rustlang, #linux, #ui/ux? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 **Why Red Canary**
