@@ -6,20 +6,20 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/59216a03-38a2-4921-bbb8-ba80d8914987"
 applyUrl: "https://jobs.lever.co/redcanary/59216a03-38a2-4921-bbb8-ba80d8914987/apply"
 timestamp: 1611014400000
-hashtags: "#management,#branding,#socialmedia,#css,#content,#marketing,#operations,#analysis,#office"
+hashtags: "#management,#operations,#socialmedia,#branding,#css,#content,#marketing,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Interested in new opportunities and have 10-15+ years of communications management experience? Red Canary has a job opening for a sr director."
+summary: "Interested in new opportunities and have 10-15+ years of communications management experience? Red Canary has a job opening for a sr director of communications."
 summaryBackup: "Love #management, #branding, #socialmedia? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
-Why Red Canary
+## Why Red Canary
 
 Red Canary was founded to create a world where every organization can make its greatest impact without fear of cyber attack. Our combination of market-defining technology, processes, and expertise is preventing breaches every day. We are completely changing the way security is delivered and setting the new standard for security vendors. We are passionate. We have big goals. And we are looking for the best people to join us.
 
-How you will contribute 
+## How you will contribute 
 
 We are currently hiring for a head of communications who is responsible for developing and executing the communication strategy. Reporting to the Chief Marketing Officer, this senior leader will interact with the entire executive team to evolve a strong and differentiated narrative and launch programs to increase company and product awareness and share of voice. Areas of responsibility include public relations, analyst relations, influencer program, executive communication, internal communication, and crisis communication.
 
