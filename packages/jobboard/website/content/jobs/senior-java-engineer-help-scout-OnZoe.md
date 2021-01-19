@@ -6,11 +6,11 @@ companyName: "Help Scout"
 url: "https://jobs.lever.co/helpscout/18a5f09e-37d7-458c-b292-8ecc0e090c62"
 applyUrl: "https://jobs.lever.co/helpscout/18a5f09e-37d7-458c-b292-8ecc0e090c62/apply"
 timestamp: 1611014400000
-hashtags: "#javascript,#java,#php,#kotlin,#marketing,#management,#ui/ux,#docker,#aws,#git"
+hashtags: "#javascript,#java,#kotlin,#php,#marketing,#management,#ui/ux,#docker,#aws,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/help-scout"
 companyWebsite: "http://www.helpscout.com/"
-summary: "If you have 4 years, you get a month of paid vacation, Help Scout is looking for someone with your skillset."
+summary: "If you have experience in: #javascript, #java, #kotlin, Help Scout is looking for someone with your skillset."
 summaryBackup: "Help Scout is looking for a senior java engineer that has experience in: #javascript, #java, #php."
 featured: 20
 ---
