@@ -1,18 +1,18 @@
 ---
-title: "Senior Data Scientist, Product"
+title: "Senior Data Scientist"
 location: "Remote"
 host: "https://jobs.lever.co/useloom/?location=Remote&department=Loom%20Team&team=Engineering"
 companyName: "Loom"
 url: "https://jobs.lever.co/useloom/987cb9fd-9169-472c-ad4f-e029d0c36d67"
 applyUrl: "https://jobs.lever.co/useloom/987cb9fd-9169-472c-ad4f-e029d0c36d67/apply"
 timestamp: 1611014400000
-hashtags: "#ui/ux,#python,#management,#analysis,#analytics,#postgresql,#figma,#rest"
-jobType: "other"
+hashtags: "#analysis,#postgresql,#python,#management,#analytics,#figma,#ui/ux,#rest"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/loom"
 companyWebsite: "https://www.loom.com/"
 summary: "If you have 5+ years of experience in a data science or analytics role turning data into insights and recommendations, Loom has a job opening for a senior data scientist"
 summaryBackup: "Love #ui/ux, #python, #management? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 **About Loom:**
@@ -50,33 +50,20 @@ We have rich, complex datasets and our team performs a wide variety of analytica
 
 **Perks at Loom:**
 
-\* Competitive compensation and equity package
-
-\* 99% company paid medical, dental, and vision coverage for employees and dependents (for US employees)
-
-\* Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)
-
-\* Healthcare reimbursement (for International employees) 
-
-\* Life, AD&D, Short and Long Term Disability Insurance
-
-\* Long-term disability insurance
-
-\* 401(k) with 4% company matching
-
-\* Professional development reimbursement
-
-\* Mental health and wellness reimbursement
-
-\* Gym reimbursement
-
-\* Unlimited PTO 
-
-\* Paid parental leave
-
-\* Remote work opportunities 
-
-\* Home office & technology reimbursement
+* Competitive compensation and equity package
+* 99% company paid medical, dental, and vision coverage for employees and dependents (for US employees)
+* Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)
+* Healthcare reimbursement (for International employees) 
+* Life, AD&D, Short and Long Term Disability Insurance
+* Long-term disability insurance
+* 401(k) with 4% company matching
+* Professional development reimbursement
+* Mental health and wellness reimbursement
+* Gym reimbursement
+* Unlimited PTO 
+* Paid parental leave
+* Remote work opportunities 
+* Home office & technology reimbursement
 
 **Loom = Equal Opportunity Employer:**
 
