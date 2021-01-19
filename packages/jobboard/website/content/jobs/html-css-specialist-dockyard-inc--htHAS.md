@@ -6,18 +6,18 @@ companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/htmlcss-specialist-boston"
 applyUrl: "https://dockyardinc1.recruitee.com/o/htmlcss-specialist-boston/c/new"
 timestamp: 1611014400000
-hashtags: "#css,#html,#ui/ux,#git,#operations,#office,#English"
+hashtags: "#css,#html,#git,#operations,#office,#ui/ux,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
 summary: "DockYard, Inc. is searching for a html that has experience with Sketch and Git preferred."
 summaryBackup: "To apply as a html at DockYard, Inc., you preferably need to have some knowledge of: #css, #html, #ui/ux."
-featured: 20
+featured: 12
 ---
 
 ## Job description
 
-## ****Who We Are****
+## Who We Are
 
 DockYard is hiring an **HTML/CSS Specialist**. We are a 100% remote digital product consultancy. Our in-house team of product strategists, product designers, and software engineers specialize in delivering web applications with a user-driven approach and mindset. We also provide expert HTML/CSS staff augmentation and consulting to help clients build fast, scalable, and reliable products and services.
 
