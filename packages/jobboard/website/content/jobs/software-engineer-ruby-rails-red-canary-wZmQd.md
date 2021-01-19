@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer, Ruby/Rails"
+title: "Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
