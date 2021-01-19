@@ -1,5 +1,5 @@
 ---
-title: "Frontend Software Engineer / Ember.js"
+title: "Frontend Software Engineer"
 location: "Helsinki, Uusimaa, Finland"
 host: "https://apply.workable.com/leadfeeder/"
 companyName: "Leadfeeder"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder
 companyWebsite: "https://www.leadfeeder.com/"
 summary: "Leadfeeder wishes to hire a new frontend software engineer. If you have experience with UI/UX design, consider applying."
 summaryBackup: "Love #ui/ux, #javascript, #rails? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Description
