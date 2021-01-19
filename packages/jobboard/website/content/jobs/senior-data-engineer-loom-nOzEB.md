@@ -6,13 +6,13 @@ companyName: "Loom"
 url: "https://jobs.lever.co/useloom/5d2cd643-def7-4281-92e9-eb2b29fcd734"
 applyUrl: "https://jobs.lever.co/useloom/5d2cd643-def7-4281-92e9-eb2b29fcd734/apply"
 timestamp: 1611014400000
-hashtags: "#python,#ui/ux,#translation,#git,#management,#figma,#analysis,#monitoring"
-jobType: "other"
+hashtags: "#python,#analysis,#management,#ui/ux,#translation,#git,#figma,#monitoring"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/loom"
 companyWebsite: "https://www.loom.com/"
 summary: "If you have 5+ years experience in a data engineering or data science role, Loom is looking for someone with your skillset."
 summaryBackup: "Loom is looking for a senior data engineer that has experience in: #python, #ui/ux, #translation."
-featured: 20
+featured: 17
 ---
 
 **About Loom:**
@@ -48,33 +48,20 @@ You will be collaborating with the data team, engineering team & stakeholders ac
 
 **Perks at Loom:**
 
-\* Competitive compensation and equity package
-
-\* 99% company paid medical, dental, and vision coverage for employees and dependents (for US employees)
-
-\* Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)
-
-\* Healthcare reimbursement (for International employees) 
-
-\* Life, AD&D, Short and Long Term Disability Insurance
-
-\* Long-term disability insurance
-
-\* 401(k) with 4% company matching
-
-\* Professional development reimbursement
-
-\* Mental health and wellness reimbursement
-
-\* Gym reimbursement
-
-\* Unlimited PTO 
-
-\* Paid parental leave
-
-\* Remote work opportunities 
-
-\* Home office & technology reimbursement
+* Competitive compensation and equity package
+* 99% company paid medical, dental, and vision coverage for employees and dependents (for US employees)
+* Flexible Spending Account (FSA) and Dependent Care Flexible Spending Account (DCFSA)
+* Healthcare reimbursement (for International employees) 
+* Life, AD&D, Short and Long Term Disability Insurance
+* Long-term disability insurance
+* 401(k) with 4% company matching
+* Professional development reimbursement
+* Mental health and wellness reimbursement
+* Gym reimbursement
+* Unlimited PTO 
+* Paid parental leave
+* Remote work opportunities 
+* Home office & technology reimbursement
 
 **Loom = Equal Opportunity Employer:**
 
