@@ -1,18 +1,18 @@
 ---
-title: "Product Security Engineer, Web"
+title: "Product Security Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/dd375df8-db9c-433b-a7f7-d8887fa16d27"
 applyUrl: "https://jobs.lever.co/redcanary/dd375df8-db9c-433b-a7f7-d8887fa16d27/apply"
 timestamp: 1611014400000
-hashtags: "#rails,#rubylang,#ui/ux,#javascript,#golang,#management,#aws,#office,#operations,#analysis"
+hashtags: "#rubylang,#javascript,#golang,#rails,#management,#aws,#office,#operations,#analysis,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "If you have experience with industry tools and technologies such as Burp Suite, etc, Red Canary is looking for someone with your skillset."
 summaryBackup: "Love #rails, #rubylang, #ui/ux? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 **Why Red Canary**
