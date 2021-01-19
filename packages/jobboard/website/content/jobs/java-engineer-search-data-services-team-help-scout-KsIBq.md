@@ -1,5 +1,5 @@
 ---
-title: "Java Engineer, Search & Data Services Team"
+title: "Java Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/helpscout/?location=Remote&team=Engineering"
 companyName: "Help Scout"
@@ -10,7 +10,7 @@ hashtags: "#java,#kotlin,#javascript,#php,#marketing,#ui/ux,#office,#aws,#manage
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/help-scout"
 companyWebsite: "http://www.helpscout.com/"
-summary: "If you have 4 years, you get a month of paid vacation, Help Scout has a job opening for a java engineer"
+summary: "If you have experience in #java, #kotlin, #javascript, Help Scout has a job opening for a java engineer."
 summaryBackup: "Excited about #java, #kotlin, #javascript? Check out this job post!"
 featured: 20
 ---
@@ -55,7 +55,7 @@ We leverage Ignite, Solr and Lucene for several tools at Help Scout, but knowled
 *   You value giving and receiving feedback just as much as we do. You see it as an opportunity for personal and career growth.
 *   You consider how your work impacts others and demonstrate thoughtful, flexible approaches to mentoring and guiding technical decisions.
 
-Benefits
+## Benefits
 
 **Competitive salary** - Our salary formula is public to all employees (but doesn't divulge your specific salary) and we update it at least once per year. Your salary is the same no matter where you live. Our goal is to pay at or above the market rate of a US-based tech hub like Boston or Seattle.
 
