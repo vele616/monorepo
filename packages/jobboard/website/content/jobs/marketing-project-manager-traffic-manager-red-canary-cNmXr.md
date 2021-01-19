@@ -1,5 +1,5 @@
 ---
-title: "Marketing Project Manager/Traffic Manager"
+title: "Marketing Project Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
@@ -12,14 +12,14 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary
 companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary intends to hire a new marketing project manager. If you have 3-5 years of previous project management experience working with digital, creative, and/or marketing teams, consider applying."
 summaryBackup: "Red Canary is looking for a marketing project manager that has experience in: #management, #marketing, #content."
-featured: 20
+featured: 15
 ---
 
-Why Red Canary
+## Why Red Canary
 
 Red Canary was founded to create a world where every organization can make its greatest impact without fear of cyber attack. Our combination of market-defining technology, processes, and expertise is preventing breaches every day.  We are completely changing the way security is delivered and setting the new standard for security vendors. We are passionate. We have big goals. And we are looking for the best people to join us.
 
-How You Will Contribute
+## How You Will Contribute
 
 Reporting to the VP of Growth and Content Marketing, the Marketing Project Manager is responsible for implementing and adhering to project management best practices and methodology. The Marketing Project Manager has demonstrated expertise in managing multiple stakeholder projects, planning and scheduling project goals, milestones and deliverables, and serving as a support to our cross-functional teams.
 
