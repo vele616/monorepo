@@ -1,8 +1,8 @@
 ---
-title: "Senior Machine Learning Engineer -  Remote - EU Time Zone"
+title: "Senior Machine Learning Engineer"
 location: "London, GB - Remote OK"
 host: "https://cvedia.breezy.hr/"
-companyName: "cvedia"
+companyName: "Cvedia"
 url: "https://cvedia.breezy.hr/p/8456f164c3d5-senior-machine-learning-engineer-remote--eu-time-zone"
 applyUrl: "https://cvedia.breezy.hr/p/8456f164c3d5-senior-machine-learning-engineer-remote--eu-time-zone/apply"
 timestamp: 1611100800000
@@ -10,9 +10,9 @@ hashtags: "#python,#unity,#scrum,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
-summary: "Cvedia is looking for a senior machine learning engineer that has solid Experience with Python,Pytorch, OpenCV, Matplotlib, Numpy, SciPy."
+summary: "Cvedia is looking for a Senior Machine Learning Engineer that has solid experience with Python, Pytorch, OpenCV, Matplotlib, Numpy, SciPy."
 summaryBackup: "To apply as a senior machine learning engineer at Cvedia, you preferably need to have some knowledge of: #python, #unity, #scrum."
-featured: 20
+featured: 8
 ---
 
 CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop neural networks for computer vision systems (imagery-based AI). We are looking for a Senior ML Engineer to help us create more accurate neural networks that perform great when deployed on the edge.
