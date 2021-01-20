@@ -6,13 +6,13 @@ companyName: "eVisit"
 url: "https://apply.workable.com/evisit/j/73B557009F/"
 applyUrl: "https://apply.workable.com/evisit/j/73B557009F/apply/"
 timestamp: 1611100800000
-hashtags: "#rails,#android,#ios,#management,#office"
-jobType: "software"
+hashtags: "#android,#ios,#management,#rails,#office"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "EVisit wishes to hire a new test engineer. If you have experience with Test Flight and Test Rail is a plus, consider applying."
+summary: "EVisit wishes to hire a new test engineer. If you have experience with Test Flight or Test Rail, consider applying."
 summaryBackup: "Excited about #rails, #android, #ios? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
