@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/portfolio-advisor/c/new"
 timestamp: 1611100800000
 hashtags: "#sales,#crm,#finance"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Interested in new opportunities and have 3+ years of experience in a high-performing sales environment? Vinovest has a job opening for a Portfolio Advisor."
 summaryBackup: "Love #sales, #crm, #finance? Check out this job post!"

@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/wine-trader/c/new"
 timestamp: 1611100800000
 hashtags: "#management,#marketing,#sales,#analysis"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest wishes to hire a new Wine Trader. If you have 3+ years of experience in a high-performing vendor management or market trading environment, consider applying."
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
