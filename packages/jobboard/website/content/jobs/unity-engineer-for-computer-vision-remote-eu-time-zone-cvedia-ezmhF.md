@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
 summary: "To apply as an Unity Engineer for Computer Vision at Cvedia, you preferably need to have good experience with Unity for the development of 3D applications or games."
 summaryBackup: "Excited about #unity, #python, #management? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop neural networks for computer vision systems (imagery-based AI). We are looking for a Senior IT Engineer to help us create more accurate neural networks that perform great when deployed on the edge.
