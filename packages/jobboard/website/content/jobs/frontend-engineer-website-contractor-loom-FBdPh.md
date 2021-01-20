@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/loom"
 companyWebsite: "https://www.loom.com/"
 summary: "Loom is looking for a frontend engineer that has 2+ years of professional working experience."
 summaryBackup: "Excited about #css, #marketing, #content? Check out this job post!"
-featured: 18
+featured: 0
 ---
 
 **About Loom:**

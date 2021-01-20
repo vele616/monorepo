@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary
 companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary wishes to hire a new senior software engineer. If you are experienced debugger and troubleshooter of complex systems and data pipelines, consider applying."
 summaryBackup: "Love #rustlang, #linux, #ui/ux? Check out this job post!"
-featured: 15
+featured: 0
 ---
 
 **Why Red Canary**

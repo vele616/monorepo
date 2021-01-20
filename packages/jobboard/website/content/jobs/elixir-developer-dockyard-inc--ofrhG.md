@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-i
 companyWebsite: "https://dockyard.com/"
 summary: "If you have production experience with Elixir, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "DockYard, Inc. is looking for an elixir developer that has experience in: #ui/ux, #management, #postgresql."
-featured: 12
+featured: 0
 ---
 
 ## Job description

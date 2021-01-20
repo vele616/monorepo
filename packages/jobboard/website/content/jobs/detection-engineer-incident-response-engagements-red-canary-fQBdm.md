@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/redcanary/8ebcbf39-25dd-4001-ad16-c340e903a0f1"
 applyUrl: "https://jobs.lever.co/redcanary/8ebcbf39-25dd-4001-ad16-c340e903a0f1/apply"
 timestamp: 1611014400000
 hashtags: "#python,#golang,#rubylang,#operations,#css,#windows,#marketing,#rest"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "To apply as a detection engineer at Red Canary, you preferably need to have 2+ years of experience working in a Security Operations Center or in Digital Forensics and Incident Response."

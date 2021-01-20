@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/redcanary/902b3566-f667-4b65-a1e1-16e6dbb151f5"
 applyUrl: "https://jobs.lever.co/redcanary/902b3566-f667-4b65-a1e1-16e6dbb151f5/apply"
 timestamp: 1611014400000
 hashtags: "#management,#operations,#marketing,#ui/ux,#aws,#css"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "If you have you have experience working in cloud compute environments such as Amazon Web Services, and understand the value of Infrastructure, Red Canary has a job opening for an engineering manager"
