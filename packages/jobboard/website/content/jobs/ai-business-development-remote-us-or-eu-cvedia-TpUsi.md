@@ -1,8 +1,8 @@
 ---
-title: "AI Business Development - Remote - US Or EU"
+title: "AI Business Development"
 location: "United Kingdom - Remote OK"
 host: "https://cvedia.breezy.hr/"
-companyName: "cvedia"
+companyName: "Cvedia"
 url: "https://cvedia.breezy.hr/p/b6aeafc1b10f-ai-business-development-remote--us-or-eu"
 applyUrl: "https://cvedia.breezy.hr/p/b6aeafc1b10f-ai-business-development-remote--us-or-eu/apply"
 timestamp: 1611100800000
@@ -10,7 +10,7 @@ hashtags: "#management,#marketing,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
-summary: "If you have 200k to $1 Million a year in ARR, Cvedia has a job opening for an ai business development"
+summary: "Cvedia is looking for an ai business development that has experience in: #management, #marketing, #office."
 summaryBackup: "Cvedia is looking for an ai business development that has experience in: #management, #marketing, #office."
 featured: 20
 ---
