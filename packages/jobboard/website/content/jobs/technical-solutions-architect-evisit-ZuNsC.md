@@ -10,7 +10,7 @@ hashtags: "#management,#sales,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "EVisit is searching for a technical solutions architect that has you won't need to write a lot of code, but you will need to have experience with code, so you can advise developers and know how to respond to issues as they arise."
+summary: "EVisit is searching for a technical solutions architect that has experience writing technical documentation for a developer audience, so you can advise developers and know how to respond to issues as they arise."
 summaryBackup: "Love #management, #sales, #office? Check out this job post!"
 featured: 20
 ---
