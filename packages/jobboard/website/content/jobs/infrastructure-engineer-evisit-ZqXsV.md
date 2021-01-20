@@ -6,13 +6,13 @@ companyName: "eVisit"
 url: "https://apply.workable.com/evisit/j/081C4AF05D/"
 applyUrl: "https://apply.workable.com/evisit/j/081C4AF05D/apply/"
 timestamp: 1611100800000
-hashtags: "#aws,#css,#ui/ux,#management,#office"
+hashtags: "#aws,#fargate,#management,#ui/ux,#css,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "If you have experience with AWS, EVisit is looking for someone with your knowledge."
+summary: "If you have experience with AWS, eVisit is looking for someone with your knowledge."
 summaryBackup: "EVisit is looking for an infrastructure engineer that has experience in: #aws, #css, #ui/ux."
-featured: 20
+featured: 15
 ---
 
 ## Description
