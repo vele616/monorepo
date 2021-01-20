@@ -7,12 +7,12 @@ url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2539347"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2539347#app"
 timestamp: 1611100800000
 hashtags: "#ios,#swift,#objectivec,#macos,#scrum,#ui/ux,#git,#management,#marketing,#operations"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Beat intends to hire a new senior ios engineer. If you have 3+ years of native iOS app development experience, consider applying."
+summary: "Beat intends to hire a new Senior iOS Engineer. If you have 3+ years of native iOS app development experience, consider applying."
 summaryBackup: "Beat is looking for a senior ios engineer that has experience in: #ios, #swift, #objectivec."
-featured: 20
+featured: 9
 ---
 
 ## About us
