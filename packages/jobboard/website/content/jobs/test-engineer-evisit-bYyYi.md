@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
 summary: "EVisit wishes to hire a new test engineer. If you have experience with Test Flight or Test Rail, consider applying."
 summaryBackup: "Excited about #rails, #android, #ios? Check out this job post!"
-featured: 10
+featured: 11
 ---
 
 ## Description

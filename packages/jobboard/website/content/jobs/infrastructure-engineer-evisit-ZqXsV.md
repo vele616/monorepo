@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
 summary: "If you have experience with AWS, eVisit is looking for someone with your knowledge."
 summaryBackup: "EVisit is looking for an infrastructure engineer that has experience in: #aws, #css, #ui/ux."
-featured: 15
+featured: 10
 ---
 
 ## Description

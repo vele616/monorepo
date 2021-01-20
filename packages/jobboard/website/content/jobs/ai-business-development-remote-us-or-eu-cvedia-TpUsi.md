@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
 summary: "Cvedia is looking for an ai business development that has experience in: #management, #marketing, #office."
 summaryBackup: "Cvedia is looking for an ai business development that has experience in: #management, #marketing, #office."
-featured: 20
+featured: 10
 ---
 
 \*\*\*\*\* This role is only for applicants coming from USA or EU countries\*\*\*\*\*
