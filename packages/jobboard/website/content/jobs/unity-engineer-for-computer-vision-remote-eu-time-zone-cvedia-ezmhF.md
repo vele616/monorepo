@@ -1,16 +1,16 @@
 ---
-title: "Unity Engineer for Computer Vision - Remote - EU Time Zone"
+title: "Unity Engineer for Computer Vision"
 location: "London, GB - Remote OK"
 host: "https://cvedia.breezy.hr/"
-companyName: "cvedia"
+companyName: "Cvedia"
 url: "https://cvedia.breezy.hr/p/35b1ca71914d-unity-engineer-for-computer-vision-remote--eu-time-zone"
 applyUrl: "https://cvedia.breezy.hr/p/35b1ca71914d-unity-engineer-for-computer-vision-remote--eu-time-zone/apply"
 timestamp: 1611100800000
-hashtags: "#unity,#python,#management,#docker,#git,#scrum,#English,#optimization"
+hashtags: "#unity,#python,#git,#management,#docker,#scrum,#English,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
-summary: "To apply as an unity engineer for computer vision at Cvedia, you preferably need to have good experience with Unity for the development of 3D applications or games."
+summary: "To apply as an Unity Engineer for Computer Vision at Cvedia, you preferably need to have good experience with Unity for the development of 3D applications or games."
 summaryBackup: "Excited about #unity, #python, #management? Check out this job post!"
 featured: 20
 ---
