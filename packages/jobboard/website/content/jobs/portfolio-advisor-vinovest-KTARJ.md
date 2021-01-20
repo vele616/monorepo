@@ -10,7 +10,7 @@ hashtags: "#sales,#crm,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
-summary: "Interested in new opportunities and have 3+ years of experience in a high-performing sales environment? Vinovest has a job opening for a portfolio advisor."
+summary: "Interested in new opportunities and have 3+ years of experience in a high-performing sales environment? Vinovest has a job opening for a Portfolio Advisor."
 summaryBackup: "Love #sales, #crm, #finance? Check out this job post!"
 featured: 20
 ---
@@ -37,20 +37,14 @@ Vinovest is an equal opportunity employer and values diversity of backgrounds an
 
 ## Job requirements
 
-## **
-
-What you should have
-
-**
+**What you should have**
 
 *   Passion about Vinovest and the problem we’re solving.
     
-
 *   A well-rounded understating of the basics of investing. Any financial related experience or exposure to alternative investing is a big plus.
     
 *   3+ years of experience in a high-performing sales environment.
     
-
 *   Outstanding follow-through. You say what you’ll do, and do what you say. You hold your team to this standard. You don’t let details slip.
     
 *   You listen well. You build consensus by default, but can drive hard decisions when needed. You push the pace. You take blame and pass on praise. People love working with you.
