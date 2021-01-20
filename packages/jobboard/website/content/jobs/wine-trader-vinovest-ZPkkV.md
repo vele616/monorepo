@@ -10,7 +10,7 @@ hashtags: "#management,#marketing,#sales,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
-summary: "Vinovest wishes to hire a new wine trader. If you have 3+ years of experience in a high-performing vendor management or market trading environment, consider applying."
+summary: "Vinovest wishes to hire a new Wine Trader. If you have 3+ years of experience in a high-performing vendor management or market trading environment, consider applying."
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 20
 ---
@@ -43,7 +43,6 @@ Vinovest is an equal opportunity employer and values diversity of backgrounds an
 
 *   Passion about Vinovest and the problem we’re solving.
     
-
 *   3+ years of experience in a high-performing vendor management or market trading environment.
     
 *   A sharp understating of the fine wine landscape. You know your Leroy from your Leflaive.
