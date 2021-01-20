@@ -10,9 +10,9 @@ hashtags: "#spark,#python,#golang,#scala,#analysis,#ui/ux,#management,#operation
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Beat is looking for a senior machine learning software engineer that has experience in: experience in: #spark, #python, #golang."
+summary: "Beat is looking for a Senior Machine Learning Software Engineer that has experience in: #spark, #python, #golang."
 summaryBackup: "To apply as a senior machine learning software engineer at Beat, you preferably need to have some knowledge of: #spark, #python, #golang."
-featured: 20
+featured: 10
 ---
 
 ## About us
