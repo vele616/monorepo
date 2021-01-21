@@ -1,16 +1,15 @@
 ---
-title: "Account Executive (French speaking)"
+title: "Account Executive"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4324230003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4324230003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#sales,#windows,#crm,#office,#English,#French"
+hashtags: "#sales,#French,#English,#windows,#crm,#office"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin intends to hire a new account executive. If you have 3+ years of experience in Sales or Business Development, consider applying."
+summary: "Hopin intends to hire a new Account Executive. If you have 3+ years of experience in Sales or Business Development, consider applying."
 summaryBackup: "Excited about #sales, #windows, #crm? Check out this job post!"
 featured: 20
 ---
@@ -31,11 +30,11 @@ We’ve recently been funded by Accel, Northzone, Seedcamp, Web Summit’s Fund,
 
 ## The role
 
-Hopin is seeking a French-speaking Account Executive who is personable, self-driven, passionate and ambitious! We’re looking for someone with sales experience and super excited to tell others about our virtual events platform. You will generate sales leads, meet with prospects over calls, and create new opportunities. We’ll provide all the training you need for you to be successful. 
+Hopin is seeking a **French-speaking** Account Executive who is personable, self-driven, passionate and ambitious! We’re looking for someone with sales experience and super excited to tell others about our virtual events platform. You will generate sales leads, meet with prospects over calls, and create new opportunities. We’ll provide all the training you need for you to be successful. 
 
 We're excited to be working with someone who is highly motivated, a team player, comfortable in a fast-paced start-up environment and is happy to work with a remote team. You will wear many hats at times but will have a key role in our future growth and immediate responsibility.  We're currently a team of 240+, and you will be working within the Sales team.
 
-Responsibilities
+## Responsibilities
 
 *   Become an expert on the Hopin platform
 *   Conduct product demonstrations on a daily basis to global  prospects from a variety of industries
@@ -44,7 +43,7 @@ Responsibilities
 *   Discover customer needs and communicate to prospects how Hopin can solve those 
 *   Use our CRM system to provide metrics on leads
 
-Qualifications
+## Qualifications
 
 *   3+ years of experience in Sales or Business Development (in a closing role)
 *   Success in metrics focused role
@@ -66,4 +65,4 @@ Qualifications
 *   Laptop assigned, Mac or Windows             
 *   800 USD for Home-Office set up
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
