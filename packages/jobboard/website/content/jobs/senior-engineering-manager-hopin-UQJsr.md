@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/hopin/jobs/4307650003?t=02952e2a3us#app"
 timestamp: 1611187200000
 hashtags: "#ui/ux,#management,#office"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 8 years experience in software development, with at least 5 of them managing a team in a high paced startup environment, Hopin is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #management, #office? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## The role
@@ -75,4 +74,4 @@ Hopin is seeking a dynamic Senior Engineering Manager to lead a fast growing sof
 *   800 USD for Home-Office set up
     
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
