@@ -6,11 +6,10 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4287146003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4287146003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#marketing,#office,#css,#windows,#content,#management,#operations,#sales"
+hashtags: "#marketing,#management,#operations,#office,#css,#windows,#content,#sales"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "To apply as an associate general counsel at Hopin, you preferably need to have 5 years of leadership experience in building, running and/or developing global, robust teams required."
+summary: "To apply as an Associate General Counsel at Hopin, you preferably need to have 5 years of leadership experience in building, running and/or developing global, robust teams."
 summaryBackup: "Love #marketing, #office, #css? Check out this job post!"
 featured: 20
 ---
