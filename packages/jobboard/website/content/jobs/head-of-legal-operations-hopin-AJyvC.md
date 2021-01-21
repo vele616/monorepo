@@ -6,13 +6,12 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4287147003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4287147003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#management,#operations,#office,#windows,#ui/ux,#analysis,#finance"
+hashtags: "#management,#operations,#analysis,#office,#windows,#ui/ux,#finance"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin intends to hire a new head of legal operations. If you have 7+ years of experience at a law firm or in-house legal department, consider applying."
+summary: "Hopin intends to hire a new Head of Legal Operations. If you have 7+ years of experience at a law firm or in-house legal department, consider applying."
 summaryBackup: "Love #management, #operations, #office? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## At Hopin, we’re reimagining virtual events.
