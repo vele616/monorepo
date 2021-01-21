@@ -6,13 +6,12 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4298844003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4298844003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#marketing,#operations,#management,#sales,#css,#windows,#analysis,#finance"
+hashtags: "#analysis,#operations,#management,#marketing,#sales,#css,#windows,#finance"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a business operations manager that has 3+ years of revenue strategy and operations, or go to market consulting experience."
 summaryBackup: "Excited about #marketing, #operations, #management? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 ## The role
