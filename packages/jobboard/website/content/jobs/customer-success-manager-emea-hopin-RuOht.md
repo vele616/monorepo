@@ -1,16 +1,15 @@
 ---
-title: "Customer Success Manager (EMEA)"
+title: "Customer Success Manager"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4197529003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4197529003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#management,#golang,#css,#windows,#sales,#office,#optimization,#English"
+hashtags: "#management,#sales,#optimization,#golang,#css,#windows,#office,#English"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 4 years + experience in Account Management, Customer Success, and/or experience as an event manager, consider applying to Hopin's job post for a new customer success manager."
+summary: "If you have 4+ years experience in Account Management, Customer Success, and/or experience as an event manager, consider applying to Hopin's job post for a new Customer Success Manager."
 summaryBackup: "Hopin is looking for a customer success manager that has experience in: #management, #golang, #css."
 featured: 20
 ---
@@ -61,4 +60,4 @@ We're excited to work with someone who is highly motivated, comfortable in a fas
 *   Laptop assigned, Mac or Windows             
 *   800 USD for Home-Office set up
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
