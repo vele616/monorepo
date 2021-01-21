@@ -6,13 +6,12 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4321050003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4321050003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#javascript,#python,#ui/ux,#windows,#management,#analysis,#finance"
-jobType: "other"
-
+hashtags: "#javascript,#python,#analysis,#ui/ux,#windows,#management,#finance"
+jobType: "software"
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have some experience with Redshift, Hopin has a job opening for a junior data engineer"
+summary: "If you have some experience with Redshift, Hopin has a job opening for a Junior Data Engineer"
 summaryBackup: "Hopin is looking for a junior data engineer that has experience in: #javascript, #python, #ui/ux."
-featured: 20
+featured: 15
 ---
 
 ## At Hopin, we’re reimagining virtual events.
