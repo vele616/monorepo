@@ -6,9 +6,8 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4313715003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4313715003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#management,#sales,#css,#crm,#office"
+hashtags: "#management,#sales,#office,#css,#crm"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 3+ years experience in Renewals, Account Management, or Sales role, Hopin is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #sales, #css? Check out this job post!"
