@@ -6,13 +6,13 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2559370?t=5c1a877f1us"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2559370?t=5c1a877f1us#app"
 timestamp: 1611187200000
-hashtags: "#management,#spring,#marketing,#operations,#mysql,#office"
+hashtags: "#golang,#mysql,#operations,#management,#spring,#marketing,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
-summary: "Customer.io wishes to hire a new senior scaling engineer. If you have experience working with customers and applying a deep understanding of their needs to produce timely solutions to their real, consider applying."
+summary: "Customer.io wishes to hire a new Senior Scaling Engineer. If you have experience working with customers and applying a deep understanding of their needs to produce timely solutions to their real-world problems, consider applying."
 summaryBackup: "Love #management, #spring, #marketing? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://Customer.io). I'm looking for a Senior Scaling Engineer to join our growing Engineering team.
@@ -70,7 +70,7 @@ Check out our [careers page](https://customer.io/careers/) for more informatio
 
 ## How to apply
 
-## Apply at the link below and tell us why you're interested in the position! In your cover letter, be sure to tell us the title of the last book you read. There is no advantage to applying early so put your best foot forward. We plan to respond to all applicants by February 1 with a status update about your application.
+Apply at the link below and tell us why you're interested in the position! In your cover letter, be sure to tell us the title of the last book you read. There is no advantage to applying early so put your best foot forward. We plan to respond to all applicants by February 1 with a status update about your application.
 
 Here's what you can expect from our hiring process (order is subject to change):
 
