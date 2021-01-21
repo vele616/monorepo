@@ -1,5 +1,5 @@
 ---
-title: "Manager, Sales Development"
+title: "Manager of Sales Development"
 location: "Remote Americas"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -8,9 +8,8 @@ applyUrl: "https://boards.greenhouse.io/hopin/jobs/4328893003?t=02952e2a3us#app"
 timestamp: 1611187200000
 hashtags: "#sales,#management,#analytics,#windows,#marketing,#monitoring"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin wishes to hire a new manager. If you have 5 years in sales, lead generation, sales development or relevant sales experience required, consider applying."
+summary: "Hopin wishes to hire a new Manager of Sales Development. If you have 5 years in sales, lead generation, sales development or relevant sales experience, consider applying."
 summaryBackup: "Excited about #sales, #management, #analytics? Check out this job post!"
 featured: 20
 ---
