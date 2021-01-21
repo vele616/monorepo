@@ -1,5 +1,5 @@
 ---
-title: "Senior Full-Stack Node/React Engineer - @StreamYard"
+title: "Senior Full-Stack Node/React Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/hopin/jobs/4320980003?t=02952e2a3us#app"
 timestamp: 1611187200000
 hashtags: "#reactjs,#javascript,#nodejs,#css,#html,#windows,#content,#branding,#ui/ux,#scrum"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have solid experience working in an agile development environment, Hopin has a job opening for a senior full-stack node"
+summary: "If you have solid experience working in an agile development environment, Hopin has a job opening for a Senior Full-Stack Node/React Engineer"
 summaryBackup: "Excited about #reactjs, #javascript, #nodejs? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Millions of users participate in StreamYard powered broadcasts every month. If you want to write code that has a high impact on real people daily, join us on this adventure!!! 
@@ -52,4 +51,4 @@ You will develop the future functionality of our product and be involved in the 
 *   Laptop assigned, Mac or Windows             
 *   800 USD for Home-Office set up
 
-## At StreamYard, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at StreamYard. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At StreamYard, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at StreamYard. We strive to embed it not just into our core values but throughout our entire ecosystem.
