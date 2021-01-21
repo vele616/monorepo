@@ -6,13 +6,13 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2559365?t=5c1a877f1us"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2559365?t=5c1a877f1us#app"
 timestamp: 1611187200000
-hashtags: "#management,#spring,#marketing,#css,#ui/ux"
+hashtags: "#management,#marketing,#ui/ux,#spring,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
-summary: "Customer.io is looking for an engineering manager that has 2,000 USD reimbursement per year to use on conferences, books, classes, or workshops."
+summary: "Customer.io is looking for an engineering manager that have strong technical foundation in database technologies, distributed systems, and scaling solutions"
 summaryBackup: "Excited about #management, #spring, #marketing? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://customer.io).
@@ -72,7 +72,7 @@ Check out our [careers page](https://customer.io/careers/) for more informatio
 
 ## How to apply
 
-## Apply at the link below and tell us why you're interested in the position! In your cover letter, be sure to tell us the title of the last book you read. There is no advantage to applying early so put your best foot forward. We will respond to all applicants by February 1 with a status update about your application.
+Apply at the link below and tell us why you're interested in the position! In your cover letter, be sure to tell us the title of the last book you read. There is no advantage to applying early so put your best foot forward. We will respond to all applicants by February 1 with a status update about your application.
 
 Here's what you can expect from our hiring process (order is subject to change):
 
