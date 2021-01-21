@@ -6,13 +6,12 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4321451003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4321451003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#management,#operations,#nodejs,#python,#golang,#rustlang,#rubylang,#css,#chef,#terraform"
-jobType: "software"
-
+hashtags: "#management,#operations,#aws,#nodejs,#python,#golang,#rustlang,#rubylang,#css,#chef,#terraform"
+jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin wishes to hire a new director of engineering. If you have 5+ years of experience operating a high transaction rate internet service, consider applying."
+summary: "Hopin wishes to hire a new Director of Engineering. If you have 5+ years of experience operating a high transaction rate internet service, consider applying."
 summaryBackup: "To apply as a director of engineering at Hopin, you preferably need to have some knowledge of: #management, #operations, #nodejs."
-featured: 20
+featured: 14
 ---
 
 ## At Hopin, we’re reimagining virtual events.
