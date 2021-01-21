@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/hopin/jobs/4200979003?t=02952e2a3us#app"
 timestamp: 1611187200000
 hashtags: "#javascript,#reactjs,#jquery,#ui/ux,#css,#html,#scrum,#windows,#photoshop,#analysis"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is looking for a front-end developer that has we are also looking for someone with strong experience with Twilio, OpenTok and other video softwares."
+summary: "Hopin is looking for a Front-End Developer that has strong experience with Twilio, OpenTok and other video softwares."
 summaryBackup: "Excited about #javascript, #reactjs, #jquery? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## The Role
@@ -93,4 +92,4 @@ We are seeking a highly motivated individual who is comfortable in a fast paced 
 *   800 USD for Home-Office set up
     
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
