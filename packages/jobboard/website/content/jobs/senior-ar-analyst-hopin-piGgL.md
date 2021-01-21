@@ -6,13 +6,12 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4319858003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4319858003?t=02952e2a3us#app"
 timestamp: 1611187200000
-hashtags: "#management,#sales,#office,#windows,#analysis,#operations,#finance"
+hashtags: "#management,#finance,#analysis,#office,#sales,#windows,#operations"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 4+ years Accounts Receivable experience, consider applying to Hopin's job post for a new senior ar analyst."
+summary: "If you have 4+ years Accounts Receivable experience, consider applying to Hopin's job post for a new Senior AR Analyst."
 summaryBackup: "Love #management, #sales, #office? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## At Hopin, we’re reimagining virtual events.
@@ -69,4 +68,4 @@ We are currently seeking an experienced Senior Accounts Receivable Analyst to jo
 *   Laptop assigned, Mac or Windows
 *   800 USD for Home-Office set up
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
