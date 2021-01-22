@@ -6,11 +6,11 @@ companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=83&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=83&source=other"
 timestamp: 1611273600000
-hashtags: "#python,#ui/ux,#django,#flask,#linux,#docker,#aws,#git,#branding,#content"
+hashtags: "#python,#django,#flask,#linux,#docker,#aws,#git,#ui/ux,#branding,#content"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "If you have experience with software design life cycle and best practices, BMAT Licensing SLU is looking for someone with your knowledge."
+summary: "If you have experience with software design life cycle and best practices (Code Reviews, Testing), BMAT Licensing SLU is looking for someone with your knowledge."
 summaryBackup: "BMAT Licensing SLU is looking for a software developer that has experience in: #python, #ui/ux, #django."
 featured: 20
 ---
