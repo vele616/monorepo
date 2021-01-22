@@ -1,5 +1,5 @@
 ---
-title: "Software Developer - Python"
+title: "Software Developer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
 companyName: "BMAT Licensing SLU"
