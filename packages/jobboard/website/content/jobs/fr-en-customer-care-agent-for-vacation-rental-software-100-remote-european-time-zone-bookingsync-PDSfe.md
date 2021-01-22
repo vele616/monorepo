@@ -1,18 +1,18 @@
 ---
-title: "FR/EN Customer Care Agent for Vacation Rental Software - 100% Remote - European time zone"
+title: "FR/EN Customer Care Agent for Vacation Rental Software"
 location: "Remote, European Timezone"
 host: "https://bookingsync.bamboohr.com/jobs/"
 companyName: "BookingSync"
 url: "https://bookingsync.bamboohr.com/jobs/view.php?id=14&source=other"
 applyUrl: "https://bookingsync.bamboohr.com/jobs/view.php?id=14&source=other"
 timestamp: 1611273600000
-hashtags: "#socialmedia,#css,#html,#management,#French,#optimization,#English"
+hashtags: "#English,#French,#html,#socialmedia,#css,#management,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bookingsync"
 companyWebsite: "https://bookingsync.bamboohr.com/jobs/"
 summary: "If you have experience with Vacation Rental Software is a huge plus, consider applying to BookingSync's job post for a new fr."
 summaryBackup: "Love #socialmedia, #css, #html? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 BookingSync is actively looking for a remotely-based customer care specialist to join our support team. The customer care specialist will be primarily responsible for responding to and solving customer support inquiries.
