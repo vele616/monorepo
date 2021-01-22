@@ -10,8 +10,8 @@ hashtags: "#management,#translation,#English,#office,#sales,#scrum,#macos"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "To apply as a Digital Client Manager at BMAT Licensing SLU, you preferably need to have some knowledge of: experience in: #management, #macos, #translation."
-summaryBackup: "To apply as a digital client manager at BMAT Licensing SLU, you preferably need to have some knowledge of: #management, #macos, #translation."
+summary: "To apply as a Digital Client Manager at BMAT Licensing SLU, you preferably need to have some experience in: #management, #macos, #translation."
+summaryBackup: "To apply as a digital client manager at BMAT Licensing SLU, you preferably need to have some knowledge of: #management, #translation, #English."
 featured: 20
 ---
 
