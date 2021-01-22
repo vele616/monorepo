@@ -6,13 +6,12 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/2431829"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/2431829#app"
 timestamp: 1611273600000
-hashtags: "#android,#ui/ux,#java,#git"
+hashtags: "#android,#java,#git,#ui/ux"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "Brave intends to hire a new senior android engineer. If you have 5+ years experience with Android development, consider applying."
+summary: "Brave intends to hire a new Senior Sndroid Engineer. If you have 5+ years experience with Android development, consider applying."
 summaryBackup: "Excited about #android, #ui/ux, #java? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Job brief
