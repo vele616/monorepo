@@ -1,5 +1,5 @@
 ---
-title: "Senior Frontend Engineer - NBX"
+title: "Senior Frontend Engineer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#css,#ui/ux,#office,#rest,#finance"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io intends to hire a new senior frontend engineer. If you have 3 years of experience as a frontend developer, consider applying."
+summary: "Nixa.io intends to hire a new Senior Frontend Engineer. If you have 3 years of experience as a frontend developer, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
