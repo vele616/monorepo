@@ -10,9 +10,9 @@ hashtags: "#sales,#management,#operations,#content,#analytics,#scrum,#analysis,#
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU intends to hire a new sales operations manager. If you have the ideal applicant will have direct experience +7ys in the music industry and a good understanding of international copyrights, consider applying."
+summary: "BMAT Licensing SLU intends to hire a new Sales Operations Manager. If you have +7ys direct experience in the music industry and a good understanding of international copyrights, consider applying."
 summaryBackup: "To apply as a sales operations manager at BMAT Licensing SLU, you preferably need to have some knowledge of: #sales, #management, #operations."
-featured: 20
+featured: 19
 ---
 
 ## About BMAT 
