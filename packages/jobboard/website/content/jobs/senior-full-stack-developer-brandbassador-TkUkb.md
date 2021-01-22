@@ -6,7 +6,7 @@ companyName: "Brandbassador"
 url: "https://team.brandbassador.com/jobs/192924-senior-full-stack-developer"
 applyUrl: "https://team.brandbassador.com/jobs/192924-senior-full-stack-developer/applications/new?"
 timestamp: 1611273600000
-hashtags: "#branding,#ui/ux,#reactjs,#angular,#nodejs,#typescript,#marketing,#socialmedia,#couchbase,#analysis"
+hashtags: "#reactjs,#angular,#nodejs,#typescript,#marketing,#branding,#ui/ux,#socialmedia,#couchbase,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
