@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Engineer for Brave Ads"
+title: "Full Stack Engineer"
 location: "Anywhere"
 host: "https://boards.greenhouse.io/brave"
 companyName: "Brave"
@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/brave/jobs/2521731#app"
 timestamp: 1611273600000
 hashtags: "#javascript,#typescript,#marketing,#aws,#English"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "If you have experience with writing/deploying production JavaScript/TypeScript based web frontends, Brave has a job opening for a full stack engineer for brave ads"
+summary: "If you have experience with writing/deploying production JavaScript/TypeScript based web frontends, Brave has a job opening for a Full Stack Engineer."
 summaryBackup: "Brave is looking for a full stack engineer for brave ads that has experience in: #javascript, #typescript, #marketing."
-featured: 20
+featured: 15
 ---
 
 Brave is looking for an experienced Senior Software Engineer to advance the Brave Ads self service platform.  Brave Ads is Brave’s global private ad network, redesigned from the ground up to reward users while enforcing the highest standards of user privacy.  The Brave Ads team works to ensure that marketers, both large and small, receive the information they need to make the most of their campaign dollars, without sacrificing strict user privacy.  We have a campaign user interface that has been driving strong month over month growth of Brave Ads, and are looking for a great engineer to help us make it more accessible to millions of small businesses worldwide.
