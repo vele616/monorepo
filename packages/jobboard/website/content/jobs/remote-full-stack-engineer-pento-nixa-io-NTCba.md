@@ -1,5 +1,5 @@
 ---
-title: "Remote Full-stack Engineer - Pento"
+title: "Remote Full-stack Engineer"
 location: "Copenhagen, Capital Region of Denmark, Denmark"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#golang,#operations,#ui/ux,#marketing,#postgresq
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "If you have you have a few years of professional experience in software engineering, working in a team environment, Nixa.io is looking for someone with your knowledge."
+summary: "If you have experience in full-stack development, building, running and debugging web applications, Nixa.io is looking for someone with your knowledge."
 summaryBackup: "Nixa.io is looking for a remote full-stack engineer that has experience in: #javascript, #reactjs, #golang."
-featured: 20
+featured: 7
 ---
 
 ## Description
