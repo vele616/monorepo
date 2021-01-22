@@ -10,9 +10,9 @@ hashtags: "#branding,#ui/ux,#reactjs,#angular,#nodejs,#typescript,#marketing,#so
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
-summary: "Brandbassador wishes to hire a new senior full stack developer. If you have 2 years and over $4 million in development costs to create what is now Brandbassador, consider applying."
+summary: "Brandbassador wishes to hire a new Senior Full Stack Developer. If you have extensive experience in React OR Angular / Node / GraphQL / Apollo / TypeScript, consider applying."
 summaryBackup: "Brandbassador is looking for a senior full stack developer that has experience in: #branding, #ui/ux, #reactjs."
-featured: 20
+featured: 3
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, Huel, Desenio and the list goes on. 
@@ -39,7 +39,6 @@ The perfect candidate is someone who have been on the exciting journey of scali
 ## WHY US?
 
 *   100% Remote.
-
 *   Competitive salary.
 *   We are creating the best Development team in Europe and want to find future rock stars to nurture & invest in. We take your personal development seriously.
 *   Awesome working environment, we work hard we play hard and we take pride in our business and our personal development
