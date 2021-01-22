@@ -6,13 +6,12 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/1684035"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/1684035#app"
 timestamp: 1611273600000
-hashtags: "#javascript,#content,#English"
-jobType: "other"
-
+hashtags: "#javascript,#cplusplus,#content,#English"
+jobType: "software"
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "Brave intends to hire a new bat. If you have 5+ years experience with desktop application development, consider applying."
+summary: "Brave intends to hire a new BAT/Rewards Engineer. If you have 5+ years experience with desktop application development, consider applying."
 summaryBackup: "Excited about #javascript, #content, #English? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 Brave is looking for an experienced Senior Software Engineer to work on advancing the Brave Rewards platform on our Chromium­ based desktop browser.  This position is on the forefront of advancing how BAT can be used to reward both content creators and users.
