@@ -6,13 +6,12 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/855571"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/855571#app"
 timestamp: 1611273600000
-hashtags: "#javascript,#nodejs,#html,#windows,#macos,#linux,#git"
+hashtags: "#javascript,#cplusplus,#nodejs,#html,#windows,#macos,#linux,#git"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "If you have 5 years of experience is preferred, Brave is looking for someone with your knowledge."
+summary: "If you have 5 years of experience in C++ and JavaScript, Brave is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #nodejs, #html? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 We are hiring a member of the Brave browser research and engineering team to work on browser performance.
