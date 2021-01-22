@@ -1,18 +1,18 @@
 ---
-title: "Operations Engineer TVAV"
+title: "Operations Engineer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
 companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=154&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=154&source=other"
 timestamp: 1611273600000
-hashtags: "#operations,#flask,#python,#docker,#aws,#elasticsearch,#mongodb,#scrum,#English"
+hashtags: "#flask,#python,#docker,#aws,#elasticsearch,#mongodb,#operations,#scrum,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "To apply as an operations engineer tvav at BMAT Licensing SLU, you preferably need to have some experience with docker and elasticsearch will help you solve some tasks faster."
+summary: "To apply as an Operations Engineer at BMAT Licensing SLU, you preferably need to have some experience with docker and elasticsearch that will help you solve some tasks faster."
 summaryBackup: "BMAT Licensing SLU is looking for an operations engineer tvav that has experience in: #operations, #flask, #python."
-featured: 20
+featured: 11
 ---
 
 ## About BMAT 
@@ -53,7 +53,6 @@ Your responsibilities can range from extracting concrete information from our da
 
 *   Full-time job.
 *   Flexibility on working hours, home office and remote working.  
-    
 *   Spanish and English classes.
 *   Wide range of online and onsite courses.
 *   Possibility to choose your hardware and tools.  
