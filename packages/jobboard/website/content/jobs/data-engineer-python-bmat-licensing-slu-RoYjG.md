@@ -6,11 +6,11 @@ companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=141&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=141&source=other"
 timestamp: 1611273600000
-hashtags: "#python,#linux,#docker,#aws,#content,#ui/ux,#git,#elasticsearch,#mongodb,#scrum"
+hashtags: "#python,#elasticsearch,#mongodb,#linux,#docker,#aws,#content,#ui/ux,#git,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "Interested in new opportunities and have experience with entity reconciliation, data matching? BMAT Licensing SLU has a job opening for a data engineer."
+summary: "If you have experience working with document-oriented databases like MongoDB or Elasticsearch, BMAT Licensing SLU has a job opening for a Data Engineer."
 summaryBackup: "BMAT Licensing SLU is looking for a data engineer that has experience in: #python, #linux, #docker."
 featured: 20
 ---
@@ -45,8 +45,7 @@ BMAT is connected to hundreds of data sources and we are in charge of ingesting 
 *   Good documentation and communication skills.
 *   Proactive team player with high-quality awareness and independent working attitude.
 *   You value a DevOps culture.  
-      
-    
+
 
 ## Bonus Track
 
@@ -56,13 +55,12 @@ BMAT is connected to hundreds of data sources and we are in charge of ingesting 
 *   Experience with distributed systems.
 *   Experience scaling platforms.
 *   Experience with HTTP APIs and frontend apps.  
-    
+
 
 ## You Can Enjoy 
 
 *   Full-time job.
 *   Flexibility on working location and working hours.  
-    
 *   Free Spanish and English classes.
 *   Flat hierarchy.
 *   Full autonomy of your duties.
