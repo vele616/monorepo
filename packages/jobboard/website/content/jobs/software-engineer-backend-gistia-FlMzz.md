@@ -1,18 +1,17 @@
 ---
-title: "Software Engineer (Backend)"
-location: ""
+title: "Backend Software Engineer"
+location: "Sao Paulo, BR -  Remote OK"
 host: "https://gistia.breezy.hr/"
-companyName: "gistia"
+companyName: "Gistia"
 url: "https://gistia.breezy.hr/p/fcf16cfed510-software-engineer-backend"
 applyUrl: "https://gistia.breezy.hr/p/fcf16cfed510-software-engineer-backend/apply"
 timestamp: 1611273600000
 hashtags: "#linux,#nodejs,#python,#java,#management,#ui/ux,#html,#css,#ansible,#docker"
 jobType: "software"
-
 companyWebsite: "https://gistia.breezy.hr/"
 summary: "Gistia is looking for a software engineer that has 6-7 years relevant experience."
 summaryBackup: "Excited about #linux, #nodejs, #python? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Job Overview:
