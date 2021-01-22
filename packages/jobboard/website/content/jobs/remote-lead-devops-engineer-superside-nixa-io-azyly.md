@@ -1,18 +1,18 @@
 ---
-title: "Remote Lead DevOps Engineer / Superside"
+title: "Remote Lead DevOps Engineer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/9508FD46BF/"
 applyUrl: "https://apply.workable.com/nixa/j/9508FD46BF/apply/"
 timestamp: 1611273600000
-hashtags: "#ui/ux,#spring,#kotlin,#management,#terraform,#reactjs,#nodejs,#java,#typescript,#kubernetes"
+hashtags: "#spring,#kotlin,#terraform,#reactjs,#nodejs,#java,#ui/ux,#typescript,#kubernetes,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "If you have 3+ years of experience as an on-call DevOps, SRE, Infrastructure- or Cloud Engineer, Nixa.io is looking for someone with your skillset."
+summary: "If you have 3+ years of experience as an on-call DevOps, SRE, Infrastructure or Cloud Engineer, Nixa.io is looking for someone with your skillset."
 summaryBackup: "To apply as a remote lead devops engineer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #spring, #kotlin."
-featured: 20
+featured: 11
 ---
 
 ## Description
@@ -39,7 +39,6 @@ We're looking for a talented, experienced and driven DevOps engineer to fit this
 *   Experience in troubleshooting and resolving problems as well as customer conflicts in a customer-focused manner
 *   Understand modern approaches to software security – and know what needs to be done to secure software systems and cloud-based infrastructure
 *   Equipped with a proactive security mindset, and a solid understanding of information security and privacy principles
-
 *   The ability to work well independently and in a team environment, follow procedures and adapt to new technology and situations.
 *   Process and results-oriented with strong attention to detail
 
@@ -59,7 +58,9 @@ Get the chance to join in early on a scale-up journey with a company that is pio
 *   Flexible work hours and location
 *   5 weeks paid vacation
 
-**How the process looks:** 1) Screening call (30 min)
+**How the process looks:** 
+
+1) Screening call (30 min)
 
 2) Technical test (2 hours)
 
