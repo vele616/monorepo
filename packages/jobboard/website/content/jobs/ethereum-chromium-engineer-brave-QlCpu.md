@@ -1,18 +1,17 @@
 ---
-title: "Ethereum / Chromium engineer"
+title: "Ethereum / Chromium Engineer"
 location: "Anywhere"
 host: "https://boards.greenhouse.io/brave"
 companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/2453765"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/2453765#app"
 timestamp: 1611273600000
-hashtags: "#javascript,#reactjs,#office,#English"
+hashtags: "#javascript,#reactjs,#cplusplus,#office,#English"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "Brave is looking for an ethereum that has 5+ years experience with application development."
+summary: "Brave is looking for an Ethereum / Chromium Engineer that has 5+ years experience with application development."
 summaryBackup: "Excited about #javascript, #reactjs, #office? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Brave is looking for an experienced Senior Software Engineer to work on cryptocurrency integrations with Brave.  You'll work on our Crypto Wallets feature which started out as a fork of MetaMask.  This is a high­ profile and impactful, hands­-on position.  Work together with our developers and privacy/security experts to help us take our browser to the next level.
