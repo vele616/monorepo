@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering (Team Lead)"
+title: "Software Engineering"
 location: ""
 host: "https://gistia.breezy.hr/"
 companyName: "gistia"
@@ -8,11 +8,10 @@ applyUrl: "https://gistia.breezy.hr/p/30f0ebfa2f0c-software-engineering-team-lea
 timestamp: 1611273600000
 hashtags: "#javascript,#reactjs,#nodejs,#angular,#vuejs,#assembly,#scrum,#ansible,#puppet,#chef"
 jobType: "software"
-
 companyWebsite: "https://gistia.breezy.hr/"
-summary: "If you have 5 years experience in software development and 6 months experience leading a development team, consider applying to Gistia's job post for a new software engineering."
+summary: "If you have 5 years experience in software development and 6 months experience leading a development team, consider applying to Gistia's job post for a new Software Engineering."
 summaryBackup: "Love #javascript, #reactjs, #nodejs? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job overview:
@@ -43,4 +42,4 @@ The key role of a Team Leader is to oversee and manage the consulting process of
 
 ## Benefits:
 
-__Join our incredibly talented team on a mission to radically transform the future of healthcare! Rapidly develop your career in software development alongside a company at the forefront of machine learning; Gistia Healthcare is a leading provider of artificial intelligence products and services that help balance the playing field between providers and payers. Become a vital part of something truly transformative as we embrace the endless opportunities for improvement in the US Healthcare Industry. Gistia offers competitive compensation and benefits, including unlimited vacation time, monthly stipend for health insurance, ability to work with international clients, remote working environment, highly experienced, collaborative teams, and English tutoring for non-native speakers.__
+_Join our incredibly talented team on a mission to radically transform the future of healthcare! Rapidly develop your career in software development alongside a company at the forefront of machine learning; Gistia Healthcare is a leading provider of artificial intelligence products and services that help balance the playing field between providers and payers. Become a vital part of something truly transformative as we embrace the endless opportunities for improvement in the US Healthcare Industry. Gistia offers competitive compensation and benefits, including unlimited vacation time, monthly stipend for health insurance, ability to work with international clients, remote working environment, highly experienced, collaborative teams, and English tutoring for non-native speakers.__
