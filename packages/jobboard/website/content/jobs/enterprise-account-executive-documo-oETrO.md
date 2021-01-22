@@ -2,17 +2,17 @@
 title: "Enterprise Account Executive"
 location: "Remote OK"
 host: "https://documo.breezy.hr/"
-companyName: "documo"
+companyName: "Documo"
 url: "https://documo.breezy.hr/p/01ed1d48a51b-enterprise-account-executive"
 applyUrl: "https://documo.breezy.hr/p/01ed1d48a51b-enterprise-account-executive/apply"
 timestamp: 1611273600000
-hashtags: "#sales,#css,#crm"
-jobType: "software"
+hashtags: "#sales,#management,#crm,#css"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/documo"
 companyWebsite: "https://documo.com/"
-summary: "Interested in new opportunities and have 5 years of successful enterprise sales experience meeting quota in a startup environment? Documo has a job opening for an enterprise account executive."
+summary: "Interested in new opportunities and have 5 years of successful enterprise sales experience meeting quota in a startup environment? Documo has a job opening for an Enterprise Account Executive."
 summaryBackup: "Excited about #sales, #css, #crm? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Overview
