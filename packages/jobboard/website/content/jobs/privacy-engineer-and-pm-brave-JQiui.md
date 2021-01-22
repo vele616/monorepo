@@ -6,11 +6,10 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/2570064"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/2570064#app"
 timestamp: 1611273600000
-hashtags: "#management,#javascript,#ios,#analysis,#monitoring"
+hashtags: "#management,#analysis,#monitoring,#javascript,#ios"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "To apply as a privacy engineer and pm at Brave, you preferably need to have experience working in Chromium or similarly large, multi."
+summary: "To apply as a privacy engineer and pm at Brave, you preferably need to have experience working in Chromium or similarly large, multi-stakeholder code bases a deep understanding of the Web and trends in Web privacy."
 summaryBackup: "To apply as a privacy engineer and pm at Brave, you preferably need to have some knowledge of: #management, #javascript, #ios."
 featured: 20
 ---
