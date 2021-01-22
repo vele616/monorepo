@@ -1,18 +1,17 @@
 ---
-title: "Senior Software Engineer (JavaScript)"
-location: ""
+title: "Senior Software Engineer"
+location: "Remote OK"
 host: "https://gistia.breezy.hr/"
-companyName: "gistia"
+companyName: "Gistia"
 url: "https://gistia.breezy.hr/p/378c0ea2e0f7-senior-software-engineer-javascript"
 applyUrl: "https://gistia.breezy.hr/p/378c0ea2e0f7-senior-software-engineer-javascript/apply"
 timestamp: 1611273600000
-hashtags: "#javascript,#reactjs,#css,#ui/ux,#html,#java,#typescript,#management,#git,#scrum"
+hashtags: "#javascript,#reactjs,#typescript,#css,#ui/ux,#html,#java,#management,#git,#scrum"
 jobType: "software"
-
 companyWebsite: "https://gistia.breezy.hr/"
-summary: "Gistia intends to hire a new senior software engineer. If you have 3-5+ Years of professional experience working with any of the following technologies, consider applying."
+summary: "Gistia intends to hire a new Senior Software Engineer. If you have 3-5+ Years of professional experience working with any of the #javascript, #reactjs, #typescript technologies, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Gistia helps organizations deliver high-quality full stack enterprise solutions.
@@ -48,7 +47,6 @@ We have an internationally distributed team, so the work will be remote. Therefo
 *   Node.js
 *   CSS
 *   Or proven ability in at least two modern languages
-
 *   Experience in designing, developing, supporting and maintaining Java applications
 *   Front end development (HTML5, CSS3, etc.)
 *   Back end development with Node.js
