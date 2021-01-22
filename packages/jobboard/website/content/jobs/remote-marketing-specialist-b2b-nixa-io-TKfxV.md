@@ -1,5 +1,5 @@
 ---
-title: "Remote Marketing Specialist (B2B)"
+title: "Remote Marketing Specialist"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#content,#analysis,#branding,#management,#socialmedia,#css
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io is searching for a remote marketing specialist that has 1-3 years of professional experience within marketing analytics, content writing, PPC channels, CMS and SEO."
+summary: "Nixa.io is searching for a Remote Marketing Specialist that has 1-3 years of professional experience within marketing analytics, content writing, PPC channels, CMS and SEO."
 summaryBackup: "Nixa.io is looking for a remote marketing specialist that has experience in: #marketing, #content, #analysis."
-featured: 20
+featured: 9
 ---
 
 ## Description
@@ -75,11 +75,10 @@ As our Marketing Specialist (B2B), you will work in a cross-functional role with
 **Bonus points:**
 
 *   Experience from the tech/IT industry
-
 *   An interest in recruitment and SaaS platforms
 *   Outgoing, ambitious, and eager to gain experience with 360 marketing, tech recruitment, and growth hacking in a tech startup environment
 
-_We want to find a person who can fill this role_ _**full-time remotely**__**.** We will unfortunately not accept applicants from candidates outside our defined timezone._
+_We want to find a person who can fill this role_ _**full-time remotely.**_ We will unfortunately not accept applicants from candidates outside our defined timezone._
 
 ## Benefits
 
