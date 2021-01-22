@@ -6,9 +6,8 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/752264"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/752264#app"
 timestamp: 1611273600000
-hashtags: "#javascript,#office,#English"
-jobType: "other"
-
+hashtags: "#javascript,#cplusplus,#office,#English"
+jobType: "software"
 companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "If you have 5+ years experience with desktop application development, Brave is looking for someone with your knowledge."
 summaryBackup: "To apply as a senior chromium engineer at Brave, you preferably need to have some knowledge of: #javascript, #office, #English."
