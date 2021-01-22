@@ -1,18 +1,18 @@
 ---
-title: "Front-End Developer (Growth Team) Nixa.io + Cobalt.io"
+title: "Front-End Developer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/ECAD95BC75/"
 applyUrl: "https://apply.workable.com/nixa/j/ECAD95BC75/apply/"
 timestamp: 1611273600000
-hashtags: "#sales,#rails,#nodejs,#rubylang,#scrum,#googlecloud,#management,#marketing,#office,#rest"
+hashtags: "#rails,#nodejs,#rubylang,#scrum,#googlecloud,#management,#marketing,#sales,#office,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io wishes to hire a new front-end developer. If you have 3+ years of professional experience with web/software development, consider applying."
+summary: "Nixa.io wishes to hire a new Front-End Developer. If you have 3+ years of professional experience with web/software development, consider applying."
 summaryBackup: "Excited about #sales, #rails, #nodejs? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
