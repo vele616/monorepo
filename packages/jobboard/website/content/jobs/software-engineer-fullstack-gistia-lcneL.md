@@ -1,18 +1,17 @@
 ---
-title: "Software Engineer (Fullstack)"
-location: ""
+title: "Software Engineer"
+location: "Sao Paulo, BR -  Remote OK"
 host: "https://gistia.breezy.hr/"
-companyName: "gistia"
+companyName: "Gistia"
 url: "https://gistia.breezy.hr/p/7473bc5f0904-software-engineer-fullstack"
 applyUrl: "https://gistia.breezy.hr/p/7473bc5f0904-software-engineer-fullstack/apply"
 timestamp: 1611273600000
 hashtags: "#analysis,#python,#java,#ui/ux,#html,#css,#scrum,#ansible,#puppet,#chef"
 jobType: "software"
-
 companyWebsite: "https://gistia.breezy.hr/"
-summary: "Gistia intends to hire a new software engineer. If you have 3+ years of experience in related technologies, consider applying."
+summary: "Gistia intends to hire a new Software Engineer. If you are comfortable working in Linux OS, programming in Python, C/C++, and/or Java, consider applying."
 summaryBackup: "Love #analysis, #python, #java? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Job overview:
@@ -42,4 +41,4 @@ Gistia Healthcare is looking for Software Engineers at mid and senior levels for
 
 ## Benefits:
 
-__Join our incredibly talented team on a mission to radically transform the future of healthcare! Rapidly develop your career in software development alongside a company at the forefront of machine learning; Gistia Healthcare is a leading provider of artificial intelligence products and services that help balance the playing field between providers and payers. Become a vital part of something truly transformative as we embrace the endless opportunities for improvement in the US Healthcare Industry. Gistia offers competitive compensation and benefits, including unlimited vacation time, monthly stipend for health insurance, ability to work with international clients, remote working environment, highly experienced, collaborative teams, and English tutoring for non-native speakers.__
+_Join our incredibly talented team on a mission to radically transform the future of healthcare! Rapidly develop your career in software development alongside a company at the forefront of machine learning; Gistia Healthcare is a leading provider of artificial intelligence products and services that help balance the playing field between providers and payers. Become a vital part of something truly transformative as we embrace the endless opportunities for improvement in the US Healthcare Industry. Gistia offers competitive compensation and benefits, including unlimited vacation time, monthly stipend for health insurance, ability to work with international clients, remote working environment, highly experienced, collaborative teams, and English tutoring for non-native speakers.__
