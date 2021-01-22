@@ -6,11 +6,11 @@ companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=155&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=155&source=other"
 timestamp: 1611273600000
-hashtags: "#management,#branding,#ui/ux,#scrum,#office,#English"
+hashtags: "#management,#branding,#office,#English,#ui/ux,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU is looking for a talent acquisition that has experience in: experience in: #management, #branding, #ui/ux."
+summary: "BMAT Licensing SLU is looking for a Talent Acquisition that has excellent communication skills and attention to details."
 summaryBackup: "BMAT Licensing SLU is looking for a talent acquisition that has experience in: #management, #branding, #ui/ux."
 featured: 20
 ---
@@ -43,7 +43,7 @@ This role can be performed in any location within the EMEA region.
 *   Prepare and share offer letters, and negotiate starting date with candidates.
 *   Onboard BMATers, perform new joiner checks-in and off-boarding interviews.
 *   Take to the next level our employer branding activities.
-*    Participate in university fairs and events. 
+*   Participate in university fairs and events. 
 
 ## All About You
 
@@ -58,12 +58,10 @@ This role can be performed in any location within the EMEA region.
 
 *   Full-time or part-time job.
 *   Flexible working location and flexibility on working hours.
-*   Flat hierarchy.  
-    
+*   Flat hierarchy. 
 *   Free English and Spanish classes.
 *   Wide range of online and onsite courses.
 *   Possibility to choose your hardware and tools.  
-    
 *   Becoming part of a young and international team based in Barcelona obsessed with bettering the music industry.
 
 Diverse perspectives bring drive innovation, and innovation is kind of our thing. Our open-minded and flexible culture organically fosters this diversity. We've learnt that we thrive on learning from each other, so we don't just welcome but actively hire a range of open-minded people from all walks of life. Our team is made up of people with different backgrounds, perspectives, orientations, abilities, musical tastes, dress sense and time-zones - but we all have one common goal: Making the music world a better place. With equal opportunities for everyone, BMAT is a pretty nice place to work.
