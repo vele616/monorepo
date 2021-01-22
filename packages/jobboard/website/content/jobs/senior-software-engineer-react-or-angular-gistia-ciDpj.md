@@ -1,18 +1,17 @@
 ---
-title: "Senior Software Engineer (React or Angular)"
-location: ""
+title: "Senior Software Engineer"
+location: "Campinas, BR -  Remote OK"
 host: "https://gistia.breezy.hr/"
-companyName: "gistia"
+companyName: "Gistia"
 url: "https://gistia.breezy.hr/p/7888741f5c4e-senior-software-engineer-react-or-angular"
 applyUrl: "https://gistia.breezy.hr/p/7888741f5c4e-senior-software-engineer-react-or-angular/apply"
 timestamp: 1611273600000
 hashtags: "#reactjs,#angular,#css,#javascript,#ui/ux,#html,#spring,#nodejs,#java,#scala"
 jobType: "software"
-
 companyWebsite: "https://gistia.breezy.hr/"
-summary: "Gistia is searching for a senior software engineer that has 3-5+ Years of professional experience working with any of the following technologies."
+summary: "Gistia is searching for a senior software engineer that has 3-5+ years of professional experience working with any of the following technologies: #angular, #java, #scala, #spring, #reactjs."
 summaryBackup: "Excited about #reactjs, #angular, #css? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 Full-time remote position.
@@ -47,7 +46,6 @@ We have an internationally distributed team, so the work will be remote. Therefo
 *   Node
 *   CSS
 *   Or proven ability in at least two modern languages
-
 *   Experience in designing, developing, supporting and maintaining applications built on React or Angular.
 *   Front end development (HTML5, CSS3, etc.)
 *   Javascript (ES6)
