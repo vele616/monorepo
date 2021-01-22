@@ -1,5 +1,5 @@
 ---
-title: "Data Engineer - Python"
+title: "Data Engineer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
 companyName: "BMAT Licensing SLU"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licen
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "If you have experience working with document-oriented databases like MongoDB or Elasticsearch, BMAT Licensing SLU has a job opening for a Data Engineer."
 summaryBackup: "BMAT Licensing SLU is looking for a data engineer that has experience in: #python, #linux, #docker."
-featured: 20
+featured: 4
 ---
 
 ## About BMAT 
