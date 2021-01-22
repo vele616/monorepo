@@ -6,11 +6,11 @@ companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=151&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=151&source=other"
 timestamp: 1611273600000
-hashtags: "#management,#macos,#translation,#office,#sales,#scrum,#English"
+hashtags: "#management,#translation,#English,#office,#sales,#scrum,#macos"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "To apply as a digital client manager at BMAT Licensing SLU, you preferably need to have some knowledge of: experience in: #management, #macos, #translation."
+summary: "To apply as a Digital Client Manager at BMAT Licensing SLU, you preferably need to have some knowledge of: experience in: #management, #macos, #translation."
 summaryBackup: "To apply as a digital client manager at BMAT Licensing SLU, you preferably need to have some knowledge of: #management, #macos, #translation."
 featured: 20
 ---
@@ -57,11 +57,9 @@ This role can be performed in any location within the EMEA region.
 
 *   Remote working and flexibility on working hours.
 *   Flat hierarchy.  
-    
 *   Free English and Spanish classes.
 *   Wide range of online and onsite courses.
 *   Possibility to choose your hardware and tools.  
-    
 *   Becoming part of a young and international team based in Barcelona obsessed with bettering the music industry.
 
 Diverse perspectives bring drive innovation, and innovation is kind of our thing. Our open-minded and flexible culture organically fosters this diversity. We've learnt that we thrive on learning from each other, so we don't just welcome but actively hire a range of open-minded people from all walks of life. Our team is made up of people with different backgrounds, perspectives, orientations, abilities, musical tastes, dress sense and time-zones - but we all have one common goal: Making the music world a better place. With equal opportunities for everyone, BMAT is a pretty nice place to work.
