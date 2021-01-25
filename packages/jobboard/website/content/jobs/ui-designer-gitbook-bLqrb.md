@@ -7,12 +7,12 @@ url: "https://jobs.lever.co/gitbook/4f388a45-941d-401c-95a9-fae1bc8cdea6"
 applyUrl: "https://jobs.lever.co/gitbook/4f388a45-941d-401c-95a9-fae1bc8cdea6/apply"
 timestamp: 1611532800000
 hashtags: "#ui/ux,#css,#html,#marketing,#scrum"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gitbook"
 companyWebsite: "https://gitbook.com/"
-summary: "If you have 4+ years experience in a product-focused design role, GitBook has a job opening for an ui designer"
+summary: "If you have 4+ years experience in a product-focused design role, GitBook has a job opening for an UI Designer"
 summaryBackup: "Excited about #ui/ux, #css, #html? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ‌GitBook is a modern documentation platform. Our ambition is to empower teams' intelligence. We want to help teams work more efficiently by creating a single place to leverage their knowledge and share their docs with the world.
