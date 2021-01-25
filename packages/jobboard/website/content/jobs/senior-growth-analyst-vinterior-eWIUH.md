@@ -6,13 +6,13 @@ companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/CCE1321036/"
 applyUrl: "https://apply.workable.com/vinterior/j/CCE1321036/apply/"
 timestamp: 1611532800000
-hashtags: "#marketing,#ui/ux,#socialmedia,#analysis,#analytics,#branding,#operations,#crm,#optimization"
+hashtags: "#marketing,#analysis,#optimization,#ui/ux,#socialmedia,#analytics,#branding,#operations,#crm"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "Interested in new opportunities and have 5 years), ideally with previous experience in a digital marketplace? Vinterior has a job opening for a senior growth analyst."
+summary: "Interested in new opportunities and have 5 years of experience as an analyst, ideally in a digital marketplace? Vinterior has a job opening for a Senior Growth Analyst."
 summaryBackup: "Excited about #marketing, #ui/ux, #socialmedia? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
