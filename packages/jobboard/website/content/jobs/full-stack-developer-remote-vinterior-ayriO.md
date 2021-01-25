@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Developer - Remote"
+title: "Full Stack Developer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vinterior/"
 companyName: "Vinterior"
@@ -10,9 +10,9 @@ hashtags: "#rails,#rubylang,#javascript,#reactjs,#marketing,#ui/ux,#management,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "Vinterior is looking for a full stack developer that has this is a big problem domain for us and it ranges from developing a best in class search experience to working on improving our recommendations engine and our product creation flows."
+summary: "Vinterior is looking for a Full Stack Developer that has 2 or more years of professional experience with HTML, CSS, Javascript and Ruby web development."
 summaryBackup: "Vinterior is looking for a full stack developer that has experience in: #rails, #rubylang, #javascript."
-featured: 20
+featured: 1
 ---
 
 ## Description
