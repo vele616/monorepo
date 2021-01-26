@@ -1,5 +1,5 @@
 ---
-title: "Freelance Translator/ Proofreader (Chinese to English)"
+title: "Freelance Translator/ Proofreader"
 location: "Remote"
 host: "https://jobs.lever.co/binance?location=Remote&commitment=Full-time%3A%20Remote"
 companyName: "Binance"
@@ -10,7 +10,7 @@ hashtags: "#translation,#content,#marketing,#English,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "Binance is looking for a freelance translator that has 3 years of translation experience."
+summary: "Binance is looking for a Freelance Translator that has 3 years of translation experience."
 summaryBackup: "To apply as a freelance translator at Binance, you preferably need to have some knowledge of: #translation, #content, #marketing."
 featured: 20
 ---
@@ -25,7 +25,7 @@ Are you looking to be a part of the most influential company in the blockchain i
 
 ## Requirements:
 
-*   Native in English US and fluent in Chinese;
+*   Native in **English US** and fluent in **Chinese**;
 *   At least 3 years of translation experience (tech and finance industries preferred);
 *   Good understanding of cryptocurrency and blockchain technology;
 *   Experience in translating UI/UX strings;
