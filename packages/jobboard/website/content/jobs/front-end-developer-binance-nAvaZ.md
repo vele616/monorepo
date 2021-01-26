@@ -6,13 +6,13 @@ companyName: "Binance"
 url: "https://jobs.lever.co/binance/289c36e2-b46c-4de8-995d-8d03cdc79c81"
 applyUrl: "https://jobs.lever.co/binance/289c36e2-b46c-4de8-995d-8d03cdc79c81/apply"
 timestamp: 1611619200000
-hashtags: "#css,#javascript,#reactjs,#html,#git,#finance,#optimization"
+hashtags: "#javascript,#reactjs,#html,#css,#git,#finance,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "Interested in new opportunities and have experience with modern front end technologies? Binance has a job opening for a front-end developer."
+summary: "Interested in new opportunities and have experience with modern front end technologies? Binance has a job opening for a Front-End Developer."
 summaryBackup: "Excited about #css, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
