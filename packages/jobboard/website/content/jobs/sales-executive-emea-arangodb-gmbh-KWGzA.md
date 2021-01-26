@@ -1,18 +1,18 @@
 ---
-title: "Sales Executive - EMEA"
+title: "Sales Executive"
 location: "Remote Worldwide"
 host: "https://arangodb-gmbh.breezy.hr/?&location=Worldwide#positions"
-companyName: "arangodb-gmbh"
+companyName: "ArangoDB gmbh"
 url: "https://arangodb-gmbh.breezy.hr/p/31e9db8818f601-sales-executive-emea"
 applyUrl: "https://arangodb-gmbh.breezy.hr/p/31e9db8818f601-sales-executive-emea/apply"
 timestamp: 1611619200000
-hashtags: "#sales,#javascript,#management,#marketing"
+hashtags: "#sales,#management,#marketing,#javascript"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/arangodb-gmbh"
 companyWebsite: "https://www.arangodb.com/"
-summary: "Arangodb-gmbh is searching for a sales executive that has 5+ years of software sales experience in a deep tech field like databases, cloud and/or open-source software."
+summary: "ArangoDB is searching for a Sales Executive that has 5+ years of software sales experience in a deep tech field like databases, cloud and/or open-source software."
 summaryBackup: "Excited about #sales, #javascript, #management? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 ArangoDB is the leading native multi-model NoSQL database, with more than 10 million downloads. It combines the power of graphs, with JSON documents and a key-value store. ArangoDB makes all of your data models accessible with a single declarative query language. Developers can build high-performance applications using a convenient SQL-like query language or JavaScript extensions. And did we mention it is open source?
