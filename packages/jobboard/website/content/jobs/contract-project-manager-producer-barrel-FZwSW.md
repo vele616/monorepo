@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/embed/job_app?for=barrel&token=417644000
 timestamp: 1611619200000
 hashtags: "#management,#content,#marketing,#ui/ux,#css,#html,#jira,#windows,#wordpress,#branding"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=barrel"
-summary: "Barrel wishes to hire a new contract project manager. If you have prior experience working on WordPress and/or Shopify website projects, consider applying."
+summary: "Barrel wishes to hire a new Contract Project Manager. If you have prior experience working on WordPress and/or Shopify website projects, consider applying."
 summaryBackup: "Barrel is looking for a contract project manager that has experience in: #management, #content, #marketing."
-featured: 20
+featured: 17
 ---
 
 Barrel is a creative and digital marketing agency that works with exciting lifestyle brands such as KIND Snacks, Peloton, Wanderlust, and Sakara Life. We design and develop user experience solutions and help clients navigate marketing challenges. Founded in 2006, with offices in New York City and Los Angeles.
