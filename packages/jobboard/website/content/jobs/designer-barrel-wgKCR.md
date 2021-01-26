@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/embed/job_app?for=barrel&token=421098200
 timestamp: 1611619200000
 hashtags: "#ui/ux,#branding,#management,#marketing,#css,#html,#office,#photoshop,#figma"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=barrel"
-summary: "If you have we designing meaningful experiences that help our clients create deeper relationships with their customers, Barrel is looking for someone with your knowledge."
+summary: "If you have 3+ years digital experience, solid knowledge of industry tools and understanding of designing intuitive and responsive user experiences, Barrel is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #branding, #management? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Company Background
