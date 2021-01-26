@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
 summary: "Binance is looking for a Customer Support Lead that has 5 years experience of customer service management, including more than 3 years experience of customer service supervisor."
 summaryBackup: "To apply as a customer support lead at Binance, you preferably need to have some knowledge of: #management, #operations, #office."
-featured: 20
+featured: 12
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
