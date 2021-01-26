@@ -2,17 +2,17 @@
 title: "Site Reliability Engineer"
 location: "Remote Worldwide"
 host: "https://arangodb-gmbh.breezy.hr/?&location=Worldwide#positions"
-companyName: "arangodb-gmbh"
+companyName: "ArangoDB gmbh"
 url: "https://arangodb-gmbh.breezy.hr/p/3e78deb0a24401-site-reliability-engineer"
 applyUrl: "https://arangodb-gmbh.breezy.hr/p/3e78deb0a24401-site-reliability-engineer/apply"
 timestamp: 1611619200000
-hashtags: "#javascript,#python,#java,#golang,#rustlang,#kubernetes,#aws,#azure,#management,#docker"
+hashtags: "#javascript,#python,#golang,#rustlang,#java,#kubernetes,#aws,#azure,#management,#docker"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/arangodb-gmbh"
 companyWebsite: "https://www.arangodb.com/"
-summary: "If you have you have experience in building and maintaining large, Arangodb-gmbh has a job opening for a site reliability engineer"
+summary: "If you have experience in building and maintaining large-scale distributed cloud infrastructures, ArangoDB has a job opening for a Site Reliability Engineer"
 summaryBackup: "Love #javascript, #python, #java? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 ArangoDB is the leading native multi-model NoSQL database, with more than 10 million downloads. It combines the power of graphs, with JSON documents and a key-value store. ArangoDB makes all of our clients data models accessible with a single declarative query language. Developers can build high-performance applications on distributed clusters. Oh, and did we mention it is open source?
