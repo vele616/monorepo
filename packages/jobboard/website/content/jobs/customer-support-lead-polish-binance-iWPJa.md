@@ -1,16 +1,16 @@
 ---
-title: "Customer Support Lead - Polish"
+title: "Customer Support Lead"
 location: "Remote"
 host: "https://jobs.lever.co/binance?location=Remote&commitment=Full-time%3A%20Remote"
 companyName: "Binance"
 url: "https://jobs.lever.co/binance/eaa9c7f5-2794-4871-a7fd-3cc3d69611e4"
 applyUrl: "https://jobs.lever.co/binance/eaa9c7f5-2794-4871-a7fd-3cc3d69611e4/apply"
 timestamp: 1611619200000
-hashtags: "#management,#operations,#office,#marketing,#analysis,#English,#finance"
+hashtags: "#management,#operations,#English,#office,#marketing,#analysis,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "Binance is looking for a customer support lead that has 5 years experience of customer service management, including more than 3 years experience of customer service supervisor."
+summary: "Binance is looking for a Customer Support Lead that has 5 years experience of customer service management, including more than 3 years experience of customer service supervisor."
 summaryBackup: "To apply as a customer support lead at Binance, you preferably need to have some knowledge of: #management, #operations, #office."
 featured: 20
 ---
