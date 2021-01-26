@@ -1,5 +1,5 @@
 ---
-title: "Senior Full-Stack Software Engineer | Remote"
+title: "Senior Full-Stack Software Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/able"
 companyName: "Able"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#rails,#rubylang,#html,#css,#javascript,#typescript,#managem
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/able"
 companyWebsite: "https://boards.greenhouse.io/able"
-summary: "If you have 4+ years of professional experience working as a software engineer, Able has a job opening for a senior full-stack software engineer | remote"
+summary: "If you have 4+ years of professional experience working as a software engineer, Able has a job opening for a Senior Full-Stack Software Engineer"
 summaryBackup: "To apply as a senior full-stack software engineer | remote at Able, you preferably need to have some knowledge of: #reactjs, #rails, #rubylang."
-featured: 20
+featured: 5
 ---
 
 We are Able, a company building products through a portfolio model, and we are looking for a Full-Stack Software Engineer.Do you enjoy the thrill of building complex full-stack solutions with ever-evolving interfaces? Would you like to create products for several industries, following our thesis of impacting the world to make it a better place for all?Able may be the place you’ve been longing for. The one where creative and innovative projects meet with **good-willing and passionate** teams — plus many other perks to boot that we can offer.
