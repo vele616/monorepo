@@ -1,18 +1,18 @@
 ---
-title: "Senior Frontend Engineer - Remote"
-location: ""
+title: "Senior Frontend Engineer"
+location: "Remote"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/8D3217FFB3/"
 applyUrl: "https://apply.workable.com/fonoa/j/8D3217FFB3/apply/"
 timestamp: 1611619200000
-hashtags: "#ui/ux,#reactjs,#css,#nodejs,#operations,#html,#windows,#aws,#marketing,#content"
+hashtags: "#reactjs,#css,#nodejs,#operations,#html,#windows,#aws,#ui/ux,#marketing,#content"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
-summary: "To apply as a senior frontend engineer at Fonoa Technologies, you preferably need to have 5 years experience in software development."
+summary: "To apply as a Senior Frontend Engineer at Fonoa Technologies, you preferably need to have 5 years experience in software development."
 summaryBackup: "Love #ui/ux, #reactjs, #css? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Description
