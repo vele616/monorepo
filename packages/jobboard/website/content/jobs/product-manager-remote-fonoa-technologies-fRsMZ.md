@@ -1,18 +1,18 @@
 ---
-title: "Product Manager - Remote"
-location: ""
+title: "Product Manager"
+location: "Remote"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/9FF6A13F8A/"
 applyUrl: "https://apply.workable.com/fonoa/j/9FF6A13F8A/apply/"
 timestamp: 1611619200000
-hashtags: "#css,#ui/ux,#marketing,#operations,#sales,#windows,#aws,#content,#management,#office"
+hashtags: "#marketing,#operations,#management,#sales,#css,#ui/ux,#windows,#aws,#content,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
 summary: "If you have 3 years of experience in a B2B SaaS or API product management role, Fonoa Technologies is looking for someone with your skillset."
 summaryBackup: "Excited about #css, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
