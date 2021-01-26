@@ -6,13 +6,13 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/4530c6dd-0446-4356-a347-d8dd67c301ad"
 applyUrl: "https://jobs.lever.co/auth0/4530c6dd-0446-4356-a347-d8dd67c301ad/apply"
 timestamp: 1611619200000
-hashtags: "#golang,#ui/ux,#python,#windows,#linux,#aws,#azure,#postgresql,#mongodb,#office"
+hashtags: "#golang,#python,#mongodb,#windows,#linux,#aws,#azure,#postgresql,#ui/ux,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "Interested in new opportunities and have experience with Amazon Web Services or Microsoft Azure? Auth0 has a job opening for a senior engineer."
+summary: "Interested in new opportunities and have experience with Amazon Web Services or Microsoft Azure? Auth0 has a job opening for a Senior Engineer."
 summaryBackup: "Love #golang, #ui/ux, #python? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
@@ -53,7 +53,7 @@ We are looking for engineers with a good understanding of how systems fail, and 
 *   You have a great ability to debug and optimize code, and automate routine tasks.
 *   You have designed applications and systems that scale, are resilient to failure, and are observable.
 *   You are comfortable participating in an on-call rotation and taking charge of potentially stressful situations.
-*   You have practical experience developing and improving applications written in [Node.js](http://Node.js) or Go.
+*   You have practical experience developing and improving applications written in Node.js or Go.
 *   You live in a timezone located in GMT-8 to GMT+2 (we are giving preference to candidates who align with the existing team).
 
 ## Extra points:
