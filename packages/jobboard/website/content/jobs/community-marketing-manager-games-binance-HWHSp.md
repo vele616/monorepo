@@ -1,5 +1,5 @@
 ---
-title: "Community Marketing Manager (Games)"
+title: "Community Marketing Manager"
 location: "Remote"
 host: "https://jobs.lever.co/binance?location=Remote&commitment=Full-time%3A%20Remote"
 companyName: "Binance"
@@ -10,7 +10,7 @@ hashtags: "#marketing,#socialmedia,#content,#branding,#management,#analytics,#fi
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "Binance wishes to hire a new community marketing manager. If you have candidates must have experience attracting and growing crypto communities, as well deep relationships with the global crypto community, KOLs and PR/marketing outlets, consider applying."
+summary: "Binance wishes to hire a new Community Marketing Manager. If you have experience attracting and growing crypto communities, as well deep relationships with the global crypto community, KOLs and PR/marketing outlets, consider applying."
 summaryBackup: "To apply as a community marketing manager at Binance, you preferably need to have some knowledge of: #marketing, #socialmedia, #content."
 featured: 20
 ---
