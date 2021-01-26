@@ -6,13 +6,13 @@ companyName: "Binance"
 url: "https://jobs.lever.co/binance/9d471489-6f7d-441c-8f59-c8f9378dec21"
 applyUrl: "https://jobs.lever.co/binance/9d471489-6f7d-441c-8f59-c8f9378dec21/apply"
 timestamp: 1611619200000
-hashtags: "#marketing,#content,#branding,#management,#socialmedia,#photoshop,#English"
+hashtags: "#marketing,#content,#socialmedia,#branding,#management,#photoshop,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "To apply as an animator at Binance, you preferably need to have 3+ years of experience working with AE and other tools."
+summary: "To apply as an Animator/ Video Creator at Binance, you preferably need to have 3+ years of experience working with AE and other tools."
 summaryBackup: "Excited about #marketing, #content, #branding? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
