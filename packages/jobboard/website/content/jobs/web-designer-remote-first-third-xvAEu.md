@@ -6,13 +6,13 @@ companyName: "First+Third"
 url: "http://firstandthird.applytojob.com/apply/tO4gd9USY8/Web-Designer-Remote"
 applyUrl: "http://firstandthird.applytojob.com/apply/tO4gd9USY8/Web-Designer-Remote"
 timestamp: 1611705600000
-hashtags: "#ui/ux,#management,#css,#html,#macos,#office"
+hashtags: "#ui/ux,#management,#macos,#css,#html,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/first-third"
 companyWebsite: "https://firstandthird.applytojob.com/apply/firstandthird.com"
-summary: "First+Third wishes to hire a new web designer. If you have 3+ years experience as a designer or related discipline, consider applying."
+summary: "First+Third wishes to hire a new Web Designer. If you have 3+ years experience as a designer or related discipline, consider applying."
 summaryBackup: "Love #ui/ux, #management, #css? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## Overview of role: 
