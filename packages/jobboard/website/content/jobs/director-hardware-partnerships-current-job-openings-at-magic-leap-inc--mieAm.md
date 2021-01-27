@@ -40,4 +40,3 @@ The ideal candidate would have extensive experience executing partnerships in th
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
-#LI-REMOTE
