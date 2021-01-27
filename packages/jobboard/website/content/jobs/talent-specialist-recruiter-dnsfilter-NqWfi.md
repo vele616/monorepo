@@ -1,5 +1,5 @@
 ---
-title: "Talent Specialist + Recruiter"
+title: "Talent Specialist - Recruiter"
 location: "Remote - Remote OK"
 host: "https://dnsfilter.breezy.hr/"
 companyName: "dnsfilter"
@@ -10,7 +10,7 @@ hashtags: "#content,#management,#marketing,#operations,#socialmedia,#office,#opt
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dnsfilter"
 companyWebsite: "https://www.dnsfilter.com/"
-summary: "If you have experience working as a member of a fully distributed team whose work hours all vary, consider applying to Dnsfilter's job post for a new talent specialist + recruiter."
+summary: "If you have experience in handling global employment compliance, policy-making, and record-keeping, consider applying to Dnsfilter's job post for a new Talent Specialist - Recruiter."
 summaryBackup: "Dnsfilter is looking for a talent specialist + recruiter that has experience in: #content, #management, #marketing."
 featured: 20
 ---
