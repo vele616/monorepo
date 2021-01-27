@@ -2,15 +2,14 @@
 title: "Director, Cloud Partnerships"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2607509"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2607509#app"
 timestamp: 1611705600000
-hashtags: "#aws,#googlecloud,#css,#kubernetes,#azure,#management,#analysis,#optimization"
-jobType: "software"
-
+hashtags: "#management,#analysis,#optimization,#aws,#googlecloud,#css,#kubernetes,#azure"
+jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 12+ years of deal-making/partner management experience in the cloud solutions space is likely needed to successfully perform this role, Current Job Openings at Magic Leap, Inc. has a job opening for a director"
+summary: "If you have 12+ years of deal-making/partner management experience in the cloud solutions space is likely needed to successfully perform this role, Magic Leap has a job opening for a director"
 summaryBackup: "To apply as a director at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #aws, #googlecloud, #css."
 featured: 20
 ---
@@ -42,4 +41,3 @@ The ideal candidate would have extensive experience executing partnerships with 
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
-#LI-REMOTE
