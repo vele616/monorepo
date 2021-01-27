@@ -1,18 +1,18 @@
 ---
-title: "Manager - Solutions Architecture"
+title: "Solutions Architecture Manager"
 location: "Remote job"
 host: "https://careers.astronomer.io/"
 companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/manager-solutions-architecture"
 applyUrl: "https://careers.astronomer.io/o/manager-solutions-architecture/c/new"
 timestamp: 1611705600000
-hashtags: "#sales,#python,#management,#marketing,#terraform,#windows,#kubernetes,#docker,#content"
-jobType: "software"
+hashtags: "#management,#marketing,#sales,#python,#terraform,#windows,#kubernetes,#docker,#content"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer is searching for a manager that has 3+ years of prior experience leading and managing a presales/solutions team preferably in software related to cloud infrastructure, data engineering, or related technologies."
+summary: "Astronomer is searching for a Solutions Architecture Manager that has 3+ years of prior experience leading and managing a presales/solutions team preferably in software related to cloud infrastructure, data engineering, or related technologies."
 summaryBackup: "Excited about #sales, #python, #management? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Job description
