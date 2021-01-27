@@ -1,8 +1,8 @@
 ---
-title: "Associate, Project Manager, Industrial Design and Human Factors"
+title: "Project Manager Associate"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2607514"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2607514#app"
 timestamp: 1611705600000
@@ -10,7 +10,7 @@ hashtags: "#ui/ux,#management,#jira,#scrum,#office,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is looking for an associate that has experience working in Industrial Design or User Research a plus."
+summary: "Magic Leap is looking for an associate that has experience working in Industrial Design or User Research a plus."
 summaryBackup: "Love #ui/ux, #management, #jira? Check out this job post!"
 featured: 20
 ---
@@ -44,4 +44,4 @@ In addition, this role will support the Human Factors team to create and/or revi
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
-#LI-REMOTE
+
