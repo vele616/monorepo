@@ -10,9 +10,9 @@ hashtags: "#sales,#python,#terraform,#windows,#kubernetes,#docker,#content,#mark
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer is looking for a solution architect that has experience in: experience in: #sales, #python, #terraform."
+summary: "Astronomer is looking for a Solution Architect that has experience in: #sales, #python, #terraform."
 summaryBackup: "Astronomer is looking for a solution architect that has experience in: #sales, #python, #terraform."
-featured: 20
+featured: 16
 ---
 
 ## Job description
