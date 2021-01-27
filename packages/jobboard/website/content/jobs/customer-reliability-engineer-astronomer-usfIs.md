@@ -6,13 +6,13 @@ companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/customer-reliability-engineer"
 applyUrl: "https://careers.astronomer.io/o/customer-reliability-engineer/c/new"
 timestamp: 1611705600000
-hashtags: "#kubernetes,#python,#css,#linux,#docker,#aws,#azure,#googlecloud,#management,#optimization"
+hashtags: "#kubernetes,#python,#docker,#css,#linux,#aws,#azure,#googlecloud,#management,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "If you have we are looking for a talented Customer Reliability Engineer to join our Customer Experience Organization with a focus on bringing reliability engineering practices to our customers, Astronomer is looking for someone with your knowledge."
+summary: "If you have 3-4 years of production infrastructure experience, Astronomer is looking for someone with your knowledge."
 summaryBackup: "To apply as a customer reliability engineer at Astronomer, you preferably need to have some knowledge of: #kubernetes, #python, #css."
-featured: 20
+featured: 14
 ---
 
 ## Job description
@@ -39,10 +39,8 @@ We're approaching customer service with a fresh, proactive mindset that requires
 Must have one or more of the following:
 
 *   Production infrastructure experience (3-4 years)
-
 *   Cloud (one or all of: AWS, GCP, Azure)
 *   Kubernetes/OpenShift/Docker/Containers
-
 *   Airflow/Big Data orchestration experience (3-4 years)
 *   Strong written and verbal communication
 *   Strong customer facing attitude
