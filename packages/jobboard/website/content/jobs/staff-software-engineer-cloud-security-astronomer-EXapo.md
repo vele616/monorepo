@@ -1,5 +1,5 @@
 ---
-title: "Staff Software Engineer - Cloud Security"
+title: "Staff Software Engineer"
 location: "Remote job"
 host: "https://careers.astronomer.io/"
 companyName: "Astronomer"
