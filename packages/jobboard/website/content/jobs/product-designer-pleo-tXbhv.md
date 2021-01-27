@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/pleo/jobs/4305240003#app"
 timestamp: 1611705600000
 hashtags: "#ui/ux,#content,#management,#finance"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "Pleo is looking for a product designer that has experience in: experience in: #ui/ux, #content, #management."
+summary: "Pleo is looking for a Product Designer that has experience in: #ui/ux, #content, #management."
 summaryBackup: "Pleo is looking for a product designer that has experience in: #ui/ux, #content, #management."
-featured: 20
+featured: 11
 ---
 
 ![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
