@@ -2,17 +2,16 @@
 title: "Manager, Software Partnerships"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2607518"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2607518#app"
 timestamp: 1611705600000
 hashtags: "#management,#marketing,#operations,#office,#finance"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7+ years of licensing technologies and deal-making/partner management experience is likely needed to successfully perform this role, Current Job Openings at Magic Leap, Inc. has a job opening for a manager"
+summary: "If you have 7+ years of licensing technologies and deal-making/partner management experience, Magic Leap has a job opening for a manager"
 summaryBackup: "Love #management, #marketing, #operations? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## Job Description
@@ -45,5 +44,3 @@ The ideal candidate will have experience and subject matter expertise in some or
 ## Additional Information
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
-
-#LI-REMOTE
