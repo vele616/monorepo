@@ -2,17 +2,16 @@
 title: "Lead, Experience Design"
 location: "REMOTE"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2595771"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2595771#app"
 timestamp: 1611705600000
 hashtags: "#ui/ux,#content,#scrum"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Interested in new opportunities and have 7 years’ experience designing mobile or web applications, mixed reality, VR, gaming, or physical interactives? Current Job Openings at Magic Leap, Inc. has a job opening for a lead."
+summary: "Interested in new opportunities and have 7 years’ experience designing mobile or web applications, mixed reality, VR, gaming, or physical interactives? Magic Leap has a job opening for a lead."
 summaryBackup: "Love #ui/ux, #content, #scrum? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job Description
