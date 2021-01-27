@@ -1,5 +1,5 @@
 ---
-title: "Product analyst"
+title: "Product Analyst"
 location: "Copenhagen/ Remote"
 host: "https://boards.greenhouse.io/pleo"
 companyName: "Pleo"
@@ -8,35 +8,22 @@ applyUrl: "https://boards.greenhouse.io/pleo/jobs/4153884003#app"
 timestamp: 1611705600000
 hashtags: "#python,#analysis,#ui/ux,#socialmedia,#rest,#English"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "To apply as a product analyst at Pleo, you preferably need to have you have experience working with SQL databases or similar and you have likely worked with tracking tools like Amplitude, Tableau, Metabase, Periscope, Google Data Studio, or Looker."
+summary: "To apply as a Product Analyst at Pleo, you preferably need to have experience working with SQL databases or similar and you have likely worked with tracking tools like Amplitude, Tableau, Metabase, Periscope, Google Data Studio, or Looker."
 summaryBackup: "Pleo is looking for a product analyst that has experience in: #python, #analysis, #ui/ux."
 featured: 20
 ---
 
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
-
 SELECT
-
  (CASE
-
  WHEN open\_positions = 'awesome new role' THEN 'pleo product analyst'
-
  ELSE
-
  NULL
-
  END
-
  ) AS my\_new\_role
-
 FROM
-
  product\_analyst\_jobs
-
 WHERE
-
  data\_manipulation = 'SQL';
 
 If you haven’t raised your eyebrows so far, we are on the right track. You might be just the one that our Products analytics team is looking for. 
