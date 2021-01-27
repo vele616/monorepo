@@ -1,6 +1,6 @@
 ---
 title: "Portuguese speaking Front End Engineer"
-location: "Tech and Product"
+location: "Remote"
 host: "https://manual.recruitee.com/"
 companyName: "Manual"
 url: "https://manual.recruitee.com/o/portuguese-speaking-front-end-engineer"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#typescript,#css,#html,#marketing,#branding,#ui/
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/manual"
 companyWebsite: "https://www.manual.co/"
-summary: "Manual intends to hire a new portuguese speaking front end engineer. If you have 2+ years experience with React, Javascript or Typescript, HTML and CSS● Good working knowledge of at least one version control software, consider applying."
+summary: "Manual intends to hire a new Portuguese speaking Front End Engineer. If you have 2+ years experience with React, Javascript or Typescript, HTML and CSS, consider applying."
 summaryBackup: "To apply as a portuguese speaking front end engineer at Manual, you preferably need to have some knowledge of: #javascript, #reactjs, #typescript."
-featured: 20
+featured: 5
 ---
 
 ## Job description
@@ -37,22 +37,22 @@ In Brazil, we are the first player in this promising market with an end to end s
 
 ## Among others, your role would include:
 
-● Building new product features for both our customers and our operations teams● Work closely with product managers, designers, and backend engineers in order to create innovative and usable solutions● Helping shape the technical direction - we are still a young company, and your choices will become the building blocks of our infrastructure
+● Building new product features for both our customers and our operations teams
+● Work closely with product managers, designers, and backend engineers in order to create innovative and usable solutions
+● Helping shape the technical direction - we are still a young company, and your choices will become the building blocks of our infrastructure
 
 ## Requirements
 
-● 2+ years experience with React, Javascript or Typescript, HTML and CSS● Good working knowledge of at least one version control software (Git, SVN, Mercurial, etc.)● Strong focus on performance
-
+● 2+ years experience with React, Javascript or Typescript, HTML and CSS
+● Good working knowledge of at least one version control software (Git, SVN, Mercurial, etc.)
+● Strong focus on performance
 ● Fluent in Portuguese and professional working proficiency in English
 
 ## Benefits
 
 ● Extremely competitive salary based on experience (+ equity)
-
 ● Ownership of goals and a direct impact on the business
-
 ● Being one of the first team members in one of the most promising startups in the consumer space
-
 ● A fun and friendly working environment with sharp and motivated co-workers
 
 Note:
