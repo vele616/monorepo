@@ -37,23 +37,23 @@ In Brazil, we are the first player in this promising market with an end to end s
 
 ## Among others, your role would include:
 
-● Building new product features for both our customers and our operations teams
-● Work closely with product managers, designers, and backend engineers in order to create innovative and usable solutions
-● Helping shape the technical direction - we are still a young company, and your choices will become the building blocks of our infrastructure
+* Building new product features for both our customers and our operations teams
+* Work closely with product managers, designers, and backend engineers in order to create innovative and usable solutions
+* Helping shape the technical direction - we are still a young company, and your choices will become the building blocks of our infrastructure
 
 ## Requirements
 
-● 2+ years experience with React, Javascript or Typescript, HTML and CSS
-● Good working knowledge of at least one version control software (Git, SVN, Mercurial, etc.)
-● Strong focus on performance
-● Fluent in Portuguese and professional working proficiency in English
+* 2+ years experience with React, Javascript or Typescript, HTML and CSS
+* Good working knowledge of at least one version control software (Git, SVN, Mercurial, etc.)
+* Strong focus on performance
+* Fluent in Portuguese and professional working proficiency in English
 
 ## Benefits
 
-● Extremely competitive salary based on experience (+ equity)
-● Ownership of goals and a direct impact on the business
-● Being one of the first team members in one of the most promising startups in the consumer space
-● A fun and friendly working environment with sharp and motivated co-workers
+* Extremely competitive salary based on experience (+ equity)
+* Ownership of goals and a direct impact on the business
+* Being one of the first team members in one of the most promising startups in the consumer space
+* A fun and friendly working environment with sharp and motivated co-workers
 
 Note:
 
