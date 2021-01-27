@@ -14,8 +14,6 @@ summaryBackup: "Pleo is looking for a product designer that has experience in: #
 featured: 11
 ---
 
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
-
 Let's go back to the chaos of company spending. Think of this, you're one of those lucky employees who are high up enough to get your own company credit card (yay!), but you're the only one in your team who has one (nay!), so come month-end, you're collecting this eclectic pile of crumpled receipts and invoices on your desk (nay!). You're nagging your team ("please give me all receipts today!"). You get emailed pictures of blurred receipts, and you get forwarded flight confirmations. It's one big puzzle, and you're not in the mood for riddles.
 
 Oh, what a joy it is to be a manager. You block off your Friday to deal with admin like this. You go through the spreadsheet that your Head of Finance has sent you, and you finally start matching receipts to missing expenses. You realize that someone made an Alibaba order, and you don't know how to categorize that expense (to be honest, you don't even know what was bought).
