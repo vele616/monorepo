@@ -1,6 +1,6 @@
 ---
-title: "SEO Content Manager - Remote working Available - 6 Month Contract"
-location: "London, London, City of"
+title: "SEO Content Manager"
+location: "London"
 host: "https://quidco.bamboohr.com/jobs/"
 companyName: "Quidco"
 url: "https://quidco.bamboohr.com/jobs/view.php?id=60&source=other"
@@ -10,7 +10,7 @@ hashtags: "#content,#management,#jira,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/quidco"
 companyWebsite: "https://quidco.bamboohr.com/jobs/"
-summary: "Quidco is searching for a seo content manager that has 3+ years of writing, editing and publishing high quality content."
+summary: "Quidco is searching for a SEO Content Manager that has 3+ years of writing, editing and publishing high quality content."
 summaryBackup: "Excited about #content, #management, #jira? Check out this job post!"
 featured: 20
 ---
@@ -36,8 +36,6 @@ You’ll have a keen eye for quality content and understanding how to make conte
 Spotting grammatical errors is second nature to you. You’ll also be keen to get your hands dirty and help our writing content efforts for our most valued, highest trafficked landing pages.
 
 Additionally, you’ll also work with our content management system to upload, edit and publish articles and landing page content to the site.
-
-## ​
 
 ## Key responsibilities
 
