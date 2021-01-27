@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer - Frontend"
+title: "Frontend Software Engineer"
 location: "Copenhagen / London / Berlin / Remote"
 host: "https://boards.greenhouse.io/pleo"
 companyName: "Pleo"
@@ -8,14 +8,11 @@ applyUrl: "https://boards.greenhouse.io/pleo/jobs/4164407003#app"
 timestamp: 1611705600000
 hashtags: "#reactjs,#typescript,#css,#English"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "To apply as a software engineer at Pleo, you preferably need to have some knowledge of: experience in: #reactjs, #typescript, #css."
+summary: "To apply as a Software Engineer at Pleo, you preferably need to have some knowledge of: #reactjs, #typescript, #css."
 summaryBackup: "Excited about #reactjs, #typescript, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
-
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
 
 Smoke and mirrors.
 
