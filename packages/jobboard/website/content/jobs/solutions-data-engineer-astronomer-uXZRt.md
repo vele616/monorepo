@@ -7,12 +7,12 @@ url: "https://careers.astronomer.io/o/solutions-data-engineer"
 applyUrl: "https://careers.astronomer.io/o/solutions-data-engineer/c/new"
 timestamp: 1611705600000
 hashtags: "#python,#terraform,#kubernetes,#docker,#content,#ui/ux,#marketing,#operations"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer is searching for a solutions data engineer that has 2-4 years of industry experience including some experience implementing Apache Airflow in a production environment."
+summary: "Astronomer is searching for a Solutions Data Engineer that has 2-4 years of industry experience including some experience implementing Apache Airflow in a production environment."
 summaryBackup: "To apply as a solutions data engineer at Astronomer, you preferably need to have some knowledge of: #python, #terraform, #kubernetes."
-featured: 20
+featured: 12
 ---
 
 ## Job description
