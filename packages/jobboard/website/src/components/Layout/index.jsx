@@ -5,10 +5,10 @@ import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
 import { Navigation, Button, Typography } from '@crocoder-dev/components';
 import Footer from '../Footer';
-import CrocNav from '../../images/croc-nav.svg';
+import CrocNav from '../../images/croc-nav-xmas.svg';
 import Head from '../Head';
 
-const Layout = ({ children, head = {}, stickyFooter }) => {
+const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
   return (
     <>
       <Head
@@ -18,7 +18,12 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
       />
       <Navigation
         Logo={
-          <Link to="/">
+          <Link
+            to="/"
+            onClick={() => {
+              if (scrollToTop) scrollToTop();
+            }}
+          >
             <CrocNav style={{ verticalAlign: 'bottom' }} />
           </Link>
         }
@@ -42,7 +47,7 @@ const Layout = ({ children, head = {}, stickyFooter }) => {
         </Link>
       </Navigation>
       {children}
-      <Footer sticky={stickyFooter} />
+      <Footer scrollToTop={scrollToTop} sticky={stickyFooter} />
     </>
   );
 };

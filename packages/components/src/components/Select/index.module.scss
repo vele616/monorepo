@@ -1,0 +1,161 @@
+@import "../../styles/main.module.scss";
+
+/**
+ Applied to the top wrapper div - FieldLayout rendered div
+**/
+.select {
+  &--opened {
+    & > label {
+      color: $green_2;
+    }
+
+    & > div:nth-child(2) {
+      border-color: $green_2;
+
+      &:after {
+        left: 0;
+        visibility: visible;
+        width: 100%;
+      }
+    }
+  }
+
+  // Applied to the top wrapper whenever it should be
+  // styled as a pill
+  &.pill {
+    padding-top: 0;
+    padding-bottom: 0;
+    min-width: auto;
+
+    &:focus,
+    &:focus-within,
+    &.select--opened {
+      .button--pill {
+        border: 2px solid $green_2;
+        padding: 15px 24px 13px 24px;
+        box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+      }
+    }
+  }
+}
+
+/**
+  Button that toggles listbox collapse.
+*/
+.button {
+  border: none;
+  padding-left: 0;
+  position: relative;
+  text-align: left;
+  width: 100%;
+  user-select: none;
+  padding-right: 1em;
+  font-weight: inherit;
+
+  &:disabled {
+    background-color: transparent;
+    color: $gray_12;
+  }
+
+  // Applied whenever there is a selected value
+  &--selected {
+    color: $green_2;
+
+    &:hover {
+      color: $green_2;
+    }
+
+    // Applied when we have a selected value
+    // but the pill styling should be applied
+    &.button--pill {
+      color: $green_2;
+      text-transform: uppercase;
+      border: 2px solid $green_2;
+      padding: 15px 24px 13px 24px;
+    }
+  }
+
+  // Apply pill styles to the collapsible button
+  &--pill {
+    width: 100%;
+  }
+
+  // Chevron icon displayed on the Select
+  // Applied only when we're not
+  &__icon {
+    bottom: 6px;
+    color: inherit;
+    margin-left: 0;
+    position: absolute;
+    right: 0;
+  }
+}
+
+.footer {
+  border-top: 1px solid rgba(66, 76, 109, 0.29);
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+
+  &__clear {
+    text-transform: uppercase;
+    padding-left: 15px;
+    color: $gray_12;
+    text-decoration: underline;
+
+    &:focus {
+      color: $green_2;
+    }
+  }
+}
+
+.header {
+  padding: 15px 25px;
+  border-bottom: 1px solid rgba(66, 76, 109, 0.29);
+  text-transform: uppercase;
+}
+
+.portal {
+  padding-top: 15px;
+  z-index: 100;
+}
+
+.card {
+  margin-top: 1em;
+  background: $white;
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  max-width: 380px;
+  min-width: 225px;
+  @include mediaQuery("<=360px") {
+    min-width: 190px;
+  }
+
+  @include mediaQuery("<=360px") {
+    min-width: 190px;
+  }
+}
+
+.listbox__wrapper {
+  @include setScrollbar(10px, $gray_12, $gray_5);
+  box-sizing: border-box;
+  max-height: 250px;
+  overflow-y: auto;
+
+  & .listbox {
+    width: 100%;
+    box-shadow: none;
+    display: block;
+    min-width: 225px;
+    @include mediaQuery("<=360px") {
+      min-width: 190px;
+    }
+  }
+}
+
+.option {
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}

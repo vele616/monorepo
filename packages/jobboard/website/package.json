@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "dependencies": {
-    "@crocoder-dev/components": "0.5.1",
+    "@crocoder-dev/components": "1.0.1",
     "babel-eslint": "10.1.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-jsx-a11y": "6.4.1",
@@ -53,6 +53,7 @@
     "build:dir": "mkdirp ./public/icons/",
     "build:favicons": "node scripts/favicons",
     "develop": "gatsby develop -p 5000",
+    "develop:social": "IS_SOCIAL=true gatsby develop -p 5000",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",
     "start": "npm run develop",
     "serve": "gatsby serve",

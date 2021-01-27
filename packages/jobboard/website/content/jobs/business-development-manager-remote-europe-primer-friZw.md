@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Primer wishes to hire a new business development manager with experience in B2B enterprise sales."
 summaryBackup: "To apply as a business development manager at Primer, you preferably need to have some knowledge of: #sales, #management, #windows."
 featured: 20
+archived: "true"
 ---
 
 ## Description

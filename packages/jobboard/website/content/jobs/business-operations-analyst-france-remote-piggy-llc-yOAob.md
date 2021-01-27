@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Piggy is seeking a business operations analyst to join its exciting team of professionals. This role is specifically seeking individuals with native or very advanced levels of knowledge in French and English."
 summaryBackup: "To apply as a business operations analyst at Piggy-llc, you preferably need to have some knowledge of: #operations, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 Piggy, a rapidly growing company best known for helping users save money through its automatic coupons and cashback offerings, is seeking a business operations analyst to join its exciting team of professionals. The ideal candidate will have proven experience working remotely, a keen eye for detail, outstanding and a team-oriented attitude and a working knowledge of the affiliate industry.

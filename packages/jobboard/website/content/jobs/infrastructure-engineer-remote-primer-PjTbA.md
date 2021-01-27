@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "If you have proven experience gained from a similar role, working on a live and complex cloud based production environment, consider applying to Primer's job post for a new infrastructure engineer."
 summaryBackup: "To apply as an infrastructure engineer at Primer, you preferably need to have some knowledge of: #aws, #ui/ux, #python."
 featured: 20
+archived: "true"
 ---
 
 ## Description

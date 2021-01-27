@@ -12,7 +12,7 @@ describe("Button Component", () => {
       const tree = renderer.create(<Button>Button</Button>).toJSON();
       expect(tree).toMatchInlineSnapshot(`
         <button
-          className="  button primary"
+          className="button primary"
           disabled={false}
         >
           Button

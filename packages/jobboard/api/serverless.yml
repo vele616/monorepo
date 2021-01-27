@@ -121,6 +121,16 @@ functions:
           authorizer: auth
           method: put
           cors: true
+  url-list-archive:
+    handler: src/urls/listArchived.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls/archive
+          authorizer: auth
+          method: get
+          cors: true
   url-archive:
     handler: src/urls/archive.exec
     memorySize: 256

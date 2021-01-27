@@ -9,7 +9,7 @@ if (process.env.IS_OFFLINE) {
   };
 }
 
-const timeframe = 24 * 60 * 60 * 1000;
+const timeframe = 12 * 60 * 60 * 1000;
 
 const lastArchived = 24 * 60 * 60 * 1000;
 
@@ -21,7 +21,7 @@ exports.exec = async () => {
     const result = await client.scan(
       {
         TableName: process.env.URLS_TABLE,
-        FilterExpression: 'createdAt > :timestamp AND published = :published OR archivedAt > :archivedAt',
+        FilterExpression: 'createdAt > :timestamp AND published = :published AND attribute_exists(jobPostFilename) OR archivedAt > :archivedAt',
         ExpressionAttributeValues: {
           ':timestamp': timestamp - timeframe,
           ':published': false,

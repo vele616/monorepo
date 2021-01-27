@@ -1,0 +1,29 @@
+@import '../../styles/main.module.scss';
+
+.text {
+  text-align: center;
+}
+
+.parttime {
+  min-width: 260px;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 10px;
+
+  min-height: auto;
+
+  @include mediaQuery("<1300px") {
+    min-width: auto;
+  }
+}
+
+.frontend {
+  min-width: 480px;
+  min-height: auto;
+  margin-bottom: 10px;
+  @include mediaQuery("<1300px") {
+    min-width: auto;
+  }
+  padding-top: 0;
+  padding-bottom: 0;
+}

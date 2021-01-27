@@ -1008,10 +1008,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@crocoder-dev/components@0.5.1":
-  version "0.5.1"
-  resolved "https://npm.pkg.github.com/download/@crocoder-dev/components/0.5.1/738752da11e431a80535687dc6b59df109d2f0b5af7212ac1556b3ceccf3cd27#a6a9e0f016f232377c7f69c2d6db99311823664b"
-  integrity sha512-8p281cJXzxjM/xz3tkmFwZiB8CeP+xQWyGgLAo+lHlcwJ8LX7GQ4GsWRx6sv1ZmVrUC8wtrf2y1sUsmxVid0KA==
+"@crocoder-dev/components@1.0.1":
+  version "1.0.1"
+  resolved "https://npm.pkg.github.com/download/@crocoder-dev/components/1.0.1/35a69ddda2b3a650d71ac8e657c5d6e2ec7563db7050fd4a69a6158ee8c69371#217e415c50c9165ac4f0e9acaf69a0bcf3ba1bb4"
+  integrity sha512-QxXshXuW6zK1d7PxUXQIpY3AIHa1BlTYjRA3+ejjpVv9o+yD0oRzAS9gGVLEbusIa6MCS6lhrts5e/YuGf+KKg==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
@@ -9633,9 +9633,6 @@ make-dir@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
   integrity sha512-LS9X+dc8KLxXCb8dni79fLIIUA5VyZoyjSMCwTluaXA0o27cCK0bhXkpgw+sTXVpPy/lSO57ilRixqk0vDmtRA==
-  dependencies:
-    pify "^4.0.1"
-    semver "^5.6.0"
 
 make-dir@^3.0.0, make-dir@^3.0.2, make-dir@^3.1.0:
   version "3.1.0"

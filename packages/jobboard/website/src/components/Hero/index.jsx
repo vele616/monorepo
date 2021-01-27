@@ -18,9 +18,11 @@ const Hero = ({
   callToActionSubscribe,
   callToActionPostAJob,
   scrollToSubscribe,
+  topRef,
 }) => {
   return (
     <Section className={styles.wrapper}>
+      <div ref={topRef} />
       <Grid
         justifyItems="start"
         alignItems="start"
@@ -56,7 +58,7 @@ const Hero = ({
   );
 };
 
-const HeroWithQuery = ({ scrollToSubscribe }) => (
+const HeroWithQuery = ({ scrollToSubscribe, topRef }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -77,7 +79,11 @@ const HeroWithQuery = ({ scrollToSubscribe }) => (
       }
     `}
     render={(data) => (
-      <Hero scrollToSubscribe={scrollToSubscribe} {...data.homeJson.hero} />
+      <Hero
+        scrollToSubscribe={scrollToSubscribe}
+        topRef={topRef}
+        {...data.homeJson.hero}
+      />
     )}
   />
 );

@@ -2,13 +2,21 @@ import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import JobList from './Base';
 
-export const DevJobList = () => (
+export const DevJobList = ({ scrollToJobWithIndex }) => (
   <StaticQuery
     query={graphql`
       query {
         allMarkdownRemark(
-          sort: { fields: [frontmatter___timestamp, frontmatter___featured], order: DESC },
-          filter: {frontmatter: {jobType: {eq: "software"}, archived: { ne: "true" }}}
+          sort: {
+            fields: [frontmatter___timestamp, frontmatter___featured]
+            order: DESC
+          }
+          filter: {
+            frontmatter: {
+              jobType: { eq: "software" }
+              archived: { ne: "true" }
+            }
+          }
         ) {
           nodes {
             id
@@ -30,6 +38,7 @@ export const DevJobList = () => (
     render={(data) => {
       return (
         <JobList
+          scrollToJobWithIndex={scrollToJobWithIndex}
           jobs={data.allMarkdownRemark.nodes.map((node) => ({
             title: node.frontmatter.title,
             location: node.frontmatter.location,
