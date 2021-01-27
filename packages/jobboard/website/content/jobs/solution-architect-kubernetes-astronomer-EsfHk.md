@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer
 companyWebsite: "http://www.astronomer.io/"
 summary: "Excited about experience in: #kubernetes, #sales, #python? Check out this job post!"
 summaryBackup: "Love #kubernetes, #sales, #python? Check out this job post!"
-featured: 2
+featured: 10
 ---
 
 ## Job description
