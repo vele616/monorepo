@@ -1,5 +1,5 @@
 ---
-title: "Web Designer (Remote)"
+title: "Web Designer"
 location: "United States"
 host: "https://firstandthird.applytojob.com/apply/"
 companyName: "First+Third"
