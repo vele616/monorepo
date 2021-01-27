@@ -6,13 +6,13 @@ companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/staff-software-engineer-cloud-security"
 applyUrl: "https://careers.astronomer.io/o/staff-software-engineer-cloud-security/c/new"
 timestamp: 1611705600000
-hashtags: "#ui/ux,#python,#golang,#kubernetes,#management,#terraform,#docker,#aws,#azure,#googlecloud"
+hashtags: "#python,#golang,#kubernetes,#management,#terraform,#docker,#ui/ux,#aws,#azure,#googlecloud"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer is searching for a staff software engineer that has 10+ years of software engineering experience in all phases of software development lifecycle and experience with shipping high quality software in a cloud environment."
+summary: "Astronomer is searching for a Staff Software Engineer that has 10+ years of software engineering experience in all phases of software development lifecycle and experience with shipping high quality software in a cloud environment."
 summaryBackup: "Excited about #ui/ux, #python, #golang? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
