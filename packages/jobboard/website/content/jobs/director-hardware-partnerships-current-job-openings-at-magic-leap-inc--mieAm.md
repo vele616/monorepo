@@ -2,7 +2,7 @@
 title: "Director, Hardware Partnerships"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2607512"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2607512#app"
 timestamp: 1611705600000
@@ -10,7 +10,7 @@ hashtags: "#management,#analysis,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is searching for a director that has 12+ years of deal-making/partner management experience is likely needed to successfully perform this role."
+summary: "Magic Leap is searching for a director that has 12+ years of deal-making/partner management experience is likely needed to successfully perform this role."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a director that has experience in: #management, #analysis, #optimization."
 featured: 20
 ---
