@@ -1,18 +1,18 @@
 ---
-title: "Solution Architect - Data Engineer (Airflow)"
+title: "Solution Architect - Data Engineer"
 location: "Remote job"
 host: "https://careers.astronomer.io/"
 companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/solution-architect-data-engineer-airflow"
 applyUrl: "https://careers.astronomer.io/o/solution-architect-data-engineer-airflow/c/new"
 timestamp: 1611705600000
-hashtags: "#sales,#python,#terraform,#windows,#kubernetes,#docker,#content,#marketing"
+hashtags: "#python,#terraform,#kubernetes,#sales,#windows,#docker,#content,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer is looking for a solution architect that has experience in: experience in: #sales, #python, #terraform."
+summary: "Astronomer is looking for a Solution Architect that has experience in: #python, #terraform, #kubernetes."
 summaryBackup: "Astronomer is looking for a solution architect that has experience in: #sales, #python, #terraform."
-featured: 20
+featured: 18
 ---
 
 ## Job description
@@ -43,7 +43,7 @@ Every Solutions Engineer will grow to become an Airflow expert and be a trusted 
 *   Experienced in data engineering and a practitioner of Apache Airflow
 *   Empathetic and leans towards giving those around them the benefit of the doubt
 *   A strong verbal and written communicator
-    *   Has a knack for breaking down complex technical concepts into digestible tid-bits
+*   Has a knack for breaking down complex technical concepts into digestible tid-bits
 *   Eager to get in the weeds of a technical challenge
 *   Comfortable leading presentations. They will often be giving presentations and product demos to large groups.
 *   Great at thinking on their feet - they will often be fielding questions and coming up with clear and articulate answers on the spot
