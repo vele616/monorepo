@@ -6,13 +6,13 @@ companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/solutions-data-architect"
 applyUrl: "https://careers.astronomer.io/o/solutions-data-architect/c/new"
 timestamp: 1611705600000
-hashtags: "#ui/ux,#terraform,#kubernetes,#docker,#aws,#azure,#googlecloud,#content,#marketing,#management"
-jobType: "software"
+hashtags: "#terraform,#kubernetes,#docker,#aws,#ui/ux,#azure,#googlecloud,#content,#marketing,#management"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer wishes to hire a new solutions data architect. If you have 5+ years Experience implementing data solutions on cloud infrastructure, consider applying."
+summary: "Astronomer wishes to hire a new Solutions Data Architect. If you have 5+ years experience implementing data solutions on cloud infrastructure, consider applying."
 summaryBackup: "To apply as a solutions data architect at Astronomer, you preferably need to have some knowledge of: #ui/ux, #terraform, #kubernetes."
-featured: 20
+featured: 14
 ---
 
 ## Job description
