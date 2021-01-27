@@ -1,16 +1,15 @@
 ---
-title: "Associate, Project Manager Platform Design"
+title: "Project Manager Platform Design Associate"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2568165"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2568165#app"
 timestamp: 1611705600000
-hashtags: "#ui/ux,#management,#jira,#office,#figma,#scrum,#monitoring,#optimization"
+hashtags: "#ui/ux,#management,#optimization,#jira,#office,#figma,#scrum,#monitoring"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Interested in new opportunities and have experience working in AR/MR projects a plus? Current Job Openings at Magic Leap, Inc. has a job opening for an associate."
+summary: "Interested in new opportunities and have experience working in AR/MR projects a plus? Magic Leap has a job opening for an Project Manager Associate."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for an associate that has experience in: #ui/ux, #management, #jira."
 featured: 20
 ---
@@ -37,7 +36,6 @@ This role works collaboratively with Product Managers, UI Designers, UX Designer
 *   Highly effective communication and multi-tasking skills, organizational agility and attention to detail.
 *   Experience in project management frameworks.
 *   Excellent organizational skills and ability to track daily/weekly deliverables.
-
 *   Familiarity with Google Suite, Jira and Figma.
 *   Planning capabilities against multiple work-streams at the individual resource/day level.
 *   Ability to prioritize activities, establish realistic timelines/milestones and achieve results while demonstrating excellent interpersonal skills.
