@@ -1,5 +1,5 @@
 ---
-title: "Senior Product Manager- Remote working available"
+title: "Senior Product Manager"
 location: "London, Greater London"
 host: "https://quidco.bamboohr.com/jobs/"
 companyName: "Quidco"
@@ -10,9 +10,9 @@ hashtags: "#management,#scrum,#ui/ux,#socialmedia,#jira,#office,#finance,#monito
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/quidco"
 companyWebsite: "https://quidco.bamboohr.com/jobs/"
-summary: "Quidco intends to hire a new senior product manager. If you have 3+ years of Product Management experience with the experience of shipping products in a fast-growing company, consider applying."
+summary: "Quidco intends to hire a new Senior Product Manager. If you have 3+ years of Product Management experience with the experience of shipping products in a fast-growing company, consider applying."
 summaryBackup: "To apply as a senior product manager at Quidco, you preferably need to have some knowledge of: #management, #scrum, #ui/ux."
-featured: 20
+featured: 11
 ---
 
 ## About us 
