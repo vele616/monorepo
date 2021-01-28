@@ -21,7 +21,7 @@ Astronomer is a rapidly growing startup with the mission to build the next gener
 
 We are looking for a talented Software Engineer to join our QA and Test Automation team to help extend our test automation framework built in Python.
 
-**Roles and responsibility:
+**Roles and responsibility:**
 
 *   Building and Enhancing Test Frameworks in Python.
 *   Contribute to dev-test activities including test scoping, planning, execution, test automation, coordinating with other departments.
