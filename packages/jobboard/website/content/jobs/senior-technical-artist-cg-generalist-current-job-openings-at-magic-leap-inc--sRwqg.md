@@ -1,25 +1,24 @@
 ---
-title: "Senior Technical Artist/CG Generalist"
+title: "Senior Technical Artist"
 location: "REMOTE"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2321882"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2321882#app"
 timestamp: 1611705600000
-hashtags: "#unity,#ui/ux,#content,#assembly,#unreal,#management,#photoshop,#office"
-jobType: "software"
-
+hashtags: "#unity,#ui/ux,#unreal,#content,#assembly,#management,#photoshop,#office"
+jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Current Job Openings at Magic Leap, Inc. is looking for a senior technical artist that has 5 or more years working in video game, film or similar industry."
+summary: "Magic Leap is looking for a Senior Technical Artist that has 5 or more years of experience in working on video games, film or similar industry."
 summaryBackup: "To apply as a senior technical artist at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #unity, #ui/ux, #content."
-featured: 20
+featured: 10
 ---
 
-Job Description:
+## Job Description:
 
 The Design Solutions Department at Magic Leap, Inc. is currently in search of a Senior Technical Artist with CG Generalist skills to join its team. We’re looking for a veteran who is well versed in all aspects of AAA 3D content creation and real-time engines. This candidate is forward-thinking, driven and willing to embrace the challenges of developing for spatial computing and the Magic Leap device. 
 
-Qualifications:
+## Qualifications:
 
 *   5 or more years working in video game, film or similar industry
 *   Shipped a game, app, experience, or equivalent in a related field
@@ -28,7 +27,7 @@ Qualifications:
 *   Knowledge of Maya, Unity, Unreal, ZBrush, Mudbox, Substance Painter/Designer and Photoshop
 *   Intimate knowledge of current and emerging asset creation pipelines and workflows, including PBR
 
-Responsibilities:
+## Responsibilities:
 
 *   Work on all aspects of the content pipeline from modeling, texturing, rigging, animation, shaders, lighting and fx
 *   Create both high and low resolution sculpts and models based on concepts or specifications
@@ -40,4 +39,3 @@ Responsibilities:
 *   Use artistic foundation in shape, structure, composition, color, silhouette, and form to push artistic exploration and requirements of projects as set by leads and art directors
 *   Be a self-motivated team player with excellent communication and problem solving skills
 
-#LI-REMOTE
