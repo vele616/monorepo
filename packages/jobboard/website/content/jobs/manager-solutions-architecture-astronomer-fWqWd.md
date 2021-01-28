@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer
 companyWebsite: "http://www.astronomer.io/"
 summary: "Astronomer is searching for a Solutions Architecture Manager that has 3+ years of prior experience leading and managing a presales/solutions team preferably in software related to cloud infrastructure, data engineering, or related technologies."
 summaryBackup: "Excited about #sales, #python, #management? Check out this job post!"
-featured: 8
+featured: 1
 ---
 
 ## Job description
