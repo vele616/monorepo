@@ -31,11 +31,13 @@ Role: Customer Support Advocate, Level 1**Salary Range**: $40,000 - $55,000 USD*
 *   Triage and troubleshoot problems with customers, writing and tracking bug reports when necessary
 *   Respond to Net Promoter Score & Onboarding surveys to gather additional customer insight 
 *   Work with teammates across the company to communicate and advocate for customer needs
+
 *   Additional tasks as needed:
-  /* Create and update customer facing documentation
-  /* Create and update internal support resources and documentation
-  /* Assist with projects related to improving our support at scale (content management, community support, social media, etc)
-  /* Real-time chat and/or Slack support for customers in the greater community
+  * Create and update customer facing documentation
+  * Create and update internal support resources and documentation
+  * Assist with projects related to improving our support at scale (content management, community support, social media, etc)
+  * Real-time chat and/or Slack support for customers in the greater community
+
 *   Assist the coverage of our EST hours (10am-6pm)
 
 ## What you need to be successful in the role:
