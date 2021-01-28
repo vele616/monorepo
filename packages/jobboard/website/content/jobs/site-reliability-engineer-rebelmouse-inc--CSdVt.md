@@ -10,9 +10,9 @@ hashtags: "#operations,#python,#aws,#office,#ui/ux,#terraform,#ansible,#kubernet
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
-summary: "Interested in new opportunities and have 3+ years of relevant experience? RebelMouse, Inc. has a job opening for a site reliability engineer."
+summary: "Interested in new opportunities and have 3+ years of relevant experience? RebelMouse, Inc. has a job opening for a Site Reliability Engineer."
 summaryBackup: "RebelMouse, Inc. is looking for a site reliability engineer that has experience in: #operations, #python, #aws."
-featured: 20
+featured: 3
 ---
 
 ## Job description
@@ -39,7 +39,7 @@ RebelMouse serves over 90 million users monthly. Considering our rapidly growing
 
 ## Job requirements
 
-## Soft skills
+**Soft skills**
 
 *   Bachelor's Degree or 3+ years of relevant experience
 *   Strong communication (verbal and written)
