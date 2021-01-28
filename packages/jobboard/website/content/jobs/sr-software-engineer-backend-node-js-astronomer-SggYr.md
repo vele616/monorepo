@@ -1,5 +1,5 @@
 ---
-title: "Sr. Software Engineer - Backend - Node.js"
+title: "Sr. Backend Software Engineer"
 location: "Remote job"
 host: "https://careers.astronomer.io/"
 companyName: "Astronomer"
@@ -10,7 +10,7 @@ hashtags: "#reactjs,#kubernetes,#git,#management,#scrum,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "If you have 5+ years of professional experience and at least 3+ years in-depth experience with Node, Astronomer has a job opening for a sr. software engineer"
+summary: "If you have 5+ years of professional experience and at least 3+ years in-depth experience with Node, Astronomer has a job opening for a Sr. Backend Software Engineer"
 summaryBackup: "Astronomer is looking for a sr. software engineer that has experience in: #reactjs, #kubernetes, #git."
 featured: 20
 ---
@@ -21,7 +21,7 @@ Astronomer is a rapidly growing startup with the mission to build the next gener
 
 We are looking for a passionate, hard-working, and talented Senior Software Engineer to join our Commercial Platform team for building innovative, intuitive, scalable, and reliable web applications. This role will be primarily focused on backend development.
 
-Responsibilities
+**Responsibilities
 
 *   Collaborate with Product and Engineering Management to turn user stories into an executable technical plan
 *   Architect and build solutions and new features into our GraphQL API, keeping in mind deployment ease, quality, scalability and latency
@@ -36,7 +36,7 @@ At Astronomer, we value diversity. We are an equal opportunity employer: we do n
 
 ## Requirements
 
-## Qualifications
+**Qualifications
 
 *   At least 5+ years of professional experience and at least 3+ years in-depth experience with Node.js
 *   Must have an understanding of containerization
@@ -46,14 +46,14 @@ At Astronomer, we value diversity. We are an equal opportunity employer: we do n
 *   Extensive experience with Git & Github
 *   Database and distributed systems fundamentals - such as Caching and Eventual Consistency
 
-#### Bonus qualifications
+**Bonus qualifications
 
 *   Experience with Prisma, Nexus and Apollo Server
 *   Experience with React
 *   Experience in Authentication & Web Security domain
 *   Bachelor’s or Master’s degree in CS or related field will be a plus
 
-Key skills
+**Key skills
 
 *   Strong interpersonal skills to articulate ideas and strategies
 *   Ability to adjust to change and rapid pace of development
