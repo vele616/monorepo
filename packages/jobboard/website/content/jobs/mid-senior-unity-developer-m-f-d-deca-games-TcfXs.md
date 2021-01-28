@@ -1,18 +1,18 @@
 ---
-title: "Mid / Senior Unity Developer (m/f/d)"
+title: "Mid / Senior Unity Developer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "DECA Games"
 url: "https://deca-games.breezy.hr/p/b94abd65505d01-mid-senior-unity-developer-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/b94abd65505d01-mid-senior-unity-developer-m-f-d/apply"
 timestamp: 1611792000000
-hashtags: "#unity,#ui/ux,#scrum,#git,#management,#optimization,#English"
+hashtags: "#unity,#ui/ux,#cplusplus,#scrum,#git,#management,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Interested in new opportunities and have the ideal candidate has experience working in Unity, is passionate about creating games in a production environment, and a team player? Deca-games has a job opening for a mid."
+summary: "Interested in new opportunities and have at least four years of gaming industry experience? DECA Games has a job opening for a Mid / Senior Unity Developer."
 summaryBackup: "Love #unity, #ui/ux, #scrum? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Who we’re looking for
@@ -63,6 +63,4 @@ This role is a remote role, you can work from everywhere in the world.
 *   Experience in working with ShaderLab
 *   Remote work experience
 
-We are looking forward to your application.
 
-Your DECA HR Team
