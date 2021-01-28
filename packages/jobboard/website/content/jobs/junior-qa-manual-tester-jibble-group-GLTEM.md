@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-gro
 companyWebsite: "https://www.jibble.io/"
 summary: "Interested in new opportunities and have experience of working on a QA/Tester position 1-2 years? Jibble has a job opening for a Junior QA Manual Tester."
 summaryBackup: "Excited about #ui/ux, #css, #management? Check out this job post!"
-featured: 
+featured: 6
 ---
 
 ## About Jibble Group
