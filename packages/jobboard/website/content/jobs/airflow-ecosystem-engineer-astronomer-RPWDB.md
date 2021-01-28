@@ -6,13 +6,13 @@ companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/airflow-ecosystem-engineer"
 applyUrl: "https://careers.astronomer.io/o/airflow-ecosystem-engineer/c/new"
 timestamp: 1611705600000
-hashtags: "#python,#marketing,#terraform,#kubernetes,#docker,#content,#management,#operations,#sales"
-jobType: "other"
+hashtags: "#python,#terraform,#kubernetes,#docker,#content,#management,#marketing,#operations,#sales"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "Astronomer intends to hire a new airflow ecosystem engineer. If you have 2+ years of python experience, consider applying."
+summary: "Astronomer intends to hire a new Airflow Ecosystem Engineer. If you have 2+ years of python experience, consider applying."
 summaryBackup: "Astronomer is looking for an airflow ecosystem engineer that has experience in: #python, #marketing, #terraform."
-featured: 20
+featured: 5
 ---
 
 ## Job description
@@ -23,7 +23,7 @@ As anengineer on our Partnerships team,you will develop a deep understanding of 
 
 This isn’t your typical engineering role; this is a rare opportunity to be a flexible technical resource working at the leading edge of data industry technology. You will develop a deep understanding of the entire modern data stack, be featured as our superstar in partner engagements, and be of key strategic importance to our growth. Oh yeah, and you'll do all of the above while honing your python and dataengineering craft.
 
-## Responsibilities
+**Responsibilities**
 
 *   Be a subject matter expert on all things Apache Airflow. Being familiar enough with Airflow's architecture to contribute to the Airflow codebase when necessary.
 *   Interface with our ecosystem partners to establish a strong narrative around how to drive mutual consumption of both Airflow and their product or framework. Be able to architect solutions in tandem with partner teams.
@@ -37,7 +37,7 @@ At Astronomer, we value diversity. We are an equal opportunity employer: we do n
 
 ## Requirements
 
-## Qualifications:
+**Qualifications:**
 
 *   2+ years of python experience (Required).
 *   Experience using Apache Airflow (Highly Preferred).
