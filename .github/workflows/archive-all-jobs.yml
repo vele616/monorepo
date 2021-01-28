@@ -2,13 +2,13 @@ name: 👔 Job Board - Archive all jobs
 on:
   workflow_dispatch
 jobs:
-  get-jobs:
+  archive-jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Get new jobs posts
-      uses: crocoder-dev/crocoder-jobboard-action@feature/archived
+      uses: crocoder-dev/crocoder-jobboard-action@master
       with:
         author-name: ${{ secrets.BOT_NAME }}
         author-email: ${{ secrets.BOT_EMAIL }}
