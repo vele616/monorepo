@@ -2,17 +2,17 @@
 title: "Junior QA Manual Tester"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
-companyName: "jibble-group"
+companyName: "Jibble Group"
 url: "https://jibble-group.breezy.hr/p/fe4b38f36e2301-junior-qa-manual-tester"
 applyUrl: "https://jibble-group.breezy.hr/p/fe4b38f36e2301-junior-qa-manual-tester/apply"
 timestamp: 1611792000000
-hashtags: "#ui/ux,#css,#management,#analysis,#monitoring"
+hashtags: "#management,#analysis,#monitoring,#ui/ux,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "Interested in new opportunities and have experience of working on a QA/Tester position 1-2 years? Jibble-group has a job opening for a junior qa manual tester."
+summary: "Interested in new opportunities and have experience of working on a QA/Tester position 1-2 years? Jibble has a job opening for a Junior QA Manual Tester."
 summaryBackup: "Excited about #ui/ux, #css, #management? Check out this job post!"
-featured: 20
+featured: 
 ---
 
 ## About Jibble Group
@@ -42,7 +42,7 @@ We expect you to be able to perform consistent and efficient tests delivering th
 *   Maintain relevant knowledge about new testing tools and test strategies
 *   Perform throughout and detailed tests
 
-Who we are looking for:
+## Who we are looking for:
 
 *   Experience of working on a QA/Tester position 1-2 years
 *   Fresh graduates are encouraged to apply
