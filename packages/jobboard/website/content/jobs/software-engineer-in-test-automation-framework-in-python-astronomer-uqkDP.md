@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer in Test - Automation Framework in Python"
+title: "Software Engineer"
 location: "Remote job"
 host: "https://careers.astronomer.io/"
 companyName: "Astronomer"
@@ -10,9 +10,9 @@ hashtags: "#python,#kubernetes,#linux,#googlecloud,#office,#aws,#azure,#git,#pos
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
-summary: "To apply as a software engineer in test at Astronomer, you preferably need to have 2+ years of professional experience developing software."
+summary: "To apply as a Software Engineer at Astronomer, you preferably need to have 2+ years of professional experience developing software."
 summaryBackup: "Astronomer is looking for a software engineer in test that has experience in: #python, #kubernetes, #linux."
-featured: 20
+featured: 7
 ---
 
 ## Job description
@@ -21,7 +21,7 @@ Astronomer is a rapidly growing startup with the mission to build the next gener
 
 We are looking for a talented Software Engineer to join our QA and Test Automation team to help extend our test automation framework built in Python.
 
-## Roles and responsibility:
+**Roles and responsibility:
 
 *   Building and Enhancing Test Frameworks in Python.
 *   Contribute to dev-test activities including test scoping, planning, execution, test automation, coordinating with other departments.
@@ -32,7 +32,7 @@ We are looking for a talented Software Engineer to join our QA and Test Automati
 
 ## Requirements
 
-## Qualifications:
+**Qualifications:
 
 *   Bachelor’s or Master's degree in Computer Science or related field with preferably distributed software development or testing experience.
 *   2+ years of professional experience developing software (preferably testing frameworks)
@@ -44,11 +44,10 @@ We are looking for a talented Software Engineer to join our QA and Test Automati
 *   Knowledge in Circle CI
 *   Familiarity with cloud environments (GCP, AWS, Azure, OpenShift)
 
-## Desired Skills:
+**Desired Skills:
 
 *   Understanding of Microservices architecture, GCP experience with Kubernetes.
 *   Test Automation in Python
-
 *   Creative problem-solving skills and excellent troubleshooting/debugging skills. Think automation first.
 *   Passion for coding and can-do attitude towards any complex tasks.
 *   Excellent team player with strong work ethics and culture.
