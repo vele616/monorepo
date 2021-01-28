@@ -6,13 +6,13 @@ companyName: "Clubhouse Software"
 url: "https://boards.greenhouse.io/clubhousesoftware/jobs/4217097002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/4217097002#app"
 timestamp: 1611792000000
-hashtags: "#content,#css,#html,#git,#management,#sales,#socialmedia"
+hashtags: "#content,#management,#sales,#css,#html,#git,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
-summary: "If you have 1-3 years in a customer-facing role, Clubhouse Software has a job opening for a customer support advocate"
+summary: "If you have 1-3 years in a customer-facing role, Clubhouse Software has a job opening for a Customer Support Advocate"
 summaryBackup: "Clubhouse Software is looking for a customer support advocate that has experience in: #content, #css, #html."
-featured: 20
+featured: 9
 ---
 
 Clubhouse is a project management tool created specifically for software product development teams. Its unique interface allows users to see just what matters to them, while also offering the entire team unprecedented visibility into progress across the organization.
@@ -32,12 +32,10 @@ Role: Customer Support Advocate, Level 1**Salary Range**: $40,000 - $55,000 USD*
 *   Respond to Net Promoter Score & Onboarding surveys to gather additional customer insight 
 *   Work with teammates across the company to communicate and advocate for customer needs
 *   Additional tasks as needed:
-
-*   Create and update customer facing documentation
-*   Create and update internal support resources and documentation
-*   Assist with projects related to improving our support at scale (content management, community support, social media, etc)
-*   Real-time chat and/or Slack support for customers in the greater community
-
+  *   Create and update customer facing documentation
+  *   Create and update internal support resources and documentation
+  *   Assist with projects related to improving our support at scale (content management, community support, social media, etc)
+  *   Real-time chat and/or Slack support for customers in the greater community
 *   Assist the coverage of our EST hours (10am-6pm)
 
 ## What you need to be successful in the role:
