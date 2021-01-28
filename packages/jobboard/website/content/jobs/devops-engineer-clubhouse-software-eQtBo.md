@@ -10,16 +10,16 @@ hashtags: "#terraform,#ansible,#python,#java,#clojure,#management,#aws,#ui/ux,#p
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
-summary: "Clubhouse Software intends to hire a new devops engineer. If you have experience with AWS, consider applying."
+summary: "Clubhouse Software intends to hire a new dDevOps Engineer. If you have 7+ years software engineering experience, consider applying."
 summaryBackup: "Excited about #terraform, #ansible, #python? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 Clubhouse was built by software engineers with the goal of making project management software less painful, more collaborative, and help software development teams do their best work. The platform combines a simple, modern UI with enterprise-grade tools, allowing technology companies to plan and manage their projects effectively, visualize progress across the organization, and define deadlines and milestones based upon data and predictive modeling. Thousands of the fastest-growing organizations use Clubhouse to plan and build software, including Nubank, Dataiku, Scale AI, Atrium and LaunchDarkly.
 
 We’re looking for DevOps Engineers who will aid us in designing, implementing, and building online services with scalability, security and reliability in mind. You will work closely with the other engineering teams to ensure that our overall system remains performant, reliable, and efficient. We aim to empower our individual engineering teams to have responsibility over the applications they deliver, and you will provide the expertise, tooling, and infrastructure to enable that.
 
-What you’ll do: 
+## What you’ll do: 
 
 *   Design supportable and scalable cloud native systems with our frontend, backend, and mobile teams
 *   Improve our software deployment pipeline across a variety of architectures through CI / CD principles and automation
@@ -30,7 +30,7 @@ What you’ll do:
 
 Technologies we use: AWS, Linux, Terraform, Packer, Ansible, Circle CI, Datomic, Elasticsearch, etc 
 
-What you’ll need to have: 
+## What you’ll need to have: 
 
 *   7+ years software engineering experience, and relevant exposure and interest to the bulleted items below
 *   Experience supporting a customer facing web application
@@ -46,7 +46,7 @@ What you’ll need to have:
 *   Thirst for learning about emerging technology and trends, tempered with a healthy skepticism
 *   Bonus points for Clojure experience (or other JVM languages)
 
-What we’ll offer:
+## What we’ll offer:
 
 *   We offer a comprehensive benefits package that includes medical/dental/vision insurance with 100% of premiums covered for employees, an annual conference budget available for your professional development, 12 weeks paid parental leave (available from day 1), a 401k plan, and much more.
 *   In addition to a competitive salary and benefits, all offers also come with a sizable equity grant.
