@@ -7,12 +7,12 @@ url: "https://boards.greenhouse.io/customerio/jobs/2610347"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2610347#app"
 timestamp: 1611792000000
 hashtags: "#management,#marketing,#javascript,#spring,#css,#git,#office"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "If you have experience with Marketing Automation industry or supporting email marketing/business communication tools, Customer.io has a job opening for a technical support engineer"
 summaryBackup: "Excited about #management, #marketing, #javascript? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 Hi, I'm Travis, the Technical Support Manager at [Customer.io](http://customer.io/). I’m looking for a Technical Support Engineer to join our growing team.
