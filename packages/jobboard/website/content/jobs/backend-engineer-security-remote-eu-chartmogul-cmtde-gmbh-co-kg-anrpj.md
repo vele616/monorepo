@@ -1,5 +1,5 @@
 ---
-title: "Backend Engineer (Security) - Remote (EU)"
+title: "Backend Engineer"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul CMTDE GmbH & Co. KG"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#golang,#rustlang,#rubylang,#management,#docker,#aws,#mar
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul-cmtde-gmbh-co-kg"
 companyWebsite: "https://chartmogul.com/"
-summary: "ChartMogul CMTDE GmbH & Co. KG wishes to hire a new backend engineer. If you have 2+ years of work experience as a Ruby engineer, consider applying."
+summary: "ChartMogul wishes to hire a new Backend Engineer. If you have 2+ years of work experience as a Ruby engineer, consider applying."
 summaryBackup: "Love #javascript, #golang, #rustlang? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Job description
