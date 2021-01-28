@@ -32,7 +32,7 @@ We are looking for a talented Software Engineer to join our QA and Test Automati
 
 ## Requirements
 
-**Qualifications:
+**Qualifications:**
 
 *   Bachelor’s or Master's degree in Computer Science or related field with preferably distributed software development or testing experience.
 *   2+ years of professional experience developing software (preferably testing frameworks)
@@ -44,7 +44,7 @@ We are looking for a talented Software Engineer to join our QA and Test Automati
 *   Knowledge in Circle CI
 *   Familiarity with cloud environments (GCP, AWS, Azure, OpenShift)
 
-**Desired Skills:
+**Desired Skills:**
 
 *   Understanding of Microservices architecture, GCP experience with Kubernetes.
 *   Test Automation in Python
