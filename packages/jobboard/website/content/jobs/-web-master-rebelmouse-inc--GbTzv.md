@@ -1,18 +1,18 @@
 ---
-title: "<!-- Web Master 🛠 🧐🔥 -->"
+title: "Web Master"
 location: "Remote job"
 host: "https://careers.rebelmouse.com/"
 companyName: "RebelMouse, Inc."
 url: "https://careers.rebelmouse.com/o/lt-web-master-gt"
 applyUrl: "https://careers.rebelmouse.com/o/lt-web-master-gt/c/new"
 timestamp: 1611792000000
-hashtags: "#css,#ui/ux,#javascript,#html,#optimization"
+hashtags: "#css,#javascript,#html,#ui/ux,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
-summary: "RebelMouse, Inc. intends to hire a new <!-. If you have solid experience in building different layouts, consider applying."
+summary: "RebelMouse intends to hire a new Web Master. If you have solid experience in building different layouts, consider applying."
 summaryBackup: "To apply as a <!- at RebelMouse, Inc., you preferably need to have some knowledge of: #css, #ui/ux, #javascript."
-featured: 20
+featured: 6
 ---
 
 ## Job description
