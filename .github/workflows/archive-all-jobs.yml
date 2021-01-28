@@ -1,4 +1,4 @@
-name: 👔 Job Board - Archive test
+name: 👔 Job Board - Archive all jobs
 on:
   workflow_dispatch
 jobs:
@@ -16,4 +16,5 @@ jobs:
         jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
         starting-branch: development
+        command: 'ARCHIVE_ALL'
         asignees: 'DanijelPlese'
