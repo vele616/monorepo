@@ -6,16 +6,14 @@ companyName: "Pleo"
 url: "https://boards.greenhouse.io/pleo/jobs/4327663003"
 applyUrl: "https://boards.greenhouse.io/pleo/jobs/4327663003#app"
 timestamp: 1611705600000
-hashtags: "#management,#finance"
+hashtags: "#management,#finance,#operations"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "Excited about experience in: #management, #finance? Check out this job post!"
+summary: "Excited about experience in: #management, #finance, #operations? Check out this job post!"
 summaryBackup: "Pleo is looking for a product manager that has experience in: #management, #finance."
-featured: 20
+featured: 15
 ---
 
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
 
 If you're interested in the classic Product Manager role then maybe this posting isn’t for you. But then again, what is a "classic" PM even?🤷‍♂️
 
