@@ -1,8 +1,8 @@
 ---
-title: "Senior Producer (m/f/d)"
+title: "Senior Producer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "DECA Games"
 url: "https://deca-games.breezy.hr/p/4483d3f92c7401-senior-producer-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/4483d3f92c7401-senior-producer-m-f-d/apply"
 timestamp: 1611792000000
@@ -10,9 +10,9 @@ hashtags: "#management,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Deca-games wishes to hire a new senior producer. If you have senior level experience with game production, consider applying."
+summary: "DECA Games wishes to hire a new Senior Producer. If you have senior level experience with game production, consider applying."
 summaryBackup: "Excited about #management, #operations? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Who we are looking for
