@@ -6,13 +6,13 @@ companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/data-engineer-cincinnati"
 applyUrl: "https://careers.astronomer.io/o/data-engineer-cincinnati/c/new"
 timestamp: 1611705600000
-hashtags: "#operations,#python,#marketing,#analysis,#management,#sales,#office,#finance"
+hashtags: "#operations,#python,#management,#marketing,#analysis,#sales,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
 summary: "If you have 3+ years of ETL/ELT experience, Astronomer is looking for someone with your skillset."
 summaryBackup: "Astronomer is looking for a data engineer that has experience in: #operations, #python, #marketing."
-featured: 20
+featured: 9
 ---
 
 ## Job description
@@ -21,7 +21,7 @@ Astronomer is the commercial developer of Apache Airflow, a community-driven ope
 
 We are looking for a full-time data engineer who will work to integrate our data from internal systems for business operations. This will include financial, customer, sales, marketing, and product data. You will need to be able to architect an ETL/ELT framework, and use Apache Airflow to orchestrate the data pipelines.
 
-## Responsibilities:
+**Responsibilities:**
 
 *   Work with stakeholders across functions and partner with a business analyst to understand business requirements
 *   Architect an ETL/ELT framework for internal business operations
@@ -32,7 +32,7 @@ We are looking for a full-time data engineer who will work to integrate our data
 
 ## Requirements
 
-## Job Requirements:
+**Job Requirements:**
 
 *   Exceptional leadership, organizational, and time management skills
 *   Strong analytical and problem-solving skills
@@ -40,7 +40,7 @@ We are looking for a full-time data engineer who will work to integrate our data
 *   Python fluency
 *   3+ years of ETL/ELT experience
 
-## Our ideal candidate has:
+**Our ideal candidate has:**
 
 *   Airflow experience
 *   Data analysis experience
