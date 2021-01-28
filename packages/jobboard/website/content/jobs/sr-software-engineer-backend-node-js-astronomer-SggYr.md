@@ -6,13 +6,13 @@ companyName: "Astronomer"
 url: "https://careers.astronomer.io/o/sr-software-engineer-backend-nodejs"
 applyUrl: "https://careers.astronomer.io/o/sr-software-engineer-backend-nodejs/c/new"
 timestamp: 1611705600000
-hashtags: "#reactjs,#kubernetes,#git,#management,#scrum,#rest"
+hashtags: "#reactjs,#kubernetes,#rest,#git,#management,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/astronomer"
 companyWebsite: "http://www.astronomer.io/"
 summary: "If you have 5+ years of professional experience and at least 3+ years in-depth experience with Node, Astronomer has a job opening for a Sr. Backend Software Engineer"
 summaryBackup: "Astronomer is looking for a sr. software engineer that has experience in: #reactjs, #kubernetes, #git."
-featured: 20
+featured: 4
 ---
 
 ## Job description
