@@ -23,22 +23,27 @@ class SearchIndex {
   }
 
   search(query = '', seniority = [], contractType = [], tags = []) {
-    
+    if (
+      !query &&
+      seniority.length === 0 &&
+      contractType.length === 0 &&
+      tags.length === 0
+    ) {
+      return Object.values(this.store);
+    }
 
     const prepareSearchQuery = (query, seniority, contractType) => {
       if (seniority.length === 0 && contractType.length === 0) {
         return [[query, null, null]];
       } else if (contractType.length === 0) {
-        return seniority.map(s => [query, s]);
+        return seniority.map((s) => [query, s]);
       } else if (seniority.length === 0) {
-        return contractType.map(c => [query, null, c]);
+        return contractType.map((c) => [query, null, c]);
       } else {
-        return seniority.map((s) =>
-          contractType.flatMap((c) => [query, s, c])
-        );
+        return seniority.map((s) => contractType.flatMap((c) => [query, s, c]));
       }
-    }
-    
+    };
+
     const createSearchQuery = (query, seniority, contractType) => {
       const s = searchTerms[seniority];
       const c = searchTerms[contractType];
@@ -77,7 +82,8 @@ class SearchIndex {
       );
     }
 
-    return prepareSearchQuery(query, seniority, contractType).flatMap(r=> createSearchQuery(...r)) 
+    return prepareSearchQuery(query, seniority, contractType)
+      .flatMap((r) => createSearchQuery(...r))
       .map((q) => this.index.search({ query: q, threshold: 2 }))
       .reduce(mergeSorted)
       .filter((v, i, a) => a.indexOf(v) === i)
