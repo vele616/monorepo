@@ -13,6 +13,7 @@ companyWebsite: "https://athenian.co/"
 summary: "Athenian wishes to hire a new senior software engineer. If you have strong experience with Web Standards, consider applying."
 summaryBackup: "To apply as a senior software engineer at Athenian, you preferably need to have some knowledge of: #css, #git, #javascript."
 featured: 0
+archived: "true"
 ---
 
 ## Senior Software Engineer - Frontend

@@ -13,6 +13,7 @@ companyWebsite: "https://kodify.io/"
 summary: "Interested in new opportunities and have 3 years, and can show us examples of their work? Kodify has a job opening for a senior backend developer."
 summaryBackup: "To apply as a senior backend developer at Kodify, you preferably need to have some knowledge of: #nodejs, #javascript, #reactjs."
 featured: 1
+archived: "true"
 ---
 
 ## Job description
