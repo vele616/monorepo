@@ -5,7 +5,7 @@ import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
 import { Navigation, Button, Typography } from '@crocoder-dev/components';
 import Footer from '../Footer';
-import CrocNav from '../../images/croc-nav-xmas.svg';
+import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
 
 const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
