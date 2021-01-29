@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 import { Typography } from '@crocoder-dev/components';
 import { useMemo } from 'react';
 import styles from './index.module.scss';
-import Typing from './Typing';
 
 const Green = ({ children = '' }) => {
   return (
@@ -32,12 +31,10 @@ const QueryTitle = ({ filters, searchInput, empty }) => {
     return filterArray.map((options, index) => {
       if (options && options.length > 0) {
         return (
-          <>
-            <Green key={index}>
-              {options.map(({ value }) => value).join(' / ')}
-            </Green>
+          <React.Fragment key={index}>
+            <Green>{options.map(({ value }) => value).join(' / ')}</Green>
             {index < filterArray.length - 1 && ` and`}
-          </>
+          </React.Fragment>
         );
       }
     });

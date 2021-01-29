@@ -8,6 +8,11 @@ $limitDesktop: 1200;
   limitDesktop: $limitDesktop;
 }
 
+.pagination {
+  margin-top: 30px;
+  align-self: center;
+}
+
 .floatingButton {
   align-items: center;
   border-radius: 50%;
@@ -44,6 +49,7 @@ $limitDesktop: 1200;
 
 .section  {
   padding-top: 0px;
+  padding-bottom: 40px;
   margin-bottom: 20px;
   overflow: visible;
   
@@ -62,6 +68,7 @@ $limitDesktop: 1200;
     display: flex;
     justify-content: flex-end;
     min-width: max-content;
+    margin-top: 40px;
     @include mediaQuery("<#{$limitTablet}px") {
       display: none;
     }
@@ -69,6 +76,9 @@ $limitDesktop: 1200;
 }
 
 .resultList {
+  display: flex;
+  flex-direction: column;
+
   animation: enter 0.6s ease;
   padding-top: 0px !important;
   @include sectionPadding("desktop", true);

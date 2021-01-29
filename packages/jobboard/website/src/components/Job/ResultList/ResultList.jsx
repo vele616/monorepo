@@ -13,6 +13,7 @@ import {
   Button,
   useDevice,
   Section,
+  Pagination,
 } from '@crocoder-dev/components';
 import JobPost from './../Post';
 import styles from './index.module.scss';
@@ -25,6 +26,10 @@ const Views = Object.freeze({
 const ResultList = ({ jobs = [] }) => {
   const [view, setView] = useState(Views.List);
   const [isScrollingUp, setIsScrollingUp] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const resultsPerPage = 10;
+  const [maxVisiblePages, setMaxVisiblePages] = useState(7);
 
   const searchRef = useRef();
 
@@ -51,13 +56,23 @@ const ResultList = ({ jobs = [] }) => {
   }, []);
 
   const columns = useMemo(() => {
-    if (view === Views.List || isMobile) return '1fr';
-    if (isDesktop) return '1fr 1fr';
+    if (isMobile) setMaxVisiblePages(4);
+    else setMaxVisiblePages(7);
+
+    if (view === Views.List || isMobile) {
+      return '1fr';
+    }
+    if (isDesktop) {
+      return '1fr 1fr';
+    }
     return '1fr 1fr 1fr';
   }, [view, isDesktop]);
 
   const jobPosts = useMemo(() => {
-    return jobs.map((job) => (
+    const start = (currentPage - 1) * resultsPerPage;
+    const end = start + resultsPerPage;
+    const sliced = jobs.slice(start, end);
+    return sliced.map((job) => (
       <JobPost
         key={job.slug}
         gridElement={view === Views.Grid}
@@ -66,11 +81,29 @@ const ResultList = ({ jobs = [] }) => {
         {...job}
       />
     ));
-  }, [jobs, view]);
+  }, [jobs, view, currentPage]);
 
   const scrollToTop = useCallback(() => {
     searchRef.current.scrollIntoView({ block: 'end', behavior: 'smooth' });
   }, []);
+
+  const handleOnPageChange = useCallback((page) => {
+    setCurrentPage(page);
+    searchRef.current.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }, []);
+
+  const pagination = useMemo(() => {
+    const pageCount = Math.ceil(jobs.length / resultsPerPage);
+    if (pageCount > 0)
+      return (
+        <Pagination
+          className={styles.pagination}
+          pageCount={pageCount}
+          visibleCount={maxVisiblePages}
+          onChange={handleOnPageChange}
+        />
+      );
+  }, [maxVisiblePages, jobs]);
 
   return (
     <>
@@ -133,6 +166,7 @@ const ResultList = ({ jobs = [] }) => {
         >
           <Icon icon="chevron-up" />
         </Button>
+        {pagination}
       </div>
     </>
   );
