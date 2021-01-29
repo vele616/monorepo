@@ -1,18 +1,18 @@
 ---
-title: "Full-stack engineer"
+title: "Full-Stack Engineer"
 location: "Remote job"
 host: "https://pluralai.recruitee.com/"
 companyName: "Plural AI"
 url: "https://pluralai.recruitee.com/o/fullstack-engineer"
 applyUrl: "https://pluralai.recruitee.com/o/fullstack-engineer/c/new"
 timestamp: 1611878400000
-hashtags: "#reactjs,#typescript,#ui/ux,#javascript,#python,#golang,#management,#aws,#postgresql,#elasticsearch"
+hashtags: "#reactjs,#typescript,#javascript,#python,#ui/ux,#golang,#management,#aws,#postgresql,#elasticsearch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plural-ai"
 companyWebsite: "https://plural.ai/"
-summary: "Plural AI intends to hire a new full-stack engineer. If you have experience with JavaScript/TypeScript/React andPython, consider applying."
+summary: "Plural AI intends to hire a new Full-Stack Engineer. If you have experience with JavaScript, TypeScript, React and Python, consider applying."
 summaryBackup: "Excited about #reactjs, #typescript, #ui/ux? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Job description
