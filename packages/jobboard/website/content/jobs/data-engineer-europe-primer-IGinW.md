@@ -1,6 +1,6 @@
 ---
-title: "Data Engineer (Europe)"
-location: "United Kingdom"
+title: "Data Engineer"
+location: "Remote"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/0A4D82D82F/"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
 summary: "If you have experience building and optimising ‘big data’ data pipelines, architectures and data sets, Primer is looking for someone with your skillset."
 summaryBackup: "Primer is looking for a data engineer that has experience in: #python, #java, #spark."
-featured: 20
+featured: 5
 ---
 
 ## Description
