@@ -1,5 +1,5 @@
 ---
-title: "Product designer"
+title: "Product Designer"
 location: "Remote job"
 host: "https://pluralai.recruitee.com/"
 companyName: "Plural AI"
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#branding,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plural-ai"
 companyWebsite: "https://plural.ai/"
-summary: "Plural AI is looking for a product designer that has experience in: experience in: #ui/ux, #branding, #office."
+summary: "Plural AI is looking for a Product Designer that has experience in: #ui/ux, #branding, #office."
 summaryBackup: "To apply as a product designer at Plural AI, you preferably need to have some knowledge of: #ui/ux, #branding, #office."
-featured: 20
+featured: 7
 ---
 
 ## Job description
@@ -63,7 +63,7 @@ Products we're inspired by:
 
 ## Job requirements
 
-## The role
+**The role**
 
 You will be working with our product lead to:
 
@@ -71,7 +71,7 @@ You will be working with our product lead to:
 *   Improve and extend our existing visual style and make it your own
 *   Produce mockups, prototypes and design assets to communicate the UI and UX of our product to our development team, users and potential customers
 
-## Specifics
+**Specifics**
 
 *   Build on top of existing mockup prototypes
 *   Review front-end development work to ensure it meets design standards
