@@ -1,18 +1,18 @@
 ---
-title: "Lead engineer (full-stack)"
+title: "Full-Stack Lead Engineer"
 location: "Remote job"
 host: "https://pluralai.recruitee.com/"
 companyName: "Plural AI"
 url: "https://pluralai.recruitee.com/o/lead-engineer-fullstack"
 applyUrl: "https://pluralai.recruitee.com/o/lead-engineer-fullstack/c/new"
 timestamp: 1611878400000
-hashtags: "#reactjs,#python,#management,#javascript,#golang,#typescript,#ui/ux,#scrum,#aws,#operations"
+hashtags: "#reactjs,#python,#javascript,#golang,#typescript,#management,#ui/ux,#scrum,#aws,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plural-ai"
 companyWebsite: "https://plural.ai/"
-summary: "If you have experience working with company leadership and other stakeholders e, Plural AI is looking for someone with your knowledge."
+summary: "If you have experience working with company leadership and other stakeholders e.g. to set goals and priorities, Plural AI is looking for someone with your knowledge."
 summaryBackup: "Love #reactjs, #python, #management? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job description
