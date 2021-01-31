@@ -1,6 +1,6 @@
 ---
 title: "Developer Relations Associate"
-location: "NewYorkCityorRemote"
+location: "Remote"
 host: "https://jobs.lever.co/stellar"
 companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/c1a8be3f-926f-461e-ba8d-9c28aa430520"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-de
 companyWebsite: "https://www.stellar.org/"
 summary: "If you have 2+ years real-world experience in developer management, business relations, or technical writing, Stellar Development Foundation is looking for someone with your knowledge."
 summaryBackup: "To apply as a developer relations associate at Stellar Development Foundation, you preferably need to have some knowledge of: #javascript, #python, #golang."
-featured: 20
+featured: 5
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation is looking for someone to join our ecosystem team as a Developer Relations Associate. We’re looking for someone interested in blockchain and open-source technology who is curious, technical, organized, and a great writer.
