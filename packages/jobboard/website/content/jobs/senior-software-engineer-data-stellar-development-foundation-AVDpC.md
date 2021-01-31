@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer (Data)"
-location: "SanFrancisco,NewYork,orRemote"
+title: "Senior Software Engineer"
+location: "SanFrancisco, NewYork, or Remote"
 host: "https://jobs.lever.co/stellar"
 companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/51d4877f-67d4-47eb-8157-108ea4bacdb9"
 applyUrl: "https://jobs.lever.co/stellar/51d4877f-67d4-47eb-8157-108ea4bacdb9/apply"
 timestamp: 1611878400000
-hashtags: "#ui/ux,#python,#java,#golang,#rustlang,#scala,#finance,#analysis"
+hashtags: "#python,#java,#golang,#rustlang,#scala,#finance,#ui/ux,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
 summary: "If you have 4+ years of experience developing software on a team, consider applying to Stellar Development Foundation's job post for a new senior software engineer."
 summaryBackup: "To apply as a senior software engineer at Stellar Development Foundation, you preferably need to have some knowledge of: #ui/ux, #python, #java."
-featured: 20
+featured: 14
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation (SDF) is looking for a talented, experienced, and hands-on software engineer to join our team. In this role, you’ll be designing, building, and implementing the tools and services that empower Stellar's ecosystem. By working within the data analytics and liquidity team (Voyager), you'll be working on open source projects that empower developers and non-developers to use the Stellar network for a wide variety of goals and use cases.
@@ -56,7 +56,7 @@ Interested in helping us change the world of payments forever? The Stellar Devel
 
 *   Data Pipelines at Stellar ([blog post](https://www.stellar.org/developers-blog/accelerating-analytics-on-stellar))
 *   Re-architecting our data warehouse to use a [Snowflake Schema](http://en.wikipedia.org/wiki/Snowflake_schema)
-*   [Protocols](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0008.md) and [reference implementations](https://github.com/stellar/stellar-anchor-server) that help organizations building on Stellar work together
+*   [Protocols](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0008.md) and reference implementations that help organizations building on Stellar work together
 *   Trading bots like [Kelp](https://github.com/stellar/kelp) or similar projects
 *   Dozens of other tools and systems that make developing diverse financial apps on Stellar as ergonomic as possible
 
