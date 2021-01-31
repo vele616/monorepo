@@ -1,18 +1,18 @@
 ---
 title: "Software Developer"
-location: "London, England, United Kingdom"
+location: "Remote"
 host: "https://apply.workable.com/overleaf/"
 companyName: "Overleaf"
 url: "https://apply.workable.com/overleaf/j/77FA8361E4/"
 applyUrl: "https://apply.workable.com/overleaf/j/77FA8361E4/apply/"
 timestamp: 1611878400000
-hashtags: "#css,#reactjs,#angular,#kubernetes,#git,#redis,#postgresql,#mongodb,#windows,#docker"
+hashtags: "#kubernetes,#postgresql,#mongodb,#reactjs,#angular,#git,#redis,#css,#windows,#docker"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/overleaf"
 companyWebsite: "https://www.overleaf.com/"
 summary: "If you have 3 years of relevant experience, Overleaf is looking for someone with your skillset."
 summaryBackup: "Overleaf is looking for a software developer that has experience in: #css, #reactjs, #angular."
-featured: 20
+featured: 2
 ---
 
 ## Description
