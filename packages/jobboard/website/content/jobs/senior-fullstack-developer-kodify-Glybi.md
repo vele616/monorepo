@@ -17,7 +17,7 @@ featured: 10
 
 ## Job description
 
-At **Kodify** we manage several high traffic web platforms developed using the latest technologies and we work hard to provide the best experience for our users.The team at Kodify is looking for a talented**Senior** **FullStack Developer** to join our **remote** team. This specific role is open to remote candidates based in **European Union &UKonly** (a must for us). With you on board, we’re looking to expand our team (currently 15 developers working across multiple European locations) and take our projects to a whole new level. You will deliver Javascript development skills on the front and backend systems that power our sites. Good knowledge of HTML and CSS are also required, along with the ability to work with our designers and the business to implement the features required.
+At **Kodify** we manage several high traffic web platforms developed using the latest technologies and we work hard to provide the best experience for our users.The team at Kodify is looking for a talented **Senior** **FullStack Developer** to join our **remote** team. This specific role is open to remote candidates based in **European Union &UKonly** (a must for us). With you on board, we’re looking to expand our team (currently 15 developers working across multiple European locations) and take our projects to a whole new level. You will deliver Javascript development skills on the front and backend systems that power our sites. Good knowledge of HTML and CSS are also required, along with the ability to work with our designers and the business to implement the features required.
 
 ## Your key responsibilities:
 
