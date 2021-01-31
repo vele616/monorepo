@@ -1,5 +1,5 @@
 ---
-title: "Backend Engineer (f/m/div)"
+title: "Backend Engineer"
 location: "Remote job"
 host: "https://perdoo.recruitee.com/"
 companyName: "Perdoo"
@@ -7,12 +7,12 @@ url: "https://perdoo.recruitee.com/o/backend-engineer-fmdiv-berlin"
 applyUrl: "https://perdoo.recruitee.com/o/backend-engineer-fmdiv-berlin/c/new"
 timestamp: 1611878400000
 hashtags: "#django,#python,#management,#ui/ux,#scrum,#monitoring,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/perdoo"
 companyWebsite: "https://www.perdoo.com/"
-summary: "If you have 4+ years of experience running cloud-based backends at scale, consider applying to Perdoo's job post for a new backend engineer."
+summary: "If you have 4+ years of experience running cloud-based backends at scale, consider applying to Perdoo's job post for a new Backend Engineer."
 summaryBackup: "Love #django, #python, #management? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Job description
@@ -40,7 +40,7 @@ Our backend is written in Python and built on the latest version of Django, so t
 
 ## Requirements
 
-****Required Skills / Experience****
+**Required Skills / Experience**
 
 If you care a lot about what you do, creating the workplace of tomorrow and having a real impact on the company's success, then Perdoo is the right place for you.
 
@@ -58,5 +58,5 @@ If you care a lot about what you do, creating the workplace of tomorrow and havi
 *   Work in a dynamic, exciting and fun startup environment where every person has a voice and can have a real impact on company success.
 *   Flexible working hours, frequent team events and exceptional co-workers.
 *   Support for personal development, trainings, conferences and continuous learning.
-*   A beautiful office inBerlin with an awesome view over the city.
+*   A beautiful office in Berlin with an awesome view over the city.
 *   Team retreats twice a year to a remote location. Last time we took the team to a villa in Morocco!
