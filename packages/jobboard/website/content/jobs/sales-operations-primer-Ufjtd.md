@@ -6,13 +6,13 @@ companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/65EFF18A92/"
 applyUrl: "https://apply.workable.com/primer-api/j/65EFF18A92/apply/"
 timestamp: 1611878400000
-hashtags: "#sales,#operations,#windows,#analytics,#management,#monitoring"
+hashtags: "#sales,#operations,#management,#windows,#analytics,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
 summary: "Primer is looking for a sales operations that has experience in: experience in: #sales, #operations, #windows."
 summaryBackup: "To apply as a sales operations at Primer, you preferably need to have some knowledge of: #sales, #operations, #windows."
-featured: 20
+featured: 10
 ---
 
 ## Description
