@@ -1,16 +1,16 @@
 ---
-title: "Associate Software Engineer - Integrations (Europe)"
-location: "United Kingdom"
+title: "Associate Software Engineer"
+location: "Remote job"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/FD6C0F9950/"
 applyUrl: "https://apply.workable.com/primer-api/j/FD6C0F9950/apply/"
 timestamp: 1611878400000
-hashtags: "#reactjs,#office"
+hashtags: "#reactjs,#nodejs,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
-summary: "To apply as an associate software engineer at Primer, you preferably need to have team creates the experience that empowers merchants to offer hundreds of payment methods to their customers via a single integration."
+summary: "To apply as an Associate Software Engineer at Primer, you preferably need to have knowledge of programming and are proficient in at least one language."
 summaryBackup: "Primer is looking for an associate software engineer that has experience in: #reactjs, #office."
 featured: 20
 ---
