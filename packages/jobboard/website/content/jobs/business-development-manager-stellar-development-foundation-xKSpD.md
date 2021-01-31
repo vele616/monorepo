@@ -1,6 +1,6 @@
 ---
 title: "Business Development Manager"
-location: "SanFranciscoorRemote"
+location: "San Francisco or Remote"
 host: "https://jobs.lever.co/stellar"
 companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/56a4379f-fdc9-4f10-9f6a-21f11d35647b"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-de
 companyWebsite: "https://www.stellar.org/"
 summary: "Stellar Development Foundation is searching for a business development manager that has 3+ years of experience working in business development and / or growing a business as a founder, especially in highly technical industries."
 summaryBackup: "To apply as a business development manager at Stellar Development Foundation, you preferably need to have some knowledge of: #finance, #management, #marketing."
-featured: 20
+featured: 11
 ---
 
 **Open to considering remote candidates in the US and abroad**
