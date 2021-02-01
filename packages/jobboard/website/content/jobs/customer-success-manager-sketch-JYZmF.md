@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/d4c799c5-d4ef-4e86-b48e-1fbe88ab464c"
 applyUrl: "https://jobs.lever.co/sketch/d4c799c5-d4ef-4e86-b48e-1fbe88ab464c/apply"
 timestamp: 1612137600000
-hashtags: "#ui/ux,#management,#operations,#monitoring,#optimization,#English"
+hashtags: "#management,#operations,#optimization,#monitoring,#ui/ux,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
-summary: "Sketch is searching for a customer success manager that has experience working directly with customers, in a support or customer success role."
+summary: "Sketch is searching for a Customer Success Manager that has experience working directly with customers, in a support or customer success role."
 summaryBackup: "Excited about #ui/ux, #management, #operations? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 Do you want to be part of a team that helps >1 million designers create amazing products everyday? We are looking for **Customer Success Managers** to join our team and help build this important function at Sketch.
