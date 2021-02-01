@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/cad26229-810c-4f5d-b840-c5d5c73efbbf"
 applyUrl: "https://jobs.lever.co/sketch/cad26229-810c-4f5d-b840-c5d5c73efbbf/apply"
 timestamp: 1612137600000
-hashtags: "#marketing,#content,#ui/ux,#management,#socialmedia,#branding,#office,#analysis,#finance,#English"
+hashtags: "#marketing,#content,#management,#socialmedia,#branding,#office,#ui/ux,#analysis,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
-summary: "Sketch intends to hire a new marketing coordinator. If you have this could be from an educational course that you've completed, work experience or job that you're currently working in, consider applying."
+summary: "Excited about #marketing, #content, #management? Check out this job post!"
 summaryBackup: "Excited about #marketing, #content, #ui/ux? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take this leading design tool to the next level? We're looking to expand our team and appoint a dynamic Marketing Coordinator to join our ambitious and talented team.
