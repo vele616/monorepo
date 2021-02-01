@@ -1,8 +1,8 @@
 ---
-title: "Senior WordPress Engineer (PHP Development)"
+title: "Senior WordPress Engineer"
 location: "Remote Worldwide"
 host: "https://modern-tribe.breezy.hr/"
-companyName: "modern-tribe"
+companyName: "Modern Tribe, Inc."
 url: "https://modern-tribe.breezy.hr/p/ba988a033051-senior-wordpress-engineer-php-development"
 applyUrl: "https://modern-tribe.breezy.hr/p/ba988a033051-senior-wordpress-engineer-php-development/apply"
 timestamp: 1612137600000
@@ -10,9 +10,9 @@ hashtags: "#wordpress,#php,#ui/ux,#redis,#elasticsearch,#mysql,#scrum,#office,#E
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
-summary: "If you have 5+ years experience working as a backend web developer on production sites, Modern-tribe has a job opening for a senior wordpress engineer"
+summary: "If you have 5+ years experience working as a backend web developer on production sites, Modern Tribe has a job opening for a Senior WordPress Engineer"
 summaryBackup: "Excited about #wordpress, #php, #ui/ux? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## The Opportunity
