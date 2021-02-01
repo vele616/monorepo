@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/d2c90068-98fa-4b4d-896b-64b3da9ef4d6"
 applyUrl: "https://jobs.lever.co/sketch/d2c90068-98fa-4b4d-896b-64b3da9ef4d6/apply"
 timestamp: 1612137600000
-hashtags: "#operations,#finance,#ui/ux,#management,#office,#Dutch,#English"
+hashtags: "#operations,#finance,#management,#office,#ui/ux,#Dutch,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
-summary: "Interested in new opportunities and have 2021 is going to be a very exciting year at Sketch? Sketch has a job opening for a senior."
+summary: "If you have experience in improving accounting processes and internal controls, Sketch has a job opening for a Senior/Staff Accountant."
 summaryBackup: "Love #operations, #finance, #ui/ux? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products every day. Want to join us and help us take our accounting operations to the next level? We’re looking for our second hire on the accounting team.
