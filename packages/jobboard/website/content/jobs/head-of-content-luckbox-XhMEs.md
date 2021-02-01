@@ -10,9 +10,9 @@ hashtags: "#marketing,#content,#management,#socialmedia,#branding,#analytics,#ca
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/luckbox"
 companyWebsite: "https://luckbox.com/"
-summary: "If you have seasoned experience of developing content strategies and curating content for our demographic of users in heavily regulated, international digital environments, consider applying to Luckbox's job post for a new head of content."
+summary: "If you have seasoned experience of developing content strategies and curating content for our demographic of users in heavily regulated, international digital environments, consider applying to Luckbox's job post for a new Head of Content."
 summaryBackup: "Excited about #marketing, #content, #management? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## Job description
@@ -23,7 +23,7 @@ What else is in it for you? You will be working within a globally dynamic and fa
 
 What makes us different from other esports betting start-ups is our approach - we are building a product specifically for the competitive gaming audience in a fully regulated manner. Luckbox are breaking new grounds; with the future of gambling being very much in our capable hands and the world is starting to take note; we were very proud to be the recipient of the EGR 2020 Rising Star award.
 
-## Role & responsibilities:
+**Role & responsibilities:**
 
 *   Drive our content strategy globally, owning the what, where and when.
 *   Set and drive ambitious KPIs and take ownership of marketing budgets allocated optimally across territories, channels, and marketing funnel
@@ -41,7 +41,7 @@ What makes us different from other esports betting start-ups is our approach - w
 
 ## Job requirements
 
-## Essential:
+**Essential:**
 
 *   Seasoned experience of developing content strategies and curating content for our demographic of users in heavily regulated, international digital environments (gambling, adult, dating, etc.); betting and gaming experience preferred but candidates with a proven track record in other high-growth, fast-paced industries will be considered
 *   Esports is a big part of your life, you know the lingo, and the idea of creating content about it is something that excites you
@@ -57,7 +57,7 @@ What makes us different from other esports betting start-ups is our approach - w
 *   We're hugely committed to growing and developing our internal talent and you will share that passion
 *   Business level proficiency in verbal and written English
 
-## Bonus:
+**Bonus:**
 
 *   Experience working in, the global esports market
 *   Experience in the gambling/gaming industry
@@ -69,7 +69,7 @@ What makes us different from other esports betting start-ups is our approach - w
 *   Experience of working across multiple markets and localizing campaigns per market
 *   You can name drop which journalists you are on a text-based relationship with and who follow you back on Twitter. You have a strong roster of media relationships and contacts and have a strong curiosity to build relationships with new contacts and can do it with ease
 
-## Location:
+**Location:**
 
 For the right candidate we are happy for the this role to be based remotely (European time zone), we are also happy for it to based in either of our BG or Isle of Man offices. Occasional travel to the Isle of Man, UK and/or within the EU may be required.
 
