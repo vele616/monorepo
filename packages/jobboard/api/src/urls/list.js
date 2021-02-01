@@ -1,11 +1,11 @@
-const AWS = require('aws-sdk');
+const AWS = require("aws-sdk");
 
 let options = {};
 
 if (process.env.IS_OFFLINE) {
   options = {
-    region: 'localhost',
-    endpoint: 'http://localhost:8000',
+    region: "localhost",
+    endpoint: "http://localhost:8000",
   };
 }
 
@@ -18,31 +18,32 @@ const client = new AWS.DynamoDB.DocumentClient(options);
 exports.exec = async () => {
   const timestamp = new Date().getTime();
   try {
-    const result = await client.scan(
-      {
+    const result = await client
+      .scan({
         TableName: process.env.URLS_TABLE,
-        FilterExpression: 'createdAt > :timestamp AND published = :published OR archivedAt > :archivedAt',
+        FilterExpression:
+          "createdAt > :timestamp AND published = :published AND attribute_exists(jobPostFilename) OR archivedAt > :archivedAt",
         ExpressionAttributeValues: {
-          ':timestamp': timestamp - timeframe,
-          ':published': false,
-          ':archivedAt': timestamp - lastArchived,
+          ":timestamp": timestamp - timeframe,
+          ":published": false,
+          ":archivedAt": timestamp - lastArchived,
         },
-      },
-    ).promise();
+      })
+      .promise();
 
     return {
       statusCode: 200,
       body: JSON.stringify({
-        archived: (result.Items).filter((item) => item.archived === true),
-        published: (result.Items).filter((item) => item.archived === false),
+        archived: result.Items.filter((item) => item.archived === true),
+        published: result.Items.filter((item) => item.archived === false),
       }),
     };
   } catch (error) {
     console.error(error);
     return {
       statusCode: error.statusCode || 501,
-      headers: { 'Content-Type': 'text/plain' },
-      body: 'Couldn\'t fetch the documents.',
+      headers: { "Content-Type": "text/plain" },
+      body: "Couldn't fetch the documents.",
     };
   }
 };

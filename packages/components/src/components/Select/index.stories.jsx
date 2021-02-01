@@ -76,3 +76,21 @@ Story4.args = {
   title: "Fruit",
   label: "Fruit",
 };
+
+export const Story5 = () => {
+  return (
+    <div>
+      <Select clear pill multiselect confirmChoice label="Fruit">
+        <Select.Option>Ananas</Select.Option>
+        <Select.Option>Banana</Select.Option>
+        <Select.Option>Avocado</Select.Option>
+      </Select>
+      <Select clear pill multiselect label="Fruit">
+        <Select.Option>Ananas</Select.Option>
+        <Select.Option>Banana</Select.Option>
+        <Select.Option>Avocado</Select.Option>
+      </Select>
+    </div>
+  );
+};
+Story5.storyName = "Multiselect Pills";
