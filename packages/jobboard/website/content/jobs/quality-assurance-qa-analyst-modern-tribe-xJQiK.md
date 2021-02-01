@@ -1,18 +1,18 @@
 ---
-title: "Quality Assurance (QA) Analyst"
+title: "Quality Assurance Analyst"
 location: "Remote Worldwide"
 host: "https://modern-tribe.breezy.hr/"
-companyName: "modern-tribe"
+companyName: "Modern Tribe, Inc."
 url: "https://modern-tribe.breezy.hr/p/b481f0511faf-quality-assurance-qa-analyst"
 applyUrl: "https://modern-tribe.breezy.hr/p/b481f0511faf-quality-assurance-qa-analyst/apply"
 timestamp: 1612137600000
-hashtags: "#wordpress,#ui/ux,#git,#office,#English"
+hashtags: "#wordpress,#git,#office,#ui/ux,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
-summary: "To apply as a quality assurance at Modern-tribe, you preferably need to have as a hybrid workspace ranging from distributed contractors to traditional employees, we value the unique perspectives and experiences of our global team."
+summary: "To apply as a Quality Assurance Analyst at Modern Tribe, you preferably need to have a proven track record in Quality Assurance."
 summaryBackup: "Love #wordpress, #ui/ux, #git? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 ## The Opportunity
