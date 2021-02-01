@@ -1,18 +1,18 @@
 ---
-title: "Senior Ruby on Rails developer (REMOTE)"
+title: "Senior Ruby on Rails Developer"
 location: "Helsinki, FI - Remote OK"
 host: "https://lifetimely.breezy.hr/"
 companyName: "lifetimely"
 url: "https://lifetimely.breezy.hr/p/65586cdc0afe01-senior-ruby-on-rails-developer-remote"
 applyUrl: "https://lifetimely.breezy.hr/p/65586cdc0afe01-senior-ruby-on-rails-developer-remote/apply"
 timestamp: 1612137600000
-hashtags: "#rubylang,#css,#javascript,#rails,#git,#optimization"
+hashtags: "#rubylang,#javascript,#rails,#css,#git,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/lifetimely"
 companyWebsite: "https://lifetimely.breezy.hr/"
-summary: "Lifetimely intends to hire a new senior ruby on rails developer. If you have has experience with a relational database and is good at SQL, consider applying."
+summary: "Lifetimely intends to hire a new Senior Ruby on Rails Developer. If you have experience with a relational database and are good at SQL, consider applying."
 summaryBackup: "Lifetimely is looking for a senior ruby on rails developer that has experience in: #rubylang, #css, #javascript."
-featured: 20
+featured: 5
 ---
 
 Hey there! 👋
