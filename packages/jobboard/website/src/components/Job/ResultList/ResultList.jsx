@@ -23,7 +23,7 @@ const Views = Object.freeze({
   Grid: 'grid',
 });
 
-const ResultList = ({ jobs = [] }) => {
+const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   const [view, setView] = useState(Views.List);
   const [isScrollingUp, setIsScrollingUp] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
@@ -84,26 +84,44 @@ const ResultList = ({ jobs = [] }) => {
   }, [jobs, view, currentPage]);
 
   const scrollToTop = useCallback(() => {
-    searchRef.current.scrollIntoView({ block: 'end', behavior: 'smooth' });
+    if (searchRef.current) {
+      searchRef.current.scrollIntoView({ block: 'end', behavior: 'smooth' });
+    }
   }, []);
 
-  const handleOnPageChange = useCallback((page) => {
-    setCurrentPage(page);
-    searchRef.current.scrollIntoView({ block: 'start', behavior: 'smooth' });
-  }, []);
+  const handleOnPageChange = useCallback(
+    (page) => {
+      setCurrentPage(page);
+      if (searchRef.current) {
+        searchRef.current.scrollIntoView({
+          block: 'start',
+          behavior: 'smooth',
+        });
+      }
+      if (onPageChange) onPageChange(page);
+    },
+    [onPageChange]
+  );
 
   const pagination = useMemo(() => {
     const pageCount = Math.ceil(jobs.length / resultsPerPage);
+    const numericDefaultPage = Math.min(Number(defaultPage) || 1, pageCount);
+
+    if (numericDefaultPage > 0) {
+      handleOnPageChange(numericDefaultPage);
+    }
+
     if (pageCount > 0)
       return (
         <Pagination
+          defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
           className={styles.pagination}
           pageCount={pageCount}
           visibleCount={maxVisiblePages}
           onChange={handleOnPageChange}
         />
       );
-  }, [maxVisiblePages, jobs]);
+  }, [maxVisiblePages, jobs, defaultPage]);
 
   return (
     <>

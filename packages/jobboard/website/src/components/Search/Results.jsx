@@ -4,7 +4,13 @@ import { StaticQuery, graphql } from 'gatsby';
 import SearchIndex from '../../search';
 import ResultList from '../Job/ResultList/ResultList';
 
-const SearchResults = ({ index, store, searchQuery }) => {
+const SearchResults = ({
+  index,
+  store,
+  searchQuery,
+  onPageChange,
+  defaultPage,
+}) => {
   const jobsIndex = useMemo(() => new SearchIndex(index, store), [
     index,
     store,
@@ -38,13 +44,19 @@ const SearchResults = ({ index, store, searchQuery }) => {
       skillsIds
     );
 
-    return <ResultList jobs={results} />;
+    return (
+      <ResultList
+        defaultPage={defaultPage}
+        jobs={results}
+        onPageChange={onPageChange}
+      />
+    );
   }, [searchQuery]);
 
   return jobs;
 };
 
-const SearchWithQuery = ({ searchQuery }) => (
+const SearchWithQuery = ({ searchQuery, onPageChange, defaultPage }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -55,7 +67,12 @@ const SearchWithQuery = ({ searchQuery }) => (
       }
     `}
     render={(data) => (
-      <SearchResults searchQuery={searchQuery} {...data.localSearchJobs} />
+      <SearchResults
+        searchQuery={searchQuery}
+        {...data.localSearchJobs}
+        defaultPage={defaultPage}
+        onPageChange={onPageChange}
+      />
     )}
   />
 );

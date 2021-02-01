@@ -14,7 +14,6 @@ import styles from './index.module.scss';
 import QueryTitle from './QueryTitle';
 import querystring from 'query-string';
 import { StaticQuery, graphql } from 'gatsby';
-import { array } from 'prop-types';
 
 const Search = ({
   title,
@@ -26,6 +25,7 @@ const Search = ({
   onSearch,
   className,
   hashtags,
+  currentPage,
 }) => {
   const maxInputLenght = 115;
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
@@ -39,7 +39,7 @@ const Search = ({
   const queryParams = useMemo(() => {
     const defaultQueryFilters = { q: '', filters: {} };
     if (location && location.search) {
-      const { q, ...queryFilters } = querystring.parse(location.search);
+      const { q, page, ...queryFilters } = querystring.parse(location.search);
       if (typeof q === 'string') {
         defaultQueryFilters.q = q.slice(0, maxInputLenght);
       }
@@ -59,7 +59,7 @@ const Search = ({
   }, []);
 
   const setHistory = useCallback(() => {
-    if (!filterSelection || Object.keys(filterSelection) === 0) return;
+    if (!filterSelection || Object.keys(filterSelection).length === 0) return;
 
     const historyParams = searchInput ? { q: searchInput } : {};
 
@@ -69,11 +69,13 @@ const Search = ({
       }
     });
 
+    historyParams['page'] = currentPage;
+
     const paramsEncoded = `?${new URLSearchParams(historyParams).toString()}`;
     const paramsDecoded = decodeURIComponent(paramsEncoded);
 
     history.replaceState(historyParams, 'Jobboard search', paramsDecoded);
-  }, [filterSelection, searchInput]);
+  }, [filterSelection, searchInput, currentPage]);
 
   const handleSearch = useCallback(
     (event) => {
@@ -87,7 +89,7 @@ const Search = ({
 
   useEffect(() => {
     setHistory();
-  }, [filterSelection, searchInput]);
+  }, [filterSelection, searchInput, currentPage]);
 
   const handleOnFilterChange = useCallback(
     (selection, id) => {
