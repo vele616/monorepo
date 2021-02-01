@@ -2,17 +2,17 @@
 title: "Technical Strategist"
 location: "Remote Worldwide"
 host: "https://modern-tribe.breezy.hr/"
-companyName: "modern-tribe"
+companyName: "Modern Tribe, Inc."
 url: "https://modern-tribe.breezy.hr/p/5cd444086b21-technical-strategist"
 applyUrl: "https://modern-tribe.breezy.hr/p/5cd444086b21-technical-strategist/apply"
 timestamp: 1612137600000
-hashtags: "#wordpress,#ui/ux,#translation,#content,#management,#analysis,#English"
+hashtags: "#wordpress,#management,#analysis,#ui/ux,#translation,#content,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
-summary: "Modern-tribe wishes to hire a new technical strategist. If you have as a hybrid workspace ranging from distributed contractors to traditional employees, we value the unique perspectives and experiences of our global team, consider applying."
+summary: "Modern Tribe wishes to hire a new Technical Strategist that has experience in: #wordpress, #management, #analysis,."
 summaryBackup: "Modern-tribe is looking for a technical strategist that has experience in: #wordpress, #ui/ux, #translation."
-featured: 20
+featured: 10
 ---
 
 ## The Opportunity
