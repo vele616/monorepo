@@ -6,11 +6,11 @@ companyName: "PointClickCare"
 url: "https://jobs.lever.co/pointclickcare/1ed6adb4-418f-44a5-859d-f3a3f0bed2c4"
 applyUrl: "https://jobs.lever.co/pointclickcare/1ed6adb4-418f-44a5-859d-f3a3f0bed2c4/apply"
 timestamp: 1612137600000
-hashtags: "#java,#css,#HR,#management,#marketing,#scrum"
+hashtags: "#HR,#management,#marketing,#java,#css,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pointclickcare"
 companyWebsite: "https://jobs.lever.co/pointclickcare/?location=Remote&team=Engineering"
-summary: "PointClickCare is looking for an engineering that has experience in: experience in: #java, #css, #HR."
+summary: "PointClickCare is looking for an Engineer that has experience in: #HR, #management, #marketing."
 summaryBackup: "To apply as an engineering at PointClickCare, you preferably need to have some knowledge of: #java, #css, #HR."
 featured: 20
 ---
