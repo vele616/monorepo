@@ -1,5 +1,5 @@
 ---
-title: "Graphic Designer (Branding)"
+title: "Graphic Designer"
 location: "Remote job"
 host: "https://luckbox.recruitee.com/"
 companyName: "Luckbox"
@@ -12,12 +12,12 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/luckbox"
 companyWebsite: "https://luckbox.com/"
 summary: "Luckbox is looking for a graphic designer that has 4+ years experience as a visual designer / graphic designer."
 summaryBackup: "To apply as a graphic designer at Luckbox, you preferably need to have some knowledge of: #ui/ux, #branding, #marketing."
-featured: 20
+featured: 9
 ---
 
 ## Job description
 
-## Graphic Designer
+**Graphic Designer**
 
 Luckbox is an esports betting platform built around the ethos of ‘Esports Betting Done Right’. As our team continues to grow, we immediately require a qualified candidate to fill the role of Graphic Designer.
 
