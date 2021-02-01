@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "To apply as an ux writer at Sketch, you preferably need to have some knowledge of: experience in: #ui/ux, #marketing, #css."
 summaryBackup: "To apply as an ux writer at Sketch, you preferably need to have some knowledge of: #ui/ux, #marketing, #css."
 featured: 20
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take this leading design tool to the next level? We're looking to expand our team with a full-time **UX Writer**.
