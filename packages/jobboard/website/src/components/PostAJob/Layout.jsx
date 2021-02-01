@@ -6,7 +6,7 @@ import Footer from '../Footer';
 import Img from 'gatsby-image/withIEPolyfill';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
-import CrocNav from '../../images/croc-nav-xmas.svg';
+import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
 import {
   Typography,
