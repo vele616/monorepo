@@ -2,7 +2,7 @@
 title: "WordPress Engineer"
 location: "Remote Worldwide"
 host: "https://modern-tribe.breezy.hr/"
-companyName: "modern-tribe"
+companyName: "Modern Tribe, Inc."
 url: "https://modern-tribe.breezy.hr/p/d377794b05c2-wordpress-engineer"
 applyUrl: "https://modern-tribe.breezy.hr/p/d377794b05c2-wordpress-engineer/apply"
 timestamp: 1612137600000
@@ -10,9 +10,9 @@ hashtags: "#wordpress,#php,#laravel,#ui/ux,#management,#redis,#elasticsearch,#sc
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
-summary: "Modern-tribe intends to hire a new wordpress engineer. If you have 5+ years experience working as a backend web developer on production sites, consider applying."
+summary: "Modern Tribe intends to hire a new Wordpress Engineer. If you have 5+ years experience working as a backend web developer on production sites, consider applying."
 summaryBackup: "Love #wordpress, #php, #laravel? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## The Opportunity
