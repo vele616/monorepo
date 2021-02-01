@@ -163,4 +163,20 @@ $tabletLandscapeLimit: 800;
 
 }
 
+.Portal_outside {
+  background-color: rebeccapurple;
+}
+
+// Set portal z-index to something higher than 1.
+// This is because images on Job Cards have z-index of 1
+body > :last-child {
+  & > :first-child {
+    & > :last-child {
+      z-index: 3;
+    }
+  }
+}
+
+
+
 
