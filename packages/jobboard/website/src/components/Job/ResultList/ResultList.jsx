@@ -28,7 +28,7 @@ const ResultList = ({ jobs = [] }) => {
   const [isScrollingUp, setIsScrollingUp] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
 
-  const resultsPerPage = 10;
+  const resultsPerPage = 24;
   const [maxVisiblePages, setMaxVisiblePages] = useState(7);
 
   const searchRef = useRef();
@@ -66,7 +66,7 @@ const ResultList = ({ jobs = [] }) => {
       return '1fr 1fr';
     }
     return '1fr 1fr 1fr';
-  }, [view, isDesktop]);
+  }, [view, isDesktop, isMobile]);
 
   const jobPosts = useMemo(() => {
     const start = (currentPage - 1) * resultsPerPage;

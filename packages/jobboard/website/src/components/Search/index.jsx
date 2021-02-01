@@ -14,6 +14,7 @@ import styles from './index.module.scss';
 import QueryTitle from './QueryTitle';
 import querystring from 'query-string';
 import { StaticQuery, graphql } from 'gatsby';
+import { array } from 'prop-types';
 
 const Search = ({
   title,
@@ -29,14 +30,19 @@ const Search = ({
   const maxInputLenght = 115;
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
 
-  hashtags.sort();
+  const sortedHashtags = useMemo(() => {
+    if (typeof hashtags === 'object' && Array.isArray(hashtags)) {
+      return hashtags.map((tag) => tag.replace('#', '')).sort();
+    }
+  }, [hashtags]);
 
   const queryParams = useMemo(() => {
     const defaultQueryFilters = { q: '', filters: {} };
     if (location && location.search) {
       const { q, ...queryFilters } = querystring.parse(location.search);
-      if (typeof q === 'string')
+      if (typeof q === 'string') {
         defaultQueryFilters.q = q.slice(0, maxInputLenght);
+      }
       Object.entries(queryFilters).map(([key, options]) => {
         defaultQueryFilters.filters[key] = options.split(',') || [];
       });
@@ -58,34 +64,40 @@ const Search = ({
     const historyParams = searchInput ? { q: searchInput } : {};
 
     Object.entries(filterSelection).forEach(([key, options]) => {
-      if (key && options && options.length > 0)
+      if (key && options && options.length > 0) {
         historyParams[key] = options.map(({ id }) => id);
+      }
     });
 
-    history.replaceState(
-      historyParams,
-      'Jobboard search',
-      `?${new URLSearchParams(historyParams).toString()}`
-    );
+    const paramsEncoded = `?${new URLSearchParams(historyParams).toString()}`;
+    const paramsDecoded = decodeURIComponent(paramsEncoded);
+
+    history.replaceState(historyParams, 'Jobboard search', paramsDecoded);
   }, [filterSelection, searchInput]);
 
   const handleSearch = useCallback(
     (event) => {
       if (event && event.key && event.key !== 'Enter') return;
-      setHistory();
       if (onSearch) {
         onSearch({ input: searchInput, filters: filterSelection });
       }
     },
-    [setHistory, searchInput, filterSelection]
+    [searchInput, filterSelection]
   );
 
-  const handleOnFilterChange = useCallback((selection, id) => {
-    setFilterSelection((prev) => ({
-      ...prev,
-      [id]: selection,
-    }));
-  }, []);
+  useEffect(() => {
+    setHistory();
+  }, [filterSelection, searchInput]);
+
+  const handleOnFilterChange = useCallback(
+    (selection, id) => {
+      setFilterSelection((prev) => ({
+        ...prev,
+        [id]: selection,
+      }));
+    },
+    [filterSelection]
+  );
 
   const renderFilters = useMemo(() => {
     return (
@@ -124,9 +136,9 @@ const Search = ({
           label="Skills"
           title="Skills"
         >
-          {hashtags.map((tag) => (
+          {sortedHashtags.map((tag) => (
             <Select.Option key={tag} id={tag}>
-              {typeof tag === 'string' && tag.replace('#', '')}
+              {tag}
             </Select.Option>
           ))}
         </Select>
@@ -147,11 +159,15 @@ const Search = ({
 
     const searchData = { input: queryParams.q, filters: {} };
     Object.entries(queryParams.filters).map(([filterId, options]) => {
+      console.log('current', filterId, options);
+
       // Get only valid skills
       if (filterId === 'skills' && options && options.length > 0) {
-        const existingSkills = options.filter((opt) =>
-          hashtags.find((tag) => tag === opt)
-        );
+        const existingSkills = options.filter((opt) => {
+          // if (!opt) return false;
+          console.log('looking for skills', opt);
+          return sortedHashtags.find((tag) => tag === opt);
+        });
         if (existingSkills && existingSkills.length > 0) {
           searchData.filters['skills'] = existingSkills;
         }
@@ -167,6 +183,8 @@ const Search = ({
         }
       }
     });
+
+    console.log('Searching for', searchData);
     if (onSearch) onSearch(searchData);
   }, []);
 

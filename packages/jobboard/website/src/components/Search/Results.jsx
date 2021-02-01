@@ -25,7 +25,10 @@ const SearchResults = ({ index, store, searchQuery }) => {
       contractIds = contract.map((c) => c.id || c);
     }
     if (skills && skills.length > 0) {
-      skillsIds = skills.map((s) => s.id || s);
+      skillsIds = skills.map((s) => {
+        const skill = s.id || s || '';
+        return skill.startsWith('#') ? skill : `#${skill}`;
+      });
     }
 
     const results = jobsIndex.search(
