@@ -1,18 +1,18 @@
 ---
-title: "Senior Security Engineer (DevSecOps)"
+title: "Senior Security Engineer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
-companyName: "komoot"
+companyName: "Komoot"
 url: "https://apply.workable.com/komoot/j/7DFCA9EE38/"
 applyUrl: "https://apply.workable.com/komoot/j/7DFCA9EE38/apply/"
 timestamp: 1612224000000
-hashtags: "#aws,#javascript,#python,#java,#kotlin,#macos,#operations,#git,#analysis,#monitoring"
+hashtags: "#aws,#java,#python,#javascript,#kotlin,#macos,#operations,#git,#analysis,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
-summary: "If you have 5+ years of professional experience with AWS, Komoot has a job opening for a senior security engineer"
+summary: "If you have 5+ years of professional experience with AWS, Komoot has a job opening for a Senior Security Engineer"
 summaryBackup: "Excited about #aws, #javascript, #python? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
