@@ -1,8 +1,8 @@
 ---
-title: "Senior Backend Engineer - Maps"
+title: "Senior Backend Engineer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
-companyName: "komoot"
+companyName: "Komoot"
 url: "https://apply.workable.com/komoot/j/5D484D9584/"
 applyUrl: "https://apply.workable.com/komoot/j/5D484D9584/apply/"
 timestamp: 1612224000000
@@ -10,9 +10,9 @@ hashtags: "#kotlin,#aws,#java,#scala,#ui/ux,#windows,#macos,#azure,#git,#content
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
-summary: "Komoot is looking for a senior backend engineer that has 3+ years of professional experience."
+summary: "Komoot is looking for a Senior Backend Engineer that has 3+ years of professional experience."
 summaryBackup: "Komoot is looking for a senior backend engineer that has experience in: #kotlin, #aws, #java."
-featured: 20
+featured: 16
 ---
 
 ## Description
@@ -47,7 +47,7 @@ Join us if you live and love infrastructure as code, automating workflows, x10 s
 *   We strive for a modern tech stack to stay productive and face scaling challenges.
 *   We are a tech company with little organisational overhead focusing on ownership and responsibility instead of micro-management and hierarchies.
 *   This is a remote role – you’re free to work from anywhere that lies between the time zones UTC-1 and UTC+3. Beach? The mountains? Or a co-working space (covered by us)?
-*   You’ll become part of a diverse, international team and you’ll travel with us (when safe) for team gatherings in amazing locations several times a year. Check out this playlist to find out more about how we stay close while being remote. (https://bit.ly/39xtIrn)
+*   You’ll become part of a diverse, international team and you’ll travel with us (when safe) for team gatherings in amazing locations several times a year. Check out this [playlist](https://bit.ly/39xtIrn) to find out more about how we stay close while being remote. 
 
 ## Requirements
 
