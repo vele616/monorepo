@@ -37,18 +37,42 @@ const Search = ({
   }, [hashtags]);
 
   const queryParams = useMemo(() => {
-    const defaultQueryFilters = { q: '', filters: {}, page: null };
+    const queryParams = {
+      q: '',
+      page: null,
+      filters: {
+        contract: [],
+        experience: [],
+        skills: [],
+      },
+    };
+
     if (location && location.search) {
-      const { q, page, ...queryFilters } = querystring.parse(location.search);
-      if (typeof q === 'string') {
-        defaultQueryFilters.q = q.slice(0, maxInputLenght);
+      const {
+        q = '',
+        page = null,
+        contract = '',
+        experience = '',
+        skills = '',
+      } = querystring.parse(`${location.search}${location.hash}`);
+      if (typeof contract === 'string') {
+        queryParams.filters.contract = contract.split(',') || [];
       }
-      Object.entries(queryFilters).map(([key, options]) => {
-        defaultQueryFilters.filters[key] = options.split(',') || [];
-      });
-      if (page && Number(page) > 0) defaultQueryFilters.page = page;
+      if (typeof experience === 'string') {
+        queryParams.filters.experience = experience.split(',') || [];
+      }
+      if (typeof skills === 'string') {
+        queryParams.filters.skills = skills.split(',') || [];
+      }
+      if (typeof q === 'string') {
+        queryParams.q = q.slice(0, maxInputLenght);
+      }
+      if (page && Number(page) > 0) {
+        queryParams.page = page;
+      }
     }
-    return defaultQueryFilters;
+
+    return queryParams;
   }, [location]);
 
   const [empty, setEmpty] = useState(true);
