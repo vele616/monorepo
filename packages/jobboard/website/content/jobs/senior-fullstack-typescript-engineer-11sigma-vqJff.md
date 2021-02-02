@@ -2,17 +2,17 @@
 title: "Senior FullStack TypeScript Engineer"
 location: "Remote Worldwide"
 host: "https://11sigma.breezy.hr/"
-companyName: "11sigma"
+companyName: "11Sigma"
 url: "https://11sigma.breezy.hr/p/9afad7cbe08901-senior-fullstack-typescript-engineer"
 applyUrl: "https://11sigma.breezy.hr/p/9afad7cbe08901-senior-fullstack-typescript-engineer/apply"
 timestamp: 1612224000000
-hashtags: "#typescript,#ui/ux,#javascript,#reactjs,#nodejs,#git,#postgresql,#rest,#English"
+hashtags: "#typescript,#javascript,#reactjs,#nodejs,#git,#postgresql,#rest,#ui/ux,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/11sigma"
 companyWebsite: "https://11sigma.com/"
 summary: "Excited about experience in: #typescript, #ui/ux, #javascript? Check out this job post!"
 summaryBackup: "11sigma is looking for a senior fullstack typescript engineer that has experience in: #typescript, #ui/ux, #javascript."
-featured: 20
+featured: 5
 ---
 
 Hi! My name is Chris, I’m the CEO of [11Sigma](https://11sigma.com/), and I’d like to invite you to join our team.
@@ -36,10 +36,6 @@ To find exciting work and open amazing opportunities we partner with tech startu
 If the above resonates with you, please read on.
 
 ## Job Description
-
-## 
-
-![](https://lh6.googleusercontent.com/K5892YnulCBRaC8ndqPkSkRUA9egJy_7Io1sQ5zlRcXTSOC7XUSeh2iAPf0YFEIrgT_u0dSN_UJSjD-FmJaKIdYX7jmo04ldTLGG3iTwTwyeOZOblaNyNOZpHfbWnF06X3OyIqw-)
 
 You will join the [11Sigma](https://11sigma.com/) crew at [Stoplight](https://stoplight.io/) (our partner) and will be working with the core platform team on creating complex, high-performing API Design web applications using the latest technology stack and best practices. You’ll work hand to hand with some of the greatest engineers in the API space.
 
