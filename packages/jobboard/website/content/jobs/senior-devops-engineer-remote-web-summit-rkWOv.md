@@ -1,18 +1,18 @@
 ---
-title: "Senior DevOps Engineer (Remote)"
+title: "Senior DevOps Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/websummit"
 companyName: "Web Summit"
 url: "https://jobs.lever.co/websummit/dc40624c-c7cc-4be6-aa22-5f0369b71109"
 applyUrl: "https://jobs.lever.co/websummit/dc40624c-c7cc-4be6-aa22-5f0369b71109/apply"
 timestamp: 1612224000000
-hashtags: "#ui/ux,#terraform,#kubernetes,#aws,#git,#management,#marketing,#scrum,#analysis,#office"
+hashtags: "#terraform,#kubernetes,#aws,#git,#management,#marketing,#scrum,#ui/ux,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit"
 companyWebsite: "https://websummit.com/"
-summary: "To apply as a senior devops engineer at Web Summit, you preferably need to have you have experience working in a Kanban or Scrum team driving everyone around you to perform to their utmost."
+summary: "To apply as a Senior DevOps Engineer at Web Summit, you preferably need to have experience working in a Kanban or Scrum team driving everyone around you to perform to their utmost."
 summaryBackup: "To apply as a senior devops engineer at Web Summit, you preferably need to have some knowledge of: #ui/ux, #terraform, #kubernetes."
-featured: 20
+featured: 2
 ---
 
 **About us:**
