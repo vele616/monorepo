@@ -1,23 +1,23 @@
 ---
-title: "Automation QA Engineer (Eastern Europe)"
+title: "Automation QA Engineer"
 location: "Remote Worldwide"
 host: "https://mobymax.breezy.hr/"
-companyName: "mobymax"
+companyName: "Mobymax"
 url: "https://mobymax.breezy.hr/p/056994ea4fb8-automation-qa-engineer-eastern-europe"
 applyUrl: "https://mobymax.breezy.hr/p/056994ea4fb8-automation-qa-engineer-eastern-europe/apply"
 timestamp: 1612224000000
-hashtags: "#java,#spring,#ui/ux,#English"
+hashtags: "#java,#spring,#selenium,#ui/ux,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
-summary: "Mobymax is searching for an automation qa engineer that has experience with TestNG or JUnit, xUnit libraries, and implementing test listeners."
+summary: "Mobymax is searching for an Automation QA Engineer that has experience with TestNG or JUnit, xUnit libraries, and implementing test listeners."
 summaryBackup: "Love #java, #spring, #ui/ux? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## About Us
 
-MobyMax is an Educational Technology company that creates unique, individualized education plans for students in all K-8 subjects.Used in over 73% of all K-8 schools in the United States with over 22 million students registered, MobyMax allows students to make tremendous progress while having fun! MobyMax creates global, research-powered curriculums that enable every child to learn twice as fast.
+MobyMax is an Educational Technology company that creates unique, individualized education plans for students in all K-8 subjects. Used in over 73% of all K-8 schools in the United States with over 22 million students registered, MobyMax allows students to make tremendous progress while having fun! MobyMax creates global, research-powered curriculums that enable every child to learn twice as fast.
 
 ## Description
 
