@@ -1,18 +1,18 @@
 ---
 title: "Account Executive"
-location: "RemoteMunich,Germany"
+location: "Remote Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/4cc5fede-1cee-4ed7-8802-30aaccbc61d9"
 applyUrl: "https://jobs.lever.co/demodesk/4cc5fede-1cee-4ed7-8802-30aaccbc61d9/apply"
 timestamp: 1612224000000
-hashtags: "#sales,#management,#css,#linux,#content,#marketing,#German"
+hashtags: "#sales,#management,#marketing,#css,#linux,#content,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "If you have 3+ years of software selling experience, consider applying to Demodesk's job post for a new account executive."
+summary: "If you have 3+ years of software selling experience, consider applying to Demodesk's job post for a new Account Executive."
 summaryBackup: "Demodesk is looking for an account executive that has experience in: #sales, #management, #css."
-featured: 20
+featured: 9
 ---
 
 **Mission**
@@ -44,10 +44,10 @@ Demodesk's Account Executives are at the center of our mission to help everyone 
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.0.1.244/) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
-About us
+**About us**
 
 Demodesk is building the world's first intelligent online meeting platform with the vision to enable anyone to have great customer conversations. Web conferencing tools that are being used today are purely functional. They hardly offer anything beyond video calling and local desktop sharing.
 
