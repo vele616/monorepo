@@ -1,18 +1,18 @@
 ---
-title: "Agile Coach (Remote)"
+title: "Agile Coach"
 location: "Remote"
 host: "https://jobs.lever.co/websummit"
 companyName: "Web Summit"
 url: "https://jobs.lever.co/websummit/c6e1a5d1-6c18-4ee0-95b4-b19b4a241787"
 applyUrl: "https://jobs.lever.co/websummit/c6e1a5d1-6c18-4ee0-95b4-b19b4a241787/apply"
 timestamp: 1612224000000
-hashtags: "#scrum,#ui/ux,#management,#marketing,#office"
+hashtags: "#scrum,#management,#optimization,#ui/ux,#marketing,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit"
 companyWebsite: "https://websummit.com/"
-summary: "Web Summit is searching for an agile coach that has at Web Summit we believe that the power of data and engineering can be applied to every facet of our events to make the attendee experience excellent, so whatever projects you work on you’ll work closely with our UX engineers, data scientists, engineers and web developers across all our conferences."
+summary: "Web Summit is searching for an agile coach that has proven track record of mentoring and educating colleagues."
 summaryBackup: "To apply as an agile coach at Web Summit, you preferably need to have some knowledge of: #scrum, #ui/ux, #management."
-featured: 20
+featured: 13
 ---
 
 **About us:**
