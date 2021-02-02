@@ -37,7 +37,7 @@ const Search = ({
   }, [hashtags]);
 
   const queryParams = useMemo(() => {
-    const defaultQueryFilters = { q: '', filters: {}, page: 1 };
+    const defaultQueryFilters = { q: '', filters: {}, page: null };
     if (location && location.search) {
       const { q, page, ...queryFilters } = querystring.parse(location.search);
       if (typeof q === 'string') {
@@ -70,7 +70,17 @@ const Search = ({
   );
 
   useEffect(() => {
-    const historyParams = searchInput ? { q: searchInput } : {};
+    const historyParams = {};
+
+    if (searchInput) {
+      historyParams['q'] = searchInput;
+    }
+
+    if (currentPage) {
+      historyParams['page'] = currentPage;
+    }
+
+    searchInput ? { q: searchInput } : {};
 
     if (filterSelection && Object.keys(filterSelection).length > 0) {
       Object.entries(filterSelection).forEach(([key, options]) => {
@@ -80,12 +90,11 @@ const Search = ({
       });
     }
 
-    historyParams['page'] = currentPage;
-
-    const paramsEncoded = `?${new URLSearchParams(historyParams).toString()}`;
-    const paramsDecoded = decodeURIComponent(paramsEncoded);
-
-    history.replaceState(historyParams, 'Jobboard search', paramsDecoded);
+    if (Object.keys(historyParams).length > 0) {
+      const paramsEncoded = `?${new URLSearchParams(historyParams).toString()}`;
+      const paramsDecoded = decodeURIComponent(paramsEncoded);
+      history.replaceState(historyParams, 'Jobboard search', paramsDecoded);
+    }
   }, [filterSelection, searchInput, currentPage]);
 
   const handleOnFilterChange = useCallback(

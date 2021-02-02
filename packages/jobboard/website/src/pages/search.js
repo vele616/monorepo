@@ -8,7 +8,7 @@ import styles from './index.module.scss';
 const SearchPage = ({ location }) => {
   const [searchQuery, setSearchQuery] = useState({});
   const [hasSearched, setHasSearched] = useState(false);
-  const [currentPage, setCurrentPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState(null);
 
   const handleOnPageChange = useCallback((page) => {
     setCurrentPage(page);
@@ -17,9 +17,7 @@ const SearchPage = ({ location }) => {
   const handleOnSearch = useCallback((query, page) => {
     setHasSearched(true);
     setSearchQuery(query);
-
-    console.log('search page', page);
-    handleOnPageChange(page || 1);
+    handleOnPageChange(page);
   }, []);
 
   return (
