@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 3 years of professional experience in Web Development, Demodesk is looking for someone with your skillset."
 summaryBackup: "To apply as a full-stack engineer real-time conversation assistance at Demodesk, you preferably need to have some knowledge of: #rubylang, #rails, #python."
 featured: 20
+archived: "true"
 ---
 
 Your Mission 
