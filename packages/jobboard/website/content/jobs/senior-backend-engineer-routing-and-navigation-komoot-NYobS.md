@@ -1,8 +1,8 @@
 ---
-title: "Senior Backend Engineer - Routing and Navigation"
+title: "Senior Backend Engineer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
-companyName: "komoot"
+companyName: "Komoot"
 url: "https://apply.workable.com/komoot/j/61C547B65D/"
 applyUrl: "https://apply.workable.com/komoot/j/61C547B65D/apply/"
 timestamp: 1612224000000
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
 summary: "If you have 3+ years of professional experience with routing and GIS technologies, consider applying to Komoot's job post for a new senior backend engineer."
 summaryBackup: "Komoot is looking for a senior backend engineer that has experience in: #java, #rustlang, #aws."
-featured: 20
+featured: 5
 ---
 
 ## Description
@@ -51,7 +51,7 @@ We're focused on impact, which is why we love finding smart, simple solutions to
 *   Routing is komoot’s core technology so your achievements will be crucial for komoot’s world-wide success.
 *   We are a tech company with little organisational overhead, focusing on ownership and responsibility instead of micro management and hierarchies.
 *   This is a remote role and we are a remote team. You are free to work from anywhere that lies between the time zones UTC-1 and UTC+3. Beach? The mountains? Or a co-working space (covered by us)?
-*   You’ll become part of a diverse, international team and you’ll travel with us (when safe) for team gatherings in amazing locations several times a year. Check out this playlist to find out more about how we stay close while being remote. (https://bit.ly/39xtIrn)
+*   You’ll become part of a diverse, international team and you’ll travel with us (when safe) for team gatherings in amazing locations several times a year. Check out this [playlist](https://bit.ly/39xtIrn) to find out more about how we stay close while being remote.
 
 ## Requirements
 
