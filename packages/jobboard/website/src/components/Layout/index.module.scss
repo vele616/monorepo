@@ -12,3 +12,11 @@ body {
   scroll-behavior: smooth;
   text-size-adjust: 100%;
 }
+
+.centerAlignedLink {
+  align-items: center;
+  display: inline-flex;
+  & > span {
+    padding-left: 5px;
+  }
+}
