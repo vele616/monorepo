@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Interested in new opportunities and have 5+ years years experience in a fast-growing international tech company? Demodesk has a job opening for a recruiter."
 summaryBackup: "Love #sales, #linux, #content? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 Mission
