@@ -2,7 +2,7 @@
 title: "HR Operations Specialist"
 location: "Remote - Remote OK"
 host: "https://mobymax.breezy.hr/"
-companyName: "mobymax"
+companyName: "MobyMax"
 url: "https://mobymax.breezy.hr/p/f172df4f4f09-hr-operations-specialist"
 applyUrl: "https://mobymax.breezy.hr/p/f172df4f4f09-hr-operations-specialist/apply"
 timestamp: 1612224000000
@@ -10,9 +10,9 @@ hashtags: "#management,#operations,#HR,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mobymax"
 companyWebsite: "https://www.mobymax.com/"
-summary: "If you have 5+ years experience in human resources, benefits/payroll administration, and/or recruiting, Mobymax is looking for someone with your knowledge."
+summary: "If you have 5+ years experience in human resources, benefits/payroll administration, and/or recruiting, MobyMax is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #operations, #HR? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 MobyMax is the most widely adopted edtech platform in the U.S. Millions of students use Moby every day to catch up to grade level, close learning gaps, or to move ahead of their class at their own pace. Join us; we’re transforming the way children learn, and we’re doing it in our slippers.
