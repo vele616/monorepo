@@ -1,16 +1,16 @@
 ---
-title: "Marketing Intern (m/f/d)"
-location: "RemoteMunich,Germany"
+title: "Marketing Intern"
+location: "Remote, Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/7e87fa50-8c73-45e3-942c-250fb71d34ca"
 applyUrl: "https://jobs.lever.co/demodesk/7e87fa50-8c73-45e3-942c-250fb71d34ca/apply"
 timestamp: 1612224000000
-hashtags: "#marketing,#content,#sales,#linux,#analysis,#German,#monitoring,#English"
+hashtags: "#marketing,#content,#analysis,#sales,#linux,#German,#monitoring,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "Demodesk is searching for a marketing intern that has strong interpersonal skills and experience building strong internal and external relationships."
+summary: "Demodesk is searching for a Marketing Intern that has strong interpersonal skills and experience building strong internal and external relationships."
 summaryBackup: "Excited about #marketing, #content, #sales? Check out this job post!"
 featured: 20
 ---
@@ -47,7 +47,7 @@ As a Marketing Intern at Demodesk, you will be a key member of our ambitious and
 *   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1,500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
-About us
+**About us**
 
 Demodesk is building the world's first intelligent online meeting platform with the vision to enable anyone to have great customer conversations. Web conferencing tools that are being used today are purely functional. They hardly offer anything beyond video calling and local desktop sharing.
 
