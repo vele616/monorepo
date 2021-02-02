@@ -1,18 +1,18 @@
 ---
-title: "Software Engineer in Test (Remote)"
+title: "Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/websummit"
 companyName: "Web Summit"
 url: "https://jobs.lever.co/websummit/30f53259-39bf-4e1e-b6e6-8afce9ddc7a1"
 applyUrl: "https://jobs.lever.co/websummit/30f53259-39bf-4e1e-b6e6-8afce9ddc7a1/apply"
 timestamp: 1612224000000
-hashtags: "#ui/ux,#reactjs,#git,#marketing,#office,#jira,#monitoring"
+hashtags: "#jira,#git,#selenium,#reactjs,#marketing,#ui/ux,#office,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/web-summit"
 companyWebsite: "https://websummit.com/"
 summary: "If you have on experience with automated testing tools, Web Summit is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #reactjs, #git? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 **About us:**
