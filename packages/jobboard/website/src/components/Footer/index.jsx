@@ -23,13 +23,13 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
       socialLinks={
         <>
           {socialMedia.map((mediaLink) => (
-            <Link
+            <a
               className={styles.icon}
               key={mediaLink.icon}
-              to={mediaLink.link}
+              href={mediaLink.link}
             >
               <Icon color="gray_1" icon={mediaLink.icon} />
-            </Link>
+            </a>
           ))}
         </>
       }
