@@ -2,7 +2,7 @@
 title: "Senior B2B Communications Manager"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
-companyName: "komoot"
+companyName: "Komoot"
 url: "https://apply.workable.com/komoot/j/F8BD617B3A/"
 applyUrl: "https://apply.workable.com/komoot/j/F8BD617B3A/apply/"
 timestamp: 1612224000000
@@ -10,9 +10,9 @@ hashtags: "#marketing,#branding,#management,#macos,#content,#git,#office,#German
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
-summary: "Komoot is looking for a senior b2b communications manager that has 10+ years experience in Communications/PR/b2b Marketing."
+summary: "Komoot is looking for a Senior B2B Communications Manager that has 10+ years experience in Communications/PR/b2b Marketing."
 summaryBackup: "Excited about #marketing, #branding, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
