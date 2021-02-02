@@ -24,12 +24,18 @@ const Views = Object.freeze({
 });
 
 const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
+  const resultsPerPage = 24;
+  const paginationRef = useRef();
+
+  const [maxVisiblePages, setMaxVisiblePages] = useState(7);
   const [view, setView] = useState(Views.List);
   const [isScrollingUp, setIsScrollingUp] = useState(false);
-  const [currentPage, setCurrentPage] = useState(1);
 
-  const resultsPerPage = 24;
-  const [maxVisiblePages, setMaxVisiblePages] = useState(7);
+  const [currentPage, setCurrentPage] = useState(() => {
+    const pageCount = Math.ceil(jobs.length / resultsPerPage);
+    const numericDefaultPage = Math.min(Number(defaultPage) || 1, pageCount);
+    return numericDefaultPage > 0 ? numericDefaultPage : 1;
+  });
 
   const searchRef = useRef();
 
@@ -91,6 +97,10 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
 
   const handleOnPageChange = useCallback(
     (page) => {
+      if (page == currentPage) {
+        return;
+      }
+
       setCurrentPage(page);
       if (searchRef.current) {
         searchRef.current.scrollIntoView({
@@ -98,22 +108,37 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
           behavior: 'smooth',
         });
       }
-      if (onPageChange) onPageChange(page);
+      if (onPageChange) {
+        onPageChange(page);
+      }
     },
-    [onPageChange]
+    [onPageChange, currentPage]
   );
+
+  const [pageLoaded, setPageLoaded] = useState(false);
+
+  useEffect(() => {
+    setPageLoaded(true);
+  }, []);
+
+  // On new search jump to page 1 (after first page load)
+  useEffect(() => {
+    if (pageLoaded) {
+      handleOnPageChange(1);
+      if (paginationRef.current) {
+        paginationRef.current.changePage(1);
+      }
+    }
+  }, [jobs]);
 
   const pagination = useMemo(() => {
     const pageCount = Math.ceil(jobs.length / resultsPerPage);
     const numericDefaultPage = Math.min(Number(defaultPage) || 1, pageCount);
 
-    if (numericDefaultPage > 0) {
-      handleOnPageChange(numericDefaultPage);
-    }
-
     if (pageCount > 0)
       return (
         <Pagination
+          forwardRef={paginationRef}
           defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
           className={styles.pagination}
           pageCount={pageCount}
@@ -121,7 +146,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
           onChange={handleOnPageChange}
         />
       );
-  }, [maxVisiblePages, jobs, defaultPage]);
+  }, [maxVisiblePages, jobs.length, defaultPage, handleOnPageChange]);
 
   return (
     <>
