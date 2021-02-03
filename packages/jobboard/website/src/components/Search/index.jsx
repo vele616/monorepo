@@ -54,7 +54,7 @@ const Search = ({
         contract = '',
         experience = '',
         skills = '',
-      } = querystring.parse(`${location.search}${location.hash}`);
+      } = querystring.parse(location.search);
       if (typeof contract === 'string') {
         queryParams.filters.contract = contract.split(',') || [];
       }
