@@ -1,16 +1,16 @@
 ---
-title: "Open Source Software Developer  (Speculative; Remote/Anywhere)"
+title: "Open Source Software Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
 url: "https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23"
 applyUrl: "https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23/apply"
 timestamp: 1612310400000
-hashtags: "#marketing,#linux,#ui/ux,#English"
+hashtags: "#linux,#webkit,#jenkins,#ui/ux,#marketing,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "Collabora is looking for an open source software developer that has bS/BA or experience in the role of Engineer."
+summary: "Collabora is looking for an Open Source Software Developer that has experience in software development."
 summaryBackup: "To apply as an open source software developer at Collabora, you preferably need to have some knowledge of: #marketing, #linux, #ui/ux."
 featured: 20
 ---
