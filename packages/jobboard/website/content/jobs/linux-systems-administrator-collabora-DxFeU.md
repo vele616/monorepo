@@ -10,9 +10,9 @@ hashtags: "#management,#linux,#python,#operations,#ansible,#puppet,#chef,#kubern
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "Collabora is searching for a linux systems administrator that has the team has a variety of responsibilities and is looking for people with experience in a number of the following areas."
+summary: "Collabora is searching for a Linux Systems Administrator that has experience in running Linux servers and services."
 summaryBackup: "Collabora is looking for a linux systems administrator that has experience in: #management, #linux, #python."
-featured: 20
+featured: 15
 ---
 
 Collabora is looking for a Linux System Administrator with passion for free software administration to join our sysadmin team. This role will be fully remote. You will be covering a wide swathe of technology support, ranging from installation and deployment of servers, various applications to providing troubleshooting and technical support for customer projects. Your skills will be fully utilised to mature and grow our IT infrastructure and services as demanded by a growing organisation.
