@@ -1,18 +1,18 @@
 ---
-title: "Multimedia Open Source Software Developer (Remote/Anywhere)"
+title: "Multimedia Open Source Software Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
 url: "https://jobs.lever.co/collabora/2039ccce-4c84-45ac-94f0-a0103b22a258"
 applyUrl: "https://jobs.lever.co/collabora/2039ccce-4c84-45ac-94f0-a0103b22a258/apply"
 timestamp: 1612310400000
-hashtags: "#linux,#ui/ux,#marketing,#office,#English"
+hashtags: "#cplusplus,#ui/ux,#marketing,#linux,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "Excited about experience in: #linux, #ui/ux, #marketing? Check out this job post!"
+summary: "Excited about experience in: #cplusplus, #ui/ux, #marketing? Check out this job post!"
 summaryBackup: "To apply as a multimedia open source software developer at Collabora, you preferably need to have some knowledge of: #linux, #ui/ux, #marketing."
-featured: 20
+featured: 9
 ---
 
 Collabora is looking for a full-time and remote Open Source Software Developer to join its Multimedia team.
