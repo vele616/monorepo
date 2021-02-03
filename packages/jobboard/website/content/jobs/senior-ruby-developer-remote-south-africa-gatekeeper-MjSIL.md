@@ -1,18 +1,18 @@
 ---
-title: "Senior Ruby Developer | Remote (South Africa)"
-location: "Cape Town, Western Cape, South Africa"
+title: "Senior Ruby Developer"
+location: "Remote"
 host: "https://apply.workable.com/gatekeeper/"
 companyName: "Gatekeeper"
 url: "https://apply.workable.com/gatekeeper/j/23D2C8BDC4/"
 applyUrl: "https://apply.workable.com/gatekeeper/j/23D2C8BDC4/apply/"
 timestamp: 1612310400000
 hashtags: "#rubylang,#rails,#ui/ux,#html,#management,#marketing,#postgresql,#finance,#monitoring"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gatekeeper"
 companyWebsite: "http://www.gatekeeperhq.com/"
 summary: "If you have experience of delivering large development projects, Gatekeeper is looking for someone with your skillset."
 summaryBackup: "Love #rubylang, #rails, #ui/ux? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## Description
