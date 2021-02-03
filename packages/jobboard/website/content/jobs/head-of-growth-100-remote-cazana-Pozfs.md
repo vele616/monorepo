@@ -1,18 +1,18 @@
 ---
-title: "Head of Growth (100% Remote)"
+title: "Head of Growth"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/head-of-growth-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/head-of-growth-100-remote/c/new"
 timestamp: 1612310400000
-hashtags: "#management,#ui/ux,#operations,#crm"
+hashtags: "#management,#operations,#crm,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have with experience working with early to mid, Cazana has a job opening for a head of growth"
+summary: "If you have experience overseeing on and off-page improvements to drive traffic and revenue growth, Cazana has a job opening for a Head of Growth"
 summaryBackup: "Love #management, #ui/ux, #operations? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Job description
