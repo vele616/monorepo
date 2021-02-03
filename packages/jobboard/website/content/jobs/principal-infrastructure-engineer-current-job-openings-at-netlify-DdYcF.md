@@ -2,7 +2,7 @@
 title: "Principal Infrastructure Engineer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5060310002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5060310002#app"
 timestamp: 1612310400000
@@ -10,7 +10,7 @@ hashtags: "#ui/ux,#operations,#golang,#aws,#css,#linux,#kubernetes,#googlecloud,
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have you’ve supported infrastructure and services ranging from IaaS, PaaS, and SaaS in public cloud environments and have vast experience contributing to the architecture and design, consider applying to Current Job Openings at Netlify's job post for a new principal infrastructure engineer."
+summary: "If you have experience of designing compute infrastructure in AWS, managing multi-cloud environments and conducted service migrations, consider applying to Netlify's job post for a new Principal Infrastructure Engineer."
 summaryBackup: "To apply as a principal infrastructure engineer at Current Job Openings at Netlify, you preferably need to have some knowledge of: #ui/ux, #operations, #golang."
 featured: 20
 ---
@@ -31,7 +31,7 @@ The competency to build performant multi-cloud systems is vast, we don't expect 
 
 We are biased towards asynchronous planning and communication, meaning less meetings and more execution. We place our values of transparency, empowerment, and commitment at the forefront of everything we do. We’re driven by passion and we make sure that everyone on the team knows their value, feels ownership over their work, and can quickly see the impact of their efforts. Beyond just hiring smart, empathetic team members, we foster a culture where there are no dumb questions and our team can get access to the resources that they need to continue to learn. 
 
-Who you are: 
+## Who you are: 
 
 *   You are well versed in a large number of technologies and welcome new tools and techniques. We work with Go, Kubernetes, Mongo, CDNs, AWS, GCP,  just to name a few! 
 *   Experienced designing compute infrastructure in AWS, managing multi-cloud environments and conducted service migrations
