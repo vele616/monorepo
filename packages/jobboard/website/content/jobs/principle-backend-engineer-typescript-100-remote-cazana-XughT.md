@@ -1,25 +1,25 @@
 ---
-title: "Principle Backend Engineer (TypeScript) - 100% Remote"
+title: "Principle Backend Engineer"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/principle-backend-engineer-typescript-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/principle-backend-engineer-typescript-100-remote/c/new"
 timestamp: 1612310400000
-hashtags: "#typescript,#python,#css,#postgresql,#marketing,#terraform,#dynamodb,#aws,#management,#redis"
+hashtags: "#typescript,#python,#postgresql,#marketing,#terraform,#dynamodb,#aws,#management,#css,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have you want to give your experience and knowledge to something special and be part of its journey but you also want to grow and develop into a better engineer than you are now, Cazana is looking for someone with your knowledge."
+summary: "If you are an experienced and accomplished backend software engineer and you are looking for a new challenge, Cazana is looking for someone with your knowledge."
 summaryBackup: "Cazana is looking for a principle backend engineer that has experience in: #typescript, #python, #css."
-featured: 20
+featured: 10
 ---
 
 ## Job description
 
 **About you**
 
-You are an experienced andaccomplished backend software engineer and you are looking for a new challenge. Somewhere you can actually add value rather than being another cog in the wheel.We have a great engineering team who are looking for someone with your seniority and skillset to help us achieve our goals.
+You are an experienced and accomplished backend software engineer and you are looking for a new challenge. Somewhere you can actually add value rather than being another cog in the wheel.We have a great engineering team who are looking for someone with your seniority and skillset to help us achieve our goals.
 
 You love data and love working with data on a daily basis. Our products are all based around data, and we are using the latest and greatest tech to change our industry for the better. We are evolving our tech all of the time and you want to be an influence of that. You have strong opinions on what good tech looks like and you want to be heard. We are listening.
 
@@ -63,7 +63,7 @@ Infrastructure:**_ECS, RDS (PostgreSQL), Terraform, Elasticache (Elasticsearch a
 *   All the equipment you need to get the job done
 *   The ability to work where and when you want in order to get the job done (remote and flexible working welcome)
 *   A central London office and meeting space to use when you need it
-*   Access to free counselling, therapy and mental health support via[Spill](https://www.spill.chat/)
+*   Access to free counselling, therapy and mental health support via [Spill](https://www.spill.chat/)
 *   Access to free personal/ professional coaching via a trained internal coach
 *   Cycle to work scheme
 *   25 days holiday, all bank holidays off and any period of closure over Christmas also paid.
@@ -88,4 +88,4 @@ Infrastructure:**_ECS, RDS (PostgreSQL), Terraform, Elasticache (Elasticsearch a
 
 After reviewing your profile we will send you an email with our coding task attached for to complete. After review of the coding task, you will be invited to a video call with our Director of Engineering and a member of the team for atechnical interview. After this, we will decide on making you an offer!
 
-The average hiring time for software engineers in the UK has been estimated at 55 days. We just hired our Engineering Manager in less than 42 days! (and this was during the Christmas period)We don't wait around.Do not miss out on this opportunity.**Apply today!**
+The average hiring time for software engineers in the UK has been estimated at 55 days. We just hired our Engineering Manager in less than 42 days! (and this was during the Christmas period)We don't wait around.Do not miss out on this opportunity. **Apply today!**
