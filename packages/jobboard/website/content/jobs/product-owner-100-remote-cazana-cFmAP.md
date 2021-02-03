@@ -1,5 +1,5 @@
 ---
-title: "Product Owner (100% Remote)"
+title: "Product Owner"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
@@ -10,9 +10,9 @@ hashtags: "#management,#ui/ux,#marketing,#operations,#sales,#analysis,#optimizat
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have we were acquired by Cazana in 2018 and have been working tirelessly to improve the experience of Car &amp, Cazana has a job opening for a product owner"
+summary: "If you have a track record of managing the product design process, Cazana has a job opening for a Product Owner"
 summaryBackup: "Excited about #management, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job description
