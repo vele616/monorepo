@@ -189,11 +189,14 @@ const Search = ({
     // Execute search if there is something in query params on first load
 
     if (
-      Object.keys(queryParams.filters).length === 0 &&
+      Object.keys(queryParams.filters.contract.length === 0) &&
+      Object.keys(queryParams.filters.experience.length === 0) &&
+      Object.keys(queryParams.filters.skills.length === 0) &&
       !queryParams.q &&
       !queryParams.page
-    )
+    ) {
       return;
+    }
 
     const searchData = { input: queryParams.q, filters: {} };
 
