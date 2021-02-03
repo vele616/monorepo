@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Netlify is looking for an events marketing manager that has 5+ years of experience managing events, ideally in the technology industry."
 summaryBackup: "To apply as an events marketing manager at Current Job Openings at Netlify, you preferably need to have some knowledge of: #marketing, #management, #sales."
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

@@ -13,6 +13,7 @@ companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_sou
 summary: "If you have 3+ years experience as a QA Engineer, CobbleWeb is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #javascript, #css? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Job description

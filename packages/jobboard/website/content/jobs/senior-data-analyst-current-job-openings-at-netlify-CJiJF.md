@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Love #python, #analysis, #management? Check out this job post!"
 summaryBackup: "Love #python, #analysis, #management? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Company Overview
