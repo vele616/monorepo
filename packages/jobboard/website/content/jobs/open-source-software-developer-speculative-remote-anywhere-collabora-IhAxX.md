@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23"
 applyUrl: "https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23/apply"
 timestamp: 1612310400000
 hashtags: "#linux,#webkit,#jenkins,#ui/ux,#marketing,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
 summary: "Collabora is looking for an Open Source Software Developer that has experience in software development."
