@@ -1,23 +1,23 @@
 ---
-title: "Senior Ruby Developer | Remote (Poland)"
-location: "Warsaw, Masovian Voivodeship, Poland"
+title: "Senior Ruby Developer"
+location: "Fully remote"
 host: "https://apply.workable.com/gatekeeper/"
 companyName: "Gatekeeper"
 url: "https://apply.workable.com/gatekeeper/j/C15C4C0678/"
 applyUrl: "https://apply.workable.com/gatekeeper/j/C15C4C0678/apply/"
 timestamp: 1612310400000
-hashtags: "#rubylang,#rails,#ui/ux,#html,#management,#marketing,#postgresql,#finance,#monitoring"
-jobType: "other"
+hashtags: "#rubylang,#rails,#postgresql,#ui/ux,#html,#management,#marketing,#finance,#monitoring"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gatekeeper"
 companyWebsite: "http://www.gatekeeperhq.com/"
-summary: "Gatekeeper is searching for a senior ruby developer | remote that has experience of delivering large development projects."
+summary: "Gatekeeper is searching for a Senior Ruby Developer that has experience of delivering large development projects."
 summaryBackup: "Love #rubylang, #rails, #ui/ux? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Description
 
-**THE COMPANY**[Gatekeeper](https://www.gatekeeperhq.com/) is a SaaS-based, next-generation **Contract Management Solution**. We help our customers to reduce risk, improve compliance and maximise value.
+**THE COMPANY** [Gatekeeper](https://www.gatekeeperhq.com/) is a SaaS-based, next-generation **Contract Management Solution**. We help our customers to reduce risk, improve compliance and maximise value.
 
 Due to strong growth, we are opening the doors for a new **Senior Ruby Developer** to join our growing, experienced and talented technology team.
 
