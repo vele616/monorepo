@@ -1,5 +1,5 @@
 ---
-title: "Linux Kernel Developer (Remote/Anywhere)"
+title: "Linux Kernel Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
 summary: "To apply as a Linux Kernel Developer at Collabora, you preferably need to have some knowledge of: #linux, #marketing, #ui/ux."
 summaryBackup: "Collabora is looking for a linux kernel developer that has experience in: #linux, #marketing, #ui/ux."
-featured: 18
+featured: 14
 ---
 
 Collabora is currently looking for a very technically capable, enthusiastic and passionate Linux Kernel Software Developer to join its ever growing engineering team.
