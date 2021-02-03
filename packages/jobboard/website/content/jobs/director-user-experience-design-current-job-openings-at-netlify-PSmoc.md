@@ -2,17 +2,17 @@
 title: "Director User Experience & Design"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5047445002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5047445002#app"
 timestamp: 1612310400000
-hashtags: "#ui/ux,#management,#windows,#git,#figma,#rest"
+hashtags: "#ui/ux,#management,#figma,#windows,#git,#rest"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have class design experiences with their team, Current Job Openings at Netlify is looking for someone with your skillset."
+summary: "If you have experience in leading teams of Product & UX Designers through the complete product discovery to delivery life cycle, Netlify is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #management, #windows? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 ## Company Overview
