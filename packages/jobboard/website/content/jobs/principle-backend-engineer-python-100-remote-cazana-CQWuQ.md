@@ -1,18 +1,18 @@
 ---
-title: "Principle Backend Engineer (Python) - 100% Remote"
+title: "Principle Backend Engineer"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/principle-backend-engineer-python-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/principle-backend-engineer-python-100-remote/c/new"
 timestamp: 1612310400000
-hashtags: "#python,#typescript,#css,#postgresql,#marketing,#terraform,#dynamodb,#aws,#management,#redis"
+hashtags: "#python,#typescript,#postgresql,#marketing,#terraform,#dynamodb,#aws,#css,#management,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have you want to give your experience and knowledge to something special and be part of its journey but you also want to grow and develop into a better engineer than you are now, Cazana has a job opening for a principle backend engineer"
+summary: "If you are an expert with TypeScript and/or Python, Cazana has a job opening for a Principle Backend Engineer"
 summaryBackup: "Love #python, #typescript, #css? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Job description
