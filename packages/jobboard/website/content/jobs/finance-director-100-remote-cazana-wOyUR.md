@@ -1,18 +1,18 @@
 ---
-title: "Finance Director (100% Remote)"
+title: "Finance Director"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/finance-director-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/finance-director-100-remote/c/new"
 timestamp: 1612310400000
-hashtags: "#management,#marketing,#office,#operations,#css,#analysis,#crm,#finance"
+hashtags: "#management,#marketing,#analysis,#operations,#css,#crm,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have 5+ years of related FP&amp, Cazana is looking for someone with your skillset."
+summary: "If you have 5+ years of related FP&A experience, with increasing levels of responsibility and seniority, Cazana is looking for someone with your skillset."
 summaryBackup: "Excited about #management, #marketing, #office? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
