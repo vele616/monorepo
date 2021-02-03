@@ -6,13 +6,13 @@ companyName: "Collabora"
 url: "https://jobs.lever.co/collabora/477381bb-3cce-414c-ad07-982c004ac5ba"
 applyUrl: "https://jobs.lever.co/collabora/477381bb-3cce-414c-ad07-982c004ac5ba/apply"
 timestamp: 1612310400000
-hashtags: "#linux,#marketing,#ui/ux,#management"
+hashtags: "#linux,#management,#ui/ux,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "To apply as a linux kernel developer at Collabora, you preferably need to have some knowledge of: experience in: #linux, #marketing, #ui/ux."
+summary: "To apply as a Linux Kernel Developer at Collabora, you preferably need to have some knowledge of: #linux, #marketing, #ui/ux."
 summaryBackup: "Collabora is looking for a linux kernel developer that has experience in: #linux, #marketing, #ui/ux."
-featured: 20
+featured: 18
 ---
 
 Collabora is currently looking for a very technically capable, enthusiastic and passionate Linux Kernel Software Developer to join its ever growing engineering team.
@@ -37,7 +37,7 @@ As a member of the Core domain team, you primary focus will be to participate in
 *   Linux distribution package development/management (Debian, Yocto...) is a nice to have
 *   Exposure to Continuous Integration environments (Jenkins, [kernelci.org](http://kernelci.org)...) is a plus
 *   Self learning skill to get sufficient knowledge of Collabora's services, busines model, project delivery life cycle and other related technical domains
-*   Good Englishlanguage skills (both verbal and written)
+*   Good English language skills (both verbal and written)
 *   Ability to work and communicate in an online fully distributed environment
 
 Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration & architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.
