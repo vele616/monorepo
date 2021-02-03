@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Interested in new opportunities and have 4+ years of work experience, preferably in the B2B software industry? Netlify has a job opening for a content marketer."
 summaryBackup: "Netlify is looking for a content marketer that has experience in: #marketing, #management, #sales."
 featured: 10
+archived: "true"
 ---
 
 ## Company Overview
