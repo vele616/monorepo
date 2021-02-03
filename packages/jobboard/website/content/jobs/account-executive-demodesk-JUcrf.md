@@ -1,40 +1,40 @@
 ---
-title: "Recruiter"
+title: "Account Executive"
 location: "Remote Munich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
-url: "https://jobs.lever.co/demodesk/2917d656-6d5d-44f4-933e-1f040431e357"
-applyUrl: "https://jobs.lever.co/demodesk/2917d656-6d5d-44f4-933e-1f040431e357/apply"
-timestamp: 1607990400000
-hashtags: "#operations,#content,#German,#analytics,#management,#sales,#linux"
+url: "https://jobs.lever.co/demodesk/4cc5fede-1cee-4ed7-8802-30aaccbc61d9"
+applyUrl: "https://jobs.lever.co/demodesk/4cc5fede-1cee-4ed7-8802-30aaccbc61d9/apply"
+timestamp: 1612224000000
+hashtags: "#sales,#management,#marketing,#css,#linux,#content,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "Interested in new opportunities and have 5+ years years experience in a fast-growing international tech company? Demodesk has a job opening for a recruiter."
-summaryBackup: "Love #sales, #linux, #content? Check out this job post!"
-featured: 12
-archived: "true"
+summary: "If you have 3+ years of software selling experience, consider applying to Demodesk's job post for a new Account Executive."
+summaryBackup: "Demodesk is looking for an account executive that has experience in: #sales, #management, #css."
+featured: 9
 ---
 
-Mission
+**Mission**
 
-As our first full time recruiter, you will be in the unique position to set the foundation of Demodesks Recruiting culture. Together with our Chief of Staff you will be responsible for the entire recruiting funnel, from defining the role together with the Hiring Manager, sourcing for the rolle in the right channels and guiding applicants through the whole interview process.
+Demodesk's Account Executives are at the center of our mission to help everyone have effective customer conversations. Demodesk is building the leading online meeting platform for customer interactions. As part of Demodesk's growing sales team, you will be laser focused on establishing relationships with prospects, managing a structured sales process and providing great customer experiences. You will work closely with Demodesk's marketing, customer success and product teams to become an expert on the Demodesk platform and deliver value-based solutions to our fast-growing customer base.
 
 ## Goals
 
-*   **Define who is missing:** As a growing startup we are more and more switching from hiring generalist to specialists. You have an eye on the company strategy and define the ideal next roles to hire for our departments.
-*   **Source the right candidates:** You already have some experience in the right recruiting channels for the right sources. You consistently test new channels to find the best talent for Demodesk.
-*   **Set yourself up for success:** We are still in the setup phase of our recruiting processes. You will be able to adapt and improve all processes to make our efforts efficient and scalable and create the best experience for our candidates.
-*   **Manage the recruiting process:** From first contact with the candidate you will be in charge of the screening interviews as well as scheduling the interviews with the hiring managers. As the business partner to our hiring managers you will be a guide in the decision making process and ensure that candidates fit into our culture.
+*   **Develop new customers:** Work collaboratively with SDRs to build qualified pipeline of prospective clients within a dedicated territory
+*   **Engage new customers:** Identify key stakeholders in the decision making process and apply MEDDIC sales methodology
+*   **Deliver revenue growth:** Exceed monthly/quarterly sales targets by managing opportunities through a structured sales process
+*   **Manage perfect data accuracy:** Track all opportunity details in Salesforce, using data intelligence to improve your sales process
+*   **Participate in industry leading processes:** Leverage our own proprietary sales technology and leading sales tech stack to manage an exceptional end to end sales process.
 
-## Your Profile
+## Your profile
 
-*   5+ years years experience in a fast-growing international tech company
-*   Experience hiring tech and business roles
-*   Hands on / Getting things done mentality
-*   Strong multitasker able to handle multiple stakeholders and tasks
-*   Ideally experience recruiting leadership roles
-*   Ideally experience in adapting ATS tools to fit your needs
+*   Experience selling to VP and C level executives, ideally at B2B SaaS organizations
+*   3+ years of software selling experience; SaaS experience preferred
+*   Validated quota achiever (top 10% in your company)
+*   Strong interpersonal and presentation skills
+*   Outstanding verbal and written communication skills
+*   Willingness to travel to client meetings and internal off-sites (when possible) 
 
 ## Why us
 
@@ -47,7 +47,7 @@ As our first full time recruiter, you will be in the unique position to set the 
 *   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
-About us
+**About us**
 
 Demodesk is building the world's first intelligent online meeting platform with the vision to enable anyone to have great customer conversations. Web conferencing tools that are being used today are purely functional. They hardly offer anything beyond video calling and local desktop sharing.
 

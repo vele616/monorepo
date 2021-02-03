@@ -13,6 +13,7 @@ companyWebsite: "https://websummit.com/"
 summary: "Web Summit intends to hire a new senior ruby engineer. If you have 5+ years of commercial experience in an OOP language, consider applying."
 summaryBackup: "To apply as a senior ruby engineer at Web Summit, you preferably need to have some knowledge of: #rubylang, #reactjs, #python."
 featured: 5
+archived: "true"
 ---
 
 **About us:**
