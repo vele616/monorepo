@@ -2,15 +2,15 @@
 title: "Senior Site Reliability Engineer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5040551002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5040551002#app"
 timestamp: 1612310400000
-hashtags: "#golang,#ui/ux,#python,#operations,#management,#windows,#linux,#kubernetes,#aws,#googlecloud"
-jobType: "software"
+hashtags: "#golang,#python,#ui/ux,#operations,#management,#windows,#linux,#kubernetes,#aws,#googlecloud"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify intends to hire a new senior site reliability engineer. If you have extensive experience with HTTP, DNS, CDN and TLS and lot of hands, consider applying."
+summary: "Netlify intends to hire a new Senior Site Reliability Engineer. If you have extensive experience with HTTP, DNS, CDN and TLS and lot of hands-on exposure to at least one of the major cloud providers, consider applying."
 summaryBackup: "To apply as a senior site reliability engineer at Current Job Openings at Netlify, you preferably need to have some knowledge of: #golang, #ui/ux, #python."
 featured: 20
 ---
