@@ -1,23 +1,23 @@
 ---
-title: "Senior Ruby Developer | Remote (Dublin)"
-location: "Dublin, County Dublin, Ireland"
+title: "Senior Ruby Developer"
+location: "Remote"
 host: "https://apply.workable.com/gatekeeper/"
 companyName: "Gatekeeper"
 url: "https://apply.workable.com/gatekeeper/j/99AB05324F/"
 applyUrl: "https://apply.workable.com/gatekeeper/j/99AB05324F/apply/"
 timestamp: 1612310400000
-hashtags: "#rubylang,#rails,#ui/ux,#html,#management,#marketing,#postgresql,#finance,#monitoring"
-jobType: "other"
+hashtags: "#rubylang,#rails,#html,#management,#marketing,#postgresql,#finance,#ui/ux,#monitoring"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gatekeeper"
 companyWebsite: "http://www.gatekeeperhq.com/"
 summary: "If you have experience of delivering large development projects, Gatekeeper is looking for someone with your knowledge."
 summaryBackup: "Love #rubylang, #rails, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
 
-**THE COMPANY**[Gatekeeper](https://www.gatekeeperhq.com/) is a SaaS-based, next-generation **Contract Management Solution**. We help our customers to reduce risk, improve compliance and maximise value.
+**THE COMPANY** [Gatekeeper](https://www.gatekeeperhq.com/) is a SaaS-based, next-generation **Contract Management Solution**. We help our customers to reduce risk, improve compliance and maximise value.
 
 Due to strong growth, we are opening the doors for a new **Senior Ruby Developer** to join our growing, experienced and talented technology team.
 
