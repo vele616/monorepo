@@ -1,6 +1,6 @@
 ---
-title: "Account Executive - USA - Fully Remote - Based Anywhere"
-location: "United States"
+title: "Account Executive"
+location: "Fully Remote"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/6159C6B694/"
@@ -10,9 +10,9 @@ hashtags: "#sales,#marketing,#management,#operations,#css,#analytics,#socialmedi
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "Omnipresent is searching for an account executive that has 2 years and you’ve got great numbers to prove it."
+summary: "Love #sales, #marketing, #management? Check out this job post!"
 summaryBackup: "Love #sales, #marketing, #management? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Description
