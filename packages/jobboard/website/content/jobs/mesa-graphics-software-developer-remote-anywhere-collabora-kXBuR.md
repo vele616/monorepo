@@ -1,18 +1,18 @@
 ---
-title: "Mesa/Graphics Software Developer (Remote/Anywhere)"
+title: "Mesa/Graphics Software Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
 url: "https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c"
 applyUrl: "https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply"
 timestamp: 1612310400000
-hashtags: "#linux,#marketing,#ui/ux,#English"
+hashtags: "#linux,#ui/ux,#mesa,##marketing,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "If you have experience with direct contributions to the Mesa 3D Graphics Library, Collabora has a job opening for a mesa"
+summary: "If you have experience with direct contributions to the Mesa 3D Graphics Library, Collabora has a job opening for a Graphics Software Developer"
 summaryBackup: "Collabora is looking for a mesa that has experience in: #linux, #marketing, #ui/ux."
-featured: 20
+featured: 11
 ---
 
 We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.
