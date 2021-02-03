@@ -1,18 +1,17 @@
 ---
-title: "Senior Support Engineer (EU Hours)"
+title: "Senior Support Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5059932002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5059932002#app"
 timestamp: 1612310400000
-hashtags: "#javascript,#rubylang,#golang,#rustlang,#html,#ui/ux,#sales,#git,#management,#marketing"
+hashtags: "#html,#javascript,#rubylang,#golang,#rustlang,#ui/ux,#sales,#git,#management,#marketing"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "To apply as a senior support engineer at Current Job Openings at Netlify, you preferably need to have there are some technologies you’ll need to have experience with and a solid understanding of."
+summary: "To apply as a Senior Support Engineer at Netlify, you preferably need to have experience with and a solid understanding of: #html, #javascript, #rubylang."
 summaryBackup: "Excited about #javascript, #rubylang, #golang? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Company Overview
@@ -27,7 +26,7 @@ We've recently raised $63M in Series C funding to bring forward the next generat
 
 The Support team is small but mighty; Netlify is a fast-growing startup. You will be working across the company: with the founders, developers, our designers, and marketers. We need people who can help us build a path towards the future. Everyone at Netlify is great at their work and interested in the customer-centric feedback we can provide from Support. We’re also interested in helping you succeed at your goals of the moment – be that answering a customer question, learning a new web framework, or honing your blog-writing and public speaking skills. To learn more about our team and who we are click [here](https://www.netlify.com/about/).
 
-## A successful candidate enjoys helping people succeed with technology, isn’t afraid to help improve our practices and our product, and loves to learn. From our UI, to our service, to our customer support: our customer experience is pretty well regarded. You won’t be yelled at by angry customers, and you won’t be apologizing nonstop for broken features. Please take a look at our [Support Values document](https://www.notion.so/Netlify-Support-Goals-9455f7e5086544fdb7c9928f7b7781a6), and see if you agree with the way we do our work. We are looking for someone to help us with that mission and provide technical support to our developer customers during EU business hours Sunday through Thursday. 
+A successful candidate enjoys helping people succeed with technology, isn’t afraid to help improve our practices and our product, and loves to learn. From our UI, to our service, to our customer support: our customer experience is pretty well regarded. You won’t be yelled at by angry customers, and you won’t be apologizing nonstop for broken features. Please take a look at our [Support Values document](https://www.notion.so/Netlify-Support-Goals-9455f7e5086544fdb7c9928f7b7781a6), and see if you agree with the way we do our work. We are looking for someone to help us with that mission and provide technical support to our developer customers during EU business hours Sunday through Thursday. 
 
 Most of our support is conducted in our [Community Forums](https://community.netlify.com/), over email, and occasionally in Slack, and much of our team collaboration is in Slack, so great written communication skills are a must. If you’re a good fit, you’ll agree with what [this linked blog post has to say about being excited to do (technical) support](http://andrewspittle.com/2016/06/14/support-careers/) . This is not to say that you can't choose to move into other roles within the company, but instead that right now, and for the next while, providing technical support is what you _want_ to do. You should be up for a challenge and enjoy it. Sometimes you won’t know the right answer, but you’re the kind of person who can always come up with somewhere to look for it—sometimes you’ll just have to Google it. You should be curious, motivated, independent, and flexible. You will be learning new things every day. You will be solving hard problems, and this needs to bring you joy. We don’t want you to pretend to be something you don't want to be, and we won't tell you how to feel, but we do hope you’re excited to grow.
 
