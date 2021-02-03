@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Developer (Remote/Anywhere)"
+title: "Senior Software Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
@@ -10,9 +10,9 @@ hashtags: "#rubylang,#ui/ux,#django,#rails,#python,#php,#rustlang,#management,#d
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "To apply as a senior software developer at Collabora, you preferably need to have 5 years of relevant experience designing and developing web applications."
+summary: "To apply as a Senior Software Developer at Collabora, you preferably need to have 5 years of relevant experience designing and developing web applications."
 summaryBackup: "To apply as a senior software developer at Collabora, you preferably need to have some knowledge of: #rubylang, #ui/ux, #django."
-featured: 20
+featured: 8
 ---
 
 Collabora is looking for a Senior Software/DevOps Engineer to join our DevOps team. Working with a diverse set of stakeholders (including Engineering, Delivery, Sysadmin, People Operations, Finance and Sales/Marketing) you will focus on developing, improving, and maintaining our tools. You will be knowledgable in devops and database management in particular, augmenting the expertise of the team around you. You will be working closely with your colleagues in the DevOps and infrastructure teams to ensure the tools are being deployed securely and working efficiently.
