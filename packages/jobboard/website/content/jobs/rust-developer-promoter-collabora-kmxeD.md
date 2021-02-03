@@ -1,18 +1,18 @@
 ---
-title: "Rust developer/promoter"
+title: "Rust Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
 url: "https://jobs.lever.co/collabora/0cd179c2-2aa8-49e0-8563-f4436f0e547c"
 applyUrl: "https://jobs.lever.co/collabora/0cd179c2-2aa8-49e0-8563-f4436f0e547c/apply"
 timestamp: 1612310400000
-hashtags: "#rustlang,#management,#marketing,#linux,#operations,#English"
-jobType: "other"
+hashtags: "#rustlang,#management,#linux,#marketing,#operations,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "Collabora intends to hire a new rust developer. If you have bS/BA or experience in the role of Engineer, consider applying."
+summary: "Collabora intends to hire a new Rust Developer. If you have BS/BA or experience in the role of Engineer, consider applying."
 summaryBackup: "Collabora is looking for a rust developer that has experience in: #rustlang, #management, #marketing."
-featured: 20
+featured: 18
 ---
 
 Are you looking for a job as a Rust developer advocate to promote and develop with the programming language within Open-Source projects?
