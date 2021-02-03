@@ -1,18 +1,18 @@
 ---
-title: "Product Marketing Manager (Remote, EUROPE)"
-location: "United Kingdom"
+title: "Product Marketing Manager"
+location: "Remote"
 host: "https://apply.workable.com/leadfeeder/"
 companyName: "Leadfeeder"
 url: "https://apply.workable.com/leadfeeder/j/B2F3BC8BA2/"
 applyUrl: "https://apply.workable.com/leadfeeder/j/B2F3BC8BA2/apply/"
 timestamp: 1612310400000
-hashtags: "#marketing,#css,#management,#sales,#analysis,#office,#English"
+hashtags: "#marketing,#management,#sales,#analysis,#css,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leadfeeder"
 companyWebsite: "https://www.leadfeeder.com/"
-summary: "Leadfeeder is looking for a product marketing manager that has 3+ years experience in Product Marketing in a SaaS organisation, having focused on the following."
+summary: "Leadfeeder is looking for a Product Marketing Manager that has 3+ years experience in Product Marketing in a SaaS organisation."
 summaryBackup: "Leadfeeder is looking for a product marketing manager that has experience in: #marketing, #css, #management."
-featured: 20
+featured: 13
 ---
 
 ## Description
