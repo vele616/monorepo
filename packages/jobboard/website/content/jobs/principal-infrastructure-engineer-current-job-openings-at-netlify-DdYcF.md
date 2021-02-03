@@ -6,7 +6,7 @@ companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5060310002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5060310002#app"
 timestamp: 1612310400000
-hashtags: "#ui/ux,#operations,#golang,#aws,#css,#linux,#kubernetes,#googlecloud,#management,#git"
+hashtags: "#ui/ux,#golang,#aws,#css,#linux,#kubernetes,#googlecloud,#operations,#management,#git"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
