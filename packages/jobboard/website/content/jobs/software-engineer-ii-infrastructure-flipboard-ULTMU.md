@@ -1,18 +1,18 @@
 ---
-title: "Software Engineer II, Infrastructure"
+title: "Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/flipboard?location=Remote"
 companyName: "Flipboard"
 url: "https://jobs.lever.co/flipboard/3fab402d-fe8a-45c2-b694-223bf3f8aeff"
 applyUrl: "https://jobs.lever.co/flipboard/3fab402d-fe8a-45c2-b694-223bf3f8aeff/apply"
 timestamp: 1612310400000
-hashtags: "#content,#kubernetes,#operations,#python,#java,#golang,#rubylang,#ui/ux,#aws,#puppet"
+hashtags: "#kubernetes,#java,#golang,#operations,#python,#rubylang,#ui/ux,#aws,#content,#puppet"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flipboard"
 companyWebsite: "https://about.flipboard.com/careers/"
-summary: "To apply as a software engineer ii at Flipboard, you preferably need to have experience with statically typed languages such as Go, Java and/or C++."
+summary: "To apply as a Software Engineer at Flipboard, you preferably need to have experience with statically typed languages such as Go, Java and/or C++."
 summaryBackup: "Love #content, #kubernetes, #operations? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Flipboard is a content discovery platform for your passions, interests, and news. Available on web, iOS, and Android, Flipboard offers the world important and influential articles shared by the greatest publishers and our awesome Flipboard community to advance conversation, keep people informed, and inspire them to engage, learn, and lead.
