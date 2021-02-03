@@ -1,6 +1,6 @@
 ---
-title: "Head of Special Projects - Based anywhere - Fully remote"
-location: "United Kingdom"
+title: "Head of Special Projects"
+location: "Remote"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/E9B422FFAD/"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#analysis,#management,#finance,#operations,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "To apply as a head of special projects at Omnipresent, you preferably need to have some knowledge of: experience in: #marketing, #analysis, #management."
+summary: "To apply as a Head of Special Projects at Omnipresent, you preferably need to have some knowledge of: #marketing, #analysis, #management."
 summaryBackup: "To apply as a head of special projects at Omnipresent, you preferably need to have some knowledge of: #marketing, #analysis, #management."
-featured: 20
+featured: 12
 ---
 
 ## Description
