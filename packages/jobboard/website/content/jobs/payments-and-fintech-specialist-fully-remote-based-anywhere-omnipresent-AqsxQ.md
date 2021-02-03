@@ -1,6 +1,6 @@
 ---
-title: "Payments and Fintech Specialist - Fully Remote - Based Anywhere"
-location: "United Kingdom"
+title: "Payments and Fintech Specialist"
+location: "Fully remote"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/D30E979AB0/"
@@ -10,7 +10,7 @@ hashtags: "#operations,#management,#marketing,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "To apply as a payments and fintech specialist at Omnipresent, you preferably need to have you will have experience with formulating and implementing payment strategies for companies that have complex funds flows globally."
+summary: "To apply as a Payments and Fintech Specialist at Omnipresent, you preferably need to have experience with formulating and implementing payment strategies for companies that have complex funds flows globally."
 summaryBackup: "Excited about #operations, #management, #marketing? Check out this job post!"
 featured: 20
 ---
@@ -29,7 +29,7 @@ You will help us to find and implement a payments and cash management platform t
 
 You will be a product and solution expert in payments and fintech products. You will have experience with formulating and implementing payment strategies for companies that have complex funds flows globally.
 
-**The detail**
+## The detail
 
 **About Omnipresent**
 
