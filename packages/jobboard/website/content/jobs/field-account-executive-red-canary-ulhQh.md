@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/02786ece-d3c9-4446-8ec6-102ad317c21c"
 applyUrl: "https://jobs.lever.co/redcanary/02786ece-d3c9-4446-8ec6-102ad317c21c/apply"
 timestamp: 1612396800000
-hashtags: "#sales,#management,#css,#marketing,#operations,#office,#finance"
+hashtags: "#sales,#management,#marketing,#operations,#office,#css,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "To apply as a field account executive at Red Canary, you preferably need to have 3 years of closing experience in B2B SaaS."
+summary: "To apply as a Field Account Executive at Red Canary, you preferably need to have consistent track record of success with at least 3 years of closing experience in B2B SaaS."
 summaryBackup: "Excited about #sales, #management, #css? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 **Why Red Canary**
