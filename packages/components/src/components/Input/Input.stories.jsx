@@ -1,3 +1,4 @@
+import React from "react";
 import Input from "./index";
 import FieldLayout from "../FieldLayout";
 
@@ -45,3 +46,18 @@ Story5.args = {
   label: "Max 10 chars",
   maxLength: 10,
 };
+
+export const Story6 = () => {
+  return (
+    <div>
+      <Input hideLabelOnFocus label="Banana" />
+      <br />
+      <Input hideLabelOnFocus label="Banana Banana" />
+      <br />
+      <Input hideLabelOnFocus label="Banana Banana Banana" />
+      <br />
+    </div>
+  );
+};
+
+Story6.storyName = "Hide label on focus";
