@@ -6,20 +6,20 @@ companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/ac574fbe-b644-4bb4-a3ff-cece2a3d31f5"
 applyUrl: "https://jobs.lever.co/kentik-2/ac574fbe-b644-4bb4-a3ff-cece2a3d31f5/apply"
 timestamp: 1612396800000
-hashtags: "#golang,#operations,#python,#java,#rustlang,#ui/ux,#css,#git,#management,#marketing"
+hashtags: "#cplusplus,#golang,#python,#java,#rustlang,#ui/ux,#css,#git,#operations,#management,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
-summary: "Kentik is looking for a senior backend engineer that has 5+ year experience with C/C++, Go, Java, Python, Rust or similar."
+summary: "Kentik is looking for a Senior Backend Engineer that has 5+ year experience with C/C++, Go, Java, Python, Rust or similar."
 summaryBackup: "Kentik is looking for a senior backend engineer that has experience in: #golang, #operations, #python."
-featured: 20
+featured: 5
 ---
 
-**About Kentik**
+## About Kentik
 
 Kentik is the network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search. Kentik makes sense of network, cloud, host, and container flow, Internet routing, performance tests, and network metrics. We show network pros what they need to know about their network performance, health, and security to make their business-critical services shine. Networks power the world’s most valuable companies, and those companies trust Kentik. Market leaders like IBM, Cisco, Box, and Zoom rely on Kentik for network observability. Visit us at [kentik.com](http://kentik.com/) and follow us at @kentikinc.
 
-**About the role**
+## About the role
 
 Kentik is seeking to expand its Insights staff. Part of our backend services, Insights is in charge of telling network owners and operators things they don't already know about their network. Examples include automated DDoS defense, interface labeling by traffic observation and cost optimization. 
 
