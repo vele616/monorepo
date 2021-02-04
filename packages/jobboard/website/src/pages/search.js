@@ -24,6 +24,7 @@ const SearchPage = ({ location }) => {
     <Layout pageTitle="search">
       <div className={styles.search}>
         <Search
+          hasSearched={hasSearched}
           onSearch={handleOnSearch}
           location={location}
           currentPage={currentPage}

@@ -46,6 +46,10 @@ $limitDesktop: 1200;
   text-align: center;
 }
 
+.searchRef {
+  top: -100px;
+  position: absolute;
+}
 
 .section  {
   animation: enter 0.6s ease;
@@ -66,10 +70,6 @@ $limitDesktop: 1200;
   }
 
   &__viewControls {
-    display: flex;
-    justify-content: flex-end;
-    min-width: max-content;
-    margin-top: 40px;
     @include mediaQuery("<#{$limitTablet}px") {
       display: none;
     }
@@ -98,6 +98,10 @@ $limitDesktop: 1200;
   }
 
   &__grid {
+
+    row-gap: 45px !important;
+    column-gap: 45px !important;
+
     & > * {
       margin: 0px;
       width: 100%;

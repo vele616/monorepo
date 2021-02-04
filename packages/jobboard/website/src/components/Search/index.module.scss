@@ -40,6 +40,7 @@ $tabletLandscapeLimit: 800;
   line-height:1.2em;
   min-height: 3.6em;
   overflow: hidden;
+  padding-top: 8px;
 
   @include mediaQuery("<tabletLandscape") {
     display: none;
@@ -101,10 +102,6 @@ $tabletLandscapeLimit: 800;
       border-top-right-radius: 10px;
       border-bottom-right-radius: 10px;
       position: relative;
-
-      &::after {
-        content: "";
-      }
     }
   }
 

@@ -8,6 +8,7 @@ import Footer from '../Footer';
 import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
 
+// <Icon color="gray_2" icon="search1" fontSize={18} />
 const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
   return (
     <>
@@ -29,7 +30,7 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
         }
       >
         <Link className={`${styles.centerAlignedLink} link`} to="/search">
-          Search <Icon color="gray_2" icon="search1" fontSize={18} />
+          Search
         </Link>
         <a
           className={`link`}

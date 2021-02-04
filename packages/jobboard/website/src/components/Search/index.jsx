@@ -9,6 +9,7 @@ import {
   Select,
   Input,
   Icon,
+  FieldLayout,
   useDevice,
 } from '@crocoder-dev/components';
 import styles from './index.module.scss';
@@ -29,6 +30,7 @@ const Search = ({
   hashtags,
   currentPage,
   image,
+  hasSearched,
 }) => {
   const maxInputLenght = 115;
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
@@ -39,18 +41,23 @@ const Search = ({
     }
   }, [hashtags]);
 
+  const [crocVisible, setCrocVisible] = useState(true);
+
   const crocTexts = useMemo(
     () => [
+      'Click on Search button to display search results.',
       'My favourite drink is gator-ade.',
       'I have no idea what React.js is.',
-      'What do you call a crocodile with GPS?                    A Navi-gator.',
-      'Click on Search button to display search results.',
-      'I have googly eyes.',
       'Remove all filters to search for all jobs.',
+      'What do you call a crocodile with GPS?                    A Navi-gator.',
+      'Check out fresh dose of Job Posts every day.',
+      'I have googly eyes.',
       'The Search page was actually my idea.',
       'C in C# stands for Crocodile.',
       'What are you looking for?',
       'Search results will display after you click this yellow button on the right.',
+      'Find more images of me at crocoder.dev',
+      'I am just going to stay here until you search for some jobs.',
     ],
     []
   );
@@ -310,24 +317,28 @@ const Search = ({
           {isMobile || empty ? 'SEARCH' : searchButtonText}
         </Button>
       </Flexbox>
-      <div className={styles.search__croc}>
-        <Img
-          className={styles.search__croc__image}
-          fadeIn={false}
-          fluid={image ? image.childImageSharp.fluid : {}}
-          alt={'croc'}
-        />
-        <Typography
-          fontFamily="rubik"
-          className={styles.search__croc__text}
-          color="gray_2"
-          fontWeight={400}
-          fontSize={24}
-          element="div"
-        >
-          <Typing onFinish={handleOnTextFinish}>{crocTexts[textIndex]}</Typing>
-        </Typography>
-      </div>
+      {!hasSearched && crocVisible && (
+        <div className={styles.search__croc}>
+          <Img
+            className={styles.search__croc__image}
+            fadeIn={false}
+            fluid={image ? image.childImageSharp.fluid : {}}
+            alt={'croc'}
+          />
+          <Typography
+            fontFamily="rubik"
+            className={styles.search__croc__text}
+            color="gray_2"
+            fontWeight={400}
+            fontSize={24}
+            element="div"
+          >
+            <Typing onFinish={handleOnTextFinish}>
+              {crocTexts[textIndex]}
+            </Typing>
+          </Typography>
+        </div>
+      )}
     </Section>
   );
 };

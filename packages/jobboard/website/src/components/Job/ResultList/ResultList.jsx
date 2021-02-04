@@ -14,6 +14,7 @@ import {
   useDevice,
   Section,
   Pagination,
+  Flexbox,
 } from '@crocoder-dev/components';
 import JobPost from './../Post';
 import styles from './index.module.scss';
@@ -28,7 +29,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   const paginationRef = useRef();
 
   const [maxVisiblePages, setMaxVisiblePages] = useState(7);
-  const [view, setView] = useState(Views.List);
+  const [view, setView] = useState(Views.Grid);
   const [isScrollingUp, setIsScrollingUp] = useState(false);
 
   const [currentPage, setCurrentPage] = useState(() => {
@@ -156,46 +157,60 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
 
   return (
     <>
-      <div ref={searchRef} />
       <Section className={styles.section}>
+        <div className={styles.searchRef} ref={searchRef} />
+        <Flexbox justifyContent="space-between" alignItems="center">
+          <Typography
+            color="gray_2"
+            fontWeight={300}
+            fontSize={30}
+            fontFamily="rubik"
+            element="span"
+          >
+            {jobs.length > 0 ? (
+              <>
+                WE FOUND
+                <Typography fontWeight={700}> {jobs.length} </Typography>
+                JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
+              </>
+            ) : (
+              'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.'
+            )}
+          </Typography>
+          {(jobs && jobs.length && (
+            <div className={styles.section__viewControls}>
+              <Button
+                variant="sneaky"
+                title="List view"
+                className={styles.icon}
+                onClick={() => setView(Views.List)}
+              >
+                <Icon fontSize={26} icon="list1" />
+              </Button>
+              <Button
+                variant="sneaky"
+                title="Grid view"
+                className={styles.icon}
+                onClick={() => setView(Views.Grid)}
+              >
+                <Icon fontSize={26} icon="apps" />
+              </Button>
+            </div>
+          )) ||
+            ''}
+        </Flexbox>
         <Typography
           color="gray_2"
           fontWeight={300}
-          fontSize={30}
+          fontSize={18}
           fontFamily="rubik"
           element="span"
         >
-          {jobs.length > 0 ? (
-            <>
-              WE FOUND
-              <Typography fontWeight={700}> {jobs.length} </Typography>
-              JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
-            </>
-          ) : (
-            'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.'
-          )}
+          SHOWING PAGE{' '}
+          {jobs.length > 0 && currentPage && currentPage > 0
+            ? `${currentPage} / ${Math.ceil(jobs.length / resultsPerPage)}`
+            : ' ... HMM. NO PAGES HERE.'}
         </Typography>
-        {(jobs && jobs.length && (
-          <div className={styles.section__viewControls}>
-            <Button
-              variant="sneaky"
-              title="List view"
-              className={styles.icon}
-              onClick={() => setView(Views.List)}
-            >
-              <Icon fontSize={26} icon="list1" />
-            </Button>
-            <Button
-              variant="sneaky"
-              title="Grid view"
-              className={styles.icon}
-              onClick={() => setView(Views.Grid)}
-            >
-              <Icon fontSize={26} icon="apps" />
-            </Button>
-          </div>
-        )) ||
-          ''}
       </Section>
       <div key={jobs} className={styles.resultList}>
         <Grid
