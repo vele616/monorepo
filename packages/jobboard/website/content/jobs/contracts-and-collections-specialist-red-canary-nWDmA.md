@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/b6df5055-4c7a-4fd0-9833-9ae54e2df136"
 applyUrl: "https://jobs.lever.co/redcanary/b6df5055-4c7a-4fd0-9833-9ae54e2df136/apply"
 timestamp: 1612396800000
-hashtags: "#sales,#css,#management,#finance,#optimization"
+hashtags: "#sales,#management,#finance,#css,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "To apply as a contracts and collections specialist at Red Canary, you preferably need to have 1+ years of relevant experience."
+summary: "To apply as a Contracts and Collections Specialist at Red Canary, you preferably need to have 1+ years of relevant experience."
 summaryBackup: "Love #sales, #css, #management? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 **Why Red Canary**
