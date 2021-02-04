@@ -128,6 +128,12 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       if (paginationRef.current) {
         paginationRef.current.changePage(1);
       }
+      if (searchRef.current) {
+        searchRef.current.scrollIntoView({
+          block: 'start',
+          behavior: 'smooth',
+        });
+      }
     }
   }, [jobs]);
 

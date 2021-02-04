@@ -1,5 +1,6 @@
 {
   "title": "So glad you’re here!",
+  "image": "../images/logo.png",
   "subtitle": "What are you looking for?",
   "searchLabel": "Search by typing or filter attributes",
   "searchButtonText": "YES I AM",
