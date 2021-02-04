@@ -10,16 +10,16 @@ hashtags: "#ui/ux,#management,#marketing,#css,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
-summary: "To apply as a head of design at Kentik, you preferably need to have while prior experience in a remote environment is not required, we highly value strong collaboration and communication skills, both internally and with our customers."
+summary: "To apply as a head of design at Kentik, you preferably need to have experience executing a cross-functional UX strategy, especially in collaboration with Product teams."
 summaryBackup: "Kentik is looking for a head of design that has experience in: #ui/ux, #management, #marketing."
-featured: 20
+featured: 12
 ---
 
-**About Kentik**
+## About Kentik
 
 Kentik is the network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search. Kentik makes sense of network, cloud, host, and container flow, Internet routing, performance tests, and network metrics. We show network pros what they need to know about their network performance, health, and security to make their business-critical services shine. Networks power the world’s most valuable companies, and those companies trust Kentik. Market leaders like IBM, Cisco, Box, and Zoom rely on Kentik for network observability. Visit us at [kentik.com](http://kentik.com/) and follow us at @kentikinc.
 
-**About the role**
+## About the role
 
 Kentik is rapidly expanding its product offerings and seeks an experienced, hands-on leader to head our user experience and design arm. At Kentik, we believe that an intuitive and consistent customer experience is central to our success. To this end, our design function must be highly collaborative and unite UX strategy and designs across Product, Marketing, and Engineering, bringing focus to our overarching end-user experience within a Product Led Growth (PLG) model.  
 
