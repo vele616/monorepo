@@ -1,25 +1,25 @@
 ---
-title: "Sr. Product Manager (ML/AI)"
+title: "Sr. Product Manager"
 location: "Remote"
 host: "https://jobs.lever.co/kentik-2?location=Remote"
 companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/9590f215-c1ce-4b47-97ca-26ea09c45179"
 applyUrl: "https://jobs.lever.co/kentik-2/9590f215-c1ce-4b47-97ca-26ea09c45179/apply"
 timestamp: 1612396800000
-hashtags: "#css,#management,#marketing,#operations"
+hashtags: "#management,#marketing,#operations,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
-summary: "Kentik intends to hire a new sr. product manager. If you have experience with the full life cycle of Machine Learning development – creating and following statistical experiments, deduction and code actualization, consider applying."
+summary: "Kentik intends to hire a new Sr. Product Manager. If you have experience with the full life cycle of Machine Learning development – creating and following statistical experiments, deduction and code actualization, consider applying."
 summaryBackup: "To apply as a sr. product manager at Kentik, you preferably need to have some knowledge of: #css, #management, #marketing."
-featured: 20
+featured: 5
 ---
 
-**About Kentik**
+## About Kentik
 
 Kentik is the network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search. Kentik makes sense of network, cloud, host, and container flow, Internet routing, performance tests, and network metrics. We show network pros what they need to know about their network performance, health, and security to make their business-critical services shine. Networks power the world’s most valuable companies, and those companies trust Kentik. Market leaders like IBM, Cisco, Box, and Zoom rely on Kentik for network observability. Visit us at [kentik.com](http://kentik.com/) and follow us at @kentikinc.
 
-**About the role**
+## About the role
 
 Are you an experienced product manager interested in accelerating growth for a market-leading enterprise SaaS company? Do you dream about building a platform that operates at Internet-scale for hundreds of cutting edge companies, and driving better outcomes for enterprises and network operators alike using ML/AI-based approaches?
 
