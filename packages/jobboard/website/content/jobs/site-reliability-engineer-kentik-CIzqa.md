@@ -6,20 +6,20 @@ companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/2a006abf-114c-4d00-a02f-2cb2c5d5114e"
 applyUrl: "https://jobs.lever.co/kentik-2/2a006abf-114c-4d00-a02f-2cb2c5d5114e/apply"
 timestamp: 1612396800000
-hashtags: "#linux,#operations,#python,#golang,#rubylang,#git,#terraform,#ansible,#puppet,#chef"
-jobType: "software"
+hashtags: "#linux,#python,#golang,#rubylang,#git,#terraform,#ansible,#puppet,#operations,#chef"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
 summary: "If you have 4 years of relevant SRE or Systems Administration, Kentik is looking for someone with your skillset."
 summaryBackup: "Love #linux, #operations, #python? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
-**About Kentik**
+## About Kentik
 
 Kentik is the network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search. Kentik makes sense of network, cloud, host, and container flow, Internet routing, performance tests, and network metrics. We show network pros what they need to know about their network performance, health, and security to make their business-critical services shine. Networks power the world’s most valuable companies, and those companies trust Kentik. Market leaders like IBM, Cisco, Box, and Zoom rely on Kentik for network observability. Visit us at [kentik.com](http://kentik.com/) and follow us at @kentikinc.
 
-**About the role**
+## About the role
 
 Kentik, the leading Network Analytics platform, is looking for an experienced SRE/DevOps engineer to architect, build, monitor, and operate the physical and virtual systems that power our products.
 
