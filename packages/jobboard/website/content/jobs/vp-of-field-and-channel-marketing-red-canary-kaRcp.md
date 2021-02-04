@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is looking for a VP of Field and Channel Marketing that has demonstrable experience partnering with the sales team, providing marketing expertise to help them achieve their revenue goals versus administrative sales support."
 summaryBackup: "Red Canary is looking for a vp of field and channel marketing that has experience in: #marketing, #sales, #windows."
 featured: 13
+archived: "true"
 ---
 
 ## Why Red Canary

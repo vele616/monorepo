@@ -13,6 +13,7 @@ companyWebsite: "https://www.loom.com/"
 summary: "If you have 5+ years experience in a data engineering or data science role, Loom is looking for someone with your skillset."
 summaryBackup: "Loom is looking for a senior data engineer that has experience in: #python, #ui/ux, #translation."
 featured: 17
+archived: "true"
 ---
 
 **About Loom:**
