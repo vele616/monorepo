@@ -6,20 +6,20 @@ companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/c1327a0b-ad32-4dda-9071-fbf79ce3e74c"
 applyUrl: "https://jobs.lever.co/kentik-2/c1327a0b-ad32-4dda-9071-fbf79ce3e74c/apply"
 timestamp: 1612396800000
-hashtags: "#javascript,#reactjs,#operations,#css,#html,#postgresql,#mysql,#marketing,#ui/ux,#management"
+hashtags: "#javascript,#reactjs,#css,#html,#postgresql,#mysql,#marketing,#operations,#ui/ux,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
-summary: "If you have you will gain experience with real, Kentik is looking for someone with your knowledge."
+summary: "If you have deep experience with React, HTML and CSS, Kentik is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #reactjs, #operations? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
-**About Kentik**
+## About Kentik
 
 Kentik is the network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search. Kentik makes sense of network, cloud, host, and container flow, Internet routing, performance tests, and network metrics. We show network pros what they need to know about their network performance, health, and security to make their business-critical services shine. Networks power the world’s most valuable companies, and those companies trust Kentik. Market leaders like IBM, Cisco, Box, and Zoom rely on Kentik for network observability. Visit us at [kentik.com](http://kentik.com/) and follow us at @kentikinc.
 
-**About the role**
+## About the role
 
 Kentik is seeking a senior engineer for its rapidly growing UI Engineering team. This team focuses on all of Kentik’s user-facing interfaces, both visual and programmatic. We aim to build simple, easy to use interfaces; but simple for users typically means engineered complexity under the hood. If you're an expert with JavaScript and want to work on an awesome product with an awesome team, this job is for you! You will gain experience with real-time monitoring, data visualization, and building state-of-the-art Web applications from both a client and server perspective. 
 
@@ -37,8 +37,8 @@ We have built a team of world-class engineers, network experts, and technology t
 
 Our Current Tech Stack
 
-*   React, MobX, Highcharts, d3, and [Mapbox](http://mapboxnode.js/)
-*   [Node.js](http://mapboxnode.js/), Express, and Bookshelf/Knex
+*   React, MobX, Highcharts, d3, and Mapbox
+*   Node.js, Express, and Bookshelf/Knex
 *   PostgreSQL, MySQL and Redis
 
 ## What you bring
@@ -48,7 +48,7 @@ Our Current Tech Stack
 *   Deep experience with React, HTML and CSS
 *   Expertise in vanilla JavaScript / understanding of high performance JavaScript patterns
 *   Experience with data analytics and data visualization
-*   Experience with production [Node.js](http://Node.js) (express)
+*   Experience with production Node.js (express)
 *   A solid understanding of SQL syntax, especially with PostgreSQL and MySQL
 
 ## Benefits & Perks
