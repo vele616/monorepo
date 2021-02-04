@@ -1,18 +1,18 @@
 ---
-title: "Applied Security R&D Engineer, Cloud Workload Protection"
+title: "Applied Security R&D Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/2a2c09fd-f50d-4ac9-93bb-2c3b44b49df3"
 applyUrl: "https://jobs.lever.co/redcanary/2a2c09fd-f50d-4ac9-93bb-2c3b44b49df3/apply"
 timestamp: 1612396800000
-hashtags: "#operations,#rustlang,#css,#analysis,#linux,#marketing"
-jobType: "software"
+hashtags: "#operations,#rustlang,#linux,#css,#analysis,#marketing"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "If you have experience with Linux internals, Red Canary is looking for someone with your skillset."
+summary: "If you have a strong understanding of operating system fundamentals, Red Canary is looking for someone with your skillset."
 summaryBackup: "Red Canary is looking for an applied security r&d engineer that has experience in: #operations, #rustlang, #css."
-featured: 20
+featured: 6
 ---
 
 **Why Red Canary**
