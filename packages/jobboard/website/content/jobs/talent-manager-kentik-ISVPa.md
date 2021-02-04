@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
 summary: "Kentik is looking for a talent manager that has 5+ years of experience in full cycle recruiting experience."
 summaryBackup: "Excited about #management, #sales, #branding? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 **About Kentik**
