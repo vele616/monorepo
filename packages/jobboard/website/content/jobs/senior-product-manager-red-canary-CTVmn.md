@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/e774bb8b-2383-48d0-803e-73680da7f4f0"
 applyUrl: "https://jobs.lever.co/redcanary/e774bb8b-2383-48d0-803e-73680da7f4f0/apply"
 timestamp: 1612396800000
-hashtags: "#ui/ux,#management,#translation,#analysis,#finance"
+hashtags: "#management,#analysis,#finance,#translation,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Interested in new opportunities and have 5+ years of experience in a Product Manager role? Red Canary has a job opening for a senior product manager."
+summary: "Interested in new opportunities and have 5+ years of experience in a Product Manager role? Red Canary has a job opening for a Senior Product Manager."
 summaryBackup: "Red Canary is looking for a senior product manager that has experience in: #ui/ux, #management, #translation."
-featured: 20
+featured: 11
 ---
 
 **Why Red Canary**
