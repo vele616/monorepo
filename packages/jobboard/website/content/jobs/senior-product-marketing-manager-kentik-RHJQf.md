@@ -6,20 +6,20 @@ companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/710e3d13-9117-4557-8460-5769e57751a1"
 applyUrl: "https://jobs.lever.co/kentik-2/710e3d13-9117-4557-8460-5769e57751a1/apply"
 timestamp: 1612396800000
-hashtags: "#marketing,#content,#sales,#css,#management,#office,#operations,#analysis,#monitoring"
+hashtags: "#marketing,#content,#management,#sales,#css,#office,#operations,#analysis,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
-summary: "Kentik is looking for a senior product marketing manager that has experience in: experience in: #marketing, #content, #sales."
+summary: "Kentik is looking for a Senior Product Marketing Manager that has experience in: #marketing, #content, #management."
 summaryBackup: "Love #marketing, #content, #sales? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
-**About Kentik**
+## About Kentik
 
 Kentik is the network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider. Network professionals turn to the Kentik Network Observability Cloud to plan, run, and fix any network, relying on our infinite granularity, AI-driven insights, and insanely fast search. Kentik makes sense of network, cloud, host, and container flow, Internet routing, performance tests, and network metrics. We show network pros what they need to know about their network performance, health, and security to make their business-critical services shine. Networks power the world’s most valuable companies, and those companies trust Kentik. Market leaders like IBM, Cisco, Box, and Zoom rely on Kentik for network observability. Visit us at [kentik.com](http://kentik.com/) and follow us at @kentikinc.
 
-**About the role**
+## About the role
 
 As a Senior Product Marketing Manager at Kentik, you'll be part of the Product Marketing team responsible for our go-to-market strategy, messaging, positioning, competitive differentiation, product launches, and field enablement. Your charter will be to orchestrate and create content deliverables and programs that help drive Kentik’s revenue growth and competitive differentiation.
 
