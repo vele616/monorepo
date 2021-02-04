@@ -2,17 +2,17 @@
 title: "Senior Software Engineer"
 location: "London, GB - Remote OK"
 host: "https://hire-space.breezy.hr/"
-companyName: "hire-space"
+companyName: "Hire Space"
 url: "https://hire-space.breezy.hr/p/8c7ca75929f701-senior-software-engineer"
 applyUrl: "https://hire-space.breezy.hr/p/8c7ca75929f701-senior-software-engineer/apply"
 timestamp: 1612396800000
 hashtags: "#reactjs,#ui/ux,#typescript,#operations,#git,#management,#socialmedia,#scrum,#German"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hire-space"
 companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
-summary: "Hire-space intends to hire a new senior software engineer. If you have 3+ years of experience working in Node, consider applying."
+summary: "Hire Space intends to hire a new Senior Software Engineer. If you have 5+ years front-end development experience, consider applying."
 summaryBackup: "To apply as a senior software engineer at Hire-space, you preferably need to have some knowledge of: #reactjs, #ui/ux, #typescript."
-featured: 20
+featured: 7
 ---
 
 ## About Hire Space
