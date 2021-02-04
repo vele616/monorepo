@@ -1,18 +1,18 @@
 ---
-title: "Operations Associate - EU"
+title: "Operations Associate"
 location: "Remote Worldwide"
 host: "https://leap-tools.breezy.hr/?&location=Worldwide#positions"
-companyName: "leap-tools"
+companyName: "Leap Tools"
 url: "https://leap-tools.breezy.hr/p/7135a6e11eae-operations-associate-eu"
 applyUrl: "https://leap-tools.breezy.hr/p/7135a6e11eae-operations-associate-eu/apply"
 timestamp: 1612396800000
-hashtags: "#operations,#windows,#branding,#management,#German,#French,#English"
+hashtags: "#operations,#German,#French,#windows,#branding,#management,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leap-tools"
 companyWebsite: "http://www.leaptools.com/"
-summary: "Leap-tools is looking for an operations associate that has experience in: experience in: #operations, #windows, #branding."
+summary: "Leap Tools is looking for an Operations Associate that has experience in: #operations, #windows, #branding."
 summaryBackup: "Leap-tools is looking for an operations associate that has experience in: #operations, #windows, #branding."
-featured: 20
+featured: 10
 ---
 
 ## Operations Associate
