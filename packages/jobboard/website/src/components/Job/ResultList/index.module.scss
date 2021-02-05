@@ -76,9 +76,9 @@ $limitDesktop: 1200;
   }
 
   &__foundText {
-    margin-top: 30px;
     margin-bottom: 30px;
     @include mediaQuery("<tabletLandscape") {
+      margin-top: 30px;
       justify-content: center !important;
     }
   }
