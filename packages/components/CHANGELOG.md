@@ -1,8 +1,20 @@
 ### [Versions]
 
 Here you can see what's new added, changed or fixed in which version of our component library.
+## 1.0.3
+##### _Feb 5 2021_
 
-# 1.0.2
+**TLDR**: 
+#### Feature
+
+  - **FieldLayout** - add hideLabelOnFocus property. Setting this property to true will make placeholder (label) disappear when component is focused or not empty  [PR 958](https://github.com/crocoder-dev/monorepo/pull/958)
+  - **Input**: add hideLabelOnFocus property which will be used on inner FieldLayout component. [PR 958](https://github.com/crocoder-dev/monorepo/pull/958)
+
+#### Bugfix
+
+  - **Navigation**: Elements below Navigation component won't shake anymore when height animation is occuring due scroll. Page which has Navigation component on top as well as scrollbar can now be scrolled to the bottom in one drag. [PR 942](https://github.com/crocoder-dev/monorepo/pull/942)
+
+## 1.0.2
 
 ##### _Jan 7 2021_
 
