@@ -1,5 +1,6 @@
 import React from "react";
 import Button from "../Button";
+import Tag from "../Tag";
 import Typography from "../Typography";
 import Navigation from "./index";
 
@@ -38,7 +39,7 @@ Story1.argTypes = {
 };
 
 export const Story2 = (args) => (
-  <div style={{ height: "150vh" }}>
+  <div style={{}}>
     <Navigation
       {...args}
       Logo={<img width="100%" src="/images/navigation.png" />}
@@ -47,6 +48,12 @@ export const Story2 = (args) => (
       <Typography className="link">Two link</Typography>
       <Button variant="secondary">Post a job</Button>
     </Navigation>
+
+    <div style={{ display: "flex", flexDirection: "column" }}>
+      {Array.from(Array(50).keys()).map((e, i) => (
+        <Tag>This is a sample #hashtag {i}</Tag>
+      ))}
+    </div>
   </div>
 );
 Story2.storyName = "Multiple links example";

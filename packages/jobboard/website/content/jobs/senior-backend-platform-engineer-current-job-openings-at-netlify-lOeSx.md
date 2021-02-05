@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Love experience in: #rustlang, #golang, #javascript? Check out this job post!"
 summaryBackup: "To apply as a senior backend platform engineer at Netlify, you preferably need to have some knowledge of: #rustlang, #golang, #javascript."
 featured: 6
+archived: "true"
 ---
 
 ## Company Overview

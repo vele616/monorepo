@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "If you have in addition to your experience with security matters, you’re naturally curious, customer oriented, and easily discover ways to simplify and improve how security operations function and how effective technologies can be utilised for real impact, Omnipresent has a job opening for a data protection & it security analyst"
 summaryBackup: "Love #operations, #ui/ux, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

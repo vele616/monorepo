@@ -13,6 +13,7 @@ companyWebsite: "https://www.loom.com/"
 summary: "If you have 5+ years of experience in a data science or analytics role turning data into insights and recommendations, Loom has a job opening for a senior data scientist"
 summaryBackup: "Love #ui/ux, #python, #management? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 **About Loom:**

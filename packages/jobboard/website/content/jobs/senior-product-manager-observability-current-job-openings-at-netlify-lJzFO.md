@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "As a Product Manager at Netlify, you'll be specializing in building integrated monitoring and debugging experiences that span across multiple Netlify products, including Build, Edge and Functions"
 summaryBackup: "To apply as a senior product manager at Netlify, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
 featured: 15
+archived: "true"
 ---
 
 ## Company Overview
