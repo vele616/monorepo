@@ -265,6 +265,7 @@ const Search = ({
           className={styles.search__input}
           label={searchLabel}
           onChange={handleInputChange}
+          hideLabelOnFocus
         />
         <Button className={styles.search__button} variant="sneaky">
           <Icon
