@@ -159,11 +159,15 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
     <>
       <Section className={styles.section}>
         <div className={styles.searchRef} ref={searchRef} />
-        <Flexbox justifyContent="space-between" alignItems="center">
+        <Flexbox
+          className={styles.section__foundText}
+          justifyContent="space-between"
+          alignItems="center"
+        >
           <Typography
             color="gray_2"
             fontWeight={300}
-            fontSize={30}
+            fontSize={26}
             fontFamily="rubik"
             element="span"
           >
@@ -200,7 +204,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
             ''}
         </Flexbox>
         <Typography
-          color="gray_2"
+          color="gray_11"
           fontWeight={300}
           fontSize={18}
           fontFamily="rubik"

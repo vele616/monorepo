@@ -8,7 +8,7 @@ $tabletLandscapeLimit: 800;
 
 .section {
 
-  padding-bottom: 20px !important;
+  padding-bottom: 10px;
 
   @include mediaQuery("<=400px") {
     padding-left: 10px;
@@ -72,6 +72,7 @@ $tabletLandscapeLimit: 800;
   position: relative;
 
   @include mediaQuery("<tabletPortrait") {
+    
     margin-top: 20px;
     padding-left: 10px;
   }
@@ -81,6 +82,10 @@ $tabletLandscapeLimit: 800;
   }
  
   &__croc {
+
+    @include mediaQuery("<tabletLandscape") {
+      display: none;
+    }
 
     display: flex;
     flex-direction: row;
@@ -98,9 +103,7 @@ $tabletLandscapeLimit: 800;
       margin-left: 10px;
       padding: 15px;
       box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
-      border-top-left-radius: 10px;
-      border-top-right-radius: 10px;
-      border-bottom-right-radius: 10px;
+      border-radius: 15px;
       position: relative;
     }
   }
