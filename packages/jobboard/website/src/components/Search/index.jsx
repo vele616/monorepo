@@ -9,7 +9,6 @@ import {
   Select,
   Input,
   Icon,
-  FieldLayout,
   useDevice,
 } from '@crocoder-dev/components';
 import styles from './index.module.scss';
@@ -31,36 +30,10 @@ const Search = ({
   currentPage,
   image,
   hasSearched,
+  crocTexts,
 }) => {
   const maxInputLenght = 115;
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
-
-  const sortedHashtags = useMemo(() => {
-    if (typeof hashtags === 'object' && Array.isArray(hashtags)) {
-      return hashtags.map((tag) => tag.replace('#', '')).sort();
-    }
-  }, [hashtags]);
-
-  const [crocVisible, setCrocVisible] = useState(true);
-
-  const crocTexts = useMemo(
-    () => [
-      'Click on Search button to display search results.',
-      'My favourite drink is gator-ade.',
-      'I have no idea what React.js is.',
-      'Remove all filters to search for all jobs.',
-      'What do you call a crocodile with GPS?                    A Navi-gator.',
-      'Check out fresh dose of Job Posts every day.',
-      'I have googly eyes.',
-      'The Search page was actually my idea.',
-      'C in C# stands for Crocodile.',
-      'What are you looking for?',
-      'Search results will display after you click this yellow button on the right.',
-      'Find more images of me at crocoder.dev',
-      'I am just going to stay here until you search for some jobs.',
-    ],
-    []
-  );
 
   const [textIndex, setTextIndex] = useState(0);
 
@@ -203,7 +176,7 @@ const Search = ({
           label="Skills"
           title="Skills"
         >
-          {sortedHashtags.map((tag) => (
+          {hashtags.map((tag) => (
             <Select.Option key={tag} id={tag}>
               {tag}
             </Select.Option>
@@ -239,7 +212,7 @@ const Search = ({
       // Get only valid skills
       if (filterId === 'skills' && options && options.length > 0) {
         const existingSkills = options.filter((opt) => {
-          return sortedHashtags.find((tag) => tag === opt);
+          return hashtags.find((tag) => tag === opt);
         });
         if (existingSkills && existingSkills.length > 0) {
           searchData.filters['skills'] = existingSkills;
@@ -317,7 +290,7 @@ const Search = ({
           {isMobile || empty ? 'SEARCH' : searchButtonText}
         </Button>
       </Flexbox>
-      {!hasSearched && crocVisible && (
+      {!hasSearched && (
         <div className={styles.search__croc}>
           <Img
             className={styles.search__croc__image}
@@ -353,6 +326,7 @@ const SearchWithQuery = (props) => {
             subtitle
             searchLabel
             searchButtonText
+            crocTexts
             image {
               childImageSharp {
                 fluid {
@@ -370,11 +344,7 @@ const SearchWithQuery = (props) => {
             }
           }
           allMarkdownRemark {
-            nodes {
-              frontmatter {
-                hashtags
-              }
-            }
+            distinct(field: fields___tags)
           }
         }
       `}
@@ -382,13 +352,7 @@ const SearchWithQuery = (props) => {
         <Search
           {...props}
           {...data.searchJson}
-          hashtags={[
-            ...new Set(
-              data.allMarkdownRemark.nodes.flatMap((node) =>
-                node.frontmatter.hashtags.split(',').splice(0, 3)
-              )
-            ),
-          ]}
+          hashtags={data.allMarkdownRemark.distinct}
         />
       )}
     />
