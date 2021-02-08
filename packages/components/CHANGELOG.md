@@ -1,8 +1,36 @@
 ### [Versions]
 
 Here you can see what's new added, changed or fixed in which version of our component library.
+## 1.0.5
+##### _Feb 8 2021_
 
-# 1.0.2
+**TLDR**: Fixed Pagination visual bug.
+#### Bugfix
+
+  - **Pagination**: Fixed visual bug in navigation component when menu is opened on small screens. [PR 975](https://github.com/crocoder-dev/monorepo/pull/975)
+## 1.0.4
+##### _Feb 8 2021_
+
+**TLDR**: Fixed Pagination and Navigation bugs.
+#### Bugfix
+
+  - **Pagination**: Default pagination number will now be set properly if default page number is greater than visible pages. [PR 959](https://github.com/crocoder-dev/monorepo/pull/959)
+  - **Navigation**: Navigation will enable scroll when unmounting. This will enable scrolling when switching through pages on small screens. [PR 960](https://github.com/crocoder-dev/monorepo/pull/960)
+
+## 1.0.3
+##### _Feb 5 2021_
+
+**TLDR**: 
+#### Feature
+
+  - **FieldLayout** - add hideLabelOnFocus property. Setting this property to true will make placeholder (label) disappear when component is focused or not empty  [PR 958](https://github.com/crocoder-dev/monorepo/pull/958)
+  - **Input**: add hideLabelOnFocus property which will be used on inner FieldLayout component. [PR 958](https://github.com/crocoder-dev/monorepo/pull/958)
+
+#### Bugfix
+
+  - **Navigation**: Elements below Navigation component won't shake anymore when height animation is occuring due scroll. Page which has Navigation component on top as well as scrollbar can now be scrolled to the bottom in one drag. [PR 942](https://github.com/crocoder-dev/monorepo/pull/942)
+
+## 1.0.2
 
 ##### _Jan 7 2021_
 

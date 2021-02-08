@@ -13,6 +13,7 @@ companyWebsite: "http://www.evisit.com/"
 summary: "If you have experience with AWS, eVisit is looking for someone with your knowledge."
 summaryBackup: "EVisit is looking for an infrastructure engineer that has experience in: #aws, #css, #ui/ux."
 featured: 10
+archived: "true"
 ---
 
 ## Description
