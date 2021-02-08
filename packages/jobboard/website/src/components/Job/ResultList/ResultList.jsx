@@ -26,7 +26,9 @@ const Views = Object.freeze({
 
 const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   const resultsPerPage = 24;
+
   const paginationRef = useRef();
+  const paginationTopRef = useRef();
 
   const [maxVisiblePages, setMaxVisiblePages] = useState(7);
   const [view, setView] = useState(Views.Grid);
@@ -120,6 +122,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       handleOnPageChange(1);
       if (paginationRef.current) {
         paginationRef.current.changePage(1);
+        paginationTopRef.current.changePage(1);
       }
       if (searchRef.current) {
         searchRef.current.scrollIntoView({
@@ -129,6 +132,21 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       }
     }
   }, [jobs]);
+
+  const paginationTop = useMemo(() => {
+    const pageCount = Math.ceil(jobs.length / resultsPerPage);
+    if (pageCount > 0)
+      return (
+        <Pagination
+          forwardRef={paginationTopRef}
+          //defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
+          className={styles.pagination}
+          pageCount={pageCount}
+          visibleCount={maxVisiblePages}
+          onChange={handleOnPageChange}
+        />
+      );
+  }, [maxVisiblePages, jobs.length, defaultPage, handleOnPageChange]);
 
   const pagination = useMemo(() => {
     const pageCount = Math.ceil(jobs.length / resultsPerPage);
@@ -150,6 +168,9 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   useEffect(() => {
     if (paginationRef.current) {
       if (currentPage) paginationRef.current.changePage(currentPage);
+    }
+    if (paginationTopRef.current) {
+      if (currentPage) paginationTopRef.current.changePage(currentPage);
     }
   }, [pagination]);
 
@@ -210,7 +231,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
         >
           {jobs.length <= 0 && 'SHOWING PAGE ... HMM. NO PAGES HERE.'}
         </Typography>
-        <div className={styles.topPagination}>{pagination}</div>
+        <div className={styles.topPagination}>{paginationTop}</div>
       </Section>
       <div key={jobs} className={styles.resultList}>
         <Grid
