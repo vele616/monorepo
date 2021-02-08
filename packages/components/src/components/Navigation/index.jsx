@@ -35,8 +35,11 @@ const Navigation = ({
       }
     };
     window.addEventListener("scroll", scrollHandler);
-    return () => window.removeEventListener("scroll", scrollHandler);
-  }, [scrolled]);
+    return () => {
+      enableScroll();
+      window.removeEventListener("scroll", scrollHandler);
+    };
+  }, [enableScroll, scrolled]);
 
   const toggleMenu = useCallback(() => {
     setIsOpened(!opened);
