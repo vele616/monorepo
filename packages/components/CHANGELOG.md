@@ -1,6 +1,13 @@
 ### [Versions]
 
 Here you can see what's new added, changed or fixed in which version of our component library.
+## 1.0.5
+##### _Feb 8 2021_
+
+**TLDR**: Fixed Pagination visual bug.
+#### Bugfix
+
+  - **Pagination**: Fixed visual bug in navigation component when menu is opened on small screens. [PR 975](https://github.com/crocoder-dev/monorepo/pull/975)
 ## 1.0.4
 ##### _Feb 8 2021_
 
