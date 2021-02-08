@@ -31,7 +31,6 @@ const Pagination = ({
   ]);
 
   const [startingIndex, setStartingIndex] = useState(1);
-  const [current, setCurrent] = useState(defaultPage || 1);
 
   const [underlineWidth, setUnderlineWidth] = useState(0);
   const [underlineLeft, setUnderlineLeft] = useState(3);
@@ -42,13 +41,6 @@ const Pagination = ({
   const allVisible = useMemo(() => {
     return pageCount <= visiblePages;
   }, [pageCount, visiblePages]);
-
-  useEffect(() => {
-    if (!allVisible) {
-      setControlsLeftVisible(current > 1);
-      setControlsRightVisible(current < pageCount);
-    }
-  }, [allVisible, current, pageCount]);
 
   const updateStartingIndex = useCallback(
     (value) => {
@@ -63,6 +55,26 @@ const Pagination = ({
     },
     [onChange, pageCount, visibleLeftRignt, visiblePages]
   );
+
+  const [current, setCurrent] = useState(() => {
+    let page = defaultPage;
+
+    if (defaultPage <= 0) {
+      page = 1;
+    } else if (defaultPage >= pageCount) {
+      page = pageCount;
+    }
+
+    updateStartingIndex(page);
+    return page;
+  });
+
+  useEffect(() => {
+    if (!allVisible) {
+      setControlsLeftVisible(current > 1);
+      setControlsRightVisible(current < pageCount);
+    }
+  }, [allVisible, current, pageCount]);
 
   const handleOnChange = useCallback(
     (value) => {
@@ -149,7 +161,8 @@ const Pagination = ({
 
 Pagination.propTypes = {
   /**
-   * This page is selected when Pagination is created.
+   * This page is selected when Pagination is created. If default page is larger than page count, last page will be selected.
+    If default page number is smaller than 1, first page will be selected.
    */
   defaultPage: PropTypes.number,
   /**

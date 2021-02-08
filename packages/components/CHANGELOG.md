@@ -1,6 +1,15 @@
 ### [Versions]
 
 Here you can see what's new added, changed or fixed in which version of our component library.
+## 1.0.4
+##### _Feb 8 2021_
+
+**TLDR**: Fixed Pagination and Navigation bugs.
+#### Bugfix
+
+  - **Pagination**: Default pagination number will now be set properly if default page number is greater than visible pages. [PR 959](https://github.com/crocoder-dev/monorepo/pull/959)
+  - **Navigation**: Navigation will enable scroll when unmounting. This will enable scrolling when switching through pages on small screens. [PR 960](https://github.com/crocoder-dev/monorepo/pull/960)
+
 ## 1.0.3
 ##### _Feb 5 2021_
 
