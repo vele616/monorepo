@@ -115,3 +115,19 @@ Controlled.args = {
   pageCount: 12,
   visibleCount: 7,
 };
+
+export const DefaultPageNumber = Pagination.bind();
+DefaultPageNumber.storyName = "Default page";
+DefaultPageNumber.parameters = {
+  docs: {
+    description: {
+      story: `Default page can be selected. If default page is larger than page count, last page will be selected.
+      If default page number is smaller than 1, first page will be selected.`,
+    },
+  },
+};
+DefaultPageNumber.args = {
+  pageCount: 17,
+  visibleCount: 7,
+  defaultPage: 19,
+};

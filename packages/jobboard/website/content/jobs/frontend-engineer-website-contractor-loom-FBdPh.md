@@ -13,6 +13,7 @@ companyWebsite: "https://www.loom.com/"
 summary: "Loom is looking for a frontend engineer that has 2+ years of professional working experience."
 summaryBackup: "Excited about #css, #marketing, #content? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 **About Loom:**

@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have 10 years in security technology B2B marketing, with an additional 5 to 10 years in product marketing or product management, Red Canary is looking for someone with your skillset."
 summaryBackup: "Excited about #marketing, #sales, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Why Red Canary
