@@ -6,24 +6,24 @@ companyName: "FRISS | fraud, risk & compliance"
 url: "https://friss.recruitee.com/o/professional-services-consultant"
 applyUrl: "https://friss.recruitee.com/o/professional-services-consultant/c/new"
 timestamp: 1612742400000
-hashtags: "#management,#office,#French,#optimization,#English"
+hashtags: "#management,#French,#optimization,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "Excited about experience in: #management, #office, #French? Check out this job post!"
+summary: "Excited about experience in: #management, #optimization, #French? Check out this job post!"
 summaryBackup: "FRISS | fraud, risk & compliance is looking for a professional services consultant that has experience in: #management, #office, #French."
 featured: 20
 ---
 
 ## Job description
 
-We need you to help us reach our Big Hairy Audacious Goal! By building really smart software we enable insurers worldwide to automatically detect insurance fraud and identify high risks. Our ultimate dream is that in 2025 the FRISS Score is the global trusted standard for honest insurance. Are you ready for an adventure? Our Customer Excellence team needs a new **ProfessionalServices Consultant**: if your **Spanish** is as good as yourEnglish, let's see whether there's a click!
+We need you to help us reach our Big Hairy Audacious Goal! By building really smart software we enable insurers worldwide to automatically detect insurance fraud and identify high risks. Our ultimate dream is that in 2025 the FRISS Score is the global trusted standard for honest insurance. Are you ready for an adventure? Our Customer Excellence team needs a new **Professional Services Consultant**: if your **Spanish** is as good as your English, let's see whether there's a click!
 
-## Your mission as a Consultant
+**Your mission as a Consultant**
 
 You make sure that the customer gets the best possible FRISS solution at all times, by creating a FRISS score that our customers can trust. A FRISS score that keeps their portfolios healthy and get more savings on their fraudulent cases. The consultant does this by guiding the customer through the changes in their business process and by challenging the customer on their risk appetite.
 
-## What did you achieve as a Consultantafter one year?
+**What did you achieve as a Consultantafter one year?**
 
 You have worked on several projects making sure the customer has a great onboarding experience. Together with a project manager and another consultant you have helped the customer by:
 
@@ -35,11 +35,11 @@ You have worked on several projects making sure the customer has a great onboard
 
 ## Requirements
 
-## You and your FRISS team
+**You and your FRISS team**
 
 We offer the opportunity to work in a fast-changing and international environment, with lots of room for initiative and personal development. We want to welcome new customers and to continue our project delivery. And to support this growth we are looking for Consultant. You will be part of our Customer Excellence team, which engages our customers to drive FRISS adoption and demonstrate ongoing value with the products we deliver. In this role you have a big responsibility in the onboarding of our customers.
 
-## Who are you?
+**Who are you?**
 
 *   Proficiency in Spanish
 *   Proficiency in English
@@ -48,7 +48,7 @@ We offer the opportunity to work in a fast-changing and international environmen
 *   Up for a challenge
 *   Affinity with IT solutions
 *   Affinity with Data
-*   You like toask a lot of questions
+*   You like to ask a lot of questions
 *   You listen to understand
 
 Do you recognize yourself in this role? Then hit the apply button and let us know!
