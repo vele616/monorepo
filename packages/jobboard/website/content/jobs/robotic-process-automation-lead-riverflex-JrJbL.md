@@ -21,7 +21,7 @@ featured: 15
 
 **Start Date**: ASAP (January 2021)
 
-**Duration:**: 6 months
+**Duration**: 6 months
 
 Our client is a media owner, looking to quickly improve process efficiency to improve competitiveness. Based on Lean Six Sigma practices they are highlighting a number of process improvement opportunities. In order to deliver these opportunities they need to improve their systems but legacy applications are slow and fragile to change. For this reason, they would like to build a simple and streamlined web-front end that abstracts their complex legacy applications and processes using RPA. We are looking for a technical lead to work with the process team to design, lead the build of and hands-on develop this solution.
 
