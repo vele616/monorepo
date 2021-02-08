@@ -6,13 +6,13 @@ companyName: "Riverflex"
 url: "https://riverflex.recruitee.com/o/robotic-process-automation-lead"
 applyUrl: "https://riverflex.recruitee.com/o/robotic-process-automation-lead/c/new"
 timestamp: 1612742400000
-hashtags: "#ui/ux,#optimization"
+hashtags: "#rpa,#ui/ux,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "Riverflex intends to hire a new robotic process automation lead. If you have experience with leading RPA using e, consider applying."
+summary: "Riverflex intends to hire a new Robotic Process Automation Lead. If you have experience with leading RPA using e.g UIPath and BluePrism, consider applying."
 summaryBackup: "Love #ui/ux, #optimization? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job description
@@ -21,9 +21,9 @@ featured: 20
 
 **Start Date**: ASAP (January 2021)
 
-**Duration:**6 months
+**Duration:**: 6 months
 
-Our client is amedia owner, looking to quickly improve process efficiency to improve competitiveness. Based on Lean Six Sigma practices they are highlighting a number of process improvement opportunities. In order to deliver these opportunities they need to improve their systems but legacy applications are slow and fragile to change. For this reason, they would like to build a simple and streamlined web-front end that abstracts their complex legacy applications and processes using RPA. We are looking for a technical lead to work with the process team to design, lead the build of and hands-on develop this solution.
+Our client is a media owner, looking to quickly improve process efficiency to improve competitiveness. Based on Lean Six Sigma practices they are highlighting a number of process improvement opportunities. In order to deliver these opportunities they need to improve their systems but legacy applications are slow and fragile to change. For this reason, they would like to build a simple and streamlined web-front end that abstracts their complex legacy applications and processes using RPA. We are looking for a technical lead to work with the process team to design, lead the build of and hands-on develop this solution.
 
 ## Key Responsibilities
 
