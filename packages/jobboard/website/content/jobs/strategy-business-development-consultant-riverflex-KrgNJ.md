@@ -6,13 +6,13 @@ companyName: "Riverflex"
 url: "https://riverflex.recruitee.com/o/strategy-business-development-consultant"
 applyUrl: "https://riverflex.recruitee.com/o/strategy-business-development-consultant/c/new"
 timestamp: 1612742400000
-hashtags: "#marketing,#management,#translation,#analysis,#finance"
+hashtags: "#marketing,#management,#analysis,#translation,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "Interested in new opportunities and have 5-10 years of relevant work experience? Riverflex has a job opening for a strategy & business development consultant."
+summary: "Interested in new opportunities and have 5-10 years of relevant work experience? Riverflex has a job opening for a Strategy & Business Development Consultant."
 summaryBackup: "Riverflex is looking for a strategy & business development consultant that has experience in: #marketing, #management, #translation."
-featured: 20
+featured: 17
 ---
 
 ## Job description
@@ -25,7 +25,7 @@ featured: 20
 
 Our client is a global retail organisation with majoroperations across Europe and North America. We are looking for a strong Business Development Manager to join the global strategy office andlead the development of new digital business propositions and partnerships. You will be involved in supportingon strategic digital business development projects including topics such as digital store, digital self service and last mile delivery. This is an exciting opportunity for the right candidate to grow working with a talented and high-performing team.
 
-## Key Responsibilities
+**Key Responsibilities**
 
 *   Conduct market scans and research into the market around competitive trends in CPG/Retail
 *   Develop innovative business and partnership concepts that will startle the market and be an active partner in the development of future shopping concepts and related capabilities
