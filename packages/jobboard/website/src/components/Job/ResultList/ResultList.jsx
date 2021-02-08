@@ -14,6 +14,7 @@ import {
   useDevice,
   Section,
   Pagination,
+  Flexbox,
 } from '@crocoder-dev/components';
 import JobPost from './../Post';
 import styles from './index.module.scss';
@@ -25,10 +26,12 @@ const Views = Object.freeze({
 
 const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   const resultsPerPage = 24;
+
   const paginationRef = useRef();
+  const paginationTopRef = useRef();
 
   const [maxVisiblePages, setMaxVisiblePages] = useState(7);
-  const [view, setView] = useState(Views.List);
+  const [view, setView] = useState(Views.Grid);
   const [isScrollingUp, setIsScrollingUp] = useState(false);
 
   const [currentPage, setCurrentPage] = useState(() => {
@@ -45,17 +48,9 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   });
 
   useEffect(() => {
-    let lastWindowY = window.scrollY;
     const scrollHandler = () => {
       // Set scroll up only if window is low enough
-      setIsScrollingUp(window.scrollY > 500 && window.scrollY < lastWindowY);
-      // Ignore small changes
-      if (
-        lastWindowY < window.scrollY - 100 ||
-        lastWindowY > window.scrollY + 100
-      ) {
-        lastWindowY = window.scrollY;
-      }
+      setIsScrollingUp(window.scrollY > 300);
     };
     window.addEventListener('scroll', scrollHandler);
     return () => window.removeEventListener('scroll', scrollHandler);
@@ -127,19 +122,24 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       handleOnPageChange(1);
       if (paginationRef.current) {
         paginationRef.current.changePage(1);
+        paginationTopRef.current.changePage(1);
+      }
+      if (searchRef.current) {
+        searchRef.current.scrollIntoView({
+          block: 'start',
+          behavior: 'smooth',
+        });
       }
     }
   }, [jobs]);
 
-  const pagination = useMemo(() => {
+  const paginationTop = useMemo(() => {
     const pageCount = Math.ceil(jobs.length / resultsPerPage);
-    const numericDefaultPage = Math.min(Number(defaultPage) || 1, pageCount);
-
     if (pageCount > 0)
       return (
         <Pagination
-          forwardRef={paginationRef}
-          defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
+          forwardRef={paginationTopRef}
+          defaultPage={Number(defaultPage)}
           className={styles.pagination}
           pageCount={pageCount}
           visibleCount={maxVisiblePages}
@@ -148,48 +148,86 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       );
   }, [maxVisiblePages, jobs.length, defaultPage, handleOnPageChange]);
 
+  const pagination = useMemo(() => {
+    const pageCount = Math.ceil(jobs.length / resultsPerPage);
+    if (pageCount > 0)
+      return (
+        <Pagination
+          forwardRef={paginationRef}
+          defaultPage={Number(defaultPage)}
+          className={styles.pagination}
+          pageCount={pageCount}
+          visibleCount={maxVisiblePages}
+          onChange={handleOnPageChange}
+        />
+      );
+  }, [maxVisiblePages, jobs.length, defaultPage, handleOnPageChange]);
+
+  useEffect(() => {
+    if (paginationRef.current && paginationTopRef.current) {
+      paginationRef.current.changePage(currentPage);
+      paginationTopRef.current.changePage(currentPage);
+    }
+  }, [currentPage]);
+
   return (
     <>
-      <div ref={searchRef} />
       <Section className={styles.section}>
+        <div className={styles.searchRef} ref={searchRef} />
+        <Flexbox
+          className={styles.section__foundText}
+          justifyContent="space-between"
+          alignItems="center"
+        >
+          <Typography
+            color="gray_2"
+            fontWeight={300}
+            fontSize={26}
+            fontFamily="rubik"
+            element="span"
+          >
+            {jobs.length > 0 ? (
+              <>
+                WE FOUND
+                <Typography fontWeight={700}> {jobs.length} </Typography>
+                JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
+              </>
+            ) : (
+              'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.'
+            )}
+          </Typography>
+          {(jobs && jobs.length && (
+            <div className={styles.section__viewControls}>
+              <Button
+                variant="sneaky"
+                title="List view"
+                className={styles.icon}
+                onClick={() => setView(Views.List)}
+              >
+                <Icon fontSize={26} icon="list1" />
+              </Button>
+              <Button
+                variant="sneaky"
+                title="Grid view"
+                className={styles.icon}
+                onClick={() => setView(Views.Grid)}
+              >
+                <Icon fontSize={26} icon="apps" />
+              </Button>
+            </div>
+          )) ||
+            ''}
+        </Flexbox>
         <Typography
-          color="gray_2"
+          color="gray_11"
           fontWeight={300}
-          fontSize={30}
+          fontSize={18}
           fontFamily="rubik"
           element="span"
         >
-          {jobs.length > 0 ? (
-            <>
-              WE FOUND
-              <Typography fontWeight={700}> {jobs.length} </Typography>
-              JOB{jobs.length !== 1 ? 'S' : ''} THAT MATCH.
-            </>
-          ) : (
-            'WE CANNOT FIND ANY JOBS THAT MATCH THIS QUERY.'
-          )}
+          {jobs.length <= 0 && 'SHOWING PAGE ... HMM. NO PAGES HERE.'}
         </Typography>
-        {(jobs && jobs.length && (
-          <div className={styles.section__viewControls}>
-            <Button
-              variant="sneaky"
-              title="List view"
-              className={styles.icon}
-              onClick={() => setView(Views.List)}
-            >
-              <Icon fontSize={26} icon="list1" />
-            </Button>
-            <Button
-              variant="sneaky"
-              title="Grid view"
-              className={styles.icon}
-              onClick={() => setView(Views.Grid)}
-            >
-              <Icon fontSize={26} icon="apps" />
-            </Button>
-          </div>
-        )) ||
-          ''}
+        <div className={styles.topPagination}>{paginationTop}</div>
       </Section>
       <div key={jobs} className={styles.resultList}>
         <Grid

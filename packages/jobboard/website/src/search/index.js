@@ -23,13 +23,16 @@ class SearchIndex {
   }
 
   search(query = '', seniority = [], contractType = [], tags = []) {
-    if (
-      !query &&
-      seniority.length === 0 &&
-      contractType.length === 0 &&
-      tags.length === 0
-    ) {
-      return Object.values(this.store);
+    if (!query && seniority.length === 0 && contractType.length === 0) {
+      // Return all if everything is empty
+      if (tags.length === 0) {
+        return Object.values(this.store);
+      } else {
+        // Return only hashtags results
+        return Object.values(this.store).filter(({ hashtags }) =>
+          tags.some((tag) => hashtags.includes(tag))
+        );
+      }
     }
 
     const prepareSearchQuery = (query, seniority, contractType) => {
@@ -75,12 +78,6 @@ class SearchIndex {
         return merge(secondArray, firstArray);
       }
     };
-
-    if (query === '' && !seniority && !contractType && tags.length !== 0) {
-      return Object.values(this.store).filter(
-        (x) => tags.length === 0 || tags.some((t) => x.hashtags.includes(t))
-      );
-    }
 
     return prepareSearchQuery(query, seniority, contractType)
       .flatMap((r) => createSearchQuery(...r))

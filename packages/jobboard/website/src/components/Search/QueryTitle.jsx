@@ -6,7 +6,7 @@ import styles from './index.module.scss';
 
 const Green = ({ children = '' }) => {
   return (
-    <Typography color="green_4">{` ${children.toLowerCase()}`}</Typography>
+    <Typography color="green_2">{` ${children.toLowerCase()}`}</Typography>
   );
 };
 

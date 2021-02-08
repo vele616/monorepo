@@ -2,6 +2,7 @@
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   Typography,
+  Typing,
   Section,
   Flexbox,
   Button,
@@ -14,6 +15,7 @@ import styles from './index.module.scss';
 import QueryTitle from './QueryTitle';
 import querystring from 'query-string';
 import { StaticQuery, graphql } from 'gatsby';
+import Img from 'gatsby-image';
 
 const Search = ({
   title,
@@ -26,15 +28,21 @@ const Search = ({
   className,
   hashtags,
   currentPage,
+  image,
+  hasSearched,
+  crocTexts,
 }) => {
   const maxInputLenght = 115;
   const { isMobile } = useDevice({ tablet: styles.tabletLandscapeLimit });
 
-  const sortedHashtags = useMemo(() => {
-    if (typeof hashtags === 'object' && Array.isArray(hashtags)) {
-      return hashtags.map((tag) => tag.replace('#', '')).sort();
-    }
-  }, [hashtags]);
+  const [textIndex, setTextIndex] = useState(0);
+
+  const handleOnTextFinish = useCallback(() => {
+    setTimeout(() => {
+      const nextIndex = textIndex + 1 < crocTexts.length ? textIndex + 1 : 0;
+      setTextIndex(nextIndex);
+    }, 6000);
+  }, [textIndex]);
 
   const queryParams = useMemo(() => {
     const queryParams = {
@@ -168,7 +176,7 @@ const Search = ({
           label="Skills"
           title="Skills"
         >
-          {sortedHashtags.map((tag) => (
+          {hashtags.map((tag) => (
             <Select.Option key={tag} id={tag}>
               {tag}
             </Select.Option>
@@ -204,7 +212,7 @@ const Search = ({
       // Get only valid skills
       if (filterId === 'skills' && options && options.length > 0) {
         const existingSkills = options.filter((opt) => {
-          return sortedHashtags.find((tag) => tag === opt);
+          return hashtags.find((tag) => tag === opt);
         });
         if (existingSkills && existingSkills.length > 0) {
           searchData.filters['skills'] = existingSkills;
@@ -257,6 +265,7 @@ const Search = ({
           className={styles.search__input}
           label={searchLabel}
           onChange={handleInputChange}
+          hideLabelOnFocus
         />
         <Button className={styles.search__button} variant="sneaky">
           <Icon
@@ -282,6 +291,28 @@ const Search = ({
           {isMobile || empty ? 'SEARCH' : searchButtonText}
         </Button>
       </Flexbox>
+      {!hasSearched && (
+        <div className={styles.search__croc}>
+          <Img
+            className={styles.search__croc__image}
+            fadeIn={false}
+            fluid={image ? image.childImageSharp.fluid : {}}
+            alt={'croc'}
+          />
+          <Typography
+            fontFamily="rubik"
+            className={styles.search__croc__text}
+            color="gray_2"
+            fontWeight={400}
+            fontSize={24}
+            element="div"
+          >
+            <Typing onFinish={handleOnTextFinish}>
+              {crocTexts[textIndex]}
+            </Typing>
+          </Typography>
+        </div>
+      )}
     </Section>
   );
 };
@@ -296,6 +327,14 @@ const SearchWithQuery = (props) => {
             subtitle
             searchLabel
             searchButtonText
+            crocTexts
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             filters {
               id
               name
@@ -306,11 +345,7 @@ const SearchWithQuery = (props) => {
             }
           }
           allMarkdownRemark {
-            nodes {
-              frontmatter {
-                hashtags
-              }
-            }
+            distinct(field: fields___tags)
           }
         }
       `}
@@ -318,13 +353,7 @@ const SearchWithQuery = (props) => {
         <Search
           {...props}
           {...data.searchJson}
-          hashtags={[
-            ...new Set(
-              data.allMarkdownRemark.nodes.flatMap((node) =>
-                node.frontmatter.hashtags.split(',').splice(0, 3)
-              )
-            ),
-          ]}
+          hashtags={data.allMarkdownRemark.distinct}
         />
       )}
     />

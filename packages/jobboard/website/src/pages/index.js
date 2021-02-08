@@ -23,7 +23,6 @@ const IndexPage = ({ data }) => {
   const scrollToTop = () => topRef.current.scrollIntoView({ block: 'end' });
 
   const scrollToSubscribe = useCallback(() => {
-    console.log('click', subscribeRef.current);
     subscribeRef &&
       subscribeRef.current &&
       subscribeRef.current.scrollIntoView();
