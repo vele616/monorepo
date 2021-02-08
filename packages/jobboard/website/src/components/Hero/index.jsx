@@ -16,7 +16,7 @@ const Hero = ({
   image,
   title,
   callToActionSubscribe,
-  callToActionPostAJob,
+  callToActionSearch,
   scrollToSubscribe,
   topRef,
 }) => {
@@ -49,8 +49,8 @@ const Hero = ({
           <Button onClick={scrollToSubscribe} className={'link--primary'}>
             {callToActionSubscribe}
           </Button>
-          <Link to="/post-a-job" className={'link--secondary'}>
-            {callToActionPostAJob}
+          <Link to="/search" className={'link--secondary'}>
+            {callToActionSearch}
           </Link>
         </div>
       </Grid>
@@ -66,7 +66,7 @@ const HeroWithQuery = ({ scrollToSubscribe, topRef }) => (
           hero {
             title
             callToActionSubscribe
-            callToActionPostAJob
+            callToActionSearch
             image {
               childImageSharp {
                 fluid(maxWidth: 1800) {

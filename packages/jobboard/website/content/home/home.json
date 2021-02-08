@@ -2,7 +2,7 @@
   "hero": {
     "title": "Don't miss out on an interesting remote job opportunity ever again.",
     "callToActionSubscribe": "subscribe",
-    "callToActionPostAJob": "post a job",
+    "callToActionSearch": "search",
     "image": "../images/jobsHeader.png"
   },
   "footer": {
