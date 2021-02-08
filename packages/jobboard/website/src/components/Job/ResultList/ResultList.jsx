@@ -139,7 +139,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       return (
         <Pagination
           forwardRef={paginationTopRef}
-          //defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
+          defaultPage={Number(defaultPage)}
           className={styles.pagination}
           pageCount={pageCount}
           visibleCount={maxVisiblePages}
@@ -150,13 +150,11 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
 
   const pagination = useMemo(() => {
     const pageCount = Math.ceil(jobs.length / resultsPerPage);
-    const numericDefaultPage = Math.min(Number(defaultPage) || 1, pageCount);
-
     if (pageCount > 0)
       return (
         <Pagination
           forwardRef={paginationRef}
-          //defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
+          defaultPage={Number(defaultPage)}
           className={styles.pagination}
           pageCount={pageCount}
           visibleCount={maxVisiblePages}
@@ -166,13 +164,11 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   }, [maxVisiblePages, jobs.length, defaultPage, handleOnPageChange]);
 
   useEffect(() => {
-    if (paginationRef.current) {
-      if (currentPage) paginationRef.current.changePage(currentPage);
+    if (paginationRef.current && paginationTopRef.current) {
+      paginationRef.current.changePage(currentPage);
+      paginationTopRef.current.changePage(currentPage);
     }
-    if (paginationTopRef.current) {
-      if (currentPage) paginationTopRef.current.changePage(currentPage);
-    }
-  }, [pagination]);
+  }, [currentPage]);
 
   return (
     <>
