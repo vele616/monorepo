@@ -6,18 +6,18 @@ companyName: "Riverflex"
 url: "https://riverflex.recruitee.com/o/hrod-transformation-consultant"
 applyUrl: "https://riverflex.recruitee.com/o/hrod-transformation-consultant/c/new"
 timestamp: 1612742400000
-hashtags: "#ui/ux,#marketing,#operations,#branding"
+hashtags: "#marketing,#operations,#branding,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "To apply as a hr at Riverflex, you preferably need to have 5-10 years of consulting experience."
+summary: "To apply as a HR/OD Transformation Consultant at Riverflex, you preferably need to have 5-10 years of consulting experience."
 summaryBackup: "To apply as a hr at Riverflex, you preferably need to have some knowledge of: #ui/ux, #marketing, #operations."
-featured: 20
+featured: 19
 ---
 
 ## Job description
 
-**Location**:Remote
+**Location**: Remote
 
 **Duration**: 3 Months
 
@@ -34,8 +34,6 @@ Supporting the operating model project lead including:
 *   Designing "to be" organizational chartsand role level responsibilities
 *   Identifying key ways of working between teams
 *   Role mapping using a suitable competency framework
-
-## Job requirements
 
 ## Job requirements
 
