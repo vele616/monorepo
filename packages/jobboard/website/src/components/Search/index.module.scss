@@ -72,7 +72,6 @@ $tabletLandscapeLimit: 800;
   position: relative;
 
   @include mediaQuery("<tabletPortrait") {
-    
     margin-top: 20px;
     padding-left: 10px;
   }
@@ -89,6 +88,7 @@ $tabletLandscapeLimit: 800;
 
     display: flex;
     flex-direction: row;
+    margin-top: 20px;
     max-height: 90px;
 
     &__image {
@@ -96,23 +96,23 @@ $tabletLandscapeLimit: 800;
     }
 
     &__text {
-      display: flex;
-      min-width: 100px;
-      max-width: 400px;
       align-items: center;
-      margin-left: 10px;
-      padding: 15px;
-      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
       border-radius: 15px;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+      display: flex;
+      margin-left: 10px;
+      max-width: 400px;
+      min-width: 100px;
+      padding: 15px;
       position: relative;
     }
   }
 
   &__button {
+    padding-bottom: 0px;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 0px;
-    padding-bottom: 0px;
     
     &__icon {
       font-size: 20px !important;
@@ -126,8 +126,6 @@ $tabletLandscapeLimit: 800;
     padding-bottom: 0.5em;
     padding-top: 0.5em;
     
-    
-
     @include ellipsis();
     overflow: visible;
 
