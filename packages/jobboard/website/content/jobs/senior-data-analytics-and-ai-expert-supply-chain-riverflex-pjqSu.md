@@ -1,5 +1,5 @@
 ---
-title: "Senior Data Analytics and AI Expert - Supply Chain"
+title: "Senior Data Analytics and AI Expert"
 location: "Remote job"
 host: "https://riverflex.recruitee.com/"
 companyName: "Riverflex"
@@ -10,14 +10,18 @@ hashtags: "#analysis,#javascript,#python,#management,#translation,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "To apply as a senior data analytics and ai expert at Riverflex, you preferably need to have 5+ years of relevant working experience in the Supply Chain / Manufacturing environment."
+summary: "To apply as a Senior Data Analytics and AI Expert at Riverflex, you preferably need to have 5+ years of relevant working experience in the Supply Chain / Manufacturing environment."
 summaryBackup: "Love #analysis, #javascript, #python? Check out this job post!"
 featured: 20
 ---
 
 ## Job description
 
-**Location:**Turkey (Remote due to COVID)**Duration:**3 months**Start Date:**ImmediateOur client isa large B2C company leading durable goods and consumer electronics manufacturingin Turkey.We are looking for a senior-levelData Analytics and AI expert with experience in Supply Chain / Manufacturing, with AI use case know-how in manufacturing environments to work together with central Supply Chain, IT, andData &AI functions.You will be involved in supporting the development of theend-to-end AI roadmap for the Supply Chain domain. This is an exciting opportunity for the right candidate to grow working with a talented and high-performing team.
+**Location:** Turkey (Remote due to COVID)
+**Duration:** 3 months
+**Start Date:** Immediate
+
+Our client is a large B2C company leading durable goods and consumer electronics manufacturingin Turkey. We are looking for a senior-levelData Analytics and AI expert with experience in Supply Chain / Manufacturing, with AI use case know-how in manufacturing environments to work together with central Supply Chain, IT, andData &AI functions. You will be involved in supporting the development of theend-to-end AI roadmap for the Supply Chain domain. This is an exciting opportunity for the right candidate to grow working with a talented and high-performing team.
 
 ## Key Responsibilities
 
@@ -32,7 +36,7 @@ featured: 20
 
 *   Bachelor or Mastersdegree in Data Science, Econometrics, Computer Science or other relevant studies.
 *   5+ years of relevant working experience in the Supply Chain / Manufacturing environment
-*   Prior experience in Advanced Analytics strategy and end-to-end solution delivery and implementationusing data science and analytics techniques on cloud computing platforms
-*   Deep understanding ofa variety of modern programming languages (R, Python, JavaScript) and Artificial Intelligence (AI)
+*   Prior experience in Advanced Analytics strategy and end-to-end solution delivery and implementation using data science and analytics techniques on cloud computing platforms
+*   Deep understanding of a variety of modern programming languages (R, Python, JavaScript) and Artificial Intelligence (AI)
 *   Strong analytical skillset and ability to translate business processes and data into insights and solutions
 *   Inventory optimization and forecasting experience in supply chain
