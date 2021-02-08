@@ -11,6 +11,16 @@ $limitDesktop: 1200;
 .pagination {
   margin-top: 30px;
   align-self: center;
+  @include mediaQuery("<tabletPortrait") {
+    margin-top: 5px;
+  }
+}
+
+.topPagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+
 }
 
 .floatingButton {

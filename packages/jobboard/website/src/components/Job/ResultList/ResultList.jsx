@@ -46,17 +46,9 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   });
 
   useEffect(() => {
-    let lastWindowY = window.scrollY;
     const scrollHandler = () => {
       // Set scroll up only if window is low enough
-      setIsScrollingUp(window.scrollY > 500 && window.scrollY < lastWindowY);
-      // Ignore small changes
-      if (
-        lastWindowY < window.scrollY - 100 ||
-        lastWindowY > window.scrollY + 100
-      ) {
-        lastWindowY = window.scrollY;
-      }
+      setIsScrollingUp(window.scrollY > 300);
     };
     window.addEventListener('scroll', scrollHandler);
     return () => window.removeEventListener('scroll', scrollHandler);
@@ -216,11 +208,9 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
           fontFamily="rubik"
           element="span"
         >
-          SHOWING PAGE{' '}
-          {jobs.length > 0 && currentPage && currentPage > 0
-            ? `${currentPage} / ${Math.ceil(jobs.length / resultsPerPage)}`
-            : ' ... HMM. NO PAGES HERE.'}
+          {jobs.length <= 0 && 'SHOWING PAGE ... HMM. NO PAGES HERE.'}
         </Typography>
+        <div className={styles.topPagination}>{pagination}</div>
       </Section>
       <div key={jobs} className={styles.resultList}>
         <Grid
