@@ -146,7 +146,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
       return (
         <Pagination
           forwardRef={paginationRef}
-          defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
+          //defaultPage={numericDefaultPage > 0 ? numericDefaultPage : 1}
           className={styles.pagination}
           pageCount={pageCount}
           visibleCount={maxVisiblePages}
@@ -154,6 +154,12 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
         />
       );
   }, [maxVisiblePages, jobs.length, defaultPage, handleOnPageChange]);
+
+  useEffect(() => {
+    if (paginationRef.current) {
+      if (currentPage) paginationRef.current.changePage(currentPage);
+    }
+  }, [pagination]);
 
   return (
     <>
