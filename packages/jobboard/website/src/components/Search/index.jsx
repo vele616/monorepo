@@ -87,6 +87,7 @@ const Search = ({
   const [searchInput, setSearchInput] = useState(() => queryParams.q);
   const [filterSelection, setFilterSelection] = useState();
 
+  const [crocVisible, setCrocVisible] = useState(false);
   const [inputKey, setInputKey] = useState('');
 
   React.useEffect(() => {
@@ -209,6 +210,7 @@ const Search = ({
       !queryParams.q &&
       !queryParams.page
     ) {
+      setCrocVisible(true);
       return;
     }
 
@@ -298,7 +300,7 @@ const Search = ({
           {isMobile || empty ? 'SEARCH' : searchButtonText}
         </Button>
       </Flexbox>
-      {!hasSearched && (
+      {crocVisible && !hasSearched && (
         <div className={styles.search__croc}>
           <Img
             className={styles.search__croc__image}

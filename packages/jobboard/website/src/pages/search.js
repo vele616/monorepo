@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import Layout from '../components/Layout';
 import Search from '../components/Search';
 import SearchResults from '../components/Search/Results';
