@@ -14,8 +14,8 @@ class SearchIndex {
   constructor(index, store) {
     this.store = store;
     this.index = new FlexSearch({
-      encode: 'balance',
-      tokenize: 'full',
+      encode: 'extra',
+      tokenize: 'forward',
       threshold: 1,
       cache: true,
     });

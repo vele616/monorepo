@@ -28,12 +28,11 @@ const IndexPage = ({ data }) => {
       subscribeRef.current.scrollIntoView();
   }, []);
 
-  const { nodes } = data.allMarkdownRemark;
-  const softwareJobsNumber = nodes.filter(
-    (t) => t.frontmatter.jobType === 'software'
-  ).length;
-  const otherJobsNumber = nodes.filter((t) => t.frontmatter.jobType === 'other')
-    .length;
+  const { group } = data.allMarkdownRemark;
+  const [ otherJobs, softwareJobs ] = group;
+
+  const otherJobsNumber = otherJobs.totalCount;
+  const softwareJobsNumber = softwareJobs.totalCount;
 
   return (
     <Layout scrollToTop={scrollToTop}>
@@ -91,11 +90,10 @@ export default IndexPage;
 
 export const query = graphql`
   query indexQuery {
-    allMarkdownRemark {
-      nodes {
-        frontmatter {
-          jobType
-        }
+    allMarkdownRemark(sort: {fields: frontmatter___jobType}) {
+      group(field: frontmatter___jobType) {
+        fieldValue
+        totalCount
       }
     }
   }
