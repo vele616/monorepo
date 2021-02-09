@@ -79,7 +79,6 @@ module.exports = {
           'title',
           'indexedSlug',
           'companyName',
-          'summary',
           'body',
           'hashtagsString',
         ],
