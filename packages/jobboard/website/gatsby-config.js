@@ -50,8 +50,8 @@ module.exports = {
         name: 'jobs',
         engine: 'flexsearch',
         engineOptions: {
-          encode: 'balance',
-          tokenize: 'full',
+          encode: 'extra',
+          tokenize: 'forward',
           threshold: 1,
         },
         query: `
@@ -79,7 +79,6 @@ module.exports = {
           'title',
           'indexedSlug',
           'companyName',
-          'summary',
           'body',
           'hashtagsString',
         ],
