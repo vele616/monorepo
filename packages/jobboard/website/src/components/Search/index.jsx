@@ -151,6 +151,7 @@ const Search = ({
       <>
         {filters.map(({ id, name, options }) => (
           <Select
+            id={`${id}-filter`}
             defaultSelection={
               queryParams && queryParams.filters && queryParams.filters[id]
             }
@@ -162,6 +163,8 @@ const Search = ({
             clear
             label={name}
             title={name}
+            x={'center'}
+            y={'bottom'}
           >
             {options.map(({ id, value }) => (
               <Select.Option key={id} id={id}>
@@ -171,6 +174,7 @@ const Search = ({
           </Select>
         ))}
         <Select
+          id={'skills-filter'}
           defaultSelection={
             queryParams && queryParams.filters && queryParams.filters['skills']
           }
@@ -182,6 +186,8 @@ const Search = ({
           clear
           label="Skills"
           title="Skills"
+          x={'center'}
+          y={'bottom'}
         >
           {hashtags.map((tag) => (
             <Select.Option key={tag} id={tag}>
