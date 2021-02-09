@@ -87,6 +87,12 @@ const Search = ({
   const [searchInput, setSearchInput] = useState(() => queryParams.q);
   const [filterSelection, setFilterSelection] = useState();
 
+  const [inputKey, setInputKey] = useState('');
+
+  React.useEffect(() => {
+    setInputKey(Math.random().toString());
+  }, []);
+
   const handleInputChange = useCallback((event) => {
     setSearchInput(event.target.value);
   }, []);
@@ -260,6 +266,7 @@ const Search = ({
         onKeyDownCapture={handleSearch}
       >
         <Input
+          key={inputKey}
           maxLength={maxInputLenght}
           defaultValue={queryParams.q || ''}
           className={styles.search__input}
