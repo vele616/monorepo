@@ -2,15 +2,15 @@
 title: "Social Media Manager"
 location: "Remote OK"
 host: "https://documo.breezy.hr/"
-companyName: "documo"
+companyName: "Documo"
 url: "https://documo.breezy.hr/p/b370cf670a75-social-media-manager"
 applyUrl: "https://documo.breezy.hr/p/b370cf670a75-social-media-manager/apply"
 timestamp: 1612915200000
-hashtags: "#socialmedia,#css,#ui/ux,#content,#branding,#management,#marketing,#sales"
+hashtags: "#socialmedia,#content,#branding,#management,#marketing,#css,#ui/ux,#sales"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/documo"
 companyWebsite: "https://documo.com/"
-summary: "To apply as a social media manager at Documo, you preferably need to have you should have experience working for a B2B SaaS company in social media and/or an agency that works with these companies."
+summary: "To apply as a Social Media Manager at Documo, you preferably should have experience working for a B2B SaaS company in social media and/or an agency that works with these companies."
 summaryBackup: "Excited about #socialmedia, #css, #ui/ux? Check out this job post!"
 featured: 20
 ---
