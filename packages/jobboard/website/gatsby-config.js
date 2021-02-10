@@ -51,7 +51,7 @@ module.exports = {
         engine: 'flexsearch',
         engineOptions: {
           encode: 'extra',
-          tokenize: 'forward',
+          tokenize: 'strict',
           threshold: 1,
         },
         query: `
@@ -84,8 +84,8 @@ module.exports = {
         ],
         store: ['slug', 'title', 'companyName', 'summary', 'hashtags', 'companyLogo'],
         normalizer: ({ data }) =>
-          data.allMarkdownRemark.nodes.map((node) => ({
-            id: node.id,
+          data.allMarkdownRemark.nodes.map((node, i) => ({
+            id: i,
             slug: node.fields.slug,
             indexedSlug: node.fields.slug.split('-').join(' '),
             summary: node.frontmatter.summary,
