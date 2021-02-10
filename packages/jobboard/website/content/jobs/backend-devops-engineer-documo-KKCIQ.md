@@ -2,17 +2,17 @@
 title: "Backend/DevOps Engineer"
 location: "Remote OK"
 host: "https://documo.breezy.hr/"
-companyName: "documo"
+companyName: "Documo"
 url: "https://documo.breezy.hr/p/88bf3f6183f2-backend-devops-engineer"
 applyUrl: "https://documo.breezy.hr/p/88bf3f6183f2-backend-devops-engineer/apply"
 timestamp: 1612915200000
-hashtags: "#nodejs,#kubernetes,#ui/ux,#angular,#css,#googlecloud,#management,#postgresql,#mysql"
+hashtags: "#nodejs,#kubernetes,#angular,#css,#googlecloud,#management,#ui/ux,#postgresql,#mysql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/documo"
 companyWebsite: "https://documo.com/"
-summary: "Documo intends to hire a new backend. If you have 5+ years’ experience in high performing teams, consider applying."
+summary: "Documo intends to hire a new Backend/DevOps Engineer. If you have 5+ years’ experience in high performing teams, consider applying."
 summaryBackup: "To apply as a backend at Documo, you preferably need to have some knowledge of: #nodejs, #kubernetes, #ui/ux."
-featured: 20
+featured: 10
 ---
 
 Documo builds document software solutions that help businesses streamline document processes. We make working with documents easy, more secure, and friendly towards our planet. We want to help drive mass adoption of paperless document technologies. We believe the way to do this is to build amazing products that solve and improve every aspect of document workflow. We couple that with our passion for customer success and our meticulous attention to design and user experience. We build solutions that are secure, easy to use, and improve business efficiency.
