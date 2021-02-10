@@ -6,13 +6,13 @@ companyName: "Brandbassador"
 url: "https://team.brandbassador.com/jobs/1050922-product-designer-frontend-dev"
 applyUrl: "https://team.brandbassador.com/jobs/1050922-product-designer-frontend-dev/applications/new?"
 timestamp: 1612915200000
-hashtags: "#ui/ux,#branding,#figma,#javascript,#marketing,#management,#css,#html,#analysis,#office"
+hashtags: "#ui/ux,#figma,#javascript,#marketing,#branding,#management,#css,#html,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
-summary: "Brandbassador is searching for a product designer that has experience with Design Systems."
+summary: "Brandbassador is searching for a Product Designer that has experience with Design Systems."
 summaryBackup: "Excited about #ui/ux, #branding, #figma? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 We are a marketing-Tech platform that allows brands to scale and automate word-of-mouth ambassador marketing. We empower people to be ambassadors for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, MVMT Watches, Huel, Fabletics, and the list goes on. And we are lucky to have ≈ 1 million users!
