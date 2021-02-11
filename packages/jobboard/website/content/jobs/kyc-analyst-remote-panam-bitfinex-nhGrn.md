@@ -1,6 +1,6 @@
 ---
-title: "KYC Analyst [Remote] - Panamá"
-location: "Operations"
+title: "KYC Analyst"
+location: "Remote"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/kyc-analyst-remote-panama"
@@ -10,7 +10,7 @@ hashtags: "#analysis,#windows,#management,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "To apply as a kyc analyst [remote] at Bitfinex, you preferably need to have some knowledge of: experience in: #analysis, #windows, #management."
+summary: "To apply as a KYC Analyst at Bitfinex, you preferably need to have some knowledge of: #analysis, #windows, #management."
 summaryBackup: "Bitfinex is looking for a kyc analyst [remote] that has experience in: #analysis, #windows, #management."
 featured: 20
 ---
