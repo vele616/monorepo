@@ -1,18 +1,18 @@
 ---
-title: "QA Engineer [Remote]"
+title: "QA Engineer"
 location: "Engineering"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/qa-engineer-remote"
 applyUrl: "https://bitfinex.recruitee.com/o/qa-engineer-remote/c/new"
 timestamp: 1613001600000
-hashtags: "#javascript,#python,#html,#git,#monitoring"
+hashtags: "#javascript,#python,#cypress,#html,#git,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have 3+ years of experience in QA, Bitfinex is looking for someone with your skillset."
 summaryBackup: "Love #javascript, #python, #html? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## Job description
@@ -21,9 +21,9 @@ featured: 20
 
 We're on a mission to create the most innovative and industry-leading cryptocurrencies exchange.
 
-Our team is**globally distributed**, so clear communication is critical. We are in constant contact as we hustle to develop, support, and deliver the best platform possible for our users. If you get excited about being in an industry that is breaking new ground and have a disposition of confidence towards challenging technical feats, we want to talk to you.
+Our team is **globally distributed**, so clear communication is critical. We are in constant contact as we hustle to develop, support, and deliver the best platform possible for our users. If you get excited about being in an industry that is breaking new ground and have a disposition of confidence towards challenging technical feats, we want to talk to you.
 
-We’re currently looking for a**Senior QA Engineer**to join our team. The position is**remote**and available to anyone self-driven, and with the experience and capacity to contribute to our vision.
+We’re currently looking for a **Senior QA Engineer** to join our team. The position is **remote** and available to anyone self-driven, and with the experience and capacity to contribute to our vision.
 
 ## Key responsibilities
 
