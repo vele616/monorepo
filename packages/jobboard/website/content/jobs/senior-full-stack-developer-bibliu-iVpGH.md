@@ -6,13 +6,13 @@ companyName: "BibliU"
 url: "https://bibliu.recruitee.com/o/senior-full-stack-developer"
 applyUrl: "https://bibliu.recruitee.com/o/senior-full-stack-developer/c/new"
 timestamp: 1613001600000
-hashtags: "#javascript,#content,#aws,#ui/ux,#management,#marketing,#operations,#rest,#English"
-jobType: "other"
+hashtags: "#javascript,#nodejs,#aws,#ui/ux,#management,#marketing,#operations,#content,#rest,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bibliu"
 companyWebsite: "https://www.bibliu.com/"
-summary: "Interested in new opportunities and have have experience with building and designing REST APIs? BibliU has a job opening for a senior full stack developer."
+summary: "Interested in new opportunities and have have experience with building and designing REST APIs? BibliU has a job opening for a Senior Full Stack Developer."
 summaryBackup: "Excited about #javascript, #content, #aws? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Job description
@@ -21,7 +21,7 @@ Full-Stack Engineer (Javascript)
 
 **Location:** Fully remote
 
-**Experience:** Minimum 3 years**This role is 100% remote. We are looking for SoftwareDevelopers from the EU and Australia**
+**Experience:** Minimum 3 years **This role is 100% remote. We are looking for Software Developers from the EU and Australia**
 
 ## Full time (contract)
 
