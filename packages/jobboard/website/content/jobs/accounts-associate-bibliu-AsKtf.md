@@ -10,7 +10,7 @@ hashtags: "#management,#finance,#xero,#content,#sales,#marketing,#office,#analys
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bibliu"
 companyWebsite: "https://www.bibliu.com/"
-summary: "If you have 1-3 years of accountingexperience in private practice or industry, BibliU is looking for someone with your knowledge."
+summary: "If you have 1-3 years of accounting experience in private practice or industry, BibliU is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #management, #finance? Check out this job post!"
 featured: 8
 ---
