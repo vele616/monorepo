@@ -1,6 +1,6 @@
 ---
-title: "KYC Analyst [Remote]"
-location: "Operations"
+title: "KYC Analyst"
+location: "Remote"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/kyc-analyst-remote"
@@ -10,9 +10,9 @@ hashtags: "#analysis,#windows,#management,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Love experience in: #analysis, #windows, #management? Check out this job post!"
-summaryBackup: "To apply as a kyc analyst [remote] at Bitfinex, you preferably need to have some knowledge of: #analysis, #windows, #management."
-featured: 20
+summary: "To apply as a KYC Analyst at Bitfinex, you preferably need to have some knowledge of: #analysis, #windows, #management."
+summaryBackup: "To apply as a KYC Analyst at Bitfinex, you preferably need to have some knowledge of: #analysis, #windows, #management."
+featured: 5
 ---
 
 ## Job description
