@@ -8,11 +8,10 @@ applyUrl: "https://boards.greenhouse.io/brave/jobs/2604828#app"
 timestamp: 1613001600000
 hashtags: "#javascript,#python,#java,#rest,#English"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "To apply as a machine learning engineer at Brave, you preferably need to have experience with the Chromium code base or other similar browser code base."
+summary: "To apply as a Machine Learning Engineer at Brave, you preferably need to have working knowledge of JavaScript and C++."
 summaryBackup: "Brave is looking for a machine learning engineer that has experience in: #javascript, #python, #java."
-featured: 20
+featured: 17
 ---
 
 Brave is looking for a Machine Learning Engineer to work on advancing Brave’s use of in-browser machine learning in features like Brave Ads (our system that rewards users for seeing privacy respecting ads) and Brave Today (our news product).  Your work will impact the 24+MM monthly Brave users, and your work will improve some of the most popular parts of the Brave product.
