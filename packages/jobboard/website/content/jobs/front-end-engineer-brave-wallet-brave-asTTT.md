@@ -1,21 +1,20 @@
 ---
-title: "Front End Engineer / Brave Wallet"
+title: "Front End Engineer"
 location: "Anywhere"
 host: "https://boards.greenhouse.io/brave"
 companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/2789636"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/2789636#app"
 timestamp: 1613001600000
-hashtags: "#javascript,#reactjs,#office,#English"
+hashtags: "#javascript,#reactjs,#crypto,#office,#English"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "Brave intends to hire a new front end engineer. If you have 5+ years experience with application development, consider applying."
+summary: "Brave intends to hire a new Front End Engineer. If you have 5+ years experience with application development, consider applying."
 summaryBackup: "To apply as a front end engineer at Brave, you preferably need to have some knowledge of: #javascript, #reactjs, #office."
-featured: 20
+featured: 4
 ---
 
-Brave is looking for an experienced Senior Software Engineer to work on cryptocurrency integrations with Brave.  You'll work on our Brave Wallet.  This is a high­ profile and impactful, hands­-on position.  Work together with our developers and privacy/security experts to help us take our browser to the next level.
+Brave is looking for an experienced Senior Software Engineer to work on cryptocurrency integrations with Brave.  You'll work on our Brave Wallet.  This is a high­ profile and impactful, hands-on position.  Work together with our developers and privacy/security experts to help us take our browser to the next level.
 
 ## Requirements
 
