@@ -1,5 +1,5 @@
 ---
-title: "Marketing Executive (Remote)"
+title: "Marketing Executive"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
@@ -10,7 +10,7 @@ hashtags: "#marketing,#management,#socialmedia,#content,#sales,#ui/ux,#operation
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Interested in new opportunities and have demonstrable experience in a wide range of digital marketing including marketing database management, email marketing, social media, SEO, display advertising campaigns and events promotion? Bitfinex has a job opening for a marketing executive."
+summary: "Interested in new opportunities and have demonstrable experience in a wide range of digital marketing including marketing database management, email marketing, social media, SEO, display advertising campaigns and events promotion? Bitfinex has a job opening for a Marketing Executive."
 summaryBackup: "Bitfinex is looking for a marketing executive that has experience in: #marketing, #management, #socialmedia."
 featured: 20
 ---
@@ -26,8 +26,6 @@ Highly creative with experience in identifying target audiences and devising dig
 Currently Looking for:
 
 ## Marketing Executive (Remote)
-
-## ​
 
 ## Job description
 
