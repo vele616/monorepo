@@ -1,18 +1,18 @@
 ---
-title: "Remote Data Engineer / Superside"
+title: "Remote Data Engineer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/80DE22BB78/"
 applyUrl: "https://apply.workable.com/nixa/j/80DE22BB78/apply/"
 timestamp: 1613001600000
-hashtags: "#ui/ux,#operations,#analysis,#python,#java,#scala,#css,#aws,#branding,#management"
+hashtags: "#operations,#analysis,#python,#java,#scala,#ui/ux,#css,#aws,#branding,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "If you have 3+ years of experience with one general purpose programming language, Nixa.io has a job opening for a remote data engineer"
+summary: "If you have 3+ years of experience with one general purpose programming language, Nixa.io has a job opening for a Remote Data Engineer"
 summaryBackup: "To apply as a remote data engineer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #operations, #analysis."
-featured: 20
+featured: 15
 ---
 
 ## Description
