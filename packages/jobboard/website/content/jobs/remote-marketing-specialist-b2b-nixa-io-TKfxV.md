@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io is searching for a Remote Marketing Specialist that has 1-3 years of professional experience within marketing analytics, content writing, PPC channels, CMS and SEO."
 summaryBackup: "Nixa.io is looking for a remote marketing specialist that has experience in: #marketing, #content, #analysis."
 featured: 9
+archived: "true"
 ---
 
 ## Description
