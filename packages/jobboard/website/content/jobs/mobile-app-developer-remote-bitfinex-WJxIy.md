@@ -24,8 +24,11 @@ Our team is fully remote and globally distributed to capture the best talent fro
 ## Mobile App Developer \[Remote\]
 
 **Job description** As a Mobile-App Developer, you will be a part of the team that works on the development of the Bitfinex mobile applications. This includes:
+
 **New Features -** Bitfinex continuously strives to create innovative new features in order to provide the most professional trading experience for customers. These are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry. 
+
 **Scalability -** The mobile application must remain effortlessly smooth, responsive, and real-time for customers as the platform continues to scale to accommodate new user growth. 
+
 **Data Visualization-** The data we present to our users is the result of tailored algorithms, on top of the incredible amount of data our platform produces daily, and we continue to experiment with new ways to display this most effectively.Design - Build beautiful reactive applications and trading tools.
 
 ## Requirements
