@@ -1,18 +1,18 @@
 ---
-title: "Mobile App Developer [Remote]"
-location: "Engineering"
+title: "Mobile App Developer"
+location: "Remote"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/mobile-app-developer-remote"
 applyUrl: "https://bitfinex.recruitee.com/o/mobile-app-developer-remote/c/new"
 timestamp: 1613001600000
-hashtags: "#javascript,#reactjs,#windows,#scrum,#rest,#finance,#optimization"
+hashtags: "#javascript,#reactjs,#rest,#windows,#scrum,#finance,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "If you have these are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry, Bitfinex is looking for someone with your knowledge."
+summary: "If you are highly proficient in JavaScript and ES6+, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Bitfinex is looking for a mobile app developer [remote] that has experience in: #javascript, #reactjs, #windows."
-featured: 20
+featured: 5
 ---
 
 ## Job description
@@ -23,7 +23,7 @@ Our team is fully remote and globally distributed to capture the best talent fro
 
 ## Mobile App Developer \[Remote\]
 
-**Job description**As a Mobile-App Developer, you will be a part of the team that works on the development of the Bitfinex mobile applications. This includes:**New Features -** Bitfinex continuously strives to create innovative new features in order to provide the most professional trading experience for customers. These are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry.**Scalability -** The mobile application must remain effortlessly smooth, responsive, and real-time for customers as the platform continues to scale to accommodate new user growth.**Data Visualization-** The data we present to our users is the result of tailored algorithms, on top of the incredible amount of data our platform produces daily, and we continue to experiment with new ways to display this most effectively.Design - Build beautiful reactive applications and trading tools.
+**Job description**As a Mobile-App Developer, you will be a part of the team that works on the development of the Bitfinex mobile applications. This includes: **New Features -** Bitfinex continuously strives to create innovative new features in order to provide the most professional trading experience for customers. These are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry. **Scalability -** The mobile application must remain effortlessly smooth, responsive, and real-time for customers as the platform continues to scale to accommodate new user growth. **Data Visualization-** The data we present to our users is the result of tailored algorithms, on top of the incredible amount of data our platform produces daily, and we continue to experiment with new ways to display this most effectively.Design - Build beautiful reactive applications and trading tools.
 
 ## Requirements
 
