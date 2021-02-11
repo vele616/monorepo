@@ -7,7 +7,7 @@ url: "https://apply.workable.com/balena/j/EBEF590056/"
 applyUrl: "https://apply.workable.com/balena/j/EBEF590056/apply/"
 timestamp: 1613001600000
 hashtags: "#reactjs,#ui/ux,#optimization,#management,#office,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/balena"
 companyWebsite: "https://balena.io/"
 summary: "Balena is searching for a frontend engineer that has based on our experience seeing thousands of devices running in production environments."
