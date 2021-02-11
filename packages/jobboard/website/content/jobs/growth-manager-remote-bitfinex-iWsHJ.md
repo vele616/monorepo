@@ -1,18 +1,18 @@
 ---
-title: "Growth Manager (Remote)"
+title: "Growth Manager"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/growth-manager-remote"
 applyUrl: "https://bitfinex.recruitee.com/o/growth-manager-remote/c/new"
 timestamp: 1613001600000
-hashtags: "#socialmedia,#content,#branding,#management,#windows,#analysis,#ui/ux,#marketing,#asana,#optimization"
+hashtags: "#management,#analysis,#crypto,#ui/ux,#marketing,#asana,#optimization,#windows,#socialmedia,#content,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "If you have relevant experience in growth and analysis roles for digital products, working alongside product, engineering, and marketing teams, developing strategic acquisition and retention plans to drive growth and maximizing immediate and long, Bitfinex has a job opening for a growth manager"
+summary: "If you have relevant experience in growth and analysis roles for digital products, working alongside product, engineering, and marketing teams, developing strategic acquisition and retention plans to drive growth and maximizing immediate and long, Bitfinex has a job opening for a Growth Manager"
 summaryBackup: "Love #socialmedia, #content, #branding? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job description
@@ -27,7 +27,7 @@ We are currently looking for:
 
 ## Growth Manager (Remote)
 
-## **​****Job description**
+**Job description**
 
 Bitfinex launched its built-in news aggregator and social platform - Bitfinex Pulse. It was created to provide crypto traders with a valuable and safe environment to share and grow, which will eventually encourage a stronger crypto community. With the traders’ interests in mind, Bitfinex Pulse is a social network tailored to meet the needs of crypto traders, equipped with various features and functionalities that will benefit them, and providing Bitfinex’s growing customer base with the opportunity to leverage the exchange’s community to get a trading edge.
 
