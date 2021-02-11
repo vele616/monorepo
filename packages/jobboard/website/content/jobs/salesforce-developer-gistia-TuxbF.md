@@ -1,18 +1,18 @@
 ---
 title: "Salesforce Developer"
-location: ""
+location: "Remote"
 host: "https://gistia.breezy.hr/"
 companyName: "gistia"
 url: "https://gistia.breezy.hr/p/71e39fe9874c-salesforce-developer"
 applyUrl: "https://gistia.breezy.hr/p/71e39fe9874c-salesforce-developer/apply"
 timestamp: 1613001600000
-hashtags: "#ui/ux,#management,#marketing,#sales,#analysis,#translation,#monitoring,#optimization"
+hashtags: "#management,#optimization,#sales,#marketing,#analysis,#translation,#ui/ux,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://gistia.breezy.hr/"
 summary: "To apply as a salesforce developer at Gistia, you preferably need to have some knowledge of: experience in: #ui/ux, #management, #marketing."
 summaryBackup: "Gistia is looking for a salesforce developer that has experience in: #ui/ux, #management, #marketing."
-featured: 20
+featured: 12
 ---
 
 ## Team Member Level
