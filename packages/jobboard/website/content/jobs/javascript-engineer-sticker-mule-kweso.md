@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#rails,#nodejs,#rubylang,#docker,#operations,#br
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sticker-mule"
 companyWebsite: "https://www.stickermule.com/"
-summary: "Sticker Mule is looking for a javascript engineer that has experience in: experience in: #javascript, #reactjs, #rails."
+summary: "Sticker Mule is looking for a Javascript Engineer that has experience in: #javascript, #reactjs, #rails."
 summaryBackup: "To apply as a javascript engineer at Sticker Mule, you preferably need to have some knowledge of: #javascript, #reactjs, #rails."
-featured: 20
+featured: 3
 ---
 
 **About Sticker Mule**
