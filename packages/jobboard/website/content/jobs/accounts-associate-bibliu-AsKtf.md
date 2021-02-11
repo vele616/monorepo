@@ -6,13 +6,13 @@ companyName: "BibliU"
 url: "https://bibliu.recruitee.com/o/accounts-associate"
 applyUrl: "https://bibliu.recruitee.com/o/accounts-associate/c/new"
 timestamp: 1613001600000
-hashtags: "#sales,#management,#finance,#content,#marketing,#office,#analysis"
+hashtags: "#management,#finance,#xero,#content,#sales,#marketing,#office,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bibliu"
 companyWebsite: "https://www.bibliu.com/"
 summary: "If you have 1-3 years of accountingexperience in private practice or industry, BibliU is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #management, #finance? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Job description
@@ -79,7 +79,6 @@ We are looking for someone to start this role as soon as possible, so applicatio
 Your qualifications and experience:
 
 *   AAT qualified (required)
-*   A great academic track record
 *   A great academic track record
 *   Proficient experience in Double Entry Bookkeeping
 *   1-3 years of accountingexperience in private practice or industry
