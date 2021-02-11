@@ -1,18 +1,18 @@
 ---
-title: "Front End Developer [Remote]"
+title: "Front End Developer"
 location: "Engineering"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/front-end-developer-remote"
 applyUrl: "https://bitfinex.recruitee.com/o/front-end-developer-remote/c/new"
 timestamp: 1613001600000
-hashtags: "#javascript,#reactjs,#ui/ux,#scrum,#rest,#finance"
+hashtags: "#javascript,#reactjs,#rest,#ui/ux,#scrum,#finance"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Bitfinex is searching for a front end developer [remote] that has these are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry."
+summary: "Bitfinex is searching for a Front End Developer that has experience with React, Flux, SASS, Redux and the core principles surrounding these."
 summaryBackup: "Bitfinex is looking for a front end developer [remote] that has experience in: #javascript, #reactjs, #ui/ux."
-featured: 20
+featured: 1
 ---
 
 ## Job description
@@ -27,7 +27,7 @@ Founded in 2012, Bitfinex was one of the first professional platforms set up to 
 
 Our aim is to create a free and accessible global digital economy by disrupting the current financial services industry.
 
-Our team is**entirely remote**, composed of individuals with an ownership mentality; no one waits to be told what to do. Each member of the team is a highly motivated self-starter that is comfortable with autonomy and believes in lifelong learning. When we’re not working, we’re dreaming about it. We place our egos aside and thrive within a culture that fosters one another from the birth of a concept to launch of a product.
+Our team is **entirely remote**, composed of individuals with an ownership mentality; no one waits to be told what to do. Each member of the team is a highly motivated self-starter that is comfortable with autonomy and believes in lifelong learning. When we’re not working, we’re dreaming about it. We place our egos aside and thrive within a culture that fosters one another from the birth of a concept to launch of a product.
 
 At Bitfinex you have the freedom to work as you please - all that matters is execution.
 
@@ -35,7 +35,7 @@ Join us and help lay the foundation for a decentralized future.
 
 ## Key responsibilities
 
-As a Front-end Developer, you will be a part of the team that works on the development of theBitfinex web and mobile applications. This includes:
+As a Front-end Developer, you will be a part of the team that works on the development of the Bitfinex web and mobile applications. This includes:
 
 **New Features**\-Bitfinex continuously strives to create innovative new features in order to provide the most professional trading experience for customers. These are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry.
 
