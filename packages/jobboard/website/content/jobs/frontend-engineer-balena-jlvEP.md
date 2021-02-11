@@ -1,18 +1,18 @@
 ---
 title: "Frontend Engineer"
-location: ""
+location: "Remote"
 host: "https://apply.workable.com/balena/"
-companyName: "balena"
+companyName: "Balena"
 url: "https://apply.workable.com/balena/j/EBEF590056/"
 applyUrl: "https://apply.workable.com/balena/j/EBEF590056/apply/"
 timestamp: 1613001600000
-hashtags: "#reactjs,#ui/ux,#management,#office,#optimization,#English"
+hashtags: "#reactjs,#ui/ux,#optimization,#management,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/balena"
 companyWebsite: "https://balena.io/"
 summary: "Balena is searching for a frontend engineer that has based on our experience seeing thousands of devices running in production environments."
 summaryBackup: "Balena is looking for a frontend engineer that has experience in: #reactjs, #ui/ux, #management."
-featured: 20
+featured: 10
 ---
 
 ## Description
