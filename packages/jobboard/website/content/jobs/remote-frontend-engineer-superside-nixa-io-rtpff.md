@@ -1,5 +1,5 @@
 ---
-title: "Remote Frontend Engineer / Superside"
+title: "Frontend Engineer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
@@ -12,12 +12,12 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "If you have experience with React and Node, Nixa.io is looking for someone with your knowledge."
 summaryBackup: "Nixa.io is looking for a remote frontend engineer that has experience in: #ui/ux, #javascript, #reactjs."
-featured: 20
+featured: 3
 ---
 
 ## Description
 
-Nixa.io is currently working with [Superside](https://www.superside.com/) to hire a Frontend Engineer to their engineering team.Superside is a remote future-of-work startup that delivers great design at scale to global brands 24/7 — from everyday production work to large-scale strategic design solutions. By building workflow technology and an instant and fully-managed process, Superside makes design hassle-free for customers like Facebook, Redbull, Puma, Amazon, Salesforce, Cisco, HP, Twitch, Airbus, L'Oreal, Tiffany & Co. and more. Superside is backed by Y Combinator, Slack Fund, Freestyle Capital and High Alpha Capital. We're a fully distributed team of ex tier one agency designers and project managers located all around the world, spanning 58 countries and 19 timezones.
+Nixa.io is currently working with [Superside](https://www.superside.com/) to hire a Frontend Engineer to their engineering team. Superside is a remote future-of-work startup that delivers great design at scale to global brands 24/7 — from everyday production work to large-scale strategic design solutions. By building workflow technology and an instant and fully-managed process, Superside makes design hassle-free for customers like Facebook, Redbull, Puma, Amazon, Salesforce, Cisco, HP, Twitch, Airbus, L'Oreal, Tiffany & Co. and more. Superside is backed by Y Combinator, Slack Fund, Freestyle Capital and High Alpha Capital. We're a fully distributed team of ex tier one agency designers and project managers located all around the world, spanning 58 countries and 19 timezones.
 
 Mission: Create more equal economic opportunities globally
 
