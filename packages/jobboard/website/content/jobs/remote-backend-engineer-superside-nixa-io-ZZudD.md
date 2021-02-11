@@ -1,18 +1,18 @@
 ---
-title: "Remote Backend Engineer / Superside"
-location: "Oslo, Oslo, Norway"
+title: "Backend Engineer"
+location: "Remote"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/6DB34986DB/"
 applyUrl: "https://apply.workable.com/nixa/j/6DB34986DB/apply/"
 timestamp: 1613001600000
-hashtags: "#ui/ux,#spring,#java,#kotlin,#management,#aws,#branding,#office,#English"
+hashtags: "#spring,#java,#kotlin,#management,#aws,#ui/ux,#branding,#office,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "To apply as a remote backend engineer at Nixa.io, you preferably need to have experience with Spring Boot and Hibernate."
+summary: "To apply as a remote Backend Engineer at Nixa.io, you preferably need to have experience with Spring Boot and Hibernate."
 summaryBackup: "Nixa.io is looking for a remote backend engineer that has experience in: #ui/ux, #spring, #java."
-featured: 20
+featured: 7
 ---
 
 ## Description
