@@ -10,7 +10,7 @@ hashtags: "#management,#office,#analysis,#javascript,#css,#html,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smile-io"
 companyWebsite: "https://smile.io/"
-summary: "Smile.io is searching for an Experience Manager that has as a member of our Merchant Experience team, you will play a vital role in communicating directly with our eCommerce merchants to help them get the most out of Smile and grow their business."
+summary: "Smile.io is searching for an Experience Manager that have past experience as a Customer Success Manager at a SaaS company."
 summaryBackup: "Excited about #management, #javascript, #css? Check out this job post!"
 featured: 6
 ---
