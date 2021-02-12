@@ -10,7 +10,7 @@ hashtags: "#management,#marketing,#sales"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "If you have experience with clinical studies, consider applying to Curebase's job post for a new business development associate."
+summary: "If you have experience with clinical studies, consider applying to Curebase's job post for a new Business Development Associate."
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 20
 ---
@@ -19,7 +19,6 @@ featured: 20
 
 If you answered "yes", then the Clinical Business Development Associate role at Curebase is for you! We are a decentralized clinical trial platform, taking medical research out of the traditional hospital settings and bringing it directly to patients at home and with their own doctors. Our software allows any patient to contribute to medical research, and any healthcare provider to contribute to cutting-edge research. Our clinical trials reach more diverse patients, faster, and at lower cost than traditional clinical trials, and it has never been more important than now during the COVID-19 crisis. We are a fast-paced, high growth company looking for people that have an entrepreneurial spirit and want to grow with us.
 
-* * *
 
 ## What you'll do:
 
@@ -30,7 +29,6 @@ As a business development associate at a growing startup, you'll play a critical
 *   Set up meetings with potential customers and introduce them to Curebase.
 *   Create and manage materials for customers such as presentations, legal documents, customer information requests, RFPs, etc.
 
-* * *
 
 ## Requirements:
 
