@@ -6,13 +6,12 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4211678003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4211678003#app"
 timestamp: 1613088000000
-hashtags: "#javascript,#terraform,#aws,#management,#office"
+hashtags: "#javascript,#terraform,#reactjs,#aws,#management,#office"
 jobType: "software"
-
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have interest in healthcare, experience building quality web applications, and experience in one of our current skill gaps, Curebase is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #terraform, #aws? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## About the job
