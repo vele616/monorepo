@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "Interested in new opportunities and have 5 years of experience as an analyst, ideally in a digital marketplace? Vinterior has a job opening for a Senior Growth Analyst."
 summaryBackup: "Excited about #marketing, #ui/ux, #socialmedia? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description
