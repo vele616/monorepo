@@ -1,6 +1,6 @@
 ---
 title: "Full Stack Developer"
-location: "Kitchener, Ontario, Canada"
+location: "Remote"
 host: "https://apply.workable.com/smileio/"
 companyName: "Smile.io"
 url: "https://apply.workable.com/smileio/j/58C3A49F1A/"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#rails,#rubylang,#ui/ux,#git,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smile-io"
 companyWebsite: "https://smile.io/"
-summary: "Interested in new opportunities and have 3+ years technical experience in software development? Smile.io has a job opening for a full stack developer."
+summary: "Interested in new opportunities and have 3+ years technical experience in software development? Smile.io has a job opening for a Full Stack Developer."
 summaryBackup: "Excited about #reactjs, #rails, #rubylang? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Description
@@ -27,7 +27,6 @@ As a Full Stack Developer, you'll be building features across the stack, taking 
 
 *   Design, build and maintain APIs, services and systems
 *   Build intuitive web applications using modern web frameworks
-
 *   Build new features for internal and external users
 *   Handle escalations from merchant support requests
 *   Participate in the product development process from start to finish, from helping scope projects to measuring their success and iterating based on feedback
