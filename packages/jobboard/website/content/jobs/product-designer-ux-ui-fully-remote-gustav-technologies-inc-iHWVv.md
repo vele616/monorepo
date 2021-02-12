@@ -1,18 +1,18 @@
 ---
-title: "Product Designer (UX/UI) - fully remote"
+title: "Product Designer"
 location: "Brooklyn, NY - Remote OK"
 host: "https://gustav-technologies-inc.breezy.hr/"
 companyName: "gustav-technologies-inc"
 url: "https://gustav-technologies-inc.breezy.hr/p/da7898ec7ded01-product-designer-ux-ui-fully-remote"
 applyUrl: "https://gustav-technologies-inc.breezy.hr/p/da7898ec7ded01-product-designer-ux-ui-fully-remote/apply"
 timestamp: 1613088000000
-hashtags: "#ui/ux,#css,#branding,#operations"
+hashtags: "#ui/ux,#sketch,#zeplin,#css,#branding,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gustav-technologies-inc"
 companyWebsite: "https://hellogustav.com/"
-summary: "If you have as a contract Product Designer at Gustav, you will collaborate and support the product and engineering team with the necessary assets to build the best customer experience and communicate a clear, consistent brand story, Gustav-technologies-inc is looking for someone with your knowledge."
+summary: "As a Product Designer at Gustav, you will be creating design guidelines for our products to ensure interface consistency across devices."
 summaryBackup: "Love #ui/ux, #css, #branding? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 Gustav is looking for a Product Designer to join our fully-remote, international team.
