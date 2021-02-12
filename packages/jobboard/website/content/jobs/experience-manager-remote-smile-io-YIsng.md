@@ -1,18 +1,18 @@
 ---
-title: "Experience Manager (Remote)"
-location: "Toronto, Ontario, Canada"
+title: "Experience Manager"
+location: "Remote"
 host: "https://apply.workable.com/smileio/"
 companyName: "Smile.io"
 url: "https://apply.workable.com/smileio/j/9AE9446077/"
 applyUrl: "https://apply.workable.com/smileio/j/9AE9446077/apply/"
 timestamp: 1613088000000
-hashtags: "#management,#javascript,#css,#html,#office,#analysis,#rest"
-jobType: "software"
+hashtags: "#management,#office,#analysis,#javascript,#css,#html,#rest"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smile-io"
 companyWebsite: "https://smile.io/"
-summary: "Smile.io is searching for an experience manager that has as a member of our Merchant Experience team, you will play a vital role in communicating directly with our eCommerce merchants to help them get the most out of Smile and grow their business."
+summary: "Smile.io is searching for an Experience Manager that has as a member of our Merchant Experience team, you will play a vital role in communicating directly with our eCommerce merchants to help them get the most out of Smile and grow their business."
 summaryBackup: "Excited about #management, #javascript, #css? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Description
