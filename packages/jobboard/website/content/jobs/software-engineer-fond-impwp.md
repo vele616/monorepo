@@ -41,7 +41,7 @@ Fond is headquartered in Portland, but we are currently operating as a fully rem
 *   A bachelor's degree in Computer Science, related technical field, or commensurate experience
 *   2+ years experience in production web application development
 *   1+ years of experience working with Ruby on Rails or an equivalent web framework and language
-*   Experience writing JavaScript code, either vanilla JS or using a framework such as [Node.js](http://Node.js) or React, Redux 
+*   Experience writing JavaScript code, either vanilla JS or using a framework such as Node.js or React, Redux 
 *   Unit and automated testing experience (e.g. RSpec, Selenium)
 *   3rd party API usage and integration experience
 *   RDBMS usage (e.g. MySQL, PostgreSQL)
