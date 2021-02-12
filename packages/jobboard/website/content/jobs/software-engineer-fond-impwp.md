@@ -6,13 +6,13 @@ companyName: "Fond"
 url: "https://jobs.lever.co/fond/a0fd2ee3-a3bf-4fa5-a385-fe24cd210e49"
 applyUrl: "https://jobs.lever.co/fond/a0fd2ee3-a3bf-4fa5-a385-fe24cd210e49/apply"
 timestamp: 1613088000000
-hashtags: "#reactjs,#rails,#ui/ux,#rubylang,#javascript,#android,#ios,#management,#css,#scrum"
+hashtags: "#reactjs,#rubylang,#javascript,#rails,#ui/ux,#android,#ios,#management,#css,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fond"
 companyWebsite: "http://fond.co/"
-summary: "If you have 2+ years experience in production web application development, consider applying to Fond's job post for a new software engineer."
+summary: "If you have 2+ years experience in production web application development, consider applying to Fond's job post for a new Software Engineer."
 summaryBackup: "To apply as a software engineer at Fond, you preferably need to have some knowledge of: #reactjs, #rails, #ui/ux."
-featured: 20
+featured: 8
 ---
 
 Fond is a SaaS platform that seamlessly consolidates employee rewards and recognition processes into one easy-to-use solution. With Fond, employees and managers can recognize each other, redeem rewards, access exclusive corporate discounts, and measure success so HR departments spend less time managing programs and more time driving results. Some of our current customers include Salesforce, Weight Watchers, and Stanford Healthcare, plus hundreds of others. Fond is a Y Combinator W12 company and funded by investors including DCM, Andreessen Horowitz and SV Angel. If you want to be part of the team that delivers industry-leading engagement and recognition capabilities for top companies, Fond is for you! 
