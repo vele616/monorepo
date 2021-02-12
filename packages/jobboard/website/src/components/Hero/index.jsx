@@ -49,7 +49,7 @@ const Hero = ({
           <Button onClick={scrollToSubscribe} className={'link--primary'}>
             {callToActionSubscribe}
           </Button>
-          <Link to="/search" className={'link--secondary'}>
+          <Link to="/search/" className={'link--secondary'}>
             {callToActionSearch}
           </Link>
         </div>
