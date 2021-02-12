@@ -1,18 +1,18 @@
 ---
-title: "Trade Support Associate - UK Remote"
-location: "London, England, United Kingdom"
+title: "Trade Support Associate"
+location: "Remote"
 host: "https://apply.workable.com/vinterior/"
 companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/039F6DF9D3/"
 applyUrl: "https://apply.workable.com/vinterior/j/039F6DF9D3/apply/"
 timestamp: 1613088000000
-hashtags: "#operations,#sales,#branding,#ui/ux,#management,#analysis,#crm,#office,#English"
+hashtags: "#operations,#sales,#management,#branding,#ui/ux,#analysis,#crm,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "To apply as a trade support associate at Vinterior, you preferably need to have you will be part of the Customer Experience team, dealing with our high."
+summary: "To apply as a Trade Support Associate at Vinterior, you preferably need to have previous experience in customer care or project/sales coordination."
 summaryBackup: "To apply as a trade support associate at Vinterior, you preferably need to have some knowledge of: #operations, #sales, #branding."
-featured: 20
+featured: 10
 ---
 
 ## Description
