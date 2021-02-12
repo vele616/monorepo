@@ -6,13 +6,13 @@ companyName: "Mavenoid"
 url: "https://mav.recruitee.com/o/head-of-sales"
 applyUrl: "https://mav.recruitee.com/o/head-of-sales/c/new"
 timestamp: 1613088000000
-hashtags: "#sales,#windows,#css,#branding,#management,#marketing"
+hashtags: "#sales,#management,#marketing,#windows,#css,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is looking for a head of sales that has experience in: experience in: #sales, #windows, #css."
 summaryBackup: "To apply as a head of sales at Mavenoid, you preferably need to have some knowledge of: #sales, #windows, #css."
-featured: 20
+featured: 5
 ---
 
 ## Job description
