@@ -1,18 +1,18 @@
 ---
-title: "DevRel Engineer - Documentation"
+title: "DevRel Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/gravitational?location=Remote"
 companyName: "Teleport"
 url: "https://jobs.lever.co/gravitational/6996599d-8f12-4baf-b164-454f101412c6"
 applyUrl: "https://jobs.lever.co/gravitational/6996599d-8f12-4baf-b164-454f101412c6/apply"
 timestamp: 1613088000000
-hashtags: "#golang,#rustlang,#javascript,#reactjs,#python,#kubernetes,#ui/ux,#git,#analysis"
+hashtags: "#golang,#rustlang,#python,#javascript,#reactjs,#kubernetes,#ui/ux,#git,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
-summary: "Interested in new opportunities and have interest and experience in writing documentation, explaining how things work and engaging with community? Teleport has a job opening for a devrel engineer."
-summaryBackup: "To apply as a devrel engineer at Teleport, you preferably need to have some knowledge of: #golang, #rustlang, #javascript."
-featured: 20
+summary: "Interested in new opportunities and have interest and experience in writing documentation, explaining how things work and engaging with community? Teleport has a job opening for a DevRel Engineer."
+summaryBackup: "To apply as a DevRel Engineer at Teleport, you preferably need to have some knowledge of: #golang, #rustlang, #javascript."
+featured: 15
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.
