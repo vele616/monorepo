@@ -6,13 +6,13 @@ companyName: "Fond"
 url: "https://jobs.lever.co/fond/ef38a2be-18c5-41dc-9109-a8239ff3e5bc"
 applyUrl: "https://jobs.lever.co/fond/ef38a2be-18c5-41dc-9109-a8239ff3e5bc/apply"
 timestamp: 1613088000000
-hashtags: "#reactjs,#rails,#ui/ux,#rubylang,#javascript,#android,#ios,#management,#css,#scrum"
+hashtags: "#reactjs,#rubylang,#javascript,#rails,#android,#ios,#management,#ui/ux,#css,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fond"
 companyWebsite: "http://fond.co/"
-summary: "Interested in new opportunities and have 4+ years experience in production web application development? Fond has a job opening for a senior software engineer."
+summary: "Interested in new opportunities and have 4+ years experience in production web application development? Fond has a job opening for a Senior Software Engineer."
 summaryBackup: "Excited about #reactjs, #rails, #ui/ux? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 Fond is a SaaS platform that seamlessly consolidates employee rewards and recognition processes into one easy-to-use solution. With Fond, employees and managers can recognize each other, redeem rewards, access exclusive corporate discounts, and measure success so HR departments spend less time managing programs and more time driving results. Some of our current customers include Salesforce, Weight Watchers, and Stanford Healthcare, plus hundreds of others. Fond is a Y Combinator W12 company and funded by investors including DCM, Andreessen Horowitz and SV Angel. If you want to be part of the team that delivers industry-leading engagement and recognition capabilities for top companies, Fond is for you! 
@@ -41,7 +41,7 @@ Fond is headquartered in Portland, but we are currently operating as a fully rem
 *   A bachelor's degree in Computer Science, related technical field, or commensurate experience
 *   4+ years experience in production web application development
 *   2+ years of experience working with Ruby on Rails or an equivalent web framework and language
-*   Experience writing JavaScript code, either vanilla JS or using a framework such as [Node.js](http://Node.js) or React, Redux
+*   Experience writing JavaScript code, either vanilla JS or using a framework such as Node.js or React, Redux
 *   Unit and automated testing experience (e.g. RSpec, Selenium)
 *   3rd party API usage and integration experience
 *   RDBMS usage (e.g. MySQL, PostgreSQL)
