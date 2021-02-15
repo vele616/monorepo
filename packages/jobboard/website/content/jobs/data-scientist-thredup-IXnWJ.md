@@ -6,13 +6,13 @@ companyName: "thredUP"
 url: "https://jobs.lever.co/thredup/c1fdd021-fae1-4895-9ae3-ae67d237002e"
 applyUrl: "https://jobs.lever.co/thredup/c1fdd021-fae1-4895-9ae3-ae67d237002e/apply"
 timestamp: 1613347200000
-hashtags: "#branding,#management,#python,#ui/ux,#operations,#sales,#analysis"
+hashtags: "#management,#analysis,#operations,#python,#ui/ux,#operations,#sales,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/thredup"
 companyWebsite: "https://www.thredup.com/"
-summary: "If you have 3 years of full time, professional experience, consider applying to ThredUP's job post for a new data scientist."
+summary: "If you have 3 years of full time, professional experience in data analytics, data science, or software engineering roles, consider applying to ThredUP's job post for a new Data Scientist."
 summaryBackup: "Love #branding, #management, #python? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **About thredUP**
@@ -23,7 +23,7 @@ At thredUP, we’re working to revolutionize the clothing industry and we're loo
 
 ## What you'll do:
 
-*   Implement algorithmic solutions to drive decisions around item acceptance, item pricing, and discounting and clearance strategies for 3.5M unique items in inventory and [1.5M](http://1.5M) new items every month
+*   Implement algorithmic solutions to drive decisions around item acceptance, item pricing, and discounting and clearance strategies for 3.5M unique items in inventory and 1.5M new items every month
 *   Uncover insights in our vast repository of raw data, and provide tactical guidance on how to achieve an assortment that maximizes growth and value for all marketplace participants
 *   Develop the algorithms and data strategy that power search and discovery, allowing buyers to seamlessly find items they love in our vast assortment
 *   Develop rigorous forecasting systems to bring predictability to our planning around inventory growth and economics
