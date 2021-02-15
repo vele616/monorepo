@@ -1,6 +1,6 @@
 ---
-title: "WordPress Technical Support at WP Rocket"
-location: "Lyon, Auvergne-Rhône-Alpes, France"
+title: "WordPress Technical Support"
+location: "Remote"
 host: "https://apply.workable.com/wp-media/"
 companyName: "WP Media"
 url: "https://apply.workable.com/wp-media/j/868F52CA49/"
@@ -10,9 +10,9 @@ hashtags: "#wordpress,#javascript,#php,#html,#content,#git,#office,#rest,#optimi
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wp-media"
 companyWebsite: "http://wp-media.me/"
-summary: "WP Media wishes to hire a new wordpress technical support at wp rocket. If you have 5 weeks per year, consider applying."
+summary: "WP Media wishes to hire a new Wordpress Technical Support. If you have an excellent understanding of HTML and PHP, and know some JavaScript, consider applying."
 summaryBackup: "Excited about #wordpress, #javascript, #php? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
@@ -31,7 +31,7 @@ Working on Technical Support at WP Rocket means assisting our customers with the
 
 [WP Rocket](https://wp-rocket.me) is a premium caching plugin for WordPress used by +1,400,000 websites and +160,000 customers worldwide. Our plugin makes sites go at the speed of light in just a few clicks. We love to make our customers’ lives easier, which is why WP Rocket applies key best web performance practices right upon activation.
 
-You will join our Support team, **we** **work remotely**, and our support teammates live all around the World
+You will join our Support team, **we work remotely**, and our support teammates live all around the World
 
 Every day, you will work closely with the rest of our Customer Support team and with our Developers.
 
@@ -43,7 +43,7 @@ In your everyday job in Technical Support, you should, first of all, enjoy conne
 
 Here is a list describing the tasks involved in this position (_do you happen to like making lists? So do we!_):
 
-*   You will provide **friendly and professional technical support** **to our customers via email** (we use HelpScout): you will answer questions from both technical and non-technical users, and troubleshoot problems.
+*   You will provide **friendly and professional technical support to our customers via email** (we use HelpScout): you will answer questions from both technical and non-technical users, and troubleshoot problems.
 *   Your invaluable **feedback to the development and product team** will help improve our customers’ experience.
 *   You will **contribute to the plugin documentation** by creating and updating content.
 *   You will **report issues on GitHub**
@@ -70,19 +70,19 @@ We will train you for this, and we will always have your back, don’t worry, bu
 
 WordPress has no secrets for you, but you always follow its evolution and love to test new features. You have an excellent understanding of HTML and PHP, and know some JavaScript (_but this is just a bonus point_).You should be comfortable using WordPress hooks.
 
-**Be a proficient troubleshooter**You love solving problems and getting to the heart of an issue. You’re able to communicate the steps you took and summarize the problem to help customers and teammates understand it.
+**Be a proficient troubleshooter**
+
+You love solving problems and getting to the heart of an issue. You’re able to communicate the steps you took and summarize the problem to help customers and teammates understand it.
 
 Do you want to know three other things we appreciate about our candidates?
 
-*   **Previous freelance or remote job experience.**Slack will be your virtual office, where all the life of the company takes place.
-*   **The involvement in the WordPress community.**We support our teammates to attend and/or speak at WordCamps, and to volunteer within the community.
+*   **Previous freelance or remote job experience.** Slack will be your virtual office, where all the life of the company takes place.
+*   **The involvement in the WordPress community.** We support our teammates to attend and/or speak at WordCamps, and to volunteer within the community.
 *   **Love for cats or Corgis!** 😸🐶 What would our working days be without our four-legged friends?
 
 ## What You Should Know About Our Company: WP Media
 
 Founded in 2014 in the beautiful Lyon, France, [WP Media](http://wp-media.me) is an equal opportunity employer with a distributed team of +35 teammates living around the world.
-
-![](https://lh5.googleusercontent.com/mnGfvJu-RQt2Z3cL8WRaxtuuH3Fu1xZc9hLoceC5Toj6Qp4zzoo38BPDc9JgMZi8maEp2sRmGOjHcUc58Jrdup8ECEqCnoOYmpNKzOaNPW3Oyxz94E8AMyixp4ObeWgomOct1jWI)
 
 Our plugin makes sites go at the speed of light in just a few clicks. We love to make our customers’ lives easier, which is why WP Rocket applies key best web performance practices right upon activation.
 
@@ -96,8 +96,6 @@ These are the fundamental values that support our life as a team.
 
 We encourage our employees to enjoy their family and their hobbies with flexible working hours and minimum vacation policy (you should take a _minimum_ of 5 weeks per year: really, we don’t count them!).
 
-![](https://lh2.googleusercontent.com/-hBh7lWq-NFRhzugW9rip1AlDNN6KkAzpcQOT1nA9E4xmG1jIgI_kHEho1QbfDf8XKhTxA2SSsBJNdmC5ptsOTsQ8gTKj-nNxn_jfZHklTb2gG2buJyeQ3riN5RB0kv5302IAkJL)
-
 **We care about the work you do, not about the hours you sit at your desk**.
 
 You can organize your working day with flexible working hours. There are no time cards to stamp, just customers to make happy and friendly teammates to work with!
@@ -110,9 +108,7 @@ We have a [public salary grid](https://wp-rocket.me/blog/our-salary-grid-is-now-
 
 Every year, we organize a trip with the whole team and **spend a week of coworking and fun activities together.**
 
-To give you an idea, so far we have traveled to Spain, Portugal, and Mexico:
-
-![](https://lh5.googleusercontent.com/4sl8lW5HRUjrEcQRurpmDAdSmNF7ZSiaGwjsdbQuIpXd-EuIVjKal431OQAeG7X8StdS9wB37VvOziakg2vWu9ZZjSq2FurQI0SLO_stz2BnBsGSFhAOEQj0dMjka-QKxTD0_vqp)
+To give you an idea, so far we have traveled to Spain, Portugal, and Mexico!
 
 Now that we've told you so much about us, it's your turn. 😉
 
