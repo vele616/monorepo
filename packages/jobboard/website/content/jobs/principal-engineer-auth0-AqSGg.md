@@ -6,13 +6,13 @@ companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/15ab646c-e662-4110-8cb4-0e40ea80db73"
 applyUrl: "https://jobs.lever.co/auth0/15ab646c-e662-4110-8cb4-0e40ea80db73/apply"
 timestamp: 1613347200000
-hashtags: "#ui/ux,#javascript,#aws,#azure,#kubernetes,#googlecloud,#management,#operations,#postgresql,#mongodb"
+hashtags: "#javascript,#aws,#azure,#kubernetes,#googlecloud,#ui/ux,#management,#operations,#postgresql,#mongodb"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
-summary: "Auth0 intends to hire a new principal engineer. If you have 10+ years of software development experience, consider applying."
+summary: "Auth0 intends to hire a new Principal Engineer. If you have 10+ years of software development experience, consider applying."
 summaryBackup: "Love #ui/ux, #javascript, #aws? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Auth0 is a unicorn that just closed a $120M Series F round of funding, with total capital raised to date of $330M and valuation of nearly $2B. We are growing rapidly and looking for exceptional new team members to add to our exceptional talent pool - and who will help take us to the next level of success. One team, one score. 
