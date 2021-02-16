@@ -6,13 +6,13 @@ companyName: "Ockam"
 url: "https://jobs.lever.co/ockam/9d47bd36-1661-4d8d-aab7-65f0dfb5416a"
 applyUrl: "https://jobs.lever.co/ockam/9d47bd36-1661-4d8d-aab7-65f0dfb5416a/apply"
 timestamp: 1613433600000
-hashtags: "#reactjs,#management,#javascript,#git,#css,#azure,#content,#ui/ux,#marketing,#analysis"
+hashtags: "#reactjs,#management,#javascript,#git,#gatsby,#azure,#content,#ui/ux,#marketing,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ockam"
 companyWebsite: "https://www.ockam.io/"
-summary: "Ockam is looking for a jam stack developer that has you will work closely with the Senior Product Marketing Manager to optimize user experiences across the site."
+summary: "Excited about #reactjs, #gatsby, #javascript? Check out this job post!"
 summaryBackup: "Excited about #reactjs, #management, #javascript? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 You will build the [Ockam.io](http://Ockam.io) website and other browser based user experiences for Ockam Developers.
