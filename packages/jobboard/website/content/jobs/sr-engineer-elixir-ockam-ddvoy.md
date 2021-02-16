@@ -10,7 +10,7 @@ hashtags: "#elixir,#rustlang,#kubernetes,#docker,#aws,#azure,#git,#management,#o
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ockam"
 companyWebsite: "https://www.ockam.io/"
-summary: "If you have 5+ years of experience, Ockam has a job opening for a sr Engineer"
+summary: "If you have 5+ years of experience, Ockam has a job opening for a Senior Engineer"
 summaryBackup: "Ockam is looking for a sr engineer that has experience in: #ui/ux, #rustlang, #git."
 featured: 3
 ---
