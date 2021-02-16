@@ -1,5 +1,5 @@
 ---
-title: "Product Manager - International"
+title: "Product Manager"
 location: "Copenhagen / Remote"
 host: "https://boards.greenhouse.io/pleo"
 companyName: "Pleo"
@@ -10,12 +10,11 @@ hashtags: "#marketing,#management,#sales,#analysis,#German,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "To apply as a product manager at Pleo, you preferably need to have you have worked with other markets before, and have a good understanding and relevant experience in product management and partnerships handling as well as a solid product education and experience."
+summary: "Excited about #marketing, #management, #sales? Check out this job post!"
 summaryBackup: "Excited about #marketing, #management, #sales? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
 
 Hello, world!Welcome to the role standing at the intersection between Product, Commercial, and Marketing.If you are curious and interested in these areas and more, if you enjoy breaking down problems and understanding impact, if you are a natural communicator but also fond of structure then keep on reading!
 
