@@ -1,18 +1,17 @@
 ---
-title: "Associate Software Engineer, Developer Relations"
+title: "Associate Software Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap"
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2771213"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2771213#app"
 timestamp: 1613433600000
-hashtags: "#unity,#ui/ux,#content,#spark,#jira,#office"
+hashtags: "#unity,#ui/ux,#jira,#content,#spark,#office"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Interested in new opportunities and have experience in working with JIRA Project Tracking is a plus? Current Job Openings at Magic Leap, Inc. has a job opening for an associate software engineer."
-summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for an associate software engineer that has experience in: #unity, #ui/ux, #content."
-featured: 20
+summary: "Interested in new opportunities and have experience in working with JIRA Project Tracking? Magic Leap has a job opening for an Associate Software Engineer."
+summaryBackup: "Magic Leap is looking for an Associate Software Engineer that has experience in: #unity, #ui/ux, #content."
+featured: 5
 ---
 
 Remote
@@ -59,4 +58,3 @@ You must have a strong passion for XR and an innate ability to identify develope
 
 *   Bachelor's degree is preferred
 
-#LI-REMOTE
