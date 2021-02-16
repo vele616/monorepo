@@ -1,18 +1,18 @@
 ---
-title: "Sr Engineer - Elixir"
+title: "Senior Engineer"
 location: "Anywhere|Remote"
 host: "https://jobs.lever.co/ockam?location=Anywhere%20%7C%20Remote"
 companyName: "Ockam"
 url: "https://jobs.lever.co/ockam/9956fbc8-6879-4b3e-ac60-38e4bda5adfb"
 applyUrl: "https://jobs.lever.co/ockam/9956fbc8-6879-4b3e-ac60-38e4bda5adfb/apply"
 timestamp: 1613433600000
-hashtags: "#ui/ux,#rustlang,#git,#kubernetes,#docker,#aws,#azure,#management,#operations"
+hashtags: "#elixir,#rustlang,#kubernetes,#docker,#aws,#azure,#git,#management,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ockam"
 companyWebsite: "https://www.ockam.io/"
-summary: "If you have 5+ years of experience, Ockam has a job opening for a sr engineer"
+summary: "If you have 5+ years of experience, Ockam has a job opening for a sr Engineer"
 summaryBackup: "Ockam is looking for a sr engineer that has experience in: #ui/ux, #rustlang, #git."
-featured: 20
+featured: 3
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated messaging libraries and infrastructure that is designed for the high throughput, low latency, intermittent connectivity requirements of IoT and connected machines.
