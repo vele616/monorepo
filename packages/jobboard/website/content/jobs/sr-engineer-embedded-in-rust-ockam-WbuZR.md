@@ -1,18 +1,18 @@
 ---
-title: "Sr Engineer - Embedded in Rust"
+title: "Sr Engineer"
 location: "Anywhere|Remote"
 host: "https://jobs.lever.co/ockam?location=Anywhere%20%7C%20Remote"
 companyName: "Ockam"
 url: "https://jobs.lever.co/ockam/f6de9fad-e555-4667-b65d-d768f63a12ef"
 applyUrl: "https://jobs.lever.co/ockam/f6de9fad-e555-4667-b65d-d768f63a12ef/apply"
 timestamp: 1613433600000
-hashtags: "#rustlang,#python,#ui/ux,#git,#management"
+hashtags: "#rustlang,#python,#cplusplus,#ui/ux,#git,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ockam"
 companyWebsite: "https://www.ockam.io/"
-summary: "Interested in new opportunities and have 10+ years of software development experience? Ockam has a job opening for a sr engineer."
+summary: "Interested in new opportunities and have 10+ years of software development experience? Ockam has a job opening for a Sr Engineer."
 summaryBackup: "Excited about #rustlang, #python, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated communication protocols and libraries that can work in resource constrained, intermittent connectivity IoT devices and connected machines. We provide these capabilities to developers as SDKs for embedded systems and edge devices.
