@@ -6,13 +6,13 @@ companyName: "Ockam"
 url: "https://jobs.lever.co/ockam/eefec395-531e-4bb1-9a79-0de02573c667"
 applyUrl: "https://jobs.lever.co/ockam/eefec395-531e-4bb1-9a79-0de02573c667/apply"
 timestamp: 1613433600000
-hashtags: "#rustlang,#ui/ux,#python,#git,#management,#kubernetes,#docker,#aws,#azure,#operations"
+hashtags: "#rustlang,#elixir,#python,#git,#management,#kubernetes,#docker,#aws,#azure,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ockam"
 companyWebsite: "https://www.ockam.io/"
 summary: "If you have 10+ years of engineering experience, Ockam is looking for someone with your skillset."
 summaryBackup: "Excited about #rustlang, #ui/ux, #python? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated communication protocols and libraries that can work in resource constrained, intermittent connectivity IoT devices and connected machines.
