@@ -6,13 +6,13 @@ companyName: "Parade"
 url: "https://jobs.lever.co/ParadeInc/2a4bc773-13d6-4406-80f6-4dc941e66885"
 applyUrl: "https://jobs.lever.co/ParadeInc/2a4bc773-13d6-4406-80f6-4dc941e66885/apply"
 timestamp: 1613433600000
-hashtags: "#management,#branding,#windows,#spark,#marketing,#office,#optimization"
+hashtags: "#management,#branding,#marketing,#windows,#spark,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/parade"
 companyWebsite: "http://yourparade.com/"
-summary: "Parade is looking for a production manager that has 5-7 years of Production/Product Development experience."
+summary: "Parade is looking for a Production Manager that has 5-7 years of Production/Product Development experience."
 summaryBackup: "To apply as a production manager at Parade, you preferably need to have some knowledge of: #management, #branding, #windows."
-featured: 20
+featured: 15
 ---
 
 **Parade is a self-expression brand.** We make Creative Basics—underwear that celebrates who you are today. We believe that women’s underwear is a replenishment category that needs a mass-market challenger brand focused on delivering style and fabric innovation. Our DNA is community-first and catalyzed via mobile experiences because we know it’s the best way to find her. Parade has been honored by the Webby Awards and featured in [InStyle](https://www.instyle.com/fashion/parade-underwear-review), [Nylon](https://www.nylon.com/parade-underwear-brand-founder), [Teen Vogue.](https://www.teenvogue.com/story/parade-underwear-thongs-review) [Refinery29](https://www.refinery29.com/en-us/2020/02/9351825/parade-game-time-size-inclusive-underwear-collection), [Forbes](https://www.forbes.com/sites/virgietovar/2019/11/19/new-underwear-brand-parade-offers-extended-sizing--sustainable-fabrics-for-9/#2a9abdb7192c) and other publications. Parade has raised more than $6M to date from top investors such as Greycroft and Lerer Hippeau, and the founders of Warby Parker, Casper, Bonobos, and Away. In our first full year, we're on track to do $10M in revenue and sell over 750K pairs of underwear!
