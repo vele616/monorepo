@@ -6,13 +6,13 @@ companyName: "Parade"
 url: "https://jobs.lever.co/ParadeInc/9a351113-e40b-4143-b914-da83cfb0263e"
 applyUrl: "https://jobs.lever.co/ParadeInc/9a351113-e40b-4143-b914-da83cfb0263e/apply"
 timestamp: 1613433600000
-hashtags: "#windows,#branding,#marketing,#socialmedia,#spark,#ui/ux,#analysis,#office,#optimization"
+hashtags: "#a/v,#branding,#ui/ux,#analysis,#marketing,#socialmedia,#spark,#office,#windows,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/parade"
 companyWebsite: "http://yourparade.com/"
-summary: "Parade is searching for an animator and video editor that has 3+ years of professional experience working in animation and/or video editing."
+summary: "Parade is searching for an Animator and Video Editor that has 3+ years of professional experience working in animation and/or video editing."
 summaryBackup: "Excited about #windows, #branding, #marketing? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 **Parade is a self-expression brand.** We make Creative Basics—underwear that celebrates who you are today. We believe that women’s underwear is a replenishment category that needs a mass-market challenger brand focused on delivering style and fabric innovation. Our DNA is community-first and catalyzed via mobile experiences because we know it’s the best way to find her. Parade has been honored by the Webby Awards and featured in [InStyle](https://www.instyle.com/fashion/parade-underwear-review), [Nylon](https://www.nylon.com/parade-underwear-brand-founder), [Teen Vogue.](https://www.teenvogue.com/story/parade-underwear-thongs-review) [Refinery29](https://www.refinery29.com/en-us/2020/02/9351825/parade-game-time-size-inclusive-underwear-collection), [Forbes](https://www.forbes.com/sites/virgietovar/2019/11/19/new-underwear-brand-parade-offers-extended-sizing--sustainable-fabrics-for-9/#2a9abdb7192c) and other publications. Parade has raised more than $6M to date from top investors such as Greycroft and Lerer Hippeau, and the founders of Warby Parker, Casper, Bonobos, and Away. In our first full year, we're on track to do $10M in revenue and sell over 750K pairs of underwear!
