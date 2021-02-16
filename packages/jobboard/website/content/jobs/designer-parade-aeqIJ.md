@@ -6,13 +6,13 @@ companyName: "Parade"
 url: "https://jobs.lever.co/ParadeInc/dff7308f-9df5-4d7b-854e-867b62265fb7"
 applyUrl: "https://jobs.lever.co/ParadeInc/dff7308f-9df5-4d7b-854e-867b62265fb7/apply"
 timestamp: 1613433600000
-hashtags: "#branding,#ui/ux,#windows,#management,#marketing,#socialmedia,#css,#html,#spark,#office"
+hashtags: "#branding,#ui/ux,#socialmedia,#windows,#management,#marketing,#css,#html,#spark,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/parade"
 companyWebsite: "http://yourparade.com/"
 summary: "If you have 3+ years of creative work and graphic design experience, Parade is looking for someone with your knowledge."
 summaryBackup: "Parade is looking for a designer that has experience in: #branding, #ui/ux, #windows."
-featured: 20
+featured: 4
 ---
 
 **Parade is a self-expression brand.** We make Creative Basics—underwear that celebrates who you are today. We believe that women’s underwear is a replenishment category that needs a mass-market challenger brand focused on delivering style and fabric innovation. Our DNA is community-first and catalyzed via mobile experiences because we know it’s the best way to find her. Parade has been honored by the Webby Awards and featured in [InStyle](https://www.instyle.com/fashion/parade-underwear-review), [Nylon](https://www.nylon.com/parade-underwear-brand-founder), [Teen Vogue.](https://www.teenvogue.com/story/parade-underwear-thongs-review) [Refinery29](https://www.refinery29.com/en-us/2020/02/9351825/parade-game-time-size-inclusive-underwear-collection), [Forbes](https://www.forbes.com/sites/virgietovar/2019/11/19/new-underwear-brand-parade-offers-extended-sizing--sustainable-fabrics-for-9/#2a9abdb7192c) and other publications. Parade has raised more than $6M to date from top investors such as Greycroft and Lerer Hippeau, and the founders of Warby Parker, Casper, Bonobos, and Away. In our first full year, we're on track to do $10M in revenue and sell over 750K pairs of underwear!
