@@ -1,18 +1,18 @@
 ---
-title: "Architect -  Messaging Systems in Elixir"
+title: "Messaging System Architect"
 location: "Anywhere|Remote"
 host: "https://jobs.lever.co/ockam?location=Anywhere%20%7C%20Remote"
 companyName: "Ockam"
 url: "https://jobs.lever.co/ockam/cb646150-3b7c-4f27-8729-13005c772ce9"
 applyUrl: "https://jobs.lever.co/ockam/cb646150-3b7c-4f27-8729-13005c772ce9/apply"
 timestamp: 1613433600000
-hashtags: "#ui/ux,#rustlang,#git,#management,#kubernetes,#docker,#aws,#azure,#operations"
+hashtags: "#elixir,#kubernetes,#kafka,#ui/ux,#rustlang,#management,#docker,#aws,#azure"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ockam"
 companyWebsite: "https://www.ockam.io/"
-summary: "Ockam intends to hire a new architect. If you have 10+ years of experience, consider applying."
+summary: "Ockam intends to hire a new Messaging System Architect. If you have 10+ years of experience, consider applying."
 summaryBackup: "Love #ui/ux, #rustlang, #git? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated messaging libraries and infrastructure that is designed for the high throughput, low latency, intermittent connectivity requirements of IoT and connected machines.
