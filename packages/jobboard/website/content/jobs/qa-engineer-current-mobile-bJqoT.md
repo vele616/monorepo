@@ -6,13 +6,13 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4468497002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4468497002#app"
 timestamp: 1613520000000
-hashtags: "#android,#management,#operations,#jira,#ios,#scrum,#office,#English"
+hashtags: "#qa,#management,#operations,#jira,#ios,#scrum,#office,#android,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "Current Mobile is looking for a qa engineer that has 3+ years of quality assurance experience."
+summary: "Current Mobile is looking for a QA Engineer that has 3+ years of experience in quality assurance."
 summaryBackup: "Current Mobile is looking for a qa engineer that has experience in: #android, #management, #operations."
-featured: 20
+featured: 10
 ---
 
 ## The Charge Screen Team
