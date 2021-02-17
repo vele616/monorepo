@@ -13,6 +13,7 @@ companyWebsite: "https://www.jibble.io/"
 summary: "If you have 2+ years of mobile development using Kotlin, Jibble Group is looking for someone with your skillset."
 summaryBackup: "Jibble-group is looking for a senior android engineer that has experience in: #kotlin, #ui/ux, #android."
 featured: 20
+archived: "true"
 ---
 
 Our MissionTo help businesses save time and money, and unleash their human potential. Our vision is to power and empower millions of businesses with our software.

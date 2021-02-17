@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "If you have experience with Marketing Automation industry or supporting email marketing/business communication tools, Customer.io has a job opening for a technical support engineer"
 summaryBackup: "Excited about #management, #marketing, #javascript? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 Hi, I'm Travis, the Technical Support Manager at [Customer.io](http://customer.io/). I’m looking for a Technical Support Engineer to join our growing team.
