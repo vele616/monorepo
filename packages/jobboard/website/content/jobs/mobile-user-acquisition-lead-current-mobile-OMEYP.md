@@ -6,13 +6,13 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4893232002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4893232002#app"
 timestamp: 1613520000000
-hashtags: "#marketing,#android,#ios,#content,#management,#analysis,#finance,#office,#German,#monitoring"
+hashtags: "#marketing,#android,#analysis,#ios,#content,#management,#finance,#office,#German,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "If you have 2+ years working in paid UA, consider applying to Current Mobile's job post for a new mobile user acquisition lead."
+summary: "If you have 2+ years working in paid UA, consider applying to Current Mobile's job post for a new Mobile User Acquisition Lead."
 summaryBackup: "Love #marketing, #android, #ios? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## What is Current?
@@ -104,7 +104,6 @@ We believe in the following workplace Norms:
 *   Technical background a plus
 *   Fluency in Spanish, Portuguese, or German a plus, but not required
 *   Experience with:
-
 *   Android and IOS campaigns 
 *   Running mobile app user acquisition campaigns in International markets 
 *   MMPs such as Kochava, Appsflyer, Adjust, Singular, etc. 
