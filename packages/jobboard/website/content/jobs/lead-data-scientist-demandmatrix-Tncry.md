@@ -1,18 +1,18 @@
 ---
 title: "Lead Data Scientist"
-location: "Pune,India"
+location: "Remote"
 host: "https://careers.smartrecruiters.com/DemandMatrix/?remoteLocation=true"
 companyName: "DemandMatrix"
 url: "https://jobs.smartrecruiters.com/DemandMatrix/743999724329110-lead-data-scientist"
 applyUrl: "https://jobs.smartrecruiters.com/oneclick-ui/company/DemandMatrix/publication/05e05fb5-c76f-4af9-8c67-40c740276d68?dcr_id=DCRA1"
 timestamp: 1613520000000
-hashtags: "#tensorflow,#python,#marketing,#pandas,#elasticsearch,#analysis,#aws,#operations,#office,#optimization"
+hashtags: "#tensorflow,#python,#pandas,#elasticsearch,#analysis,#aws,#operations,#marketing,#office,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demandmatrix"
 companyWebsite: "http://www.demandmatrix.com/"
-summary: "DemandMatrix is looking for a lead data scientist that has · Experience of 5+ years."
+summary: "DemandMatrix is looking for a Lead Data Scientist that has 5+ years of experience."
 summaryBackup: "Excited about #tensorflow, #python, #marketing? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Company Description
