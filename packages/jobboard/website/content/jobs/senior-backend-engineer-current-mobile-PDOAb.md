@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mo
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Current Mobile wishes to hire a new Senior Backend Engineer. If you have plenty of experience building robust and scalable products, including hands-on experience creating web applications with Rails, consider applying."
 summaryBackup: "Current Mobile is looking for a senior backend engineer that has experience in: #rails, #management, #android."
-featured: 20
+featured: 2
 ---
 
 ## The Revenue Team
