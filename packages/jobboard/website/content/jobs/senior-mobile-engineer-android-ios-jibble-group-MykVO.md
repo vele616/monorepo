@@ -13,6 +13,7 @@ companyWebsite: "https://www.jibble.io/"
 summary: "Jibble-group is looking for a senior mobile engineer that has 2+ years of mobile development using Kotlin or 3+ years using Swift."
 summaryBackup: "Excited about #kotlin, #android, #ios? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Our Mission

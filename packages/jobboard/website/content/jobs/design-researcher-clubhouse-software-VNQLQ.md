@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "To apply as a design researcher at Clubhouse Software, you preferably need to have 3 years experience with design research or a related field."
 summaryBackup: "Clubhouse Software is looking for a design researcher that has experience in: #ui/ux, #css, #marketing."
 featured: 10
+archived: "true"
 ---
 
 Based in New York, Clubhouse is the collaborative home for modern software teams. Thousands of fast-growing organizations use Clubhouse to plan and build software, including Glitch, Nubank, Dataiku, Scale AI, FullStory, and LaunchDarkly.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "If you have 1-3 years in a customer-facing role, Clubhouse Software has a job opening for a Customer Support Advocate"
 summaryBackup: "Clubhouse Software is looking for a customer support advocate that has experience in: #content, #css, #html."
 featured: 9
+archived: "true"
 ---
 
 Clubhouse is a project management tool created specifically for software product development teams. Its unique interface allows users to see just what matters to them, while also offering the entire team unprecedented visibility into progress across the organization.
