@@ -7,12 +7,12 @@ url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=48298220
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4829822002#app"
 timestamp: 1613520000000
 hashtags: "#management,#rails,#nodejs,#java,#kotlin,#rubylang,#android,#aws,#operations,#redis"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Excited about experience in: #management, #rails, #nodejs? Check out this job post!"
 summaryBackup: "Current Mobile is looking for an engineering manager that has experience in: #management, #rails, #nodejs."
-featured: 20
+featured: 3
 ---
 
 ## Get to know Current
