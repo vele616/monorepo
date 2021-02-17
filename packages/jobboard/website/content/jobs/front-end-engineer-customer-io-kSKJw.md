@@ -6,13 +6,13 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2814202"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2814202#app"
 timestamp: 1613520000000
-hashtags: "#javascript,#management,#spring,#marketing,#css,#ui/ux,#operations,#office"
+hashtags: "#javascript,#css,#emberjs,#management,#spring,#marketing,#ui/ux,#operations,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
-summary: "Customer.io is looking for a front-end engineer that has experience working with customers and applying a deep understanding of their needs to produce timely solutions to their real."
+summary: "Customer.io is looking for a Front-End Engineer that has experience with using front-end technologies like JavaScript and CSS to build complex web applications."
 summaryBackup: "To apply as a front-end engineer at Customer.io, you preferably need to have some knowledge of: #javascript, #management, #spring."
-featured: 20
+featured: 4
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://Customer.io). I'm looking for a Front-End Engineer to join our growing Engineering team.
