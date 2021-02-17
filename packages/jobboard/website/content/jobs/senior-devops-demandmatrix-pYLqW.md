@@ -1,18 +1,18 @@
 ---
 title: "Senior DevOps"
-location: "Pune,India"
+location: "Remote"
 host: "https://careers.smartrecruiters.com/DemandMatrix/?remoteLocation=true"
 companyName: "DemandMatrix"
 url: "https://jobs.smartrecruiters.com/DemandMatrix/743999728131485-senior-devops"
 applyUrl: "https://jobs.smartrecruiters.com/oneclick-ui/company/DemandMatrix/publication/14e8933a-c79b-49b3-a724-2daf1d419265?dcr_id=DCRA1"
 timestamp: 1613520000000
-hashtags: "#googlecloud,#python,#management,#terraform,#ansible,#puppet,#chef,#windows,#kubernetes,#docker"
+hashtags: "#python,#docker,#kubernetes,#terraform,#management,#googlecloud,#ansible,#puppet,#chef,#windows"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demandmatrix"
 companyWebsite: "http://www.demandmatrix.com/"
-summary: "DemandMatrix wishes to hire a new senior devops. If you have 2 years of experience in AWS or GCP with docker &amp, consider applying."
+summary: "DemandMatrix wishes to hire a new Senior DevOps. If you have 2 years of experience in AWS or GCP with docker & kubernetes, consider applying."
 summaryBackup: "DemandMatrix is looking for a senior devops that has experience in: #googlecloud, #python, #management."
-featured: 20
+featured: 5
 ---
 
 ## Company Description
