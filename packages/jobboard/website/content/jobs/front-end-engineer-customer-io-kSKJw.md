@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/customerio/jobs/2814202"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2814202#app"
 timestamp: 1613520000000
 hashtags: "#javascript,#css,#emberjs,#management,#spring,#marketing,#ui/ux,#operations,#office"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "Customer.io is looking for a Front-End Engineer that has experience with using front-end technologies like JavaScript and CSS to build complex web applications."
