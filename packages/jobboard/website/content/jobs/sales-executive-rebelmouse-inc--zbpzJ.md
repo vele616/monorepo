@@ -2,17 +2,17 @@
 title: "Sales Executive"
 location: "Remote job"
 host: "https://careers.rebelmouse.com/"
-companyName: "RebelMouse, Inc."
+companyName: "RebelMouse"
 url: "https://careers.rebelmouse.com/o/sales-executive"
 applyUrl: "https://careers.rebelmouse.com/o/sales-executive/c/new"
 timestamp: 1613520000000
-hashtags: "#sales,#content,#css,#management,#office,#operations,#translation,#crm"
+hashtags: "#sales,#management,#operations,#office,#content,#css,#translation,#crm"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
-summary: "RebelMouse, Inc. is searching for a sales executive that has the chosen candidate has a passion for creating delightful sales experiences for prospects while gracefully balancing the rigors of a complex sales process behind the scenes."
+summary: "RebelMouse is searching for a Sales Executive that has a history of selling SaaS technologies, specifically around web content management."
 summaryBackup: "Excited about #sales, #content, #css? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 ## Job description
