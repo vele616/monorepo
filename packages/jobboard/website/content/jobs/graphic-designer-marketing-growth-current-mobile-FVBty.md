@@ -1,5 +1,5 @@
 ---
-title: "Graphic Designer, Marketing & Growth"
+title: "Graphic Designer"
 location: "Chicago, IL or Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#management,#marketing,#html,#content,#analytics,#photoshop,#f
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "To apply as a graphic designer at Current Mobile, you preferably need to have experience with creating ads for different ad platforms such as Facebook, GDN, and Demand Side Platforms."
+summary: "To apply as a Graphic Designer at Current Mobile, you preferably need to have experience with creating ads for different ad platforms such as Facebook, GDN, and Demand Side Platforms."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## What is Current?
