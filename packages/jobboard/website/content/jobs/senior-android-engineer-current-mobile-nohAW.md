@@ -6,13 +6,13 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4365976002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4365976002#app"
 timestamp: 1613520000000
-hashtags: "#android,#kotlin,#management,#java,#git,#operations"
+hashtags: "#android,#kotlin,#java,#git,#operations,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "To apply as a senior android engineer at Current Mobile, you preferably need to have some knowledge of: experience in: #android, #kotlin, #management."
-summaryBackup: "Current Mobile is looking for a senior android engineer that has experience in: #android, #kotlin, #management."
-featured: 20
+summary: "To apply as a Senior Android Engineer at Current Mobile, you preferably need to have some knowledge of: experience in: #android, #kotlin, #java."
+summaryBackup: "Current Mobile is looking for a senior android engineer that has experience in: #android, #kotlin, #java."
+featured: 6
 ---
 
 ## The Engagement Team
