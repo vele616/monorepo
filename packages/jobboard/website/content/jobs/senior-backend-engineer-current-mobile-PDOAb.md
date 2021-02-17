@@ -6,11 +6,11 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4385756002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4385756002#app"
 timestamp: 1613520000000
-hashtags: "#rails,#management,#android,#nodejs,#java,#kotlin,#rubylang,#aws,#operations,#postgresql"
+hashtags: "#rails,#nodejs,#java,#kotlin,#rubylang,#aws,#management,#android,#operations,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "Current Mobile wishes to hire a new senior backend engineer. If you have you have plenty of experience building robust and scalable products, including hands, consider applying."
+summary: "Current Mobile wishes to hire a new Senior Backend Engineer. If you have plenty of experience building robust and scalable products, including hands-on experience creating web applications with Rails, consider applying."
 summaryBackup: "Current Mobile is looking for a senior backend engineer that has experience in: #rails, #management, #android."
 featured: 20
 ---
