@@ -6,13 +6,13 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5034205002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5034205002#app"
 timestamp: 1613520000000
-hashtags: "#management,#marketing,#content,#branding,#ui/ux,#operations,#analysis,#finance,#office,#monitoring"
+hashtags: "#management,#marketing,#operations,#analysis,#content,#branding,#ui/ux,#finance,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "If you have 5 years experience in leading affiliate business development or partnerships in fast-paced consumer AdTech, FinTech, DTC, and brand agencies from around the world, Current Mobile is looking for someone with your skillset."
 summaryBackup: "Current Mobile is looking for a director of business development that has experience in: #management, #marketing, #content."
-featured: 20
+featured: 4
 ---
 
 ## What is Current?
