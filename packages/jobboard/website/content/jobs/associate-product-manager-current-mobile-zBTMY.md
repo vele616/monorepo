@@ -6,11 +6,11 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5047840002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5047840002#app"
 timestamp: 1613520000000
-hashtags: "#ui/ux,#management,#android,#marketing,#operations,#translation,#office"
+hashtags: "#management,#android,#marketing,#ui/ux,#operations,#translation,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "Interested in new opportunities and have on experience with a breadth of product work? Current Mobile has a job opening for an associate product manager."
+summary: "Interested in new opportunities and are eager to join a fast-moving startup? Current Mobile has a job opening for an Associate Product Manager."
 summaryBackup: "To apply as an associate product manager at Current Mobile, you preferably need to have some knowledge of: #ui/ux, #management, #android."
 featured: 20
 ---
