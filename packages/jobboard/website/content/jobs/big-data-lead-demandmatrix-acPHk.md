@@ -1,18 +1,18 @@
 ---
 title: "Big Data Lead"
-location: "Pune,India"
+location: "Remote"
 host: "https://careers.smartrecruiters.com/DemandMatrix/?remoteLocation=true"
 companyName: "DemandMatrix"
 url: "https://jobs.smartrecruiters.com/DemandMatrix/743999730247313-big-data-lead"
 applyUrl: "https://jobs.smartrecruiters.com/oneclick-ui/company/DemandMatrix/publication/964c563c-1eb0-490c-9a4c-8b6aedb16ae9?dcr_id=DCRA1"
 timestamp: 1613520000000
-hashtags: "#python,#googlecloud,#spark,#hadoop,#windows,#ios,#kubernetes,#docker,#aws,#ui/ux"
+hashtags: "#python,#spark,#hadoop,#windows,#googlecloud,#ios,#kubernetes,#docker,#aws,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demandmatrix"
 companyWebsite: "http://www.demandmatrix.com/"
-summary: "DemandMatrix is searching for a big data lead that has 3 years of experience to build services and pipelines using Python."
+summary: "DemandMatrix is searching for a Big Data Lead that has 3 years of experience to build services and pipelines using Python."
 summaryBackup: "DemandMatrix is looking for a big data lead that has experience in: #python, #googlecloud, #spark."
-featured: 20
+featured: 8
 ---
 
 ## Company Description
