@@ -2,15 +2,14 @@
 title: "Junior QA"
 location: "Romania - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
-companyName: "piggy-llc"
+companyName: "Piggy llc"
 url: "https://piggy-llc.breezy.hr/p/70893dc8d426-junior-qa"
 applyUrl: "https://piggy-llc.breezy.hr/p/70893dc8d426-junior-qa/apply"
 timestamp: 1613606400000
-hashtags: "#javascript,#ui/ux,#jira,#docker,#git,#office,#German,#French,#English"
+hashtags: "#qa,#jira,#git,#javascript,#ui/ux,#docker,#office,#German,#French,#English"
 jobType: "other"
-
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "If you have 1 year of experience in QA field, Piggy-llc is looking for someone with your skillset."
+summary: "If you have 1 year of experience in QA field, Piggy is looking for someone with your skillset."
 summaryBackup: "Excited about #javascript, #ui/ux, #jira? Check out this job post!"
 featured: 20
 ---
