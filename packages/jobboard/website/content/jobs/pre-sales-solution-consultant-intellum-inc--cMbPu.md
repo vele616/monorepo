@@ -6,20 +6,18 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/C0DD95D296/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/C0DD95D296/apply/"
 timestamp: 1613606400000
-hashtags: "#sales,#marketing,#css,#translation,#analytics,#management,#operations,#analysis,#office,#monitoring"
+hashtags: "#sales,#marketing,#analytics,#css,#translation,#management,#operations,#analysis,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "If you have strong preference for individuals with experience working in the customer education, customer experience, and/or learning/LMS industries, Intellum, Inc. is looking for someone with your skillset."
+summary: "If you have experience developing and delivering presentations both to executive-level and working-level audiences, Intellum is looking for someone with your skillset."
 summaryBackup: "Intellum, Inc. is looking for a pre-sales solution consultant that has experience in: #sales, #marketing, #css."
-featured: 20
+featured: 6
 ---
 
 ## Description
 
 The Pre-Sales Solution Consultant is responsible for presenting Intellum’s solutions in a compelling and valued-based approach to prospects and customers as a part of the sales process. To accomplish this, the Pre-Sales Solution Consultant must have a strong desire to leverage their technical and sales skills, including the ability to discover business requirements, prescribe comprehensive solutions, and demonstrate the technology that will address these requirements. Strong preference for individuals with experience working in the customer education, customer experience, and/or learning/LMS industries.
-
-Responsibilities
 
 **Responsibilities:**
 
@@ -52,11 +50,11 @@ Responsibilities
 *   Experience using G-Suite products and MS Office
 *   Excellent writing and communications skills in English
 
-Education
+**Education**
 
 *   Bachelor’s degree in marketing, communication, or other business-related field
 
-Physical Requirements/Work Environment:
+**Physical Requirements/Work Environment:**
 
 *   Occasional irregular work hours
 *   Dexterity of hands and fingers to operate a computer keyboard, mouse, etc.
