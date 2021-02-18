@@ -1,18 +1,18 @@
 ---
-title: "Game LiveOps Producer (m/f/d)"
+title: "Game LiveOps Producer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "Deca Games"
 url: "https://deca-games.breezy.hr/p/320e6f84a4ab01-game-liveops-producer-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/320e6f84a4ab01-game-liveops-producer-m-f-d/apply"
 timestamp: 1613606400000
-hashtags: "#management,#content,#operations,#sales,#analysis,#office"
+hashtags: "#content,#operations,#analysis,#management,#sales,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Deca-games is looking for a game liveops producer that has understanding of SQL and experience with Tableau."
+summary: "Deca Games is looking for a Game LiveOps Producer that has experience in a similar role in the gaming industry."
 summaryBackup: "To apply as a game liveops producer at Deca-games, you preferably need to have some knowledge of: #management, #content, #operations."
-featured: 20
+featured: 5
 ---
 
 We are looking for a Game LiveOps Producer / Coordinator with a passion for video games to join us and work remotely. As a Game LiveOps Producer / Coordinator, you will have the chance to work on some cool older mobile game titles and live operate them with a big impact on game revenue and player retention. In collaboration with both internal and external partners, you will be a core contributor working on game overall performance in a critical data driven role.
@@ -39,7 +39,6 @@ Develop new ideas for in game content and events, packages, subscriptions, coord
 *   Strong analytical skills with the ability to collect, organize, analyze,
 *   Able to process significant amounts of information with attention to detail and accuracy
 *   Good report writing and presenting skills
-
 *   Experience in a similar role in the gaming industry
 *   Self-starter, able to identify obstacles and work through solutions.
 *   Passion for games and games as a service
