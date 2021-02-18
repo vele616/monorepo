@@ -6,13 +6,13 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/FFED49448D/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/FFED49448D/apply/"
 timestamp: 1613606400000
-hashtags: "#management,#css,#sales,#ui/ux,#operations,#analysis,#monitoring"
+hashtags: "#management,#operations,#analysis,#css,#sales,#ui/ux,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "Intellum, Inc. wishes to hire a new implementation consultant. If you have 2+ years experience as an LMS administrator, consider applying."
+summary: "Intellum wishes to hire a new Implementation Consultant. If you have 2+ years experience as an LMS administrator, consider applying."
 summaryBackup: "Intellum, Inc. is looking for an implementation consultant that has experience in: #management, #css, #sales."
-featured: 20
+featured: 3
 ---
 
 ## Description
