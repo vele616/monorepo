@@ -6,13 +6,13 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/B7793314BB/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/B7793314BB/apply/"
 timestamp: 1613606400000
-hashtags: "#css,#content,#operations,#management,#office"
+hashtags: "#content,#operations,#management,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "Intellum, Inc. intends to hire a new platform specialist. If you have 2+ years in a technical project management role, consider applying."
+summary: "Intellum intends to hire a new Platform Specialist. If you have 2+ years in a technical project management role, consider applying."
 summaryBackup: "Excited about #css, #content, #operations? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Description
