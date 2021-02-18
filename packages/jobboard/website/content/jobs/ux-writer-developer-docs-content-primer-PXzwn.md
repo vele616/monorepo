@@ -1,18 +1,18 @@
 ---
-title: "UX Writer - Developer Docs + Content"
+title: "UX Writer"
 location: "United Kingdom"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/145ABEBAD9/"
 applyUrl: "https://apply.workable.com/primer-api/j/145ABEBAD9/apply/"
 timestamp: 1613606400000
-hashtags: "#python,#php,#rubylang,#content,#css,#git"
-jobType: "software"
+hashtags: "#python,#content,#rubylang,#php,#css,#git"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
-summary: "Interested in new opportunities and have primer is creating the next generation checkout experience and a dashboard to replace complex engineering functions, while reducing the barriers to integrate with other payment services — breaking new ground everywhere? Primer has a job opening for an ux writer."
+summary: "Interested in new opportunities and have strong familiarity with markdown and other templating languages and tools? Primer has a job opening for an UX Writer."
 summaryBackup: "Primer is looking for an ux writer that has experience in: #python, #php, #rubylang."
-featured: 20
+featured: 7
 ---
 
 ## Description
