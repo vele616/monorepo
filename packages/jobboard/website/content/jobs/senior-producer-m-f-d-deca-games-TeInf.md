@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "DECA Games wishes to hire a new Senior Producer. If you have senior level experience with game production, consider applying."
 summaryBackup: "Excited about #management, #operations? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Who we are looking for
