@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "If you have experience building and optimising ‘big data’ data pipelines, architectures and data sets, Primer is looking for someone with your skillset."
 summaryBackup: "Primer is looking for a data engineer that has experience in: #python, #java, #spark."
 featured: 5
+archived: "true"
 ---
 
 ## Description

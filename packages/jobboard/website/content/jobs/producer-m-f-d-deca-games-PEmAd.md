@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "If you have experience with diverse project management methodologies, Deca-games is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #socialmedia, #jira? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Who we are looking for
