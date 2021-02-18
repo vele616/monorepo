@@ -6,13 +6,13 @@ companyName: "Corsearch"
 url: "https://corsearch.recruitee.com/o/data-engineer"
 applyUrl: "https://corsearch.recruitee.com/o/data-engineer/c/new"
 timestamp: 1613606400000
-hashtags: "#ui/ux,#python,#aws,#branding,#management,#operations,#jira,#optimization,#scrum,#analysis"
+hashtags: "#sql,#python,#aws,#branding,#management,#operations,#jira,#optimization,#scrum,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/corsearch"
 companyWebsite: "http://www.corsearch.com/"
-summary: "Corsearch is searching for a data engineer that has 5+ years in enterprise data platforms implementation projects."
+summary: "Corsearch is searching for a Data Engineer that has 5+ years in enterprise data platforms implementation projects."
 summaryBackup: "To apply as a data engineer at Corsearch, you preferably need to have some knowledge of: #ui/ux, #python, #aws."
-featured: 20
+featured: 4
 ---
 
 ## Job description
