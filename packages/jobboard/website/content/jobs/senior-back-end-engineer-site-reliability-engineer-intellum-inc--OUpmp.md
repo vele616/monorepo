@@ -1,18 +1,18 @@
 ---
-title: "Senior Back End Engineer/Site Reliability Engineer"
+title: "Senior Back End Engineer"
 location: "Atlanta, Georgia, United States"
 host: "https://apply.workable.com/intellum-inc/"
 companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/BFFB32C9C1/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/BFFB32C9C1/apply/"
 timestamp: 1613606400000
-hashtags: "#rails,#rubylang,#css,#aws,#operations,#ui/ux,#git,#management,#redis,#postgresql"
+hashtags: "#rails,#rubylang,#postgresql,#css,#aws,#operations,#ui/ux,#git,#management,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "Intellum, Inc. wishes to hire a new senior back end engineer. If you have 7 years of experience developing software professionally, consider applying."
+summary: "Intellum wishes to hire a new Senior Back End Engineer. If you have 7 years of experience developing software professionally, consider applying."
 summaryBackup: "Intellum, Inc. is looking for a senior back end engineer that has experience in: #rails, #rubylang, #css."
-featured: 20
+featured: 5
 ---
 
 ## Description
