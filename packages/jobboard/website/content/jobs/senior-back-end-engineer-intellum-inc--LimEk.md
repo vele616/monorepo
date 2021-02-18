@@ -6,13 +6,13 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/A40B931344/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/A40B931344/apply/"
 timestamp: 1613606400000
-hashtags: "#rails,#rubylang,#css,#aws,#operations,#ui/ux,#git,#management,#redis,#postgresql"
+hashtags: "#rails,#rubylang,#postgresql,#css,#aws,#operations,#ui/ux,#git,#management,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "If you have 7 years of experience developing software professionally, Intellum, Inc. is looking for someone with your knowledge."
+summary: "If you have 7 years of experience developing software professionally, Intellum is looking for someone with your knowledge."
 summaryBackup: "Excited about #rails, #rubylang, #css? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Description
