@@ -6,12 +6,12 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/27D86B4221/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/27D86B4221/apply/"
 timestamp: 1613606400000
-hashtags: "#css,#management,#marketing,#operations,#sales,#analysis,#office"
+hashtags: "#management,#sales,#marketing,#operations,#analysis,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "Intellum, Inc. wishes to hire a new customer success manager. If you have 5+ years in customer success role with technical experience, consider applying."
-summaryBackup: "Intellum, Inc. is looking for a customer success manager that has experience in: #css, #management, #marketing."
+summary: "Intellum wishes to hire a new Customer Success Manager. If you have 5+ years in customer success role with technical experience, consider applying."
+summaryBackup: "Intellum is looking for a customer success manager that has experience in: #css, #management, #marketing."
 featured: 20
 ---
 
