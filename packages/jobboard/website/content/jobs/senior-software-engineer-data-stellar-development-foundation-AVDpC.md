@@ -13,6 +13,7 @@ companyWebsite: "https://www.stellar.org/"
 summary: "If you have 4+ years of experience developing software on a team, consider applying to Stellar Development Foundation's job post for a new senior software engineer."
 summaryBackup: "To apply as a senior software engineer at Stellar Development Foundation, you preferably need to have some knowledge of: #ui/ux, #python, #java."
 featured: 14
+archived: "true"
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation (SDF) is looking for a talented, experienced, and hands-on software engineer to join our team. In this role, you’ll be designing, building, and implementing the tools and services that empower Stellar's ecosystem. By working within the data analytics and liquidity team (Voyager), you'll be working on open source projects that empower developers and non-developers to use the Stellar network for a wide variety of goals and use cases.
