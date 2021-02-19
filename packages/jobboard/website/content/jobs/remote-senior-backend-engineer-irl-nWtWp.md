@@ -1,18 +1,18 @@
 ---
-title: "Remote Senior Backend Engineer"
-location: ""
+title: "Senior Backend Engineer"
+location: "Remote"
 host: "https://irl.breezy.hr/"
-companyName: "irl"
+companyName: "Irl"
 url: "https://irl.breezy.hr/p/49c24809f10f-remote-senior-backend-engineer"
 applyUrl: "https://irl.breezy.hr/p/49c24809f10f-remote-senior-backend-engineer/apply"
 timestamp: 1613692800000
-hashtags: "#python,#laravel,#php,#rubylang,#management,#linux,#docker,#aws,#git,#ui/ux"
+hashtags: "#python,#laravel,#rubylang,#php,#management,#linux,#docker,#aws,#git,#ui/ux"
 jobType: "software"
 
 companyWebsite: "https://irl.breezy.hr/"
-summary: "Irl is looking for a remote senior backend engineer that has 5+ years in backend software development."
+summary: "Irl is looking for a Senior Backend Engineer that has 5+ years in backend software development."
 summaryBackup: "Excited about #python, #laravel, #php? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Company Overview
