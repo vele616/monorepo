@@ -1,18 +1,18 @@
 ---
 title: "Product Manager"
-location: ""
+location: "Remote"
 host: "https://irl.breezy.hr/"
 companyName: "irl"
 url: "https://irl.breezy.hr/p/ba89d0d97ff6-product-manager"
 applyUrl: "https://irl.breezy.hr/p/ba89d0d97ff6-product-manager/apply"
 timestamp: 1613692800000
-hashtags: "#socialmedia,#management,#ui/ux,#marketing"
+hashtags: "#management,#marketing,#socialmedia,#ui/ux"
 jobType: "other"
 
 companyWebsite: "https://irl.breezy.hr/"
-summary: "Irl is searching for a product manager that has 3+ years experience as a product manager or product owner."
-summaryBackup: "Irl is looking for a product manager that has experience in: #socialmedia, #management, #ui/ux."
-featured: 20
+summary: "Irl is searching for a Product Manager that has 3+ years experience as a product manager or product owner."
+summaryBackup: "Irl is looking for a Product Manager that has experience in: #socialmedia, #management, #ui/ux."
+featured: 5
 ---
 
 ## Company Overview
