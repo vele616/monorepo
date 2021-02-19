@@ -1,18 +1,18 @@
 ---
-title: "Agent: Software Engineer - Web-Scraper"
+title: "Software Engineer"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
 companyName: "invisible-technologies"
 url: "https://invisible-technologies.breezy.hr/p/5f3f5f31f4c5-agent-software-engineer-web-scraper"
 applyUrl: "https://invisible-technologies.breezy.hr/p/5f3f5f31f4c5-agent-software-engineer-web-scraper/apply"
 timestamp: 1613692800000
-hashtags: "#ui/ux,#management,#sales,#postgresql"
-jobType: "other"
+hashtags: "#javascript,#selenium,#python,#ui/ux,#management,#sales,#postgresql"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/invisible-technologies"
 companyWebsite: "https://www.inv.tech/"
 summary: "If you have experience with javascript, Invisible-technologies is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #sales? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 _We'd like to ask you a few questions to jump start the process and get to know you a bit. Note\*\* Once you apply, you will receive a questionnaire and engineering test. In order to be_ considered _for this position, we will need to receive your completed test before moving you to the interview process._ _We are also currently receiving a lot of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch._
@@ -55,9 +55,25 @@ We are Invisible’s Technologies Team. We solve problems at scale so they never
 
 \-- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
 
-Invisible is a meritocracy and a startup. There’s plenty of responsibilities to go around. You’ll be expected to absorb responsibilities whenever you see them and figure out how to abstract yourself away from the job—be your own mini-CEO. Our team is small, but growing quickly. The work you do will directly impact how successful we are as a company.
+Invisible is a meritocracy and a startup. There’s plenty of responsibilities to go around. You’ll be expected to absorb responsibilities whenever you see them and figure out how to abstract yourself away from the job — be your own mini-CEO. Our team is small, but growing quickly. The work you do will directly impact how successful we are as a company.
 
-You’ll also have the opportunity to be part of the product development. Our product work is done by squads: product manager, designers, customers, and an engineer like you, focused on solving a customer problem. Together, your squad will have the autonomy to own key parts of our roadmap and build the things that will have the greatest impact on solving customer problems.Requirements:-Worked on web scrapers-Worked with python-Experience with javascript-Experience with selenium-Has worked with nodejs-Experience with google developer tools, google sheets scripting-Experience with SQL (Postgres)
+You’ll also have the opportunity to be part of the product development. Our product work is done by squads: product manager, designers, customers, and an engineer like you, focused on solving a customer problem. Together, your squad will have the autonomy to own key parts of our roadmap and build the things that will have the greatest impact on solving customer problems.
+
+## Requirements:
+
+-Worked on web scrapers
+
+-Worked with python
+
+-Experience with javascript
+
+-Experience with selenium
+
+-Has worked with nodejs
+
+-Experience with google developer tools, google sheets scripting
+
+-Experience with SQL (Postgres)
 
 ## Benefits
 
