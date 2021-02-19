@@ -1,18 +1,18 @@
 ---
-title: "Partner : Senior Software Engineer (New)"
+title: "Senior Software Engineer"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
-companyName: "invisible-technologies"
+companyName: "Invisible Technologies"
 url: "https://invisible-technologies.breezy.hr/p/e6c1a829ec45-partner-senior-software-engineer-new"
 applyUrl: "https://invisible-technologies.breezy.hr/p/e6c1a829ec45-partner-senior-software-engineer-new/apply"
 timestamp: 1613692800000
-hashtags: "#typescript,#javascript,#operations,#ui/ux,#git,#management,#sales,#redis,#postgresql,#optimization"
+hashtags: "#typescript,#reactjs,#javascript,#operations,#git,#management,#sales,#redis,#postgresql,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/invisible-technologies"
 companyWebsite: "https://www.inv.tech/"
-summary: "To apply as a partner : senior software engineer at Invisible-technologies, you preferably need to have some knowledge of: experience in: #typescript, #javascript, #operations."
+summary: "To apply as a Senior Software Engineer at Invisible Technologies, you preferably need to have some knowledge of: #typescript, #javascript, #operations."
 summaryBackup: "Excited about #typescript, #javascript, #operations? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 We are currently looking for this position to be filled in Q1 2021. We'd like to ask you a few questions to jump-start the process and get to know you a bit. We are also currently receiving a lot of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch.
