@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Web Engineer (f/m/div)"
+title: "Full Stack Web Engineer"
 location: "Remote job"
 host: "https://perdoo.recruitee.com/"
 companyName: "Perdoo"
 url: "https://perdoo.recruitee.com/o/full-stack-web-engineer-fmdiv-2"
 applyUrl: "https://perdoo.recruitee.com/o/full-stack-web-engineer-fmdiv-2/c/new"
 timestamp: 1613692800000
-hashtags: "#reactjs,#django,#management,#css,#scrum,#ui/ux"
+hashtags: "#reactjs,#django,#graphql,#management,#css,#scrum,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/perdoo"
 companyWebsite: "https://www.perdoo.com/"
-summary: "Perdoo is searching for a full stack web engineer that has 4+ years of full-time, professional, web development experience."
+summary: "Perdoo is searching for a Full Stack Web Engineer that has 4+ years of full-time, professional, web development experience."
 summaryBackup: "Perdoo is looking for a full stack web engineer that has experience in: #reactjs, #django, #management."
-featured: 20
+featured: 1
 ---
 
 ## Job description
@@ -29,7 +29,7 @@ Companies like Calendly, Flaconi, and Rewe already use Perdoo to achieve amazing
 
 As a Full Stack Web Engineer (f/m/div), you’ll be working very closely with our CTO to architect solutions and build them from end-to-end, including having conversations with product, design, and support to pull everything together. We’re looking for someone who’s excited about working in a small team to bring our technology to the next level and is passionate about building products that last.We’re looking for someone with strong React skills that wants to grow into a Full Stack Engineer. Experience with backend projects (particularly using Django) is a huge plus, but not necessarily required as long as you’re able and willing to learn quickly and on-the-job.
 
-## As our Full Stack Web Engineer (f/m/div)you’ll
+## As our Full Stack Web Engineer you’ll:
 
 *   Build and architect Perdoo end-to-end, ensuring that it is secure, fast and reliable for our customers
 *   Work in an agile team and continuously refine our own processes for maximum efficiency and fun
