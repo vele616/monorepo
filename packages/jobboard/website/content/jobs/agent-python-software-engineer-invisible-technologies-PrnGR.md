@@ -1,5 +1,5 @@
 ---
-title: "Agent : Python Software Engineer"
+title: "Python Software Engineer"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
 companyName: "invisible-technologies"
@@ -10,7 +10,7 @@ hashtags: "#python,#javascript,#typescript,#analysis,#ui/ux,#management,#sales,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/invisible-technologies"
 companyWebsite: "https://www.inv.tech/"
-summary: "Invisible-technologies is looking for an agent : python software engineer that has experience in: experience in: #python, #javascript, #typescript."
+summary: "Invisible Technologies is looking for an Python Software Engineer that has experience in: #python, #javascript, #typescript."
 summaryBackup: "Love #python, #javascript, #typescript? Check out this job post!"
 featured: 20
 ---
