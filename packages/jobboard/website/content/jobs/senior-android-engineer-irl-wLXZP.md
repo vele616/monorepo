@@ -1,18 +1,17 @@
 ---
 title: "Senior Android Engineer"
-location: ""
+location: "Remote"
 host: "https://irl.breezy.hr/"
 companyName: "irl"
 url: "https://irl.breezy.hr/p/28f55072dbc6-senior-android-engineer"
 applyUrl: "https://irl.breezy.hr/p/28f55072dbc6-senior-android-engineer/apply"
 timestamp: 1613692800000
-hashtags: "#android,#java,#php,#css,#aws,#socialmedia,#ui/ux,#git,#management,#mysql"
+hashtags: "#android,#java,#mysql,#php,#css,#aws,#socialmedia,#ui/ux,#git,#management"
 jobType: "software"
-
 companyWebsite: "https://irl.breezy.hr/"
-summary: "Irl is looking for a senior android engineer that has experience in: experience in: #android, #java, #php."
+summary: "Irl is looking for a Senior Android Engineer that has experience in: #android, #java, #mysql."
 summaryBackup: "To apply as a senior android engineer at Irl, you preferably need to have some knowledge of: #android, #java, #php."
-featured: 20
+featured: 5
 ---
 
 ## Company Overview
