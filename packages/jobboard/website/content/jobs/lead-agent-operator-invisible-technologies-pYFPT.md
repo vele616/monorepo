@@ -2,7 +2,7 @@
 title: "Lead Agent/Operator"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
-companyName: "invisible-technologies"
+companyName: "Invisible Technologies"
 url: "https://invisible-technologies.breezy.hr/p/18017605df62-lead-agent-operator"
 applyUrl: "https://invisible-technologies.breezy.hr/p/18017605df62-lead-agent-operator/apply"
 timestamp: 1613692800000
@@ -10,7 +10,7 @@ hashtags: "#operations,#management,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/invisible-technologies"
 companyWebsite: "https://www.inv.tech/"
-summary: "To apply as a lead agent at Invisible-technologies, you preferably need to have i need someone that has a good management experience in dealing with medium."
+summary: "To apply as a Lead Agent at Invisible-technologies, you preferably need to have a good management experience in dealing with medium-large teams and medium-high complexity."
 summaryBackup: "Excited about #operations, #management, #analysis? Check out this job post!"
 featured: 20
 ---
