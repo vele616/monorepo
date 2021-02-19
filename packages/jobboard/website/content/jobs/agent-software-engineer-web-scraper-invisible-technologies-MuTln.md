@@ -2,7 +2,7 @@
 title: "Software Engineer"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
-companyName: "invisible-technologies"
+companyName: "Invisible Technologies"
 url: "https://invisible-technologies.breezy.hr/p/5f3f5f31f4c5-agent-software-engineer-web-scraper"
 applyUrl: "https://invisible-technologies.breezy.hr/p/5f3f5f31f4c5-agent-software-engineer-web-scraper/apply"
 timestamp: 1613692800000
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/invisible-
 companyWebsite: "https://www.inv.tech/"
 summary: "If you have experience with javascript, Invisible-technologies is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #sales? Check out this job post!"
-featured: 6
+featured: 4
 ---
 
 _We'd like to ask you a few questions to jump start the process and get to know you a bit. Note\*\* Once you apply, you will receive a questionnaire and engineering test. In order to be_ considered _for this position, we will need to receive your completed test before moving you to the interview process._ _We are also currently receiving a lot of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch._
