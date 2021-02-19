@@ -1,18 +1,18 @@
 ---
-title: "Product Designer (Mobile)"
-location: ""
+title: "Product Designer"
+location: "Remote"
 host: "https://irl.breezy.hr/"
-companyName: "irl"
+companyName: "Irl"
 url: "https://irl.breezy.hr/p/0d946fcfca5d-product-designer-mobile"
 applyUrl: "https://irl.breezy.hr/p/0d946fcfca5d-product-designer-mobile/apply"
 timestamp: 1613692800000
-hashtags: "#ui/ux,#socialmedia,#ios,#android,#branding,#photoshop,#figma,#office,#rest"
+hashtags: "#ui/ux,#figma,#android,#socialmedia,#ios,#branding,#photoshop,#office,#rest"
 jobType: "other"
 
 companyWebsite: "https://irl.breezy.hr/"
-summary: "Irl intends to hire a new product designer. If you have 5+ years experience designing and shipping mobile applications, consider applying."
+summary: "Irl intends to hire a new Product Designer. If you have 5+ years experience designing and shipping mobile applications, consider applying."
 summaryBackup: "Irl is looking for a product designer that has experience in: #ui/ux, #socialmedia, #ios."
-featured: 20
+featured: 7
 ---
 
 ## Company Overview
