@@ -1,21 +1,21 @@
 ---
-title: "Agent: Software Engineer"
+title: "Software Engineer"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
-companyName: "invisible-technologies"
+companyName: "Invisible Technologies"
 url: "https://invisible-technologies.breezy.hr/p/11245467de6b-agent-software-engineer"
 applyUrl: "https://invisible-technologies.breezy.hr/p/11245467de6b-agent-software-engineer/apply"
 timestamp: 1613692800000
-hashtags: "#javascript,#typescript,#ui/ux,#git,#management,#sales"
-jobType: "other"
+hashtags: "#javascript,#typescript,#nodejs,#ui/ux,#git,#management,#sales"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/invisible-technologies"
 companyWebsite: "https://www.inv.tech/"
-summary: "Invisible-technologies wishes to hire a new agent: software engineer. If you have 2+ Years of usage in professional context, consider applying."
+summary: "Invisible Technologies wishes to hire a Software Engineer. If you have experience with Node.js web applications, consider applying."
 summaryBackup: "To apply as an agent: software engineer at Invisible-technologies, you preferably need to have some knowledge of: #javascript, #typescript, #ui/ux."
-featured: 20
+featured: 19
 ---
 
-## We are currently looking to fill multiple positions for this role as soon as possible. We'd like to ask you a few questions to jump start the process and get to know you a bit. Note\*\* Once you apply, you will receive a questionnaire andengineering test. In order to be considered for this position, we must receive your completed test and questionnaire answers before you will be moved to the interview round. We are also currently receiving many applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch. Pay Rate: $10 - $15 per hour.
+**We are currently looking to fill multiple positions for this role as soon as possible. We'd like to ask you a few questions to jump start the process and get to know you a bit. Note\*\* Once you apply, you will receive a questionnaire andengineering test. In order to be considered for this position, we must receive your completed test and questionnaire answers before you will be moved to the interview round. We are also currently receiving many applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch. Pay Rate: $10 - $15 per hour**
 
 ## What is Invisible?
 
@@ -57,7 +57,9 @@ We are Invisible’s Technologies Team. We solve problems at scale so they never
 
 Invisible is a meritocracy and a startup. There’s plenty of responsibilities to go around. You’ll be expected to absorb responsibilities whenever you see them and figure out how to abstract yourself away from the job—be your own mini-CEO. Our team is small, but growing quickly. The work you do will directly impact how successful we are as a company.
 
-You’ll also have the opportunity to be part of the product development. Our product work is done by squads: product manager, designers, customers, and an engineer like you, focused on solving a customer problem. Together, your squad will have the autonomy to own key parts of our roadmap and build the things that will have the greatest impact on solving customer problems.Requirements:
+You’ll also have the opportunity to be part of the product development. Our product work is done by squads: product manager, designers, customers, and an engineer like you, focused on solving a customer problem. Together, your squad will have the autonomy to own key parts of our roadmap and build the things that will have the greatest impact on solving customer problems.
+
+## Requirements:
 
 \-Need (2+ Years of usage in professional context)
 
@@ -75,7 +77,9 @@ You’ll also have the opportunity to be part of the product development. Our pr
 
 \-React
 
-Nice to Have:-Typescript
+Nice to Have:
+
+\-Typescript
 
 \-Apollo GraphQL
 
