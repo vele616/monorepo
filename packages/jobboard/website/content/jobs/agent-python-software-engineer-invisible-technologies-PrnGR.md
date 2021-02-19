@@ -2,7 +2,7 @@
 title: "Python Software Engineer"
 location: "Remote Worldwide"
 host: "https://invisible-technologies.breezy.hr/?&location=Worldwide#positions"
-companyName: "invisible-technologies"
+companyName: "Invisible Technologies"
 url: "https://invisible-technologies.breezy.hr/p/3049f4b11498-agent-python-software-engineer"
 applyUrl: "https://invisible-technologies.breezy.hr/p/3049f4b11498-agent-python-software-engineer/apply"
 timestamp: 1613692800000
