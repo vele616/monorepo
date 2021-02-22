@@ -10,9 +10,9 @@ hashtags: "#reactjs,#javascript,#laravel,#jquery,#css,#html,#management,#rest,#o
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/changers"
 companyWebsite: "https://changers.com/"
-summary: "Changers is searching for a senior react developer that has 5+ years of experience to join our team as a full on team member."
+summary: "Changers is searching for a Senior React Developer that has significant experience with native JavaScript and the JS framework React."
 summaryBackup: "Changers is looking for a senior react developer that has experience in: #reactjs, #javascript, #laravel."
-featured: 20
+featured: 10
 ---
 
 It’s fun, keeps you healthy and saves CO2 – our app CO2 fit makes health promotion as well as climate protection easy and effective for companies and individuals.
