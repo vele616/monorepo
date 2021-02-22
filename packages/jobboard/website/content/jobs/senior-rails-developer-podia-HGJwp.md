@@ -1,6 +1,6 @@
 ---
 title: "Senior Rails Developer"
-location: ""
+location: "Remote"
 host: "https://apply.workable.com/podia/"
 companyName: "Podia"
 url: "https://apply.workable.com/podia/j/50B4615DF7/"
@@ -10,9 +10,9 @@ hashtags: "#rails,#javascript,#rubylang,#ui/ux,#css,#reactjs,#terraform,#windows
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/podia"
 companyWebsite: "https://www.podia.com/"
-summary: "If you have 24, and we typically only hire twice a year, consider applying to Podia's job post for a new senior rails developer."
+summary: "To apply as a Senior Rails Developer at Podia, you preferably need to have some knowledge of: #rails, #javascript, #rubylang."
 summaryBackup: "To apply as a senior rails developer at Podia, you preferably need to have some knowledge of: #rails, #javascript, #rubylang."
-featured: 20
+featured: 5
 ---
 
 ## Description
