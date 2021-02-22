@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#content,#branding,#socialmedia,#analytics,#op
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/luckbox"
 companyWebsite: "https://luckbox.com/"
-summary: "Luckbox is looking for a director of marketing that has 2+ years experience managing a team at a high growth company."
+summary: "Luckbox is looking for a Director of Marketing that has 2+ years experience managing a team at a high growth company."
 summaryBackup: "Excited about #marketing, #management, #content? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Job description
@@ -59,8 +59,8 @@ What makes us different from other esports betting start-ups is our approach - w
 
 *   Experience working in, and knowledge of the global esports market
 *   Recent experience in the gambling/gaming industry, ideally with a Curacao, MGA, or IOM license
-*   ● Regional acquisition experience in either Asia, CIS, or LATAM
-*   ● Growth mindset - you will always be looking at new and creative approaches to your work
+*   Regional acquisition experience in either Asia, CIS, or LATAM
+*   Growth mindset - you will always be looking at new and creative approaches to your work
 *   Educated to degree level with a qualification in Business/Marketing
 *   An expansive network within the esports community
 *   Experience cultivating dedicated fan communities
