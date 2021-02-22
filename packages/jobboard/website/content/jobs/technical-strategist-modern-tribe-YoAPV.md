@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "Modern Tribe wishes to hire a new Technical Strategist that has experience in: #wordpress, #management, #analysis,."
 summaryBackup: "Modern-tribe is looking for a technical strategist that has experience in: #wordpress, #ui/ux, #translation."
 featured: 10
+archived: "true"
 ---
 
 ## The Opportunity
