@@ -2,17 +2,17 @@
 title: "Project Manager"
 location: "Remote Worldwide"
 host: "https://modern-tribe.breezy.hr/"
-companyName: "modern-tribe"
+companyName: "Modern Tribe"
 url: "https://modern-tribe.breezy.hr/p/2a94f08b75f1-project-manager"
 applyUrl: "https://modern-tribe.breezy.hr/p/2a94f08b75f1-project-manager/apply"
 timestamp: 1613952000000
-hashtags: "#wordpress,#ui/ux,#scrum,#management,#analysis,#English"
+hashtags: "#wordpress,#scrum,#management,#analysis,#ui/ux,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
-summary: "If you have 5 years of experience working as a PM, ideally on a distributed web design / dev team, Modern-tribe is looking for someone with your skillset."
+summary: "If you have 5 years of experience working as a PM, ideally on a distributed web design / dev team, Modern Tribe is looking for someone with your skillset."
 summaryBackup: "Excited about #wordpress, #ui/ux, #scrum? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## The Opportunity
