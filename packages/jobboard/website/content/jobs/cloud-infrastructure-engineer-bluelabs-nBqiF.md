@@ -6,13 +6,13 @@ companyName: "BlueLabs"
 url: "https://careers.bluelabs.eu/o/cloud-infrastructure-engineer"
 applyUrl: "https://careers.bluelabs.eu/o/cloud-infrastructure-engineer/c/new"
 timestamp: 1613952000000
-hashtags: "#operations,#python,#terraform,#kubernetes,#aws,#azure,#googlecloud,#management,#ui/ux,#elasticsearch"
+hashtags: "#terraform,#kubernetes,#aws,#operations,#python,#azure,#googlecloud,#management,#ui/ux,#elasticsearch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bluelabs"
 companyWebsite: "https://www.bluelabs.eu/"
-summary: "BlueLabs intends to hire a new cloud infrastructure engineer. If you have 2+ years of experience with some of the major clouds like AWS, GCP or Azure, consider applying."
+summary: "BlueLabs intends to hire a new Cloud Infrastructure Engineer. If you have 2+ years of experience with some of the major clouds like AWS, GCP or Azure, consider applying."
 summaryBackup: "To apply as a cloud infrastructure engineer at BlueLabs, you preferably need to have some knowledge of: #operations, #python, #terraform."
-featured: 20
+featured: 5
 ---
 
 ## Job description
