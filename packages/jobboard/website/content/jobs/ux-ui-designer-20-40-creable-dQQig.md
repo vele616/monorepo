@@ -8,11 +8,10 @@ applyUrl: "https://creable.recruitee.com/o/uxui-designer-2040/c/new"
 timestamp: 1613952000000
 hashtags: "#ui/ux,#figma,#sketch,#branding,#marketing,#office,#English"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/creable"
 companyWebsite: "https://creable.io/"
 summary: "If you have 3+ years of UX/UI experience, designing digital products and a portfolio to prove it, Creable is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #branding, #marketing? Check out this job post!"
-featured: 7
+featured: 12
 ---
 
 ## Job description

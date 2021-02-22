@@ -8,11 +8,10 @@ applyUrl: "https://creable.recruitee.com/o/full-stack-developer-pfaffikon/c/new"
 timestamp: 1613952000000
 hashtags: "#javascript,#reactjs,#typescript,#ui/ux,#css,#git,#marketing,#management,#office,#firebase"
 jobType: "software"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/creable"
 companyWebsite: "https://creable.io/"
 summary: "Creable is searching for a Full Stack Developer that has 3+ years of working experience, developing production-ready software systems."
 summaryBackup: "To apply as a full stack developer at Creable, you preferably need to have some knowledge of: #management, #javascript, #reactjs."
-featured: 2
+featured: 7
 ---
 
 ## Job description
