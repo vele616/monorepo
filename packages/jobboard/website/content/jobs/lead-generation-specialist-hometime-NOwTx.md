@@ -10,9 +10,9 @@ hashtags: "#marketing,#operations,#management,#sales,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
-summary: "To apply as a lead generation specialist at Hometime, you preferably need to have some knowledge of: experience in: #marketing, #operations, #management."
+summary: "To apply as a Lead Generation Specialist at Hometime, you preferably need to have some experience in: #marketing, #operations, #management."
 summaryBackup: "Hometime is looking for a lead generation specialist that has experience in: #marketing, #operations, #management."
-featured: 20
+featured: 5
 ---
 
 Hometime is the largest and fastest growing platform and brand for flexible rental providers  in the APAC region. 
