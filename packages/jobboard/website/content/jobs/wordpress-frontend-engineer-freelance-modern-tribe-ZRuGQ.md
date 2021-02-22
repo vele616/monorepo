@@ -1,18 +1,18 @@
 ---
-title: "WordPress Frontend Engineer (Freelance)"
+title: "WordPress Frontend Engineer"
 location: "Remote Worldwide"
 host: "https://modern-tribe.breezy.hr/"
-companyName: "modern-tribe"
+companyName: "Modern Tribe"
 url: "https://modern-tribe.breezy.hr/p/c7f010ede237-wordpress-frontend-engineer-freelance"
 applyUrl: "https://modern-tribe.breezy.hr/p/c7f010ede237-wordpress-frontend-engineer-freelance/apply"
 timestamp: 1613952000000
-hashtags: "#javascript,#ui/ux,#css,#html,#reactjs,#wordpress,#vuejs,#management,#docker,#git"
+hashtags: "#wordpress,#javascript,#css,#html,#reactjs,#ui/ux,#vuejs,#management,#docker,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
-summary: "If you have as a hybrid workspace ranging from distributed contractors to traditional employees, we value the unique perspectives and experiences of our global team, Modern-tribe has a job opening for a wordpress frontend engineer"
+summary: "If you have experience working with design systems and design system thinking, Modern Tribe has a job opening for a WordPress Frontend Engineer"
 summaryBackup: "Love #javascript, #ui/ux, #css? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## The Opportunity
@@ -92,7 +92,7 @@ Pay range is commensurate with qualifications and experience between $40-$60/hou
 
 We believe that distributed working is a way of life. We understand what it means to work remotely. We offer consistency in expectations, payment, and support. We believe in learning from each other and fostering personal growth. You can expect to learn a lot while working with us.
 
-(Also, if you work enough with us, we’ll bring you on the [team trips](https://tri.be/blog/team-trip-2019/).)
+(Also, if you work enough with us, we’ll bring you on the team trips.)
 
 ## Who We Are
 
