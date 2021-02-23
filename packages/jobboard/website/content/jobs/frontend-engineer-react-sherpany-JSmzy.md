@@ -1,21 +1,20 @@
 ---
-title: "Frontend Engineer (React)"
+title: "Frontend Engineer"
 location: "Remote Worldwide"
 host: "https://sherpany.breezy.hr/?&location=Worldwide#positions"
 companyName: "sherpany"
 url: "https://sherpany.breezy.hr/p/5167acc7a84301-frontend-engineer-react"
 applyUrl: "https://sherpany.breezy.hr/p/5167acc7a84301-frontend-engineer-react/apply"
 timestamp: 1614038400000
-hashtags: "#javascript,#reactjs,#css,#html,#docker,#ui/ux,#git,#management,#scrum,#finance"
+hashtags: "#javascript,#reactjs,#html,#css,#docker,#ui/ux,#git,#management,#scrum,#finance"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sherpany"
 companyWebsite: "https://www.sherpany.com/en/"
-summary: "Sherpany intends to hire a new frontend engineer. If you have experience with React and state management libraries, consider applying."
+summary: "Sherpany intends to hire a new Frontend Engineer. If you have experience with React and state management libraries, consider applying."
 summaryBackup: "Sherpany is looking for a frontend engineer that has experience in: #javascript, #reactjs, #css."
-featured: 20
+featured: 7
 ---
 
-![](https://gallery-cdn.breezy.hr/6eb92/ben-kolde-430909-unsplash.jpeg)
 
 Sherpany\`s mission is to give back time by turning formal meetings from time-wasters into value-creators. Our team is building a mobile and web based platform that allows effective choice making by digitally transforming meetings and decision making processes. In cutting administrative, organizational and repetitive work Sherpany\`s platform is actively sparing resources like paper, shipping and transportation. Within the next 5 years we aim to give back over 2 Mio. hours of extra time to people making decisions thereby enabling them to focus on value-adding work. Our headquarter is located in Zurich and we have offices in Lisbon, Berlin, Paris, Milan and Wroclaw.
 
@@ -67,4 +66,3 @@ People & Recruitment Partner
 
 daniela.bachmann(at)sherpany.com
 
-![](https://gallery-cdn.breezy.hr/f1c13/download.png)
