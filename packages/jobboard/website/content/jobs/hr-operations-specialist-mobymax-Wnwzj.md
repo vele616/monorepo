@@ -13,6 +13,7 @@ companyWebsite: "https://www.mobymax.com/"
 summary: "If you have 5+ years experience in human resources, benefits/payroll administration, and/or recruiting, MobyMax is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #operations, #HR? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 MobyMax is the most widely adopted edtech platform in the U.S. Millions of students use Moby every day to catch up to grade level, close learning gaps, or to move ahead of their class at their own pace. Join us; we’re transforming the way children learn, and we’re doing it in our slippers.
