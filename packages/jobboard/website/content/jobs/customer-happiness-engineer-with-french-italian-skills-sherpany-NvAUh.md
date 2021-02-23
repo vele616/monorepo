@@ -1,12 +1,12 @@
 ---
-title: "Customer Happiness Engineer (with French & Italian skills)"
+title: "Customer Happiness Engineer"
 location: "Remote Worldwide"
 host: "https://sherpany.breezy.hr/?&location=Worldwide#positions"
 companyName: "sherpany"
 url: "https://sherpany.breezy.hr/p/1f4dba97ad8801-customer-happiness-engineer-with-french-italian-skills"
 applyUrl: "https://sherpany.breezy.hr/p/1f4dba97ad8801-customer-happiness-engineer-with-french-italian-skills/apply"
 timestamp: 1614038400000
-hashtags: "#management,#office,#photoshop,#French,#finance,#English"
+hashtags: "#management,#French,#Italian,#office,#photoshop,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sherpany"
 companyWebsite: "https://www.sherpany.com/en/"
@@ -15,7 +15,6 @@ summaryBackup: "Sherpany is looking for a customer happiness engineer that has e
 featured: 20
 ---
 
-![](https://gallery-cdn.breezy.hr/abc96/34ee0.jpg)
 
 ## #Gettimeback to the executives of global leading companies..
 
