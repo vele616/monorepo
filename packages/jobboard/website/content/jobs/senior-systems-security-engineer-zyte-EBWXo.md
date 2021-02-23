@@ -1,18 +1,18 @@
 ---
 title: "Senior Systems Security Engineer"
-location: ""
+location: "Remote"
 host: "https://apply.workable.com/zyte/"
 companyName: "Zyte"
 url: "https://apply.workable.com/zyte/j/CB331C3B67/"
 applyUrl: "https://apply.workable.com/zyte/j/CB331C3B67/apply/"
 timestamp: 1614038400000
-hashtags: "#content,#ui/ux,#operations,#sales,#css,#management,#monitoring"
+hashtags: "#operations,#management,#monitoring,#sales,#content,#ui/ux,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/zyte"
 companyWebsite: "https://zyte.com/"
 summary: "If you have 5+ years experience as a System Security Engineer or Information Security Engineer, Zyte is looking for someone with your skillset."
 summaryBackup: "Love #content, #ui/ux, #operations? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
