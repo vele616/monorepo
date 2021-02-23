@@ -1,18 +1,18 @@
 ---
-title: "Customer Technical Support Engineer, Pressable"
+title: "Customer Technical Support Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/pressable"
 companyName: "Pressable"
 url: "https://boards.greenhouse.io/pressable/jobs/2319495"
 applyUrl: "https://boards.greenhouse.io/pressable/jobs/2319495#app"
 timestamp: 1614038400000
-hashtags: "#wordpress,#javascript,#php,#management,#css,#html,#branding,#git,#office,#analysis"
+hashtags: "#wordpress,#javascript,#html,#php,#management,#css,#branding,#git,#office,#analysis"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pressable"
-summary: "To apply as a customer technical support engineer at Pressable, you preferably need to have knowledge and experience with common web technologies,."
+summary: "To apply as a Customer Technical Support Engineer at Pressable, you preferably need to have knowledge and experience with common web technologies."
 summaryBackup: "Excited about #wordpress, #javascript, #php? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 As a Customer Technical Support Engineer, you’ll craft our customer experience.
