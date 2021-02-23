@@ -6,13 +6,13 @@ companyName: "Zyte"
 url: "https://apply.workable.com/zyte/j/F6913286B0/"
 applyUrl: "https://apply.workable.com/zyte/j/F6913286B0/apply/"
 timestamp: 1614038400000
-hashtags: "#python,#javascript,#reactjs,#angular,#vuejs,#typescript,#ui/ux,#html,#css,#content"
+hashtags: "#typescript,#angular,#reactjs,#python,#javascript,#vuejs,#ui/ux,#html,#css,#content"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/zyte"
 companyWebsite: "https://zyte.com/"
-summary: "To apply as a senior frontend developer at Zyte, you preferably need to have in depth experience with the Angular."
+summary: "To apply as a senior Frontend Developer at Zyte, you preferably need to have in depth experience with the Angular framework."
 summaryBackup: "Love #python, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Description
