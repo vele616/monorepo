@@ -1,18 +1,18 @@
 ---
-title: "Software Engineer, Pressable"
+title: "Software Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/pressable"
 companyName: "Pressable"
 url: "https://boards.greenhouse.io/pressable/jobs/2554311"
 applyUrl: "https://boards.greenhouse.io/pressable/jobs/2554311#app"
 timestamp: 1614038400000
-hashtags: "#wordpress,#rubylang,#rails,#php,#typescript,#management,#docker,#reactjs,#python,#ui/ux"
+hashtags: "#wordpress,#rubylang,#typescript,#rails,#php,#management,#docker,#reactjs,#python,#ui/ux"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "If you have advanced experience with multiple programming languages and frameworks, Pressable is looking for someone with your skillset."
 summaryBackup: "To apply as a software engineer at Pressable, you preferably need to have some knowledge of: #wordpress, #rubylang, #rails."
-featured: 20
+featured: 12
 ---
 
 Pressable is a leading provider of managed WordPress hosting. We’re looking for a hardworking developer to help us build the world’s best WordPress hosting service.
