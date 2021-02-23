@@ -6,13 +6,13 @@ companyName: "lifetimely"
 url: "https://lifetimely.breezy.hr/p/f95294ab2a3201-data-scientist"
 applyUrl: "https://lifetimely.breezy.hr/p/f95294ab2a3201-data-scientist/apply"
 timestamp: 1614038400000
-hashtags: "#python,#branding,#management,#tensorflow,#content,#analysis,#English"
+hashtags: "#python,#tensorflow,#analysis,#branding,#management,#content,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/lifetimely"
 companyWebsite: "https://lifetimely.breezy.hr/"
-summary: "Interested in new opportunities and have data scientist with experience working on ecommerce data sets? Lifetimely has a job opening for a data scientist."
+summary: "Interested in new opportunities and have a working experience with Python and Tensorflow? Lifetimely has a job opening for a Data Scientist."
 summaryBackup: "Love #python, #branding, #management? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Hey - have you ever tried modeling customer lifetime value? 👋
