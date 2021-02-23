@@ -1,18 +1,18 @@
 ---
-title: "Managing Editor - Sponsored Collections"
+title: "Managing Editor"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
-companyName: "komoot"
+companyName: "Komoot"
 url: "https://apply.workable.com/komoot/j/D5C6628155/"
 applyUrl: "https://apply.workable.com/komoot/j/D5C6628155/apply/"
 timestamp: 1614038400000
-hashtags: "#content,#macos,#branding,#management,#sales,#German,#English"
+hashtags: "#content,#branding,#management,#macos,#sales,#German,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
-summary: "Komoot intends to hire a new managing editor. If you have are you an exceptional editor with a proven track record of published digital work, some experience of managing a team and possess native, consider applying."
+summary: "Komoot intends to hire a new Managing Editor. If you are an experienced editor with a proven track record of producing digital content, are skilled in writing for a specific audience and have a passion for storytelling and publishing, consider applying."
 summaryBackup: "Komoot is looking for a managing editor that has experience in: #content, #macos, #branding."
-featured: 20
+featured: 10
 ---
 
 ## Description
