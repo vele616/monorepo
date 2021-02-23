@@ -1,5 +1,5 @@
 ---
-title: "General Manager, Pressable"
+title: "General Manager"
 location: "Remote"
 host: "https://boards.greenhouse.io/pressable"
 companyName: "Pressable"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#wordpress,#sales,#content,#management,#operations,#css,#w
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pressable"
-summary: "Pressable intends to hire a new general manager. If you have 10+ years of progressive leadership experience building and managing a B2B SaaS product, consider applying."
+summary: "Pressable intends to hire a new General Manager. If you have 10+ years of progressive leadership experience building and managing a B2B SaaS product, consider applying."
 summaryBackup: "Excited about #marketing, #wordpress, #sales? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## About the Company
