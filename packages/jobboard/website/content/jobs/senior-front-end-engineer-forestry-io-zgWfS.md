@@ -6,13 +6,13 @@ companyName: "Forestry.io"
 url: "https://boards.greenhouse.io/forestry/jobs/4304746003"
 applyUrl: "https://boards.greenhouse.io/forestry/jobs/4304746003#app"
 timestamp: 1614038400000
-hashtags: "#reactjs,#content,#management,#typescript,#ui/ux,#office"
-jobType: "other"
+hashtags: "#typescript,#reactjs,#content,#management,#ui/ux,#office"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/forestry-io"
 companyWebsite: "https://boards.greenhouse.io/forestry"
-summary: "Interested in new opportunities and have you have experience working with TypeScript or NextJS? Forestry.io has a job opening for a senior front-end engineer."
+summary: "Interested in new opportunities and have experience working with TypeScript or NextJS? Forestry.io has a job opening for a Senior Front-end Engineer."
 summaryBackup: "Love #reactjs, #content, #management? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 At Forestry.io, we believe the web is one of humanity’s greatest achievements and our mission is to help people build a better web. We’re building a Git-backed content management system (CMS) and an open source site-editing toolkit ([TinaCMS](https://tinacms.org/)), both focused on the JAMstack. [We’re a growing company](https://forestry.io/about) with big dreams that's full of opportunities for you to have an impact and grow with us.
