@@ -6,13 +6,13 @@ companyName: "Pressable"
 url: "https://boards.greenhouse.io/pressable/jobs/2524558"
 applyUrl: "https://boards.greenhouse.io/pressable/jobs/2524558#app"
 timestamp: 1614038400000
-hashtags: "#marketing,#wordpress,#sales,#content,#management,#operations,#css,#windows,#analysis,#branding"
+hashtags: "#marketing,#management,#analysis,#sales,#content,#wordpress,#operations,#css,#windows,#branding"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "Pressable intends to hire a new General Manager. If you have 10+ years of progressive leadership experience building and managing a B2B SaaS product, consider applying."
 summaryBackup: "Excited about #marketing, #wordpress, #sales? Check out this job post!"
-featured: 15
+featured: 12
 ---
 
 ## About the Company
