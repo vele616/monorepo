@@ -1,18 +1,18 @@
 ---
-title: "Product Manager - Routing"
+title: "Product Manager"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
 companyName: "komoot"
 url: "https://apply.workable.com/komoot/j/781C6AE1B5/"
 applyUrl: "https://apply.workable.com/komoot/j/781C6AE1B5/apply/"
 timestamp: 1614038400000
-hashtags: "#marketing,#macos,#management,#optimization,#translation,#analysis,#office,#English"
+hashtags: "#marketing,#management,#optimization,#macos,#translation,#analysis,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
 summary: "To apply as a product manager at Komoot, you preferably need to have 3+ years Product Management experience in a product company with an emphasis on the technical/backend side of a product OR 3+ years of experience in data science and/or engineering with an ambition to transition into a Product Manager role."
 summaryBackup: "Excited about #marketing, #macos, #management? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 ## Description
