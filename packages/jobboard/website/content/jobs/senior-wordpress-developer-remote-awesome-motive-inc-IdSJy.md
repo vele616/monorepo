@@ -1,18 +1,18 @@
 ---
-title: "Senior WordPress Developer (Remote)"
+title: "Senior WordPress Developer"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
 url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=21&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=21&source=other"
 timestamp: 1614124800000
-hashtags: "#management,#wordpress,#php,#javascript,#jquery,#git,#operations,#branding,#ui/ux,#mysql"
+hashtags: "#wordpress,#php,#javascript,#jquery,#git,#operations,#management,#branding,#ui/ux,#mysql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
-summary: "If you have deep experience with build tools like gulp and webpack and, Awesome Motive, Inc is looking for someone with your knowledge."
-summaryBackup: "Awesome Motive, Inc is looking for a senior wordpress developer that has experience in: #management, #wordpress, #php."
-featured: 20
+summary: "If you have professional experience with WordPress plugin development, architecture, and standards, Awesome Motive is looking for someone with your knowledge."
+summaryBackup: "Awesome Motive is looking for a Senior Wordpress Developer that has experience in: #management, #wordpress, #php."
+featured: 15
 ---
 
 As a Senior WordPress at Awesome Motive, you’ll join the WPForms team where you will collaborate with awesome team members and tackle a wide range of responsibilities.
