@@ -1,18 +1,18 @@
 ---
-title: "Customer Success Lead (Remote)"
+title: "Customer Success Lead"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/BAFAB48610/"
 applyUrl: "https://apply.workable.com/posthog/j/BAFAB48610/apply/"
 timestamp: 1614124800000
-hashtags: "#management,#ui/ux,#marketing"
+hashtags: "#management,#marketing,#sales,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
 summary: "PostHog is looking for a customer success lead that has experience in: experience in: #management, #ui/ux, #marketing."
 summaryBackup: "Excited about #management, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 ## Description
