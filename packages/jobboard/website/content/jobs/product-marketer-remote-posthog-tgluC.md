@@ -1,5 +1,5 @@
 ---
-title: "Product Marketer (Remote)"
+title: "Product Marketer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
 summary: "If you have experience working as a product marketer for a technical product positioned at developers, PostHog is looking for someone with your knowledge."
 summaryBackup: "To apply as a product marketer at PostHog, you preferably need to have some knowledge of: #marketing, #sales, #content."
-featured: 20
+featured: 10
 ---
 
 ## Description
