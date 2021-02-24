@@ -6,13 +6,13 @@ companyName: "Atomic Robot"
 url: "https://apply.workable.com/atomicrobot/j/0B52BC2569/"
 applyUrl: "https://apply.workable.com/atomicrobot/j/0B52BC2569/apply/"
 timestamp: 1614124800000
-hashtags: "#socialmedia,#marketing,#internship,#content,#management,#branding,#ui/ux,#analysis,#office,#monitoring"
+hashtags: "#socialmedia,#marketing,#management,#internship,#content,#management,#branding,#ui/ux,#analysis,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/atomic-robot"
 companyWebsite: "https://atomicrobot.com/"
-summary: "Atomic Robot intends to hire a new social media coordinator. If you have previous internship experience as a Social media coordinator highly preferred, consider applying."
+summary: "Atomic Robot intends to hire a new Social Media Coordinator. If you have previous internship experience as a Social media coordinator, consider applying."
 summaryBackup: "To apply as a social media coordinator at Atomic Robot, you preferably need to have some knowledge of: #socialmedia, #marketing, #internship."
-featured: 20
+featured: 11
 ---
 
 ## Description
