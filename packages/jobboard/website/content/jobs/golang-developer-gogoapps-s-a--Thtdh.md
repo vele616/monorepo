@@ -10,9 +10,9 @@ hashtags: "#kubernetes,#golang,#terraform,#docker,#branding,#ui/ux,#operations,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gogoapps-s-a-"
 companyWebsite: "http://www.gogoapps.io/"
-summary: "GogoApps S.A. is searching for a golang developer that has experience with Docker and Kubernetes."
+summary: "GogoApps is searching for a Golang Developer that has experience with Docker and Kubernetes."
 summaryBackup: "Excited about #kubernetes, #golang, #terraform? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
