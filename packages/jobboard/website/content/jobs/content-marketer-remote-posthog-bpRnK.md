@@ -1,18 +1,18 @@
 ---
-title: "Content Marketer (Remote)"
+title: "Content Marketer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/4D42AD028F/"
 applyUrl: "https://apply.workable.com/posthog/j/4D42AD028F/apply/"
 timestamp: 1614124800000
-hashtags: "#content,#marketing,#ui/ux,#management,#translation,#office"
+hashtags: "#content,#marketing,#management,#ui/ux,#translation,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "To apply as a content marketer at PostHog, you preferably need to have experience working as a technical content marketer creating top."
+summary: "To apply as a Content Marketer at PostHog, you preferably need to have experience working as a technical content marketer creating top-of-funnel content for developers."
 summaryBackup: "Love #content, #marketing, #ui/ux? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Description
