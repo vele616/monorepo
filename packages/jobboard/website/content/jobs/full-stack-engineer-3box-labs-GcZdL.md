@@ -1,5 +1,5 @@
 ---
-title: "Full Stack engineer"
+title: "Full Stack Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/3box?location=Remote"
 companyName: "3Box Labs"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#ui/ux,#management,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/3box-labs"
 companyWebsite: "http://3boxlabs.com/"
-summary: "To apply as a full stack engineer at 3Box Labs, you preferably need to have some knowledge of: experience in: #javascript, #ui/ux, #management."
+summary: "To apply as a Full Stack Engineer at 3Box Labs, you preferably need to have some knowledge of: #javascript, #ui/ux, #management."
 summaryBackup: "Love #javascript, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 Do you want to help developers and users reclaim the web with a brand new technology to directly manage our information and identities online?
@@ -27,7 +27,7 @@ We are looking for a Full Stack engineer to build key features and improvements 
 
 *   Ensure our developer experience is consistently remarkable, proactively noticing gaps and shipping high quality improvements in everything from documentation to API design to core libraries
 *   Implement an opt-in 2-factor authentication system in 3ID Connect (our authentication service)
-*   Become one of the core developers on our identity stack, likely as the technical owner on one or both of 3ID Connect and [Self.ID](http://self.ID) (not yet released)
+*   Become one of the core developers on our identity stack, likely as the technical owner on one or both of 3ID Connect and Self.ID (not yet released)
 *   Contribute across the stack, giving you a unique ability to work on the most critical problems, communicate our tech internally and externally, and support our developer community with a broad and deep understanding
 *   Collaborate with critical partners to help them understand our tech, design novel solutions, and implement high impact usage
 *   Interface with community in discord and other forums to provide support and build community
