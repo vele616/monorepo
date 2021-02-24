@@ -6,13 +6,13 @@ companyName: "GogoApps S.A."
 url: "https://gogoapps.recruitee.com/o/ux-designer"
 applyUrl: "https://gogoapps.recruitee.com/o/ux-designer/c/new"
 timestamp: 1614124800000
-hashtags: "#ui/ux,#css,#html,#branding,#figma,#English"
+hashtags: "#ui/ux,#css,#figma,#html,#branding,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gogoapps-s-a-"
 companyWebsite: "http://www.gogoapps.io/"
 summary: "If you have 3+ years of experience designing products for both desktop and mobile, GogoApps S.A. is looking for someone with your knowledge."
 summaryBackup: "GogoApps S.A. is looking for an ux designer that has experience in: #ui/ux, #css, #html."
-featured: 20
+featured: 5
 ---
 
 ## Job description
