@@ -1,5 +1,5 @@
 ---
-title: "Product Marketer (Remote)"
+title: "Product Marketer"
 location: "San Francisco, California, United States"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#sales,#content,#ui/ux,#operations,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "PostHog wishes to hire a new product marketer. If you have experience working as a product marketer for a technical product positioned at developers, consider applying."
+summary: "PostHog wishes to hire a new Product Marketer. If you have experience working as a product marketer for a technical product positioned at developers, consider applying."
 summaryBackup: "Excited about #marketing, #sales, #content? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
