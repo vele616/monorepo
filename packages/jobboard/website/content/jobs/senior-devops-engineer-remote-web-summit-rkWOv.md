@@ -13,6 +13,7 @@ companyWebsite: "https://websummit.com/"
 summary: "To apply as a Senior DevOps Engineer at Web Summit, you preferably need to have experience working in a Kanban or Scrum team driving everyone around you to perform to their utmost."
 summaryBackup: "To apply as a senior devops engineer at Web Summit, you preferably need to have some knowledge of: #ui/ux, #terraform, #kubernetes."
 featured: 2
+archived: "true"
 ---
 
 **About us:**

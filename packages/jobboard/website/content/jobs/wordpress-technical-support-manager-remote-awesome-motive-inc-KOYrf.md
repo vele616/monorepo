@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have 2 years of experience managing a team of 10 or more, Awesome Motive, Inc is looking for someone with your knowledge."
 summaryBackup: "To apply as a wordpress technical support manager at Awesome Motive, Inc, you preferably need to have some knowledge of: #wordpress, #management, #php."
 featured: 15
+archived: "true"
 ---
 
 As a Technical Support Manager within Awesome Motive, you’ll be responsible for ensuring the success of one of our world-class WordPress support teams. You'll work remotely with Senior Support to coordinate all team members, lead numerous responsibilities and initiatives within support, and continually reinforce a positive, team-oriented culture. 
