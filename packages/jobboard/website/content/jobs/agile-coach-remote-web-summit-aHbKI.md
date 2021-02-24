@@ -13,6 +13,7 @@ companyWebsite: "https://websummit.com/"
 summary: "Web Summit is searching for an agile coach that has proven track record of mentoring and educating colleagues."
 summaryBackup: "To apply as an agile coach at Web Summit, you preferably need to have some knowledge of: #scrum, #ui/ux, #management."
 featured: 13
+archived: "true"
 ---
 
 **About us:**

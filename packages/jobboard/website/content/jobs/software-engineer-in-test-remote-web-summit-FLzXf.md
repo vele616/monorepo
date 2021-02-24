@@ -13,6 +13,7 @@ companyWebsite: "https://websummit.com/"
 summary: "If you have on experience with automated testing tools, Web Summit is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #reactjs, #git? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 **About us:**

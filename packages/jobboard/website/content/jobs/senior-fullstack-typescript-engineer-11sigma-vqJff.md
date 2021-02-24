@@ -13,6 +13,7 @@ companyWebsite: "https://11sigma.com/"
 summary: "Excited about experience in: #typescript, #ui/ux, #javascript? Check out this job post!"
 summaryBackup: "11sigma is looking for a senior fullstack typescript engineer that has experience in: #typescript, #ui/ux, #javascript."
 featured: 5
+archived: "true"
 ---
 
 Hi! My name is Chris, I’m the CEO of [11Sigma](https://11sigma.com/), and I’d like to invite you to join our team.
