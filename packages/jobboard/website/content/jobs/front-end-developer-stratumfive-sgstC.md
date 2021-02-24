@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#angular,#typescript,#ui/ux,#operations,#html,#d
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stratumfive"
 companyWebsite: "http://www.stratumfive.com/"
-summary: "StratumFive intends to hire a new front-end developer. If you have advanced Vue.js experience preferable, although general framework experience is applicable, consider applying."
+summary: "StratumFive intends to hire a new Front-End Developer. If you have framework experience, consider applying."
 summaryBackup: "StratumFive is looking for a front-end developer that has experience in: #javascript, #reactjs, #angular."
-featured: 20
+featured: 5
 ---
 
 ## Description
