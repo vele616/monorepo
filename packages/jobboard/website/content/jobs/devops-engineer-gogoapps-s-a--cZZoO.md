@@ -10,9 +10,9 @@ hashtags: "#terraform,#python,#rustlang,#kubernetes,#aws,#googlecloud,#branding,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gogoapps-s-a-"
 companyWebsite: "http://www.gogoapps.io/"
-summary: "To apply as a devops engineer at GogoApps S.A., you preferably need to have experience with at least one major cloud provider."
+summary: "To apply as a Devops Engineer at GogoApps, you preferably need to have experience with at least one major cloud provider."
 summaryBackup: "Excited about #terraform, #python, #rustlang? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 ## Job description
