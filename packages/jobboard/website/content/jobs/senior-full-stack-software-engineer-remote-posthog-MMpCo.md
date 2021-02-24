@@ -1,18 +1,18 @@
 ---
-title: "Senior Full Stack Software Engineer (Remote)"
+title: "Senior Full Stack Software Engineer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/9BC8EB9083/"
 applyUrl: "https://apply.workable.com/posthog/j/9BC8EB9083/apply/"
 timestamp: 1614124800000
-hashtags: "#django,#ui/ux,#marketing,#postgresql,#analysis"
+hashtags: "#django,#ui/ux,#postgresql,#marketing,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "To apply as a senior full stack software engineer at PostHog, you preferably need to have some knowledge of: experience in: #django, #ui/ux, #marketing."
+summary: "To apply as a Senior Full Stack Software Engineer at PostHog, you preferably need to have some knowledge of: #django, #ui/ux, #marketing."
 summaryBackup: "To apply as a senior full stack software engineer at PostHog, you preferably need to have some knowledge of: #django, #ui/ux, #marketing."
-featured: 20
+featured: 2
 ---
 
 ## Description
@@ -29,7 +29,7 @@ We're up against billion dollar companies, and we're catching up. We will overta
 
 [Comments like this](https://news.ycombinator.com/item?id=22378393) are what we live and die by.
 
-We keep cycles very short. There is a roadmap session, [like this](https://github.com/PostHog/posthog/issues/1870), every two weeks - each developer suggests what they want to build to have the greatest impact, then they do just that. You choose what you focus on, and you are responsible for tests, user feedback and tracking.
+We keep cycles very short. There is a roadmap session, every two weeks - each developer suggests what they want to build to have the greatest impact, then they do just that. You choose what you focus on, and you are responsible for tests, user feedback and tracking.
 
 **The people here are really, really smart**
 
@@ -61,15 +61,15 @@ In particular, those with a very strong background in Django, architecture and d
 
 **What we offer in return:**
 
-*   Generous [compensation](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/compensation)
-*   [Unlimited vacation](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/time-off) with a 25 day minimum
+*   Generous compensation
+*   Unlimited vacation with a 25 day minimum
 *   Health insurance
-*   [Generous parental leave](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/time-off)
+*   Generous parental leave
 *   Visa sponsorship if needed, for you and your loved ones
-*   [Training budget](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/training)
-*   [$200/month budget towards co-working or café working](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/spending-money)
+*   Training budget
+*   $200/month budget towards co-working or café working
 *   Carbon offsetting for work travel with [Project Wren](https://www.wren.co/)
-*   [Free books](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/training#books)
+*   Free books
 
 _Please note that benefits vary slightly by country. If you have any questions, please don't hesitate to ask our team._
 
@@ -82,9 +82,9 @@ _Please note that benefits vary slightly by country. If you have any questions, 
 
 **Not sold? Learn more first**
 
-*   [How we hire](https://github.com/PostHog/posthog.com/blob/growth-engineer/careers#the-process)
-*   We ask for your best work, and in return [pay generously](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/compensation) and have [exceptional benefits](https://github.com/PostHog/posthog.com/blob/growth-engineer/careers/#benefits)
-*   Learn about [the team you'd be working with](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/company/team)
-*   Getting hiring right is key to diversity. Learn about [how we think about this](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/company/diversity).
+*   How we hire:
+*   We ask for your best work, and in return pay generously and have exceptional benefits
+*   Learn about the team you'd be working with
+*   Getting hiring right is key to diversity. Learn about how we think about this.
 
 _We believe people from diverse backgrounds, with different identities and experiences, make our product and our company better. No matter your background, we'd love to hear from you! Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!_
