@@ -10,7 +10,7 @@ hashtags: "#django,#postgresql,#ui/ux,#marketing,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "Love experience in: #django, #ui/ux, #marketing? Check out this job post!"
+summary: "Love experience in: #django, #postgresql, #ui/ux? Check out this job post!"
 summaryBackup: "To apply as a full stack software engineer at PostHog, you preferably need to have some knowledge of: #django, #ui/ux, #marketing."
 featured: 15
 ---
