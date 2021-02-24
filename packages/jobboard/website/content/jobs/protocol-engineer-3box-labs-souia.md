@@ -6,13 +6,13 @@ companyName: "3Box Labs"
 url: "https://jobs.lever.co/3box/d705c850-aba4-40ae-b01b-1b52551f512d"
 applyUrl: "https://jobs.lever.co/3box/d705c850-aba4-40ae-b01b-1b52551f512d/apply"
 timestamp: 1614124800000
-hashtags: "#ui/ux,#management,#branding"
+hashtags: "#cryptography,#ceramic,#ui/ux,#management,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/3box-labs"
 companyWebsite: "http://3boxlabs.com/"
-summary: "3Box Labs wishes to hire a new protocol engineer. If you have background in mechanism design or game theory, ability to design systems for adversarial environments, experience working with standards or research organizations, consider applying."
+summary: "3Box Labs wishes to hire a new Protocol Engineer. If you have background in mechanism design or game theory, ability to design systems for adversarial environments, experience working with standards or research organizations, consider applying."
 summaryBackup: "To apply as a protocol engineer at 3Box Labs, you preferably need to have some knowledge of: #ui/ux, #management, #branding."
-featured: 20
+featured: 3
 ---
 
 Do you want to help developers and users reclaim the web with a brand new technology to directly manage our information and identities online?
