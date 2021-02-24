@@ -8,7 +8,6 @@ applyUrl: "https://gogoapps.recruitee.com/o/golang-developer/c/new"
 timestamp: 1614124800000
 hashtags: "#kubernetes,#golang,#terraform,#docker,#branding,#ui/ux,#operations,#cassandra,#English"
 jobType: "software"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gogoapps-s-a-"
 companyWebsite: "http://www.gogoapps.io/"
 summary: "GogoApps is searching for a Golang Developer that has experience with Docker and Kubernetes."
 summaryBackup: "Excited about #kubernetes, #golang, #terraform? Check out this job post!"
