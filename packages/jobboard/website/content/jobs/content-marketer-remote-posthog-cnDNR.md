@@ -1,18 +1,18 @@
 ---
-title: "Content Marketer (Remote)"
+title: "Content Marketer"
 location: "San Francisco, California, United States"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/CBEF343B79/"
 applyUrl: "https://apply.workable.com/posthog/j/CBEF343B79/apply/"
 timestamp: 1614124800000
-hashtags: "#content,#marketing,#ui/ux,#management,#translation,#office"
+hashtags: "#content,#marketing,#management,#ui/ux,#translation,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "PostHog intends to hire a new content marketer. If you have experience working as a technical content marketer creating top, consider applying."
+summary: "PostHog intends to hire a new content marketer. If you jave experience creating content for an open source product, consider applying."
 summaryBackup: "PostHog is looking for a content marketer that has experience in: #content, #marketing, #ui/ux."
-featured: 20
+featured: 12
 ---
 
 ## Description
