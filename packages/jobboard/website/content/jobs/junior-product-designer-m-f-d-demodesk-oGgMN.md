@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Interested in new opportunities and have from crafting the user experience and designing high fidelity interfaces, to shaping the design strategy of Demodesk? Demodesk has a job opening for a junior product designer."
 summaryBackup: "To apply as a junior product designer at Demodesk, you preferably need to have some knowledge of: #ui/ux, #sales, #linux."
 featured: 5
+archived: "true"
 ---
 
 Mission

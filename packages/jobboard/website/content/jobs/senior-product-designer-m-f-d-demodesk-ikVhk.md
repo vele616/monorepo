@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk is searching for a senior product designer that has 3 years experience in designing digital products."
 summaryBackup: "Excited about #ui/ux, #sales, #linux? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Mission
