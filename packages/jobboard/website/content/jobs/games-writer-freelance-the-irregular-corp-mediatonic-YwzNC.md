@@ -1,18 +1,18 @@
 ---
-title: "Games Writer (Freelance) - The Irregular Corp"
+title: "Games Writer"
 location: "United Kingdom"
 host: "https://apply.workable.com/mediatonic/"
 companyName: "Mediatonic"
 url: "https://apply.workable.com/mediatonic/j/D3ACA44B23/"
 applyUrl: "https://apply.workable.com/mediatonic/j/D3ACA44B23/apply/"
 timestamp: 1614211200000
-hashtags: "#content,#management"
+hashtags: "#content,#writer,#games,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mediatonic"
 companyWebsite: "https://www.mediatonicgames.com/"
-summary: "If you have as a creative business, we recognise that creativity is best inspired by different experiences and perspectives and we strive to create a culture of belonging, where all our colleagues feel welcome and diversity is celebrated, Mediatonic has a job opening for a games writer"
+summary: "If you have natural gift for humour, able to find the funny angle on every message and deliver fresh gags with creativity and flair, Mediatonic has a job opening for a Games Writer"
 summaryBackup: "To apply as a games writer at Mediatonic, you preferably need to have some knowledge of: #content, #management."
-featured: 20
+featured: 10
 ---
 
 ## Description
@@ -45,7 +45,6 @@ We’re looking for a freelance Games Writer for a minimum of 3 months to work o
 *   Someone with a natural gift for humour, able to find the funny angle on every message and deliver fresh gags with creativity and flair.
 *   Able to tell memorable stories through text alone, with no reliance on images or audio.
 *   Able to adapt to and build on the tone of an existing universe.
-
 *   Comfortable writing in spreadsheet format.
 *   Able to collaborate, giving and receiving feedback in a mature manner throughout the writing process.
 *   Self-motivated and able to work remotely with a high degree of independence.
