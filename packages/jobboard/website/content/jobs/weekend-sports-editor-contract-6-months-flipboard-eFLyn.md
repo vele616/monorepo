@@ -1,16 +1,16 @@
 ---
-title: "Weekend/Sports Editor (Contract - 6 months)"
+title: "Weekend/Sports Editor"
 location: "Remote"
 host: "https://jobs.lever.co/flipboard?location=Remote"
 companyName: "Flipboard"
 url: "https://jobs.lever.co/flipboard/7e7007dd-d23c-4c0b-b435-3c2e2b09aa8f"
 applyUrl: "https://jobs.lever.co/flipboard/7e7007dd-d23c-4c0b-b435-3c2e2b09aa8f/apply"
 timestamp: 1614211200000
-hashtags: "#content,#android,#ios,#ui/ux,#management,#marketing"
+hashtags: "#content,#management,#marketing,#android,#ios,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flipboard"
 companyWebsite: "https://about.flipboard.com/careers/"
-summary: "Flipboard intends to hire a new weekend. If you have 5 years experience editing and/or curating news content for a digital platform, consider applying."
+summary: "Flipboard intends to hire a new Weekend/Sports Editor. If you have 5 years experience editing and/or curating news content for a digital platform, consider applying."
 summaryBackup: "Love #content, #android, #ios? Check out this job post!"
 featured: 20
 ---
