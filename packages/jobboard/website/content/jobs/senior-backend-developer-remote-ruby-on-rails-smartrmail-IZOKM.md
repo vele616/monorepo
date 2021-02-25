@@ -1,18 +1,18 @@
 ---
-title: "Senior Backend Developer (Remote) - Ruby on Rails"
+title: "Senior Backend Developer"
 location: "Melbourne, Victoria, Australia"
 host: "https://apply.workable.com/smartrmail/"
 companyName: "SmartrMail"
 url: "https://apply.workable.com/smartrmail/j/EA8CE1DF47/"
 applyUrl: "https://apply.workable.com/smartrmail/j/EA8CE1DF47/apply/"
 timestamp: 1614211200000
-hashtags: "#rails,#rubylang,#marketing,#vuejs,#azure,#redis,#postgresql,#aws,#googlecloud,#management"
+hashtags: "#rails,#rubylang,#postgresql,#marketing,#vuejs,#azure,#redis,#aws,#googlecloud,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smartrmail"
 companyWebsite: "http://smartrmail.com/"
-summary: "If you have 4+ years’ experience in a Ruby on Rails development, SmartrMail has a job opening for a senior backend developer"
+summary: "If you have 4+ years’ experience in a Ruby on Rails development, SmartrMail has a job opening for a Senior Backend Developer"
 summaryBackup: "To apply as a senior backend developer at SmartrMail, you preferably need to have some knowledge of: #rails, #rubylang, #marketing."
-featured: 20
+featured: 10
 ---
 
 ## Description
