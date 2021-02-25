@@ -6,13 +6,13 @@ companyName: "Forem"
 url: "https://jobs.forem.com/o/mobile-software-engineer"
 applyUrl: "https://jobs.forem.com/o/mobile-software-engineer/c/new"
 timestamp: 1614211200000
-hashtags: "#android,#ios,#swift,#kotlin,#branding,#socialmedia"
+hashtags: "#android,#swift,#kotlin,#branding,#ios,#socialmedia"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/forem"
 companyWebsite: "https://forem.com/"
-summary: "Love experience in: #android, #ios, #swift? Check out this job post!"
-summaryBackup: "Forem is looking for a mobile software engineer that has experience in: #android, #ios, #swift."
-featured: 20
+summary: "Forem is looking for a mobile software engineer that has experience in: #android, #kotlin, #swift."
+summaryBackup: "Forem is looking for a mobile software engineer that has experience in: #android, #kotlin, #swift."
+featured: 5
 ---
 
 ## Job description
