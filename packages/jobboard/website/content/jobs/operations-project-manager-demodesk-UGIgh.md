@@ -6,13 +6,13 @@ companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/50ff6ea0-1b73-4ab8-9801-a30fe5462f7f"
 applyUrl: "https://jobs.lever.co/demodesk/50ff6ea0-1b73-4ab8-9801-a30fe5462f7f/apply"
 timestamp: 1614211200000
-hashtags: "#management,#operations,#sales,#css,#content,#office,#analysis,#German,#English"
+hashtags: "#management,#operations,#analysis,#sales,#css,#content,#office,#German,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "Demodesk intends to hire a new operations project manager. If you have 3 + years experience working in a high performance environment like a fast growing startup or consultancy, consider applying."
+summary: "Demodesk intends to hire a new Operations Project Manager. If you have 3 + years experience working in a high performance environment like a fast growing startup or consultancy, consider applying."
 summaryBackup: "Excited about #management, #operations, #sales? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 **Mission**
