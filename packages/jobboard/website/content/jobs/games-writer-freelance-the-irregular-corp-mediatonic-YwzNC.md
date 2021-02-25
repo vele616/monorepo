@@ -10,9 +10,9 @@ hashtags: "#content,#writer,#games,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mediatonic"
 companyWebsite: "https://www.mediatonicgames.com/"
-summary: "If you have natural gift for humour, able to find the funny angle on every message and deliver fresh gags with creativity and flair, Mediatonic has a job opening for a Games Writer"
+summary: "If you have a natural gift for humour, are able to find the funny angle on every message and deliver fresh gags with creativity and flair, Mediatonic has a job opening for a Games Writer."
 summaryBackup: "To apply as a games writer at Mediatonic, you preferably need to have some knowledge of: #content, #management."
-featured: 10
+featured: 9
 ---
 
 ## Description
