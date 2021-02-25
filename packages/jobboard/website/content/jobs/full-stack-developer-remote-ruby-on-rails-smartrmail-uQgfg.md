@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Developer (Remote) - Ruby on Rails"
+title: "Full Stack Developer"
 location: "Melbourne, Victoria, Australia"
 host: "https://apply.workable.com/smartrmail/"
 companyName: "SmartrMail"
 url: "https://apply.workable.com/smartrmail/j/3163B19CA6/"
 applyUrl: "https://apply.workable.com/smartrmail/j/3163B19CA6/apply/"
 timestamp: 1614211200000
-hashtags: "#rails,#rubylang,#vuejs,#marketing,#html,#css,#azure,#management,#git,#redis"
+hashtags: "#rails,#rubylang,#git,#vuejs,#marketing,#html,#css,#azure,#management,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smartrmail"
 companyWebsite: "http://smartrmail.com/"
 summary: "If you have 3+ years’ experience in Full-Stack Ruby on Rails development, SmartrMail is looking for someone with your knowledge."
 summaryBackup: "Love #rails, #rubylang, #vuejs? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Description
