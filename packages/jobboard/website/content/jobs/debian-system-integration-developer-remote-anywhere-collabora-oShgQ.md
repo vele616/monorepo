@@ -1,18 +1,18 @@
 ---
-title: "Debian System Integration Developer (Remote/Anywhere)"
+title: "Debian System Integration Developer"
 location: "Remote"
 host: "https://jobs.lever.co/collabora?location=Remote"
 companyName: "Collabora"
 url: "https://jobs.lever.co/collabora/b88e8816-0345-4801-9592-dae07725e756"
 applyUrl: "https://jobs.lever.co/collabora/b88e8816-0345-4801-9592-dae07725e756/apply"
 timestamp: 1614211200000
-hashtags: "#marketing,#linux,#management,#ui/ux,#English"
+hashtags: "#debian,#linux,#flatpak,#management,#marketing,#ui/ux,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
-summary: "If you have debian experience with tangible track record, consider applying to Collabora's job post for a new debian system integration developer."
+summary: "If you have debian experience with tangible track record, consider applying to Collabora's job post for a new Debian System Integration Developer."
 summaryBackup: "Love #marketing, #linux, #management? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 We are currently looking for passionate and enthusiastic Debian System Integration developers join our ever growing geographically-distributed consultancy team.
