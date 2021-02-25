@@ -1,6 +1,6 @@
 ---
 title: "Ruby on Rails Developer"
-location: ""
+location: "Remote"
 host: "https://apply.workable.com/hunter-io/"
 companyName: "Hunter"
 url: "https://apply.workable.com/hunter-io/j/96E3674C02/"
@@ -10,9 +10,9 @@ hashtags: "#rubylang,#rails,#kubernetes,#docker,#googlecloud,#ui/ux,#management,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hunter"
 companyWebsite: "https://hunter.io/"
-summary: "Hunter wishes to hire a new ruby on rails developer. If you have 5 years ago in France by Antoine and François, consider applying."
+summary: "Hunter wishes to hire a new Ruby on Rails Developer. If you have solid development experience with MVC frameworks, consider applying."
 summaryBackup: "Excited about #rubylang, #rails, #kubernetes? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
