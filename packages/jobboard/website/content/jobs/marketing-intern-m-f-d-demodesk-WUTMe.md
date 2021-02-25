@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk is searching for a Marketing Intern that has strong interpersonal skills and experience building strong internal and external relationships."
 summaryBackup: "Excited about #marketing, #content, #sales? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **Mission:**

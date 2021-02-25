@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk intends to hire a new founding designer. If you have 5+ years work experience as UX/UI designer for a web application, optimally in a fast growing international B2B SaaS startup, consider applying."
 summaryBackup: "Demodesk is looking for a founding designer that has experience in: #ui/ux, #branding, #marketing."
 featured: 10
+archived: "true"
 ---
 
 Mission

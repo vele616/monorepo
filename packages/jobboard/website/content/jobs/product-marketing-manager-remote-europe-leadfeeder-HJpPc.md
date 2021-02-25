@@ -13,6 +13,7 @@ companyWebsite: "https://www.leadfeeder.com/"
 summary: "Leadfeeder is looking for a Product Marketing Manager that has 3+ years experience in Product Marketing in a SaaS organisation."
 summaryBackup: "Leadfeeder is looking for a product marketing manager that has experience in: #marketing, #css, #management."
 featured: 13
+archived: "true"
 ---
 
 ## Description
