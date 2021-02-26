@@ -1,18 +1,18 @@
 ---
-title: "Senior Quality Engineer (Fully Remote)"
+title: "Senior Quality Engineer"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/F808BB4460/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/F808BB4460/apply/"
 timestamp: 1614297600000
-hashtags: "#javascript,#management,#marketing,#socialmedia"
+hashtags: "#management,#marketing,#javascript,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "If you have 5 years of technology experience, Omnipresent has a job opening for a senior quality engineer"
+summary: "If you have 5 years of technology experience, Omnipresent has a job opening for a Senior Quality Engineer"
 summaryBackup: "Excited about #javascript, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
