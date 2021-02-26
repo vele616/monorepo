@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "Binance is looking for a Freelance Translator that has 3 years of translation experience."
 summaryBackup: "To apply as a freelance translator at Binance, you preferably need to have some knowledge of: #translation, #content, #marketing."
 featured: 20
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.

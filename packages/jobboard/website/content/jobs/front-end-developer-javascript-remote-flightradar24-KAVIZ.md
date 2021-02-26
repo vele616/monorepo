@@ -13,6 +13,7 @@ companyWebsite: "https://flightradar24.com/"
 summary: "If you have 4 years experience of modern web development, consider applying to Flightradar24's job post for a new front-end developer."
 summaryBackup: "Love #javascript, #css, #html? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## What you’ll do

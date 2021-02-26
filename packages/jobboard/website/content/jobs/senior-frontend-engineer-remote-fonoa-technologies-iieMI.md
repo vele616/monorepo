@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "To apply as a Senior Frontend Engineer at Fonoa Technologies, you preferably need to have 5 years experience in software development."
 summaryBackup: "Love #ui/ux, #reactjs, #css? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Description

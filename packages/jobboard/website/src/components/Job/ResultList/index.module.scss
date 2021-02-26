@@ -1,0 +1,137 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+$limitTablet: 800;
+$limitDesktop: 1200;
+
+:export {
+  limitTablet: $limitTablet;
+  limitDesktop: $limitDesktop;
+}
+
+.pagination {
+  margin-top: 30px;
+  align-self: center;
+  @include mediaQuery("<tabletPortrait") {
+    margin-top: 5px;
+  }
+}
+
+.topPagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+
+}
+
+.floatingButton {
+  align-items: center;
+  border-radius: 50%;
+  border: none;
+  bottom: 20px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+  color: white;
+  display: flex;
+  font-size: 3em;
+  height: 50px;
+  justify-content: center;
+  outline: none;
+  padding: 0;
+  position: fixed;
+  right: 5%;
+  width: 50px;
+  transition: bottom 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+
+  &.hide {
+    bottom: - 100px;
+  }
+}
+
+.icon {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+  box-sizing: content-box;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.searchRef {
+  top: -100px;
+  position: absolute;
+}
+
+.section  {
+  animation: enter 0.6s ease;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  overflow: visible;
+  
+  & > :first-child {
+    width: 100%;
+  }
+
+  @include mediaQuery("<tabletPortrait") {
+    padding-bottom: 0px;
+    & > :first-child > :first-child {
+      @include getFluidFontSize(18, 20);
+    }
+  }
+
+  &__viewControls {
+    @include mediaQuery("<#{$limitTablet}px") {
+      display: none;
+    }
+  }
+
+  &__foundText {
+    margin-bottom: 30px;
+    @include mediaQuery("<tabletLandscape") {
+      margin-top: 30px;
+      justify-content: center !important;
+    }
+  }
+}
+
+.resultList {
+  display: flex;
+  flex-direction: column;
+
+  animation: enter 0.8s ease;
+  padding-top: 0px !important;
+  @include sectionPadding("desktop", true);
+     
+  @include mediaQuery(">=tabletLandscape", "<desktop") {
+    @include sectionPadding("tabletLandscape", true);
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
+    @include sectionPadding("tabletPortrait", true);
+  }
+
+  @include mediaQuery("<tabletPortrait") {
+    padding-left: 0px;
+    padding-right: 0px; 
+  }
+
+  &__grid {
+
+    row-gap: 45px !important;
+    column-gap: 45px !important;
+
+    & > * {
+      margin: 0px;
+      width: 100%;
+    }
+  }
+}
+
+@keyframes enter{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

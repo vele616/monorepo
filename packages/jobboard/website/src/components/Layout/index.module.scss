@@ -13,8 +13,10 @@ body {
   text-size-adjust: 100%;
 }
 
-.aboutUs {
-  @include mediaQuery(">tabletPortrait"){
-    margin-left: 25% !important;
+.centerAlignedLink {
+  align-items: center;
+  display: inline-flex;
+  & > span {
+    padding-left: 5px;
   }
 }

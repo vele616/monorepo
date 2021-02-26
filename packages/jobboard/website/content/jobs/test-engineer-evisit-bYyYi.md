@@ -13,6 +13,7 @@ companyWebsite: "http://www.evisit.com/"
 summary: "EVisit wishes to hire a new test engineer. If you have experience with Test Flight or Test Rail, consider applying."
 summaryBackup: "Excited about #rails, #android, #ios? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Description

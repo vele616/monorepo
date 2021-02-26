@@ -12,6 +12,7 @@ const Input = ({
   error,
   errorMessage,
   id,
+  hideLabelOnFocus,
   label,
   maxLength,
   onChange,
@@ -42,6 +43,7 @@ const Input = ({
       label={label}
       required={required}
       className={className}
+      hideLabelOnFocus={hideLabelOnFocus}
     >
       <input
         id={id}
@@ -79,6 +81,11 @@ Input.propTypes = {
   required: PropTypes.bool,
   maxLength: PropTypes.number,
   defaultValue: PropTypes.string,
+  /**
+   * If set to true it will hide label when input is not empty of is focused
+   * instead of setting it to top.
+   */
+  hideLabelOnFocus: PropTypes.bool,
 };
 
 Input.defaultProps = {

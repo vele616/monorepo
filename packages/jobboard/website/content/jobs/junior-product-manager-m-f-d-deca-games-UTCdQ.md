@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Deca Games is searching for a junior product manager that has 2+ years' experience working with Data Analytics."
 summaryBackup: "Love #management, #ui/ux, #analysis? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Who we’re looking for

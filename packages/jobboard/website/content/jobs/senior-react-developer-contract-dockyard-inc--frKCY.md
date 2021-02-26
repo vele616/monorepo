@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "Interested in new opportunities and have experience architecting complex frontends with React? DockYard, Inc. has a job opening for a senior react developer."
 summaryBackup: "Excited about #reactjs, #ui/ux, #javascript? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

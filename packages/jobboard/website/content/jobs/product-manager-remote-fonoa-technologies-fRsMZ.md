@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "If you have 3 years of experience in a B2B SaaS or API product management role, Fonoa Technologies is looking for someone with your skillset."
 summaryBackup: "Excited about #css, #ui/ux, #marketing? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.dnsfilter.com/"
 summary: "If you have experience in handling global employment compliance, policy-making, and record-keeping, consider applying to Dnsfilter's job post for a new Talent Specialist - Recruiter."
 summaryBackup: "Dnsfilter is looking for a talent specialist + recruiter that has experience in: #content, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## About this Job:

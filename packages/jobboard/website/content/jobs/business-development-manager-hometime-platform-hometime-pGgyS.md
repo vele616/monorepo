@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "If you have 3+ years of mid-market business development experience in SaaS, cloud or similar businesses, Hometime is looking for someone with your knowledge."
 summaryBackup: "To apply as a business development manager at Hometime, you preferably need to have some knowledge of: #marketing, #management, #operations."
 featured: 10
+archived: "true"
 ---
 
 ## About Hometime:

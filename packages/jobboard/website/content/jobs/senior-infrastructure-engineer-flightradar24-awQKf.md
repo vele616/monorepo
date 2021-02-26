@@ -13,6 +13,7 @@ companyWebsite: "https://flightradar24.com/"
 summary: "Flightradar24 is searching for a senior infrastructure engineer that has on experience with service orchestration, containerization, automation, scripting, configuration management."
 summaryBackup: "Flightradar24 is looking for a senior infrastructure engineer that has experience in: #aws, #linux, #azure."
 featured: 20
+archived: "true"
 ---
 
 In addition to our systems and cloud infrastructures we operate a globally distributed network of 30,000 Raspberry Pi-based radio receivers, feeding real-time aircraft data into our platform.

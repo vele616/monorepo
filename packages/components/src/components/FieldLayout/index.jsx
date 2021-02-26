@@ -22,6 +22,7 @@ const Field = ({
   removeChildrenStyle,
   removeBottomBorder,
   hideLabel,
+  hideLabelOnFocus,
 }) => {
   return (
     <div
@@ -37,7 +38,9 @@ const Field = ({
         id={labelId}
         aria-hidden={hideLabel}
         htmlFor={labelHtmlFor}
-        className={styles.label}
+        className={classnames(styles.label, {
+          [styles.labelHidden]: hideLabelOnFocus,
+        })}
       >
         {label} {required && "*"}
       </label>
@@ -86,6 +89,11 @@ const FieldPropTypes = {
    * children.
    */
   errorMessage: PropTypes.string,
+  /**
+   * If set to true it will hide label when input is not empty of is focused
+   * instead of setting it to top.
+   */
+  hideLabelOnFocus: PropTypes.bool,
   /**
    * Id applied to the wrapper element
    */

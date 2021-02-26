@@ -13,6 +13,7 @@ companyWebsite: "https://www.jibble.io/"
 summary: "If you have 5 years of commercial web development experience, Jibble Group has a job opening for a senior frontend developer"
 summaryBackup: "Jibble-group is looking for a senior front-end developer that has experience in: #vuejs, #ui/ux, #typescript."
 featured: 20
+archived: "true"
 ---
 
 ## Our Mission

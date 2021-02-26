@@ -13,6 +13,7 @@ companyWebsite: "https://www.stellar.org/"
 summary: "If you have 5+ years real-world experience developing or implementing software within enterprise networks, Stellar Development Foundation is looking for someone with your knowledge."
 summaryBackup: "To apply as a senior software engineer at Stellar Development Foundation, you preferably need to have some knowledge of: #ui/ux, #javascript, #python."
 featured: 5
+archived: "true"
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation (SDF) is looking for a talented, experienced, and hands-on engineer to join our team. In this role you’ll play a significant role in designing, building, and implementing innovative blockchain solutions for our ecosystem partners and you will lead the way in developing projects, from scoping & system design to development & best practice deployments. As a member of our team, you'll have the opportunity to work on a wide variety of problems focused on growing and scaling our global network. SDF’s partners span globally and are some of the most innovative software and financial companies.

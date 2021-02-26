@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Love experience in: #sales, #css, #marketing? Check out this job post!"
 summaryBackup: "Omnipresent is looking for a sales development representative that has experience in: #sales, #css, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## Description

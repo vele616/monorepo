@@ -145,8 +145,8 @@ const Select = ({
       let defaultValue;
       if (!multiselect) {
         setOpen((prev) => !prev);
-        defaultValue = '';
-      }  else {
+        defaultValue = "";
+      } else {
         defaultValue = [];
       }
       setSelection(defaultValue);
