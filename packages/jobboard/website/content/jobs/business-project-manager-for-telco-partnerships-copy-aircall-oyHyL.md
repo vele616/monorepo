@@ -1,18 +1,18 @@
 ---
-title: "Business Project Manager for Telco Partnerships (copy)"
+title: "Business Project Manager"
 location: "Remote-EMEA"
 host: "https://jobs.lever.co/aircall/?location=Remote%20-%20EMEA"
 companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/85a1e15e-a710-450f-8a3d-1cec482dd10d"
 applyUrl: "https://jobs.lever.co/aircall/85a1e15e-a710-450f-8a3d-1cec482dd10d/apply"
 timestamp: 1614297600000
-hashtags: "#css,#sales,#assembly,#management,#office,#finance,#English"
+hashtags: "#management,#finance,#sales,#css,#assembly,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
-summary: "Aircall is looking for a business project manager for telco partnerships that has experience in: experience in: #css, #sales, #assembly."
+summary: "Aircall is looking for a Business Project Manager that has experience in: #css, #sales, #assembly."
 summaryBackup: "Excited about #css, #sales, #assembly? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!
