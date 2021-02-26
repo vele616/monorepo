@@ -13,6 +13,7 @@ companyWebsite: "http://www.helpscout.com/"
 summary: "To apply as a senior engineering manager at Help Scout, you preferably need to be passionate about leading, mentoring, and coaching people to accomplish great things."
 summaryBackup: "To apply as a senior engineering manager at Help Scout, you preferably need to have some knowledge of: #management, #ui/ux, #marketing."
 featured: 0
+archived: "true"
 ---
 
 “Your role as a manager is not to do the work yourself, even if you are the best at it, because that will only take you so far. Your role is to improve the purpose, people, and process of your team to get as high a multiplier effect on your collective outcome as you can.”
