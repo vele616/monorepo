@@ -1,18 +1,18 @@
 ---
-title: "Customer Success Manager - GTM Partner"
+title: "Customer Success Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/29e8288f-e2d8-4240-8a62-930971e924f7"
 applyUrl: "https://jobs.lever.co/redcanary/29e8288f-e2d8-4240-8a62-930971e924f7/apply"
 timestamp: 1614297600000
-hashtags: "#management,#css,#operations,#office,#optimization"
+hashtags: "#management,#operations,#optimization,#office,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary is searching for a customer success manager that has 2+ years experience in an Account Management or Customer Success position at a SaaS company."
+summary: "Red Canary is searching for a Customer Success Manager that has 2+ years experience in an Account Management or Customer Success position at a SaaS company."
 summaryBackup: "Love #management, #css, #operations? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 **Why Red Canary**
