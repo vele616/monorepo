@@ -1,8 +1,8 @@
 ---
-title: "Account Manager - SMB"
+title: "Account Manager"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5069514002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5069514002#app"
 timestamp: 1614297600000
@@ -10,9 +10,9 @@ hashtags: "#sales,#management,#ui/ux,#git,#marketing,#figma,#rest"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have 2+ years of experience in a consulting, sales,, consider applying to Current Job Openings at Netlify's job post for a new account manager."
+summary: "If you have 2+ years of experience in a consulting, sales, or business development role, consider applying to Netlify's job post for a new Account Manager."
 summaryBackup: "To apply as an account manager at Current Job Openings at Netlify, you preferably need to have some knowledge of: #sales, #management, #ui/ux."
-featured: 20
+featured: 17
 ---
 
 ## Company Overview
