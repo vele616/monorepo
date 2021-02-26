@@ -1,18 +1,18 @@
 ---
-title: "Customer Success Manager - Mid Market"
+title: "Customer Success Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/644f35ce-f937-4b7b-a4cb-b22cb66f477f"
 applyUrl: "https://jobs.lever.co/redcanary/644f35ce-f937-4b7b-a4cb-b22cb66f477f/apply"
 timestamp: 1614297600000
-hashtags: "#management,#css,#marketing,#operations,#office,#optimization"
+hashtags: "#management,#marketing,#operations,#css,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "If you have 2+ years experience in an Account Management or Customer Success position at a SaaS company, consider applying to Red Canary's job post for a new customer success manager."
+summary: "If you have 2+ years experience in an Account Management or Customer Success position at a SaaS company, consider applying to Red Canary's job post for a new Customer Success Manager."
 summaryBackup: "To apply as a customer success manager at Red Canary, you preferably need to have some knowledge of: #management, #css, #marketing."
-featured: 20
+featured: 15
 ---
 
 **Why Red Canary**
