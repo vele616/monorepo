@@ -1,18 +1,18 @@
 ---
-title: "Payroll Automation Lead - Fully Remote - Based Anywhere"
+title: "Payroll Automation Lead"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/5676AEFCD1/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/5676AEFCD1/apply/"
 timestamp: 1614297600000
-hashtags: "#management,#marketing,#operations,#socialmedia,#office,#finance,#monitoring"
+hashtags: "#finance,#management,#operations,#marketing,#socialmedia,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "Omnipresent wishes to hire a new payroll automation lead. If you have 5 years’ experience in payroll, consider applying."
+summary: "Omnipresent wishes to hire a new Payroll Automation Lead. If you have 5 years’ experience in payroll, consider applying."
 summaryBackup: "Omnipresent is looking for a payroll automation lead that has experience in: #management, #marketing, #operations."
-featured: 20
+featured: 11
 ---
 
 ## Description
