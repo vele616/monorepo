@@ -6,13 +6,13 @@ companyName: "Help Scout"
 url: "https://jobs.lever.co/helpscout/5371bb13-a068-4d33-879e-6fe0badd6372"
 applyUrl: "https://jobs.lever.co/helpscout/5371bb13-a068-4d33-879e-6fe0badd6372/apply"
 timestamp: 1614297600000
-hashtags: "#javascript,#ui/ux,#reactjs,#css,#php,#docker,#marketing,#management,#git,#figma"
+hashtags: "#javascript,#reactjs,#docker,#marketing,#css,#php,#ui/ux,#management,#git,#figma"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/help-scout"
 companyWebsite: "http://www.helpscout.com/"
 summary: "Interested in new opportunities and have 4 years, you get a month of paid vacation? Help Scout has a job opening for a senior javascript engineer."
 summaryBackup: "Excited about #javascript, #ui/ux, #reactjs? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 JavaScript powers the magic behind [Help Scout’s](https://www.helpscout.com/) apps and services, bringing them to life with delightful interactions and dynamic real-time updates. Your work as an experienced Javascript Front-end Engineer will empower over 10,000 customer-centric businesses provide excellent service to people in the most human and helpful way, and will support the other senior engineers on your team.
