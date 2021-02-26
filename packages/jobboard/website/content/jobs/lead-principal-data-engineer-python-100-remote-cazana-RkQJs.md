@@ -1,5 +1,5 @@
 ---
-title: "Lead/Principal Data Engineer - Python - 100% remote"
+title: "Lead/Principal Data Engineer"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
@@ -10,9 +10,9 @@ hashtags: "#python,#typescript,#postgresql,#marketing,#css,#terraform,#dynamodb,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "Interested in new opportunities and have you want to give your experience and knowledge to something special and be part of its journey but you also want to grow and develop into a better engineer than you are now? Cazana has a job opening for a lead."
+summary: "Interested in new opportunities and have experience working within a company that worked with Machine Learning / Data Science? Cazana has a job opening for a Lead/Principal Data Engineer."
 summaryBackup: "Love #python, #typescript, #postgresql? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 ## Job description
