@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/8e0e9e8b-87b4-4471-b982-44f12f579deb"
 applyUrl: "https://jobs.lever.co/redcanary/8e0e9e8b-87b4-4471-b982-44f12f579deb/apply"
 timestamp: 1614297600000
-hashtags: "#operations,#management,#css,#windows,#marketing,#analysis,#office"
+hashtags: "#operations,#management,#analysis,#css,#windows,#marketing,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "If you have you are an operational leader with demonstrated technical and management experience, Red Canary is looking for someone with your knowledge."
+summary: "If you are an operational leader with demonstrated technical and management experience, Red Canary is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #management, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **Why Red Canary**
