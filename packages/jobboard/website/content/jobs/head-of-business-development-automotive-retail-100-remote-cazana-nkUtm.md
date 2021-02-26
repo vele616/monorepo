@@ -1,18 +1,18 @@
 ---
-title: "Head of Business Development - Automotive Retail (100% Remote)"
+title: "Head of Business Development"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/head-of-business-development-automotive-retail-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/head-of-business-development-automotive-retail-100-remote/c/new"
 timestamp: 1614297600000
-hashtags: "#management,#sales,#windows,#marketing,#branding,#analysis,#finance"
+hashtags: "#management,#sales,#analysis,#windows,#marketing,#branding,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "Cazana wishes to hire a new head of business development. If you have experience as a Head of Business Development, ideally in a retail function, consider applying."
+summary: "Cazana wishes to hire a new Head of Business Development. If you have experience as a Head of Business Development, ideally in a retail function, consider applying."
 summaryBackup: "Cazana is looking for a head of business development that has experience in: #management, #sales, #windows."
-featured: 20
+featured: 12
 ---
 
 ## Job description
