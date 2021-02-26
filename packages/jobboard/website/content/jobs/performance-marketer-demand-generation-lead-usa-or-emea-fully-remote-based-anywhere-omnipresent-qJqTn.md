@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent intends to hire a new performance marketer. If you have 5+ years of digital marketing and demand generation execution experience, with specific focus on planning and managing B2B or B2C marketing campaigns, consider applying."
 summaryBackup: "Love #marketing, #ui/ux, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

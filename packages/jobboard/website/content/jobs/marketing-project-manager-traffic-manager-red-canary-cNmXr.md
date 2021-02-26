@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary intends to hire a new marketing project manager. If you have 3-5 years of previous project management experience working with digital, creative, and/or marketing teams, consider applying."
 summaryBackup: "Red Canary is looking for a marketing project manager that has experience in: #management, #marketing, #content."
 featured: 15
+archived: "true"
 ---
 
 ## Why Red Canary

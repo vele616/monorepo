@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have strong experience with the security nuances involved with distributed Cloud computing, including standards and best practices, Red Canary is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #python, #golang? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 **Why Red Canary**

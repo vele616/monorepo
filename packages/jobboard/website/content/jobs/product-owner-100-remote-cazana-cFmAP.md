@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "If you have a track record of managing the product design process, Cazana has a job opening for a Product Owner"
 summaryBackup: "Excited about #management, #ui/ux, #marketing? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job description

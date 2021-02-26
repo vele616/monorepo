@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "To apply as a Field Account Executive at Red Canary, you preferably need to have consistent track record of success with at least 3 years of closing experience in B2B SaaS."
 summaryBackup: "Excited about #sales, #management, #css? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 **Why Red Canary**

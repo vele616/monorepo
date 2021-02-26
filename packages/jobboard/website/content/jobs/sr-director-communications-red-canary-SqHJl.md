@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Interested in new opportunities and have 10-15+ years of communications management experience? Red Canary has a job opening for a sr director of communications."
 summaryBackup: "Love #management, #branding, #socialmedia? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Why Red Canary

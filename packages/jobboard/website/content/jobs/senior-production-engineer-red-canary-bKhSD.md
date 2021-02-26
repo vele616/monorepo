@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary wishes to hire a new senior production engineer. If you use your skills and experience to address production impacts, either directly or through/with your team members, consider applying."
 summaryBackup: "To apply as a senior production engineer at Red Canary, you preferably need to have some knowledge of: #operations, #management, #css."
 featured: 15
+archived: "true"
 ---
 
 **Why Red Canary**

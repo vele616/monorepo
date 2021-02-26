@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "To apply as a Contracts and Collections Specialist at Red Canary, you preferably need to have 1+ years of relevant experience."
 summaryBackup: "Love #sales, #css, #management? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 **Why Red Canary**

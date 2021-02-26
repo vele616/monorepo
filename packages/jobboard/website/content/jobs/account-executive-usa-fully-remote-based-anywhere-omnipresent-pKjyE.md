@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Love #sales, #marketing, #management? Check out this job post!"
 summaryBackup: "Love #sales, #marketing, #management? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## Description
