@@ -1,18 +1,18 @@
 ---
-title: "Lead/Principal Software Engineer - NodeJS / TypeScript - 100% remote"
+title: "Lead/Principal Software Engineer"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/leadprincipal-software-engineer-nodejs-typescript-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/leadprincipal-software-engineer-nodejs-typescript-100-remote/c/new"
 timestamp: 1614297600000
-hashtags: "#typescript,#python,#css,#nodejs,#marketing,#terraform,#postgresql,#aws,#redis,#elasticsearch"
+hashtags: "#typescript,#python,#nodejs,#marketing,#terraform,#postgresql,#aws,#css,#redis,#elasticsearch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have you want to give your experience and knowledge to something special and be part of its journey but you also want to grow and develop into a better engineer than you are now, Cazana is looking for someone with your knowledge."
+summary: "If you have experience creating APIs and AWS knowledge, Cazana is looking for someone with your knowledge."
 summaryBackup: "Excited about #typescript, #python, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
