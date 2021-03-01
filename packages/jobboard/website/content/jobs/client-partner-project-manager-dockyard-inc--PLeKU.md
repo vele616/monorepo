@@ -6,13 +6,13 @@ companyName: "DockYard, Inc."
 url: "https://dockyardinc1.recruitee.com/o/client-partner-project-manager"
 applyUrl: "https://dockyardinc1.recruitee.com/o/client-partner-project-manager/c/new"
 timestamp: 1614556800000
-hashtags: "#management,#ui/ux,#scrum,#macos,#branding,#office,#optimization"
+hashtags: "#management,#scrum,#optimization,#macos,#branding,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc-"
 companyWebsite: "https://dockyard.com/"
-summary: "DockYard, Inc. is searching for a client partner that has 3-5 years experience in software development consulting or an agency role."
+summary: "DockYard is searching for a Client Partner that has 3-5 years experience in software development consulting or an agency role."
 summaryBackup: "Love #management, #ui/ux, #scrum? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
