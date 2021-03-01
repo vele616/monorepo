@@ -6,13 +6,13 @@ companyName: "Apolinar"
 url: "https://apply.workable.com/apolinargroup/j/045362A45C/"
 applyUrl: "https://apply.workable.com/apolinargroup/j/045362A45C/apply/"
 timestamp: 1614556800000
-hashtags: "#javascript,#reactjs,#angular,#nodejs,#ui/ux,#typescript,#css,#html,#management,#git"
+hashtags: "#javascript,#angular,#nodejs,#reactjs,#ui/ux,#typescript,#css,#html,#management,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/apolinar"
 companyWebsite: "https://apolinargroup.com/"
-summary: "Apolinar is searching for a full-stack javascript developer that has 4+ years of relevant industry experience."
+summary: "Apolinar is searching for a Full-Stack JavaScript Developer that has 4+ years of relevant industry experience."
 summaryBackup: "Apolinar is looking for a full-stack javascript developer that has experience in: #javascript, #reactjs, #angular."
-featured: 20
+featured: 7
 ---
 
 ## Description
