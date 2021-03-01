@@ -6,13 +6,13 @@ companyName: "Keona Health"
 url: "https://apply.workable.com/keona-health/j/CAD5D57D72/"
 applyUrl: "https://apply.workable.com/keona-health/j/CAD5D57D72/apply/"
 timestamp: 1614556800000
-hashtags: "#javascript,#reactjs,#css,#html,#azure"
+hashtags: "#javascript,#reactjs,#azure,#css,#html"
 jobType: "software"
 
 companyWebsite: "http://keonahealth.com/"
-summary: "If you have 5+ Year’s experience with javascript front-end development technologies and tools, including experience with the following, Keona Health is looking for someone with your knowledge."
+summary: "If you have 5+ Year’s experience with javascript front-end development technologies and tools, Keona Health is looking for someone with your knowledge."
 summaryBackup: "Excited about #javascript, #reactjs, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
