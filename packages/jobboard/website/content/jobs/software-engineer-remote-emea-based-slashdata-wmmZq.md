@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer (Remote - EMEA Based)"
+title: "Software Engineer"
 location: "Athens, Attica, Greece"
 host: "https://apply.workable.com/slashdata/"
 companyName: "SlashData"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#python,#aws,#windows,#branding,#ui/ux,#mongodb"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/slashdata"
 companyWebsite: "http://www.slashdata.co/"
-summary: "SlashData is looking for a software engineer that has 3+ years of experience developing web applications with modern JavaScript."
+summary: "SlashData is looking for a Software Engineer that has 3+ years of experience developing web applications with modern JavaScript frameworks."
 summaryBackup: "To apply as a software engineer at SlashData, you preferably need to have some knowledge of: #javascript, #reactjs, #python."
-featured: 20
+featured: 5
 ---
 
 ## Description
