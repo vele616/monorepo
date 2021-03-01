@@ -13,6 +13,7 @@ companyWebsite: "http://www.buildzoom.com/"
 summary: "BuildZoom is looking for a content editor that has experience in: experience in: #content, #office, #English."
 summaryBackup: "BuildZoom is looking for a content editor that has experience in: #content, #windows, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 BuildZoom has a team of remote writers who research and write content on a variety of topics related to the construction industry. 
