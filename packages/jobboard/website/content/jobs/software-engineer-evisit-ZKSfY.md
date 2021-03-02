@@ -10,9 +10,9 @@ hashtags: "#reactjs,#rails,#nodejs,#golang,#rubylang,#android,#ios,#docker,#aws,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "Interested in new opportunities and have 5+ years of experience? EVisit has a job opening for a software engineer."
+summary: "Love #reactjs, #rails, #nodejs? Check out this job post!"
 summaryBackup: "Love #reactjs, #rails, #nodejs? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Description
