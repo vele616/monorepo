@@ -6,13 +6,13 @@ companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2551901"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2551901#app"
 timestamp: 1614643200000
-hashtags: "#ui/ux,#management,#marketing,#operations,#translation,#analysis,#English"
+hashtags: "#management,#marketing,#operations,#ui/ux,#translation,#analysis,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "If you have have at least 5 plus years experience in the field of user experience research and design, consider applying to Beat's job post for a new lead user researcher."
+summary: "If you have have at least 5 plus years experience in the field of user experience research and design, consider applying to Beat's job post for a new Lead User Researcher."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
  About us 
