@@ -1,18 +1,18 @@
 ---
-title: "Customer Success Specialist - Kuali Financials"
+title: "Customer Success Specialist"
 location: "United States, United States"
 host: "https://apply.workable.com/kuali/"
 companyName: "Kuali"
 url: "https://apply.workable.com/kuali/j/928A228C0F/"
 applyUrl: "https://apply.workable.com/kuali/j/928A228C0F/apply/"
 timestamp: 1614643200000
-hashtags: "#management,#ui/ux,#finance"
+hashtags: "#management,#accountant,#finance,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kuali"
 companyWebsite: "http://kuali.co/"
-summary: "Interested in new opportunities and have 3 years in a row by the Salt Lake Tribune? Kuali has a job opening for a customer success specialist."
+summary: "Interested in new opportunities and have background of at least 3 years in Higher Ed Accounting? Kuali has a job opening for a Customer Success Specialist."
 summaryBackup: "Excited about #management, #ui/ux, #finance? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 ## Description
