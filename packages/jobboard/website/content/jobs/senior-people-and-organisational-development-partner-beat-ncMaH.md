@@ -6,13 +6,13 @@ companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2927912"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2927912#app"
 timestamp: 1614643200000
-hashtags: "#ui/ux,#management,#office,#operations,#HR,#analysis"
+hashtags: "#management,#operations,#HR,#office,#ui/ux,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat is searching for a senior people and organisational development partner that has 10+ years of experience in Human Resources positions of increasing scope and responsibility, preferably in fast paced, international companies."
 summaryBackup: "Excited about #ui/ux, #management, #office? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## About us 
