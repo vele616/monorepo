@@ -1,18 +1,18 @@
 ---
-title: "Lead Machine Learning Engineer - Marketplace"
+title: "Lead Machine Learning Engineer"
 location: "Amsterdam (Netherlands), Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2751587"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2751587#app"
 timestamp: 1614643200000
-hashtags: "#spark,#nodejs,#python,#pandas,#tensorflow,#windows,#ui/ux,#management,#operations"
+hashtags: "#python,#tensorflow,#spark,#nodejs,#windows,#pandas,#ui/ux,#management,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Beat intends to hire a new lead machine learning engineer. If you have 5 years of experience in machine learning / deep learning, where you had demonstrated impact on a larger of your organisation, consider applying."
+summary: "Beat intends to hire a new Lead Machine Learning Engineer. If you have 5 years of experience in machine learning / deep learning, where you had demonstrated impact on a larger of your organisation, consider applying."
 summaryBackup: "Excited about #spark, #nodejs, #python? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
  About us 
