@@ -10,9 +10,9 @@ hashtags: "#management,#crm,#branding,#ui/ux,#marketing,#operations,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "If you have 5+ years consulting experience at a tier 1 consultancy, consider applying to Riverflex's job post for a new crm consultant."
+summary: "If you have 5+ years consulting experience at a tier 1 consultancy, consider applying to Riverflex's job post for a new CRM Consultant."
 summaryBackup: "Riverflex is looking for a crm consultant that has experience in: #management, #crm, #branding."
-featured: 20
+featured: 11
 ---
 
 ## Job description
