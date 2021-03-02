@@ -1,18 +1,18 @@
 ---
-title: "Data Scientist II, Experimentation"
+title: "Data Scientist II"
 location: "Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2932075"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2932075#app"
 timestamp: 1614643200000
-hashtags: "#python,#ui/ux,#scala,#tensorflow,#spark,#hadoop,#analysis,#management,#operations,#office"
+hashtags: "#python,#scala,#tensorflow,#spark,#hadoop,#ui/ux,#analysis,#management,#operations,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Interested in new opportunities and have 3 years of hands-on experience in machine learning methodologies and predictive analytics to solve business and user problems using Python or R? Beat has a job opening for a data scientist ii."
+summary: "Interested in new opportunities and have 3 years of hands-on experience in machine learning methodologies and predictive analytics to solve business and user problems using Python or R? Beat has a job opening for a Data Scientist."
 summaryBackup: "Beat is looking for a data scientist ii that has experience in: #python, #ui/ux, #scala."
-featured: 20
+featured: 8
 ---
 
 ## About us
