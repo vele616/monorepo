@@ -1,18 +1,18 @@
 ---
-title: "Backend Engineer - Remote"
+title: "Backend Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2750674"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2750674#app"
 timestamp: 1614643200000
-hashtags: "#ui/ux,#python,#java,#golang,#php,#kotlin,#operations,#scrum,#kubernetes,#docker"
+hashtags: "#python,#java,#golang,#php,#kotlin,#ui/ux,#operations,#scrum,#kubernetes,#docker"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "If you have 3 years of experience, Beat is looking for someone with your skillset."
+summary: "If you have experience with MVC development frameworks and cascading modularity, Beat is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #python, #java? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
  About us 
