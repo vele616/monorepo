@@ -1,18 +1,18 @@
 ---
-title: "Support Specialist, Kuali Research"
+title: "Support Specialist"
 location: "Lehi, Utah, United States"
 host: "https://apply.workable.com/kuali/"
 companyName: "Kuali"
 url: "https://apply.workable.com/kuali/j/A5420B1E4F/"
 applyUrl: "https://apply.workable.com/kuali/j/A5420B1E4F/apply/"
 timestamp: 1614643200000
-hashtags: "#management,#branding,#ui/ux,#office"
+hashtags: "#management,#customersupport,#branding,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kuali"
 companyWebsite: "http://kuali.co/"
-summary: "To apply as a support specialist at Kuali, you preferably need to have 3 years in a row by the Salt Lake Tribune."
+summary: "To apply as a Support Specialist at Kuali, you preferably need to have at least 3-5 years of background in customer support."
 summaryBackup: "Excited about #management, #branding, #ui/ux? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Description
@@ -55,7 +55,7 @@ Kuali has been voted a [top place to work](https://topworkplaces.com/publication
 
 **About You**
 
-Weʼre looking for a curious, enthusiastic, empathetic team player to help us connect with potential community members, execute on ideas, advocate for the customer, and contribute to a team culture built on trust and mutual respect. We believe the best results are achieved by teams who represent a broad range of ideas and perspectives. We value employeeswith diverse backgrounds and experiences.
+Weʼre looking for a curious, enthusiastic, empathetic team player to help us connect with potential community members, execute on ideas, advocate for the customer, and contribute to a team culture built on trust and mutual respect. We believe the best results are achieved by teams who represent a broad range of ideas and perspectives. We value employees with diverse backgrounds and experiences.
 
 As a Customer Support Specialist here, you’ll contribute to our goal of delighting the people who use our software. You’ll do this by being responsive to our customers when they have questions about how best to use our software, run into issues they need help with, and documenting our best practices. Your communication skills and ability to build lasting relationships with these clients will ensure they have everything they need to have a great experience using our software. You take what you learn from working with our customers and share that with the entire team in order to improve our product.
 
