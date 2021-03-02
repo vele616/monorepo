@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat wishes to hire a new Lead Frontend Engineer. If you have experience with frontend builds, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #typescript? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 

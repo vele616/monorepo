@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "To apply as a HR/OD Transformation Consultant at Riverflex, you preferably need to have 5-10 years of consulting experience."
 summaryBackup: "To apply as a hr at Riverflex, you preferably need to have some knowledge of: #ui/ux, #marketing, #operations."
 featured: 19
+archived: "true"
 ---
 
 ## Job description

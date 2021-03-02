@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat has a job opening for a senior data engineer to help them tackle some of the most fundamental data-driven challenges."
 summaryBackup: "Beat is looking for a senior data engineer that has experience in: #spark, #reactjs, #java."
 featured: 20
+archived: "true"
 ---
 
 ## About us
