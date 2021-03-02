@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#operations,#assembly,#scrum,#content,#ui/ux,#
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "If you have proven experience working with executive /C, Riverflex is looking for someone with your skillset."
+summary: "If you have proven experience in delivering digitalcommerce, content and analytics solutions, Riverflex is looking for someone with your skillset."
 summaryBackup: "Riverflex is looking for an interim digital cto that has experience in: #marketing, #management, #operations."
-featured: 20
+featured: 9
 ---
 
 ## Job description
