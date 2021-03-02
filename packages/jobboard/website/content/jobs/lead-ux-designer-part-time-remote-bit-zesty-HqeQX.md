@@ -1,18 +1,18 @@
 ---
-title: "Lead UX Designer (Part Time, Remote)"
+title: "Lead UX Designer"
 location: "United Kingdom"
 host: "https://apply.workable.com/bit-zesty/?lng=en"
 companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/86183BA3C1/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/86183BA3C1/apply/"
 timestamp: 1614643200000
-hashtags: "#ui/ux,#management,#css,#analysis"
+hashtags: "#ui/ux,#management,#analysis,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
-summary: "Love experience in: #ui/ux, #management, #css? Check out this job post!"
+summary: "Love experience in: #ui/ux, #management, #analysis? Check out this job post!"
 summaryBackup: "Excited about #ui/ux, #management, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
