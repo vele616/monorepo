@@ -10,9 +10,9 @@ hashtags: "#spark,#reactjs,#java,#scala,#operations,#hadoop,#kubernetes,#ui/ux,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Beat wishes to hire a new senior data engineer. If you have experience building and running large, consider applying."
+summary: "Beat wishes to hire a new Senior Data Engineer. If you have experience building and running large-scale real-time and batch data pipelines, consider applying."
 summaryBackup: "Excited about #spark, #reactjs, #java? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## About us
