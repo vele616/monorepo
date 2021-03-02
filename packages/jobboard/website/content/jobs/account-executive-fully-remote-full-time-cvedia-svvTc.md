@@ -1,8 +1,8 @@
 ---
-title: "Account Executive - Fully Remote - Full Time"
+title: "Account Executive"
 location: "Toronto, ON - Remote OK"
 host: "https://cvedia.breezy.hr/"
-companyName: "cvedia"
+companyName: "Cvedia"
 url: "https://cvedia.breezy.hr/p/cc39baf6301a-account-executive-fully-remote--full-time"
 applyUrl: "https://cvedia.breezy.hr/p/cc39baf6301a-account-executive-fully-remote--full-time/apply"
 timestamp: 1614643200000
@@ -10,9 +10,9 @@ hashtags: "#management,#marketing,#sales,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
-summary: "Cvedia is searching for an account executive that has 50k to $1 Million a year in ARR."
+summary: "Cvedia is searching for an Account Executive that has proof of meeting and exceeding sales goals."
 summaryBackup: "Cvedia is looking for an account executive that has experience in: #management, #marketing, #sales."
-featured: 20
+featured: 15
 ---
 
 CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop and license solutions for computer vision systems. CVEDIA is seeking an ambitious and intelligent Business Development Representative to contribute to our growth. This position will be responsible for developing new business across verticals including ADAS/AD, Agricultural, Industrial and Infrastructure.
