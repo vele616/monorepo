@@ -1,18 +1,18 @@
 ---
-title: "Assistant Project Manager (Remote)"
+title: "Assistant Project Manager"
 location: "United Kingdom"
 host: "https://apply.workable.com/bit-zesty/?lng=en"
 companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/8781330987/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/8781330987/apply/"
 timestamp: 1614643200000
-hashtags: "#management,#office,#monitoring"
+hashtags: "#management,#monitoring,#operations,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
-summary: "Bit Zesty is looking for an assistant project manager that has experience in: experience in: #management, #office, #monitoring."
+summary: "Bit Zesty is looking for an Assistant Project Manager that has experience in: #management, #office, #monitoring."
 summaryBackup: "Excited about #management, #office, #monitoring? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
