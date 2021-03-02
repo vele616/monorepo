@@ -10,9 +10,9 @@ hashtags: "#socialmedia,#marketing,#branding,#ui/ux,#content,#analysis,#manageme
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "If you have we are looking for a seasoned Social Media expert with B2B tech and/or healthcare experience that can operate our social channels toward our key goals, EVisit is looking for someone with your knowledge."
+summary: "eVisit is looking for a social media manager that has experience in: #socialmedia, #marketing, #branding."
 summaryBackup: "EVisit is looking for a social media manager that has experience in: #socialmedia, #marketing, #branding."
-featured: 20
+featured: 17
 ---
 
 ## Description
