@@ -1,18 +1,18 @@
 ---
-title: "Graduate Assistant Project Manager (Remote)"
+title: "Graduate Assistant Project Manager"
 location: "United Kingdom"
 host: "https://apply.workable.com/bit-zesty/?lng=en"
 companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/04EE726014/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/04EE726014/apply/"
 timestamp: 1614643200000
-hashtags: "#management,#office,#monitoring"
+hashtags: "#management,#monitoring,#finance,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
 summary: "Love experience in: #management, #office, #monitoring? Check out this job post!"
 summaryBackup: "Excited about #management, #office, #monitoring? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 ## Description
