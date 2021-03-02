@@ -1,18 +1,18 @@
 ---
-title: "Senior Backend Engineer - Remote"
+title: "Senior Backend Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2755222"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2755222#app"
 timestamp: 1614643200000
-hashtags: "#ui/ux,#python,#java,#golang,#php,#kotlin,#operations,#kubernetes,#docker,#aws"
+hashtags: "#python,#golang,#kubernetes,#php,#kotlin,#java,#operations,#ui/ux,#kubernetes,#docker,#aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Beat wishes to hire a new senior backend engineer. If you have 5 years of proven, production-grade software development expertise, consider applying."
+summary: "Beat wishes to hire a new Senior Backend Engineer. If you have more than 5 years of proven, production-grade software development expertise, consider applying."
 summaryBackup: "Excited about #ui/ux, #python, #java? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## About us
