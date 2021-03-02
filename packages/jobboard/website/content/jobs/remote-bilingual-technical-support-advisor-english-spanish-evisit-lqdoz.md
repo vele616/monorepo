@@ -1,18 +1,18 @@
 ---
-title: "Remote Bilingual Technical Support Advisor (English / Spanish)"
+title: "Remote Bilingual Technical Support Advisor"
 location: "Mesa, Arizona, United States"
 host: "https://apply.workable.com/evisit"
 companyName: "eVisit"
 url: "https://apply.workable.com/evisit/j/848D3F301E/"
 applyUrl: "https://apply.workable.com/evisit/j/848D3F301E/apply/"
 timestamp: 1614643200000
-hashtags: "#management,#css,#analysis,#office,#English,#monitoring"
+hashtags: "#management,#English,#Spanish,#css,#analysis,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "EVisit intends to hire a new remote bilingual technical support advisor. If you have 1 years of experience in a Technical Support Role, consider applying."
+summary: "eVisit intends to hire a new Remote Bilingual Technical Support Advisor. If you have 1 years of experience in a Technical Support Role, consider applying."
 summaryBackup: "EVisit is looking for a remote bilingual technical support advisor that has experience in: #management, #css, #analysis."
-featured: 20
+featured: 12
 ---
 
 ## Description
