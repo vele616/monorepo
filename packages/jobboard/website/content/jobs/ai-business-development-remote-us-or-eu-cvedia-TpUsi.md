@@ -13,6 +13,7 @@ companyWebsite: "https://www.cvedia.com/"
 summary: "Cvedia is looking for an ai business development that has experience in: #management, #marketing, #office."
 summaryBackup: "Cvedia is looking for an ai business development that has experience in: #management, #marketing, #office."
 featured: 10
+archived: "true"
 ---
 
 \*\*\*\*\* This role is only for applicants coming from USA or EU countries\*\*\*\*\*
