@@ -10,9 +10,9 @@ hashtags: "#management,#marketing,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/riverflex"
 companyWebsite: "https://www.riverflex.com/"
-summary: "If you have 10 years experience of large scale international tech-enabled transformations, Riverflex has a job opening for a transformation lead"
+summary: "If you have 10 years experience of large scale international tech-enabled transformations, Riverflex has a job opening for a Transformation Lead"
 summaryBackup: "Riverflex is looking for a transformation lead that has experience in: #management, #marketing, #finance."
-featured: 20
+featured: 19
 ---
 
 ## Job description
