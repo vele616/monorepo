@@ -1,18 +1,18 @@
 ---
-title: "Software Engineering Team Lead, Cloud"
+title: "Software Engineering Team Lead"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
 companyName: "time-doctor"
 url: "https://time-doctor.breezy.hr/p/9f870ca45202-software-engineering-team-lead-cloud"
 applyUrl: "https://time-doctor.breezy.hr/p/9f870ca45202-software-engineering-team-lead-cloud/apply"
 timestamp: 1614729600000
-hashtags: "#management,#css,#ui/ux,#aws,#heroku,#operations,#redis,#mongodb,#firebase,#translation"
+hashtags: "#mongodb,#aws,#heroku,#management,#css,#ui/ux,#operations,#redis,#firebase,#translation"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor wishes to hire a new software engineering team lead. If you have initiate change to existing processes based on a combination of experience of you and your team and metrics to improve the efficiency, quality and delivery rate of your team, consider applying."
+summary: "Time Doctor wishes to hire a new Software Engineering Team Lead. If you have 3 + years of experience working as a lead level engineer, ideally working on Node.js, consider applying."
 summaryBackup: "Excited about #management, #css, #ui/ux? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## About the Role
