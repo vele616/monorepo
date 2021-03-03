@@ -1,18 +1,18 @@
 ---
-title: "Senior Integration Node.js Engineer (100% Remote)"
+title: "Senior Integration Node.js Engineer"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
-companyName: "time-doctor"
+companyName: "Time Doctor"
 url: "https://time-doctor.breezy.hr/p/864673955dec-senior-integration-node-js-engineer-100-remote"
 applyUrl: "https://time-doctor.breezy.hr/p/864673955dec-senior-integration-node-js-engineer-100-remote/apply"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#management,#css,#aws,#heroku,#marketing,#redis,#mongodb,#firebase,#translation"
+hashtags: "#aws,#redis,#mongodb,#heroku,#marketing,#ui/ux,#management,#css,#firebase,#translation"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor is searching for a senior integration node.js engineer that has 4 years of professional back-end experience, ideally working on Node."
+summary: "Time Doctor is searching for a Senior Integration Node.js Engineer that has 4 years of professional back-end experience, ideally working on Node.js applications at scale."
 summaryBackup: "Love #ui/ux, #management, #css? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## About the Role
