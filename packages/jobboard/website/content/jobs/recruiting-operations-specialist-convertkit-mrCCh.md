@@ -6,11 +6,11 @@ companyName: "ConvertKit"
 url: "https://apply.workable.com/convertkit/j/3AA76AA13A/"
 applyUrl: "https://apply.workable.com/convertkit/j/3AA76AA13A/apply/"
 timestamp: 1614729600000
-hashtags: "#operations,#css,#marketing,#chef,#branding,#management,#office,#socialmedia,#rest,#finance"
+hashtags: "#operations,#marketing,#management,#chef,#branding,#office,#css,#socialmedia,#rest,#finance"
 jobType: "other"
 
 companyWebsite: "http://convertkit.com/"
-summary: "If you have 2-4 years progressive recruiting experience in a fast-paced environment or equivalent experience sourcing, hiring, or onboarding, consider applying to ConvertKit's job post for a new recruiting + operations specialist."
+summary: "If you have 2-4 years progressive recruiting experience in a fast-paced environment or equivalent experience sourcing, hiring, or onboarding, consider applying to ConvertKit's job post for a new Recruiting + Operations Specialist."
 summaryBackup: "ConvertKit is looking for a recruiting + operations specialist that has experience in: #operations, #css, #marketing."
 featured: 20
 ---
