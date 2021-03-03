@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#management,#marketing,#office,#analysis,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin wishes to hire a new senior manager. If you have 4+ years of experience leading a UX Research / User Research team and have partnered with Product and Engineering teams to conceptualize, build, and launch new products or complex product features, consider applying."
+summary: "Hopin wishes to hire a new Senior Manager. If you have 4+ years of experience leading a UX Research / User Research team and have partnered with Product and Engineering teams to conceptualize, build, and launch new products or complex product features, consider applying."
 summaryBackup: "To apply as a senior manager at Hopin, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
-featured: 20
+featured: 19
 ---
 
 ## The Role
@@ -56,4 +56,4 @@ You will lead and grow our User Research function for multiple product lines, in
 *   800 USD for Home-Office set up
     
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
