@@ -6,13 +6,13 @@ companyName: "LocusLabs"
 url: "https://locuslabs.recruiterbox.com/jobs/fk0uxe8/"
 applyUrl: "https://locuslabs.recruiterbox.com/jobs/fk0uxe8/?apply=true"
 timestamp: 1614729600000
-hashtags: "#ios,#ui/ux,#reactjs,#management,#aws,#branding,#dynamodb,#figma"
+hashtags: "#ios,#aws,#reactjs,#management,#ui/ux,#branding,#dynamodb,#figma"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/locuslabs"
 companyWebsite: "http://www.locuslabs.com/"
-summary: "LocusLabs wishes to hire a new ios senior software engineer. If you have 5 years or more of professional, consider applying."
+summary: "LocusLabs wishes to hire a new iiOS Senior Software Engineer. If you have 5 years or more of professional iOS development experience, consider applying."
 summaryBackup: "Love #ios, #ui/ux, #reactjs? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 iOSSeniorSoftware Engineer (U.S.or Europe Remote)
@@ -42,7 +42,7 @@ Your Qualifications
 
 *   Include a short paragraph on your application about why you want to work for LocusLabs
 *   BS or higher in Computer Science or similar field.
-*   5 years or more of professionaliOSdevelopment experience shipping enterprise-grade software.You love WWDC.
+*   5 years or more of professional iOS development experience shipping enterprise-grade software.You love WWDC.
 *   Ability to overcome obstacles autonomously, self-motivated, “get it done” attitude.
 *   Strong verbal and written communication skills. We know everyone says this, but we mean it! We have a distributed team and rely on team members that are well organized and can effectively communicate about their work progress, roadblocks, and dependencies.   
     
