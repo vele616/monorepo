@@ -1,18 +1,18 @@
 ---
-title: "Senior Product Manager (Mobile)"
+title: "Senior Product Manager"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4379222003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4379222003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#android,#ios,#management,#marketing,#analysis,#office,#optimization,#English"
+hashtags: "#management,#marketing,#analysis,#ui/ux,#android,#ios,#office,#optimization,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new senior product manager. If you have 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments, consider applying."
 summaryBackup: "To apply as a senior product manager at Hopin, you preferably need to have some knowledge of: #ui/ux, #android, #ios."
-featured: 20
+featured: 10
 ---
 
 Job Description:
