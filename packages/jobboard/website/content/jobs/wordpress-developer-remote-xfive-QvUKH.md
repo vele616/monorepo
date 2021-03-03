@@ -1,5 +1,5 @@
 ---
-title: "WordPress Developer, Remote"
+title: "WordPress Developer"
 location: "Remote job"
 host: "https://xfive.recruitee.com/"
 companyName: "Xfive"
@@ -10,14 +10,14 @@ hashtags: "#wordpress,#javascript,#php,#ui/ux,#html,#css,#windows,#git,#photosho
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/xfive"
 companyWebsite: "https://www.xfive.co/"
-summary: "To apply as a wordpress developer at Xfive, you preferably need to have some knowledge of: experience in: #wordpress, #javascript, #php."
+summary: "To apply as a Wordpress Developer at Xfive, you preferably need to have some experience in: #wordpress, #javascript, #php."
 summaryBackup: "Excited about #wordpress, #javascript, #php? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Job description
 
-We are looking for talented **mid-level to senior developers** specializing in **front-end** and**WordPress** projects.
+We are looking for talented **mid-level to senior developers** specializing in **front-end** and **WordPress** projects.
 
 ## Type of employment
 
@@ -27,10 +27,10 @@ We are looking for talented **mid-level to senior developers** specializing in *
 
 Tired of spending your valuable time dealing with clients directly, estimating, proposing, invoicing, and looking for clients whodisappear just when the bill is due? When you join our team as a freelance contractor, we’ll handle all of this for you.
 
-*   Work the **hours that****bestfit your schedule**.
+*   Work the **hours that** **bestfit your schedule**.
 *   Work from the **comfort of your own home**.
 *   We engage the clients and win the projects so that you can **focus on** **your passion**: creating amazing code.
-*   Start with**hourly rate****$25 USD / hour**andwork your way up to**35 USD / hour**.**(**Most of our projects are hourly based, some have fixed budget.)
+*   Start with hourly rate **$25 USD / hour** and work your way up to **35 USD / hour**. (Most of our projects are hourly based, some have fixed budget.)
 *   If you are from Kraków, you are welcome to **work from our office** located in the city center.
 
 _Note: Our job ads are aimed on developers from Central Europe. Consider whether you apply if you don't have a reasonable time overlap with CET or live in an area with high living costs._
@@ -39,7 +39,7 @@ _Note: Our job ads are aimed on developers from Central Europe. Consider whether
 
 ## General skills
 
-*   You are able to **deliver** projects **on time** and with**high-quality**.
+*   You are able to **deliver** projects **on time** and with **high-quality**.
 *   You have passion for development and continuous **self-education** in your area of expertise.
 *   You have **code samples** showing all your relevant skills. Each code sample is a non-trivial example showing your best skills and knowledge.
 *   You have a **consistent coding style** and passion for **well-organized, clean code**.
@@ -47,12 +47,12 @@ _Note: Our job ads are aimed on developers from Central Europe. Consider whether
 
 ## Development skills
 
-*   Very good knowledge of modern front-end development:**HTML5, CSS3, Responsive Web Design, Performance Optimization, Accessibility**.
-*   Very good knowledge of**JavaScript**.
-*   Good knowledge of CSS preprocessors:**SCSS**is preferred.
+*   Very good knowledge of modern front-end development: **HTML5, CSS3, Responsive Web Design, Performance Optimization, Accessibility**.
+*   Very good knowledge of **JavaScript**.
+*   Good knowledge of CSS preprocessors: **SCSS** is preferred.
 *   Good knowledge of scalable and maintainable CSS methodologies (BEM, ITCSS).
 *   Very good knowledge of **WordPress.**
-*   Ability to code**WordPress themes**and **WordPress plugins** from scratch.
+*   Ability to code**WordPress themes** and **WordPress plugins** from scratch.
 *   Very good programming skills and knowledge of general principles (DRY, abstraction, KISS, code refactoring and optimization, etc).
 *   Very good knowledge of **PHP** and **OOP principles**.
 *   Good knowledge of **Git** version control system.
