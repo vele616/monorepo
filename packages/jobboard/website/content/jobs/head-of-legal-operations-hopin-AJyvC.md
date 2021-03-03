@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new Head of Legal Operations. If you have 7+ years of experience at a law firm or in-house legal department, consider applying."
 summaryBackup: "Love #management, #operations, #office? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

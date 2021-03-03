@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "To apply as an Associate General Counsel at Hopin, you preferably need to have 5 years of leadership experience in building, running and/or developing global, robust teams."
 summaryBackup: "Love #marketing, #office, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

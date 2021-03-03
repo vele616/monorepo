@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 3+ years experience in Renewals, Account Management, or Sales role, Hopin is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #sales, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

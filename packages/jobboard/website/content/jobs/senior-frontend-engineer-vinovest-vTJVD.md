@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Interested in new opportunities and have 4+ years of software development experience? Vinovest has a job opening for a senior frontend engineer."
 summaryBackup: "Excited about #ui/ux, #javascript, #typescript? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Job description
