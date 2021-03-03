@@ -6,13 +6,13 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4373773003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4373773003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#management,#spark,#office,#windows,#figma,#English"
+hashtags: "#management,#figma,#sketch,#spark,#office,#ui/ux,#windows,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have any experience working on products in the event or live streaming space would be a plus, Hopin is looking for someone with your skillset."
+summary: "If you have a portfolio demonstrating 6 + years of experience in product design, Hopin is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #management, #spark? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## The Role
