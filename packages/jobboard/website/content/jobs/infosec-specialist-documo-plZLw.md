@@ -6,13 +6,13 @@ companyName: "documo"
 url: "https://documo.breezy.hr/p/14de2326b259-infosec-specialist"
 applyUrl: "https://documo.breezy.hr/p/14de2326b259-infosec-specialist/apply"
 timestamp: 1614729600000
-hashtags: "#management,#ui/ux,#css,#linux,#kubernetes,#docker,#aws,#azure,#sales"
+hashtags: "#linux,#kubernetes,#docker,#management,#ui/ux,#css,#aws,#azure,#sales"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/documo"
 companyWebsite: "https://documo.com/"
-summary: "Documo wishes to hire a new infosec specialist. If you have 5+ years server administration experience in Linux/Unix, RDBMS, cloud environments, and directory services, consider applying."
+summary: "Documo wishes to hire a new InfoSec Specialist. If you have 5+ years server administration experience in Linux/Unix, RDBMS, cloud environments, and directory services, consider applying."
 summaryBackup: "Love #management, #ui/ux, #css? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 Documo builds document software solutions that help businesses streamline document processes. We make working with documents easy, more secure, and friendly towards our planet. We want to help drive mass adoption of paperless document technologies. We believe the way to do this is to build amazing products that solve and improve every aspect of document workflow. We couple that with our passion for customer success and our meticulous attention to design and user experience. We build solutions that are secure, easy to use, and improve business efficiency.
