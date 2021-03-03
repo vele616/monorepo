@@ -10,9 +10,9 @@ hashtags: "#kotlin,#android,#ui/ux,#windows,#scrum,#analysis"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is looking for an android developer that has commercial experience with Kotlin."
+summary: "Hopin is looking for an Android Developer that has commercial experience with Kotlin."
 summaryBackup: "Excited about #kotlin, #android, #ui/ux? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## At Hopin, we’re reimagining virtual events.
