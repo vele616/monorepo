@@ -30,7 +30,7 @@ Tired of spending your valuable time dealing with clients directly, estimating, 
 *   Work the **hours that** **bestfit your schedule**.
 *   Work from the **comfort of your own home**.
 *   We engage the clients and win the projects so that you can **focus on** **your passion**: creating amazing code.
-*   Start with an **hourly rate** of **$25 USD / hour** **andwork your way up to** **35 USD / hour**. (**Most of our projects are hourly based, some have fixed budget.)
+*   Start with an **hourly rate** of **$25 USD / hour** **and work your way up to** **35 USD / hour**. (Most of our projects are hourly based, some have fixed budget.)
 
 _Note: Our job ads are aimed at developers from Central Europe. Consider whether you apply if you don't have a reasonable time overlap with CET_
 
