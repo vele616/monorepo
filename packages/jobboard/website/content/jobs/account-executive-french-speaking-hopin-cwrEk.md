@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new Account Executive. If you have 3+ years of experience in Sales or Business Development, consider applying."
 summaryBackup: "Excited about #sales, #windows, #crm? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Please note: all applications should be in English

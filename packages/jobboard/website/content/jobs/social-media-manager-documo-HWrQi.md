@@ -13,6 +13,7 @@ companyWebsite: "https://documo.com/"
 summary: "To apply as a Social Media Manager at Documo, you preferably should have experience working for a B2B SaaS company in social media and/or an agency that works with these companies."
 summaryBackup: "Excited about #socialmedia, #css, #ui/ux? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Documo builds document software solutions that help businesses streamline document processes. We make working with documents easy, more secure, and friendly towards our planet. We want to help drive mass adoption of paperless document technologies. We believe the way to do this is to build amazing products that solve and improve every aspect of document workflow. We couple that with our passion for customer success and our meticulous attention to design and user experience. We build solutions that are secure, easy to use, and improve business efficiency.
