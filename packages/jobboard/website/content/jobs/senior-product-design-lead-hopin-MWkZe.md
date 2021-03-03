@@ -6,11 +6,11 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4375857003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4375857003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#management,#office,#English"
+hashtags: "#ui/ux,#management,#atomic,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "To apply as a senior product design lead at Hopin, you preferably need to have 6+ years of experience in Product Design."
+summary: "To apply as a Senior Product Design Lead at Hopin, you preferably need to have 6+ years of experience in Product Design."
 summaryBackup: "To apply as a senior product design lead at Hopin, you preferably need to have some knowledge of: #ui/ux, #management, #office."
 featured: 20
 ---
