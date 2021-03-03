@@ -2,17 +2,17 @@
 title: "Product Manager"
 location: "Poland - Remote OK"
 host: "https://time-doctor.breezy.hr/"
-companyName: "time-doctor"
+companyName: "Time Doctor"
 url: "https://time-doctor.breezy.hr/p/72a4c332d0f0-product-manager"
 applyUrl: "https://time-doctor.breezy.hr/p/72a4c332d0f0-product-manager/apply"
 timestamp: 1614729600000
-hashtags: "#sales,#marketing,#css,#ui/ux,#management,#scrum,#office,#finance,#monitoring"
+hashtags: "#sales,#marketing,#management,#css,#ui/ux,#scrum,#office,#finance,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor wishes to hire a new product manager. If you have experience working with and prioritizing requirements across global teams, consider applying."
+summary: "Time Doctor wishes to hire a new Product Manager. If you have 5+ years B2B SaaS product management experience, consider applying."
 summaryBackup: "To apply as a product manager at Time-doctor, you preferably need to have some knowledge of: #sales, #marketing, #css."
-featured: 20
+featured: 9
 ---
 
 ## About the Role
