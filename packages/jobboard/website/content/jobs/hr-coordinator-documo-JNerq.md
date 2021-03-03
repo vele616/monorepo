@@ -2,7 +2,7 @@
 title: "HR Coordinator"
 location: "Remote OK"
 host: "https://documo.breezy.hr/"
-companyName: "documo"
+companyName: "Documo"
 url: "https://documo.breezy.hr/p/3f146467e74f-hr-coordinator"
 applyUrl: "https://documo.breezy.hr/p/3f146467e74f-hr-coordinator/apply"
 timestamp: 1614729600000
@@ -10,9 +10,9 @@ hashtags: "#HR,#management,#socialmedia,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/documo"
 companyWebsite: "https://documo.com/"
-summary: "To apply as a hr coordinator at Documo, you preferably need to have some knowledge of: experience in: #HR, #management, #socialmedia."
+summary: "To apply as a HR Coordinator at Documo, you preferably need to have some experience in: #HR, #management, #socialmedia."
 summaryBackup: "Excited about #HR, #management, #socialmedia? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 Documo builds document software solutions that help businesses streamline document processes. We make working with documents easy, more secure, and friendly towards our planet. We want to help drive mass adoption of paperless document technologies. We believe the way to do this is to build amazing products that solve and improve every aspect of document workflow. We couple that with our passion for customer success and our meticulous attention to design and user experience. We build solutions that are secure, easy to use, and improve business efficiency.
