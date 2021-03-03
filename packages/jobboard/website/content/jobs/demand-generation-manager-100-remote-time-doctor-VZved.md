@@ -1,8 +1,8 @@
 ---
-title: "Demand Generation Manager (100% Remote)"
+title: "Demand Generation Manager"
 location: "Atlanta, GA - Remote OK"
 host: "https://time-doctor.breezy.hr/"
-companyName: "time-doctor"
+companyName: "Time Doctor"
 url: "https://time-doctor.breezy.hr/p/47341fc687af-demand-generation-manager-100-remote"
 applyUrl: "https://time-doctor.breezy.hr/p/47341fc687af-demand-generation-manager-100-remote/apply"
 timestamp: 1614729600000
@@ -10,7 +10,7 @@ hashtags: "#marketing,#management,#sales,#css,#socialmedia,#content,#monitoring,
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor wishes to hire a new demand generation manager. If you have 3+ years of B2B marketing experience, with at least one year focused on paid channels and demand generation, consider applying."
+summary: "Time Doctor wishes to hire a new Demand Generation Manager. If you have 3+ years of B2B marketing experience, with at least one year focused on paid channels and demand generation, consider applying."
 summaryBackup: "Time-doctor is looking for a demand generation manager that has experience in: #marketing, #management, #sales."
 featured: 20
 ---
