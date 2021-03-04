@@ -10,9 +10,9 @@ hashtags: "#reactjs,#typescript,#javascript,#nodejs,#python,#docker,#git,#brandi
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=revieve"
-summary: "Revieve is looking for a fullstack engineer that has 3+ years of experience in developing modern JavaScript Applications."
+summary: "Revieve is looking for a Fullstack Engineer that has 3+ years of experience in developing modern JavaScript Applications."
 summaryBackup: "Love #reactjs, #typescript, #javascript? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 To help drive the value our brand and retail partners receive from working with Revieve, we're looking for experienced Full Stack Engineers **_with a_** **_focus on frontend web and mobile projects developed in React or React Native_**.
