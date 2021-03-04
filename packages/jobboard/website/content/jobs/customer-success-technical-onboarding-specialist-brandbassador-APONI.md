@@ -1,18 +1,18 @@
 ---
-title: "Customer Success: Technical Onboarding Specialist"
+title: "Customer Success"
 location: "Remote"
 host: "https://team.brandbassador.com/jobs/"
 companyName: "Brandbassador"
 url: "https://team.brandbassador.com/jobs/257100-customer-success-technical-onboarding-specialist"
 applyUrl: "https://team.brandbassador.com/jobs/257100-customer-success-technical-onboarding-specialist/applications/new?"
 timestamp: 1614729600000
-hashtags: "#branding,#marketing,#content,#ui/ux,#css,#management,#office,#socialmedia,#finance"
+hashtags: "#branding,#marketing,#management,#content,#ui/ux,#css,#office,#socialmedia,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
-summary: "To apply as a customer success: technical onboarding specialist at Brandbassador, you preferably need to have 2 years and over $4 million in development costs to create what is now Brandbassador."
+summary: "To apply as a Customer Success at Brandbassador, you preferably need to have at least 2-3 years of similar experience within a SaaS business or a proven track record in B2B account management."
 summaryBackup: "Love #branding, #marketing, #content? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 60 brands such as iDeal of Sweden, PopSockets, MVMT Watches, Huel, Fabletics and the list goes on. 
