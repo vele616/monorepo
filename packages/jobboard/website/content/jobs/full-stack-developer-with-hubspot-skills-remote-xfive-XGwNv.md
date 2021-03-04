@@ -1,18 +1,18 @@
 ---
-title: "Full-stack Developer with HubSpot skills, Remote"
+title: "Full-stack Developer"
 location: "Remote job"
 host: "https://xfive.recruitee.com/"
 companyName: "Xfive"
 url: "https://xfive.recruitee.com/o/fullstack-developer-with-hubspot-skills-remote"
 applyUrl: "https://xfive.recruitee.com/o/fullstack-developer-with-hubspot-skills-remote/c/new"
 timestamp: 1614729600000
-hashtags: "#html,#javascript,#reactjs,#angular,#vuejs,#css,#windows,#ui/ux,#git,#crm"
+hashtags: "#hubspot,#html,#css,#javascript,#reactjs,#angular,#vuejs,#windows,#ui/ux,#git,#crm"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/xfive"
 companyWebsite: "https://www.xfive.co/"
-summary: "Interested in new opportunities and have year experience with HubSpot? Xfive has a job opening for a full-stack developer with hubspot skills."
+summary: "Interested in new opportunities and have year experience with HubSpot? Xfive has a job opening for a Full-stack Developer with hubspot skills."
 summaryBackup: "To apply as a full-stack developer with hubspot skills at Xfive, you preferably need to have some knowledge of: #html, #javascript, #reactjs."
-featured: 20
+featured: 9
 ---
 
 ## Job description
@@ -27,10 +27,10 @@ We are looking for a talented **mid-level Full-stack developer withHubSpot skill
 
 Tired of spending your valuable time dealing with clients directly, estimating, proposing, invoicing, and looking for clients whodisappear just when the bill is due? When you join our team as a freelance contractor, we’ll handle all of this for you.
 
-*   Work the **hours that****bestfit your schedule**.
+*   Work the hours that **bestfit your schedule**.
 *   Work from the **comfort of your own home**.
 *   We engage the clients and win the projects so that you can **focus on** **your passion**: creating amazing code.
-*   Start with an**hourly rate**of**$25 USD / hour**andwork your way up to**35 USD / hour**.**(**Most of our projects are hourly based, some have fixed budget.)
+*   Start with an hourly rate of **$25 USD / hour** and work your way up to **35 USD / hour**.(Most of our projects are hourly based, some have fixed budget.)
 
 _Note: Our job ads are aimed at developers from Central Europe. Consider whether you apply if you don't have a reasonable time overlap with CET_
 
