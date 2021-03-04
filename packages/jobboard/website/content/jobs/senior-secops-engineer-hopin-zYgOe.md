@@ -12,10 +12,10 @@ jobType: "software"
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years of experience working in commercial environment doing Security Testing, Hopin is looking for someone with your knowledge."
 summaryBackup: "Excited about #operations, #python, #rubylang? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
-## Our mission is simple: **_better connections for a better planet_****.** We believe in events without limits, but events that are sustainable and accessible to everyone—and fun, too! To do this, we need passionate builders and storytellers to join us. Do you love people and technology and the magic that happens when they converge at scale? Do you have the skills and experience we’re looking for to better serve our clients? If so, we’d like to meet you.
+Our mission is simple: **_better connections for a better planet_**. We believe in events without limits, but events that are sustainable and accessible to everyone—and fun, too! To do this, we need passionate builders and storytellers to join us. Do you love people and technology and the magic that happens when they converge at scale? Do you have the skills and experience we’re looking for to better serve our clients? If so, we’d like to meet you.
 
 ## The Role
 
@@ -67,4 +67,4 @@ Our organization is remote-first. We currently have staff in over forty countrie
 *   Laptop assigned, Mac or Windows
 *   $800 USD for Home-Office set up
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
