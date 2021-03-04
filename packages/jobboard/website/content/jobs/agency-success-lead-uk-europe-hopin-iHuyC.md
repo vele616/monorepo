@@ -1,18 +1,18 @@
 ---
-title: "Agency Success Lead, UK-Europe"
+title: "Agency Success Lead"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4374761003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4374761003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#sales,#windows,#management,#operations,#analysis,#German,#French,#English"
+hashtags: "#management,#operations,#analysis,#sales,#windows,#German,#French,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 4+ years of experience working at or with a top UK/European event agency or agencies, Hopin is looking for someone with your knowledge."
 summaryBackup: "Excited about #sales, #windows, #management? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## At Hopin, we’re reimagining virtual events.
