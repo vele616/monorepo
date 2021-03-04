@@ -6,13 +6,13 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4359310003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4359310003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#management,#python,#office"
+hashtags: "#management,#python,#snowflake,#office"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is searching for a head of data engineering that has 8 years experience in software development, with at least 3 of them managing a data engineering team."
+summary: "Hopin is searching for a Head of Data Engineering that has 8 years experience in software development, with at least 3 of them managing a data engineering team."
 summaryBackup: "Hopin is looking for a head of data engineering that has experience in: #management, #python, #office."
-featured: 20
+featured: 8
 ---
 
 ## At Hopin, we’re reimagining virtual events.
@@ -55,7 +55,7 @@ Hopin is seeking a dynamic Head of Data Engineer to lead & rapidly scale a fast 
 *   At least 8 years experience in software development, with at least 3 of them managing a data engineering team.
 *   Experience in either building data teams from scratch or scaling them.
 *   Experience managing managers and working cross-functionally with stakeholders across the business
-*   Strong hands-on background in data engineering in the past - familiarity with Python, Redshift/BigQuery/Snowflake, ETL processes, structured and unstructured data.
+*   Strong hands-on background in data engineering in the past - familiarity with Python, Redshift, BigQuery, Snowflake, ETL processes, structured and unstructured data.
 *   Excellent written and spoken communication skills.
 
 ## This is a remote job, but you must be able to cover 5+ hours of GMT time zone work hours per day from wherever you are.
