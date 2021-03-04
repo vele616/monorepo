@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#branding,#management,#marketing,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 10+ years of design experience, consider applying to Hopin's job post for a new head of design."
+summary: "If you have 10+ years of design experience, consider applying to Hopin's job post for a new Head of Design."
 summaryBackup: "Hopin is looking for a head of design that has experience in: #ui/ux, #branding, #management."
-featured: 20
+featured: 5
 ---
 
 ## The role
