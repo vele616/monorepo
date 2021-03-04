@@ -6,18 +6,18 @@ companyName: "Xfive"
 url: "https://xfive.recruitee.com/o/goodie-developer-krakow"
 applyUrl: "https://xfive.recruitee.com/o/goodie-developer-krakow/c/new"
 timestamp: 1614729600000
-hashtags: "#wordpress,#reactjs,#angular,#vuejs,#ui/ux,#marketing,#branding,#git,#photoshop,#figma"
+hashtags: "#wordpress,#ui/ux,#reactjs,#angular,#vuejs,#marketing,#branding,#git,#photoshop,#figma"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/xfive"
 companyWebsite: "https://www.xfive.co/"
-summary: "Xfive intends to hire a new goodie developer. If you have 15 years, takes care of the marketing, and partnerships, effecting a constant flow of projects for experienced developers like you, consider applying."
+summary: "Xfive intends to hire a new Goodie Developer. If you have at least 3-year experience with developing WordPress websites, consider applying."
 summaryBackup: "Xfive is looking for a goodie developer that has experience in: #wordpress, #reactjs, #angular."
-featured: 20
+featured: 10
 ---
 
 ## Job description
 
-We are looking for a talented mid-level **WordPress or Shopify freelance developers**for[Goodiewebsite](https://goodiewebsite.com/) platform.
+We are looking for a talented mid-level **WordPress or Shopify freelance developers** for [Goodiewebsite](https://goodiewebsite.com/) platform.
 
 **Type of employment**: remote freelance
 
@@ -47,16 +47,12 @@ _Note: Our job ads are aimed at developers from the European Union. Consider whe
 *   You have a consistent coding style and passion for well-organized, clean code.
 *   You have good verbal and written communication skills in English and like working directly with a client.
 
-**Front-end d**
-
-## **evelopment skills**
+**Front-end development skills**
 
 *   Strong front-end development skills
 *   Ability to convert UI designs (Figma, Adobe XD, Photoshop) to functional websites
 
-**WordPress d**
-
-## **evelopment skills**
+**WordPress development skills**
 
 *   At least 3-year experience with developing WordPress websites
 *   Experience with installing and migrating websites on hosting services
@@ -68,9 +64,7 @@ _Note: Our job ads are aimed at developers from the European Union. Consider whe
 
 **(or)**
 
-## **Shopify d**
-
-**evelopment skills**
+**Shopify development skills**
 
 *   At least 2-year experience with **Shopify platform** and general experience with e-commerce
 *   Good knowledge of **Shopify Liquid** template language
