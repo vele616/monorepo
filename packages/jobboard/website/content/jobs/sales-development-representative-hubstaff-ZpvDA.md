@@ -6,13 +6,13 @@ companyName: "Hubstaff"
 url: "https://apply.workable.com/hubstaff/j/D2E130E63C/"
 applyUrl: "https://apply.workable.com/hubstaff/j/D2E130E63C/apply/"
 timestamp: 1614729600000
-hashtags: "#sales,#css,#management,#marketing,#crm,#English"
+hashtags: "#sales,#management,#marketing,#css,#crm,#English"
 jobType: "other"
 
 companyWebsite: "https://hubstaff.com/"
-summary: "Hubstaff wishes to hire a new sales development representative. If you have 3 years experience selling B2B SaaS software to Mid market and Enterprise segments, consider applying."
+summary: "Hubstaff wishes to hire a new Sales Development Representative. If you have 3 years experience selling B2B SaaS software to Mid market and Enterprise segments, consider applying."
 summaryBackup: "To apply as a sales development representative at Hubstaff, you preferably need to have some knowledge of: #sales, #css, #management."
-featured: 20
+featured: 13
 ---
 
 ## Description
