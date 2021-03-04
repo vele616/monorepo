@@ -68,4 +68,3 @@ Regarding candidates who want to relocate to Hamburg: Due to COVID our offices a
 
 Jimdo is proud to be an equal opportunity employer. This means that we don’t discriminate based on race or ethnic origin, color, the language(s) you speak, where you (or your parents) are from, or whether or not you consider yourself to have a disability. Neither will your age, gender, gender identity, sexual orientation, religion, beliefs, or political opinions play a part in your application with us. We’re a diverse team in so many ways, and we love it that way.
 
-## [Lior](https://www.linkedin.com/in/lior-oren/) is looking forward to receive your application.
