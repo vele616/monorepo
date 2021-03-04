@@ -1,18 +1,18 @@
 ---
-title: "Staff Frontend Architect (m/f/d)"
+title: "Staff Frontend Architect"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
-companyName: "jimdo"
+companyName: "Jimdo"
 url: "https://jimdo.breezy.hr/p/606793643f4301-staff-frontend-architect-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/606793643f4301-staff-frontend-architect-m-f-d/apply"
 timestamp: 1614729600000
-hashtags: "#javascript,#reactjs,#swift,#typescript,#css,#html,#ui/ux,#marketing,#monitoring,#office"
+hashtags: "#javascript,#reactjs,#typescript,#css,#html,#swift,#ui/ux,#marketing,#monitoring,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
-summary: "If you have you also have experience with accessibility, Jimdo is looking for someone with your skillset."
+summary: "If you have experience building fast websites, and take care of performance monitoring and optimization, Jimdo is looking for someone with your skillset."
 summaryBackup: "To apply as a staff frontend architect at Jimdo, you preferably need to have some knowledge of: #javascript, #reactjs, #swift."
-featured: 20
+featured: 6
 ---
 
 ## Staff Frontend Architect
