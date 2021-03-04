@@ -6,7 +6,7 @@ companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/91aec9e5025f01-senior-product-manager-platform-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/91aec9e5025f01-senior-product-manager-platform-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#scrum,#ui/ux,#management,#marketing,#css,#translation,#analysis,,#optimization,#English"
+hashtags: "#scrum,#ui/ux,#management,#marketing,#css,#translation,#analysis,#optimization,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"

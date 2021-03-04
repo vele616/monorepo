@@ -6,7 +6,7 @@ companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/6B9ACF095B/"
 applyUrl: "https://apply.workable.com/primer-api/j/6B9ACF095B/apply/"
 timestamp: 1607299200000
-hashtags: "#sales,#management,#communcation,#analysis"
+hashtags: "#sales,#management,#communication,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"

@@ -6,7 +6,7 @@ companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/a743116f15ed01-frontend-software-engineer-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/a743116f15ed01-frontend-software-engineer-m-f-d/apply"
 timestamp: 1607385600000
-hashtags: "#javascript,#reactjs,#vuejs,#html,#ui/ux,#angular,,#typescript,#css,#management"
+hashtags: "#javascript,#reactjs,#vuejs,#html,#ui/ux,#angular,#typescript,#css,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
