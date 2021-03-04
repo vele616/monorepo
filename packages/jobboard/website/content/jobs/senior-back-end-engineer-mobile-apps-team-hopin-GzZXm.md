@@ -1,18 +1,18 @@
 ---
-title: "Senior Back End Engineer (Mobile Apps Team)"
+title: "Senior Back End Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4393453003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4393453003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#nodejs,#typescript,#scrum,#windows,#docker,#management,#redis,#postgresql,#dynamodb"
+hashtags: "#nodejs,#typescript,#redis,#scrum,#windows,#docker,#management,#ui/ux,#postgresql,#dynamodb"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is searching for a senior back end engineer that has 2+ Years of experience in Back End technology."
+summary: "Hopin is searching for a Senior Back End Engineer that has 2+ years of experience in Back End technology."
 summaryBackup: "Excited about #ui/ux, #nodejs, #typescript? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## At Hopin, we’re reimagining virtual events.
@@ -79,4 +79,4 @@ We are seeking a highly motivated individual who is comfortable in a fast-paced,
 *   Laptop assigned, Mac or Windows             
 *   800 USD for Home-Office set up
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
