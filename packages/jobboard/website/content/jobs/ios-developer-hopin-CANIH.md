@@ -10,9 +10,9 @@ hashtags: "#ios,#ui/ux,#swift,#windows,#scrum,#analysis"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have commercial experience with Swift, consider applying to Hopin's job post for a new ios developer."
+summary: "If you have commercial experience with Swift, consider applying to Hopin's job post for a new iOS Developer."
 summaryBackup: "Love #ios, #ui/ux, #swift? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## At Hopin, we’re reimagining virtual events.
