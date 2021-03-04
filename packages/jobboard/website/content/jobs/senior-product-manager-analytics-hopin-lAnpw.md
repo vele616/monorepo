@@ -6,13 +6,13 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4365953003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4365953003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#analysis,#ui/ux,#management,#marketing,#office,#optimization,#English"
+hashtags: "#analysis,#management,#marketing,#ui/ux,#office,#optimization,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments, consider applying to Hopin's job post for a new senior product manager."
+summary: "If you have 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments, consider applying to Hopin's job post for a new Senior Product Manager."
 summaryBackup: "Love #analysis, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## The Role
@@ -56,4 +56,4 @@ You will be leading the vision, strategy and roadmap for the evolution of Hopinâ
 *   800 USD for Home-Office set up
     
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
