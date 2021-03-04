@@ -1,16 +1,16 @@
 ---
-title: "Account Executive (French-speaking)"
+title: "Account Executive"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4373721003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4373721003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#sales,#windows,#crm,#office,#English"
+hashtags: "#sales,#French,#crm,#windows,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin intends to hire a new account executive. If you have 3+ years of experience in Sales or Business Development, consider applying."
+summary: "Hopin intends to hire a new Account Executive. If you have 3+ years of experience in Sales or Business Development, consider applying."
 summaryBackup: "Excited about #sales, #windows, #crm? Check out this job post!"
 featured: 20
 ---
@@ -66,4 +66,4 @@ Qualifications
 *   Laptop assigned, Mac or Windows             
 *   800 USD for Home-Office set up
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
