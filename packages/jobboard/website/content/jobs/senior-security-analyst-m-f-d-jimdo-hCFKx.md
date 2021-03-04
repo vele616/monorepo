@@ -1,18 +1,18 @@
 ---
-title: "Senior Security Analyst (m/f/d)"
+title: "Senior Security Analyst"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/a9b87c505b0501-senior-security-analyst-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/a9b87c505b0501-senior-security-analyst-m-f-d/apply"
 timestamp: 1614729600000
-hashtags: "#management,#nodejs,#python,#java,#golang,#kotlin,#typescript,#analysis,#ui/ux,#socialmedia"
-jobType: "software"
+hashtags: "#nodejs,#analysis,#testing,#python,#java,#golang,#management,#kotlin,#typescript,#ui/ux,#socialmedia"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "If you have 6 years of professional experience with Penetration Testing, Jimdo is looking for someone with your skillset."
 summaryBackup: "To apply as a senior security analyst at Jimdo, you preferably need to have some knowledge of: #management, #nodejs, #python."
-featured: 20
+featured: 9
 ---
 
 ## Senior Security Analyst
@@ -89,4 +89,3 @@ Be the security person for all Jimdo customers and employees
 
 Jimdo is proud to be an equal opportunity employer. This means that we don’t discriminate based on race or ethnic origin, color, the language(s) you speak, where you (or your parents) are from, or whether or not you consider yourself to have a disability. Neither will your age, gender, gender identity, sexual orientation, religion, beliefs, or political opinions play a part in your application with us. We’re a diverse team in so many ways, and we love it that way.
 
-[Jim](https://www.linkedin.com/in/jimdallen/) is looking forward to receiving your application.
