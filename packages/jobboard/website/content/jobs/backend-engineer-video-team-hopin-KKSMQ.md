@@ -1,5 +1,5 @@
 ---
-title: "Backend Engineer (Video Team)"
+title: "Backend Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#typescript,#terraform,#windows,#kubernetes,#docker,#aws,
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Interested in new opportunities and have experience with one or more of the following areas of interest is preferred? Hopin has a job opening for a backend engineer."
+summary: "Excited about #javascript, #typescript, #terraform? Check out this job post!"
 summaryBackup: "Excited about #javascript, #typescript, #terraform? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 Hopin is a virtual venue for live online events that brings hundreds of thousands of people together, to have interactive and engaging experiences from anywhere in the world.
