@@ -6,13 +6,13 @@ companyName: "Hubstaff"
 url: "https://apply.workable.com/hubstaff/j/AA356F5AA4/"
 applyUrl: "https://apply.workable.com/hubstaff/j/AA356F5AA4/apply/"
 timestamp: 1614729600000
-hashtags: "#css,#branding,#management,#marketing,#content,#socialmedia,#analysis,#office,#optimization"
+hashtags: "#marketing,#content,#analysis,#css,#branding,#management,#socialmedia,#office,#optimization"
 jobType: "other"
 
 companyWebsite: "https://hubstaff.com/"
-summary: "If you have company or brand blog writing experience required, writing for a software, consider applying to Hubstaff's job post for a new saas blog writer & editor."
+summary: "If you have experience writing company or brand blog, consider applying to Hubstaff's job post for a new SaaS Blog Writer & Editor."
 summaryBackup: "To apply as a saas blog writer & editor at Hubstaff, you preferably need to have some knowledge of: #css, #branding, #management."
-featured: 20
+featured: 5
 ---
 
 ## Description
