@@ -6,13 +6,13 @@ companyName: "ConvertKit"
 url: "https://apply.workable.com/convertkit/j/08F1ED8954/"
 applyUrl: "https://apply.workable.com/convertkit/j/08F1ED8954/apply/"
 timestamp: 1614729600000
-hashtags: "#marketing,#ui/ux,#css,#management,#windows,#sales,#chef,#content,#analysis,#office"
+hashtags: "#marketing,#management,#analysis,#windows,#sales,#ui/ux,#css,#chef,#content,#office"
 jobType: "other"
 
 companyWebsite: "http://convertkit.com/"
-summary: "Interested in new opportunities and have 4+ years of in-house experience in product marketing for SaaS, B2C tech companies? ConvertKit has a job opening for a product marketing manager."
+summary: "Interested in new opportunities and have 4+ years of in-house experience in product marketing for SaaS, B2C tech companies? ConvertKit has a job opening for a Product Marketing Manager."
 summaryBackup: "ConvertKit is looking for a product marketing manager that has experience in: #marketing, #ui/ux, #css."
-featured: 20
+featured: 1
 ---
 
 ## Description
