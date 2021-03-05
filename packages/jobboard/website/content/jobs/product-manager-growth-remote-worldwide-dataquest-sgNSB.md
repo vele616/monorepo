@@ -21,7 +21,7 @@ We want to help tens of millions of students worldwide change their lives throug
 
 **This is a fully remote company and we are open to applications worldwide.**  You don't have to match all of the listed requirements to apply, we're truly looking for people who can grow along with our diverse and global team.
 
-About the role
+## About the role
 
 We are looking for a Product Manager, reporting to the Head of Product, that will be responsible for helping drive growth through defining product strategies and managing a product roadmap. You will primarily be responsible for conversion tactics across the customer funnel to empower deeper learning and engagement for our customers and prospects.
 
