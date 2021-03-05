@@ -6,13 +6,13 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4372028003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4372028003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#sales,#operations,#management,#css,#windows,#content,#marketing,#finance,#analysis,#crm"
+hashtags: "#sales,#analysis,#management,#operations,#css,#windows,#content,#marketing,#finance,#crm"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin intends to hire a new deal desk manager. If you have 3+ years of deal desk, revenue strategy and operations, or go to market consulting experience, consider applying."
+summary: "Hopin intends to hire a new Deal Desk Manager. If you have 3+ years of deal desk, revenue strategy and operations, or go to market consulting experience, consider applying."
 summaryBackup: "Excited about #sales, #operations, #management? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Hopin’s Deal Desk Manager will work closely with the VP of Business Operations and Sales Leadership to create automated systems and processes for our sales teams. This position is highly specialized in deal formation, execution, and setting up sales operations for scale. You will play a key role to advise on optimal and complex deal structures, drive critical negotiation and deliver contracts that serve Hopin and our customers.  As Hopin’s sales team scales, your work will ensure that our GTM team has the process, policies, and deal strategies to succeed.
