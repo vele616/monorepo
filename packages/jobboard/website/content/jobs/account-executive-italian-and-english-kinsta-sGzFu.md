@@ -6,7 +6,7 @@ companyName: "Kinsta"
 url: "https://apply.workable.com/kinsta/j/F3C403B230/"
 applyUrl: "https://apply.workable.com/kinsta/j/F3C403B230/apply/"
 timestamp: 1606953600000
-hashtags: "#sales,#English,#Italian,#accountant,#wordpress,#management,#crm,"
+hashtags: "#sales,#English,#Italian,#accountant,#wordpress,#management,#crm"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kinsta"
 companyWebsite: "https://kinsta.com/"

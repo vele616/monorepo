@@ -6,7 +6,7 @@ companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2464793"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2464793#app"
 timestamp: 1607299200000
-hashtags: "#csharp,#cplusplus,#unity,#scrum,#content,#git,#management,"
+hashtags: "#csharp,#cplusplus,#unity,#scrum,#content,#git,#management"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
