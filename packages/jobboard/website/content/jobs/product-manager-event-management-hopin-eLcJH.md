@@ -1,18 +1,18 @@
 ---
-title: "Product Manager, Event Management"
+title: "Product Manager"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4365958003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4365958003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#management,#marketing,#analysis,#office,#optimization,#English"
+hashtags: "#management,#marketing,#analysis,#ui/ux,#office,#optimization,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is searching for a product manager that has 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments."
+summary: "Hopin is searching for a Product Manager that has 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments."
 summaryBackup: "To apply as a product manager at Hopin, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
-featured: 20
+featured: 2
 ---
 
 ## The Role
@@ -56,4 +56,4 @@ You will be leading the vision, strategy and roadmap for the evolution of Hopinâ
 *   800 USD for Home-Office set up
     
 
-## At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
+At Hopin, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.
