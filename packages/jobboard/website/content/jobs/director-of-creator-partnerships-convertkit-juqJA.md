@@ -6,13 +6,13 @@ companyName: "ConvertKit"
 url: "https://apply.workable.com/convertkit/j/49EC184E63/"
 applyUrl: "https://apply.workable.com/convertkit/j/49EC184E63/apply/"
 timestamp: 1614729600000
-hashtags: "#sales,#marketing,#branding,#management,#operations,#chef,#ui/ux,#office,#optimization"
+hashtags: "#marketing,#management,#operations,#sales,#branding,#chef,#ui/ux,#office,#optimization"
 jobType: "other"
 
 companyWebsite: "http://convertkit.com/"
-summary: "To apply as a director of creator partnerships at ConvertKit, you preferably need to have 5+ years of combined people and project management experience."
+summary: "To apply as a Director of Creator Partnerships at ConvertKit, you preferably need to have 5+ years of combined people and project management experience."
 summaryBackup: "To apply as a director of creator partnerships at ConvertKit, you preferably need to have some knowledge of: #sales, #marketing, #branding."
-featured: 20
+featured: 10
 ---
 
 ## Description
