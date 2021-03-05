@@ -6,13 +6,13 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4371637003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4371637003?t=02952e2a3us#app"
 timestamp: 1614729600000
-hashtags: "#management,#css,#windows,#analytics,#marketing,#analysis,#office,#finance,#optimization"
+hashtags: "#management,#analytics,#analysis,#css,#windows,#marketing,#office,#finance,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Interested in new opportunities and have on, high visibility role that will require extensive and broad sourcing experience across all categories with a strong emphasis on cloud/SaaS and professional services/contingent workforce categories? Hopin has a job opening for a strategic sourcing manager."
+summary: "Interested in new opportunities and have solid understanding of how contracts are structured, written and negotiated? Hopin has a job opening for a Strategic Sourcing Manager."
 summaryBackup: "Love #management, #css, #windows? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## At Hopin, we’re reimagining virtual events.
