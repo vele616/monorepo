@@ -1,18 +1,18 @@
 ---
-title: "JavaScript Software Engineer (U.S. remote OK)"
+title: "JavaScript Software Engineer"
 location: "Oakland,California,United States"
 host: "https://locuslabs.recruiterbox.com/"
 companyName: "LocusLabs"
 url: "https://locuslabs.recruiterbox.com/jobs/fk03km1/"
 applyUrl: "https://locuslabs.recruiterbox.com/jobs/fk03km1/?apply=true"
 timestamp: 1614729600000
-hashtags: "#javascript,#ui/ux,#reactjs,#management,#aws,#branding,#dynamodb,#figma"
+hashtags: "#javascript,#aws,#reactjs,#management,#ui/ux,#branding,#dynamodb,#figma"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/locuslabs"
 companyWebsite: "http://www.locuslabs.com/"
-summary: "To apply as a javascript software engineer at LocusLabs, you preferably need to have 4 years or more of professional JavaScript development experience shipping enterprise-grade software."
+summary: "To apply as a JavaScript Software Engineer at LocusLabs, you preferably need to have 4 years or more of professional JavaScript development experience shipping enterprise-grade software."
 summaryBackup: "To apply as a javascript software engineer at LocusLabs, you preferably need to have some knowledge of: #javascript, #ui/ux, #reactjs."
-featured: 20
+featured: 1
 ---
 
 JavaScript Software Engineer (U.S.or Europe Remote)
