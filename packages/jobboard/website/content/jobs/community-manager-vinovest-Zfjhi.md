@@ -6,13 +6,13 @@ companyName: "Vinovest"
 url: "https://vinovest.recruitee.com/o/community-manager"
 applyUrl: "https://vinovest.recruitee.com/o/community-manager/c/new"
 timestamp: 1614729600000
-hashtags: "#management,#socialmedia,#scrum,#office"
+hashtags: "#management,#socialmedia,#marketing,#scrum,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
-summary: "Vinovest is looking for a community manager that has experience in: experience in: #management, #socialmedia, #scrum."
+summary: "Vinovest is looking for a Community Manager that has experience in: #management, #socialmedia, #marketing."
 summaryBackup: "To apply as a community manager at Vinovest, you preferably need to have some knowledge of: #management, #socialmedia, #scrum."
-featured: 20
+featured: 4
 ---
 
 ## Job description
