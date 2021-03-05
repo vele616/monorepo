@@ -1,18 +1,18 @@
 ---
-title: "UI Designer (Freelance / Part-time)"
+title: "UI Designer"
 location: "Remote job"
 host: "https://xfive.recruitee.com/"
 companyName: "Xfive"
 url: "https://xfive.recruitee.com/o/ui-designer-freelance-parttime"
 applyUrl: "https://xfive.recruitee.com/o/ui-designer-freelance-parttime/c/new"
 timestamp: 1614729600000
-hashtags: "#ui/ux,#branding,#photoshop,#figma,#English"
+hashtags: "#ui/ux,#figma,#photoshop,#branding,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/xfive"
 companyWebsite: "https://www.xfive.co/"
-summary: "If you have experience with creating vector illustrations, consider applying to Xfive's job post for a new ui designer."
+summary: "If you have experience with creating vector illustrations, consider applying to Xfive's job post for a new UI Designer."
 summaryBackup: "Love #ui/ux, #branding, #photoshop? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Job description
