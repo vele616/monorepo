@@ -1,18 +1,18 @@
 ---
-title: "Product Manager - Growth (Remote-Worldwide)"
+title: "Product Manager"
 location: "Worldwide"
 host: "https://jobs.lever.co/dataquest/"
 companyName: "Dataquest"
 url: "https://jobs.lever.co/dataquest/b4609857-c47f-446c-b6f6-442b50052a0e"
 applyUrl: "https://jobs.lever.co/dataquest/b4609857-c47f-446c-b6f6-442b50052a0e/apply"
 timestamp: 1614729600000
-hashtags: "#marketing,#management,#content,#analytics,#sales,#translation,#office"
+hashtags: "#management,#content,#analytics,#marketing,#sales,#translation,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dataquest"
 companyWebsite: "https://jobs.lever.co/dataquest/"
 summary: "If you have 5+ years professional experience, Dataquest is looking for someone with your knowledge."
 summaryBackup: "To apply as a product manager at Dataquest, you preferably need to have some knowledge of: #marketing, #management, #content."
-featured: 20
+featured: 3
 ---
 
 Dataquest is an interactive online learning platform for data science. We’re passionate about helping students go from zero to job ready. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers.  Read more about our philosophy [here](https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/), and read what students think [here](https://www.switchup.org/bootcamps/dataquest).
