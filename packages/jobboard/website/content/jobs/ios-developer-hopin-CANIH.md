@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/hopin/jobs/4375939003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4375939003?t=02952e2a3us#app"
 timestamp: 1614729600000
 hashtags: "#ios,#ui/ux,#swift,#windows,#scrum,#analysis"
-jobType: "other"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have commercial experience with Swift, consider applying to Hopin's job post for a new iOS Developer."
