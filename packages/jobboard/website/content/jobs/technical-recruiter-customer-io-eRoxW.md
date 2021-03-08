@@ -6,13 +6,13 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2964629?t=5c1a877f1us"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2964629?t=5c1a877f1us#app"
 timestamp: 1615161600000
-hashtags: "#management,#marketing,#spring,#css,#operations,#office"
+hashtags: "#management,#HR,#operations,#marketing,#spring,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
 summary: "If you have have experience building a collaborative team, not only hiring individuals, Customer.io is looking for someone with your skillset."
 summaryBackup: "Customer.io is looking for a technical recruiter that has experience in: #management, #marketing, #spring."
-featured: 20
+featured: 15
 ---
 
 Hi, I'm Symone, Recruiting Manager at Customer.io!
