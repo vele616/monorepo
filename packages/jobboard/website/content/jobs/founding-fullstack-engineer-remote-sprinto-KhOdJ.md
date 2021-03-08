@@ -1,18 +1,18 @@
 ---
-title: "Founding Fullstack Engineer (Remote)"
+title: "Founding Fullstack Engineer"
 location: "Remote"
 host: "https://sprinto.freshteam.com/jobs/"
 companyName: "sprinto"
 url: "https://sprinto.freshteam.com/jobs/WTq2ZXQ0Gsbq/founding-fullstack-engineer-remote"
 applyUrl: "https://sprinto.freshteam.com/jobs/WTq2ZXQ0Gsbq/founding-fullstack-engineer-remote#applicant-form"
 timestamp: 1615161600000
-hashtags: "#reactjs,#nodejs,#css,#aws,#postgresql"
+hashtags: "#reactjs,#nodejs,#postgresql,#css,#aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sprinto"
 companyWebsite: "https://sprinto.freshteam.com/jobs"
-summary: "Sprinto intends to hire a new founding fullstack engineer. If you have 10 years of engineering experience and will be building the product along with you, consider applying."
+summary: "Sprinto intends to hire a new founding fullstack engineer. If you  have professionally programmed for at least 7 years, preferably in a small team, consider applying."
 summaryBackup: "Love #reactjs, #nodejs, #css? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Sprinto is an early stage SaaS startup, working in the information security and compliance space. We are currently in private beta working with a select few customers to build a compelling product.Why work with us?
