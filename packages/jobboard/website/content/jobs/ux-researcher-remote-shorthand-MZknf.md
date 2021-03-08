@@ -1,18 +1,18 @@
 ---
-title: "UX Researcher (Remote)"
+title: "UX Researcher"
 location: "Remote"
 host: "https://shorthand.freshteam.com/jobs"
 companyName: "Shorthand"
 url: "https://shorthand.freshteam.com/jobs/GoXBvptw5Cub/ux-researcher-remote"
 applyUrl: "https://shorthand.freshteam.com/jobs/GoXBvptw5Cub/ux-researcher-remote#applicant-form"
 timestamp: 1615161600000
-hashtags: "#ui/ux,#css,#branding,#analysis,#English"
+hashtags: "#ui/ux,#analysis,#testing,#css,#branding,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shorthand"
 companyWebsite: "https://shorthand.freshteam.com/jobs"
-summary: "If you have 2 years professional experience with a broad set of research tools, consider applying to Shorthand's job post for a new ux researcher."
+summary: "If you have 2 years professional experience with a broad set of research tools, consider applying to Shorthand's job post for a new UX Researcher."
 summaryBackup: "Excited about #ui/ux, #css, #branding? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## The Opportunity
