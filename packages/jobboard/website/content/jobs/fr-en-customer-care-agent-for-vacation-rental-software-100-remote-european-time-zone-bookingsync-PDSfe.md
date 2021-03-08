@@ -13,6 +13,7 @@ companyWebsite: "https://bookingsync.bamboohr.com/jobs/"
 summary: "If you have experience with Vacation Rental Software is a huge plus, consider applying to BookingSync's job post for a new fr."
 summaryBackup: "Love #socialmedia, #css, #html? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 BookingSync is actively looking for a remotely-based customer care specialist to join our support team. The customer care specialist will be primarily responsible for responding to and solving customer support inquiries.

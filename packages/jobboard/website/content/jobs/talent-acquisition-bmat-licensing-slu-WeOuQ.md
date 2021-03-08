@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT Licensing SLU is looking for a Talent Acquisition that has excellent communication skills and attention to details."
 summaryBackup: "BMAT Licensing SLU is looking for a talent acquisition that has experience in: #management, #branding, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 ## About BMAT
