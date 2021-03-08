@@ -1,18 +1,18 @@
 ---
-title: "Senior JS-TS Remote Engineer"
+title: "Senior JS-TS Engineer"
 location: "France"
 host: "https://apply.workable.com/product-feedback/"
 companyName: "Product Feedback"
 url: "https://apply.workable.com/product-feedback/j/ACBF477D4A/"
 applyUrl: "https://apply.workable.com/product-feedback/j/ACBF477D4A/apply/"
 timestamp: 1615161600000
-hashtags: "#git,#reactjs,#typescript,#marketing,#terraform,#kubernetes,#aws,#management,#postgresql,#analysis"
+hashtags: "#reactjs,#typescript,#terraform,#marketing,#kubernetes,#aws,#management,#postgresql,#git,#analysis"
 jobType: "software"
 
 companyWebsite: "http://productfeedback.com/"
-summary: "Product Feedback intends to hire a new senior js-ts remote engineer. If you have 5 weeks of paid vacation per year, consider applying."
+summary: "Product Feedback intends to hire a new Senior JS-TS Engineer. If you are experienced with modern front-end technologies, consider applying."
 summaryBackup: "Love #git, #reactjs, #typescript? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
