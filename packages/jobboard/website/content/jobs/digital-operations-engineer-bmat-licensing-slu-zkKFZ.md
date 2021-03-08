@@ -10,9 +10,9 @@ hashtags: "#python,#operations,#javascript,#macos,#aws,#sales,#content,#manageme
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU is looking for a digital operations engineer that has some experience with JavaScript will help you solve some tasks faster."
+summary: "BMAT is looking for a Digital Operations Engineer that has some experience in music publishing operations, preferably at a Collective Management Organization, music publisher, or DSP."
 summaryBackup: "Love #python, #operations, #javascript? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## About BMAT 
