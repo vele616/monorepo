@@ -1,18 +1,18 @@
 ---
-title: "Lead Senior Software Engineer - Digital music distribution, Python"
+title: "Lead Senior Software Engineer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
 companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=162&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=162&source=other"
 timestamp: 1615161600000
-hashtags: "#python,#ui/ux,#django,#flask,#scrum,#docker,#aws,#macos,#linux,#management"
+hashtags: "#python,#django,#flask,#scrum,#docker,#aws,#ui/ux,#macos,#linux,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "If you have 5+ years of industry experience building data-intensive web applications, consider applying to BMAT Licensing SLU's job post for a new lead senior software engineer."
+summary: "If you have 5+ years of industry experience building data-intensive web applications, consider applying to BMAT's job post for a new Lead Senior Software Engineer."
 summaryBackup: "To apply as a lead senior software engineer at BMAT Licensing SLU, you preferably need to have some knowledge of: #python, #ui/ux, #django."
-featured: 20
+featured: 18
 ---
 
 ## About BMAT 
