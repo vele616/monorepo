@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer - Golang, Remote"
+title: "Senior Software Engineer"
 location: "London, Greater London"
 host: "https://myagi.bamboohr.com/jobs/"
 companyName: "Myagi"
 url: "https://myagi.bamboohr.com/jobs/view.php?id=30&source=other"
 applyUrl: "https://myagi.bamboohr.com/jobs/view.php?id=30&source=other"
 timestamp: 1615334400000
-hashtags: "#golang,#python,#branding,#windows,#aws,#reactjs,#typescript,#docker,#content,#management"
+hashtags: "#golang,#python,#aws,#branding,#windows,#reactjs,#typescript,#docker,#content,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/myagi"
 companyWebsite: "https://myagi.bamboohr.com/jobs/"
-summary: "Myagi is looking for a senior software engineer that has we have experience of working remotely for over 5 years and so we have all the technology and processes to ensure you stay connected."
-summaryBackup: "To apply as a senior software engineer at Myagi, you preferably need to have some knowledge of: #golang, #python, #branding."
-featured: 20
+summary: "To apply as a Senior Software Engineer at Myagi, you preferably need to have some knowledge of: #golang, #python, #aws."
+summaryBackup: "To apply as a senior software engineer at Myagi, you preferably need to have some knowledge of: #golang, #python, #aws."
+featured: 2
 ---
 
 ## #golang     #hot🔥startup     #senior-role
