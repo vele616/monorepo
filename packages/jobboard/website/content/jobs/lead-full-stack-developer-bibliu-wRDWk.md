@@ -6,13 +6,13 @@ companyName: "BibliU"
 url: "https://bibliu.recruitee.com/o/lead-full-stack-developer"
 applyUrl: "https://bibliu.recruitee.com/o/lead-full-stack-developer/c/new"
 timestamp: 1615334400000
-hashtags: "#javascript,#content,#aws,#ui/ux,#management,#marketing,#operations,#rest,#English"
-jobType: "other"
+hashtags: "#javascript,#aws,#rest,#ui/ux,#management,#content,#marketing,#operations,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bibliu"
 companyWebsite: "https://www.bibliu.com/"
-summary: "BibliU wishes to hire a new lead full stack developer. If you have have experience with building and designing REST APIs, consider applying."
+summary: "BibliU wishes to hire a new Lead Full Stack Developer. If you have have experience with building and designing REST APIs, consider applying."
 summaryBackup: "Love #javascript, #content, #aws? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
@@ -21,7 +21,9 @@ Lead Full Stack Developer(Javascript, node.js)
 
 **Location:** Fully remote
 
-**Experience:** Minimum 3 years**This role is 100% remote. We are looking for Senior SoftwareDevelopers from the EU and Australia who have experience as team or tech lead.**
+**Experience:** Minimum 3 years 
+
+**This role is 100% remote. We are looking for Senior Software Developers from the EU and Australia who have experience as team or tech lead.**
 
 ## Full time (contract)
 
