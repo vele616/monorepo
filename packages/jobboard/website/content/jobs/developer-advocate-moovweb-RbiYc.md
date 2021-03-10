@@ -10,7 +10,7 @@ hashtags: "#javascript,#reactjs,#angular,#nodejs,#content,#git,#marketing,#socia
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/moovweb"
 companyWebsite: "http://www.moovweb.com/"
-summary: "Moovweb intends to hire a new developer advocate. If you have 3+ years of professional experience in a technology company or environment, consider applying."
+summary: "Moovweb intends to hire a new Developer Advocate. If you have 3+ years of professional experience in a technology company or environment, consider applying."
 summaryBackup: "To apply as a developer advocate at Moovweb, you preferably need to have some knowledge of: #javascript, #reactjs, #angular."
 featured: 20
 ---
