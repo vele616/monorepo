@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer - Python, Remote"
+title: "Software Engineer"
 location: "Melbourne, Victoria"
 host: "https://myagi.bamboohr.com/jobs/"
 companyName: "Myagi"
@@ -10,9 +10,9 @@ hashtags: "#python,#django,#reactjs,#branding,#windows,#aws,#golang,#docker,#con
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/myagi"
 companyWebsite: "https://myagi.bamboohr.com/jobs/"
-summary: "If you have we have experience of working remotely for over 5 years and so we have all the technology and processes to ensure you stay connected, Myagi is looking for someone with your skillset."
+summary: "If you have we have experience with Python, Django and/or React, Myagi is looking for someone with your skillset."
 summaryBackup: "Excited about #python, #django, #reactjs? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## #python     #hot🔥startup
