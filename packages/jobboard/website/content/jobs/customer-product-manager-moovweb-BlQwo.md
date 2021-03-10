@@ -10,12 +10,12 @@ hashtags: "#management,#branding,#reactjs,#scrum,#analysis,#ui/ux,#jira"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/moovweb"
 companyWebsite: "http://www.moovweb.com/"
-summary: "Moovweb is looking for a customer product manager that has 5+ years of experience in Agile Software development as a Project, Product or Program Manager."
+summary: "Moovweb is looking for a Customer Product Manager that has 5+ years of experience in Agile Software development as a Project, Product or Program Manager."
 summaryBackup: "To apply as a customer product manager at Moovweb, you preferably need to have some knowledge of: #management, #branding, #reactjs."
-featured: 20
+featured: 5
 ---
 
-MoovForge is a subsidiary of Moovweb, a cutting edge technology company that powers the fastest, smoothest websites on the internet. The Moovweb Platform is an Experience Delivery Network (XDN) that powers web experiences for ⅓ of Americans each month. It is trusted by some of large brands like United Airlines, Harley Davidson, Nordstrom, 1-800Flowers, four of the top seven US insurance brands, a number of the top 50 banks, and 100s of other household brand names. Spend a few minutes browsing [1800flowers.com](https://1800flowers.com) on your phone to experience the Platform.
+MoovForge is a subsidiary of Moovweb, a cutting edge technology company that powers the fastest, smoothest websites on the internet. The Moovweb Platform is an Experience Delivery Network (XDN) that powers web experiences for ⅓ of Americans each month. It is trusted by some of large brands like United Airlines, Harley Davidson, Nordstrom, 1-800Flowers, four of the top seven US insurance brands, a number of the top 50 banks, and 100s of other household brand names. Spend a few minutes browsing 1800flowers.com on your phone to experience the Platform.
 
 MoovForge is the professional services arm of Moovweb, focused on delivering exceptional web and mobile experiences for our customers. MoovForge also offers the Adapt platform, a unique tool geared at rapidly updating legacy websites at a fraction of the cost of a full rebuild.
 
