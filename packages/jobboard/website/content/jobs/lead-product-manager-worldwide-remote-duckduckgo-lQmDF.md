@@ -1,18 +1,18 @@
 ---
-title: "Lead Product Manager (Worldwide Remote)"
+title: "Lead Product Manager"
 location: "Multiple Countries"
 host: "https://duckduckgo.applytojob.com/"
 companyName: "DuckDuckGo"
 url: "http://duckduckgo.applytojob.com/apply/xPkFp3a02i/Lead-Product-Manager-Worldwide-Remote"
 applyUrl: "http://duckduckgo.applytojob.com/apply/xPkFp3a02i/Lead-Product-Manager-Worldwide-Remote"
 timestamp: 1615334400000
-hashtags: "#management,#translation,#office"
+hashtags: "#management,#operations,#analysis,#translation,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/duckduckgo"
 companyWebsite: "http://duckduckgo.com/"
-summary: "DuckDuckGo is searching for a lead product manager that has 10+ years of experience, including 4+ years in leadership roles related to product development/management."
+summary: "DuckDuckGo is searching for a Lead Product Manager that has 10+ years of experience, including 4+ years in leadership roles related to product development/management."
 summaryBackup: "To apply as a lead product manager at DuckDuckGo, you preferably need to have some knowledge of: #management, #translation, #office."
-featured: 20
+featured: 2
 ---
 
 We are a diverse, fully distributed team from around the world, working toward a shared vision to raise the standard of trust online.
