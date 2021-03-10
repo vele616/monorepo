@@ -1,18 +1,18 @@
 ---
-title: "React Developer- Remote"
+title: "React Developer"
 location: "Twin Falls, Idaho"
 host: "https://kickbackpoints.bamboohr.com/jobs/"
 companyName: "Kickback Points"
 url: "https://kickbackpoints.bamboohr.com/jobs/view.php?id=63&source=other"
 applyUrl: "https://kickbackpoints.bamboohr.com/jobs/view.php?id=63&source=other"
 timestamp: 1615334400000
-hashtags: "#ui/ux,#javascript,#reactjs,#python,#operations,#css,#html,#branding,#git,#management"
+hashtags: "#reactjs,#python,#html,#ui/ux,#javascript,#operations,#css,#branding,#git,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kickback-points"
 companyWebsite: "https://kickbackpoints.bamboohr.com/jobs/"
-summary: "To apply as a react developer at Kickback Points, you preferably need to have 20 years of experience, we’re recognized as the market leader in building rewarding customer experiences that generate brand loyalty, build repeat store visits, and increase bottom-line sales."
+summary: "To apply as a React Developer at Kickback Points, you preferably need to have some knowledge of: #reactjs, #python, #html,."
 summaryBackup: "To apply as a react developer at Kickback Points, you preferably need to have some knowledge of: #ui/ux, #javascript, #reactjs."
-featured: 20
+featured: 7
 ---
 
 KickBack Rewards Systems ("KRS") is hiring a Front end developer to develop and maintain our web applications. Knowledgable with Javascript. This position works in several technologies. The right candidate is comfortable working with multiple layers of the stack. 
