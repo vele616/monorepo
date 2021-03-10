@@ -7,12 +7,12 @@ url: "https://jobs.lever.co/moovweb/bdd5d926-1b63-4ee3-acf2-3bfde5a4a20b"
 applyUrl: "https://jobs.lever.co/moovweb/bdd5d926-1b63-4ee3-acf2-3bfde5a4a20b/apply"
 timestamp: 1615334400000
 hashtags: "#javascript,#jquery,#css,#html,#branding,#ui/ux,#marketing,#office,#finance"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/moovweb"
 companyWebsite: "http://www.moovweb.com/"
-summary: "Moovweb is searching for a software engineer that has 3-5 years of prior front-end development experience."
+summary: "Moovweb is searching for a Software Engineer that has 3-5 years of prior front-end development experience."
 summaryBackup: "Excited about #javascript, #jquery, #css? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Moovweb’s mission is to make the Web instant and simple. The company has been reborn through our new product, Moovweb XDN. We believe the future of development on the web is Jamstack, and our jam is bringing the performance and simplicity benefits of the Jamstack to front-end developer teams at large, dynamic websites where traditional static techniques don't apply. While we're less well known in the developer ecosystem we have a long track record with some of the biggest brands in the world. While static sites for personal blogs are great, we believe unlocking Jamstack benefits for the large sites that represent the majority of the internet economy is a tremendous market opportunity. Browse https://www.thetiebar.com on your phone to experience an instant XDN site for yourself. Moovweb is a profitable, venture-backed company.
@@ -33,7 +33,7 @@ We are looking for a highly motivated, front-end Software Engineer to be a part 
 
 ## Ideal Candidate
 
-*    A self-starter with proven, excellent problem solving and troubleshooting skills
+*   A self-starter with proven, excellent problem solving and troubleshooting skills
 *   Biased towards action - you jump into ambiguous issues without hesitation
 *   Able to multitask and learn quickly
 *   Passionate about engineering; looks for novel and creative solutions to complex, systemic problems
