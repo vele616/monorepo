@@ -13,6 +13,7 @@ companyWebsite: "https://www.bibliu.com/"
 summary: "If you have 1-3 years of accounting experience in private practice or industry, BibliU is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #management, #finance? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Job description
