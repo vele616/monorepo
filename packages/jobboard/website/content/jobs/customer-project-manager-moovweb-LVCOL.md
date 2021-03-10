@@ -6,16 +6,16 @@ companyName: "Moovweb"
 url: "https://jobs.lever.co/moovweb/41f93a31-05fd-4884-9693-35a473b8847b"
 applyUrl: "https://jobs.lever.co/moovweb/41f93a31-05fd-4884-9693-35a473b8847b/apply"
 timestamp: 1615334400000
-hashtags: "#management,#branding,#reactjs,#scrum,#analysis,#ui/ux,#jira"
+hashtags: "#management,#scrum,#analysis,#branding,#reactjs,#ui/ux,#jira"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/moovweb"
 companyWebsite: "http://www.moovweb.com/"
-summary: "Moovweb wishes to hire a new customer project manager. If you have 5+ years of experience in Agile Software development as a Project, Product or Program Manager, consider applying."
+summary: "Moovweb wishes to hire a new Customer Project Manager. If you have 5+ years of experience in Agile Software development as a Project, Product or Program Manager, consider applying."
 summaryBackup: "Moovweb is looking for a customer project manager that has experience in: #management, #branding, #reactjs."
-featured: 20
+featured: 10
 ---
 
-MoovForge is a subsidiary of Moovweb, a cutting edge technology company that powers the fastest, smoothest websites on the internet. The Moovweb Platform is an Experience Delivery Network (XDN) that powers web experiences for ⅓ of Americans each month. It is trusted by some of large brands like United Airlines, Harley Davidson, Nordstrom, 1-800Flowers, four of the top seven US insurance brands, a number of the top 50 banks, and 100s of other household brand names. Spend a few minutes browsing [1800flowers.com](https://1800flowers.com) on your phone to experience the Platform.
+MoovForge is a subsidiary of Moovweb, a cutting edge technology company that powers the fastest, smoothest websites on the internet. The Moovweb Platform is an Experience Delivery Network (XDN) that powers web experiences for ⅓ of Americans each month. It is trusted by some of large brands like United Airlines, Harley Davidson, Nordstrom, 1-800Flowers, four of the top seven US insurance brands, a number of the top 50 banks, and 100s of other household brand names. Spend a few minutes browsing 1800flowers.com on your phone to experience the Platform.
 
 MoovForge is the professional services arm of Moovweb, focused on delivering exceptional web and mobile experiences for our customers. MoovForge also offers the Adapt platform, a unique tool geared at rapidly updating legacy websites at a fraction of the cost of a full rebuild.
 
