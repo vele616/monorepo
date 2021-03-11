@@ -1,18 +1,18 @@
 ---
-title: "Director, Digital Marketing Operations (fully remote Europe)"
+title: "Digital Marketing Operations Director"
 location: "United Kingdom"
 host: "https://apply.workable.com/aiven/"
 companyName: "Aiven"
 url: "https://apply.workable.com/aiven/j/80BBCB1451/"
 applyUrl: "https://apply.workable.com/aiven/j/80BBCB1451/apply/"
 timestamp: 1615420800000
-hashtags: "#marketing,#operations,#content,#css,#management,#office,#scrum"
+hashtags: "#marketing,#operations,#management,#content,#css,#office,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aiven"
 companyWebsite: "https://aiven.io/"
-summary: "If you have you are a leader with proven experience in growing and leading a diverse group of professionals, consider applying to Aiven's job post for a new director."
+summary: "If you have you are a leader with proven experience in growing and leading a diverse group of professionals, consider applying to Aiven's job post for a new Digital Marketing Operations Director."
 summaryBackup: "To apply as a director at Aiven, you preferably need to have some knowledge of: #marketing, #operations, #content."
-featured: 20
+featured: 5
 ---
 
 ## Description
@@ -23,7 +23,7 @@ In this role, you will partner with all other marketing and communications teams
 
 You are a leader with proven experience in growing and leading a diverse group of professionals. You excel in planning, processes, and prioritization, and understand how to bring the art and science of marketing together to make an impact. Above all, you are experienced in coaching people, leading change, and enabling teams to work efficiently together.
 
-Key Responsibilities
+**Key Responsibilities**
 
 *   Oversee the smooth running of our in-house creative production, marketing operations, and web development ensuring effective delivery, cross-functional collaboration, and positive team spirit
 *   Contribute to the strategic development and roadmap of Aiven’s demand generation and thought leadership programs
@@ -37,7 +37,7 @@ Key Responsibilities
 
 ## Requirements
 
-Background/Experience
+**Background/Experience**
 
 *   A successful track record in leading the delivery of digital and content marketing services in a global environment either in-house or at an agency, including experience in managing managers
 *   Extensive experience in and knowledge of creative and digital marketing, including MarTech, web development, and content marketing
