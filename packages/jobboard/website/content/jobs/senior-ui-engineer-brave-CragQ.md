@@ -6,13 +6,13 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/2937575"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/2937575#app"
 timestamp: 1615420800000
-hashtags: "#javascript,#reactjs,#css,#content,#vuejs,#java,#php,#typescript,#objectivec,#html"
+hashtags: "#javascript,#typescript,#java,#reactjs,#css,#content,#vuejs,#php,#objectivec,#html"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "To apply as a senior ui engineer at Brave, you preferably need to have experience with Typescript is desirable."
+summary: "To apply as a Senior UI Engineer at Brave, you preferably need to be proficient using Javascript with the Web API."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 Brave is on a mission to save privacy on the web. We make a web browser which protects privacy by blocking tracking by default, right out of the box. We offer completely private ads as an optional alternative to the invasive surveillance online so that you can directly contribute to the sites you visit and appreciate.
@@ -34,7 +34,7 @@ Brave is looking for an experienced Software Engineer to work on new features fo
 
 *   Expertise with CSS for building UI within web content
 *   Proficient using Javascript with the Web API. Experience with Typescript is desirable
-*    Experience with a class-based object-oriented language, such as Java, C#, PHP, Objective-C or C++. C++ expertise or experience with Chromium is **not required,** but a willingness to learn and the ability to grasp the concepts quickly will be expected.
-*    Knowledge of the importance of various UI accessibility techniques
-*    Understanding of performance impact and how both to measure and make improvements
-*    Experience with different Javascript UI frameworks such as React, Vue or Svelte. Familiarity with Polymer is a plus.
+*   Experience with a class-based object-oriented language, such as Java, C#, PHP, Objective-C or C++. C++ expertise or experience with Chromium is **not required,** but a willingness to learn and the ability to grasp the concepts quickly will be expected.
+*   Knowledge of the importance of various UI accessibility techniques
+*   Understanding of performance impact and how both to measure and make improvements
+*   Experience with different Javascript UI frameworks such as React, Vue or Svelte. Familiarity with Polymer is a plus.
