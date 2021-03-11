@@ -6,13 +6,13 @@ companyName: "Cloud 66"
 url: "https://apply.workable.com/cloud66/j/BE461F36ED/"
 applyUrl: "https://apply.workable.com/cloud66/j/BE461F36ED/apply/"
 timestamp: 1615420800000
-hashtags: "#rubylang,#operations,#ui/ux,#windows,#linux,#kubernetes,#docker,#aws,#azure,#googlecloud"
+hashtags: "#rubylang,##mysql,#aws,#operations,#ui/ux,#windows,#linux,#kubernetes,#docker,#azure,#googlecloud"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cloud-66"
 companyWebsite: "http://www.cloud66.com/"
-summary: "Interested in new opportunities and have 3+ years of Software development experience? Cloud 66 has a job opening for a software engineer."
+summary: "Interested in new opportunities and have 3+ years of software development experience? Cloud 66 has a job opening for a Software Engineer."
 summaryBackup: "Love #rubylang, #operations, #ui/ux? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Description
