@@ -1,18 +1,18 @@
 ---
-title: "Backend Software Engineer - Remote(UK & Europe only) Python, FastApi, k8s, Postgresql, GCP"
+title: "Backend Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vizibl/"
 companyName: "Vizibl"
 url: "https://apply.workable.com/vizibl/j/40C670C32A/"
 applyUrl: "https://apply.workable.com/vizibl/j/40C670C32A/apply/"
 timestamp: 1615420800000
-hashtags: "#python,#javascript,#kubernetes,#management,#ui/ux,#css,#docker,#googlecloud,#office,#git"
+hashtags: "#python,#kubernetes,#docker,#management,#ui/ux,#css,#javascript,#googlecloud,#office,#git"
 jobType: "software"
 
 companyWebsite: "http://www.vizibl.co/"
 summary: "If you have 3+ years of Python experience, Vizibl is looking for someone with your skillset."
 summaryBackup: "Love #python, #javascript, #kubernetes? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Description
