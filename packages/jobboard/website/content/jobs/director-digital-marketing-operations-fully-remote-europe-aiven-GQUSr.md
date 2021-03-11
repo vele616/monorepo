@@ -10,7 +10,7 @@ hashtags: "#marketing,#operations,#management,#content,#css,#office,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aiven"
 companyWebsite: "https://aiven.io/"
-summary: "If you have you are a leader with proven experience in growing and leading a diverse group of professionals, consider applying to Aiven's job post for a new Digital Marketing Operations Director."
+summary: "If you are a leader with proven experience in growing and leading a diverse group of professionals, consider applying to Aiven's job post for a new Digital Marketing Operations Director."
 summaryBackup: "To apply as a director at Aiven, you preferably need to have some knowledge of: #marketing, #operations, #content."
 featured: 5
 ---
