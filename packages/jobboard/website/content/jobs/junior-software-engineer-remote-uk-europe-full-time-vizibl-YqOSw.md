@@ -1,18 +1,18 @@
 ---
-title: "Junior Software Engineer - Remote (UK & Europe) - Full Time"
+title: "Junior Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vizibl/"
 companyName: "Vizibl"
 url: "https://apply.workable.com/vizibl/j/7BB5947470/"
 applyUrl: "https://apply.workable.com/vizibl/j/7BB5947470/apply/"
 timestamp: 1615420800000
-hashtags: "#javascript,#python,#ui/ux,#flask,#css,#html,#kubernetes,#postgresql,#scrum,#office"
+hashtags: "#javascript,#python,#flask,#css,#html,#kubernetes,#postgresql,#ui/ux,#scrum,#office"
 jobType: "software"
 
 companyWebsite: "http://www.vizibl.co/"
-summary: "If you have you have some professional experience writing code as part of a software engineering team, Vizibl has a job opening for a junior software engineer"
+summary: "If you have some professional experience writing code as part of a software engineering team, Vizibl has a job opening for a Junior Software Engineer"
 summaryBackup: "Excited about #javascript, #python, #ui/ux? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 ## Description
