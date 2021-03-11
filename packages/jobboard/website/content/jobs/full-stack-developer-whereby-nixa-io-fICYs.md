@@ -1,18 +1,18 @@
 ---
-title: "Full-stack Developer / Whereby"
+title: "Full-stack Developer"
 location: "Oslo, Oslo, Norway"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/253ED37314/"
 applyUrl: "https://apply.workable.com/nixa/j/253ED37314/apply/"
 timestamp: 1615420800000
-hashtags: "#ui/ux,#management,#javascript,#reactjs,#operations,#terraform,#docker,#aws,#branding,#marketing"
+hashtags: "#javascript,#reactjs,#aws,#operations,#terraform,#docker,#ui/ux,#management,#branding,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io wishes to hire a new full-stack developer. If you have we´re looking for a passionate engineer who has experience of customer, consider applying."
+summary: "Nixa.io wishes to hire a new Full-stack Developer. If you have worked as a full-stack developer using web technologies,, consider applying."
 summaryBackup: "To apply as a full-stack developer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #management, #javascript."
-featured: 20
+featured: 16
 ---
 
 ## Description
