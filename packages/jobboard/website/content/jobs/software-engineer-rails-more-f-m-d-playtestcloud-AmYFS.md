@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer (Rails & more) - f/m/d"
+title: "Software Engineer"
 location: "Berlin, DE - Remote OK"
 host: "https://playtestcloud.breezy.hr/"
 companyName: "playtestcloud"
@@ -10,9 +10,9 @@ hashtags: "#rails,#rubylang,#angular,#flutter,#android,#ios,#vuejs,#reactjs,#pyt
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/playtestcloud"
 companyWebsite: "https://www.playtestcloud.com/"
-summary: "Interested in new opportunities and have and has some experience with frontend development? Playtestcloud has a job opening for a software engineer."
+summary: "Interested in new opportunities and have some experience with frontend development? PlaytestCloud has a job opening for a Software Engineer."
 summaryBackup: "Playtestcloud is looking for a software engineer that has experience in: #rails, #rubylang, #angular."
-featured: 20
+featured: 17
 ---
 
 ## About PlaytestCloud
