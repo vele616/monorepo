@@ -1,16 +1,16 @@
 ---
-title: "Senior Software Engineer in Testing"
+title: "Senior Software Engineer"
 location: "Germany"
 host: "https://apply.workable.com/aiven/"
 companyName: "Aiven"
 url: "https://apply.workable.com/aiven/j/F4A1857BD2/"
 applyUrl: "https://apply.workable.com/aiven/j/F4A1857BD2/apply/"
 timestamp: 1615420800000
-hashtags: "#python,#java,#operations,#postgresql,#mysql,#cassandra,#linux,#git,#elasticsearch,#office"
+hashtags: "#python,#java,#postgresql,#mysql,#cassandra,#operations,#linux,#git,#elasticsearch,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aiven"
 companyWebsite: "https://aiven.io/"
-summary: "Aiven intends to hire a new senior software engineer in testing. If you have on experience with quality engineering, understanding how to maximise effort to ensure best quality and efficient value delivery to Aiven's customers, consider applying."
+summary: "Aiven intends to hire a new Senior Software Engineer. If you have a strong background in software engineering and test automation, consider applying."
 summaryBackup: "To apply as a senior software engineer in testing at Aiven, you preferably need to have some knowledge of: #python, #java, #operations."
 featured: 20
 ---
