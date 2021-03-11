@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "If you have 3+ years of experience with one general purpose programming language, Nixa.io has a job opening for a Remote Data Engineer"
 summaryBackup: "To apply as a remote data engineer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #operations, #analysis."
 featured: 15
+archived: "true"
 ---
 
 ## Description
