@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer (x/f/m)"
+title: "Software Engineer"
 location: "Berlin, DE - Remote OK"
 host: "https://playtestcloud.breezy.hr/"
 companyName: "playtestcloud"
@@ -10,9 +10,9 @@ hashtags: "#rails,#android,#ios,#angular,#django,#java,#typescript,#rubylang,#ob
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/playtestcloud"
 companyWebsite: "https://www.playtestcloud.com/"
-summary: "Playtestcloud is searching for a software engineer that has you have experience working on real."
+summary: "PlaytestCloud is searching for a Software Engineer that has experience working on real-world web applications."
 summaryBackup: "Excited about #rails, #android, #ios? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 30% of the 100 top grossing mobile games have been tested with PlaytestCloud. Help us make it 100%!
