@@ -1,18 +1,18 @@
 ---
-title: "Marketing Project Manager (Remote)"
+title: "Marketing Project Manager"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/marketing-project-manager-remote-london"
 applyUrl: "https://bitfinex.recruitee.com/o/marketing-project-manager-remote-london/c/new"
 timestamp: 1615507200000
-hashtags: "#marketing,#management,#socialmedia,#content,#sales,#ui/ux,#operations,#asana,#analysis,#finance"
+hashtags: "#marketing,#management,#analysis,#socialmedia,#content,#sales,#ui/ux,#operations,#asana,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Bitfinex is looking for a marketing project manager that has demonstrable experience in a wide range of digital marketing including marketing database management, content creation, email marketing, social media, display advertising campaigns and events promotion."
+summary: "Bitfinex is looking for a Marketing Project Manager that has demonstrable experience in a wide range of digital marketing including marketing database management, content creation, email marketing, social media, display advertising campaigns and events promotion."
 summaryBackup: "To apply as a marketing project manager at Bitfinex, you preferably need to have some knowledge of: #marketing, #management, #socialmedia."
-featured: 20
+featured: 12
 ---
 
 ## Job description
@@ -27,7 +27,7 @@ Currently looking for:
 
 ## Marketing Project Manager (Remote)
 
-## ​**Job description**
+## Job description
 
 *   Supporting the central marketing team with their day to day operational marketing activities
 *   Working closely with the marketing manager to identify new opportunities to market Bitfinex. You will take ownership of campaigns to meet our marketing objectives for the year as well as your own targets
