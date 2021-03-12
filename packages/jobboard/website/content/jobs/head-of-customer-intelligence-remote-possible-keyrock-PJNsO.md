@@ -1,18 +1,18 @@
 ---
-title: "Head of Customer Intelligence (Remote possible)"
+title: "Head of Customer Intelligence"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/1A1GsbHXFa9d/head-of-customer-intelligence-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/1A1GsbHXFa9d/head-of-customer-intelligence-remote-possible#applicant-form"
 timestamp: 1615507200000
-hashtags: "#marketing,#python,#management,#sales,#office,#operations,#analysis,#finance,#English"
+hashtags: "#marketing,#management,#sales,#python,#office,#operations,#analysis,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "To apply as a head of customer intelligence at Keyrock, you preferably need to have 3 years of experience in data-driven business development roles."
+summary: "To apply as a Head of Customer Intelligence at Keyrock, you preferably need to have 3 years of experience in data-driven business development roles."
 summaryBackup: "To apply as a head of customer intelligence at Keyrock, you preferably need to have some knowledge of: #marketing, #python, #management."
-featured: 20
+featured: 10
 ---
 
 ## Keyrock is expanding!
