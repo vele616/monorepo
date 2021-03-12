@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have relevant experience in growth and analysis roles for digital products, working alongside product, engineering, and marketing teams, developing strategic acquisition and retention plans to drive growth and maximizing immediate and long, Bitfinex has a job opening for a Growth Manager"
 summaryBackup: "Love #socialmedia, #content, #branding? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job description
