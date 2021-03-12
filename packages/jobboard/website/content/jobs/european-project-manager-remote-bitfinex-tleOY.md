@@ -1,18 +1,18 @@
 ---
-title: "European Project Manager (Remote)"
+title: "European Project Manager"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/european-project-manager-remote-london"
 applyUrl: "https://bitfinex.recruitee.com/o/european-project-manager-remote-london/c/new"
 timestamp: 1615507200000
-hashtags: "#management,#windows,#ui/ux,#marketing,#finance,#analysis,#monitoring,#office"
+hashtags: "#management,#analysis,#monitoring,#windows,#ui/ux,#marketing,#finance,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Interested in new opportunities and have 2 years in a project management role working on software development or financial services? Bitfinex has a job opening for an european project manager."
+summary: "Interested in new opportunities and have 2 years in a project management role working on software development or financial services? Bitfinex has a job opening for an European Project Manager."
 summaryBackup: "Bitfinex is looking for an european project manager that has experience in: #management, #windows, #ui/ux."
-featured: 20
+featured: 17
 ---
 
 ## Job description
