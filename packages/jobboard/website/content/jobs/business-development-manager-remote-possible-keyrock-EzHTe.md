@@ -10,7 +10,7 @@ hashtags: "#management,#sales,#finance,#marketing,#office,#python,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "If you have the freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year, Keyrock is looking for someone with your knowledge."
+summary: "Excited about #management, #sales, #finance? Check out this job post!"
 summaryBackup: "Excited about #management, #python, #sales? Check out this job post!"
 featured: 6
 ---
