@@ -1,18 +1,18 @@
 ---
-title: "Senior Data Engineer - Kafka, AWS - remote (GMT +/- 3)"
+title: "Senior Data Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/birdie/"
 companyName: "Birdie"
 url: "https://apply.workable.com/birdie/j/C21E261D56/"
 applyUrl: "https://apply.workable.com/birdie/j/C21E261D56/apply/"
 timestamp: 1615507200000
-hashtags: "#socialmedia,#aws,#spark,#office,#kubernetes,#ui/ux,#management,#redis,#postgresql,#dynamodb"
+hashtags: "#kafka,#spark,#postgresql,#office,#kubernetes,#ui/ux,#socialmedia,#aws,#management,#redis,#dynamodb"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/birdie"
 companyWebsite: "https://birdie.care/"
-summary: "Birdie intends to hire a new senior data engineer. If you have 3 years of experience working in a data engineering role supporting customer-facing processes and infrastructure, consider applying."
+summary: "Birdie intends to hire a new Senior Data Engineer. If you have 3 years of experience working in a data engineering role supporting customer-facing processes and infrastructure, consider applying."
 summaryBackup: "To apply as a senior data engineer at Birdie, you preferably need to have some knowledge of: #socialmedia, #aws, #spark."
-featured: 20
+featured: 14
 ---
 
 ## Description
