@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Associate - (Entry Level)"
+title: "Customer Support Associate"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/birdie/"
 companyName: "Birdie"
 url: "https://apply.workable.com/birdie/j/3B15713C8B/"
 applyUrl: "https://apply.workable.com/birdie/j/3B15713C8B/apply/"
 timestamp: 1615507200000
-hashtags: "#socialmedia,#management,#office,#content,#analytics,#branding,#marketing,#scrum,#English"
+hashtags: "#socialmedia,#management,#analytics,#office,#content,#branding,#marketing,#scrum,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/birdie"
 companyWebsite: "https://birdie.care/"
 summary: "Interested in new opportunities and have your mission as a Customer Support Associate is to help our clients and their caregivers to have the best possible experience with Birdie, providing technical support and customer service across our live chat and email channels with a human and person centred approach? Birdie has a job opening for a customer support associate."
 summaryBackup: "Birdie is looking for a customer support associate that has experience in: #socialmedia, #management, #office."
-featured: 20
+featured: 9
 ---
 
 ## Description
