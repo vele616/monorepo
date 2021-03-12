@@ -7,12 +7,12 @@ url: "https://jobs.lever.co/revenuecat/3e54968c-cb0c-42e5-84f5-2e9f49e536e0"
 applyUrl: "https://jobs.lever.co/revenuecat/3e54968c-cb0c-42e5-84f5-2e9f49e536e0/apply"
 timestamp: 1615507200000
 hashtags: "#python,#postgresql,#ui/ux,#management,#translation,#office"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/revenuecat"
 companyWebsite: "https://www.revenuecat.com/"
-summary: "RevenueCat wishes to hire a new backend engineer. If you have 3+ years of experience working as a backend engineer, consider applying."
+summary: "RevenueCat wishes to hire a new Backend Engineer. If you have 3+ years of experience working as a backend engineer, consider applying."
 summaryBackup: "Excited about #python, #postgresql, #ui/ux? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 At RevenueCat, we make selling subscriptions in your mobile app easy. We launched as part of Y Combinator's summer 2018 batch and today are handling subscriptions for more than 10 million mobile subscriptions across thousands of apps. We are a mission driven, remote-first company that is building the foundation of mobile subscription infrastructure. Top apps like WidgetSmith, Buffer, and Fishbrain count on RevenueCat to power their subscriptions at scale.
