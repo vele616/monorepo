@@ -1,18 +1,18 @@
 ---
-title: "Remote Designer"
-location: "Engineering"
+title: "Designer"
+location: "remote"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/remote-designer"
 applyUrl: "https://bitfinex.recruitee.com/o/remote-designer/c/new"
 timestamp: 1615507200000
-hashtags: "#photoshop,#ui/ux,#socialmedia,#figma"
+hashtags: "#ui/ux,#figma,#fintech,#photoshop,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have 3+ years experience working on a mix of graphic design and UI/UX, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Love #photoshop, #ui/ux, #socialmedia? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Job description
