@@ -1,18 +1,18 @@
 ---
-title: "Humbly Confident Part-Time Support Specialist"
+title: "Part-Time Support Specialist"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
 url: "https://ynab.recruiterbox.com/jobs/fk0upnz/"
 applyUrl: "https://ynab.recruiterbox.com/jobs/fk0upnz/?apply=true"
 timestamp: 1615507200000
-hashtags: "#management,#office,#branding,#operations,#rest,#English,#finance"
+hashtags: "#management,#customersupport,#operations,#rest,#office,#branding,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "If you have you have experience working remotely, YNAB is looking for someone with your skillset."
 summaryBackup: "Love #management, #office, #branding? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## About Us and Why We're Hiring
