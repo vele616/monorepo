@@ -1,5 +1,5 @@
 ---
-title: "HR Specialist (Remote possible)"
+title: "HR Specialist"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
@@ -10,9 +10,9 @@ hashtags: "#management,#marketing,#analysis,#finance,#office,#French,#Dutch,#Eng
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "Keyrock wishes to hire a new hr specialist. If you have 3 years of experience in a HR or recruitment position or &gt, consider applying."
+summary: "Keyrock wishes to hire a new HR Specialist. If you have 3 years of experience in a HR or recruitment position, consider applying."
 summaryBackup: "Keyrock is looking for a hr specialist that has experience in: #management, #marketing, #analysis."
-featured: 20
+featured: 13
 ---
 
 ## Keyrock is expanding!
@@ -68,7 +68,7 @@ NB this position can be remote or based in our Brussels office, but candidates m
 *   Assist with training and development for employees
     
 
-## Our recruitment philosophyWe believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.
+**Our recruitment philosophyWe believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.**
 
 Our offer
 
