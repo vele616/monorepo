@@ -1,18 +1,18 @@
 ---
-title: "Reliability Engineer (SRE)"
+title: "Reliability Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/revenuecat/?location=Remote"
 companyName: "RevenueCat"
 url: "https://jobs.lever.co/revenuecat/dca0930f-c5a8-4309-b339-1fc72a753996"
 applyUrl: "https://jobs.lever.co/revenuecat/dca0930f-c5a8-4309-b339-1fc72a753996/apply"
 timestamp: 1615507200000
-hashtags: "#ui/ux,#aws,#terraform,#kubernetes,#management,#rest,#postgresql,#analysis,#monitoring"
+hashtags: "#aws,#terraform,#kubernetes,#ui/ux,#management,#rest,#postgresql,#analysis,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/revenuecat"
 companyWebsite: "https://www.revenuecat.com/"
-summary: "Interested in new opportunities and have 5+ years of experience as a Software or Platform Engineer and are comfortable writing and analyzing code? RevenueCat has a job opening for a reliability engineer."
+summary: "Interested in new opportunities and have 5+ years of experience as a Software or Platform Engineer and are comfortable writing and analyzing code? RevenueCat has a job opening for a Reliability Engineer."
 summaryBackup: "To apply as a reliability engineer at RevenueCat, you preferably need to have some knowledge of: #ui/ux, #aws, #terraform."
-featured: 20
+featured: 8
 ---
 
 **About us**
