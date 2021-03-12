@@ -1,18 +1,18 @@
 ---
-title: "Growth Marketer - Mid-Market Marketing Manager"
+title: "Growth Marketer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/birdie/"
 companyName: "Birdie"
 url: "https://apply.workable.com/birdie/j/70A385D537/"
 applyUrl: "https://apply.workable.com/birdie/j/70A385D537/apply/"
 timestamp: 1615507200000
-hashtags: "#marketing,#socialmedia,#content,#sales,#css,#management,#office"
+hashtags: "#marketing,#sales,#management,#css,#socialmedia,#content,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/birdie"
 companyWebsite: "https://birdie.care/"
-summary: "Birdie wishes to hire a new growth marketer. If you have 4+ years of experience in Demand Gen, consider applying."
+summary: "Birdie wishes to hire a new Growth Marketer. If you have 4+ years of experience in Demand Gen, consider applying."
 summaryBackup: "To apply as a growth marketer at Birdie, you preferably need to have some knowledge of: #marketing, #socialmedia, #content."
-featured: 20
+featured: 16
 ---
 
 ## Description
