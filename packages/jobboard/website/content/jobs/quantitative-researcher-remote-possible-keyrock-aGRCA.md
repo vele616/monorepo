@@ -1,18 +1,18 @@
 ---
-title: "Quantitative Researcher (Remote possible)"
+title: "Quantitative Researcher"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/fCjOJm1yhfzs/quantitative-researcher-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/fCjOJm1yhfzs/quantitative-researcher-remote-possible#applicant-form"
 timestamp: 1615507200000
-hashtags: "#marketing,#management,#python,#analysis,#finance,#office,#monitoring,#English"
+hashtags: "#python,#analysis,#monitoring,#marketing,#management,#finance,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "Keyrock is searching for a quantitative researcher that has prior experience in building or researching trading algorithms."
+summary: "Keyrock is searching for a Quantitative Researcher that has prior experience in building or researching trading algorithms."
 summaryBackup: "Keyrock is looking for a quantitative researcher that has experience in: #marketing, #management, #python."
-featured: 20
+featured: 15
 ---
 
 ## Keyrock is expanding!
