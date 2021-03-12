@@ -1,18 +1,18 @@
 ---
-title: "Algo Developer in Rust (Remote possible)"
+title: "Algo Developer in Rust"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/RACcC5PgOj29/algo-developer-in-rust-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/RACcC5PgOj29/algo-developer-in-rust-remote-possible#applicant-form"
 timestamp: 1615507200000
-hashtags: "#rustlang,#management,#marketing,#linux,#kubernetes,#docker,#redis,#mongodb,#finance,#analysis"
+hashtags: "#rustlang,#redis,#mongodb,#management,#marketing,#linux,#kubernetes,#docker,#finance,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "Keyrock wishes to hire a new algo developer in rust. If you have 5 years of coding experience, consider applying."
+summary: "Keyrock wishes to hire a new Algo Developer in rust. If you have 5 years of coding experience, consider applying."
 summaryBackup: "Love #rustlang, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Keyrock is expanding!
