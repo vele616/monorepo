@@ -1,5 +1,5 @@
 ---
-title: "Internal Communication Specialist (Remote possible)"
+title: "Internal Communication Specialist"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "If you have 5 years of experience in related consulting/management roles or similar, Keyrock is looking for someone with your skillset."
 summaryBackup: "Love #management, #marketing, #office? Check out this job post!"
-featured: 20
+featured: 
 ---
 
 ## Keyrock is expanding!
