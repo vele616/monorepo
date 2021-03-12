@@ -6,11 +6,11 @@ companyName: "RevenueCat"
 url: "https://jobs.lever.co/revenuecat/00d1cb1b-c5a9-4168-bc03-c95251ee4fe8"
 applyUrl: "https://jobs.lever.co/revenuecat/00d1cb1b-c5a9-4168-bc03-c95251ee4fe8/apply"
 timestamp: 1615507200000
-hashtags: "#sales,#reactjs,#java,#swift,#kotlin,#objectivec,#macos,#android,#ios,#aws"
-jobType: "software"
+hashtags: "#reactjs,#java,#swift,#sales,#kotlin,#objectivec,#macos,#android,#ios,#aws"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/revenuecat"
 companyWebsite: "https://www.revenuecat.com/"
-summary: "Interested in new opportunities and have 3+ years experience with a technical product in a customer-facing role? RevenueCat has a job opening for a solution engineer."
+summary: "Interested in new opportunities and have 3+ years experience with a technical product in a customer-facing role? RevenueCat has a job opening for a Solution Engineer."
 summaryBackup: "Excited about #sales, #reactjs, #java? Check out this job post!"
 featured: 20
 ---
