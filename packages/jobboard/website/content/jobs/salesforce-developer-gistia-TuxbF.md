@@ -13,6 +13,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "To apply as a Salesforce Developer at Gistia, you preferably need to have some experience in: #management, #optimization, #sales."
 summaryBackup: "Gistia is looking for a salesforce developer that has experience in: #ui/ux, #management, #marketing."
 featured: 12
+archived: "true"
 ---
 
 ## Team Member Level

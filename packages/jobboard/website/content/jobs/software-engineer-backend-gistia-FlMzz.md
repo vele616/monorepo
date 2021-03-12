@@ -12,6 +12,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "Gistia is looking for a software engineer that has 6-7 years relevant experience."
 summaryBackup: "Excited about #linux, #nodejs, #python? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Job Overview:
