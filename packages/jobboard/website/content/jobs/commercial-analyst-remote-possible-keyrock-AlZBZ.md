@@ -1,18 +1,18 @@
 ---
-title: "Commercial Analyst (Remote possible)"
+title: "Commercial Analyst"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/0WGSODJ7t8FD/commercial-analyst-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/0WGSODJ7t8FD/commercial-analyst-remote-possible#applicant-form"
 timestamp: 1615507200000
-hashtags: "#management,#marketing,#analysis,#office,#sales,#finance,#English"
+hashtags: "#analysis,#finance,#sales,#management,#marketing,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "If you have 0-3 years of experience in a financial or commercial consulting role, Keyrock is looking for someone with your knowledge."
 summaryBackup: "Love #management, #marketing, #analysis? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Keyrock is expanding!
@@ -23,7 +23,7 @@ With VC backing and a constantly expanding client base, Keyrock is one of Belgiu
 
 A dynamic, motivated analyst to join our growing commercial team, working alongside our business development and customer intelligence departments. You’ll be responsible for leading a research-driven approach to support the commercial team with its outbound initiatives, and supporting our account management team in (up)selling quality partnerships with both token issuers and exchanges within the industry. In a fast-paced environment and industry, we are looking for someone who can support our team in choosing quality over quantity with the support of numbers (fundamental analysis and on-chain metrics). 
 
-## NB this position can be remote or based in our Brussels office, but candidates must be in a time zone within 2 hours of Brussels in either direction.
+**NB this position can be remote or based in our Brussels office, but candidates must be in a time zone within 2 hours of Brussels in either direction.**
 
 ## Background and experience
 
