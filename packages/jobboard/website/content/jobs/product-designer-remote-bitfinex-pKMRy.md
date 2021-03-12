@@ -1,18 +1,18 @@
 ---
-title: "Product Designer (Remote)"
+title: "Product Designer"
 location: "Engineering"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/product-designer-remote"
 applyUrl: "https://bitfinex.recruitee.com/o/product-designer-remote/c/new"
 timestamp: 1615507200000
-hashtags: "#ui/ux,#branding,#figma"
+hashtags: "#ui/ux,#fintech,#figma,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Bitfinex intends to hire a new product designer. If you have 4+ years experience working on complex products, consider applying."
+summary: "Bitfinex intends to hire a new Product Designer. If you have 4+ years experience working on complex products, consider applying."
 summaryBackup: "Bitfinex is looking for a product designer that has experience in: #ui/ux, #branding, #figma."
-featured: 20
+featured: 8
 ---
 
 ## Job description
