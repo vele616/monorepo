@@ -1,18 +1,18 @@
 ---
-title: "Business Development Manager (Remote possible)"
+title: "Business Development Manager"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/fZf9YBO2NV3P/business-development-manager-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/fZf9YBO2NV3P/business-development-manager-remote-possible#applicant-form"
 timestamp: 1615507200000
-hashtags: "#management,#python,#sales,#marketing,#office,#finance,#English"
+hashtags: "#management,#sales,#finance,#marketing,#office,#python,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "If you have the freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year, Keyrock is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #python, #sales? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Keyrock is expanding!
@@ -23,7 +23,7 @@ With VC backing and a constantly expanding client base, Keyrock is one of Belgiu
 
 A data-driven, process-oriented business development manager to join our growing commercial team, working closely with our customer intelligence and sales departments. You’ll be responsible for building relationships with digital asset exchanges and managing the sales pipeline. 
 
-## NB this position can be remote or based in our Brussels office, but candidates must be in a time zone within 2 hours of Brussels in either direction.
+**NB this position can be remote or based in our Brussels office, but candidates must be in a time zone within 2 hours of Brussels in either direction.**
 
 ## Background and experience
 
