@@ -6,13 +6,13 @@ companyName: "RevenueCat"
 url: "https://jobs.lever.co/revenuecat/9f1286cf-1adb-4af9-b8d0-88f0c7b46311"
 applyUrl: "https://jobs.lever.co/revenuecat/9f1286cf-1adb-4af9-b8d0-88f0c7b46311/apply"
 timestamp: 1615507200000
-hashtags: "#management"
+hashtags: "#management,#operations,#content"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/revenuecat"
 companyWebsite: "https://www.revenuecat.com/"
-summary: "To apply as a senior product manager at RevenueCat, you preferably need to have some knowledge of: experience in: #management."
+summary: "To apply as a Senior Product Manager at RevenueCat, you preferably need to have some knowledge of: experience in: #management, #operations, #content."
 summaryBackup: "Love #management? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 At RevenueCat, we make selling subscriptions in your mobile app easy. We launched as part of Y Combinator's summer 2018 batch and today are handling subscriptions for more than 10 million mobile subscriptions across thousands of apps. We are a mission driven, remote-first company that is building the foundation of mobile subscription infrastructure. Top apps like WidgetSmith, Buffer, and Fishbrain count on RevenueCat to power their subscriptions at scale.
