@@ -1,5 +1,5 @@
 ---
-title: "Humbly Confident Senior iOS Developer"
+title: "Senior iOS Developer"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "YNAB intends to hire a new humbly confident senior ios developer. If you have you have deep experience with Swift and are comfortable with Objective, consider applying."
 summaryBackup: "YNAB is looking for a humbly confident senior ios developer that has experience in: #swift, #ios, #objectivec."
-featured: 20
+featured: 9
 ---
 
 ## About Us and Why We’re Hiring
