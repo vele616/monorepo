@@ -65,7 +65,7 @@ As a quantitative trading researcher, you have span analytical capabilities and 
 *   Fluent in English
     
 
-## Our recruitment philosophyWe believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.
+**Our recruitment philosophyWe believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.**
 
 Our offer
 
