@@ -6,13 +6,13 @@ companyName: "Mavenoid"
 url: "https://mav.recruitee.com/o/strategic-account-executive"
 applyUrl: "https://mav.recruitee.com/o/strategic-account-executive/c/new"
 timestamp: 1615766400000
-hashtags: "#sales,#css,#windows,#branding,#management,#marketing"
+hashtags: "#sales,#branding,#management,#css,#windows,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
-summary: "Interested in new opportunities and have 3+ years in a full-cycle sales role, ideally at a SaaS startup? Mavenoid has a job opening for a strategic account executive."
+summary: "Interested in new opportunities and have 3+ years in a full-cycle sales role, ideally at a SaaS startup? Mavenoid has a job opening for a Strategic Account Executive."
 summaryBackup: "Mavenoid is looking for a strategic account executive that has experience in: #sales, #css, #windows."
-featured: 20
+featured: 14
 ---
 
 ## Job description
