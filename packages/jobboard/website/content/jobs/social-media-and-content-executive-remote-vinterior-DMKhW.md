@@ -1,18 +1,18 @@
 ---
-title: "Social Media and Content Executive - Remote"
+title: "Social Media and Content Executive"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vinterior/"
 companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/345644FA1D/"
 applyUrl: "https://apply.workable.com/vinterior/j/345644FA1D/apply/"
 timestamp: 1615766400000
-hashtags: "#socialmedia,#branding,#marketing,#swift,#ui/ux,#management,#assembly,#content,#operations,#analysis"
+hashtags: "#socialmedia,#branding,#content,#marketing,#swift,#ui/ux,#management,#assembly,#operations,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "To apply as a social media and content executive at Vinterior, you preferably need to have 1-2 years experience working in a social media team."
+summary: "To apply as a Social Media and Content Executive at Vinterior, you preferably need to have 1-2 years experience working in a social media team."
 summaryBackup: "Love #socialmedia, #branding, #marketing? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
