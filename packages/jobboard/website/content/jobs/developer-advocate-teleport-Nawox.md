@@ -10,9 +10,9 @@ hashtags: "#golang,#rustlang,#javascript,#reactjs,#python,#kubernetes,#ui/ux,#gi
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
-summary: "To apply as a developer advocate at Teleport, you preferably need to have interest and experience in writing documentation, explaining how things work and engaging with community."
+summary: "To apply as a Developer Advocate at Teleport, you preferably need to have interest and experience in writing documentation, explaining how things work and engaging with community."
 summaryBackup: "Teleport is looking for a developer advocate that has experience in: #golang, #rustlang, #javascript."
-featured: 20
+featured: 15
 ---
 
 Teleport is a pioneer in environment-free computing. It enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is a rapidly growing Y-Combinator company well-funded by additional top-tier investors. We value our craft, a work-life balance, and embrace a culture of mutual respect.
