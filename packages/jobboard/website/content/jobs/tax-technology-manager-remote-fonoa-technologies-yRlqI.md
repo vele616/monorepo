@@ -1,18 +1,18 @@
 ---
-title: "Tax Technology Manager - Remote"
+title: "Tax Technology Manager"
 location: "Netherlands"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/8EB5F5A180/"
 applyUrl: "https://apply.workable.com/fonoa/j/8EB5F5A180/apply/"
 timestamp: 1615766400000
-hashtags: "#operations,#ui/ux,#content,#management,#css,#windows,#aws,#translation,#marketing,#office"
+hashtags: "#finance,#fintech,#accountant,#operations,#ui/ux,#content,#management,#windows,#aws,#translation,#marketing,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
-summary: "If you have 3 years of experience in indirect tax with relevant tax qualifications, consider applying to Fonoa Technologies's job post for a new tax technology manager."
+summary: "If you have 3 years of experience in indirect tax with relevant tax qualifications, consider applying to Fonoa Technologies's job post for a new Tax Technology Manager."
 summaryBackup: "To apply as a tax technology manager at Fonoa Technologies, you preferably need to have some knowledge of: #operations, #ui/ux, #content."
-featured: 20
+featured: 9
 ---
 
 ## Description
