@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Specialist - Portuguese"
+title: "Customer Support Specialist"
 location: "Remote"
 host: "https://jobs.lever.co/binance?location=Remote&commitment=Full-time%3A%20Remote"
 companyName: "Binance"
 url: "https://jobs.lever.co/binance/5dc1d34e-3057-4622-83c0-6a4ffd0afcf6"
 applyUrl: "https://jobs.lever.co/binance/5dc1d34e-3057-4622-83c0-6a4ffd0afcf6/apply"
 timestamp: 1615766400000
-hashtags: "#management,#operations,#office,#finance,#English"
+hashtags: "#management,#operations,#analysis,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
 summary: "If you have 1+ years experience of proven customer facing experience or experience as a customer service representative, Binance is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #operations, #office? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
@@ -48,7 +48,7 @@ Your goal will be to ensure exceptional service standards and sustain high custo
 *   Ability to multi-task, prioritise, and control time effectively
 *   Knowledge of the cryptocurrency/blockchain field is a big plus
 *   Multi-lingual capability is a big plus
-*   Fluent in English and Portuguese
+*   **Fluent in English and Portuguese**
 *   **Willing to work weekends and irregular hours which will include night shifts**
 
 **Conditions**
