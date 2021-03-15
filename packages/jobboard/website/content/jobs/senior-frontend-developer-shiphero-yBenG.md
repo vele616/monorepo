@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#ui/ux,#aws,#operations,#optimization"
 jobType: "software"
 
 companyWebsite: "https://shiphero.breezy.hr/"
-summary: "Shiphero intends to hire a new senior frontend developer. If you have 4+ years of experience writing Javascript, mostly with React, consider applying."
+summary: "Shiphero intends to hire a new Senior Frontend Developer. If you have 4+ years of experience writing Javascript, mostly with React, consider applying."
 summaryBackup: "Excited about #javascript, #reactjs, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## About ShipHero
