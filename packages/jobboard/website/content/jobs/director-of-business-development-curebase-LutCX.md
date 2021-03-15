@@ -6,13 +6,13 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4371697003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4371697003#app"
 timestamp: 1615766400000
-hashtags: "#management,#sales,#ui/ux,#marketing,#operations,#analysis"
+hashtags: "#management,#sales,#analysis,#ui/ux,#marketing,#operations"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "If you have 4+ years of experience in relevant business development/sales position, consider applying to Curebase's job post for a new director of business development."
+summary: "If you have 4+ years of experience in relevant business development/sales position, consider applying to Curebase's job post for a new Director of Business Development."
 summaryBackup: "Excited about #management, #sales, #ui/ux? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## About Curebase
