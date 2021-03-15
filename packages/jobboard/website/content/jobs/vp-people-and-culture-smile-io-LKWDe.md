@@ -6,13 +6,13 @@ companyName: "Smile.io"
 url: "https://apply.workable.com/smileio/j/7C8C857885/"
 applyUrl: "https://apply.workable.com/smileio/j/7C8C857885/apply/"
 timestamp: 1615766400000
-hashtags: "#management,#branding,#ui/ux"
+hashtags: "#HR,#management,#operations,#branding,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smile-io"
 companyWebsite: "https://smile.io/"
-summary: "Smile.io is looking for a vp people and culture that has experience in: experience in: #management, #branding, #ui/ux."
+summary: "Smile.io is looking for a VP People and Culture that has experience in: #HR, #management, #operations."
 summaryBackup: "Smile.io is looking for a vp people and culture that has experience in: #management, #branding, #ui/ux."
-featured: 20
+featured: 13
 ---
 
 ## Description
