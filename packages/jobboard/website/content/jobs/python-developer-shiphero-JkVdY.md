@@ -6,13 +6,13 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/903f2986616c-python-developer"
 applyUrl: "https://shiphero.breezy.hr/p/903f2986616c-python-developer/apply"
 timestamp: 1615766400000
-hashtags: "#python,#ui/ux,#aws,#operations,#optimization"
+hashtags: "#python,#ui/ux,#optimization,#aws,#operations"
 jobType: "software"
 
 companyWebsite: "https://shiphero.breezy.hr/"
-summary: "If you have 2+ years of experience writing Python, consider applying to Shiphero's job post for a new python developer."
+summary: "If you have 2+ years of experience writing Python, consider applying to Shiphero's job post for a new Python Developer."
 summaryBackup: "Shiphero is looking for a python developer that has experience in: #python, #ui/ux, #aws."
-featured: 20
+featured: 17
 ---
 
 ## About ShipHero
