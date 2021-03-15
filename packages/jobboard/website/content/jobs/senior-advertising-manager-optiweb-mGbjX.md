@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#analysis,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/optiweb"
 companyWebsite: "https://www.optiweb.com/"
-summary: "If you have a minimum of two years of working experience in the field of advertising,, consider applying to Optiweb's job post for a new senior advertising manager."
+summary: "If you have a minimum of two years of working experience in the field of advertising, consider applying to Optiweb's job post for a new Senior Advertising Manager."
 summaryBackup: "To apply as a senior advertising manager at Optiweb, you preferably need to have some knowledge of: #marketing, #management, #analysis."
-featured: 20
+featured: 8
 ---
 
 ## Job description
