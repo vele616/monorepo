@@ -6,13 +6,13 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4371699003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4371699003#app"
 timestamp: 1615766400000
-hashtags: "#git,#management,#marketing"
+hashtags: "#HR,#marketing,#analysis,#git,#management"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "If you have 2 years of experience as a recruiter, consider applying to Curebase's job post for a new technical recruiter."
+summary: "If you have 2 years of experience as a recruiter, consider applying to Curebase's job post for a new Technical Recruiter."
 summaryBackup: "To apply as a technical recruiter at Curebase, you preferably need to have some knowledge of: #git, #management, #marketing."
-featured: 20
+featured: 12
 ---
 
 ## Are you interested in recruiting high quality candidates for a variety of roles at a fast growing startup company?
