@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "To apply as an Animator/ Video Creator at Binance, you preferably need to have 3+ years of experience working with AE and other tools."
 summaryBackup: "Excited about #marketing, #content, #branding? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
