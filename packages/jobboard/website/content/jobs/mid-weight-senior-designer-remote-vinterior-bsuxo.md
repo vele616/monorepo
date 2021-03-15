@@ -1,5 +1,5 @@
 ---
-title: "Mid-Weight/Senior Designer - Remote"
+title: "Mid-Weight/Senior Designer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vinterior/"
 companyName: "Vinterior"
@@ -10,9 +10,9 @@ hashtags: "#branding,#ui/ux,#management,#assembly,#chef,#content,#marketing,#ope
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "Vinterior is looking for a mid-weight that has channel creative with experience with contemporary interiors or fashion culture."
+summary: "Vinterior is looking for a Mid-Weight/Senior Designer that has 5 plus years of experience working within a lifestyle e-commerce or agency environment."
 summaryBackup: "To apply as a mid-weight at Vinterior, you preferably need to have some knowledge of: #branding, #ui/ux, #management."
-featured: 20
+featured: 10
 ---
 
 ## Description
@@ -23,7 +23,7 @@ Our reason for being is simple - to champion the importance and relevance of vin
 
 We created Vinterior to bring the best independent vintage furniture sellers together in an online marketplace and connect them with our community of vintage fans and design professionals. Today, our platform is the leading vintage marketplace in the UK - with over 1,800 vintage sellers that power 200,000+ products on our platform.
 
-## **The Brand Team**
+## The Brand Team
 
 The Brand team is home to creatives, designers, writers and curators. You'll be tasked with landing our new brand position across our creative, graphic and motion output. In recent months, we've assembled a team of ambitious and passionate senior creatives from some of the leading dot.coms (Depop, Made and Google to name a few). We're now looking for a 10x Designer to join us. Our ambition? To position Vinterior as the most loved and progressive brand for vintage furniture out there.
 
