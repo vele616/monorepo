@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#sales,#crm,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
-summary: "Teleport intends to hire a new growth and lifecycle marketing manager. If you have experience around one of the following, consider applying."
+summary: "Teleport intends to hire a new Growth and Lifecycle Marketing Manager. If you have a strong understanding of demand generation, nurture best practices, and campaign creation, consider applying."
 summaryBackup: "Love #marketing, #management, #sales? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 Teleport is a pioneer in environment-free computing. It enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is a rapidly growing Y-Combinator company well-funded by additional top-tier investors. We value our craft, a work-life balance, and embrace a culture of mutual respect.
