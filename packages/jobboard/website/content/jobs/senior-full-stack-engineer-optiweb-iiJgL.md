@@ -1,18 +1,18 @@
 ---
 title: "Senior Full Stack Engineer"
-location: ""
+location: "Remote"
 host: "https://optiweb.recruitee.com/#section-33266"
 companyName: "Optiweb"
 url: "https://optiweb.recruitee.com/o/senior-full-stack-engineer"
 applyUrl: "https://optiweb.recruitee.com/o/senior-full-stack-engineer/c/new"
 timestamp: 1615766400000
-hashtags: "#php,#jquery,#css,#git,#mysql"
+hashtags: "#php,#jquery,#mysql,#css,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/optiweb"
 companyWebsite: "https://www.optiweb.com/"
-summary: "Optiweb is looking for a senior full stack engineer that has experience in: experience in: #php, #jquery, #css."
+summary: "Optiweb is looking for a Senior Full Stack Engineer that has experience in: #php, #jquery, #mysql."
 summaryBackup: "Excited about #php, #jquery, #css? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Job description
@@ -23,7 +23,7 @@ Our e-commerce team has successfully developed over 30 e-commerce shops, such as
 
 ## Job requirements
 
-**S****kills and qualifications:**
+**Skills and qualifications:**
 
 *   A great understanding of PHP
 *   A great understanding of MySQL databases
