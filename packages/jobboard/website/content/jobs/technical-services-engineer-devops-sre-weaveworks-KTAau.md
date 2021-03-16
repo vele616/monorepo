@@ -1,5 +1,5 @@
 ---
-title: "Technical Services Engineer (DevOps SRE)"
+title: "Technical Services Engineer"
 location: "Remote Worldwide"
 host: "https://weaveworks.breezy.hr/?&location=Worldwide#positions"
 companyName: "weaveworks"
@@ -10,9 +10,9 @@ hashtags: "#kubernetes,#golang,#operations,#management,#css,#linux,#aws,#office,
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/weaveworks"
 companyWebsite: "http://weave.works/"
-summary: "If you have the team is highly technical, with a balance of production experience and working with open, Weaveworks is looking for someone with your knowledge."
+summary: "If you have extensive open-source work experience within a cloud native practice, Weaveworks is looking for someone with your knowledge."
 summaryBackup: "Love #kubernetes, #golang, #operations? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Technical Services Engineer / DevOps
