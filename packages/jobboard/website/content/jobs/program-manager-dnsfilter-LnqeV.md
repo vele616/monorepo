@@ -2,17 +2,17 @@
 title: "Program Manager"
 location: "Remote - Remote OK"
 host: "https://dnsfilter.breezy.hr/"
-companyName: "dnsfilter"
+companyName: "DNSFilter"
 url: "https://dnsfilter.breezy.hr/p/8d75607ac32c-program-manager"
 applyUrl: "https://dnsfilter.breezy.hr/p/8d75607ac32c-program-manager/apply"
 timestamp: 1615852800000
-hashtags: "#management,#ui/ux,#operations,#scrum,#monitoring,#English"
+hashtags: "#management,#operations,#scrum,#ui/ux,#monitoring,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dnsfilter"
 companyWebsite: "https://www.dnsfilter.com/"
-summary: "Dnsfilter is searching for a program manager that has 3-5 years experience developing, maintaining and scaling software project plans."
+summary: "DNSFilter is searching for a program manager that has 3-5 years experience developing, maintaining and scaling software project plans."
 summaryBackup: "Dnsfilter is looking for a program manager that has experience in: #management, #ui/ux, #operations."
-featured: 20
+featured: 
 ---
 
 Program Manager:
