@@ -26,6 +26,7 @@ Tolq works with international brands like Bol.com, MediaMarkt, Porsche and many 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
 **About the Position**
+
 **Product Manager/Owner**
 
 As a Product Manager you will be assigned to work on one of our products and be responsible for the performance of the entire product/service. This means you’ll have to work across all the disciplines required to run a product and you work directly with the CEO. You’ll work in a fast-paced, and ever-changing environment where you can really add value.This is what that looks like: 
@@ -35,12 +36,15 @@ As a Product Manager you will be assigned to work on one of our products and be 
 You work with the CEO on figuring out the optimal value proposition and product positioning.
 
 **_Product_**
+
 You work with designers and developers to create the best possible product that delivers the value proposition to the market. You hand-on test the product as much as often to be sure what we deliver is awesome.
 
 **_Reach_**
+
 This is where we promote the product/service. You work with the copywriter and manage the campaigns. You live for the metrics and make data based decisions.
 
 **_Convert_**
+
 Closing the deal. You also close deals yourself because you want to be in touch with the market we’re working on.
 
 **_Engage_**
