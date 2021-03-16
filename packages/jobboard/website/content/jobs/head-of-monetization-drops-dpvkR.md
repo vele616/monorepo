@@ -6,13 +6,13 @@ companyName: "Drops"
 url: "https://apply.workable.com/drops/j/32B3D60193/"
 applyUrl: "https://apply.workable.com/drops/j/32B3D60193/apply/"
 timestamp: 1615852800000
-hashtags: "#management,#marketing,#macos,#ui/ux,#sales,#office,#monitoring"
+hashtags: "#management,#marketing,#monetization,#macos,#ui/ux,#sales,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/drops"
 companyWebsite: "http://languagedrops.com/"
 summary: "If you have 5+ years of experience in monetization for a digital or app-based company, Drops has a job opening for a head of monetization"
 summaryBackup: "Drops is looking for a head of monetization that has experience in: #management, #marketing, #macos."
-featured: 20
+featured: 10
 ---
 
 ## Description
