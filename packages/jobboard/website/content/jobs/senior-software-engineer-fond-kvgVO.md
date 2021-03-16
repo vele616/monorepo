@@ -13,6 +13,7 @@ companyWebsite: "http://fond.co/"
 summary: "Interested in new opportunities and have 4+ years experience in production web application development? Fond has a job opening for a Senior Software Engineer."
 summaryBackup: "Excited about #reactjs, #rails, #ui/ux? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 Fond is a SaaS platform that seamlessly consolidates employee rewards and recognition processes into one easy-to-use solution. With Fond, employees and managers can recognize each other, redeem rewards, access exclusive corporate discounts, and measure success so HR departments spend less time managing programs and more time driving results. Some of our current customers include Salesforce, Weight Watchers, and Stanford Healthcare, plus hundreds of others. Fond is a Y Combinator W12 company and funded by investors including DCM, Andreessen Horowitz and SV Angel. If you want to be part of the team that delivers industry-leading engagement and recognition capabilities for top companies, Fond is for you! 
