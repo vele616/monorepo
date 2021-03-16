@@ -1,5 +1,5 @@
 ---
-title: "Senior Full Stack (Typescript, React/React Native) Developer"
+title: "Senior Full Stack Developer"
 location: "Estonia"
 host: "https://apply.workable.com/drops/"
 companyName: "Drops"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#management,#typescript,#aws,#ios,#macos,#android,#analytics
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/drops"
 companyWebsite: "http://languagedrops.com/"
-summary: "Drops wishes to hire a new senior full stack. If you have 5 years of experience in software, consider applying."
+summary: "Drops wishes to hire a new senior full stack developer. If you have 2 years of experience in building apps with React or React Native with state management tools, consider applying."
 summaryBackup: "To apply as a senior full stack at Drops, you preferably need to have some knowledge of: #reactjs, #management, #typescript."
-featured: 20
+featured: 12
 ---
 
 ## Description
