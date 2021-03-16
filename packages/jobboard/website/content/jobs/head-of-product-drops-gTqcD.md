@@ -6,13 +6,13 @@ companyName: "Drops"
 url: "https://apply.workable.com/drops/j/C7E007AE96/"
 applyUrl: "https://apply.workable.com/drops/j/C7E007AE96/apply/"
 timestamp: 1615852800000
-hashtags: "#management,#macos,#ui/ux,#marketing"
+hashtags: "#management,#monitor,#operations,#ui/ux,#marketing,#macos"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/drops"
 companyWebsite: "http://languagedrops.com/"
 summary: "Drops is searching for a head of product that has experience working with a metrics focused approach to measuring success."
 summaryBackup: "Excited about #management, #macos, #ui/ux? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Description
