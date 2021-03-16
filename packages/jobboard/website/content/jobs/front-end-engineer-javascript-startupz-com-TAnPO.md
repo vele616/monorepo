@@ -1,5 +1,5 @@
 ---
-title: "Front End Engineer (Javascript)"
+title: "Front End Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
 companyName: "Startupz.com"
@@ -12,14 +12,14 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-c
 companyWebsite: "http://www.startupz.com/"
 summary: "To apply as a front end engineer at Startupz.com, you preferably need to have 5 years of experience developing web applications."
 summaryBackup: "Startupz.com is looking for a front end engineer that has experience in: #javascript, #ui/ux, #reactjs."
-featured: 20
+featured: 10
 ---
 
 ## Job description
 
 **Intro**
 
-We are looking for aFront End Engineer(Javascript) to help us build our ground breaking new apps. It’s our mission to build new products that improve our world. If you like working in a fast-paced environment where you can really add value, this is the job for you!
+We are looking for a Front End Engineer(Javascript) to help us build our ground breaking new apps. It’s our mission to build new products that improve our world. If you like working in a fast-paced environment where you can really add value, this is the job for you!
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
@@ -38,7 +38,7 @@ These are the most important aspects you’ll be working on:
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. Check out our projects to get an idea of what we like to work on (please note: pre-launch projects are not on our website yet).
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. Check out our projects to get an idea of what we like to work on (please note: pre-launch projects are not on our website yet).
 
 We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. _What else can you expect from us?_
 
