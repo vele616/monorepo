@@ -6,13 +6,13 @@ companyName: "Startupz.com"
 url: "https://startupzcom.recruitee.com/o/hr-talent-recruiter-performance-coach-3"
 applyUrl: "https://startupzcom.recruitee.com/o/hr-talent-recruiter-performance-coach-3/c/new"
 timestamp: 1615852800000
-hashtags: "#socialmedia,#ui/ux,#management,#operations,#translation,#English,#Dutch,#optimization"
+hashtags: "#HR,#management,#operations,#translation,#ui/ux,#socialmedia,#English,#Dutch,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Startupz.com is looking for a hr talent recruiter & performance coach that has experience in: experience in: #socialmedia, #ui/ux, #management."
+summary: "Startupz is looking for a HR talent recruiter & performance coach that has experience in: #HR, #management, #operations."
 summaryBackup: "To apply as a hr talent recruiter & performance coach at Startupz.com, you preferably need to have some knowledge of: #socialmedia, #ui/ux, #management."
-featured: 20
+featured: 15
 ---
 
 ## Job description
@@ -27,9 +27,13 @@ Do you like working in a fast-paced environment where you can really add value, 
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
-**About the Position****HR Talent Recruiter & Performance Coach**
+**About the Position**
 
-The position is a vital link in our process, because you will be connecting the right skills to the work that needs to be done.You will also coach new and existing team members, so it regards the employee full life cycle. This HR role includes a varied spectrum of activities so it's not 'just' about recruitment._These are the most important aspects you’ll be working on:_
+**HR Talent Recruiter & Performance Coach**
+
+The position is a vital link in our process, because you will be connecting the right skills to the work that needs to be done.You will also coach new and existing team members, so it regards the employee full life cycle. This HR role includes a varied spectrum of activities so it's not 'just' about recruitment.
+
+_These are the most important aspects you’ll be working on:_
 
 *   Screening, interviewing and assessing candidates
 *   Selecting, onboarding and coaching of new and existing team members
@@ -42,7 +46,9 @@ The position is a vital link in our process, because you will be connecting the 
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. _What else can you expect from us?_
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+
+_What else can you expect from us?_
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
@@ -51,6 +57,9 @@ Startupz is a startup studio that develops and launches new companies. We develo
 You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
+
+
+## Requirements
 
 **About You**
 
@@ -68,8 +77,6 @@ We are looking for someone who is ready for this challenge with a getting things
 
 *   You may have a recruitment background combined with work experience in screening, interviewing and assessing candidates
 *   You may have experience in performance coaching
-
-## Requirements
 
 **How to Apply**
 
