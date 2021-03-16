@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Developer (Ruby + React stack)"
+title: "Full Stack Developer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
 companyName: "Startupz.com"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#rubylang,#python,#ui/ux,#aws,#operations,#English,#Dutch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Interested in new opportunities and have you have experience working with Ruby? Startupz.com has a job opening for a full stack developer."
+summary: "Interested in new opportunities and have experience working with Ruby? Startupz.com has a job opening for a full stack developer."
 summaryBackup: "To apply as a full stack developer at Startupz.com, you preferably need to have some knowledge of: #reactjs, #rubylang, #python."
-featured: 20
+featured: 5
 ---
 
 ## Job description
@@ -23,7 +23,9 @@ Startupz is hiring a Full Stack Developer to help us build and maintain the apps
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
-**About the Position****Full Stack Developer**
+**About the Position**
+
+**Full Stack Developer**
 
 You’ll be joining our team in building our apps and pushing the bar by building new features.
 
