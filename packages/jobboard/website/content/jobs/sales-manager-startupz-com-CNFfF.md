@@ -2,17 +2,17 @@
 title: "Sales Manager"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/sales-manager-3"
 applyUrl: "https://startupzcom.recruitee.com/o/sales-manager-3/c/new"
 timestamp: 1615852800000
-hashtags: "#sales,#css,#operations,#translation,#content,#branding,#ui/ux,#management,#marketing,#office"
+hashtags: "#sales,#management,#operations,#translation,#css,#content,#branding,#ui/ux,#marketing,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have you may have experience making deals of different sizes and levels of complexity, Startupz.com is looking for someone with your skillset."
+summary: "If you have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your skillset."
 summaryBackup: "Startupz.com is looking for a sales manager that has experience in: #sales, #css, #operations."
-featured: 20
+featured: 8
 ---
 
 ## Job description
@@ -56,6 +56,8 @@ You can expect a mindful onboarding process with ramp-up and time to learn. You 
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
+## Requirements
+
 **About You**
 
 We are looking for someone who is ready for this challenge with a getting things done work spirit.
@@ -73,7 +75,6 @@ We are looking for someone who is ready for this challenge with a getting things
 *   You may have experience making deals of different sizes and levels of complexity
 *   You may have experience in working with people from a broad range of companies in different sizes and from different industries
 
-## Requirements
 
 **How to Apply**
 
