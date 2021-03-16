@@ -1,18 +1,18 @@
 ---
-title: "Backend Engineer (Ruby-on-Rails)"
+title: "Backend Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
 companyName: "Startupz.com"
 url: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-4"
 applyUrl: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-4/c/new"
 timestamp: 1615852800000
-hashtags: "#javascript,#rubylang,#reactjs,#rails,#ui/ux,#aws,#operations,#management,#postgresql,#elasticsearch"
+hashtags: "#rubylang,#postgresql,#elasticsearch,#javascript,#reactjs,#rails,#ui/ux,#aws,#operations,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have experience with the tools, consider applying to Startupz.com's job post for a new backend engineer."
+summary: "If you have experience with PostgreSQL and/or Elasticsearch, consider applying to Startupz's job post for a new backend engineer."
 summaryBackup: "Startupz.com is looking for a backend engineer that has experience in: #javascript, #rubylang, #reactjs."
-featured: 20
+featured: 14
 ---
 
 ## Job description
@@ -35,7 +35,7 @@ These are the most important aspects you’ll be working on:
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co.
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co.
 
 Check out our projects to get an idea of what we like to work on (please note: pre-launch projects are not on our website yet).
 
@@ -55,9 +55,11 @@ We build our apps, our teams, and our company for the long haul, with a strong e
 
 ## Requirements
 
-**About You**We are looking for someone who is ready for this challenge with a getting things done work spirit.
+**About You**
 
-## Skills
+We are looking for someone who is ready for this challenge with a getting things done work spirit.
+
+**Skills**
 
 *   You are crazy about building building solid scalable backend
 *   You are driven and enthusiastic
@@ -67,7 +69,7 @@ We build our apps, our teams, and our company for the long haul, with a strong e
 *   You can handle a fast-paced, ever-changing, and deadline-driven environment
 *   Your communication skills in English are proficient
 
-## Experience
+**Experience**
 
 *   Experience with the tools: PostgreSQL and/or Elasticsearch
 *   Familiarity with AWS Services
