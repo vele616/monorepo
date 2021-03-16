@@ -2,17 +2,17 @@
 title: "SaaS Sales Representative"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/saas-sales-representative-4"
 applyUrl: "https://startupzcom.recruitee.com/o/saas-sales-representative-4/c/new"
 timestamp: 1615852800000
-hashtags: "#sales,#css,#ui/ux,#operations,#office,#English,#Dutch"
+hashtags: "#sales,#operations,#office,#css,#ui/ux,#English,#Dutch"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have you may have experience making deals of different sizes and levels of complexity, Startupz.com is looking for someone with your knowledge."
+summary: "If you have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your knowledge."
 summaryBackup: "To apply as a saas sales representative at Startupz.com, you preferably need to have some knowledge of: #sales, #css, #ui/ux."
-featured: 20
+featured: 12
 ---
 
 ## Job description
@@ -27,7 +27,7 @@ We are accepting applications for the next two months and we fill the open posit
 
 ## SaaS Sales Representative
 
-As ourSaaS Sales Representativeyou will be selling our new products and services which we scale into companies. You will be responsible for identifying new leads and following up with existing leads to explain the advantages of using our products. You can apply your sales skills to support the growth process and help our projects succeed!These are the most important aspects you’ll be working on:
+As our SaaS Sales Representative you will be selling our new products and services which we scale into companies. You will be responsible for identifying new leads and following up with existing leads to explain the advantages of using our products. You can apply your sales skills to support the growth process and help our projects succeed!These are the most important aspects you’ll be working on:
 
 *   Dealmaking :)!
 *   Advising customers on potential solutions
