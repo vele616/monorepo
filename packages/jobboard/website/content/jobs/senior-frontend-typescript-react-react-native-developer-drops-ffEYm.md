@@ -1,5 +1,5 @@
 ---
-title: "Senior Frontend (Typescript, React/React Native) developer"
+title: "Senior Frontend developer"
 location: "Estonia"
 host: "https://apply.workable.com/drops/"
 companyName: "Drops"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#management,#typescript,#macos,#android,#ios,#aws,#analytics
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/drops"
 companyWebsite: "http://languagedrops.com/"
-summary: "To apply as a senior frontend at Drops, you preferably need to have 5 years of experience in software."
+summary: "To apply as a senior frontend developer at Drops, you preferably need to have 2 years of experience in building apps with React or React Native with state management tools."
 summaryBackup: "Drops is looking for a senior frontend that has experience in: #reactjs, #management, #typescript."
-featured: 20
+featured: 7
 ---
 
 ## Description
