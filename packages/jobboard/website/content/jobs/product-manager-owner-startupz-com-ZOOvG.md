@@ -2,17 +2,17 @@
 title: "Product Manager/Owner"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/product-managerowner-5"
 applyUrl: "https://startupzcom.recruitee.com/o/product-managerowner-5/c/new"
 timestamp: 1615852800000
-hashtags: "#marketing,#ui/ux,#content,#branding,#management,#sales,#operations,#rest,#optimization,#translation"
+hashtags: "#marketing,#content,#branding,#management,#sales,#ui/ux,#operations,#rest,#optimization,#translation"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Startupz.com is looking for a product manager that has experience in: experience in: #marketing, #ui/ux, #content."
+summary: "Startupz is looking for a product manager that has experience in: #marketing, #ui/ux, #content."
 summaryBackup: "To apply as a product manager at Startupz.com, you preferably need to have some knowledge of: #marketing, #ui/ux, #content."
-featured: 20
+featured: 6
 ---
 
 ## Job description
@@ -25,15 +25,27 @@ Tolq works with international brands like Bol.com, MediaMarkt, Porsche and many 
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
-**About the Position****Product Manager/Owner**
+**About the Position**
+**Product Manager/Owner**
 
-As a Product Manager you will be assigned to work on one of our products and be responsible for the performance of the entire product/service. This means you’ll have to work across all the disciplines required to run a product and you work directly with the CEO. You’ll work in a fast-paced, and ever-changing environment where you can really add value.This is what that looks like: _**Strategy & Organisation**_
+As a Product Manager you will be assigned to work on one of our products and be responsible for the performance of the entire product/service. This means you’ll have to work across all the disciplines required to run a product and you work directly with the CEO. You’ll work in a fast-paced, and ever-changing environment where you can really add value.This is what that looks like: 
+
+**_Strategy & Organisation_**
 
 You work with the CEO on figuring out the optimal value proposition and product positioning.
 
-**_Product_**You work with designers and developers to create the best possible product that delivers the value proposition to the market. You hand-on test the product as much as often to be sure what we deliver is awesome.**_Reach_**This is where we promote the product/service. You work with the copywriter and manage the campaigns. You live for the metrics and make data based decisions.
+**_Product_**
+You work with designers and developers to create the best possible product that delivers the value proposition to the market. You hand-on test the product as much as often to be sure what we deliver is awesome.
 
-**_Convert_**Closing the deal. You also close deals yourself because you want to be in touch with the market we’re working on. _**Engage**_This is where we deliver the product/service to the customer. You make sure they get to the ‘Aha’-moment as soon as possible. You watch the retention and engagement metrics all the time. We use the product/market-fit model to tweak the product and learn how to create optimal product/market fit.
+**_Reach_**
+This is where we promote the product/service. You work with the copywriter and manage the campaigns. You live for the metrics and make data based decisions.
+
+**_Convert_**
+Closing the deal. You also close deals yourself because you want to be in touch with the market we’re working on.
+
+**_Engage_**
+
+This is where we deliver the product/service to the customer. You make sure they get to the ‘Aha’-moment as soon as possible. You watch the retention and engagement metrics all the time. We use the product/market-fit model to tweak the product and learn how to create optimal product/market fit.
 
 **About Tolq**
 
@@ -53,9 +65,13 @@ You can expect a mindful onboarding process with ramp-up and time to learn. You 
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
-**About You**We are looking for someone who is ready for this challenge with a getting things done work spirit.
+## Requirements
 
-## Skills & Requirements
+**About You**
+
+We are looking for someone who is ready for this challenge with a getting things done work spirit.
+
+**Skills & Requirements**
 
 *   You master the English language
 *   You have excellent communication skills
@@ -67,11 +83,10 @@ We build our apps, our teams, and our company for the long haul, with a strong e
 *   Deep understanding of Business Model Canvas, Value Proposition Design and Testing Business Ideas
 *   Understanding of product design, online marketing, metrics and all the little tools required to run a successful product
 
-## Experience
+**Experience**
 
 *   We love self-taught internet junkies who simply love making good products. We don’t care about the rest.
 
-## Requirements
 
 **How to Apply**
 
