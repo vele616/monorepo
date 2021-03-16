@@ -2,7 +2,7 @@
 title: "Backend Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-4"
 applyUrl: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-4/c/new"
 timestamp: 1615852800000

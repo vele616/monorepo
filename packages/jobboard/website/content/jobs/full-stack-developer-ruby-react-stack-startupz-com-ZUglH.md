@@ -2,7 +2,7 @@
 title: "Full Stack Developer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/full-stack-developer-ruby-react-stack-1"
 applyUrl: "https://startupzcom.recruitee.com/o/full-stack-developer-ruby-react-stack-1/c/new"
 timestamp: 1615852800000
@@ -10,7 +10,7 @@ hashtags: "#reactjs,#rubylang,#python,#ui/ux,#aws,#operations,#English,#Dutch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Interested in new opportunities and have experience working with Ruby? Startupz.com has a job opening for a full stack developer."
+summary: "Interested in new opportunities and have experience working with Ruby? Startupz has a job opening for a full stack developer."
 summaryBackup: "To apply as a full stack developer at Startupz.com, you preferably need to have some knowledge of: #reactjs, #rubylang, #python."
 featured: 5
 ---
@@ -37,7 +37,7 @@ You have a lot of autonomy with regards to deciding what the best solution is fo
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co.
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co.
 
 Check out our projects to get an idea of what we like to work on (please note: pre-launch projects are not on our website yet).
 

@@ -2,7 +2,7 @@
 title: "Project Manager"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/project-manager-allround-3"
 applyUrl: "https://startupzcom.recruitee.com/o/project-manager-allround-3/c/new"
 timestamp: 1615852800000
@@ -29,7 +29,7 @@ As a Project Manager you will be assigned to work on several small projects and 
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
 
 _What else can you expect from us?_
 

@@ -2,7 +2,7 @@
 title: "Front End Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/front-end-engineer-javascript-4"
 applyUrl: "https://startupzcom.recruitee.com/o/front-end-engineer-javascript-4/c/new"
 timestamp: 1615852800000
@@ -10,7 +10,7 @@ hashtags: "#javascript,#ui/ux,#reactjs,#rails,#rubylang,#css,#operations,#Englis
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "To apply as a front end engineer at Startupz.com, you preferably need to have 5 years of experience developing web applications."
+summary: "To apply as a front end engineer at Startupz, you preferably need to have 5 years of experience developing web applications."
 summaryBackup: "Startupz.com is looking for a front end engineer that has experience in: #javascript, #ui/ux, #reactjs."
 featured: 10
 ---
