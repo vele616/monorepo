@@ -12,12 +12,12 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/able"
 companyWebsite: "https://boards.greenhouse.io/able"
 summary: "Able is searching for a product engineer that has 8+ years of professional experience working as a software engineer."
 summaryBackup: "To apply as a product engineer at Able, you preferably need to have some knowledge of: #reactjs, #rails, #rubylang."
-featured: 20
+featured: 10
 ---
 
 We are Able, a company building products through a portfolio model, and we are looking for a Product Engineer who feels comfortable mixing both product development and engineering skills.
 
-## Do you enjoy the thrill of engaging in the product development process, bringing your technical mindset to build complex full-stack solutions? Would you like to create products for several industries, following our thesis of impacting the world to make it a better place for all?
+**Do you enjoy the thrill of engaging in the product development process, bringing your technical mindset to build complex full-stack solutions? Would you like to create products for several industries, following our thesis of impacting the world to make it a better place for all?**
 
 Able may be the place you’ve been longing for. The one where creative and innovative projects meet with **good-willing and passionate** teams — plus many other perks to boot that we can offer.
 
