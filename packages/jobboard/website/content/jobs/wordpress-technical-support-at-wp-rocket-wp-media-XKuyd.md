@@ -13,6 +13,7 @@ companyWebsite: "http://wp-media.me/"
 summary: "WP Media wishes to hire a new Wordpress Technical Support. If you have an excellent understanding of HTML and PHP, and know some JavaScript, consider applying."
 summaryBackup: "Excited about #wordpress, #javascript, #php? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

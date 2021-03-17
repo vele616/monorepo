@@ -13,6 +13,7 @@ companyWebsite: "https://www.thredup.com/"
 summary: "If you have 3 years of full time, professional experience in data analytics, data science, or software engineering roles, consider applying to ThredUP's job post for a new Data Scientist."
 summaryBackup: "Love #branding, #management, #python? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 **About thredUP**
