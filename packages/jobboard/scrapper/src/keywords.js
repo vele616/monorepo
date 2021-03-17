@@ -197,7 +197,7 @@ module.exports = {
       other: 60,
     },
     hashtag: '#macos',
-    keywords: ['macos', 'apple'],
+    keywords: ['macos', 'apple', 'Mac'],
   },
   linux: {
     rating: 40,
@@ -245,7 +245,7 @@ module.exports = {
     keywords: ['docker'],
   },
   aws: {
-    rating: 40,
+    rating: 45,
     class: {
       software: 100,
       other: 0,
@@ -545,7 +545,7 @@ module.exports = {
     keywords: ['redis'],
   },
   postgre: {
-    rating: 40,
+    rating: 50,
     class: {
       software: 100,
       other: 0,
@@ -554,7 +554,7 @@ module.exports = {
     keywords: ['postgre', 'postgresql', 'psql'],
   },
   elasticsearch: {
-    rating: 40,
+    rating: 50,
     class: {
       software: 100,
       other: 0,
@@ -617,7 +617,7 @@ module.exports = {
     keywords: ['sqlite'],
   },
   mysql: {
-    rating: 40,
+    rating: 50,
     class: {
       software: 100,
       other: 0,
@@ -718,7 +718,7 @@ module.exports = {
   },
   // added keywords
   content: {
-    rating: 40,
+    rating: 50,
     class: {
       software: 0,
       other: 100,
@@ -745,13 +745,13 @@ module.exports = {
     keywords: ['analytics', 'google analytics', 'matomo analytics', 'matomo', 'woopra', 'kpi', 'funnel'],
   },
   analysis: {
-    rating: 20,
+    rating: 30,
     class: {
       software: 20,
       other: 80,
     },
     hashtag: '#analysis',
-    keywords: ['analysis', 'analize', 'analytical'],
+    keywords: ['analysis', 'analize', 'analytical', 'evaluate'],
   },
   asana: {
     rating: 30,
@@ -790,7 +790,7 @@ module.exports = {
     keywords: ['crm'],
   },
   css: {
-    rating: 70,
+    rating: 60,
     class: {
       software: 100,
       other: 0,
@@ -808,7 +808,7 @@ module.exports = {
     keywords: ['customer support'],
   },
   designer: {
-    rating: 20,
+    rating: 15,
     class: {
       software: 20,
       other: 80,
@@ -832,7 +832,16 @@ module.exports = {
       other: 100,
     },
     hashtag: '#finance',
-    keywords: ['finance', 'financial', 'cash'],
+    keywords: ['finance', 'financial', 'cash', 'tax', 'frs', 'financial report'],
+  },
+  fintech: {
+    rating: 20,
+    class: {
+      software: 0,
+      other: 100,
+    },
+    hashtag: '#fintech',
+    keywords: ['fintech'],
   },
   git: {
     rating: 40,
@@ -853,13 +862,13 @@ module.exports = {
     keywords: ['html'],
   },
   hr: {
-    rating: 40,
+    rating: 50,
     class: {
       software: 0,
       other: 100,
     },
     hashtag: '#HR',
-    keywords: ['hr', 'human resource', 'recruit'],
+    keywords: ['hr', 'human resource', 'recruit', 'HR', 'recruiter'],
   },
   internship: {
     rating: 100,
@@ -880,7 +889,7 @@ module.exports = {
     keywords: ['jira'],
   },
   management: {
-    rating: 40,
+    rating: 35,
     class: {
       software: 0,
       other: 100,
@@ -904,7 +913,7 @@ module.exports = {
       other: 50,
     },
     hashtag: '#monitoring',
-    keywords: ['monitoring'],
+    keywords: ['monitoring', 'oversee', 'overseeing'],
   },
   office: {
     rating: 20,
@@ -916,7 +925,7 @@ module.exports = {
     keywords: ['office365', 'word', 'excel', 'outlook', 'powerpoint'],
   },
   operations: {
-    rating: 40,
+    rating: 45,
     class: {
       software: 10,
       other: 90,
@@ -925,7 +934,7 @@ module.exports = {
     keywords: ['operations'],
   },
   optimization: {
-    rating: 10,
+    rating: 20,
     class: {
       software: 70,
       other: 30,
@@ -1104,7 +1113,7 @@ module.exports = {
       other: 100,
     },
     hashtag: '#accountant',
-    keywords: ['accountant'],
+    keywords: ['accountant', 'accounting'],
   },
   xero: {
     rating: 10,
@@ -1123,20 +1132,6 @@ module.exports = {
     },
     hashtag: '#ukgaap',
     keywords: ['ukgaap', 'uk gaap', 'gaap', 'GAAPweb'],
-  },
-  frs: {
-    rating: 10,
-    class: {
-      software: 0,
-      other: 100,
-    },
-    hashtag: '#frs',
-    keywords: [
-      'frs102',
-      'frs',
-      'financial report',
-      'financial reporting standard',
-    ],
   },
   accountant: {
     rating: 40,

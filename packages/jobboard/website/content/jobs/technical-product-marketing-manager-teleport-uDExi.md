@@ -13,6 +13,7 @@ companyWebsite: "https://goteleport.com/"
 summary: "Teleport intends to hire a new technical product marketing manager. If you have prior engineering and product management experience and the ability to articulate compelling narratives around product benefits, capabilities and features, consider applying."
 summaryBackup: "Excited about #content, #marketing, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.

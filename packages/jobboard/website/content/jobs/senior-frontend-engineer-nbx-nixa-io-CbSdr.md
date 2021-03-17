@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io intends to hire a new Senior Frontend Engineer. If you have 3 years of experience as a frontend developer, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description

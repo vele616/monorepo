@@ -12,6 +12,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "Gistia is searching for a senior software engineer that has 3-5+ years of professional experience working with any of the following technologies: #angular, #java, #scala, #spring, #reactjs."
 summaryBackup: "Excited about #reactjs, #angular, #css? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 Full-time remote position.

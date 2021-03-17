@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "Brave is looking for an Ethereum / Chromium Engineer that has 5+ years experience with application development."
 summaryBackup: "Excited about #javascript, #reactjs, #office? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Brave is looking for an experienced Senior Software Engineer to work on cryptocurrency integrations with Brave.  You'll work on our Crypto Wallets feature which started out as a fork of MetaMask.  This is a high­ profile and impactful, hands­-on position.  Work together with our developers and privacy/security experts to help us take our browser to the next level.

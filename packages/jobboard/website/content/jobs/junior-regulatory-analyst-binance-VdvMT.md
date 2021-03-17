@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "If you have 1-2 years directly related experience in a compliance role and/or regulatory facing role with a substantial knowledge of relevant rules and regulations and the day-to-day compliance affairs, Binance is looking for someone with your knowledge."
 summaryBackup: "Binance is looking for a junior regulatory analyst that has experience in: #management, #German, #finance."
 featured: 9
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.

@@ -12,6 +12,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "If you have 5 years experience in software development and 6 months experience leading a development team, consider applying to Gistia's job post for a new Software Engineering."
 summaryBackup: "Love #javascript, #reactjs, #nodejs? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job overview:

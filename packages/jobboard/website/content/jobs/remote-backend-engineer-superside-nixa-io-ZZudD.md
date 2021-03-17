@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "To apply as a remote Backend Engineer at Nixa.io, you preferably need to have experience with Spring Boot and Hibernate."
 summaryBackup: "Nixa.io is looking for a remote backend engineer that has experience in: #ui/ux, #spring, #java."
 featured: 7
+archived: "true"
 ---
 
 ## Description
