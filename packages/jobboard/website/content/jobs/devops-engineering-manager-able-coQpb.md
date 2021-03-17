@@ -6,13 +6,13 @@ companyName: "Able"
 url: "https://boards.greenhouse.io/able/jobs/4939880002"
 applyUrl: "https://boards.greenhouse.io/able/jobs/4939880002#app"
 timestamp: 1615939200000
-hashtags: "#linux,#branding,#ui/ux,#management,#operations,#redis,#postgresql,#office,#English,#finance"
+hashtags: "#linux,#redis,#postgresql,#branding,#ui/ux,#management,#operations,#office,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/able"
 companyWebsite: "https://boards.greenhouse.io/able"
 summary: "To apply as a devops engineering manager at Able, you preferably need to have 3+ years of professional experience as a System Administrator, DevOps Engineer or equivalent."
 summaryBackup: "Love #linux, #branding, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Able is a team of designers and engineers that have started, grown, and sold technology companies. Now we pool our skills as a team to build a growing portfolio of businesses. We believe the future of investing will be driven by technical capability and that people with our skills shouldn't have to bet everything on the success of a single startup.
