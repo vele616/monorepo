@@ -536,7 +536,7 @@ module.exports = {
   },
   // databases (30 => 40)
   redis: {
-    rating: 40,
+    rating: 50,
     class: {
       software: 100,
       other: 0,
@@ -545,7 +545,7 @@ module.exports = {
     keywords: ['redis'],
   },
   postgre: {
-    rating: 50,
+    rating: 60,
     class: {
       software: 100,
       other: 0,
@@ -763,7 +763,7 @@ module.exports = {
     keywords: ['asana'],
   },
   branding: {
-    rating: 40,
+    rating: 30,
     class: {
       software: 0,
       other: 100,
@@ -808,7 +808,7 @@ module.exports = {
     keywords: ['customer support'],
   },
   designer: {
-    rating: 15,
+    rating: 10,
     class: {
       software: 20,
       other: 80,
@@ -1149,7 +1149,7 @@ module.exports = {
       other: 20,
     },
     hashtag: '#devops',
-    keywords: ['devops'],
+    keywords: ['devops', 'DevOps'],
   },
   devsec: {
     rating: 40,
