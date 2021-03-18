@@ -1,18 +1,18 @@
 ---
-title: "Backend Engineer - Node.js"
+title: "Backend Engineer"
 location: "Berlin, Cologne, Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/2928116"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/2928116#app"
 timestamp: 1616025600000
-hashtags: "#content,#ui/ux,#scrum,#analysis,#operations,#monitoring,#English"
+hashtags: "#scrum,#analysis,#operations,#content,#ui/ux,#monitoring,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 4+ years in an automation, back-end engineering or similar role, primarily Node, Eyeo is looking for someone with your knowledge."
 summaryBackup: "Eyeo is looking for a backend engineer that has experience in: #content, #ui/ux, #scrum."
-featured: 20
+featured: 11
 ---
 
 ## Get to know us
