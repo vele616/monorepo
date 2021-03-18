@@ -2,17 +2,17 @@
 title: "Marketing Executive"
 location: "London, GB - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/e8bfa3abb12101-marketing-executive"
 applyUrl: "https://hicx-solutions.breezy.hr/p/e8bfa3abb12101-marketing-executive/apply"
 timestamp: 1616025600000
-hashtags: "#marketing,#sales,#css,#content,#management,#operations,#socialmedia,#analysis"
+hashtags: "#marketing,#sales,#content,#management,#css,#operations,#socialmedia,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "To apply as a marketing executive at Hicx-solutions, you preferably need to have identify and target relevant ICP accounts, taking advantage of our ABM tools and the experience of our sales team."
+summary: "To apply as a marketing executive at HICX, you preferably need to identify and target relevant ICP accounts, taking advantage of our ABM tools and the experience of our sales team."
 summaryBackup: "Excited about #marketing, #sales, #css? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 ## Introduction
