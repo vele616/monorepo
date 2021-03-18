@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Representative Native Spanish - Remote"
+title: "Customer Support Representative"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/66M8JDvLnm/Customer-Support-Representative-Native-Spanish-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/66M8JDvLnm/Customer-Support-Representative-Native-Spanish-Remote"
 timestamp: 1616025600000
-hashtags: "#android,#ios,#content,#marketing,#office,#socialmedia,#monitoring,#finance,#English"
+hashtags: "#customersupport,#socialmedia,#monitoring,#content,#android,#ios,#marketing,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 1-2 years work experience in an administrative or organizational role, Numbrs Personal Finance AG has a job opening for a customer support representative native spanish"
+summary: "If you have 1-2 years work experience in an administrative or organizational role, Numbrs has a job opening for a customer support representative."
 summaryBackup: "Excited about #android, #ios, #content? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Numbrs Personal Finance AG is a technology company. Our product is Numbrs, a multibanking application available for iOS and Android. Numbrs is one of the most widely used banking apps in Germany and was recently launched in the UK.
@@ -27,7 +27,7 @@ Numbrs is expanding, and we are therefore searching for a native Spanish speaker
 
 Key Qualifications
 
-*   native Spanish and high level of English
+*   **native Spanish** and high level of English
 *   1-2 years work experience in an administrative or organizational role
 *   ability to effectively prioritise and escalate user issues as required
 *   advanced customer service skills: active listening, empathy, conflict resolution, problem solving, and professionalism
