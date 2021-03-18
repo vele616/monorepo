@@ -1,18 +1,18 @@
 ---
-title: "Graphic and Motion Designer - Remote"
+title: "Graphic and Motion Designer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/kXvivIXQMF/Graphic-And-Motion-Designer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/kXvivIXQMF/Graphic-And-Motion-Designer-Remote"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#management,#android,#ios,#content,#branding,#marketing,#photoshop,#figma,#finance"
+hashtags: "#ui/ux,#figma,#branding,#management,#android,#ios,#content,#marketing,#photoshop,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG wishes to hire a new graphic and motion designer. If you have 5 years of experience as graphic designer for a product or design company, advertising agency or in-house creative environment, consider applying."
+summary: "Numbrs wishes to hire a new graphic and motion designer. If you have 5 years of experience as graphic designer for a product or design company, advertising agency or in-house creative environment, consider applying."
 summaryBackup: "Numbrs Personal Finance AG is looking for a graphic and motion designer that has experience in: #ui/ux, #management, #android."
-featured: 20
+featured: 14
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
