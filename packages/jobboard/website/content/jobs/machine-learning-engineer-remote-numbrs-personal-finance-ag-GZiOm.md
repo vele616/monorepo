@@ -1,18 +1,18 @@
 ---
-title: "Machine Learning Engineer - Remote"
+title: "Machine Learning Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/v7Wr8fMt98/Machine-Learning-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/v7Wr8fMt98/Machine-Learning-Engineer-Remote"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#java,#scala,#spark,#office,#android,#ios,#management,#cassandra,#finance"
+hashtags: "#scala,#spark,#cassandra,#office,#ui/ux,#java,#android,#ios,#management,#cassandra,#finance"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 5 years of professional experience in Machine Learning, Numbrs Personal Finance AG is looking for someone with your knowledge."
+summary: "If you have 5 years of professional experience in Machine Learning, Numbrs is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #java, #scala? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
