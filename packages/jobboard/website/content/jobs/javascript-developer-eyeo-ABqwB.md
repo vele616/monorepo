@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 5 years of software development experience with deep JavaScript skills, Eyeo is looking for someone with your skillset."
 summaryBackup: "To apply as a javascript developer at Eyeo, you preferably need to have some knowledge of: #javascript, #scrum, #java."
-featured: 20
+featured: 5
 ---
 
 ## Get to know us
