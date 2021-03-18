@@ -1,18 +1,18 @@
 ---
-title: "Head of PR (UK)"
+title: "Head of PR"
 location: "London, GB - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/72697a55c9c401-head-of-pr-uk"
 applyUrl: "https://hicx-solutions.breezy.hr/p/72697a55c9c401-head-of-pr-uk/apply"
 timestamp: 1616025600000
-hashtags: "#management,#marketing,#css,#branding,#office"
+hashtags: "#management,#marketing,#analysis,#branding,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "If you have consideration will be given to PR experience gained in a broad range of environments, but the perfect candidate will probably have experience in, Hicx-solutions has a job opening for a head of pr"
-summaryBackup: "To apply as a head of pr at Hicx-solutions, you preferably need to have some knowledge of: #management, #marketing, #css."
-featured: 20
+summary: "To apply as a Head of PR at HICX, you preferably need to have some knowledge of: #management, #marketing, #analysis."
+summaryBackup: "To apply as a head of pr at Hicx-solutions, you preferably need to have some knowledge of: #management, #marketing, #analysis."
+featured: 19
 ---
 
 HICX delivers extraordinary value to some of the largest companies in the world by fixing one of the most challenging problems they face.
@@ -46,7 +46,6 @@ Main Responsibilities
 *   B2B technology
 *   Large enterprise software (complex solutions for billion-dollar customers)
 *   A mix of client and agency-side, but more of the former
-
 *   Demonstrable experience of having set company-level PR strategy in an SMB, or division-level in a larger organization, or the clear potential to do so
 *   Solid media relations core skills
 *   Multi-channel campaign experience, in particular to multiple audience types
