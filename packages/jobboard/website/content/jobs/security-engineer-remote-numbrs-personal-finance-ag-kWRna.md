@@ -1,16 +1,16 @@
 ---
-title: "Security Engineer - Remote"
+title: "Security Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/JINiR24Sz1/Security-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/JINiR24Sz1/Security-Engineer-Remote"
 timestamp: 1616025600000
-hashtags: "#python,#java,#golang,#ui/ux,#office,#android,#ios,#aws,#management,#finance"
-jobType: "software"
+hashtags: "#python,#java,#encryption,#golang,#ui/ux,#office,#android,#ios,#aws,#management,#finance"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 3 years of security work experience, Numbrs Personal Finance AG is looking for someone with your skillset."
+summary: "If you have 3 years of security work experience, Numbrs is looking for someone with your skillset."
 summaryBackup: "Numbrs Personal Finance AG is looking for a security engineer that has experience in: #python, #java, #golang."
 featured: 20
 ---
