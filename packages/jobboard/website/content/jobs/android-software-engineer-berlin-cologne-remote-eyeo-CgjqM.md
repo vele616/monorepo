@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo is searching for an android software engineer that has 3+ years of software development experience."
 summaryBackup: "Excited about #java, #android, #python? Check out this job post!"
-featured: 7
+featured: 5
 ---
 
 ## Get to know us
