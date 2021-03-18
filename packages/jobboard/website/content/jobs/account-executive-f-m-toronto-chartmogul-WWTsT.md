@@ -1,18 +1,18 @@
 ---
-title: "Account Executive (f/m) - Toronto"
+title: "Account Executive"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul"
 url: "https://jobs.chartmogul.com/o/account-executive-fm-toronto"
 applyUrl: "https://jobs.chartmogul.com/o/account-executive-fm-toronto/c/new"
 timestamp: 1616025600000
-hashtags: "#sales,#css,#analysis,#crm,#management,#marketing"
+hashtags: "#sales,#analysis,#crm,#management,#css,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
 summary: "If you have 2+ years of experience leading sales cycles in SaaS or a similar setting, ChartMogul is looking for someone with your knowledge."
 summaryBackup: "ChartMogul is looking for an account executive that has experience in: #sales, #css, #analysis."
-featured: 20
+featured: 13
 ---
 
 ## Job description
