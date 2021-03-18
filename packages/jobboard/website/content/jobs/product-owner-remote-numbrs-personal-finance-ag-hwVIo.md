@@ -1,5 +1,5 @@
 ---
-title: "Product Owner - Remote"
+title: "Product Owner"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
@@ -10,9 +10,9 @@ hashtags: "#management,#ui/ux,#android,#ios,#office,#marketing,#scrum,#finance,#
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 3 years of experience as a product owner in a software company, consider applying to Numbrs Personal Finance AG's job post for a new product owner."
+summary: "If you have 3 years of experience as a product owner in a software company, consider applying to Numbrs's job post for a new product owner."
 summaryBackup: "Excited about #management, #ui/ux, #android? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
