@@ -1,18 +1,18 @@
 ---
-title: "Head of Software Engineering - Remote"
+title: "Head of Software Engineering"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/K6aFxxZa9w/Head-Of-Software-Engineering-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/K6aFxxZa9w/Head-Of-Software-Engineering-Remote"
 timestamp: 1616025600000
-hashtags: "#management,#java,#android,#ios,#ui/ux,#office,#finance,#English"
+hashtags: "#management,#java,#golang,#cplusplus,#android,#ios,#ui/ux,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG wishes to hire a new head of software engineering. If you have 10 years experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, consider applying."
+summary: "Numbrs wishes to hire a new head of software engineering. If you have 10 years experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, consider applying."
 summaryBackup: "Excited about #management, #java, #android? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
