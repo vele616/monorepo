@@ -1,8 +1,8 @@
 ---
-title: "Senior, Software Engineer, Web Front End Developer"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2990734"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2990734#app"
 timestamp: 1616025600000
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#vuejs,#unity,#aws,#googlecloud,#content,#ui/ux,#marketing,#
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a senior at Current Job Openings at Magic Leap, Inc., you preferably need to have 3+ years experience with modern, component-based frameworks like React, NextJS, VueJS, along with the ability to learn new web technologies."
+summary: "To apply as a senior software engineer at Magic Leap, you preferably need to have 3+ years experience with modern, component-based frameworks like React, NextJS, VueJS, along with the ability to learn new web technologies."
 summaryBackup: "Excited about #reactjs, #vuejs, #unity? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Job Description: 
@@ -49,4 +49,3 @@ Magic Leap, Inc. is seeking a Senior Software Engineer, Web Front End Developer 
 
 All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
-#LI-DV1
