@@ -18,11 +18,14 @@ featured: 20
 
 PSD 2 payment SCA authentication implementation across Europe hasn't been an easy topic recently, am I right? But then again, it’s an exciting challenge to: A. adjust our operations and B. to also educate our Product teams on that, Prometheus-style 🔥 (Except for the liver part, or except for creating xenomorphs — whichever reference you prefer 😅)If becoming our manager of day to day operational payments processes and the go-to payments person sounds interesting, bear with us!
 
-Doesn’t “Payments Specialist” sound a bit wide? It does because in our case it is!We’re still an organisation of ~250 people so you won’t be put in just a Fraud, Chargebacks, or any other box — with us you get to run and own the whole payments space start to finish. Which is quite an interesting one — Pleo's up and running in 6 markets right now so we need to systematise and productise where possible all of the different exceptions to the normal payments flow. And if you need some support in educating yourself in some of these areas, you’ll have it 🙂
+Doesn’t “Payments Specialist” sound a bit wide? It does because in our case it is!
+
+We’re still an organisation of ~250 people so you won’t be put in just a Fraud, Chargebacks, or any other box — with us you get to run and own the whole payments space start to finish. Which is quite an interesting one — Pleo's up and running in 6 markets right now so we need to systematise and productise where possible all of the different exceptions to the normal payments flow. And if you need some support in educating yourself in some of these areas, you’ll have it 🙂
 
 The current team is made of a Payments Analyst and a Payments Specialist — and the latter is transitioning into Product Manager (we’re all about that horizontal mobility and supporting pleoers ambitions) so we’re looking for someone to take over their responsibilities and also be involved in growing the Payment Ops further as we scale.
 
 And who’s that “we”?
+
 Hi, We’re Pleo — a fintech startup of Danish origin helping companies to make their employees feel valued. Specifically by simplifying company spending for all involved.We think that work will change to be more autonomous and flexible. Pleo is an app that delegates company spending to all employees with credit cards: use your card (virtual or physical), snap a pic of your receipt, and you're done. We take the pain away from employees having to pay out of pocket, and think that if you're going to trust an employee enough to hire them, you might as well trust them enough to spend company money sensibly.
 
 ## What does this role entail:
