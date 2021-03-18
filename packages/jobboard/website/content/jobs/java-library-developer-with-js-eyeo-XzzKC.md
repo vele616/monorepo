@@ -1,18 +1,18 @@
 ---
-title: "Java Library Developer with JS"
+title: "Java Library Developer"
 location: "Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/2587607"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/2587607#app"
 timestamp: 1616025600000
-hashtags: "#javascript,#java,#android,#python,#git,#marketing,#operations,#English"
+hashtags: "#javascript,#java,#python,#android,#git,#marketing,#operations,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
-summary: "To apply as a java library developer with js at Eyeo, you preferably need to have 4+ years of software development experience."
+summary: "To apply as a java library developer at Eyeo, you preferably need to have 4+ years of software development experience."
 summaryBackup: "To apply as a java library developer with js at Eyeo, you preferably need to have some knowledge of: #javascript, #java, #android."
-featured: 20
+featured: 11
 ---
 
 ## Get to know us
