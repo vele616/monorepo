@@ -2,17 +2,17 @@
 title: "Product Marketing Manager"
 location: "London, GB - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/1124c46cd61401-product-marketing-manager"
 applyUrl: "https://hicx-solutions.breezy.hr/p/1124c46cd61401-product-marketing-manager/apply"
 timestamp: 1616025600000
-hashtags: "#marketing,#sales,#management,#assembly,#windows,#content,#analytics,#ui/ux,#operations,#analysis"
+hashtags: "#marketing,#management,#analytics,#assembly,#windows,#content,#sales,#ui/ux,#operations,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "Hicx-solutions intends to hire a new product marketing manager. If you have 10+ years’ experience in a B2B technology marketing role, of which at least 5 in a product marketing capacity, consider applying."
+summary: "HICX intends to hire a new product marketing manager. If you have 10+ years’ experience in a B2B technology marketing role, of which at least 5 in a product marketing capacity, consider applying."
 summaryBackup: "To apply as a product marketing manager at Hicx-solutions, you preferably need to have some knowledge of: #marketing, #sales, #management."
-featured: 20
+featured: 7
 ---
 
 As part of our exciting growth plans for 2021 and beyond, HICX is looking to hire an experienced Product Marketing Manager to establish and build our product marketing function.
