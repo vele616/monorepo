@@ -1,12 +1,12 @@
 ---
-title: "Senior, Visual Designer"
+title: "Senior Visual Designer"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
 companyName: "Current Job Openings at Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2992384"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2992384#app"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#branding,#unity,#translation,#management,#marketing,#photoshop,#figma,#office"
+hashtags: "#ui/ux,#figma,#photoshop,#unity,#translation,#branding,#management,#marketing,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
@@ -15,7 +15,7 @@ summaryBackup: "Love #ui/ux, #branding, #unity? Check out this job post!"
 featured: 20
 ---
 
-We are seeking a Senior Visual Designer to join the Solutions Design team in building our next generation of augmented reality enterprise applications.​ Our work will influence the future of how business gets done—amplifying human ability with our wearable technology. You will translate our brand into 2D & 3D design across multiple platforms, including mixed reality, web, and mobile. You will work closely with our team of designers, prototypers, developers and researchers to define, build, and iterate design solutions — setting the bar for beautiful and thoughtful spatial experiences. Candidates should have 7+ years relevant professional experience and be excited to solve next-generation design problems beyond existing computing paradigms.
+We are seeking a Senior Visual Designer to join the Solutions Design team in building our next generation of augmented reality enterprise applications. Our work will influence the future of how business gets done—amplifying human ability with our wearable technology. You will translate our brand into 2D & 3D design across multiple platforms, including mixed reality, web, and mobile. You will work closely with our team of designers, prototypers, developers and researchers to define, build, and iterate design solutions — setting the bar for beautiful and thoughtful spatial experiences. Candidates should have 7+ years relevant professional experience and be excited to solve next-generation design problems beyond existing computing paradigms.
 
 ## Responsibilities:
 
@@ -58,4 +58,3 @@ We are seeking a Senior Visual Designer to join the Solutions Design team in bui
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines
 *   Please upload a current resume (pdf) and a link to your portfolio
 
-#LI-DV1
