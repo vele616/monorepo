@@ -1,5 +1,5 @@
 ---
-title: "Publisher Partnership Manager - CDI possible"
+title: "Publisher Partnership Manager"
 location: "Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#scrum,#content,#management,#operations,#sales,#jira,#Fren
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
-summary: "Eyeo is looking for a publisher partnership manager that has 5 years experience with sales in AdTech or online publishing."
+summary: "Eyeo is looking for a publisher partnership manager that has at least 5 years experience with sales in AdTech or online publishing."
 summaryBackup: "Eyeo is looking for a publisher partnership manager that has experience in: #marketing, #scrum, #content."
-featured: 20
+featured: 9
 ---
 
 ## Get to know us
