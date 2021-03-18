@@ -1,16 +1,16 @@
 ---
-title: "Head of PR (US)"
+title: "Head of PR"
 location: "Atlanta, GA - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/909c997285fd01-head-of-pr-us"
 applyUrl: "https://hicx-solutions.breezy.hr/p/909c997285fd01-head-of-pr-us/apply"
 timestamp: 1616025600000
-hashtags: "#management,#marketing,#css,#branding,#office"
+hashtags: "#management,#marketing,#analysis,#css,#branding,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "If you have consideration will be given to PR experience gained in a broad range of environments, but the perfect candidate will probably have experience in, Hicx-solutions has a job opening for a head of pr"
+summary: "Excited about #management, #marketing, #analysis? Check out this job post!"
 summaryBackup: "Excited about #management, #marketing, #css? Check out this job post!"
 featured: 20
 ---
