@@ -1,18 +1,18 @@
 ---
-title: "Lead/Senior Software Engineer, Health Cloud Framework"
+title: "Lead/Senior Software Engineer"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2554141"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2554141#app"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#management,#python,#java,#golang,#tensorflow,#kubernetes,#aws,#azure,#googlecloud"
+hashtags: "#java,#golang,#tensorflow,#ui/ux,#management,#python,#kubernetes,#aws,#azure,#googlecloud"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7+ years of industry experience as a software developer, coding &amp, Current Job Openings at Magic Leap, Inc. is looking for someone with your knowledge."
+summary: "If you have 7+ years of industry experience as a software developer, coding & debugging in C/C++, C#, Java, Python, and/or Golang within a cloud environment, Magic Leap is looking for someone with your knowledge."
 summaryBackup: "To apply as a lead at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #management, #python."
-featured: 20
+featured: 6
 ---
 
 *   ## Job Description
@@ -48,4 +48,3 @@ featured: 20
     
     MS in Computer Science, Computer Engineering or similar required. Ph.D. in Computer Science, Computer Engineering, or related preferred
 
-#LI-REMOTE
