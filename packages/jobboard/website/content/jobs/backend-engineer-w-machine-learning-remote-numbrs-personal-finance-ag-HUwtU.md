@@ -1,18 +1,18 @@
 ---
-title: "Backend Engineer w/ Machine Learning - Remote"
+title: "Backend Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/NEMQW4zgyN/Backend-Engineer-W-Machine-Learning-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/NEMQW4zgyN/Backend-Engineer-W-Machine-Learning-Remote"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#java,#golang,#scala,#spark,#android,#ios,#office,#git,#management"
+hashtags: "#java,#cassandra,#golang,#scala,#spark,#ui/ux,#android,#ios,#office,#git,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG intends to hire a new backend engineer w. If you have 5 years of professional experience in software development and micro service based architecture, consider applying."
+summary: "Numbrs intends to hire a new backend engineer. If you have 5 years of professional experience in software development and micro service based architecture, consider applying."
 summaryBackup: "To apply as a backend engineer w at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #ui/ux, #java, #golang."
-featured: 20
+featured: 6
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
@@ -45,7 +45,7 @@ Key Qualifications:
 Preferred qualifications:
 
 *   experience with CI/CD toolchain products like Jira, Stash, Git, and Jenkins
-*   fluent with functional, imperative and object-­oriented languages;
+*   fluent with functional, imperative and object-oriented languages;
 *   experience with C++, or Golang is a plus
 
 ## What we offer:
