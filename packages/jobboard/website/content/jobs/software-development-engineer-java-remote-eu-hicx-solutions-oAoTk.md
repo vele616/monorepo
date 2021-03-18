@@ -1,8 +1,8 @@
 ---
-title: "Software Development Engineer: Java -  Remote (EU)"
+title: "Software Development Engineer"
 location: "Bucharest, RO - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/a86c344ea79a01-software-development-engineer-java-remote-eu"
 applyUrl: "https://hicx-solutions.breezy.hr/p/a86c344ea79a01-software-development-engineer-java-remote-eu/apply"
 timestamp: 1616025600000
@@ -10,9 +10,9 @@ hashtags: "#java,#spring,#javascript,#reactjs,#python,#php,#ui/ux,#html,#css,#ku
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "Interested in new opportunities and have 2 years in professional Java programming with experience in application design, software development, and maintenance? Hicx-solutions has a job opening for a software development engineer: java."
+summary: "Interested in new opportunities and have 2 years in professional Java programming with experience in application design, software development, and maintenance? HICX has a job opening for a software development engineer."
 summaryBackup: "To apply as a software development engineer: java at Hicx-solutions, you preferably need to have some knowledge of: #java, #spring, #javascript."
-featured: 20
+featured: 8
 ---
 
 ## Software Development Engineer: Java - Remote (Europe)
