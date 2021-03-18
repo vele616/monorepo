@@ -1,5 +1,5 @@
 ---
-title: "Product Manager - Integrations"
+title: "Product Manager"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul"
@@ -10,9 +10,9 @@ hashtags: "#management,#analysis,#ui/ux,#marketing,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
-summary: "To apply as a product manager at ChartMogul, you preferably need to have some knowledge of: experience in: #management, #analysis, #ui/ux."
+summary: "To apply as a product manager at ChartMogul, you preferably need to have some knowledge of: #management, #analysis, #ui/ux."
 summaryBackup: "Excited about #management, #analysis, #ui/ux? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Job description
