@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Interested in new opportunities and have 7+ years of marketing and communications, with experience in technology? Magic Leap, Inc. has a job opening for a manager."
 summaryBackup: "Love #marketing, #management, #branding? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 The Partner Marketing Manager will lead Magic Leap’s partner-marketing program and helps bring the company story to life through our extensive partner ecosystem. This person will oversee all aspects of a partner-marketing program which includes leading strategy, planning, and execution, with various inputs and deliverables from internal and external teams/partners, and defining and establishing our brand voice with partners to bring our story to the world. 

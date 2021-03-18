@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have experience sourcing for and working with a wide range of underrepresented groups, Magic Leap is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #unity? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 Magic Leap is looking for a Diversity Sourcer to join our talented and growing team. It’s an exciting time to join Magic Leap’s People and Transformation function.  This newly created role will be a critical part of how we enable our Talent Acquisition team to drive and influence Magic Leap’s focus on diversity and inclusion. 

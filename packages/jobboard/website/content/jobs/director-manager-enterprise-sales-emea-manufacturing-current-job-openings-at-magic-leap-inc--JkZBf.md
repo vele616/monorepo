@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. is searching for a director that has 10 years of sales and/or business development experience, preferably with both Engineering and Business background."
 summaryBackup: "Love #sales, #marketing, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Enterprise Sales Manager / Director, EMEA Manufacturing

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7-10+ years of experience in marketing, content production and design, with a focus on digital content and broad range of budgets, Magic Leap, Inc. is looking for someone with your knowledge."
 summaryBackup: "To apply as a manager at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #marketing, #management, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 Magic Leap is seeking a Content Marketing Manager to develop and execute a content marketing strategy by creating, publishing and promoting content that achieves the goals set out in the strategy. You will lead content creation across the entire lifecycle from initial strategy through to implementation and post-launch optimization, as well as work directly with multiple cross-functional product teams to ensure the implementation of a cohesive content strategy. By working side by side UX designers, product owners, and researchers, you will help create user experiences that engage, educate and excite target audiences.

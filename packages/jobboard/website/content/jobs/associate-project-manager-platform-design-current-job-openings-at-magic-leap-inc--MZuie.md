@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Interested in new opportunities and have experience working in AR/MR projects a plus? Magic Leap has a job opening for an Project Manager Associate."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for an associate that has experience in: #ui/ux, #management, #jira."
 featured: 20
+archived: "true"
 ---
 
 Magic Leap is seeking an Associate, Project Manager to join the Platform Design team to keep the UX design process on track, from research and design, to prototyping and testing. 

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap is searching for a director that has 12+ years of deal-making/partner management experience is likely needed to successfully perform this role."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a director that has experience in: #management, #analysis, #optimization."
 featured: 20
+archived: "true"
 ---
 
 ## Job Description
