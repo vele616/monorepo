@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Interested in new opportunities and have experience in working with JIRA Project Tracking? Magic Leap has a job opening for an Associate Software Engineer."
 summaryBackup: "Magic Leap is looking for an Associate Software Engineer that has experience in: #unity, #ui/ux, #content."
 featured: 5
+archived: "true"
 ---
 
 Remote

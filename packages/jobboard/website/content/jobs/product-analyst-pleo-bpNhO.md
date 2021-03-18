@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "To apply as a Product Analyst at Pleo, you preferably need to have experience working with SQL databases or similar and you have likely worked with tracking tools like Amplitude, Tableau, Metabase, Periscope, Google Data Studio, or Looker."
 summaryBackup: "Pleo is looking for a product analyst that has experience in: #python, #analysis, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 SELECT

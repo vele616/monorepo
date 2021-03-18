@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 12+ years of deal-making/partner management experience in the cloud solutions space is likely needed to successfully perform this role, Magic Leap has a job opening for a director"
 summaryBackup: "To apply as a director at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #aws, #googlecloud, #css."
 featured: 20
+archived: "true"
 ---
 
 ## Job Description

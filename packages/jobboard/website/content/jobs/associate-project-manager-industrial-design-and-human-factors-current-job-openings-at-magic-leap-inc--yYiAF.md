@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap is looking for an associate that has experience working in Industrial Design or User Research a plus."
 summaryBackup: "Love #ui/ux, #management, #jira? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Magic Leap is seeking an Associate Project Manager to join the Product Design department. This position works closely with the Industrial Design team and will manage and track hardware, packaging, and accessory design deliverables for the next generation of our Magic Leap device. 
