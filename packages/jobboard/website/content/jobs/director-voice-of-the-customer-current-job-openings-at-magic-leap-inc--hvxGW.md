@@ -1,8 +1,8 @@
 ---
-title: "Director, Voice of the Customer"
+title: "Voice of the Customer Director"
 location: "Plantation, FL OR Culver City OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2966073"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2966073#app"
 timestamp: 1616025600000
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#management,#marketing,#office,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 10+ years experience in product management / innovation / customer insights / market &amp, Current Job Openings at Magic Leap, Inc. has a job opening for a director"
+summary: "If you have 10+ years experience in product management / innovation / customer insights / market & user research / strategy , Magic Leap has a job opening for a Voice of the Customer Director"
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a director that has experience in: #ui/ux, #management, #marketing."
-featured: 20
+featured: 11
 ---
 
 ## Job Description
