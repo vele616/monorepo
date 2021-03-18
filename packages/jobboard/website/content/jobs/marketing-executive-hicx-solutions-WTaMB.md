@@ -21,7 +21,9 @@ As part of our exciting growth plans for 2020 and beyond, HICX is looking to hir
 
 This is a great role for a junior marketer looking to join an experienced, collaborative team operating at the leading edge of marketing technology and lead generation.
 
-Our CompanyHICX delivers extraordinary value to some of the largest companies in the world by fixing one of the most challenging problems they face.
+Our Company
+
+HICX delivers extraordinary value to some of the largest companies in the world by fixing one of the most challenging problems they face.
 
 Mega-brands like Mondelez, Baker Hughes, EDF, and BAE Systems use HICX to help create the best possible relationships with their suppliers for shared success.
 
