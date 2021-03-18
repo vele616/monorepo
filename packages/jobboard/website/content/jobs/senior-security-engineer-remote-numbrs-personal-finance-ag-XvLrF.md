@@ -1,5 +1,5 @@
 ---
-title: "Senior Security Engineer - Remote"
+title: "Senior Security Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
@@ -10,9 +10,9 @@ hashtags: "#python,#java,#golang,#rustlang,#ui/ux,#office,#android,#ios,#aws,#ma
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 5+ years of working experience in a related cybersecurity roles, consider applying to Numbrs Personal Finance AG's job post for a new senior security engineer."
+summary: "If you have 5+ years of working experience in a related cybersecurity roles, consider applying to Numbrs's job post for a new senior security engineer."
 summaryBackup: "To apply as a senior security engineer at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #python, #java, #golang."
-featured: 20
+featured: 9
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
