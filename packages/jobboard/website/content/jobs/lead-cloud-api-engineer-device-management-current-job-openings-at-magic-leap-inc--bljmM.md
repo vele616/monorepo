@@ -1,18 +1,18 @@
 ---
-title: "Lead, Cloud API Engineer, Device Management"
+title: "Lead Cloud API Engineer"
 location: "Plantation, FL; Sunnyvale, CA; Toronto, ON, Culver City, CA; Austin, TX; Remote Location"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2959540"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2959540#app"
 timestamp: 1616025600000
-hashtags: "#management,#operations,#ui/ux,#nodejs,#python,#java,#linux,#aws,#git,#redis"
+hashtags: "#aws,#python,#postgresql,#management,#operations,#ui/ux,#nodejs,#java,#linux,#git,#redis"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7+ years’ experience designing high-performance, secure, multi-tenant cloud services, Current Job Openings at Magic Leap, Inc. has a job opening for a lead"
+summary: "If you have 7+ years’ experience designing high-performance, secure, multi-tenant cloud services, Magic Leap has a job opening for a Lead Cloud API Engineer"
 summaryBackup: "To apply as a lead at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #operations, #ui/ux."
-featured: 20
+featured: 15
 ---
 
 ## Job Description
@@ -45,4 +45,3 @@ As a Lead Engineer in the Cloud Platform team, you’ll be responsible for the a
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
-#LI-DV1
