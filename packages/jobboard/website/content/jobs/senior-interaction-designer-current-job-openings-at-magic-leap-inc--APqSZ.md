@@ -2,7 +2,7 @@
 title: "Senior Interaction Designer"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2933151"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2933151#app"
 timestamp: 1616025600000
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#unity,#unreal,#management,#operations,#photoshop,#figma"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 7+ years of interaction design experience, Current Job Openings at Magic Leap, Inc. is looking for someone with your skillset."
+summary: "If you have 7+ years of interaction design experience, Magic Leap is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #unity, #unreal? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Responsibilities
