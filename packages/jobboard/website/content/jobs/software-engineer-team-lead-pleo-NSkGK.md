@@ -1,21 +1,20 @@
 ---
-title: "Software Engineer - Team Lead"
+title: "Lead Software Engineer"
 location: "Copenhagen / Remote"
 host: "https://boards.greenhouse.io/pleo"
 companyName: "Pleo"
 url: "https://boards.greenhouse.io/pleo/jobs/4399215003"
 applyUrl: "https://boards.greenhouse.io/pleo/jobs/4399215003#app"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#management,#operations,#rest"
+hashtags: "#management,#operations,#ui/ux"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "To apply as a software engineer at Pleo, you preferably need to have some knowledge of: experience in: #ui/ux, #management, #operations."
+summary: "To apply as a lead software engineer at Pleo, you preferably need to have some knowledge of: #management, #operations, #ui/ux."
 summaryBackup: "To apply as a software engineer at Pleo, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
-featured: 20
+featured: 13
 ---
 
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
 
 Have you ever had a favorite recipe that never failed you? Maybe passed through generations in your family or you found it on Reddit or you might even come up with it yourself, doesn’t really matter. What matters is the same recipe, amazing taste every time. And then one day you might be feeling adventurous, or just by accident, you add an extra ingredient, maybe just a touch of a new spice and ... mindblown.gif !!  Turns out it can taste even better! Has this ever happened to you?!
 
