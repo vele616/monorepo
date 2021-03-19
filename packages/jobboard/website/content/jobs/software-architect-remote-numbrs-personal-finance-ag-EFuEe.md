@@ -1,5 +1,5 @@
 ---
-title: "Software Architect - Remote"
+title: "Software Architect"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
@@ -7,12 +7,12 @@ url: "http://numbrs.applytojob.com/apply/Kcurhi77SI/Software-Architect-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/Kcurhi77SI/Software-Architect-Remote"
 timestamp: 1616025600000
 hashtags: "#java,#kubernetes,#operations,#ui/ux,#management,#office,#android,#ios,#docker,#aws"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG is looking for a software architect that has 5 years experience architecting, developing, evolving and troubleshooting large scale distributed systems."
+summary: "Numbrs is looking for a Software Architect that has a minimum of 5 years experience architecting, developing, evolving and troubleshooting large scale distributed systems."
 summaryBackup: "Love #java, #kubernetes, #operations? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
