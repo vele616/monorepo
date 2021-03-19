@@ -6,16 +6,15 @@ companyName: "Pleo"
 url: "https://boards.greenhouse.io/pleo/jobs/4404908003"
 applyUrl: "https://boards.greenhouse.io/pleo/jobs/4404908003#app"
 timestamp: 1616025600000
-hashtags: "#ui/ux,#management,#operations,#rest"
+hashtags: "#management,#operations,#ui/ux"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pleo"
-summary: "Love experience in: #ui/ux, #management, #operations? Check out this job post!"
+summary: "Love experience in: #management, #operations, #ui/ux? Check out this job post!"
 summaryBackup: "Love #ui/ux, #management, #operations? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
-![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)
 
 Have you ever had a favorite recipe that never failed you? Maybe passed through generations in your family or you found it on Reddit or you might even come up with it yourself, doesn’t really matter. What matters is the same recipe, amazing taste every time. And then one day you might be feeling adventurous, or just by accident, you add an extra ingredient, maybe just a touch of a new spice and ... mindblown.gif !!  Turns out it can taste even better! Has this ever happened to you?!
 
