@@ -1,18 +1,18 @@
 ---
-title: "Senior Salesforce Developer (Remote)"
+title: "Senior Salesforce Developer"
 location: "Remote Worldwide"
 host: "https://blackthorn-io-inc.breezy.hr/?&location=Worldwide#positions"
-companyName: "blackthorn-io-inc"
+companyName: "blackthorn"
 url: "https://blackthorn-io-inc.breezy.hr/p/2f4a793eeedf-senior-salesforce-developer-remote"
 applyUrl: "https://blackthorn-io-inc.breezy.hr/p/2f4a793eeedf-senior-salesforce-developer-remote/apply"
 timestamp: 1616025600000
-hashtags: "#management,#ui/ux,#git,#operations,#scrum,#office,#optimization,#English"
+hashtags: "#management,#salesforce,#optimization,#ui/ux,#git,#operations,#scrum,#office,#optimization,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/blackthorn-io-inc"
 companyWebsite: "https://blackthorn.io/"
-summary: "If you have 5+ years as a developer across multiple programming languages, Blackthorn-io-inc has a job opening for a senior salesforce developer"
+summary: "If you have 5+ years as a developer across multiple programming languages, Blackthorn has a job opening for a senior salesforce developer"
 summaryBackup: "To apply as a senior salesforce developer at Blackthorn-io-inc, you preferably need to have some knowledge of: #management, #ui/ux, #git."
-featured: 20
+featured: 9
 ---
 
 ## SENIOR SALESFORCE DEVELOPER
