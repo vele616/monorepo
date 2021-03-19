@@ -1,18 +1,18 @@
 ---
-title: "Chromium Software Engineer - Berlin, Cologne, Remote"
+title: "Chromium Software Engineer"
 location: "Berlin, Cologne, Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/2931987"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/2931987#app"
 timestamp: 1616025600000
-hashtags: "#javascript,#java,#python,#kotlin,#rustlang,#scrum,#android,#docker,#ui/ux,#git"
+hashtags: "#javascript,#java,#cplusplus,#python,#kotlin,#rustlang,#scrum,#android,#docker,#ui/ux,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo is looking for a chromium software engineer that has 4+ years of software development experience."
 summaryBackup: "To apply as a chromium software engineer at Eyeo, you preferably need to have some knowledge of: #javascript, #java, #python."
-featured: 20
+featured: 6
 ---
 
 ## Get to know us
