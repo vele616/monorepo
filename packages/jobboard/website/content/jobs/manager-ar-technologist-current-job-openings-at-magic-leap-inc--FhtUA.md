@@ -10,7 +10,7 @@ hashtags: "#ui/ux,#unity,#unreal,#management,#translation"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a manager at Current Job Openings at Magic Leap, Inc., you preferably need to have 7+ years of experience in design technology, UX engineering, software development,."
+summary: "To apply as a manager at Magic Leap, you preferably need to have 7+ years of experience in design technology, UX engineering, software development, solutions engineering or related field."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a manager that has experience in: #ui/ux, #unity, #unreal."
 featured: 20
 ---
@@ -32,7 +32,7 @@ The AR technologist, Manager, will be responsible to represent the technical per
 
 ## Qualifications
 
-*   7+ years of experience in design technology, UX engineering, software development,  solutions engineering or related field
+*   7+ years of experience in design technology, UX engineering, software development, solutions engineering or related field
 *   4+ years of experience with augmented and/or virtual reality development using Unity or Unreal
 *   Deep understanding of the limitations and possibilities for augmented reality in an enterprise context
 *   Must be able to prioritize business needs in building and designing customer solutions
