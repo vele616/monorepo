@@ -10,9 +10,9 @@ hashtags: "#swift,#objectivec,#javascript,#python,#content,#management,#operatio
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
-summary: "Eyeo intends to hire a new swift engineer. If you have 5+ years of software development experience, consider applying."
+summary: "Eyeo intends to hire a new Swift Engineer. If you have 5+ years of software development experience, consider applying."
 summaryBackup: "Love #swift, #objectivec, #javascript? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## Get to know us
