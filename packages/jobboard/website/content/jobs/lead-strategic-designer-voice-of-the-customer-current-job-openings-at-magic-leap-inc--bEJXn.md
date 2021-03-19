@@ -1,8 +1,8 @@
 ---
-title: "Lead, Strategic Designer (Voice of the Customer)"
+title: "Lead Strategic Designer"
 location: "Plantation, FL OR Culver City OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2966176"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2966176#app"
 timestamp: 1616025600000
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#management,#marketing,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as a lead at Current Job Openings at Magic Leap, Inc., you preferably need to have 5+ years in a consumer insights, UX research or design strategy role, with particular experience in uncovering b2b stakeholder needs."
+summary: "To apply as a Lead Strategic Designer at Magic Leap, you preferably need to have 5+ years in a consumer insights, UX research or design strategy role, with particular experience in uncovering b2b stakeholder needs."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## Job Description
