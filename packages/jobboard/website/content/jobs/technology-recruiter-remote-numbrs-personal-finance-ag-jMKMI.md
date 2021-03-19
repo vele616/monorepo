@@ -1,25 +1,25 @@
 ---
-title: "Technology Recruiter - Remote"
+title: "Technology Recruiter"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/ZbPlYEA4KS/Technology-Recruiter-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/ZbPlYEA4KS/Technology-Recruiter-Remote"
 timestamp: 1616025600000
-hashtags: "#management,#android,#ios,#ui/ux,#finance,#office,#English"
+hashtags: "#management,#HR,#optimization,#android,#ios,#ui/ux,#finance,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Excited about experience in: #management, #android, #ios? Check out this job post!"
+summary: "Excited about experience in: #management, #HR, #optimization? Check out this job post!"
 summaryBackup: "To apply as a technology recruiter at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #management, #android, #ios."
-featured: 20
+featured: 10
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
 
 We are building a remote team of multidisciplinary experts that are passionate about making a world-changing impact. We've built a hardworking and engaging remote culture that combines the best of scientific cutting edge technology with a product-focused environment, offering an ambitious balance of structure and flexibility.
 
-The Role
+## The Role
 
 We are seeking an experienced, dedicated, and well-organized Technology Recruiter to join our remote team. This position will require someone who is adaptable in a changing environment and who is passionate about delivering high quality results in a fast-paced environment.
 
