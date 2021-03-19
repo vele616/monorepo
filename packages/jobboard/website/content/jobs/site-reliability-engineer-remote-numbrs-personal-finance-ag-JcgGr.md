@@ -1,18 +1,18 @@
 ---
-title: "Site Reliability Engineer - Remote"
+title: "Site Reliability Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/Sr0N4c9Szq/Site-Reliability-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/Sr0N4c9Szq/Site-Reliability-Engineer-Remote"
 timestamp: 1616025600000
-hashtags: "#management,#kubernetes,#spark,#linux,#android,#ios,#aws,#googlecloud,#office,#ui/ux"
+hashtags: "#kubernetes,#spark,#aws,#linux,#android,#ios,#management,#googlecloud,#office,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 5 years experience deploying, monitoring and troubleshooting large scale distributed systems, Numbrs Personal Finance AG is looking for someone with your knowledge."
+summary: "If you have a minimum of 5 years experience deploying, monitoring and troubleshooting large scale distributed systems, Numbrs is looking for someone with your knowledge."
 summaryBackup: "To apply as a site reliability engineer at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #management, #kubernetes, #spark."
-featured: 20
+featured: 7
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
