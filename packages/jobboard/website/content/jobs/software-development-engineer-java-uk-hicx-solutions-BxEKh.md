@@ -1,18 +1,18 @@
 ---
-title: "Software Development Engineer: Java (UK)"
+title: "Software Development Engineer"
 location: "Edinburgh, GB - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/75a350c7a31801-software-development-engineer-java-uk"
 applyUrl: "https://hicx-solutions.breezy.hr/p/75a350c7a31801-software-development-engineer-java-uk/apply"
 timestamp: 1616025600000
-hashtags: "#java,#spring,#javascript,#reactjs,#python,#php,#ui/ux,#html,#css,#kubernetes"
+hashtags: "#java,#postgresql,#aws,#spring,#javascript,#reactjs,#python,#php,#ui/ux,#html,#css,#kubernetes"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "Hicx-solutions wishes to hire a new software development engineer: java. If you have 2 years in professional Java programming with experience in application design, software development, and maintenance, consider applying."
+summary: "HICX wishes to hire a new software development engineer. If you have 2 years in professional Java programming with experience in application design, software development, and maintenance, consider applying."
 summaryBackup: "Hicx-solutions is looking for a software development engineer: java that has experience in: #java, #spring, #javascript."
-featured: 20
+featured: 8
 ---
 
 ## Software Development Engineer: Java - Remote (UK)
