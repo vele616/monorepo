@@ -10,7 +10,7 @@ hashtags: "#content,#analysis,#marketing,#css,#branding,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
-summary: "Interested in new opportunities and have 6 years, we’ve built a loyal, recurring audience at ChartMogul and established our brand as a thought leader in the SaaS and subscription industry? ChartMogul has a job opening for a senior analyst."
+summary: "Interested in new opportunities and you have worked in the software/technology industry for at least 5 years? ChartMogul has a job opening for a senior analyst."
 summaryBackup: "Love #content, #css, #branding? Check out this job post!"
 featured: 6
 ---
