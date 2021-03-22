@@ -1,18 +1,18 @@
 ---
-title: "Remote UX/UI Designer"
+title: "UX/UI Designer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0uzs2/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0uzs2/?apply=true"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#marketing,#photoshop,#figma,#English"
+hashtags: "#ui/ux,#photoshop,#figma,#marketing,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
-summary: "Scopic is looking for a remote ux that has 3+ years of commercial UI/graphics design experience."
+summary: "Scopic is looking for a UX/UI Designer that has 3+ years of commercial UI/graphics design experience."
 summaryBackup: "Love #ui/ux, #marketing, #photoshop? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aUX/UI Designerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
