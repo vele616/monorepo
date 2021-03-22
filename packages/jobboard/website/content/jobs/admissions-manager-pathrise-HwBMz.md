@@ -10,7 +10,7 @@ hashtags: "#management,#sales,#analytics,#ui/ux,#marketing,#asana,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Interested in new opportunities and have 2+ years of experience in a sales or business development role? Pathrise has a job opening for an admissions manager."
+summary: "Interested in new opportunities and have 2+ years of experience in a sales or business development role? Pathrise has a job opening for an Admissions Manager."
 summaryBackup: "To apply as an admissions manager at Pathrise, you preferably need to have some knowledge of: #management, #sales, #analytics."
 featured: 20
 ---
