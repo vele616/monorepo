@@ -1,5 +1,5 @@
 ---
-title: "Remote Senior Web Developer"
+title: "Senior Web Developer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
@@ -10,14 +10,14 @@ hashtags: "#javascript,#laravel,#django,#vuejs,#reactjs,#angular,#python,#golang
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
-summary: "If you have 4+ years of software development experience, Scopic has a job opening for a remote senior web developer"
+summary: "If you have 4+ years of software development experience, Scopic has a job opening for a Senior Web Developer"
 summaryBackup: "Love #javascript, #laravel, #django? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
-Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemote Senior WebDeveloperby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
+Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote Senior Web Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
 
-At Scopic, the virtual world is our home so this is afull-timeremote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
+At Scopic, the virtual world is our home so this is a full-time remote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
 
 ## What your day-to-day will look like:
 
