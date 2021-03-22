@@ -1,18 +1,18 @@
 ---
-title: "Remote Software Project Manager"
+title: "Software Project Manager"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0345b/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0345b/?apply=true"
 timestamp: 1616371200000
-hashtags: "#management,#ui/ux,#English"
+hashtags: "#management,#optimization,#English,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic is searching for a remote software project manager that has experience with project management software tools."
 summaryBackup: "To apply as a remote software project manager at Scopic, you preferably need to have some knowledge of: #management, #ui/ux, #English."
-featured: 20
+featured: 10
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemote Software Project Managerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
