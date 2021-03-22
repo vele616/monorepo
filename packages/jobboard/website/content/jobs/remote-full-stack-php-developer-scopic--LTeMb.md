@@ -17,7 +17,7 @@ featured: 10
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote PHP Full-stack Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
 
-At Scopic, the virtual world is our home so this is afull-timeremote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
+At Scopic, the virtual world is our home so this is a full-time remote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
 
 The skills and traits we’re looking for:
 
