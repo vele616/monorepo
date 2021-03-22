@@ -1,23 +1,23 @@
 ---
-title: "Remote C++/3D Developer"
+title: "C++/3D Developer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0u3by/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0u3by/?apply=true"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#aws,#management,#English"
-jobType: "other"
+hashtags: "#cplusplus,#ui/ux,#aws,#management,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
-summary: "If you have 3+ years of experience in commercial software development, consider applying to Scopic's job post for a new remote c++."
+summary: "If you have 3+ years of experience in commercial software development, consider applying to Scopic's job post for a new C++/3D Developer."
 summaryBackup: "To apply as a remote c++ at Scopic, you preferably need to have some knowledge of: #ui/ux, #aws, #management."
-featured: 20
+featured: 5
 ---
 
-Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote C++/3D Developerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
+Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote C++/3D Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
 
-At Scopic, the virtual world is our home so this is afull-timeremote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
+At Scopic, the virtual world is our home so this is a full-time remote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
 
 ## What your day-to-day will look like:
 
