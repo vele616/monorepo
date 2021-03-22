@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "If you have 2+ years of experience in a sales or business development role, Pathrise has a job opening for an account manager"
 summaryBackup: "To apply as an account manager at Pathrise, you preferably need to have some knowledge of: #management, #sales, #analytics."
-featured: 20
+featured: 7
 ---
 
 **What is Pathrise?**
