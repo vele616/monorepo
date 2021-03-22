@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/7164f848-82f8-4c26-b5ca-a923c805d31c"
 applyUrl: "https://jobs.lever.co/pathrise/7164f848-82f8-4c26-b5ca-a923c805d31c/apply"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#javascript,#reactjs,#rails,#rubylang,#heroku,#management,#postgresql"
+hashtags: "#javascript,#reactjs,#rails,#rubylang,#heroku,#ui/ux,#management,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "If you have 4+ years of full-time software engineering experience, Pathrise is looking for someone with your skillset."
 summaryBackup: "Pathrise is looking for a senior software engineer that has experience in: #ui/ux, #javascript, #reactjs."
-featured: 20
+featured: 7
 ---
 
 **What is Pathrise?**
@@ -37,7 +37,7 @@ We’re looking to grow our product and engineering team to help build the next 
 *   You believe the best product is the one that helps users accomplish their goals while growing the business.
 *   You are looking to grow, take on new challenges, and constantly learn. You're excited by the potential of leading a team.
 *   You are driven to create life-changing and lasting impact.
-*   You enjoy building equitable and inclusive solutions and champion the voice of [c](http://customers.you/)ustomers.
+*   You enjoy building equitable and inclusive solutions and champion the voice of customers.
 *   You're able and willing to wear multiple hats. You're comfortable in a fast-paced startup environment and enjoy taking ownership.
 
 ## What You'll Do
