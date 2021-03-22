@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/adcfb4c5-ffca-4d34-ac5a-0e0fc0cd93d0"
 applyUrl: "https://jobs.lever.co/pathrise/adcfb4c5-ffca-4d34-ac5a-0e0fc0cd93d0/apply"
 timestamp: 1616371200000
-hashtags: "#branding,#ui/ux,#management,#marketing,#operations,#asana,#scrum"
+hashtags: "#HR,#operations,#management,#marketing,#asana,#branding,#ui/ux,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "Interested in new opportunities and have 3+ years of experience in career coaching at an organization or recruiting in the tech space? Pathrise has a job opening for a career coach."
 summaryBackup: "Love #branding, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 **What is Pathrise?**
