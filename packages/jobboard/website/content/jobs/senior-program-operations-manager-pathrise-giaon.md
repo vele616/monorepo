@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/a8426349-d9a7-4ce8-9ed3-2f2cab831c41"
 applyUrl: "https://jobs.lever.co/pathrise/a8426349-d9a7-4ce8-9ed3-2f2cab831c41/apply"
 timestamp: 1616371200000
-hashtags: "#operations,#ui/ux,#marketing,#analytics,#management,#office,#asana,#jira,#analysis,#optimization"
+hashtags: "#operations,#analytics,#management,#ui/ux,#marketing,#office,#asana,#jira,#analysis,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "If you have 5+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, Pathrise is looking for someone with your knowledge."
 summaryBackup: "Excited about #operations, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 **What is Pathrise?**
