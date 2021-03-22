@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/b488e184-8590-4cb2-88b4-35e70b5c2267"
 applyUrl: "https://jobs.lever.co/pathrise/b488e184-8590-4cb2-88b4-35e70b5c2267/apply"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#javascript,#reactjs,#rails,#rubylang,#heroku,#management,#postgresql"
+hashtags: "#javascript,#reactjs,#rails,#rubylang,#heroku,#ui/ux,#management,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "If you have 4+ years of full-time software engineering experience, consider applying to Pathrise's job post for a new lead software engineer."
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 **What is Pathrise?**
@@ -37,7 +37,7 @@ We’re looking to grow our product and engineering team to help build the next 
 *   You believe the best product is the one that helps users accomplish their goals while growing the business.
 *   You are looking to grow, take on new challenges, and constantly learn. You're excited by the potential of leading a team.
 *   You are driven to create life-changing and lasting impact.
-*   You enjoy building equitable and inclusive solutions and champion the voice of [c](http://customers.you/)ustomers.
+*   You enjoy building equitable and inclusive solutions and champion the voice of customers.
 *   You're able and willing to wear multiple hats. You're comfortable in a fast-paced startup environment and enjoy taking ownership.
 
 ## What You'll Do
