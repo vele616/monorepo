@@ -7,7 +7,7 @@ url: "https://weaveworks.breezy.hr/p/92826768709901-technical-services-engineer-
 applyUrl: "https://weaveworks.breezy.hr/p/92826768709901-technical-services-engineer-devops-sre/apply"
 timestamp: 1615852800000
 hashtags: "#kubernetes,#golang,#operations,#management,#css,#linux,#aws,#office,#German,#French"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/weaveworks"
 companyWebsite: "http://weave.works/"
 summary: "If you have extensive open-source work experience within a cloud native practice, Weaveworks is looking for someone with your knowledge."

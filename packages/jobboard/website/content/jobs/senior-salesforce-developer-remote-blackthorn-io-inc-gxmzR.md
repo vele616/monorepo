@@ -7,7 +7,7 @@ url: "https://blackthorn-io-inc.breezy.hr/p/2f4a793eeedf-senior-salesforce-devel
 applyUrl: "https://blackthorn-io-inc.breezy.hr/p/2f4a793eeedf-senior-salesforce-developer-remote/apply"
 timestamp: 1616025600000
 hashtags: "#management,#salesforce,#optimization,#ui/ux,#git,#operations,#scrum,#office,#optimization,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/blackthorn-io-inc"
 companyWebsite: "https://blackthorn.io/"
 summary: "If you have 5+ years as a developer across multiple programming languages, Blackthorn has a job opening for a senior salesforce developer"

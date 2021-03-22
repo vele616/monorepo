@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/collabora/b88e8816-0345-4801-9592-dae07725e756"
 applyUrl: "https://jobs.lever.co/collabora/b88e8816-0345-4801-9592-dae07725e756/apply"
 timestamp: 1614211200000
 hashtags: "#debian,#linux,#flatpak,#management,#marketing,#ui/ux,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/collabora"
 companyWebsite: "http://www.collabora.com/"
 summary: "If you have debian experience with tangible track record, consider applying to Collabora's job post for a new Debian System Integration Developer."

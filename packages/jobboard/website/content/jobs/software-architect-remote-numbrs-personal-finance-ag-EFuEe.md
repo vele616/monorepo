@@ -7,7 +7,7 @@ url: "http://numbrs.applytojob.com/apply/Kcurhi77SI/Software-Architect-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/Kcurhi77SI/Software-Architect-Remote"
 timestamp: 1616025600000
 hashtags: "#java,#kubernetes,#operations,#ui/ux,#management,#office,#android,#ios,#docker,#aws"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs is looking for a Software Architect that has a minimum of 5 years experience architecting, developing, evolving and troubleshooting large scale distributed systems."
