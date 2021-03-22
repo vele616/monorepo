@@ -13,6 +13,7 @@ companyWebsite: "https://quidco.bamboohr.com/jobs/"
 summary: "Quidco is searching for a SEO Content Manager that has 3+ years of writing, editing and publishing high quality content."
 summaryBackup: "Excited about #content, #management, #jira? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 SEO Content Manager - 6 Month Contract

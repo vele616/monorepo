@@ -13,6 +13,7 @@ companyWebsite: "https://www.manual.co/"
 summary: "If you have 3+ years experience with React, JavaScript, HTML, CSS as well as libraries and frameworks like LESS, SASS, Grunt, and jQuery, Manual has a job opening for a front end engineer"
 summaryBackup: "Manual is looking for a front end engineer that has experience in: #reactjs, #php, #javascript."
 featured: 3
+archived: "true"
 ---
 
 ## Job description
