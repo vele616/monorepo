@@ -6,7 +6,7 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/5b7ef66e-88e7-438f-b8ec-66ef4fbf9dba"
 applyUrl: "https://jobs.lever.co/pathrise/5b7ef66e-88e7-438f-b8ec-66ef4fbf9dba/apply"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#marketing,#analytics,#management,#office,#operations,#asana,#jira,#analysis,#optimization"
+hashtags: "#analytics,#management,#asana,#office,#operations,#ui/ux,#marketing,#jira,#analysis,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
