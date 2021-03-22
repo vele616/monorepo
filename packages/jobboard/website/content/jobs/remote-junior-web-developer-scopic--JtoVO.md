@@ -1,5 +1,5 @@
 ---
-title: "Remote Junior Web Developer"
+title: "Junior Web Developer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic intends to hire a new remote junior web developer. If you have 1+ year of software development experience, consider applying."
 summaryBackup: "Excited about #html, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 Scopic Software is seeking a skilled Junior Web Developer to join our team of 250+ professionals across 40countries.
