@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/e3798343-0709-4e4c-83f2-967924821541"
 applyUrl: "https://jobs.lever.co/pathrise/e3798343-0709-4e4c-83f2-967924821541/apply"
 timestamp: 1616371200000
-hashtags: "#branding,#ui/ux,#git,#management,#marketing,#operations,#asana,#scrum"
+hashtags: "#management,#HR,#branding,#ui/ux,#git,#marketing,#operations,#asana,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "Pathrise intends to hire a new career mentor. If you have 3+ years of experience in career coaching at an organization or recruiting in the tech space, consider applying."
 summaryBackup: "Love #branding, #ui/ux, #git? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 **What is Pathrise?**
