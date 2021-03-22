@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/82fb05e7-9c75-4e12-8208-a07f7c74982d"
 applyUrl: "https://jobs.lever.co/pathrise/82fb05e7-9c75-4e12-8208-a07f7c74982d/apply"
 timestamp: 1616371200000
-hashtags: "#sales,#management,#operations"
+hashtags: "#HR,#management,#operations,#sales"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Excited about experience in: #sales, #management, #operations? Check out this job post!"
+summary: "Excited about experience in: #HR, #management, #operations? Check out this job post!"
 summaryBackup: "To apply as a software engineering admissions specialist at Pathrise, you preferably need to have some knowledge of: #sales, #management, #operations."
-featured: 20
+featured: 15
 ---
 
 **What is Pathrise?**
