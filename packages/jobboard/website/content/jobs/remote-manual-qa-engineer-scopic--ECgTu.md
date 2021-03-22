@@ -1,23 +1,23 @@
 ---
-title: "Remote Manual QA Engineer"
+title: "Manual QA Engineer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0qgvj/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0qgvj/?apply=true"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#jira,#analysis,#English"
+hashtags: "#qa,#jira,#analysis,#ui/ux,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
-summary: "To apply as a remote manual qa engineer at Scopic, you preferably need to have 3+ years of relevant QA experience."
+summary: "To apply as a Manual QA Engineer at Scopic, you preferably need to have 3+ years of relevant QA experience."
 summaryBackup: "Excited about #ui/ux, #jira, #analysis? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
-Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemoteManual QAby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
+Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote Manual QA by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
 
-At Scopic, the virtual world is our home so this is afull-timeremote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
+At Scopic, the virtual world is our home so this is a full-time remote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
 
 ## What your day-to-day will look like:
 
@@ -38,7 +38,7 @@ At Scopic, the virtual world is our home so this is afull-timeremote position. O
 *   Experience designing and executing various types of testing methodologies (e.g. Smoke, Functional, Acceptance, and Regression)
 *   Experience defining bugs/defects
 *   Experience in tests automation, mainly API testing, is considered a plus
-*   Attentionto detail
+*   Attention to detail
 *   Strong critical analysis skills, ability to think clearly and rationally, understanding the logical connection between ideas
 *   Strong written and verbal communication skills in English
 
