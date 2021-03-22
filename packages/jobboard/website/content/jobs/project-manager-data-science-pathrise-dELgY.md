@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/b3cec5ae-5732-4415-a194-2fd514740c4c"
 applyUrl: "https://jobs.lever.co/pathrise/b3cec5ae-5732-4415-a194-2fd514740c4c/apply"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#management,#marketing,#analytics,#operations,#asana,#jira,#analysis,#office,#monitoring"
+hashtags: "#management,#analytics,#operations,#asana,#jira,#analysis,#marketing,#ui/ux,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Pathrise intends to hire a new project manager. If you have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, consider applying."
+summary: "Pathrise intends to hire a new Project Manager. If you have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, consider applying."
 summaryBackup: "Excited about #ui/ux, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 **What is Pathrise?**
@@ -43,7 +43,7 @@ You can contribute to Pathrises' already proven success, with a 98% placement ra
 
 *   3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space 
 *   A special combination of grit and tenacity where individual contribution is high leverage short-term, but making thoughtful decisions to scale and delegate long-term
-*   Experience leading an internal team through multiple sprint cyclesExcellent project management, communication, and organizational skills
+*   Experience leading an internal team through multiple sprint cycles Excellent project management, communication, and organizational skills
 *   Experience with at least one project management tool (Asana, Trello, Jira, etc..)
 *   Highly adaptable, resilient, and calm under pressure given change and context switching is constant
 
