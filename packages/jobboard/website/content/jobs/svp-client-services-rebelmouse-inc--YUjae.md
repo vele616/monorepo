@@ -1,27 +1,27 @@
 ---
-title: "SVP, Client Services"
+title: "SVP of Client Services"
 location: "Remote job"
 host: "https://careers.rebelmouse.com/"
 companyName: "RebelMouse, Inc."
 url: "https://careers.rebelmouse.com/o/svp-client-services"
 applyUrl: "https://careers.rebelmouse.com/o/svp-client-services/c/new"
 timestamp: 1616371200000
-hashtags: "#management,#sales,#css,#ui/ux,#marketing,#translation,#office,#optimization"
+hashtags: "#management,#analysis,#optimization,#sales,#css,#ui/ux,#marketing,#translation,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
-summary: "Interested in new opportunities and have 5+ years of experience leading a client-facing team of an agency? RebelMouse, Inc. has a job opening for a svp."
+summary: "Interested in new opportunities and have 5+ years of experience leading a client-facing team of an agency? RebelMouse has a job opening for a SVP of Client Services."
 summaryBackup: "To apply as a svp at RebelMouse, Inc., you preferably need to have some knowledge of: #management, #sales, #css."
-featured: 20
+featured: 12
 ---
 
 ## Job description
 
-RebelMouse serves over 140 million unique visitors monthly. Considering our rapidly growing business and the fast pace of the media industry, we're expanding our team to ensure our clients are getting the best in class solutions.This is why we are opening up a position for a leadership position as SVP of Client Services.
+RebelMouse serves over 140 million unique visitors monthly. Considering our rapidly growing business and the fast pace of the media industry, we're expanding our team to ensure our clients are getting the best in class solutions. This is why we are opening up a position for a leadership position as SVP of Client Services.
 
 ## Job requirements
 
-##### **Requirements**
+**Requirements**
 
 *   5+ years as a manager and team leader working with creative developers, designers, project managers and high profile customers.
 *   5+ years of experience leading a client-facing team of an agency
