@@ -1,5 +1,5 @@
 ---
-title: "Remote Ruby on Rails Developer"
+title: "Ruby on Rails Developer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
 summary: "If you have 3+ years professional experience in software development, Scopic is looking for someone with your skillset."
 summaryBackup: "Love #javascript, #rails, #rubylang? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemoteRuby on RailsDeveloperby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
