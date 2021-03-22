@@ -1,16 +1,16 @@
 ---
-title: "Operations Associate (Part Time)"
+title: "Operations Associate"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/3272486a-3ec8-4ee0-a4c1-5991daa9b561"
 applyUrl: "https://jobs.lever.co/pathrise/3272486a-3ec8-4ee0-a4c1-5991daa9b561/apply"
 timestamp: 1616371200000
-hashtags: "#operations,#internship,#socialmedia,#asana,#finance,#optimization"
+hashtags: "#operations,#asana,#finance,#socialmedia,#internship,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "If you have 1-2 years experience, Pathrise has a job opening for an operations associate"
+summary: "If you have 1+ year of operations, administrative, executive assistant or customer support experience, Pathrise has a job opening for an operations associate"
 summaryBackup: "Excited about #operations, #internship, #socialmedia? Check out this job post!"
 featured: 20
 ---
@@ -29,7 +29,7 @@ We seek to uplift job seekers in their careers and help them fulfill their hopes
 
 We are looking for a part-time **Operations Associate** with 1-2 years experience (open to different types of experience, internship, applicable coursework and/or work experience) to support our company in areas of Internal Operations and People Operations. One of the most important skills for this role will be the ability to effectively prioritize your workload and triage requests accordingly. This role is a great fit for candidates looking for a fast-paced work environment with opportunities to develop a strong operations skillset.
 
-**Commitment****:** 15-20 hours/week
+**Commitment:** 15-20 hours/week
 
 **Role type:** Contract to hire
 
