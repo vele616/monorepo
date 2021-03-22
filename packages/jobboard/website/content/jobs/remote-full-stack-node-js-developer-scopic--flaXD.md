@@ -1,5 +1,5 @@
 ---
-title: "Remote Full-stack Node.js Developer"
+title: "Full-stack Node.js Developer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
@@ -10,9 +10,9 @@ hashtags: "#html,#reactjs,#angular,#vuejs,#css,#office,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
-summary: "Interested in new opportunities and have 2+ years of software development experience? Scopic has a job opening for a remote full-stack node.js developer."
+summary: "Interested in new opportunities and have 2+ years of software development experience? Scopic has a job opening for a full-stack node.js developer."
 summaryBackup: "Scopic is looking for a remote full-stack node.js developer that has experience in: #html, #reactjs, #angular."
-featured: 20
+featured: 1
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemote Full-Stack Developerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
