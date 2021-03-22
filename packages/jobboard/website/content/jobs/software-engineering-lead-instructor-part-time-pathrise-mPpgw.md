@@ -1,12 +1,12 @@
 ---
-title: "Software Engineering Lead Instructor (Part Time)"
+title: "Software Engineering Lead Instructor"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/ef88d8f6-f02d-469a-b719-22212f07bcff"
 applyUrl: "https://jobs.lever.co/pathrise/ef88d8f6-f02d-469a-b719-22212f07bcff/apply"
 timestamp: 1616371200000
-hashtags: "#windows,#aws,#content,#ui/ux"
+hashtags: "#frontend,#backend,#content,#windows,#aws,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
