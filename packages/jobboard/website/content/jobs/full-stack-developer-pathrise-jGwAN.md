@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/5208f4c1-9a08-4356-83f0-db5ca1f6b40e"
 applyUrl: "https://jobs.lever.co/pathrise/5208f4c1-9a08-4356-83f0-db5ca1f6b40e/apply"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#javascript,#reactjs,#rails,#rubylang,#heroku,#management,#postgresql"
+hashtags: "#javascript,#reactjs,#postgresql,#rails,#rubylang,#heroku,#ui/ux,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "To apply as a full stack developer at Pathrise, you preferably need to have 2+ years of full-time software engineering experience."
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 **What is Pathrise?**
@@ -37,7 +37,7 @@ We’re looking to grow our product and engineering team to help build the next 
 *   You believe the best product is the one that helps users accomplish their goals while growing the business.
 *   You are looking to grow, take on new challenges, and constantly learn. You're excited by the potential of leading a team.
 *   You are driven to create life-changing and lasting impact.
-*   You enjoy building equitable and inclusive solutions and champion the voice of [c](http://customers.you/)ustomers.
+*   You enjoy building equitable and inclusive solutions and champion the voice of customers.
 *   You're able and willing to wear multiple hats. You're comfortable in a fast-paced startup environment and enjoy taking ownership.
 
 ## What You'll Do
