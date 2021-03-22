@@ -15,9 +15,9 @@ summaryBackup: "To apply as a remote software project manager at Scopic, you pre
 featured: 10
 ---
 
-Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemote Software Project Managerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
+Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote Software Project Manager by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
 
-At Scopic, the virtual world is our home so this is afull-timeremote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
+At Scopic, the virtual world is our home so this is a full-time remote position. Only apply if you’re prepared for the zero-hour commute and the thought of collaborating with colleagues from around the globe excites you!
 
 The skills and traits we’re looking for:
 
@@ -25,7 +25,7 @@ The skills and traits we’re looking for:
 *   Strong English reading, writing, and speaking skills
 *   Very good communication skills, with the ability to work directly with clients and development teams
 *   Ability to read and write software application specifications
-*   A good sense of software user interface design andabilityto create quick wireframe mockups
+*   A good sense of software user interface design and ability to create quick wireframe mockups
 *   Knowledge of the software quality assurance process
 *   Experience with project management software tools (e.g., scheduling software, and bug trackers)
 *   Strong organizational skills and attention to detail
