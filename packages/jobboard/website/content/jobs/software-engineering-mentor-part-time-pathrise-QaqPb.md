@@ -1,18 +1,18 @@
 ---
-title: "Software Engineering Mentor (Part Time)"
+title: "Software Engineering Mentor"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/fcc5b33f-52a3-4650-806f-e0aec329c297"
 applyUrl: "https://jobs.lever.co/pathrise/fcc5b33f-52a3-4650-806f-e0aec329c297/apply"
 timestamp: 1616371200000
-hashtags: "#windows,#aws,#content,#ui/ux"
+hashtags: "#backend,#frontend,#content,#windows,#aws,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "If you have 3 years of software engineering experience, Pathrise has a job opening for a software engineering mentor"
 summaryBackup: "To apply as a software engineering mentor at Pathrise, you preferably need to have some knowledge of: #windows, #aws, #content."
-featured: 20
+featured: 9
 ---
 
 **What is Pathrise?**
