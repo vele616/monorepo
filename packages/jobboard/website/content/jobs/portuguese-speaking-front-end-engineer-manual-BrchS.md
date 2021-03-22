@@ -13,6 +13,7 @@ companyWebsite: "https://www.manual.co/"
 summary: "Manual intends to hire a new Portuguese speaking Front End Engineer. If you have 2+ years experience with React, Javascript or Typescript, HTML and CSS, consider applying."
 summaryBackup: "To apply as a portuguese speaking front end engineer at Manual, you preferably need to have some knowledge of: #javascript, #reactjs, #typescript."
 featured: 5
+archived: "true"
 ---
 
 ## Job description
