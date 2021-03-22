@@ -1,18 +1,18 @@
 ---
-title: "Program Manager, Product"
+title: "Program Manager"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/9f94ba66-3441-489f-9202-b2d11341217a"
 applyUrl: "https://jobs.lever.co/pathrise/9f94ba66-3441-489f-9202-b2d11341217a/apply"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#management,#marketing,#operations,#analytics,#office,#asana,#jira,#analysis,#optimization"
+hashtags: "#management,#operations,#analytics,#marketing,#office,#asana,#jira,#analysis,#ui/ux,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "Pathrise intends to hire a new program manager. If you have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, consider applying."
 summaryBackup: "Pathrise is looking for a program manager that has experience in: #ui/ux, #management, #marketing."
-featured: 20
+featured: 13
 ---
 
 **What is Pathrise?**
