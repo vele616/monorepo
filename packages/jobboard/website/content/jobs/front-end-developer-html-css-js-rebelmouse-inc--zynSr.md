@@ -1,18 +1,18 @@
 ---
-title: "Front-end Developer (HTML, CSS, JS)"
+title: "Front-end Developer"
 location: "Remote job"
 host: "https://careers.rebelmouse.com/"
 companyName: "RebelMouse, Inc."
 url: "https://careers.rebelmouse.com/o/frontend-developer-html-css-js"
 applyUrl: "https://careers.rebelmouse.com/o/frontend-developer-html-css-js/c/new"
 timestamp: 1616371200000
-hashtags: "#ui/ux,#css,#html,#javascript,#English"
+hashtags: "#css,#html,#javascript,#ui/ux,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/rebelmouse-inc-"
 companyWebsite: "https://www.rebelmouse.com/"
-summary: "RebelMouse, Inc. intends to hire a new front-end developer. If you have 5+ years of web development, consider applying."
+summary: "RebelMouse intends to hire a new front-end developer. If you have 1,5+ years of web development, consider applying."
 summaryBackup: "To apply as a front-end developer at RebelMouse, Inc., you preferably need to have some knowledge of: #ui/ux, #css, #html."
-featured: 20
+featured: 8
 ---
 
 ## Job description
