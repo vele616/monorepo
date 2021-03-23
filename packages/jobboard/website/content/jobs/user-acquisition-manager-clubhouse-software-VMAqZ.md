@@ -6,13 +6,13 @@ companyName: "Clubhouse Software"
 url: "https://boards.greenhouse.io/clubhousesoftware/jobs/5100108002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/5100108002#app"
 timestamp: 1616457600000
-hashtags: "#marketing,#analysis,#ui/ux,#management,#optimization,#socialmedia"
+hashtags: "#marketing,#analysis,#management,#optimization,#ui/ux,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
-summary: "To apply as an user acquisition manager at Clubhouse Software, you preferably need to have experience with developer tools and the project management space is a major bonus."
+summary: "To apply as an User Acquisition Manager at Clubhouse Software, you preferably need to have experience with developer tools and the project management space is a major bonus."
 summaryBackup: "Clubhouse Software is looking for an user acquisition manager that has experience in: #marketing, #analysis, #ui/ux."
-featured: 20
+featured: 8
 ---
 
 Clubhouse is a venture-backed Series B startup that’s building software to make software development teams more efficient and collaborative. Thousands of the fastest-growing organizations use Clubhouse to plan and build their software, including Nubank, Glossier, Dataiku, Scale AI, FullStory, and LaunchDarkly. Greylock, Lerer Hippeau, RRE, and Battery Ventures are investors in Clubhouse. 
