@@ -10,9 +10,9 @@ hashtags: "#php,#javascript,#wordpress,#content,#ui/ux,#management,#css,#html,#g
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up is looking for a web engineer that has experience working for demanding or enterprise."
+summary: "10up is looking for a Web Engineer that has experience working for demanding or enterprise."
 summaryBackup: "To apply as a web engineer at 10up, you preferably need to have some knowledge of: #php, #javascript, #wordpress."
-featured: 20
+featured: 5
 ---
 
 The Web Engineer develops and maintains client projects as well as 10up external and internal projects. Web Engineers work primarily with PHP and JavaScript. They are comfortable writing server and client side code that is scalable and performant.
@@ -47,5 +47,3 @@ The Web Engineer develops and maintains client projects as well as 10up external
 *   Remote working experience appreciated.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
