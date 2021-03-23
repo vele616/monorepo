@@ -6,20 +6,20 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/fa0ff696-67d9-4f95-9992-217e6fb7299c"
 applyUrl: "https://jobs.lever.co/10up-2/fa0ff696-67d9-4f95-9992-217e6fb7299c/apply"
 timestamp: 1616457600000
-hashtags: "#ui/ux,#content,#management,#css,#html,#windows,#wordpress,#branding,#photoshop,#figma"
+hashtags: "#ui/ux,#content,#wordpress,#management,#css,#html,#windows,#branding,#photoshop,#figma"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
 summary: "10up is looking for a senior visual designer that has 5+ years experience with responsive web and mobile design."
 summaryBackup: "Excited about #ui/ux, #content, #management? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 10up is an award-winning full-service digital agency with a customer-centric service model and unrivaled leadership in open platforms and tools for digital makers and content creators. 10up’s services include user experience and interactive design, content strategy and creation, website and app engineering, SEO and online revenue strategy, and managed services. Their 200+ distributed team members provide end-to-end digital project expertise.
 
 10up has a diverse client roster that includes Fortune 500 companies, influential content publishers, innovative startups, and impactful nonprofits. They’ve worked with some of the biggest names in the industry, such as Facebook, Google, Microsoft, Starbucks, ESPN, The New York Times Co., and Walmart.
 
-About This Role
+## About This Role
 
 Curiosity is your driving force, with empathy as a foundation. You deeply understand client business objectives. Armed with that understanding, you advocate for audiences using design: through beautiful interfaces, interactive digital experiences, and the elusive “wow” factor. Your role's primary focus is website design, but we also offer stretch opportunities in designing apps, systems, whitepapers, presentations, and more. You are a proactive problem solver and seek to share learnings with the rest of the team. You skillfully translate design language for a variety of stakeholders and team members. You are able to bring those who may not quite "get" design to your side, because you can pivot and prioritize output based on the unique needs of the project. At the end of the day, you will produce engaging visuals that have purpose and resonate with a variety of audiences. 
 
