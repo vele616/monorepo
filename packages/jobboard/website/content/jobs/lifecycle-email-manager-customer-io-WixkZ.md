@@ -6,16 +6,16 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/2989743"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/2989743#app"
 timestamp: 1616457600000
-hashtags: "#marketing,#spring,#css,#html,#content,#branding,#management,#ui/ux,#photoshop,#translation"
+hashtags: "#marketing,#management,#analysis,#spring,#css,#html,#content,#branding,#ui/ux,#photoshop,#translation"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
-summary: "Customer.io is looking for a lifecycle email manager that has 2,000 USD reimbursement per year to use on conferences, books, classes, or workshops."
+summary: "Customer.io is looking for a lifecycle email manager that has experience in CRM/Lifecycle campaign management or marketing content creation."
 summaryBackup: "Love #marketing, #spring, #css? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
-Hi, I'm Alex, Director of Marketing at [Customer.io](customer.io)!
+Hi, I'm Alex, Director of Marketing at [Customer.io](https://customer.io)!
 
 I'm looking for a creative and collaborative Lifecycle Email Manager to join the team. Reporting to the Director of Marketing, the individual will help us run and develop new campaigns driving the acquisition, conversion and retention of Customer.io subscribers, promote our product features, and serve as a channel expert for the wider company. As the Lifecycle Email Manager at Customer.io ...
 
