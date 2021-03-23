@@ -10,7 +10,7 @@ hashtags: "#management,#wordpress,#analysis,#content,#ui/ux,#php,#macos,#crm,#op
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "If you have preferable experience with web content management systems, 10up is looking for someone with your skillset."
+summary: "If you have experience with web content management systems, 10up is looking for someone with your skillset."
 summaryBackup: "Love #management, #wordpress, #content? Check out this job post!"
 featured: 11
 ---
