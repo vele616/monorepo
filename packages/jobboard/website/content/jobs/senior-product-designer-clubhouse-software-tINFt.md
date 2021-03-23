@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "If you have 5+ years professional experience designing web or mobile applications, Clubhouse Software is looking for someone with your skillset."
 summaryBackup: "To apply as a senior product designer at Clubhouse Software, you preferably need to have some knowledge of: #ui/ux, #management, #css."
 featured: 20
+archived: "true"
 ---
 
 Based in New York, Clubhouse is the collaborative home for modern software teams. Thousands of fast-growing organizations use Clubhouse to plan and build software, including Glitch, Nubank, Dataiku, Scale AI, FullStory, and LaunchDarkly.
