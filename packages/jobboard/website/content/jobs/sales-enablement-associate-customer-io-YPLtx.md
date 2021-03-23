@@ -10,7 +10,7 @@ hashtags: "#sales,#management,#content,#marketing,#spring,#analytics,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
-summary: "To apply as a sales enablement associate at Customer.io, you preferably need to have preferably has a background in marketing automation or has work experience with a similar platform."
+summary: "Customer.io is looking for a Sales Enablement Associate that has experience in: #sales, #management, #content."
 summaryBackup: "Customer.io is looking for a sales enablement associate that has experience in: #sales, #management, #content."
 featured: 1
 ---
