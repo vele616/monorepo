@@ -1,18 +1,18 @@
 ---
-title: "Product Manager (Remote)"
+title: "Product Manager"
 location: "Remote from anywhere"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5136484002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5136484002#app"
 timestamp: 1616457600000
-hashtags: "#ui/ux,#management,#operations,#windows,#android,#scrum,#office"
+hashtags: "#management,#operations,#android,#scrum,#windows,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "If you have you have experience in mobile product management, partnering with engineers and designers, and leading product prioritization, consider applying to Current Mobile's job post for a new product manager."
+summary: "If you have experience in mobile product management, partnering with engineers and designers, and leading product prioritization, consider applying to Current Mobile's job post for a new Product Manager."
 summaryBackup: "Excited about #ui/ux, #management, #operations? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 ## What is Current?
