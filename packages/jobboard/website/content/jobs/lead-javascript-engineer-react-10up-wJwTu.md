@@ -1,5 +1,5 @@
 ---
-title: "Lead JavaScript Engineer: React"
+title: "Lead JavaScript Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/10up-2/?location=Remote"
 companyName: "10up"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
 summary: "10up is looking for a lead javascript engineer: react that has at least two years experience building scalable web."
 summaryBackup: "To apply as a lead javascript engineer: react at 10up, you preferably need to have some knowledge of: #javascript, #reactjs, #nodejs."
-featured: 20
+featured: 3
 ---
 
 10up Lead JavaScript Engineers: React actively develop and maintain 10up external and internal projects with their knowledge of modern JavaScript and React. They are experienced in crafting complex web applications using the latest JavaScript technologies. They are technically proficient enough to solve hard problems independently, but also understand that collaborative solutions and utilizing the team can often help achieve a better end goal for the client. They’re willing to ask for and offer help to mentor others and elevate teammates to achieve the best solution. They also investigate and champion the adoption of new frontend technologies.
@@ -47,5 +47,3 @@ featured: 20
 *   Understanding of ad implementations in a responsive and JavaScript application environment.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
