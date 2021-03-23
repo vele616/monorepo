@@ -6,11 +6,11 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/57e5ab3b-a5e8-4a0d-9ac9-701a6fabe4da"
 applyUrl: "https://jobs.lever.co/10up-2/57e5ab3b-a5e8-4a0d-9ac9-701a6fabe4da/apply"
 timestamp: 1616457600000
-hashtags: "#ui/ux,#content,#management,#operations,#office,#wordpress,#scrum,#translation,#optimization,#finance"
+hashtags: "#management,#operations,#scrum,#office,#wordpress,#translation,#optimization,#ui/ux,#content,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "If you have 3+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment, 10up has a job opening for a team lead"
+summary: "If you have 3+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment, 10up has a job opening for a Team Lead"
 summaryBackup: "10up is looking for a team lead that has experience in: #ui/ux, #content, #management."
 featured: 20
 ---
