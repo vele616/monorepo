@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/c70b28cc-e732-4a52-8783-902ef61661d3"
 applyUrl: "https://jobs.lever.co/10up-2/c70b28cc-e732-4a52-8783-902ef61661d3/apply"
 timestamp: 1616457600000
-hashtags: "#linux,#php,#management,#reactjs,#wordpress,#ui/ux,#content,#ansible,#puppet,#chef"
+hashtags: "#linux,#ansible,#puppet,#php,#management,#reactjs,#wordpress,#ui/ux,#content,#chef"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "If you have comfort with Linux shell scripting and command line experience, consider applying to 10up's job post for a new systems engineer."
+summary: "If you have experience managing the day-to-day technical needs of a webserver, including scaling, security, and performance, consider applying to 10up's job post for a new Systems Engineer."
 summaryBackup: "To apply as a systems engineer at 10up, you preferably need to have some knowledge of: #linux, #php, #management."
-featured: 20
+featured: 15
 ---
 
 The Systems Engineer provides expertise to 10up teams in all topics related to hosting and server infrastructure. Systems Engineers work primarily at the Linux command line, but must consider the web environment as a whole, including DNS, CDNs, WAFs, and hosted cloud appliances. They are comfortable setting up a Linux server from scratch and are effective at troubleshooting WordPress issues in collaboration with Web Engineers.
@@ -51,5 +51,3 @@ The Systems Engineer provides expertise to 10up teams in all topics related to h
 *   Remote working experience appreciated.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
