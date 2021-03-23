@@ -1,18 +1,18 @@
 ---
-title: "Site Reliability Engineer (Remote Position)"
+title: "Site Reliability Engineer"
 location: "Rennes, FR - Remote OK"
 host: "https://telestax.breezy.hr/"
 companyName: "telestax"
 url: "https://telestax.breezy.hr/p/48a70a4fab7d01-site-reliability-engineer-remote-position"
 applyUrl: "https://telestax.breezy.hr/p/48a70a4fab7d01-site-reliability-engineer-remote-position/apply"
 timestamp: 1616457600000
-hashtags: "#ui/ux,#operations,#spring,#management,#python,#java,#aws,#ansible,#terraform,#monitoring"
+hashtags: "#aws,#ansible,#terraform,#ui/ux,#operations,#spring,#management,#python,#java,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/telestax"
 companyWebsite: "https://www.telestax.com/"
 summary: "Telestax intends to hire a new site reliability engineer. If you have experience with Infrastructure as a Code such as Terraform, Ansible, consider applying."
 summaryBackup: "To apply as a site reliability engineer at Telestax, you preferably need to have some knowledge of: #ui/ux, #operations, #spring."
-featured: 20
+featured: 9
 ---
 
 Are you looking to join a highly ambitious international technology startup and work on cutting edge technology? Do you want to build a career in technology but love to solve real life communications problems? Are you looking for a company that will invest time in your development, support your professional growth and listen to your ideas? If the answer is yes, we urge you to apply for a position with Telestax!
