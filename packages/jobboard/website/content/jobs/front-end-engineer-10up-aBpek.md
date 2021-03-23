@@ -10,9 +10,9 @@ hashtags: "#javascript,#ui/ux,#css,#html,#php,#reactjs,#content,#management,#wor
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up intends to hire a new front end engineer. If you have years experience with front, consider applying."
+summary: "10up intends to hire a new Front End Engineer. If you have at least 3 years of experience with front-end engineering, web development, web engineering, or a similar field, consider applying."
 summaryBackup: "Excited about #javascript, #ui/ux, #css? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 The UI Engineer actively develops and maintains 10up external and internal projects using CSS , HTML, and JavaScript. They are comfortable writing maintainable, accessible, and performant HTML, CSS, and JavaScript. They are able to discuss project requirements with clients and ask applicable questions to flesh out the work.
@@ -59,5 +59,3 @@ The UI Engineer actively develops and maintains 10up external and internal proje
 *   Ability to create and maintain React.js components.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
