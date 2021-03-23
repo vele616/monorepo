@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/3a2911e0-e40d-447d-ae09-b7a5b54d4d9b"
 applyUrl: "https://jobs.lever.co/10up-2/3a2911e0-e40d-447d-ae09-b7a5b54d4d9b/apply"
 timestamp: 1616457600000
-hashtags: "#management,#ui/ux,#wordpress,#content,#office,#analysis,#monitoring,#optimization"
+hashtags: "#management,#analysis,#wordpress,#content,#ui/ux,#office,#monitoring,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "Interested in new opportunities and have experience with personnel management, or at a position in career growth where you are ready to take on personnel management responsibilities? 10up has a job opening for an associate director."
+summary: "Interested in new opportunities and have experience with personnel management, or at a position in career growth where you are ready to take on personnel management responsibilities? 10up has a job opening for an Associate Director."
 summaryBackup: "10up is looking for an associate director that has experience in: #management, #ui/ux, #wordpress."
-featured: 20
+featured: 13
 ---
 
 Account Strategy Directors are responsible for owning and driving strategic partnerships for a set of diverse, cross-industry client portfolios or a sizable pillar account spanning multiple departments and work streams. Directors work closely with day-to-day Account Strategists and production teams to foster client success and growth through creative thinking and outstanding service.
