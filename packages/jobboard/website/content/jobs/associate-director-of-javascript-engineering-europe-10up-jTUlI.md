@@ -1,18 +1,18 @@
 ---
-title: "Associate Director of JavaScript Engineering (Europe)"
+title: "Associate Director of JavaScript Engineering"
 location: "Remote"
 host: "https://jobs.lever.co/10up-2/?location=Remote"
 companyName: "10up"
 url: "https://jobs.lever.co/10up-2/7bf59821-a443-42c5-8683-5dde37a934bb"
 applyUrl: "https://jobs.lever.co/10up-2/7bf59821-a443-42c5-8683-5dde37a934bb/apply"
 timestamp: 1616457600000
-hashtags: "#javascript,#reactjs,#php,#css,#html,#wordpress,#content,#ui/ux,#git,#management"
+hashtags: "#javascript,#reactjs,#wordpress,#php,#css,#html,#content,#ui/ux,#git,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up intends to hire a new associate director of javascript engineering. If you have at least four years experience building scalable web, consider applying."
+summary: "10up intends to hire a new Associate Director of JavaScript Engineering. If you have at least four years experience building scalable web-based JavaScript applications that work with and consume API data, consider applying."
 summaryBackup: "To apply as an associate director of javascript engineering at 10up, you preferably need to have some knowledge of: #javascript, #reactjs, #php."
-featured: 20
+featured: 16
 ---
 
 The Associate Director of JavaScript Engineering oversees and ensures the success of advanced JavaScript projects and JavaScript Engineers across projects in the Europe region. This person will serve as the lead for large JavaScript projects for enterprise customers delivering high quality customer service, team leadership, and code. Working in coordination with engineering, accounts, and client delivery leadership, the Associate Director of JavaScript Engineering will work to identify and surface personnel deficiencies and opportunities for engineers to grow their skillsets, serving as a coach and mentor as needed. Additionally, this person will help drive JavaScript best practices, processes, and tooling at 10up.
@@ -30,7 +30,7 @@ The Associate Director of JavaScript Engineering oversees and ensures the succes
 *   Must be located in a Europe-centric time zone.
 *   At least two years in an engineering leadership role managing teams and mentoring other engineers.
 *   At least four years experience building scalable web-based JavaScript applications that work with and consume API data.
-*   Experience developing high performant web-based applications using ES6+, React, and [Node.js](http://Node.js).
+*   Experience developing high performant web-based applications using ES6+, React, and Node.js.
 *   Expert communicator both with clients and team members.
 *   Experience architecting complex React applications with a deep understanding of the lower-level concepts behind state and data management, JSX and tooling in general.
 *   Experience with React Native.
