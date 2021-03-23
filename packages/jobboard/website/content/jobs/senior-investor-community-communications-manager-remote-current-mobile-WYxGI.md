@@ -1,5 +1,5 @@
 ---
-title: "Senior Investor & Community Communications Manager (Remote)"
+title: "Senior Investor & Community Communications Manager"
 location: "Remote from anywhere"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
@@ -10,16 +10,16 @@ hashtags: "#management,#marketing,#content,#branding,#ui/ux,#operations,#socialm
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "To apply as a senior investor & community communications manager at Current Mobile, you preferably need to have some knowledge of: experience in: #management, #marketing, #content."
+summary: "To apply as a Senior Investor & Community Communications Manager at Current Mobile, you preferably need to have some knowledge of: #management, #marketing, #content."
 summaryBackup: "To apply as a senior investor & community communications manager at Current Mobile, you preferably need to have some knowledge of: #management, #marketing, #content."
-featured: 20
+featured: 14
 ---
 
 ## What is Current?
 
 _Our mission as a company is to enable budget-conscious consumers to earn additional passive income from their everyday habits._ We have millions of monthly users and have achieved over 2,500% revenue growth in 2020. Our users earn millions of dollars a year in rewards by using our products.
 
-**[Current Mobile Inc](currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
+**[Current Mobile Inc](https://currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
 
 Our flagship products, **[Current Rewards](https://play.google.com/store/apps/details?id=us.current.android&hl=en_US&gl=US)**, and **[Mode Smartphone](http://modephone.com/)** are hugely popular with millions of users around the world. It is our goal to provide a free Mode phone to every income-conscious consumer on the planet, enabling them to earn up to $100 each month while passively using their device. Our common purpose is to bring financial joy to the lives of our user base.
 
@@ -36,7 +36,9 @@ Why Current?
 
 ## Sr. Investor & Community Communications Manager
 
-## Role and ResponsibilitiesWe are looking for a leader to not only shape, but build the community relationship function of Current as we embark on the next phase of our incredible growth. As we continue to scale, how should we evolve our communication strategy for our community of ecosystem partners, investors and regulators? How should it impact the product and marketing strategy? How should we communicate financial and product metrics to stimulate meaningful community engagement? This is a fantastic opportunity to join a well funded, rapidly growing company in a high-profile role that will have a direct impact on strategic communications and decision making at Current. The individual will bring experience, energy, and insight as they work with internal and external stakeholders to build communication strategies and outreach programs to ensure key business considerations are well understood, clearly communicated to the community, and feedback loops are closely monitored. The individual will bring experience, energy, and insight as they work with the leadership team and across all departments and product lines to design highly effective community communications, strategies and programs.
+## Role and Responsibilities
+
+We are looking for a leader to not only shape, but build the community relationship function of Current as we embark on the next phase of our incredible growth. As we continue to scale, how should we evolve our communication strategy for our community of ecosystem partners, investors and regulators? How should it impact the product and marketing strategy? How should we communicate financial and product metrics to stimulate meaningful community engagement? This is a fantastic opportunity to join a well funded, rapidly growing company in a high-profile role that will have a direct impact on strategic communications and decision making at Current. The individual will bring experience, energy, and insight as they work with internal and external stakeholders to build communication strategies and outreach programs to ensure key business considerations are well understood, clearly communicated to the community, and feedback loops are closely monitored. The individual will bring experience, energy, and insight as they work with the leadership team and across all departments and product lines to design highly effective community communications, strategies and programs.
 
 ## We'd Love To Talk With You If…
 
