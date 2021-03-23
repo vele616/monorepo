@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Expert - Americas timezones"
+title: "Customer Support Expert"
 location: "Remote Position, California"
 host: "https://mfi.bamboohr.com/jobs/"
 companyName: "Maharishi Foundation International"
 url: "https://mfi.bamboohr.com/jobs/view.php?id=40&source=other"
 applyUrl: "https://mfi.bamboohr.com/jobs/view.php?id=40&source=other"
 timestamp: 1616457600000
-hashtags: "#management,#marketing,#css,#crm,#office,#English"
+hashtags: "#customersupport,#management,#marketing,#css,#crm,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/maharishi-foundation-international"
 companyWebsite: "https://mfi.bamboohr.com/jobs/"
-summary: "To apply as a customer support expert at Maharishi Foundation International, you preferably need to have 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers."
+summary: "To apply as a Customer Support Expert at Maharishi Foundation International, you preferably need to be experienced in using various modern SaaS tools for customer support, customer relationship management & email."
 summaryBackup: "Excited about #management, #marketing, #css? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## About Us
