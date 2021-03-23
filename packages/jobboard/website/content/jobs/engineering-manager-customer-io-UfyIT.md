@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "Customer.io wishes to hire a new engineering manager. If you have experience as an engineering manager in the SaaS industry, consider applying."
 summaryBackup: "To apply as an engineering manager at Customer.io, you preferably need to have some knowledge of: #management, #spring, #marketing."
 featured: 10
+archived: "true"
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://customer.io).
