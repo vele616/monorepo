@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Engineer -  Solutions Development"
+title: "Senior Software Engineer"
 location: "Pune, IN - Remote OK"
 host: "https://telestax.breezy.hr/"
 companyName: "telestax"
@@ -10,9 +10,9 @@ hashtags: "#spring,#ui/ux,#java,#operations,#management,#aws,#css,#rest,#kuberne
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/telestax"
 companyWebsite: "https://www.telestax.com/"
-summary: "Telestax is searching for a senior software engineer that has experience with Java JVM and Java Microservices Framework and Application Servers such as Spring, Spring Boot, Akka, Vert."
+summary: "Telestax is searching for a Senior Software Engineer that has experience with Java JVM and Java Microservices Framework and Application Servers such as Spring, Spring Boot, Akka, Vert."
 summaryBackup: "Telestax is looking for a senior software engineer that has experience in: #spring, #ui/ux, #java."
-featured: 20
+featured: 11
 ---
 
 Telestax is the leading CPaaS enabler for communications service providers and creator of the award-winning [Restcomm](https://www.telestax.com/restcommone/) API platform. Telestax also provides turn-key Applications on top of CPaaS that enables service providers to go to market quickly and start generating revenue from day 1. Originating in an open source environment, Restcomm has been tested by over 10,000 telecom developers. As a trusted partner in real-time communications, Telestax delivers Restcomm Cloud to innovative companies around the world. When service providers join with Telestax, their customers gain the advantage of a superior network and full CPaaS capabilities along with turnkey Applications. With bring your own carrier options, white labeling, and a complete suite of voice and messaging APIs, service providers benefit from new revenue streams and a competitive edge in the evolving digital transformation. Restcomm Cloud removes the friction in application development and business workflow integration with user-friendly tools like the [Visual Designer](https://www.telestax.com/visual-designer/). The Telestax RESTful API gives experienced developers control to create robust omnichannel applications alongside technologies such as advanced IVR and intelligent chatbots. Learn more about Telestax, Restcomm Cloud, and turn key Applications at [www.telestax.com](https://www.telestax.com/) today.
@@ -51,7 +51,7 @@ Travel for meeting your distributed team and conference events can happen over t
 *   Container experience – Docker
 *   International experience (working in or with multi-cultural distributed environments)
 
-Desirable Skills
+**Desirable Skills**
 
 *   Experience with load-balancing, In memory data grid technologies – Infinispan, Redis …
 *   Experience with exposing Monitoring HTTP Services Metrics through tools such as Datadog, Prometheus, Graphana, APM
