@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/2aa09b85-ec9a-4122-94fa-ca9cf1190a21"
 applyUrl: "https://jobs.lever.co/10up-2/2aa09b85-ec9a-4122-94fa-ca9cf1190a21/apply"
 timestamp: 1616457600000
-hashtags: "#ui/ux,#content,#management,#operations,#puppet,#windows,#android,#ios,#wordpress,#optimization"
+hashtags: "#qa,#windows,#ios,#ui/ux,#content,#management,#operations,#puppet,#android,#wordpress,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "Interested in new opportunities and have 1+ years of previous Quality Assurance experience for? 10up has a job opening for a quality assurance specialist."
+summary: "Interested in new opportunities and have 1+ years of previous Quality Assurance experience for web-based technology projects? 10up has a job opening for a Quality Assurance Specialist."
 summaryBackup: "To apply as a quality assurance specialist at 10up, you preferably need to have some knowledge of: #ui/ux, #content, #management."
-featured: 20
+featured: 18
 ---
 
 10up is seeking an experienced Quality Assurance Tester to join our team. You’ll be responsible for carrying out manual quality assurance testing before launches and releases, ensuring that we are delivering work that meets defined functional and design specifications. The ideal candidate will apply critical thinking, user empathy, and an attention to detail such that they will be able to call out potential issues if something seems visually or functionally incorrect, even if those requirements are not documented in the functional spec or design comps. You’ll work with delivery teams to create comprehensive QA plans and test websites according to those plans as needed.
@@ -36,5 +36,3 @@ featured: 20
 *   Remote working experience.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
