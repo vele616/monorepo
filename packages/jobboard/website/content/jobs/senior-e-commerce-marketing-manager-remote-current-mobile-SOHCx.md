@@ -1,5 +1,5 @@
 ---
-title: "Senior E-Commerce Marketing Manager (Remote)"
+title: "Senior E-Commerce Marketing Manager"
 location: "Remote from anywhere"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
@@ -10,22 +10,22 @@ hashtags: "#marketing,#analysis,#content,#analytics,#management,#socialmedia,#fi
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "Interested in new opportunities and have 3 years working in B2C E-commerce, DTC, or subscription-based marketing? Current Mobile has a job opening for a senior e-commerce marketing manager."
+summary: "Interested in new opportunities and have 3 years working in B2C E-commerce, DTC, or subscription-based marketing? Current Mobile has a job opening for a Senior E-Commerce Marketing Manager."
 summaryBackup: "To apply as a senior e-commerce marketing manager at Current Mobile, you preferably need to have some knowledge of: #marketing, #analysis, #content."
-featured: 20
+featured: 15
 ---
 
 ## What is Current?
 
 _Our mission as a company is to enable budget-conscious consumers to earn additional passive income from their everyday habits._ We have millions of monthly users and have achieved over 2,500% revenue growth in 2020. Our users earn millions of dollars a year in rewards by using our products.
 
-**[Current Mobile Inc](currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
+**[Current Mobile Inc](https://currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
 
 Our flagship products, **[Current Rewards](https://play.google.com/store/apps/details?id=us.current.android&hl=en_US&gl=US)**, and **[Mode Smartphone](http://modephone.com/)** are hugely popular with millions of users around the world. It is our goal to provide a free Mode phone to every income-conscious consumer on the planet, enabling them to earn up to $100 each month while passively using their device. Our common purpose is to bring financial joy to the lives of our user base.
 
 In 2018, Current became the first company to raise over $36M through an SEC-registered security token offering, to implement our royalty-paying token $CRNC across company product lines. We are rapidly growing. In the last 12 months, we have grown 25% month over month. As we embark on the next phase of our incredible expansion, we are looking for exceptional talent to help fuel the growth.
 
-Why Current?
+## Why Current?
 
 *   You have an opportunity to be one of the first people to join a team of high caliber ambitious people who are out to challenge the status quo of content consumption.
 *   We’re a well-funded revenue-generating company, and have a runway for years to come.We are rapidly growing and as we embark on the next phase of our incredible expansion, we are looking for exceptional talent to help fuel the growth.
