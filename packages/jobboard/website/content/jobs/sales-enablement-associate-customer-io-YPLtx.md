@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-i
 companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "To apply as a sales enablement associate at Customer.io, you preferably need to have preferably has a background in marketing automation or has work experience with a similar platform."
 summaryBackup: "Customer.io is looking for a sales enablement associate that has experience in: #sales, #management, #content."
-featured: 20
+featured: 1
 ---
 
 Hi, I'm Alex, Sr. Sales Enablement Manager at [Customer.io](http://Customer.io)!
