@@ -1,18 +1,18 @@
 ---
-title: "Director of Product (Remote)"
+title: "Director of Product"
 location: "Remote from anywhere"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4987579002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4987579002#app"
 timestamp: 1616457600000
-hashtags: "#management,#ui/ux,#windows,#android,#marketing,#operations,#finance,#optimization"
+hashtags: "#management,#optimization,#marketing,#ui/ux,#windows,#android,#operations,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "Current Mobile intends to hire a new director of product. If you have you have experience working in ad tech, consider applying."
+summary: "Current Mobile intends to hire a new Director of Product. If you have you have experience working in ad tech, consider applying."
 summaryBackup: "Current Mobile is looking for a director of product that has experience in: #management, #ui/ux, #windows."
-featured: 20
+featured: 7
 ---
 
 ## What is Current?
