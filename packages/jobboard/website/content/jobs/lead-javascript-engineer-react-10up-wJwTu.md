@@ -10,7 +10,7 @@ hashtags: "#javascript,#reactjs,#nodejs,#php,#content,#ui/ux,#management,#css,#h
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up is looking for a lead javascript engineer: react that has at least two years experience building scalable web."
+summary: "10up is looking for a Lead Javascript Engineer that has at least two years experience building scalable web-based JavaScript applications that work with and consume API data."
 summaryBackup: "To apply as a lead javascript engineer: react at 10up, you preferably need to have some knowledge of: #javascript, #reactjs, #nodejs."
 featured: 3
 ---
