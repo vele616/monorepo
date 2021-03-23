@@ -1,18 +1,18 @@
 ---
-title: "Backend Applications - Senior Software Engineer (Remote Position)"
+title: "Senior Backend Software Engineer"
 location: "Rennes, FR - Remote OK"
 host: "https://telestax.breezy.hr/"
 companyName: "telestax"
 url: "https://telestax.breezy.hr/p/f5beef569e6d01-backend-applications-senior-software-engineer-remote-position"
 applyUrl: "https://telestax.breezy.hr/p/f5beef569e6d01-backend-applications-senior-software-engineer-remote-position/apply"
 timestamp: 1616457600000
-hashtags: "#spring,#java,#operations,#ui/ux,#management,#aws,#css,#redis,#cassandra,#kubernetes"
+hashtags: "#rest,#spring,#java,#operations,#ui/ux,#management,#aws,#css,#redis,#cassandra,#kubernetes"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/telestax"
 companyWebsite: "https://www.telestax.com/"
-summary: "If you have experience with Java JVM and Java Microservices Framework and Application Servers such as Spring, Spring Boot, Akka, Vert, consider applying to Telestax's job post for a new backend applications."
+summary: "If you have experience with Java JVM and Java Microservices Framework and Application Servers such as Spring, Spring Boot, Akka, Vert, consider applying to Telestax's job post for a new Senior Backend Software Engineer."
 summaryBackup: "Excited about #spring, #java, #operations? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 Are you looking to join a highly ambitious international technology startup and work on cutting edge technology? Do you want to build a career in technology but love to solve real life communications problems? Are you looking for a company that will invest time in your development, support your professional growth and listen to your ideas? If the answer is yes, we urge you to apply for a position with Telestax!
