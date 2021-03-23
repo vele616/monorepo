@@ -1,18 +1,18 @@
 ---
-title: "Core Network Voice - Senior Software Engineer (Remote Position)"
+title: "Senior Software Engineer"
 location: "Rennes, FR - Remote OK"
 host: "https://telestax.breezy.hr/"
 companyName: "telestax"
 url: "https://telestax.breezy.hr/p/c6dc01a70d7601-core-network-voice-senior-software-engineer-remote-position"
 applyUrl: "https://telestax.breezy.hr/p/c6dc01a70d7601-core-network-voice-senior-software-engineer-remote-position/apply"
 timestamp: 1616457600000
-hashtags: "#spring,#management,#operations,#ui/ux,#java,#aws,#kubernetes,#docker,#redis,#scrum"
+hashtags: "#ui/ux,#java,#docker,#spring,#management,#operations,#aws,#kubernetes,#redis,#scrum"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/telestax"
 companyWebsite: "https://www.telestax.com/"
-summary: "If you have you must be able to troubleshoot problems at a protocol level including experience with VoIP diagnosis tools like TCPDump or Wireshark, Telestax has a job opening for a core network voice"
+summary: "If you have experience architecting, designing, developing, building, and operating a fault tolerant, highly available, reliable and performant SIP & Media Voice infrastructure in a telecom and/or cloud communications environment, Telestax has a job opening for a Senior Software Engineer"
 summaryBackup: "Excited about #spring, #management, #operations? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 Are you looking to join a highly ambitious international technology startup and work on cutting edge technology? Do you want to build a career in technology but love to solve real life communications problems? Are you looking for a company that will invest time in your development, support your professional growth and listen to your ideas? If the answer is yes, we urge you to apply for a position with Telestax!
