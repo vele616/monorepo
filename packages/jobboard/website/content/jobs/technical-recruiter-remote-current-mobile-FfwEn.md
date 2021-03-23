@@ -1,18 +1,18 @@
 ---
-title: "Technical Recruiter (Remote)"
+title: "Technical Recruiter"
 location: "Chicago, IL or Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4989040002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=4989040002#app"
 timestamp: 1616457600000
-hashtags: "#management,#operations,#content,#marketing,#finance,#office,#English"
+hashtags: "#management,#operations,#HR,#content,#marketing,#finance,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Current Mobile is searching for a technical recruiter that has 2-4 years of full-cycle technical recruiting experience in a fast-paced, high-growth environment."
 summaryBackup: "Current Mobile is looking for a technical recruiter that has experience in: #management, #operations, #content."
-featured: 20
+featured: 17
 ---
 
 ## What is Current?
