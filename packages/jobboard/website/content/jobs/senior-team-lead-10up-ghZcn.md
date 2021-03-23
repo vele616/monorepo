@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/1b295503-1b33-47ad-9ed4-da208058537f"
 applyUrl: "https://jobs.lever.co/10up-2/1b295503-1b33-47ad-9ed4-da208058537f/apply"
 timestamp: 1616457600000
-hashtags: "#ui/ux,#content,#management,#operations,#wordpress,#office,#scrum,#translation,#optimization,#finance"
+hashtags: "#management,#scrum,#operations,#wordpress,#ui/ux,#content,#office,#translation,#optimization,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up is searching for a senior team lead that has 4+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment."
+summary: "10up is searching for a Senior Team Lead that has 4+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment."
 summaryBackup: "Excited about #ui/ux, #content, #management? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 Senior Team Leads are responsible for managing the successful delivery of client work, project-centric operations, and personnel within a single team. The primary functions include: driving superior outcomes in alignment with established scopes, timelines, and budgets for multiple, concurrent projects; expertly incorporating 10up standards and processes in the delivery of client work; managing personnel assigned to a team; expertly collaborating with discipline directors and the Accounts team to deliver on client expectations; and managing to established production metrics (billable targets, forecasting accuracy, etc.).
