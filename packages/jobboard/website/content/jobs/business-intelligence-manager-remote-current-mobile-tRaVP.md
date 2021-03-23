@@ -1,25 +1,25 @@
 ---
-title: "Business Intelligence Manager (Remote)"
+title: "Business Intelligence Manager"
 location: "Remote from anywhere"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5088300002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5088300002#app"
 timestamp: 1616457600000
-hashtags: "#operations,#marketing,#management,#analysis,#sales,#content,#ui/ux,#finance,#office,#monitoring"
+hashtags: "#operations,#management,#analysis,#marketing,#sales,#content,#ui/ux,#finance,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "To apply as a business intelligence manager at Current Mobile, you preferably need to have 3 years of related experience."
+summary: "To apply as a Business Intelligence Manager at Current Mobile, you preferably need to have 3 years of related experience."
 summaryBackup: "Excited about #operations, #marketing, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## What is Current?
 
 _Our mission as a company is to enable budget-conscious consumers to earn additional passive income from their everyday habits._ We have millions of monthly users and have achieved over 2,500% revenue growth in 2020. Our users earn millions of dollars a year in rewards by using our products.
 
-**[Current Mobile Inc](currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
+**[Current Mobile Inc](https://currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
 
 Our flagship products, **[Current Rewards](https://play.google.com/store/apps/details?id=us.current.android&hl=en_US&gl=US)**, and **[Mode Smartphone](http://modephone.com/)** are hugely popular with millions of users around the world. It is our goal to provide a free Mode phone to every income-conscious consumer on the planet, enabling them to earn up to $100 each month while passively using their device. Our common purpose is to bring financial joy to the lives of our user base.
 
