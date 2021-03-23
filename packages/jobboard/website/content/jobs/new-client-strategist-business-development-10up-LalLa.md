@@ -1,5 +1,5 @@
 ---
-title: "New Client Strategist (Business Development)"
+title: "New Client Strategist"
 location: "Remote"
 host: "https://jobs.lever.co/10up-2/?location=Remote"
 companyName: "10up"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
 summary: "Interested in new opportunities and have experience with and passion for building websites? 10up has a job opening for a new client strategist."
 summaryBackup: "10up is looking for a new client strategist that has experience in: #management, #wordpress, #content."
-featured: 20
+featured: 6
 ---
 
 New Client Strategists advance account growth and acquisition by applying a sophisticated understanding of 10up's capabilities to client and prospect business goals, buttressed by superior communication, attention to detail, and ownership of company sales goals.
@@ -49,5 +49,3 @@ New Client Strategists advance account growth and acquisition by applying a 
 *   Remote working experience appreciated.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
