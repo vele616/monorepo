@@ -1,18 +1,18 @@
 ---
-title: "Account Strategist (Account Management)"
+title: "Account Strategist"
 location: "Remote"
 host: "https://jobs.lever.co/10up-2/?location=Remote"
 companyName: "10up"
 url: "https://jobs.lever.co/10up-2/bde3de9c-69d1-4348-aa6f-b717cca72b94"
 applyUrl: "https://jobs.lever.co/10up-2/bde3de9c-69d1-4348-aa6f-b717cca72b94/apply"
 timestamp: 1616457600000
-hashtags: "#management,#wordpress,#content,#ui/ux,#php,#macos,#analysis,#crm,#optimization"
+hashtags: "#management,#wordpress,#analysis,#content,#ui/ux,#php,#macos,#crm,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
 summary: "If you have preferable experience with web content management systems, 10up is looking for someone with your skillset."
 summaryBackup: "Love #management, #wordpress, #content? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 As part of the Web Strategy team, Account Management focused Strategists are responsible for forging successful internal and partner relationships, and cultivating account growth — alongside 10up’s full service team — through thoughtful, creative and solution-based project consulting. Applying an informed understanding of 10up's capabilities, superior communication, and attention to detail, Strategists are charged with driving company revenue goals by ensuring that clients experience exemplary service and outcomes.
@@ -52,5 +52,3 @@ As part of the Web Strategy team, Account Management focused Strategists are res
 *   Remote working experience appreciated.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
