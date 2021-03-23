@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/36ed2249-4b91-43f3-9604-9de62e3b558b"
 applyUrl: "https://jobs.lever.co/10up-2/36ed2249-4b91-43f3-9604-9de62e3b558b/apply"
 timestamp: 1616457600000
-hashtags: "#content,#ui/ux,#management,#wordpress,#office,#scrum,#translation,#optimization,#finance"
+hashtags: "#management,#wordpress,#scrum,#content,#ui/ux,#office,#translation,#optimization,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up is looking for a senior project manager that has 3+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment."
+summary: "10up is looking for a Senior Project Manager that has 3+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment."
 summaryBackup: "10up is looking for a senior project manager that has experience in: #content, #ui/ux, #management."
-featured: 20
+featured: 9
 ---
 
 ## Responsibilities
@@ -47,5 +47,3 @@ featured: 20
 *   Remote working experience.
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
-
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
