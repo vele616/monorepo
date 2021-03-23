@@ -6,13 +6,13 @@ companyName: "Clubhouse Software"
 url: "https://boards.greenhouse.io/clubhousesoftware/jobs/5100274002"
 applyUrl: "https://boards.greenhouse.io/clubhousesoftware/jobs/5100274002#app"
 timestamp: 1616457600000
-hashtags: "#marketing,#css,#ui/ux,#management,#analysis,#office,#optimization"
+hashtags: "#marketing,#salesforce,#analysis,#css,#ui/ux,#management,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/clubhouse-software"
 companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "If you have 2+ years relevant work experience in digital marketing and analyzing campaign effectiveness for a B2B SaaS company, Clubhouse Software is looking for someone with your skillset."
 summaryBackup: "Excited about #marketing, #css, #ui/ux? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 Clubhouse is a venture-backed Series B startup that’s building software to make software development teams more efficient and collaborative. Thousands of the fastest-growing organizations use Clubhouse to plan and build their software, including Nubank, Glossier, Dataiku, Scale AI, FullStory, and LaunchDarkly. Greylock, Lerer Hippeau, RRE, and Battery Ventures are investors in Clubhouse. 
