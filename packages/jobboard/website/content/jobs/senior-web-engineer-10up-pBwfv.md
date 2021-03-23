@@ -10,9 +10,9 @@ hashtags: "#php,#javascript,#wordpress,#management,#jquery,#content,#ui/ux,#css,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "If you have senior Web Engineers have advanced knowledge of PHP and JavaScript and experience building large, 10up is looking for someone with your skillset."
+summary: "If you have at least five years of experience in back end focused web development, 10up is looking for someone with your skillset."
 summaryBackup: "To apply as a senior web engineer at 10up, you preferably need to have some knowledge of: #php, #javascript, #wordpress."
-featured: 20
+featured: 10
 ---
 
 Senior Web Engineers have advanced knowledge of PHP and JavaScript and experience building large-scale performant applications. In addition to writing code, they are familiar with systems-level concepts.
@@ -37,7 +37,7 @@ In addition to Senior Web Engineers being advanced in the skills of their discip
 ## Requirements
 
 *   At least five years experience in back end focused web development.
-*   Intermediate or expert skills in: PHP, JavaScript, [React.js](http://React.js), jQuery, WordPress, HTML, CSS.
+*   Intermediate or expert skills in: PHP, JavaScript, React.js, jQuery, WordPress, HTML, CSS.
 *   Ability to expertly debug performance and caching issues.
 *   Code portfolio. Link us to your GitHub account, upload a .zip, or both.
 *   Experience using Git.
@@ -47,4 +47,3 @@ In addition to Senior Web Engineers being advanced in the skills of their discip
 
 10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you! 
 
-10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!
