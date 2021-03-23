@@ -1,5 +1,5 @@
 ---
-title: "Senior Product & Lifecycle Marketing Manager (Remote)"
+title: "Senior Product & Lifecycle Marketing Manager"
 location: "Remote from anywhere"
 host: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 companyName: "Current Mobile"
@@ -10,16 +10,16 @@ hashtags: "#marketing,#management,#branding,#ui/ux,#sales,#content,#analysis,#so
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
-summary: "Interested in new opportunities and have 7 years of related experience? Current Mobile has a job opening for a senior product & lifecycle marketing manager."
+summary: "Interested in new opportunities and have 7 years of related experience? Current Mobile has a job opening for a Senior Product & Lifecycle Marketing Manager."
 summaryBackup: "Excited about #marketing, #management, #branding? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## What is Current?
 
 _Our mission as a company is to enable budget-conscious consumers to earn additional passive income from their everyday habits._ We have millions of monthly users and have achieved over 2,500% revenue growth in 2020. Our users earn millions of dollars a year in rewards by using our products.
 
-**[Current Mobile Inc](currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
+**[Current Mobile Inc](https://currentmobile.us)** is a US-based company that builds mobile technology products for budget-conscious consumers. Our products let people around the world earn passive income while using their mobile phones for daily habits like music, games, news, shopping, browsing, charging, and even unlocking their device. Our passionate team of innovation leaders relentlessly convert user attention and data into rewards. 
 
 Our flagship products, **[Current Rewards](https://play.google.com/store/apps/details?id=us.current.android&hl=en_US&gl=US)**, and **[Mode Smartphone](http://modephone.com/)** are hugely popular with millions of users around the world. It is our goal to provide a free Mode phone to every income-conscious consumer on the planet, enabling them to earn up to $100 each month while passively using their device. Our common purpose is to bring financial joy to the lives of our user base.
 
