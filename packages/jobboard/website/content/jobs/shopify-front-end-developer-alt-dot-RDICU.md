@@ -1,5 +1,5 @@
 ---
-title: "Shopify Front-End Developer"
+title: "Front-End Developer"
 location: "Ottawa, Ontario, Canada"
 host: "https://apply.workable.com/altanddot/"
 companyName: "Alt & Dot"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#css,#html,#office,#analysis,#ui/ux,#management,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/alt-dot"
 companyWebsite: "http://www.altanddot.com/"
-summary: "Alt & Dot is looking for a shopify front-end developer that has 2+ years of professional experience as a Shopify developer and you’re interested in creating real value for clients while working from anywhere in the world, then read on!."
+summary: "Alt & Dot is looking for a shopify front-end developer that has 2+ years of experience in Shopify web development."
 summaryBackup: "To apply as a shopify front-end developer at Alt & Dot, you preferably need to have some knowledge of: #javascript, #reactjs, #css."
-featured: 20
+featured: 5
 ---
 
 ## Description
