@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer - Backend Engineering Team"
+title: "Senior Backend Software Engineer"
 location: "Atlanta, Georgia, United States"
 host: "https://apply.workable.com/intellum-inc/"
 companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/918DC1E50A/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/918DC1E50A/apply/"
 timestamp: 1616544000000
-hashtags: "#rails,#rubylang,#css,#aws,#operations,#marketing,#branding,#git,#management,#redis"
+hashtags: "#rails,#rubylang,#aws,#operations,#marketing,#css,#branding,#git,#management,#redis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "If you have 7 years of experience developing software professionally, Intellum, Inc. is looking for someone with your knowledge."
+summary: "If you have 5 - 7 years of experience developing software professionally, Intellum, Inc. is looking for someone with your knowledge."
 summaryBackup: "Excited about #rails, #rubylang, #css? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
