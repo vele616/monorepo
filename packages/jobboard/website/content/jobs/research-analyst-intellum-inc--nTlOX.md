@@ -6,13 +6,13 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/5AF4C897BD/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/5AF4C897BD/apply/"
 timestamp: 1616544000000
-hashtags: "#css,#content,#management,#office"
+hashtags: "#analysis,#management,#content,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "Interested in new opportunities and have 3,500 per year in educational funds? Intellum, Inc. has a job opening for a research analyst."
+summary: "Interested in new opportunities and have ability to prioritize and manage several projects and initiatives at once? Intellum has a job opening for a Research Analyst."
 summaryBackup: "Love #css, #content, #management? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Description
