@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Excited about experience in: #HR, #management, #operations? Check out this job post!"
 summaryBackup: "To apply as a software engineering admissions specialist at Pathrise, you preferably need to have some knowledge of: #sales, #management, #operations."
 featured: 15
+archived: "true"
 ---
 
 **What is Pathrise?**

@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise wishes to hire a new business development manager. If you have 2+ years of experience in a sales or business development role, consider applying."
 summaryBackup: "To apply as a business development manager at Pathrise, you preferably need to have some knowledge of: #management, #sales, #analytics."
 featured: 8
+archived: "true"
 ---
 
 **What is Pathrise?**

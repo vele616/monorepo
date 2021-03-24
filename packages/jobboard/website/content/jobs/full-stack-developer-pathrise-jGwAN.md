@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "To apply as a full stack developer at Pathrise, you preferably need to have 2+ years of full-time software engineering experience."
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 **What is Pathrise?**

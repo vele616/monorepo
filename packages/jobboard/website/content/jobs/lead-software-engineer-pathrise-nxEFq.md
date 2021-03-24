@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "If you have 4+ years of full-time software engineering experience, consider applying to Pathrise's job post for a new lead software engineer."
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 **What is Pathrise?**

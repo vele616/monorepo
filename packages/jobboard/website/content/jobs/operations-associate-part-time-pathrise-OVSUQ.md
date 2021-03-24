@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "If you have 1+ year of operations, administrative, executive assistant or customer support experience, Pathrise has a job opening for an operations associate"
 summaryBackup: "Excited about #operations, #internship, #socialmedia? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **What is Pathrise?**

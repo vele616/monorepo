@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "To apply as a software engineering lead instructor at Pathrise, you preferably need to have 3 years of software engineering experience."
 summaryBackup: "Love #windows, #aws, #content? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **What is Pathrise?**

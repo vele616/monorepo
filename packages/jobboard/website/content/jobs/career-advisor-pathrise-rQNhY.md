@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "If you have 3+ years of experience in career coaching at an organization or recruiting in the tech space, Pathrise has a job opening for a career advisor"
 summaryBackup: "Excited about #branding, #ui/ux, #management? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 **What is Pathrise?**

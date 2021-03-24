@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "If you have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, Pathrise has a job opening for a program manager"
 summaryBackup: "Excited about #ui/ux, #marketing, #analytics? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **What is Pathrise?**

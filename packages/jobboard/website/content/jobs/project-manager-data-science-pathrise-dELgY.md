@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise intends to hire a new Project Manager. If you have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, consider applying."
 summaryBackup: "Excited about #ui/ux, #management, #marketing? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 **What is Pathrise?**

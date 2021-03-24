@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Interested in new opportunities and have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space? Pathrise has a job opening for a program manager."
 summaryBackup: "To apply as a program manager at Pathrise, you preferably need to have some knowledge of: #ui/ux, #marketing, #analytics."
 featured: 20
+archived: "true"
 ---
 
 **What is Pathrise?**

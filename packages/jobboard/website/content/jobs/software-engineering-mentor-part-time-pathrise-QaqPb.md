@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "If you have 3 years of software engineering experience, Pathrise has a job opening for a software engineering mentor"
 summaryBackup: "To apply as a software engineering mentor at Pathrise, you preferably need to have some knowledge of: #windows, #aws, #content."
 featured: 9
+archived: "true"
 ---
 
 **What is Pathrise?**

@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "If you have 4+ years of full-time software engineering experience, Pathrise is looking for someone with your skillset."
 summaryBackup: "Pathrise is looking for a senior software engineer that has experience in: #ui/ux, #javascript, #reactjs."
 featured: 7
+archived: "true"
 ---
 
 **What is Pathrise?**

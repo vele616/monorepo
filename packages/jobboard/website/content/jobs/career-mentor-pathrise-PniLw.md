@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise intends to hire a new career mentor. If you have 3+ years of experience in career coaching at an organization or recruiting in the tech space, consider applying."
 summaryBackup: "Love #branding, #ui/ux, #git? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 **What is Pathrise?**

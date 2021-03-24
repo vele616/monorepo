@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Interested in new opportunities and have 2+ years of experience in a sales or business development role? Pathrise has a job opening for an Admissions Manager."
 summaryBackup: "To apply as an admissions manager at Pathrise, you preferably need to have some knowledge of: #management, #sales, #analytics."
 featured: 20
+archived: "true"
 ---
 
 **What is Pathrise?**

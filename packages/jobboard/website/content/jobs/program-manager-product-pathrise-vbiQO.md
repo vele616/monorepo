@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise intends to hire a new program manager. If you have 3+ years of experience as a Program Manager, Project Manager, Consultant, or similar role in the tech space, consider applying."
 summaryBackup: "Pathrise is looking for a program manager that has experience in: #ui/ux, #management, #marketing."
 featured: 13
+archived: "true"
 ---
 
 **What is Pathrise?**
