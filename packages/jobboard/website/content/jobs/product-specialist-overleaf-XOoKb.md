@@ -6,13 +6,13 @@ companyName: "Overleaf"
 url: "https://apply.workable.com/overleaf/j/7806E9E709/"
 applyUrl: "https://apply.workable.com/overleaf/j/7806E9E709/apply/"
 timestamp: 1616544000000
-hashtags: "#css,#marketing,#sales,#socialmedia,#office,#English"
+hashtags: "#marketing,#sales,#socialmedia,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/overleaf"
 companyWebsite: "https://www.overleaf.com/"
-summary: "Love experience in: #css, #marketing, #sales? Check out this job post!"
+summary: "Love experience in: #marketing, #sales, #office? Check out this job post!"
 summaryBackup: "Overleaf is looking for a product specialist that has experience in: #css, #marketing, #sales."
-featured: 20
+featured: 10
 ---
 
 ## Description
