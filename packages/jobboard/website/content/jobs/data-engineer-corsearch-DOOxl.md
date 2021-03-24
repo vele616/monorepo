@@ -13,6 +13,7 @@ companyWebsite: "http://www.corsearch.com/"
 summary: "Corsearch is searching for a Data Engineer that has 5+ years in enterprise data platforms implementation projects."
 summaryBackup: "To apply as a data engineer at Corsearch, you preferably need to have some knowledge of: #ui/ux, #python, #aws."
 featured: 4
+archived: "true"
 ---
 
 ## Job description
