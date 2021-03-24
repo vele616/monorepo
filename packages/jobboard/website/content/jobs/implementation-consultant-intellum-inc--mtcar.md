@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "If you have 2+ years experience as an LMS administrator, consider applying to Intellum's job post for a new Implementation Consultant."
 summaryBackup: "Love #management, #css, #sales? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

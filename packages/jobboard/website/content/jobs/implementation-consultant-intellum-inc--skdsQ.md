@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Intellum wishes to hire a new Implementation Consultant. If you have 2+ years experience as an LMS administrator, consider applying."
 summaryBackup: "Intellum, Inc. is looking for an implementation consultant that has experience in: #management, #css, #sales."
 featured: 3
+archived: "true"
 ---
 
 ## Description

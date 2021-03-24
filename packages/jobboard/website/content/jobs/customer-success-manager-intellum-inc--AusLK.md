@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "If you have 5+ years in customer success role with technical experience, Intellum has a job opening for a Customer Success Manager"
 summaryBackup: "Love #css, #management, #marketing? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Description
