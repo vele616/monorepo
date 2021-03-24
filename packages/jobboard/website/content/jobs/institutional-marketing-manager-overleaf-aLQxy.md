@@ -6,13 +6,13 @@ companyName: "Overleaf"
 url: "https://apply.workable.com/overleaf/j/11CB22E683/"
 applyUrl: "https://apply.workable.com/overleaf/j/11CB22E683/apply/"
 timestamp: 1616544000000
-hashtags: "#marketing,#sales,#css,#management,#analytics,#branding,#office,#socialmedia,#translation,#crm"
+hashtags: "#marketing,#management,#analytics,#branding,#sales,#css,#office,#socialmedia,#translation,#crm"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/overleaf"
 companyWebsite: "https://www.overleaf.com/"
-summary: "Overleaf intends to hire a new institutional marketing manager. If you have previous working experience within a marketing role for 3+ years, consider applying."
+summary: "Overleaf intends to hire a new Institutional Marketing Manager. If you have previous working experience within a marketing role for 3+ years, consider applying."
 summaryBackup: "To apply as an institutional marketing manager at Overleaf, you preferably need to have some knowledge of: #marketing, #sales, #css."
-featured: 20
+featured: 5
 ---
 
 ## Description
