@@ -6,13 +6,13 @@ companyName: "Kodify"
 url: "https://kodify.recruitee.com/o/system-administrator-1"
 applyUrl: "https://kodify.recruitee.com/o/system-administrator-1/c/new"
 timestamp: 1616544000000
-hashtags: "#javascript,#python,#golang,#ansible,#chef,#kubernetes,#docker,#aws,#googlecloud,#ui/ux"
+hashtags: "#kubernetes,#aws,#python,#golang,#javascript,#ansible,#chef,#docker,#googlecloud,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kodify"
 companyWebsite: "https://kodify.io/"
-summary: "Kodify is looking for a system administrator that has experience in networking technologies as LBB, VPCs, firewalls, DNS, etc."
+summary: "Kodify is looking for a System Administrator that has experience in high traffic environments."
 summaryBackup: "Excited about #javascript, #python, #golang? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
