@@ -6,13 +6,13 @@ companyName: "Intellum, Inc."
 url: "https://apply.workable.com/intellum-inc/j/E4B9AD5B26/"
 applyUrl: "https://apply.workable.com/intellum-inc/j/E4B9AD5B26/apply/"
 timestamp: 1616544000000
-hashtags: "#rubylang,#rails,#nodejs,#terraform,#ansible,#python,#aws,#css,#postgresql,#chef"
+hashtags: "#rubylang,#aws,#terraform,#ansible,#python,#rails,#nodejs,#css,#postgresql,#chef"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "If you have we’re looking for an engineer with experience scaling services, troubleshooting and managing incidents with diverse systems, that will help us with the continuous growth of our Intellum platform, consider applying to Intellum, Inc.'s job post for a new systems engineer."
+summary: "If you have experience using configuration management tools like Ansible or chef, etc, consider applying to Intellum's job post for a new Systems Engineer / Devops."
 summaryBackup: "Intellum, Inc. is looking for a systems engineer that has experience in: #rubylang, #rails, #nodejs."
-featured: 20
+featured: 2
 ---
 
 ## Description
@@ -49,7 +49,7 @@ You’ll be a good fit if you:
 
 *   Managed infrastructure in one or more Cloud providers (AWS, Google Cloud)
 *   Are familiar with Infrastructure as code tools (Terraform, cloudformation)
-*   Have experience using configuration management tools like Ansible or chef, etc)
+*   Have experience using configuration management tools like Ansible or chef, etc
 *   Have managed large fleets of linux servers
 *   Feel comfortable automating tasks and writing scripts (bash, ruby, python)
 *   Take ownership of tasks and lead them to completion
