@@ -6,13 +6,13 @@ companyName: "Overleaf"
 url: "https://apply.workable.com/overleaf/j/E12DC20B3C/"
 applyUrl: "https://apply.workable.com/overleaf/j/E12DC20B3C/apply/"
 timestamp: 1616544000000
-hashtags: "#content,#socialmedia,#css,#office,#English"
+hashtags: "#content,#socialmedia,#management,#css,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/overleaf"
 companyWebsite: "https://www.overleaf.com/"
-summary: "Overleaf intends to hire a new community outreach coordinator. If you have have experience with and be comfortable on social media platforms such as Twitter, consider applying."
+summary: "Overleaf intends to hire a new Community Outreach Coordinator. If you have experience with and are comfortable on social media platforms such as Twitter, consider applying."
 summaryBackup: "Overleaf is looking for a community outreach coordinator that has experience in: #content, #socialmedia, #css."
-featured: 20
+featured: 15
 ---
 
 ## Description
