@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/3ae86bd731b4-community-operations-coordinator"
 applyUrl: "https://superrare.breezy.hr/p/3ae86bd731b4-community-operations-coordinator/apply"
 timestamp: 1616630400000
-hashtags: "#operations,#socialmedia,#content,#marketing,#office,#English"
+hashtags: "#crypto,#socialmedia,#operations,#content,#marketing,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "Superrare is looking for a community operations coordinator that has experience with crypto or desire to learn avidly about these technologies."
+summary: "SuperRare is looking for a Community Operations Coordinator that has experience with crypto or desire to learn avidly about these technologies."
 summaryBackup: "Excited about #operations, #socialmedia, #content? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## About SuperRare
