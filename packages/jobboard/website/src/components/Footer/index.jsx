@@ -7,6 +7,7 @@ import styles from './index.module.scss';
 const Footer = ({ socialMedia, sticky, scrollToTop }) => {
   return (
     <FooterComponent
+      copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
       className={sticky ? styles.sticky : ''}
       logo={
         <Link

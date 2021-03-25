@@ -1016,10 +1016,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@crocoder-dev/components@1.0.1":
-  version "1.0.1"
-  resolved "https://npm.pkg.github.com/download/@crocoder-dev/components/1.0.1/35a69ddda2b3a650d71ac8e657c5d6e2ec7563db7050fd4a69a6158ee8c69371#217e415c50c9165ac4f0e9acaf69a0bcf3ba1bb4"
-  integrity sha512-QxXshXuW6zK1d7PxUXQIpY3AIHa1BlTYjRA3+ejjpVv9o+yD0oRzAS9gGVLEbusIa6MCS6lhrts5e/YuGf+KKg==
+"@crocoder-dev/components@1.0.6":
+  version "1.0.6"
+  resolved "https://npm.pkg.github.com/download/@crocoder-dev/components/1.0.6/69a6c1a809d2cd44449add5b8e06149e53b2d6f7c5d3a88e307ba49ad2acf8b8#f8ef5f205fb9eadc35ac05135d0c817ae714a963"
+  integrity sha512-Y9Vj2V8/YCpBk6hweB+d3Bhy3aoX7sOOprK888ax9nmEDQ2dsccEEWUavYWWRFkG9SnadLh+aWFeIlV8hAnvfg==
   dependencies:
     classnames "^2.2.6"
     prop-types "^15.7.2"
