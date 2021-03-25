@@ -2,17 +2,17 @@
 title: "Perfomance Marketing Lead"
 location: "United Kingdom - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
-companyName: "piggy-llc"
+companyName: "piggy llc"
 url: "https://piggy-llc.breezy.hr/p/648fb69b816e-perfomance-marketing-lead"
 applyUrl: "https://piggy-llc.breezy.hr/p/648fb69b816e-perfomance-marketing-lead/apply"
 timestamp: 1616630400000
-hashtags: "#marketing,#socialmedia,#html,#office,#content,#management,#analysis,#monitoring,#optimization"
+hashtags: "#marketing,#socialmedia,#content,#html,#office,#management,#analysis,#monitoring,#optimization"
 jobType: "other"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "Piggy-llc wishes to hire a new perfomance marketing lead. If you have 5+ years proven experience in performance marketing utilizing social networks including TikTok, Facebook, Snapchat, Twitter and others, consider applying."
+summary: "Piggy wishes to hire a new Perfomance Marketing Lead. If you have 5+ years proven experience in performance marketing utilizing social networks including TikTok, Facebook, Snapchat, Twitter and others, consider applying."
 summaryBackup: "Love #marketing, #socialmedia, #html? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 Piggy, LLC is looking for the highest quality Paid Social marketing expert to assist in launching and monitoring its paid social ad campaigns. You should have demonstrated subject-matter-expertise in multiple social networks and show a a analytical mindset.
