@@ -1,18 +1,18 @@
 ---
-title: "Experienced Backend Engineer  - C# / .NET Core - Remote"
+title: "Experienced Backend Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/00271a8d-dc10-409e-9083-fab4371838e8"
 applyUrl: "https://jobs.lever.co/theorem/00271a8d-dc10-409e-9083-fab4371838e8/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#scrum,#azure,#git,#socialmedia,#finance,#optimization"
+hashtags: "#csharp,#scrum,#azure,#ui/ux,#management,#operations,#git,#socialmedia,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
 summary: "If you have experience with web application frameworks, such as, Theorem, LLC has a job opening for an experienced backend engineer"
 summaryBackup: "To apply as an experienced backend engineer at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
-featured: 20
+featured: 3
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
