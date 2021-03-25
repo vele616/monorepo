@@ -6,13 +6,13 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/c7343c63ce9b-engineering-manager"
 applyUrl: "https://urbantz.breezy.hr/p/c7343c63ce9b-engineering-manager/apply"
 timestamp: 1616630400000
-hashtags: "#css,#operations,#javascript,#angular,#management,#windows,#kubernetes,#aws,#azure,#marketing"
+hashtags: "#javascript,#angular,#management,#css,#operations,#windows,#kubernetes,#aws,#azure,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Interested in new opportunities and have 2+ years of successfully managing remote people? Urbantz has a job opening for an engineering manager."
+summary: "Interested in new opportunities and have 2+ years of successfully managing remote people? Urbantz has a job opening for an Engineering Manager."
 summaryBackup: "Love #css, #operations, #javascript? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 Is managing people in a technology environment your passion? Do you thrive in a fast-changing scaling environment? Then become our new Engineering Manager!
