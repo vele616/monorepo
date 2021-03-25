@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/2daf97ec1e33-product-designer"
 applyUrl: "https://superrare.breezy.hr/p/2daf97ec1e33-product-designer/apply"
 timestamp: 1616630400000
-hashtags: "#marketing,#socialmedia,#management,#css,#branding,#ui/ux,#analysis,#office,#rest"
+hashtags: "#marketing,#ui/ux,#analysis,#socialmedia,#management,#css,#branding,#office,#rest"
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "To apply as a product designer at Superrare, you preferably need to have several years of experience working on consumer."
+summary: "To apply as a Product Designer at SuperRare, you preferably need to have several years of experience working on consumer-facing digital products."
 summaryBackup: "Excited about #marketing, #socialmedia, #management? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## About SuperRare
