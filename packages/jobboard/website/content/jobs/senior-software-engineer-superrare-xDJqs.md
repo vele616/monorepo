@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/12966f7cbf76-senior-software-engineer"
 applyUrl: "https://superrare.breezy.hr/p/12966f7cbf76-senior-software-engineer/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#javascript,#reactjs,#angular,#typescript,#css,#html,#postgresql,#linux,#docker"
+hashtags: "#postgresql,#javascript,#reactjs,#angular,#typescript,#css,#html,#ui/ux,#linux,#docker"
 jobType: "software"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "If you have • Experience with Haskell or other aly typed functional programming languages, Superrare is looking for someone with your skillset."
+summary: "If you have experience optimizing PostgreSQL or other SQL queries as well as performant table design, SuperRare is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 ## About SuperRare
