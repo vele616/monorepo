@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/281bb0c1dc6c-product-manager"
 applyUrl: "https://superrare.breezy.hr/p/281bb0c1dc6c-product-manager/apply"
 timestamp: 1616630400000
-hashtags: "#management,#ui/ux,#marketing,#socialmedia"
+hashtags: "#management,#analysis,#marketing,#ui/ux,#socialmedia"
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "Superrare is looking for a product manager that has 5+ years of product management experience."
+summary: "SuperRare is looking for a product manager that has 5+ years of product management experience."
 summaryBackup: "Excited about #management, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## About SuperRare
