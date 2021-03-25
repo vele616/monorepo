@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/00ae509d2a9d-qa-engineer"
 applyUrl: "https://superrare.breezy.hr/p/00ae509d2a9d-qa-engineer/apply"
 timestamp: 1616630400000
-hashtags: "#javascript,#reactjs,#angular,#ui/ux,#management,#marketing,#socialmedia,#analysis"
+hashtags: "#qa,#javascript,#reactjs,#angular,#ui/ux,#management,#marketing,#socialmedia,#analysis"
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "If you have 3+ years of quality assurance and test engineering experience, Superrare is looking for someone with your knowledge."
+summary: "If you have 3+ years of quality assurance and test engineering experience, SuperRare is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #reactjs, #angular? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## About SuperRare
