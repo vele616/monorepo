@@ -6,7 +6,7 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/d28603d6221d-technical-lead"
 applyUrl: "https://urbantz.breezy.hr/p/d28603d6221d-technical-lead/apply"
 timestamp: 1616630400000
-hashtags: "#css,#operations,#javascript,#angular,#management,#windows,#kubernetes,#aws,#azure,#marketing"
+hashtags: "#javascript,#angular,#management,#css,#operations,#windows,#kubernetes,#aws,#azure,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
