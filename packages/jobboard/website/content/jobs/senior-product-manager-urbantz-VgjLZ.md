@@ -6,13 +6,13 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/1ac9fb7d42d0-senior-product-manager"
 applyUrl: "https://urbantz.breezy.hr/p/1ac9fb7d42d0-senior-product-manager/apply"
 timestamp: 1616630400000
-hashtags: "#marketing,#management,#ui/ux,#operations,#css,#scrum,#office"
+hashtags: "#marketing,#management,#scrum,#ui/ux,#operations,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "If you have have solid experience of working as a Product manager in a technology start up environment, additional corporate experience is a plus, Urbantz has a job opening for a senior product manager"
+summary: "If you have have solid experience of working as a Product manager in a technology start up environment, Urbantz has a job opening for a Senior Product Manager"
 summaryBackup: "To apply as a senior product manager at Urbantz, you preferably need to have some knowledge of: #marketing, #management, #ui/ux."
-featured: 20
+featured: 7
 ---
 
 We are looking for an outstanding Senior Product Manager to oversee Urbantz’ product offerings.
