@@ -2,7 +2,7 @@
 title: "Junior Project Manager"
 location: "Poland - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
-companyName: "piggy-llc"
+companyName: "piggy llc"
 url: "https://piggy-llc.breezy.hr/p/213f009707c7-junior-project-manager"
 applyUrl: "https://piggy-llc.breezy.hr/p/213f009707c7-junior-project-manager/apply"
 timestamp: 1616630400000
@@ -10,9 +10,9 @@ hashtags: "#management,#jira,#scrum,#office"
 jobType: "other"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "Piggy-llc is searching for a junior project manager that has great educational background or relevant experiences preferably in the fields of computer science or engineering."
+summary: "Piggy-llc is searching for a Junior Project Manager that has great educational background or relevant experiences preferably in the fields of computer science or engineering."
 summaryBackup: "Piggy-llc is looking for a junior project manager that has experience in: #management, #jira, #scrum."
-featured: 20
+featured: 17
 ---
 
 Joinpiggy.com is looking for a junior project manager to work with our development team. The selected candidate can expect to work in a fast-paced environment with a growing company.
