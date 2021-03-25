@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/eyeo/jobs/2263204"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/2263204#app"
 timestamp: 1616025600000
 hashtags: "#javascript,#scrum,#java,#content,#ui/ux,#git,#operations,#translation,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 5 years of software development experience with deep JavaScript skills, Eyeo is looking for someone with your skillset."

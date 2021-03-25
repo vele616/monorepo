@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Primer is looking for a sales operations that has experience in: #sales, #operations, #management."
 summaryBackup: "To apply as a sales operations at Primer, you preferably need to have some knowledge of: #sales, #operations, #windows."
 featured: 10
+archived: "true"
 ---
 
 ## Description

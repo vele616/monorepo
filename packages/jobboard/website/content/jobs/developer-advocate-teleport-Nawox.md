@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/gravitational/2134a30d-a8bd-4d4d-bfb1-f4e181f55cee"
 applyUrl: "https://jobs.lever.co/gravitational/2134a30d-a8bd-4d4d-bfb1-f4e181f55cee/apply"
 timestamp: 1615766400000
 hashtags: "#golang,#rustlang,#javascript,#reactjs,#python,#kubernetes,#ui/ux,#git,#analysis"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/teleport"
 companyWebsite: "https://goteleport.com/"
 summary: "To apply as a Developer Advocate at Teleport, you preferably need to have interest and experience in writing documentation, explaining how things work and engaging with community."

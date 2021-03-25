@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/eyeo/jobs/2546534"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/2546534#app"
 timestamp: 1616025600000
 hashtags: "#java,#cplusplus,#analysis,#management,#operations,#android,#content,#ui/ux,#scrum,#rest,#monitoring"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "To apply as a security software engineer at Eyeo, you preferably need to have 3 years experience minimum C++, Java."
