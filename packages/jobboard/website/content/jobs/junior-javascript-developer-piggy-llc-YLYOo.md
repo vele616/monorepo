@@ -10,9 +10,9 @@ hashtags: "#javascript,#jquery,#css,#html,#git,#office,#rest,#English,#optimizat
 jobType: "software"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "If you have 1 year experience in working as a Javascript developer, Piggy-llc has a job opening for a junior javascript developer"
+summary: "If you have at least 1 year experience in working as a Javascript developer, Piggy has a job opening for a Junior JavaScript Developer."
 summaryBackup: "Piggy-llc is looking for a junior javascript developer that has experience in: #javascript, #jquery, #css."
-featured: 20
+featured: 5
 ---
 
 Joinpiggy.com is looking for JavaScript developers to join its technical team’s expansion. The ideal candidate will be based in a European time zone.
