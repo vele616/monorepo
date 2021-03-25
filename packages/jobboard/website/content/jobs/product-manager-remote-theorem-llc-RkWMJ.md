@@ -1,16 +1,16 @@
 ---
-title: "Product Manager - Remote"
+title: "Product Manager"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/775c2b1f-016c-4cd2-b1b6-3f9e13b992bf"
 applyUrl: "https://jobs.lever.co/theorem/775c2b1f-016c-4cd2-b1b6-3f9e13b992bf/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#marketing,#socialmedia,#figma,#scrum,#finance,#optimization"
+hashtags: "#management,#operations,#scrum,#marketing,#ui/ux,#socialmedia,#figma,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have 5+ years of professional experience at minimum, Theorem, LLC is looking for someone with your skillset."
+summary: "If you have 5+ years of professional experience at minimum, Theorem is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #management, #operations? Check out this job post!"
 featured: 20
 ---
