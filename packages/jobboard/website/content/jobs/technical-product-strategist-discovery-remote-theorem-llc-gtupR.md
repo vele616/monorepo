@@ -1,18 +1,18 @@
 ---
-title: "Technical Product Strategist - Discovery - Remote"
+title: "Technical Product Strategist"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/bda60240-c075-4d0a-920b-db3e2028d9f4"
 applyUrl: "https://jobs.lever.co/theorem/bda60240-c075-4d0a-920b-db3e2028d9f4/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#analysis,#sales,#socialmedia,#finance,#optimization"
+hashtags: "#management,#operations,#analysis,#ui/ux,#sales,#socialmedia,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "To apply as a technical product strategist at Theorem, LLC, you preferably need to have some knowledge of: experience in: #ui/ux, #management, #operations."
+summary: "To apply as a Technical Product Strategist at Theorem, you preferably need to have some knowledge of: #management, #operations, #analysis."
 summaryBackup: "Theorem, LLC is looking for a technical product strategist that has experience in: #ui/ux, #management, #operations."
-featured: 20
+featured: 19
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
@@ -48,7 +48,11 @@ We are hiring for the two roles, summarized below.
 
 [Product Strategist](https://jobs.lever.co/theorem/d8673245-f892-4c3d-b821-a933374458b2)
 
-You will lead a cross-functional team of researchers, designers, and engineers towards the creation of stakeholder-validated product strategies, concepts, roadmaps, development plans and business cases to be built upon in future [phases.](http://phases.Responsibilities)[Responsibilities](http://phases.Responsibilities) include: Project Management, Team Management, Client Management, Product Management, User Research, UX Design, Technology Research & Strategy, Analysis, and Sales Support.
+You will lead a cross-functional team of researchers, designers, and engineers towards the creation of stakeholder-validated product strategies, concepts, roadmaps, development plans and business cases to be built upon in future phases. 
+
+Responsibilities include: 
+
+Project Management, Team Management, Client Management, Product Management, User Research, UX Design, Technology Research & Strategy, Analysis, and Sales Support.
 
 [Product Engineering Strategist](https://jobs.lever.co/theorem/1bd992ea-20e7-4112-a520-0cda467cd0a8)
 
