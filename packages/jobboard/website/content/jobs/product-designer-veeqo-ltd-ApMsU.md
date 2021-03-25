@@ -2,7 +2,7 @@
 title: "Product Designer"
 location: "Swansea, GB - Remote OK"
 host: "https://veeqo-ltd.breezy.hr/"
-companyName: "veeqo-ltd"
+companyName: "veeqo ltd"
 url: "https://veeqo-ltd.breezy.hr/p/8f065077e30201-product-designer"
 applyUrl: "https://veeqo-ltd.breezy.hr/p/8f065077e30201-product-designer/apply"
 timestamp: 1616630400000
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#reactjs,#operations,#macos,#aws,#translation,#management,#mar
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/veeqo-ltd"
 companyWebsite: "https://www.veeqo.com/"
-summary: "Interested in new opportunities and have 3+ years of experience in a product design role? Veeqo-ltd has a job opening for a product designer."
+summary: "Interested in new opportunities and have 3+ years of experience in a product design role? Veeqo has a job opening for a Product Designer."
 summaryBackup: "Love #ui/ux, #reactjs, #operations? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 Product designer
