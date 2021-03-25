@@ -10,9 +10,9 @@ hashtags: "#css,#operations,#javascript,#angular,#management,#windows,#kubernete
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Urbantz is searching for a technical lead that has 1+ years of successfully leading a remote people."
+summary: "Urbantz is searching for a Technical Lead that has 1+ years of successfully leading a remote people."
 summaryBackup: "Urbantz is looking for a technical lead that has experience in: #css, #operations, #javascript."
-featured: 20
+featured: 11
 ---
 
 Is improving technology along side your coworkers your passion? Do you thrive in a fast-changing scaling environment? Then become our new Technical Lead!
@@ -39,8 +39,9 @@ About Our Stack:
 
 *   Our toolset also counts with single-command, build & deploy tasks for both production and staging environments, working along with GitLab CI. We use Protractor for the end-to-end testing and Jest for the back-end unit testing.
 
-About you: A proven track record and 1+ years of successfully leading a remote people (a team of 4-8 remote Software Engineers)
+About you: 
 
+*   A proven track record and 1+ years of successfully leading a remote people (a team of 4-8 remote Software Engineers)
 *   A willingness and passion for mentorship
 *   Have min 6 years of experience as a Software Developer
 *   Have excellent communication skills
