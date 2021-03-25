@@ -1,5 +1,5 @@
 ---
-title: "Software Engineer-Brussels OR Remote"
+title: "Software Engineer"
 location: "Brussels, BE - Remote OK"
 host: "https://urbantz.breezy.hr/"
 companyName: "urbantz"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#angular,#nodejs,#kubernetes,#css,#mongodb,#docker,#aws,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Interested in new opportunities and have 5 years? Urbantz has a job opening for a software engineer-brussels or remote."
+summary: "Interested in new opportunities and have experiance in: #javascript, #angular, #nodejs? Urbantz has a job opening for a Software Engineer."
 summaryBackup: "Love #javascript, #angular, #nodejs? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 _Your talent and creative mind are needed at Urbantz !_
