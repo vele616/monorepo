@@ -6,13 +6,13 @@ companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/29c783f8-e647-402a-9d1a-5f44e1d077aa"
 applyUrl: "https://jobs.lever.co/theorem/29c783f8-e647-402a-9d1a-5f44e1d077aa/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#operations,#management,#socialmedia,#analysis,#finance,#optimization"
+hashtags: "#operations,#management,#analysis,#socialmedia,#ui/ux,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC is searching for a technical business analyst that has 4-7 years of directly related experience."
+summary: "Theorem is searching for a Technical Business Analyst that has 4-7 years of directly related experience."
 summaryBackup: "To apply as a technical business analyst at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #operations, #management."
-featured: 20
+featured: 13
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
