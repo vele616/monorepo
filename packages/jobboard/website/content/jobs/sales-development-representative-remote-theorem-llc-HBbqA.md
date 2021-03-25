@@ -1,16 +1,16 @@
 ---
-title: "Sales Development Representative - Remote"
+title: "Sales Development Representative"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/3b16fd79-d889-4ae5-ab28-9a2779189cbd"
 applyUrl: "https://jobs.lever.co/theorem/3b16fd79-d889-4ae5-ab28-9a2779189cbd/apply"
 timestamp: 1616630400000
-hashtags: "#sales,#marketing,#ui/ux,#management,#operations,#windows,#crm,#socialmedia,#office,#finance"
+hashtags: "#sales,#marketing,#crm,#ui/ux,#management,#operations,#windows,#socialmedia,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have 1+ year of successful experience in telemarketing/sales, Theorem, LLC is looking for someone with your knowledge."
+summary: "If you have 1+ year of successful experience in telemarketing/sales, Theorem is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #marketing, #ui/ux? Check out this job post!"
 featured: 20
 ---
