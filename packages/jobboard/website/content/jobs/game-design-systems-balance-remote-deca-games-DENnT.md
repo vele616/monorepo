@@ -1,18 +1,18 @@
 ---
-title: "Game Design Systems / Balance - Remote"
+title: "Game Design Systems"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "deca games"
 url: "https://deca-games.breezy.hr/p/5d4aa1c0958701-game-design-systems-balance-remote"
 applyUrl: "https://deca-games.breezy.hr/p/5d4aa1c0958701-game-design-systems-balance-remote/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#content,#unity,#management,#marketing,#socialmedia,#jira,#analysis,#office,#optimization"
+hashtags: "#ui/ux,#unity,#jira,#management,#marketing,#content,#socialmedia,#analysis,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Interested in new opportunities and have 2-3 years of experience in a game design role? Deca-games has a job opening for a game design systems."
+summary: "Interested in new opportunities and have 2-3 years of experience in a game design role? DECA Games has a job opening for a Game Design Systems."
 summaryBackup: "Love #ui/ux, #content, #unity? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 DECA Games is looking for a talented Systems Designer / Balancer to join our growing team and help us create new and exciting features. A Systems Designer / Balancer is responsible for assisting with the conception and implementation of systems that drive player investment in their character and providing a positive environment for the multiplayer and social interactions they have with others. You will work closely with the engineers to develop engaging systems that keep players coming back.
