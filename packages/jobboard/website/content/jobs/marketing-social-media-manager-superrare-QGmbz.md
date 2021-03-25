@@ -10,9 +10,9 @@ hashtags: "#socialmedia,#marketing,#content,#management,#monitoring,#office,#opt
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "If you have 4+ years of marketing and social media marketing experience, consider applying to Superrare's job post for a new marketing & social media manager."
+summary: "If you have 4+ years of marketing and social media marketing experience, consider applying to SuperRare's job post for a new Marketing & Social Media Manager."
 summaryBackup: "Excited about #socialmedia, #marketing, #content? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 ## About SuperRare
