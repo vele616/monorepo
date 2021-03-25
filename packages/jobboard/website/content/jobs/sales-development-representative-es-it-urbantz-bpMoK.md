@@ -1,16 +1,16 @@
 ---
-title: "Sales Development Representative ES/IT"
+title: "Sales Development Representative"
 location: "Europe, ES - Remote OK"
 host: "https://urbantz.breezy.hr/"
 companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/e79e3cf4965f-sales-development-representative-es-it"
 applyUrl: "https://urbantz.breezy.hr/p/e79e3cf4965f-sales-development-representative-es-it/apply"
 timestamp: 1616630400000
-hashtags: "#sales,#css,#marketing,#windows,#management,#operations,#English"
+hashtags: "#sales,#marketing,#management,#windows,#operations,#css,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Urbantz is searching for a sales development representative es that has 6 years of prospecting experience , and a a track record of."
+summary: "Urbantz is searching for a Sales Development Representative es that has 3 - 6 years of prospecting experience, and a track record of performance in a previous similar role."
 summaryBackup: "Urbantz is looking for a sales development representative es that has experience in: #sales, #css, #marketing."
 featured: 20
 ---
@@ -46,7 +46,7 @@ _About You_
 You are energetic and positive-minded and wish to pursue a career in sales.
 
 *   Your level of Spanish or Italian must be close to native and you speak proficient level of English.
-*   You have 3 to 6 years of prospecting experience, and a a track record of performance in a previous similar role.
+*   You have 3 to 6 years of prospecting experience, and a track record of performance in a previous similar role.
 *   At least one experience in SaaS or software selling is a big big plus.
 *   You are eager to pick up the phone and talk with leads.
 *   You want to take initiative, tackle new obstacles, and solve problems we have not encountered before.
