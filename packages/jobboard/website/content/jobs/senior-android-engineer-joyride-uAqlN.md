@@ -10,9 +10,9 @@ hashtags: "#android,#git,#scrum,#office,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/joyride"
 companyWebsite: "http://www.joyridedating.com/"
-summary: "If you have an ideal candidate is autonomous, proactive, and has experience working in a variety of different platforms and technologies, Joyride is looking for someone with your knowledge."
+summary: "If you have experience working in a variety of different platforms and technologies, Joyride is looking for someone with your knowledge."
 summaryBackup: "Joyride is looking for a senior android engineer that has experience in: #android, #git, #scrum."
-featured: 20
+featured: 4
 ---
 
 ## 👏 ABOUT US
