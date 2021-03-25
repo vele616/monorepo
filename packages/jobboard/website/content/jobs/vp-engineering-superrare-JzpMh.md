@@ -1,16 +1,16 @@
 ---
-title: "VP, Engineering"
+title: "VP of Engineering"
 location: "Brooklyn, NY - Remote OK"
 host: "https://superrare.breezy.hr/"
 companyName: "superrare"
 url: "https://superrare.breezy.hr/p/f1919c5bb07b-vp-engineering"
 applyUrl: "https://superrare.breezy.hr/p/f1919c5bb07b-vp-engineering/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#marketing,#office,#socialmedia"
+hashtags: "#management,#operations,#optimization,#marketing,#office,#ui/ux,#socialmedia"
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "Interested in new opportunities and have 8+ years experience and 4+ years leadership experience? Superrare has a job opening for a vp."
+summary: "Interested in new opportunities and have 8+ years experience and 4+ years leadership experience at a startup? SuperRare has a job opening for a VP of Engineering."
 summaryBackup: "Excited about #ui/ux, #management, #marketing? Check out this job post!"
 featured: 20
 ---
