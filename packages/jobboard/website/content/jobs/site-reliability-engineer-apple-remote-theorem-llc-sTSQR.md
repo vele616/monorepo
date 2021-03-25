@@ -1,18 +1,18 @@
 ---
-title: "Site Reliability Engineer @ Apple (Remote)"
+title: "Site Reliability Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/d1a74c69-1bb4-4bb1-ba3a-e291222a31c9"
 applyUrl: "https://jobs.lever.co/theorem/d1a74c69-1bb4-4bb1-ba3a-e291222a31c9/apply"
 timestamp: 1616630400000
-hashtags: "#macos,#rubylang,#operations,#aws,#python,#ui/ux,#management,#linux,#chef,#nodejs"
+hashtags: "#kubernetes,#aws,#rubylang,#operations,#python,#ui/ux,#macos,#management,#linux,#chef,#nodejs"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC is looking for a site reliability engineer @ apple that has at Apple Retail, we are focused on building experiences that encourage our customers to learn, explore, and go further with their creativity."
+summary: "Theorem is looking for a Site Reliability Engineer that has experience with Kubernetes, Docker and related technologies."
 summaryBackup: "Love #macos, #rubylang, #operations? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Join our team of remote engineers working with world-class companies like Apple, Google, American Express, Bloomberg, and dozens more. You’ll work on interesting projects with your favorite software tools and stay remote _indefinitely._
@@ -71,7 +71,7 @@ Founded in 2007, [Theorem LLC](https://theorem.co/) is a remote-first technology
 
 Our services range from new product development, pure R & D, legacy modernization, pricing strategy development, revenue generation, process optimization, and organizational transformation and cultural design.
 
-Customers come to us because they need to change to succeed and are looking for a solution that isn't just about technology — but also people, process, and leadership. We consult, form a diverse team of experts, and deliver strategy and execution under one [roof.](http://roof.Current)
+Customers come to us because they need to change to succeed and are looking for a solution that isn't just about technology — but also people, process, and leadership. We consult, form a diverse team of experts, and deliver strategy and execution under one roof.
 
 Current and past customers include some of the household names on the Fortune 200 list but also start-ups and non-commercial organizations.
 
