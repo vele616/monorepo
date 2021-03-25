@@ -6,13 +6,13 @@ companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/ad91a8e1-57d8-41bd-9ccf-e214643a83f2"
 applyUrl: "https://jobs.lever.co/theorem/ad91a8e1-57d8-41bd-9ccf-e214643a83f2/apply"
 timestamp: 1616630400000
-hashtags: "#management,#javascript,#figma,#operations,#css,#html,#ui/ux,#socialmedia,#office,#optimization"
+hashtags: "#management,#ui/ux,#figma,#operations,#css,#html,#javascript,#socialmedia,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC wishes to hire a new digital product designer. If you have proven expert experience in all phases of the product design process including user research/synthesis, collaborative team white, consider applying."
+summary: "Theorem wishes to hire a new Digital Product Designer. If you have experience designing for longterm, complex features/products from inception to launch, consider applying."
 summaryBackup: "To apply as a digital product designer at Theorem, LLC, you preferably need to have some knowledge of: #management, #javascript, #figma."
-featured: 20
+featured: 5
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
