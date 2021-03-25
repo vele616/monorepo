@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/144fb13159ad-ios-software-engineer"
 applyUrl: "https://superrare.breezy.hr/p/144fb13159ad-ios-software-engineer/apply"
 timestamp: 1616630400000
-hashtags: "#ios,#ui/ux,#reactjs,#swift,#typescript,#objectivec,#android,#management,#marketing,#socialmedia"
+hashtags: "#ios,#swift,#objectivec,#typescript,#ui/ux,#reactjs,#android,#management,#marketing,#socialmedia"
 jobType: "software"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "If you have 4+ years of experience in iOS development, Superrare is looking for someone with your skillset."
+summary: "If you have 4+ years of experience in iOS development, SuperRare is looking for someone with your skillset."
 summaryBackup: "Excited about #ios, #ui/ux, #reactjs? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## About SuperRare
