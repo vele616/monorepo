@@ -1,16 +1,16 @@
 ---
-title: "Business Development Manager - Americas Focused - Remote"
+title: "Business Development Manager"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/00a48e6e-6c39-4f61-bb38-98639c5a1710"
 applyUrl: "https://jobs.lever.co/theorem/00a48e6e-6c39-4f61-bb38-98639c5a1710/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#socialmedia,#finance,#optimization"
+hashtags: "#management,#operations,#optimization,#ui/ux,#socialmedia,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC is looking for a business development manager that has experience in: experience in: #ui/ux, #management, #operations."
+summary: "Theorem is looking for a Business Development Manager that has experience in: #ui/ux, #management, #operations."
 summaryBackup: "To apply as a business development manager at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
 featured: 20
 ---
