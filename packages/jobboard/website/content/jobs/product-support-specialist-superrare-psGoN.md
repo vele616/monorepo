@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/c2bba999e243-product-support-specialist"
 applyUrl: "https://superrare.breezy.hr/p/c2bba999e243-product-support-specialist/apply"
 timestamp: 1616630400000
-hashtags: "#socialmedia,#management,#marketing,#office,#English"
+hashtags: "customersupport,#management,#marketing,#socialmedia,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "To apply as a product support specialist at Superrare, you preferably need to have 1+ year of experience in a customer support or related role."
+summary: "To apply as a Product Support Specialist at SuperRare, you preferably need to have 1+ year of experience in a customer support or related role."
 summaryBackup: "Superrare is looking for a product support specialist that has experience in: #socialmedia, #management, #marketing."
-featured: 20
+featured: 12
 ---
 
 ## About SuperRare
