@@ -1,5 +1,5 @@
 ---
-title: "Product Engineering Strategist - Remote"
+title: "Product Engineering Strategist"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#nodejs,#rubylang,#operations,#management,#css,#scrum,#aws,#az
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC is searching for a product engineering strategist that has 7+ years of experience in software development."
+summary: "Theorem is searching for a Product Engineering Strategist that has 7+ years of experience in software development."
 summaryBackup: "Theorem, LLC is looking for a product engineering strategist that has experience in: #ui/ux, #nodejs, #rubylang."
-featured: 20
+featured: 3
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
