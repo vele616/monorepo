@@ -6,13 +6,13 @@ companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/d8673245-f892-4c3d-b821-a933374458b2"
 applyUrl: "https://jobs.lever.co/theorem/d8673245-f892-4c3d-b821-a933374458b2/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#sales,#marketing,#socialmedia,#photoshop,#analysis,#finance,#optimization"
+hashtags: "#management,#operations,#analysis,#sales,#marketing,#socialmedia,#ui/ux,#photoshop,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC is looking for a product strategist that has experience in: experience in: #ui/ux, #management, #operations."
+summary: "Theorem is looking for a Product Strategist that has experience in: #management, #operations #analysis."
 summaryBackup: "Theorem, LLC is looking for a product strategist that has experience in: #ui/ux, #management, #operations."
-featured: 20
+featured: 15
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
