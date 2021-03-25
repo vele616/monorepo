@@ -12,7 +12,7 @@ jobType: "software"
 companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "If you have experience with iOS frameworks such as Core Data, Core Animation, etc, Piggy-llc is looking for someone with your skillset."
 summaryBackup: "To apply as a senior ios developer at Piggy-llc, you preferably need to have some knowledge of: #ios, #ui/ux, #swift."
-featured: 20
+featured: 8
 ---
 
 JoinPiggy is looking for an iOS developer responsible for the development and maintenance of applications aimed at a range of iOS devices including mobile phones and tablet computers. Your primary focus will be development of iOS applications and their integration with back-end services. You will be working alongside other engineers and developers working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and the creation of quality products is essential.
