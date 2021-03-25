@@ -2,17 +2,17 @@
 title: "Customer Support Team Manager"
 location: "Swansea, GB"
 host: "https://veeqo-ltd.breezy.hr/"
-companyName: "veeqo-ltd"
+companyName: "veeqo ltd"
 url: "https://veeqo-ltd.breezy.hr/p/0c26b7f1718a01-customer-support-team-manager"
 applyUrl: "https://veeqo-ltd.breezy.hr/p/0c26b7f1718a01-customer-support-team-manager/apply"
 timestamp: 1616630400000
-hashtags: "#management,#operations,#css,#office"
+hashtags: "#customersupport,#management,#operations,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/veeqo-ltd"
 companyWebsite: "https://www.veeqo.com/"
-summary: "To apply as a customer support team manager at Veeqo-ltd, you preferably need to have multiple years of experience working in a customer support role, with progressive experience in managing teams."
+summary: "To apply as a Customer Support Team Manager at Veeqo, you preferably need to have multiple years of experience working in a customer support role, with progressive experience in managing teams."
 summaryBackup: "To apply as a customer support team manager at Veeqo-ltd, you preferably need to have some knowledge of: #management, #operations, #css."
-featured: 20
+featured: 10
 ---
 
 Job Overview:
