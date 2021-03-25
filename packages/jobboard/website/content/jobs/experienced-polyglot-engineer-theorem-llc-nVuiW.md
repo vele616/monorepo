@@ -1,18 +1,18 @@
 ---
-title: "Experienced Polyglot Engineer"
+title: "Full Stack Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/bac45afc-7ead-4612-86d9-609c0ab52ed9"
 applyUrl: "https://jobs.lever.co/theorem/bac45afc-7ead-4612-86d9-609c0ab52ed9/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#spring,#java,#typescript,#javascript,#python,#rustlang,#scala,#operations,#management"
+hashtags: "#spring,#java,#typescript,#javascript,#python,#rustlang,#scala,#ui/ux,#operations,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "Theorem, LLC intends to hire a new experienced polyglot engineer. If you have previous experience building scalable creating microservices is required, consider applying."
+summary: "Theorem intends to hire a new Full Stack Engineer. If you have strong server side development experience utilizing Java and Spring Boot, consider applying."
 summaryBackup: "Excited about #ui/ux, #spring, #java? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
