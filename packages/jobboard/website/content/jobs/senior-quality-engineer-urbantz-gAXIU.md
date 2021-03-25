@@ -6,13 +6,13 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/f781dd433955-senior-quality-engineer"
 applyUrl: "https://urbantz.breezy.hr/p/f781dd433955-senior-quality-engineer/apply"
 timestamp: 1616630400000
-hashtags: "#operations,#javascript,#windows,#ui/ux,#css,#management,#marketing,#scrum,#office,#English"
+hashtags: "#qa,#operations,#javascript,#windows,#ui/ux,#css,#management,#marketing,#scrum,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Urbantz is searching for a senior quality engineer that has 5+ years of proven experience in Software Quality Assurance."
+summary: "Urbantz is searching for a Senior Quality Engineer that has 5+ years of proven experience in Software Quality Assurance."
 summaryBackup: "To apply as a senior quality engineer at Urbantz, you preferably need to have some knowledge of: #operations, #javascript, #windows."
-featured: 20
+featured: 16
 ---
 
 ## Senior Quality Engineer
