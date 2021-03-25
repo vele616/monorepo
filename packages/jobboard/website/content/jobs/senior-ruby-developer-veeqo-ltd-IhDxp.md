@@ -2,20 +2,19 @@
 title: "Senior Ruby Developer"
 location: "Swansea, GB - Remote OK"
 host: "https://veeqo-ltd.breezy.hr/"
-companyName: "veeqo-ltd"
+companyName: "veeqo ltd"
 url: "https://veeqo-ltd.breezy.hr/p/999af791d45301-senior-ruby-developer"
 applyUrl: "https://veeqo-ltd.breezy.hr/p/999af791d45301-senior-ruby-developer/apply"
 timestamp: 1616630400000
-hashtags: "#rubylang,#rails,#windows,#management,#scrum,#English"
+hashtags: "#rubylang,#rails,#scrum,#windows,#management,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/veeqo-ltd"
 companyWebsite: "https://www.veeqo.com/"
-summary: "To apply as a senior ruby developer at Veeqo-ltd, you preferably need to have knowledge and experience working with Ruby on Rails."
+summary: "To apply as a Senior Ruby Developer at Veeqo, you preferably need to have knowledge and experience working with Ruby on Rails."
 summaryBackup: "Love #rubylang, #rails, #windows? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
-![](https://gallery-cdn.breezy.hr/3828f/Frame%201%206.png)
 
 ## Our position
 
