@@ -1,18 +1,18 @@
 ---
-title: "Engineering Manager (Remote)"
+title: "Engineering Manager"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/b349b166-6c88-4e8d-8dd8-ebc919c96859"
 applyUrl: "https://jobs.lever.co/theorem/b349b166-6c88-4e8d-8dd8-ebc919c96859/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#socialmedia,#finance,#optimization"
+hashtags: "#management,#operations,#optimization,#socialmedia,#ui/ux,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have 5 years experience leading and managing custom software engineering teams, Theorem, LLC has a job opening for an engineering manager"
+summary: "If you have 2.5 years experience leading and managing custom software engineering teams, Theorem has a job opening for an Engineering Manager"
 summaryBackup: "To apply as an engineering manager at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
-featured: 20
+featured: 11
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
