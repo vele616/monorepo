@@ -1,5 +1,5 @@
 ---
-title: "Experienced Frontend Engineer - React - Remote"
+title: "Frontend Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#ui/ux,#javascript,#css,#vuejs,#nodejs,#typescript,#rubylang
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have as our Frontend Engineer, you have deep knowledge of the JavaScript language and experience working with modern React and common React packages, Theorem, LLC is looking for someone with your knowledge."
+summary: "If you have 5 + years of professional development experience, Theorem is looking for someone with your knowledge."
 summaryBackup: "Love #reactjs, #ui/ux, #javascript? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
