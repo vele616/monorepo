@@ -6,13 +6,13 @@ companyName: "superrare"
 url: "https://superrare.breezy.hr/p/06f3b3a604aa-site-reliability-engineer"
 applyUrl: "https://superrare.breezy.hr/p/06f3b3a604aa-site-reliability-engineer/apply"
 timestamp: 1616630400000
-hashtags: "#javascript,#docker,#terraform,#ansible,#puppet,#chef,#postgresql,#linux,#kubernetes,#marketing"
+hashtags: "#postgresql,#docker,#terraform,#javascript,#ansible,#puppet,#chef,#linux,#kubernetes,#marketing"
 jobType: "software"
 
 companyWebsite: "https://superrare.breezy.hr/"
-summary: "Interested in new opportunities and have 2+ years of experience in software development, DevOps, IT admin or similar technical role? Superrare has a job opening for a site reliability engineer."
+summary: "Interested in new opportunities and have 2+ years of experience in software development, DevOps, IT admin or similar technical role? SuperRare has a job opening for a Site Reliability Engineer."
 summaryBackup: "To apply as a site reliability engineer at Superrare, you preferably need to have some knowledge of: #javascript, #docker, #terraform."
-featured: 20
+featured: 7
 ---
 
 ## About SuperRare
