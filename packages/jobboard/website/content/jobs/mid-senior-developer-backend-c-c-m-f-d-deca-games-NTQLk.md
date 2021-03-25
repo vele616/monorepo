@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "If you at least six years of gaming industry experience, consider applying to Deca-games's job post for a new mid."
 summaryBackup: "Love #ui/ux, #python, #unity? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 We are looking for a passionate and talented Mid/ Senior Backend Developer to join our growing engineering team and play an integral role in designing, building, and scaling our architecture.
