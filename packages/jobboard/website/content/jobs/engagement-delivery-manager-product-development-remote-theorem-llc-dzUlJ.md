@@ -1,18 +1,18 @@
 ---
-title: "Engagement Delivery Manager, Product Development - Remote"
+title: "Engagement Delivery Manager, Product Development"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/d12bda69-3a7e-458b-8e0e-e8a3b736ce56"
 applyUrl: "https://jobs.lever.co/theorem/d12bda69-3a7e-458b-8e0e-e8a3b736ce56/apply"
 timestamp: 1616630400000
-hashtags: "#ui/ux,#management,#operations,#sales,#socialmedia,#finance,#optimization"
+hashtags: "#management,#operations,#sales,#socialmedia,#ui/ux,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have software Consulting experience with external clients, Theorem, LLC is looking for someone with your knowledge."
+summary: "If you have software consulting experience with external clients, Theorem is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #operations? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
