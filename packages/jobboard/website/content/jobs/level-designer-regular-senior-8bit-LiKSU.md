@@ -1,16 +1,16 @@
 ---
-title: "Level Designer (Regular & Senior)"
+title: "Level Designer"
 location: "Remote"
 host: "https://jobs.lever.co/8bitplay/?location=Remote&commitment=Remote"
 companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/b05d526d-f65a-42ca-ac4a-e239f04b08cf"
 applyUrl: "https://jobs.lever.co/8bitplay/b05d526d-f65a-42ca-ac4a-e239f04b08cf/apply"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#content"
+hashtags: "#ui/ux,#content,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit is looking for a level designer that has 2+ years of game/level design experience."
+summary: "8Bit is looking for a Level Designer that has 2+ years of game/level design experience."
 summaryBackup: "Excited about #ui/ux, #content? Check out this job post!"
 featured: 20
 ---
