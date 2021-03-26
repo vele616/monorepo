@@ -10,7 +10,7 @@ hashtags: "#unreal,#ui/ux,#photoshop"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit intends to hire a new technical artist. If you have experience with various software packages, consider applying."
+summary: "8Bit intends to hire a new Technical Artist. If you have experience with various software packages, consider applying."
 summaryBackup: "Love #unreal, #ui/ux, #photoshop? Check out this job post!"
 featured: 20
 ---
