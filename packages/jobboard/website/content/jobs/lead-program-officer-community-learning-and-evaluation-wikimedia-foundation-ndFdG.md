@@ -1,16 +1,16 @@
 ---
-title: "Lead Program Officer, Community Learning and Evaluation"
+title: "Lead Program Officer"
 location: "Remote"
 host: "https://boards.greenhouse.io/wikimedia"
 companyName: "Wikimedia Foundation"
 url: "https://boards.greenhouse.io/wikimedia/jobs/2605659"
 applyUrl: "https://boards.greenhouse.io/wikimedia/jobs/2605659#app"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#content,#management,#monitoring,#analysis,#operations,#socialmedia,#English,#finance"
+hashtags: "#management,#analysis,#monitoring,#ui/ux,#content,#operations,#socialmedia,#English,#finance"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
-summary: "If you have demonstrated capacity building, learning and monitoring design experience with a focus on online and in, Wikimedia Foundation is looking for someone with your knowledge."
+summary: "Wikimedia Foundation is looking for a Lead Program Officer that has experience in: #management, #analysis, #monitoring."
 summaryBackup: "Wikimedia Foundation is looking for a lead program officer that has experience in: #ui/ux, #content, #management."
 featured: 20
 ---
