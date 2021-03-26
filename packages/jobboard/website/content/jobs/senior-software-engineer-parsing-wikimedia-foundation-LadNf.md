@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer, Parsing"
+title: "Senior Software Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/wikimedia"
 companyName: "Wikimedia Foundation"
 url: "https://boards.greenhouse.io/wikimedia/jobs/2815346"
 applyUrl: "https://boards.greenhouse.io/wikimedia/jobs/2815346#app"
 timestamp: 1616716800000
-hashtags: "#management,#html,#content,#javascript,#php,#wordpress,#ui/ux,#operations,#analysis,#monitoring"
-jobType: "other"
+hashtags: "#management,#html,#javascript,#php,#content,#wordpress,#ui/ux,#operations,#analysis,#monitoring"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "If you have 4+ years related professional experience in functional programming or OOP, Wikimedia Foundation is looking for someone with your skillset."
 summaryBackup: "Excited about #management, #html, #content? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## SENIOR SOFTWARE ENGINEER, PARSING
@@ -35,12 +35,10 @@ On the Parsing team, we work to support and evolve all things [wikitext](https:/
 ## Skills and experience:
 
 *   Academic or professional work in one or more of the following areas
-
 *   Parsers, interpreters, or compilers
 *   Programming language runtimes
 *   Projects involving domain specific languages or markup languages
 *   Projects demonstrating expert knowledge of the HTML5 or DOM specifications
-
 *   4+ years related professional experience in functional programming or OOP
 *   Experience building software components with good performance
 *   Focused software engineering: you enjoy writing unit and integration tests, proactively addressing security and code review feedback, and thoughtfully balancing architectural tradeoffs
