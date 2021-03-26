@@ -6,11 +6,11 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/552f36f4-1383-41dd-a2e6-d36bc68e2a5b"
 applyUrl: "https://jobs.lever.co/8bitplay/552f36f4-1383-41dd-a2e6-d36bc68e2a5b/apply"
 timestamp: 1616716800000
-hashtags: "#unreal,#ui/ux"
+hashtags: "#unreal,#ui/ux,#a/v"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit intends to hire a new senior. If you have 4-5 years of experience as an animator in games, consider applying."
+summary: "8Bit intends to hire a new Senior/Lead 3D Animator. If you have 4-5 years of experience as an animator in games, consider applying."
 summaryBackup: "Love #unreal, #ui/ux? Check out this job post!"
 featured: 20
 ---
