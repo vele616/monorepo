@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/8bitplay/ec30b731-fbb3-42ef-8fcd-f37c6fee3988"
 applyUrl: "https://jobs.lever.co/8bitplay/ec30b731-fbb3-42ef-8fcd-f37c6fee3988/apply"
 timestamp: 1616716800000
 hashtags: "#cplusplus,#unreal,#ui/ux,#management,#jira,#office,#optimization,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 3+ years of experience in the production of games for consoles and PC, 8Bit is looking for someone with your knowledge."
