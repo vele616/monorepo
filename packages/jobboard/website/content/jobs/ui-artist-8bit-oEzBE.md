@@ -6,7 +6,7 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/346d1790-dfe3-47e0-8cd8-301f9deebc2c"
 applyUrl: "https://jobs.lever.co/8bitplay/346d1790-dfe3-47e0-8cd8-301f9deebc2c/apply"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#socialmedia,#photoshop,#optimization"
+hashtags: "#ui/ux,#photoshop,#optimization,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
