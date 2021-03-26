@@ -1,18 +1,18 @@
 ---
-title: "Senior Game Developer (Unity 3D)"
+title: "Senior Game Developer"
 location: "Remote"
 host: "https://jobs.lever.co/8bitplay/?location=Remote&commitment=Remote"
 companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/28680c1f-3a8a-4272-8b3d-730bc9b5a96e"
 applyUrl: "https://jobs.lever.co/8bitplay/28680c1f-3a8a-4272-8b3d-730bc9b5a96e/apply"
 timestamp: 1616716800000
-hashtags: "#unity,#java,#branding,#ui/ux,#git,#marketing,#scrum,#translation,#office,#optimization"
-jobType: "other"
+hashtags: "#unity,#java,#ui/ux,#git,#marketing,#scrum,#branding,#translation,#office,#optimization"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "To apply as a senior game developer at 8Bit, you preferably need to have 5+ years of professional experience of which at least 3 in game development."
+summary: "To apply as a Senior Game Developer at 8Bit, you preferably need to have 5+ years of professional experience of which at least 3 in game development."
 summaryBackup: "8Bit is looking for a senior game developer that has experience in: #unity, #java, #branding."
-featured: 20
+featured: 14
 ---
 
 We are hiring for **a brand new casual mobile studio** based in a fancy Warsaw office. Our client is a leading FTP producer with 30 million users worldwide every month and 200+ games under their belt.
