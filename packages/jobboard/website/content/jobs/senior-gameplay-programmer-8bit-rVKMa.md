@@ -6,13 +6,13 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/7bc5089b-b1e3-4e1b-88a2-ed8fec5610cb"
 applyUrl: "https://jobs.lever.co/8bitplay/7bc5089b-b1e3-4e1b-88a2-ed8fec5610cb/apply"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#optimization,#English"
-jobType: "other"
+hashtags: "#unreal,#cplusplus,#ui/ux,#optimization,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 5+ years of AAA game development experience, 8Bit is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #optimization, #English? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 Our client is a leading AAA console/PC studio currently working on their new IP (AAA console based on UE4).
