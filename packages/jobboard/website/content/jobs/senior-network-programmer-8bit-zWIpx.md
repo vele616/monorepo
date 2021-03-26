@@ -6,13 +6,13 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/41583468-e66f-4114-8fe1-7ea23421c597"
 applyUrl: "https://jobs.lever.co/8bitplay/41583468-e66f-4114-8fe1-7ea23421c597/apply"
 timestamp: 1616716800000
-hashtags: "#unity,#ui/ux,#office"
-jobType: "other"
+hashtags: "#cplusplus,#csharp,#unity,#ui/ux,#office"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "To apply as a senior network programmer at 8Bit, you preferably need to have with strong commercial experience of developing games."
+summary: "To apply as a Senior Network Programmer at 8Bit, you preferably need to have with strong commercial experience of developing games."
 summaryBackup: "To apply as a senior network programmer at 8Bit, you preferably need to have some knowledge of: #unity, #ui/ux, #office."
-featured: 20
+featured: 8
 ---
 
 Our Client are a games company where you will have a chance to develop some of the biggest AAA games! You’ll be joining them at a stage where they continue to grow rapidly and hire world's most wanted PC and console game engineers.
