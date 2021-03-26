@@ -1,18 +1,18 @@
 ---
-title: "Senior Game Server Engineer (Java)"
+title: "Senior Game Server Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/8bitplay/?location=Remote&commitment=Remote"
 companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/1f7c9f6c-354f-44de-a021-e361e394959d"
 applyUrl: "https://jobs.lever.co/8bitplay/1f7c9f6c-354f-44de-a021-e361e394959d/apply"
 timestamp: 1616716800000
-hashtags: "#java,#linux,#branding,#ui/ux,#redis,#postgresql,#monitoring,#English"
+hashtags: "#java,#redis,#postgresql,#linux,#branding,#ui/ux,#monitoring,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 5+ years of experience in server-side Java programming along with concurrency handling and distributed systems, 8Bit is looking for someone with your knowledge."
 summaryBackup: "8Bit is looking for a senior game server engineer that has experience in: #java, #linux, #branding."
-featured: 20
+featured: 11
 ---
 
 We are hiring for **a brand new casual mobile studio** based in a fancy Warsaw office. Our client is a leading FTP producer with 30 million users worldwide every month and 200+ games under their belt.
