@@ -6,13 +6,13 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/e8b6c579-98a0-42be-8ab0-b393f406713c"
 applyUrl: "https://jobs.lever.co/8bitplay/e8b6c579-98a0-42be-8ab0-b393f406713c/apply"
 timestamp: 1616716800000
-hashtags: "#unreal,#ui/ux,#marketing,#operations,#photoshop,#finance,#optimization"
+hashtags: "#unreal,#ui/ux,#operations,#marketing,#photoshop,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit is looking for a vfx artist that has 11 years, a team of veterans, with proven track records in developing and delivering top games is now looking for a."
+summary: "8Bit is looking for a VFX Artist that has at least 2 years of experience with visual effects for games."
 summaryBackup: "Love #unreal, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 A game development studio operating on the gaming market for 11 years, a team of veterans, with proven track records in developing and delivering top games is now looking for a **VFX Artis**t to join their team.
