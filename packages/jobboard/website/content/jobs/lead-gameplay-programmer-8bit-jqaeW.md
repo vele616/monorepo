@@ -6,13 +6,13 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/d897fbf2-0f04-4f1a-ad72-1349a0019154"
 applyUrl: "https://jobs.lever.co/8bitplay/d897fbf2-0f04-4f1a-ad72-1349a0019154/apply"
 timestamp: 1616716800000
-hashtags: "#management,#ui/ux"
-jobType: "other"
+hashtags: "#cplusplus,#management,#ui/ux"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have experience managing a team of programmers, 8Bit is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on new IP,  sci-fi RPG project is now on the lookout for a **Lead Gameplay Programmer.**
