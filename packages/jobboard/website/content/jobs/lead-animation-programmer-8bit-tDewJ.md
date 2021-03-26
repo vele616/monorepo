@@ -6,11 +6,11 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/4d4ce596-2c8a-4f91-9206-0771c4fb8deb"
 applyUrl: "https://jobs.lever.co/8bitplay/4d4ce596-2c8a-4f91-9206-0771c4fb8deb/apply"
 timestamp: 1616716800000
-hashtags: "#management,#ui/ux,#office"
+hashtags: "#animation,#cplusplus,#management,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit is searching for a lead animation programmer that has experience managing a team of programmers."
+summary: "8Bit is searching for a Lead Animation Programmer that has experience managing a team of programmers."
 summaryBackup: "Excited about #management, #ui/ux, #office? Check out this job post!"
 featured: 20
 ---
