@@ -6,11 +6,11 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/b53627ff-d5cf-4dd4-877e-8be7d6e8b9c4"
 applyUrl: "https://jobs.lever.co/8bitplay/b53627ff-d5cf-4dd4-877e-8be7d6e8b9c4/apply"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#rest,#socialmedia"
+hashtags: "#ui/ux,#management,#content,#socialmedia"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "Interested in new opportunities and have experience in critiquing and clear communication of ideas? 8Bit has a job opening for a lead artist."
+summary: "Interested in new opportunities and have a few years' of experience in game development? 8Bit has a job opening for a Lead Artist."
 summaryBackup: "Excited about #ui/ux, #rest, #socialmedia? Check out this job post!"
 featured: 20
 ---
