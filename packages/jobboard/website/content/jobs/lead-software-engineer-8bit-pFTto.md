@@ -7,12 +7,12 @@ url: "https://jobs.lever.co/8bitplay/9d1da20f-f5fc-4607-890a-831cdb19787d"
 applyUrl: "https://jobs.lever.co/8bitplay/9d1da20f-f5fc-4607-890a-831cdb19787d/apply"
 timestamp: 1616716800000
 hashtags: "#management,#unity,#unreal,#ui/ux,#office"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit intends to hire a new lead software engineer. If you have with strong commercial experience of developing games, consider applying."
+summary: "8Bit intends to hire a new Lead Software Engineer. If you have with strong commercial experience of developing games, consider applying."
 summaryBackup: "Excited about #management, #unity, #unreal? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Our Client are a games company where you will have a chance to develop some of the biggest AAA games! You’ll be joining them at a stage where they continue to grow rapidly and hire world's most wanted PC and console game engineers.
