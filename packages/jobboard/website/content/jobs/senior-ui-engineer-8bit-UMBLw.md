@@ -6,13 +6,13 @@ companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/eea54d95-1d6a-40b0-aa00-bc1fcd492213"
 applyUrl: "https://jobs.lever.co/8bitplay/eea54d95-1d6a-40b0-aa00-bc1fcd492213/apply"
 timestamp: 1616716800000
-hashtags: "#unreal,#ui/ux"
+hashtags: "#cplusplus,#unreal,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit is searching for a senior ui engineer that has with strong commercial experience of developing games."
+summary: "8Bit is searching for a Senior UI Engineer that has with strong commercial experience of developing games."
 summaryBackup: "Love #unreal, #ui/ux? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 Our Client are a games company where you will have a chance to develop some of the biggest AAA games! You’ll be joining them at a stage where they continue to grow rapidly and hire world's most wanted PC and console game engineers.
