@@ -1,16 +1,16 @@
 ---
-title: "Engine Programmer (all levels)"
+title: "Engine Programmer"
 location: "Remote"
 host: "https://jobs.lever.co/8bitplay/?location=Remote&commitment=Remote"
 companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/6f8e446d-fe2a-4466-8068-bcf4657fc3c8"
 applyUrl: "https://jobs.lever.co/8bitplay/6f8e446d-fe2a-4466-8068-bcf4657fc3c8/apply"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#management"
+hashtags: "#cplusplus,#ui/ux,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit is searching for an engine programmer that has professional videogame programming experience on at least 1 sub system of a game engine."
+summary: "8Bit is searching for an Engine Programmer that has professional videogame programming experience on at least 1 sub system of a game engine."
 summaryBackup: "Love #ui/ux, #management? Check out this job post!"
 featured: 20
 ---
