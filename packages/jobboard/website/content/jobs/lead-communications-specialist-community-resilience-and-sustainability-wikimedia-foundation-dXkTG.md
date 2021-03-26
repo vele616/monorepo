@@ -1,5 +1,5 @@
 ---
-title: "Lead Communications Specialist (Community Resilience and Sustainability)"
+title: "Lead Communications Specialist"
 location: "Remote"
 host: "https://boards.greenhouse.io/wikimedia"
 companyName: "Wikimedia Foundation"
@@ -10,9 +10,9 @@ hashtags: "#content,#operations,#management,#socialmedia,#ui/ux,#office,#German,
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
-summary: "If you have experience working across digital platforms, consider applying to Wikimedia Foundation's job post for a new lead communications specialist."
+summary: "If you have experience working across digital platforms, consider applying to Wikimedia Foundation's job post for a new Lead Communications Specialist."
 summaryBackup: "Love #content, #operations, #management? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Lead Communications Specialist (Community Resilience and Sustainability)
