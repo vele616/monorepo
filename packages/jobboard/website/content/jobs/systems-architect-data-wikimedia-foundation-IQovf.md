@@ -6,13 +6,13 @@ companyName: "Wikimedia Foundation"
 url: "https://boards.greenhouse.io/wikimedia/jobs/2976623"
 applyUrl: "https://boards.greenhouse.io/wikimedia/jobs/2976623#app"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#content,#management,#git,#operations,#socialmedia,#finance"
+hashtags: "#ui/ux,#kafka,#content,#management,#git,#operations,#socialmedia,#finance"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
-summary: "If you have this experience includes building systems in modern architectures and transitioning legacy monolithic systems to a more modular and distributed approach, Wikimedia Foundation is looking for someone with your knowledge."
+summary: "If you have experience in implementing data technologies such as relational databases, NoSQL or event streaming, Wikimedia Foundation is looking for someone with your knowledge."
 summaryBackup: "Wikimedia Foundation is looking for a systems architect that has experience in: #ui/ux, #content, #management."
-featured: 20
+featured: 17
 ---
 
 ## Systems Architect, Data 
@@ -58,7 +58,7 @@ As a strong candidate, you have a deep commitment to collective reasoning, stren
 
 ...the nonprofit organization that hosts and operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive financial support from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.
 
-## _As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics._
+As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics._
 
 ## _If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or (415) 839-6885._
 
