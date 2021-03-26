@@ -7,10 +7,10 @@ url: "https://jobs.lever.co/8bitplay/b77b3718-189f-4ca9-9fca-ff59fd510dcd"
 applyUrl: "https://jobs.lever.co/8bitplay/b77b3718-189f-4ca9-9fca-ff59fd510dcd/apply"
 timestamp: 1616716800000
 hashtags: "#ui/ux,#unity,#unreal,#management,#office,#English"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit is searching for a senior environment artist that has 5 years professional experience as an artist in the games industry with at least 1 AAA shipped title."
+summary: "8Bit is searching for a Senior Environment Artist that has 5 years professional experience as an artist in the games industry with at least 1 AAA shipped title."
 summaryBackup: "Love #ui/ux, #unity, #unreal? Check out this job post!"
 featured: 20
 ---
