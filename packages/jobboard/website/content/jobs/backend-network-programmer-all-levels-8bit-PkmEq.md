@@ -1,18 +1,18 @@
 ---
-title: "Backend Network Programmer (all levels)"
+title: "Backend Network Programmer"
 location: "Remote"
 host: "https://jobs.lever.co/8bitplay/?location=Remote&commitment=Remote"
 companyName: "8Bit"
 url: "https://jobs.lever.co/8bitplay/b81ff4d7-8066-47aa-a2f5-771ef6116a93"
 applyUrl: "https://jobs.lever.co/8bitplay/b81ff4d7-8066-47aa-a2f5-771ef6116a93/apply"
 timestamp: 1616716800000
-hashtags: "#python,#ui/ux,#management,#optimization"
-jobType: "other"
+hashtags: "#python,#cplusplus,#optimization,#ui/ux,#management"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "8Bit intends to hire a new backend network programmer. If you have experience with different debugging methods and tools, consider applying."
+summary: "8Bit intends to hire a new Backend Network Programmer. If you have experience with different debugging methods and tools, consider applying."
 summaryBackup: "8Bit is looking for a backend network programmer that has experience in: #python, #ui/ux, #management."
-featured: 20
+featured: 4
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on new IP,  sci-fi open-world project is now on the lookout for a **Backend Network Programmer** on all levels of experience, to join the team in developing complex, game-related backend services and actively look to learn more about innovations within the game industry.
