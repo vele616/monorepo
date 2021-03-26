@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/8bitplay/6f8e446d-fe2a-4466-8068-bcf4657fc3c8"
 applyUrl: "https://jobs.lever.co/8bitplay/6f8e446d-fe2a-4466-8068-bcf4657fc3c8/apply"
 timestamp: 1616716800000
 hashtags: "#cplusplus,#ui/ux,#management"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is searching for an Engine Programmer that has professional videogame programming experience on at least 1 sub system of a game engine."
