@@ -1,18 +1,18 @@
 ---
-title: "Senior Data Analyst, Dashboard Development (Temporary Contract)"
+title: "Senior Data Analyst, Dashboard Development"
 location: "Remote"
 host: "https://boards.greenhouse.io/wikimedia"
 companyName: "Wikimedia Foundation"
 url: "https://boards.greenhouse.io/wikimedia/jobs/2688000"
 applyUrl: "https://boards.greenhouse.io/wikimedia/jobs/2688000#app"
 timestamp: 1616716800000
-hashtags: "#ui/ux,#python,#analysis,#content,#operations,#office,#optimization,#finance,#English"
-jobType: "other"
+hashtags: "#rustlang,#python,#analysis,#ui/ux,#content,#operations,#office,#optimization,#finance,#English"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
-summary: "If you have experience with open, Wikimedia Foundation is looking for someone with your skillset."
+summary: "If you have experience with open-source tools, Wikimedia Foundation is looking for someone with your skillset."
 summaryBackup: "To apply as a senior data analyst at Wikimedia Foundation, you preferably need to have some knowledge of: #ui/ux, #python, #analysis."
-featured: 20
+featured: 9
 ---
 
 ## SENIOR DATA ANALYST, DASHBOARD DEVELOPMENT (TEMPORARY CONTRACT)
