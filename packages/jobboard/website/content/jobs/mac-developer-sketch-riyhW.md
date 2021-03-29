@@ -21,7 +21,7 @@ Our Mac app is a powerful vector editor at its core, but unlike many other desig
 
 You’ll join over 60 Mac, backend, frontend, QA and infrastructure engineers in the Technology team. We work in multi-disciplinary teams with different areas of responsibility. Some of us focus our technology foundations, others work on product verticals. Our work impacts the entire company, so you can expect to work closely with product managers and designers, as well.
 
-About you
+**About you**
 
 You'll be working on our Apple Design Award-winning Mac app. We primarily develop using **Swift**, though the Mac app has a large body of existing **Objective-C** which you'll need to be comfortable working with.
 
@@ -31,7 +31,7 @@ Not everything that you or your team do can be perfect, but you make sure that y
 
 You are a pragmatist and understand that technology is a medium to **build products**. You understand the tradeoffs between code readability, simplicity, development speed, performance and maintainability.
 
-About Sketch
+**About Sketch**
 
 We’re a company of diverse thinkers and doers who take pride in always improving our product. We share a vision and commitment to help each other — and our customers — create great work.
 
