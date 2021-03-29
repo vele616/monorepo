@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "To apply as a Lead Generation Specialist at Hometime, you preferably need to have some experience in: #marketing, #operations, #management."
 summaryBackup: "Hometime is looking for a lead generation specialist that has experience in: #marketing, #operations, #management."
 featured: 5
+archived: "true"
 ---
 
 Hometime is the largest and fastest growing platform and brand for flexible rental providers  in the APAC region. 

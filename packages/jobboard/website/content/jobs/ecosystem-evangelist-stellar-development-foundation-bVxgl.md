@@ -1,56 +1,50 @@
 ---
-title: "Developer Relations Associate"
-location: "Remote"
+title: "Ecosystem Evangelist"
+location: "SanFrancisco,NewYork,orRemote"
 host: "https://jobs.lever.co/stellar"
 companyName: "Stellar Development Foundation"
-url: "https://jobs.lever.co/stellar/c1a8be3f-926f-461e-ba8d-9c28aa430520"
-applyUrl: "https://jobs.lever.co/stellar/c1a8be3f-926f-461e-ba8d-9c28aa430520/apply"
-timestamp: 1611878400000
-hashtags: "#javascript,#python,#golang,#management,#finance,#content,#ui/ux,#office,#rest"
+url: "https://jobs.lever.co/stellar/0cc26f56-4dba-417c-83aa-66af3aedc878"
+applyUrl: "https://jobs.lever.co/stellar/0cc26f56-4dba-417c-83aa-66af3aedc878/apply"
+timestamp: 1616976000000
+hashtags: "#content,#javascript,#python,#golang,#finance,#ui/ux,#management,#office,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
-summary: "If you have 2+ years real-world experience in developer management, business relations, or technical writing, Stellar Development Foundation is looking for someone with your knowledge."
-summaryBackup: "To apply as a developer relations associate at Stellar Development Foundation, you preferably need to have some knowledge of: #javascript, #python, #golang."
-featured: 5
-archived: "true"
+summary: "Interested in new opportunities and have 2+ years real-world experience in developer relations or technical writing? Stellar Development Foundation has a job opening for an Ecosystem Evangelist."
+summaryBackup: "Excited about #javascript, #python, #golang? Check out this job post!"
+featured: 10
 ---
 
-Interested in helping us change the world of payments forever? The Stellar Development Foundation is looking for someone to join our ecosystem team as a Developer Relations Associate. We’re looking for someone interested in blockchain and open-source technology who is curious, technical, organized, and a great writer.
-
-In this role, you will define and create tools, processes, and content to engage developers and enterprises building on Stellar.  You will work with every single department inside SDF — as well as external partners and ecosystem participants — to help figure out and explain what it is we’re doing, and why.  Your goal: to help realize the network’s potential.  
-
-Among other things you will:
-
-\- Write and maintain developer and API docs 
-
-\- Collaborate with SDF developers on tutorials, blog posts, and reference apps and APIs
-
-\- Manage, announce, and explain Stellar-network releases
-
-\- Participate in community forums and developer support queues 
-
-\- Evaluate, advise, and advocate for third-party projects built on Stellar
-
-\- Generate tons of content
+Interested in helping us change the world of payments forever? The Stellar Development Foundation is looking for someone to join our Ecosystem Team as an Ecosystem Evangelist. In this role, you will develop strategies and create content to educate and engage developers building on Stellar.  You will work with every single department inside SDF — as well as external partners and ecosystem participants — to help figure out and explain what it is we’re doing, and why. Your goal: to help realize the network’s potential.
 
 ## You have:
 
-*   2+ years real-world experience in developer management, business relations, or technical writing
+*   A strong writing portfolio, bootcamp experience, and/or 2+ years real-world experience in developer relations or technical writing
 *   An understanding of web technologies such as TCP/IP, HTTP, JSON, and REST
-*   Proficiency with at least one programming language such as JavaScript, Go, C++, or Python
+*   A general knowledge of at least one programming language such as JavaScript, Go, C++, or Python
 *   The ability to participate in technical discussions and explain technical details to non-technical people
 *   A way with words
 
 ## You are:
 
-*   Interested in blockchain and emerging financial technology
+*   Passionate about blockchain and emerging financial technology
 *   An independent thinker, willing to float new ideas, and unafraid to ask obvious questions
 *   Capable of hitting a deadline and, conversely, getting things done when there isn’t one
-*   Results driven and skilled working in an environment with dynamic objectives
 *   Logical, a strong problem solver, and a fast learner
-*   An expert at crossing finish lines and bringing order to chaos
 *   Someone who finds time to write, no matter what
+
+## Among other things, you will:
+
+*   Collaborate with SDF developers on tutorials, blog posts, and presentations
+*   Manage, announce, and explain Stellar-network releases
+*   Actively participate in and moderate community forums 
+*   Write and maintain developer and API docs 
+*   Research and report on projects and trends in the broader blockchain space
+*   Generate tons of content
+
+## About you:
+
+*   We’re looking for someone interested in blockchain and open-source technology who is curious, logical, organized, and a good writer
 
 **About Stellar**
 
