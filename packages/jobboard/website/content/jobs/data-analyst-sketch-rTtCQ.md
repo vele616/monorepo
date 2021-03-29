@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/a9a7c881-79bd-4628-8751-ca9f2ee9978c"
 applyUrl: "https://jobs.lever.co/sketch/a9a7c881-79bd-4628-8751-ca9f2ee9978c/apply"
 timestamp: 1616976000000
-hashtags: "#marketing,#analysis,#ui/ux,#management,#sales,#postgresql,#crm,#optimization,#English"
+hashtags: "#analysis,#postgresql,#optimization,#ui/ux,#management,#sales,#crm,#marketing,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
 summary: "If you have 1-3 years of relevant working experience, Sketch is looking for someone with your skillset."
 summaryBackup: "Sketch is looking for a data analyst that has experience in: #marketing, #analysis, #ui/ux."
-featured: 20
+featured: 6
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products every day. Want to join and help take our analytics team to the next level? 
