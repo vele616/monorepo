@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/cb19c510-d0bc-4b72-8b21-a9242b886bd3"
 applyUrl: "https://jobs.lever.co/sketch/cb19c510-d0bc-4b72-8b21-a9242b886bd3/apply"
 timestamp: 1616976000000
-hashtags: "#ui/ux,#swift,#objectivec,#management,#macos,#git,#office,#English"
-jobType: "other"
+hashtags: "#swift,#objectivec,#macos,#management,#git,#ui/ux,#office,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
-summary: "If you have experience with code reviews, constructive critiques and good documentation, Sketch is looking for someone with your knowledge."
+summary: "If you have professional Mac development work experience, Sketch is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #swift, #objectivec? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Sketch is a design platform with an award-winning native Mac app and browser-based collaboration tools. Over a million people use our product to create their best work. And right now, we’re looking for Mac developers to join us.
