@@ -6,16 +6,15 @@ companyName: "Luckbox"
 url: "https://luckbox.recruitee.com/o/data-scientist"
 applyUrl: "https://luckbox.recruitee.com/o/data-scientist/c/new"
 timestamp: 1616976000000
-hashtags: "#analysis,#cad,#scrum,#finance,#optimization"
+hashtags: "#analysis,#scrum,#optimization,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/luckbox"
 companyWebsite: "https://luckbox.com/"
-summary: "Luckbox is searching for a data scientist that has on experience and a genuine interest in best practices and the latest trends in cloud solutions, self service BI and analytical modelling as well as a vision of how to do all things data right."
+summary: "Luckbox is searching for a Data Scientist that has demonstrable experience building and implementing analytical models, predictions and machine learning principles."
 summaryBackup: "Excited about #analysis, #cad, #scrum? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
-## Job description
 
 ## Job description
 
