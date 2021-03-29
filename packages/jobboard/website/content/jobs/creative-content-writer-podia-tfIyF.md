@@ -1,18 +1,18 @@
 ---
 title: "Creative Content Writer"
-location: ""
+location: "remote"
 host: "https://apply.workable.com/podia/"
 companyName: "Podia"
 url: "https://apply.workable.com/podia/j/B5840CB5FE/"
 applyUrl: "https://apply.workable.com/podia/j/B5840CB5FE/apply/"
 timestamp: 1616976000000
-hashtags: "#management,#windows,#content,#branding,#marketing,#socialmedia,#office,#rest"
+hashtags: "#management,#content,#branding,#marketing,#socialmedia,#windows,#office,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/podia"
 companyWebsite: "https://www.podia.com/"
-summary: "Interested in new opportunities and have 2+ year experience writing at least 2 amazing, long-form, SEO-friendly content pieces per week? Podia has a job opening for a creative content writer."
+summary: "Interested in new opportunities and have 2+ year experience writing at least 2 amazing, long-form, SEO-friendly content pieces per week? Podia has a job opening for a Creative Content Writer."
 summaryBackup: "Podia is looking for a creative content writer that has experience in: #management, #windows, #content."
-featured: 20
+featured: 9
 ---
 
 ## Description
