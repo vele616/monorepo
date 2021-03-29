@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Love experience in: #management, #marketing, #analysis? Check out this job post!"
 summaryBackup: "Love #management, #marketing, #analysis? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 Hometime is the largest and fastest-growing platform for flexible rental providers in the APAC region. 
