@@ -6,13 +6,13 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/e6857b19-f0eb-47d1-acd8-17697e344961"
 applyUrl: "https://jobs.lever.co/stellar/e6857b19-f0eb-47d1-acd8-17697e344961/apply"
 timestamp: 1616976000000
-hashtags: "#management,#finance,#content,#ui/ux"
+hashtags: "#management,#finance,#crypto,#content,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
-summary: "Stellar Development Foundation is looking for an international policy lead that has 7+ years of experience in international monetary/financial policy."
+summary: "Stellar Development Foundation is looking for an International Policy Lead that has 7+ years of experience in international monetary/financial policy."
 summaryBackup: "Love #management, #finance, #content? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
 **Open to candidates worldwide**
