@@ -13,6 +13,7 @@ companyWebsite: "https://www.stellar.org/"
 summary: "If you have 2+ years real-world experience in developer management, business relations, or technical writing, Stellar Development Foundation is looking for someone with your knowledge."
 summaryBackup: "To apply as a developer relations associate at Stellar Development Foundation, you preferably need to have some knowledge of: #javascript, #python, #golang."
 featured: 5
+archived: "true"
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation is looking for someone to join our ecosystem team as a Developer Relations Associate. We’re looking for someone interested in blockchain and open-source technology who is curious, technical, organized, and a great writer.

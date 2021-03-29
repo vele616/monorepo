@@ -13,6 +13,7 @@ companyWebsite: "https://www.podia.com/"
 summary: "To apply as a Senior Rails Developer at Podia, you preferably need to have some knowledge of: #rails, #javascript, #rubylang."
 summaryBackup: "To apply as a senior rails developer at Podia, you preferably need to have some knowledge of: #rails, #javascript, #rubylang."
 featured: 20
+archived: "true"
 ---
 
 ## Description

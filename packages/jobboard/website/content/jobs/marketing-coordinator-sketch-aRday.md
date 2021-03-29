@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "Excited about #marketing, #content, #management? Check out this job post!"
 summaryBackup: "Excited about #marketing, #content, #ui/ux? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take this leading design tool to the next level? We're looking to expand our team and appoint a dynamic Marketing Coordinator to join our ambitious and talented team.

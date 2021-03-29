@@ -13,6 +13,7 @@ companyWebsite: "https://www.stellar.org/"
 summary: "Stellar Development Foundation is searching for a business development manager that has 3+ years of experience working in business development and / or growing a business as a founder, especially in highly technical industries."
 summaryBackup: "To apply as a business development manager at Stellar Development Foundation, you preferably need to have some knowledge of: #finance, #management, #marketing."
 featured: 11
+archived: "true"
 ---
 
 **Open to considering remote candidates in the US and abroad**
