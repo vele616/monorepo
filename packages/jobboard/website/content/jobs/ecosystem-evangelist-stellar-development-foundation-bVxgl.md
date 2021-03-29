@@ -6,13 +6,13 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/0cc26f56-4dba-417c-83aa-66af3aedc878"
 applyUrl: "https://jobs.lever.co/stellar/0cc26f56-4dba-417c-83aa-66af3aedc878/apply"
 timestamp: 1616976000000
-hashtags: "#javascript,#python,#golang,#finance,#content,#ui/ux,#management,#office,#rest"
-jobType: "software"
+hashtags: "#content,#javascript,#python,#golang,#finance,#ui/ux,#management,#office,#rest"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
-summary: "Interested in new opportunities and have 2+ years real-world experience in developer relations or technical writing? Stellar Development Foundation has a job opening for an ecosystem evangelist."
+summary: "Interested in new opportunities and have 2+ years real-world experience in developer relations or technical writing? Stellar Development Foundation has a job opening for an Ecosystem Evangelist."
 summaryBackup: "Excited about #javascript, #python, #golang? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation is looking for someone to join our Ecosystem Team as an Ecosystem Evangelist. In this role, you will develop strategies and create content to educate and engage developers building on Stellar.  You will work with every single department inside SDF — as well as external partners and ecosystem participants — to help figure out and explain what it is we’re doing, and why. Your goal: to help realize the network’s potential.
