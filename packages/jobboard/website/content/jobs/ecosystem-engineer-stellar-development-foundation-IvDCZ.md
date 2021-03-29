@@ -6,13 +6,13 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/873bf3c1-667c-4c65-9935-b0ba6db4102f"
 applyUrl: "https://jobs.lever.co/stellar/873bf3c1-667c-4c65-9935-b0ba6db4102f/apply"
 timestamp: 1616976000000
-hashtags: "#javascript,#finance,#ui/ux,#management,#marketing,#rest"
-jobType: "other"
+hashtags: "#javascript,#rest,#management,#finance,#ui/ux,#marketing"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
-summary: "To apply as an ecosystem engineer at Stellar Development Foundation, you preferably need to have 3+ years building performant, production level, full-stack products, apps, or websites in JavaScript."
+summary: "To apply as an Ecosystem Engineer at Stellar Development Foundation, you preferably need to have 3+ years of experiance in building performant, production level, full-stack products, apps, or websites in JavaScript."
 summaryBackup: "Love #javascript, #finance, #ui/ux? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation is looking for someone to join our Ecosystem Engineer to join our team. In this role, you will devise, build, and manage tools and applications to educate and engage developers building on Stellar. You will work with both the engineering and marketing teams to devise demonstrations, and to create tools for hands-on learning. Your goal: to help realize the network’s potential.
