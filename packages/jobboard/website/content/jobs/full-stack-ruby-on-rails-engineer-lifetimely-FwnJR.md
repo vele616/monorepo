@@ -10,16 +10,16 @@ hashtags: "#rubylang,#javascript,#rails,#management,#css,#git,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/lifetimely"
 companyWebsite: "https://lifetimely.breezy.hr/"
-summary: "If you have has some experience with SQL, Lifetimely is looking for someone with your skillset."
+summary: "If you have a track record of shipping web apps preferably in Ruby on Rails in the last 3+ years, Lifetimely is looking for someone with your skillset."
 summaryBackup: "To apply as a full-stack ruby on rails engineer at Lifetimely, you preferably need to have some knowledge of: #rubylang, #javascript, #rails."
-featured: 20
+featured: 10
 ---
 
 Hey there! 👋
 
 We are a fast-growing ecommerce analytics company with thousands of customers looking for a mid-level / experienced Ruby on Rails full-stack engineer to help build out our existing SaaS product.
 
-## You can read about Lifetimely and go through our 200+ 5-star reviews on the Shopify app store: [](https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics)[https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics](https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics)
+**You can read about Lifetimely and go through our 200+ 5-star reviews on the Shopify app store: [](https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics)[https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics](https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics)**
 
 To give you a sense of scale - we collect data on millions of orders per day from thousands of ecommerce stores and process many millions of background jobs to be able to deliver reporting on how ecommerce customers behave, what they purchase and how much they will spend in the future.
 
@@ -49,7 +49,7 @@ Two meetings per week, one for the devs on Tuesday, another one on Thursdays for
 
 If you prefer to do meetings and calls or just know that you need a lot of human interaction, Lifetimely is not probably the best place for you to work at. But if you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not a lot of exciting product companies to work for, you will enjoy working with us.
 
-## You can read more about our company policies here: [](https://www.notion.so/Company-policies-c06aa89ce8884fddb7d3c0c92d5fc1c6)[https://www.notion.so/Company-policies-c06aa89ce8884fddb7d3c0c92d5fc1c6](https://www.notion.so/Company-policies-c06aa89ce8884fddb7d3c0c92d5fc1c6)
+**You can read more about our company policies here: [](https://www.notion.so/Company-policies-c06aa89ce8884fddb7d3c0c92d5fc1c6)[https://www.notion.so/Company-policies-c06aa89ce8884fddb7d3c0c92d5fc1c6](https://www.notion.so/Company-policies-c06aa89ce8884fddb7d3c0c92d5fc1c6)**
 
 ## How to apply:
 
