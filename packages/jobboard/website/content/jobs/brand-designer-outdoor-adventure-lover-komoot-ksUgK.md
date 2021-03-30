@@ -1,5 +1,5 @@
 ---
-title: "Brand Designer & Outdoor Adventure Lover 🏔🚴🥾⛷"
+title: "Brand Designer"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/komoot/"
 companyName: "komoot"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
 summary: "If you have 2+ years of experience in communications design, Komoot is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #branding, #marketing? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
