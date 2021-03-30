@@ -10,7 +10,7 @@ hashtags: "#marketing,#operations,#analysis,#branding,#css,#content,#management,
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/lifetimely"
 companyWebsite: "https://lifetimely.breezy.hr/"
-summary: "Lifetimely is looking for an ecommerce retention specialist that has experience in: experience in: #marketing, #branding, #css."
+summary: "Lifetimely is looking for an Ecommerce Retention Specialist that has experience in: #marketing, #operations, #analysis."
 summaryBackup: "Excited about #marketing, #branding, #css? Check out this job post!"
 featured: 12
 ---
