@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "If you have 3+ years of professional experience with routing and GIS technologies, consider applying to Komoot's job post for a new senior backend engineer."
 summaryBackup: "Komoot is looking for a senior backend engineer that has experience in: #java, #rustlang, #aws."
 featured: 5
+archived: "true"
 ---
 
 ## Description

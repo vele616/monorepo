@@ -13,6 +13,7 @@ companyWebsite: "https://www.sherpany.com/en/"
 summary: "To apply as an ux design specialist at Sherpany, you preferably need to have you continuously develop user experiences of all our digital touch points."
 summaryBackup: "Love #management, #macos, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Sherpany\`s mission is to give back time by turning formal meetings from time-wasters into value-creators. Our team is building a mobile and web based platform that allows effective choice making by digitally transforming meetings and decision making processes. In cutting administrative, organizational and repetitive work Sherpany\`s platform is actively sparing resources like paper, shipping and transportation. Within the next 5 years we aim to give back over 2 Mio. hours of extra time to people making decisions thereby enabling them to focus on value-adding work. Our headquarter is located in Zurich and we have offices in Lisbon, Berlin, Paris, Milan and Wroclaw.
