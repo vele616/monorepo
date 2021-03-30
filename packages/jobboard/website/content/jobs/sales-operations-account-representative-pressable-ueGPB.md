@@ -6,13 +6,13 @@ companyName: "Pressable"
 url: "https://boards.greenhouse.io/pressable/jobs/2963250"
 applyUrl: "https://boards.greenhouse.io/pressable/jobs/2963250#app"
 timestamp: 1617062400000
-hashtags: "#sales,#wordpress,#operations,#marketing,#office,#branding,#management,#analysis,#crm,#finance"
+hashtags: "#management,#sales,#operations,#marketing,#office,#branding,#analysis,#wordpress,#crm,#finance"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "Pressable is searching for a sales operations account representative that has 3 years of experience in Sales/Sales Operations within a fast-paced technology company, ideally in the managed WordPress hosting space."
 summaryBackup: "Pressable is looking for a sales operations account representative that has experience in: #sales, #wordpress, #operations."
-featured: 20
+featured: 14
 ---
 
 The Sales Operations Account Representative will be responsible for supporting sales and sales leadership to help increase productivity and effectiveness. This person will report directly to the Head of Sales and Enablement and respond to customer inquiries via online chat, help put together sales data, respond to payment disputes, and assist with partner and customer AP/AR tasks, amongst other day-to-day items. 
@@ -78,7 +78,7 @@ We may invite applicants to complete a limited-time paid trial as part of the hi
 
 ## How to apply
 
-## Does this sound interesting? If yes, fill out our application form below. In your cover letter, let us know what you can contribute to the team. You will need to attach a cover letter and résumé. Proofread! Make sure you spell and capitalize WordPress correctly. We are lucky to receive many applications for this position, so make your application stand out.
+**Does this sound interesting? If yes, fill out our application form below. In your cover letter, let us know what you can contribute to the team. You will need to attach a cover letter and résumé. Proofread! Make sure you spell and capitalize WordPress correctly. We are lucky to receive many applications for this position, so make your application stand out.**
 
 Please answer the following questions in your application (applications without this information will not be reviewed):
 
