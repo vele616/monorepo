@@ -29,7 +29,7 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
           </Link>
         }
       >
-        <Link className={`${styles.centerAlignedLink} link`} to="/search">
+        <Link className={`${styles.centerAlignedLink} link`} to="/search/">
           Search
         </Link>
         <a
