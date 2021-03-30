@@ -10,9 +10,9 @@ hashtags: "#android,#java,#kotlin,#macos,#content,#ui/ux,#git,#socialmedia,#moni
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
-summary: "Komoot wishes to hire a new senior android developer. If you have 4+ years of professional experience with developing high quality production native Android apps, consider applying."
+summary: "Komoot wishes to hire a new Senior Android Developer. If you have 4+ years of professional experience with developing high quality production native Android apps, consider applying."
 summaryBackup: "Komoot is looking for a senior android developer that has experience in: #android, #java, #kotlin."
-featured: 20
+featured: 12
 ---
 
 ## Description
