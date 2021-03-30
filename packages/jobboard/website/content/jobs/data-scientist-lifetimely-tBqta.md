@@ -13,6 +13,7 @@ companyWebsite: "https://lifetimely.breezy.hr/"
 summary: "Interested in new opportunities and have a working experience with Python and Tensorflow? Lifetimely has a job opening for a Data Scientist."
 summaryBackup: "Love #python, #branding, #management? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Hey - have you ever tried modeling customer lifetime value? 👋
