@@ -7,7 +7,7 @@ url: "https://apply.workable.com/komoot/j/B5A205E15D/"
 applyUrl: "https://apply.workable.com/komoot/j/B5A205E15D/apply/"
 timestamp: 1617062400000
 hashtags: "#ios,#swift,#monitoring,#ui/ux,#macos,#content,#git,#socialmedia,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
 summary: "To apply as a Senior iOS Developer at Komoot, you preferably need to have 4+ years of professional experience with developing high quality production iOS apps."

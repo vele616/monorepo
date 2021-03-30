@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/komoot"
 companyWebsite: "https://www.komoot.com/jobs"
 summary: "If you have 3-5 years experience running paid campaigns for a mobile app with hands-on experience running Apple Search Ads, Google App Campaigns and mobile social ads, Komoot has a job opening for a Performance Marketing Manager"
 summaryBackup: "Love #marketing, #macos, #python? Check out this job post!"
-featured: 13
+featured: 15
 ---
 
 ## Description

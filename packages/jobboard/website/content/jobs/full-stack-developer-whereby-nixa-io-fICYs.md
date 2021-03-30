@@ -10,7 +10,7 @@ hashtags: "#javascript,#reactjs,#aws,#operations,#terraform,#docker,#ui/ux,#mana
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
-summary: "Nixa.io wishes to hire a new Full-stack Developer. If you have worked as a full-stack developer using web technologies,, consider applying."
+summary: "Nixa.io wishes to hire a new Full-stack Developer. If you have worked as a full-stack developer using web technologies, consider applying."
 summaryBackup: "To apply as a full-stack developer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #management, #javascript."
 featured: 16
 ---
