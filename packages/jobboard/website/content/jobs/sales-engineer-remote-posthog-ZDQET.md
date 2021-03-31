@@ -1,18 +1,18 @@
 ---
-title: "Sales Engineer (Remote)"
+title: "Sales Engineer"
 location: "San Francisco, California, United States"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/626A246866/"
 applyUrl: "https://apply.workable.com/posthog/j/626A246866/apply/"
 timestamp: 1617148800000
-hashtags: "#management,#sales,#ui/ux,#marketing"
+hashtags: "#management,#sales,#marketing,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "PostHog is looking for a sales engineer that has experience in: experience in: #management, #sales, #ui/ux."
+summary: "PostHog is looking for a Sales Engineer that has experience in: #management, #sales, #marketing."
 summaryBackup: "PostHog is looking for a sales engineer that has experience in: #management, #sales, #ui/ux."
-featured: 20
+featured: 11
 ---
 
 ## Description
@@ -91,7 +91,7 @@ We're all remote, and we've raised enough to pay top of market. [We’re are pro
 *   Why you're drawn to us
 *   Your resumé and/or LinkedIn
 
-[](https://posthog.com/careers/marketer#not-sold-learn-more-first)
+
 
 **Not sold? Learn more first**
 
