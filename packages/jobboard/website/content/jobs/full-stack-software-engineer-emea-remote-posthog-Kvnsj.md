@@ -7,7 +7,7 @@ url: "https://apply.workable.com/posthog/j/DCD419C8B7/"
 applyUrl: "https://apply.workable.com/posthog/j/DCD419C8B7/apply/"
 timestamp: 1617148800000
 hashtags: "#reactjs,#python,#analysis,#ui/ux,#management,#sales"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
 summary: "If you have you have experience with relevant technologies, PostHog is looking for someone with your skillset."
