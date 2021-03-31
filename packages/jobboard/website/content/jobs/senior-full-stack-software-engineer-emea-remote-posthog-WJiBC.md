@@ -1,5 +1,5 @@
 ---
-title: "Senior Full Stack Software Engineer - EMEA (Remote)"
+title: "Senior Full Stack Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
@@ -7,12 +7,12 @@ url: "https://apply.workable.com/posthog/j/3F520065C2/"
 applyUrl: "https://apply.workable.com/posthog/j/3F520065C2/apply/"
 timestamp: 1617148800000
 hashtags: "#reactjs,#python,#analysis,#ui/ux,#management,#sales"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "If you have you have strong experience with relevant, consider applying to PostHog's job post for a new senior full stack software engineer."
+summary: "If you have you have strong experience with relevant technologies, consider applying to PostHog's job post for a new Senior Full Stack Software Engineer."
 summaryBackup: "Excited about #reactjs, #python, #analysis? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Description
@@ -64,13 +64,13 @@ _Please note - we are required to add a location to job ads, PostHog is a fully-
 
 **What we offer in return:**
 
-*   Generous [compensation](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/compensation) and equity
-*   [Unlimited, permissionless vacation](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/time-off)
+*   Generous compensation and equity
+*   Unlimited, permissionless vacation
 *   Health insurance provided (UK and US only)
-*   [Generous parental leave](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/time-off)
+*   Generous parental leave
 *   Visa sponsorship if needed, for you and your loved ones
-*   [Training budget](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/training) and [Free books](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/training#books)
-*   [$200/month budget towards coworking or café working](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/spending-money)
+*   Training budget and Free books
+*   $200/month budget towards coworking or café working
 *   Quarterly get-together with the team (once Covid allows us to travel)
 *   Carbon offsetting for work travel with [Project Wren](https://www.wren.co/)
 
@@ -86,9 +86,9 @@ Drop us a line and tell us:
 
 **Not sold? Learn more first!**
 
-*   [How we hire](https://github.com/PostHog/posthog.com/blob/growth-engineer/careers#the-process)
-*   We ask for your best work, and in return [pay generously](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/people/compensation) and have [exceptional benefits](https://github.com/PostHog/posthog.com/blob/growth-engineer/careers/#benefits)
-*   Learn about [the team you'd be working with](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/company/team)
-*   Getting hiring right is key to diversity. Learn about [how we think about this](https://github.com/PostHog/posthog.com/blob/growth-engineer/handbook/company/diversity).
+*   How we hire
+*   We ask for your best work, and in return pay generously and have exceptional benefits
+*   Learn about the team you'd be working with
+*   Getting hiring right is key to diversity. Learn about how we think about this.
 
 _We believe people from diverse backgrounds, with different identities and experiences, make our product and our company better. No matter your background, we'd love to hear from you! Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!_
