@@ -1,5 +1,5 @@
 ---
-title: "Live Chat Sales Specialist (Remote)"
+title: "Live Chat Sales Specialist"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
@@ -10,9 +10,9 @@ hashtags: "#sales,#marketing,#swift,#windows,#content,#html,#css,#wordpress,#bra
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
-summary: "To apply as a live chat sales specialist at Awesome Motive, Inc, you preferably need to have you have demonstrated experience in a sales position where your performance was measured by the volume of sales you produced."
+summary: "To apply as a Live Chat Sales Specialist at Awesome Motive, you preferably need to have demonstrated experience in a sales position where your performance was measured by the volume of sales you produced."
 summaryBackup: "To apply as a live chat sales specialist at Awesome Motive, Inc, you preferably need to have some knowledge of: #sales, #marketing, #swift."
-featured: 20
+featured: 10
 ---
 
 ## Purpose of Position
