@@ -1,18 +1,18 @@
 ---
-title: "Recruiter (Remote)"
+title: "Recruiter"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
 url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=23&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=23&source=other"
 timestamp: 1617148800000
-hashtags: "#ui/ux,#css,#windows,#wordpress,#content,#branding,#management,#marketing,#office,#English"
+hashtags: "#HR,#management,#office,#ui/ux,#css,#windows,#wordpress,#content,#branding,#marketing,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
-summary: "If you have 3 Years of experience in Software,, Awesome Motive, Inc is looking for someone with your skillset."
+summary: "If you have 3 Years of experience in software, information technology, saas, wordPress industry, Awesome Motive is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #css, #windows? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Responsibilities
