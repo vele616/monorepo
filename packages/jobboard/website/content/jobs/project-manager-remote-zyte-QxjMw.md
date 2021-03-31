@@ -1,18 +1,18 @@
 ---
-title: "Project Manager - Remote"
-location: ""
+title: "Project Manager"
+location: "remote"
 host: "https://apply.workable.com/zyte/"
 companyName: "Zyte"
 url: "https://apply.workable.com/zyte/j/F70AC2B981/"
 applyUrl: "https://apply.workable.com/zyte/j/F70AC2B981/apply/"
 timestamp: 1617148800000
-hashtags: "#management,#sales,#office,#monitoring,#optimization"
+hashtags: "#management,#optimization,#sales,#monitoring,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/zyte"
 companyWebsite: "https://zyte.com/"
-summary: "Interested in new opportunities and have 5+ years of technical project management experience, coupled with People Management responsibility? Zyte has a job opening for a project manager."
+summary: "Interested in new opportunities and have 5+ years of technical project management experience, coupled with People Management responsibility? Zyte has a job opening for a Project Manager."
 summaryBackup: "Zyte is looking for a project manager that has experience in: #management, #sales, #office."
-featured: 20
+featured: 13
 ---
 
 ## Description
