@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Software Engineer - EMEA (Remote)"
+title: "Full Stack Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
 summary: "If you have you have experience with relevant technologies, PostHog is looking for someone with your skillset."
 summaryBackup: "To apply as a full stack software engineer at PostHog, you preferably need to have some knowledge of: #reactjs, #python, #analysis."
-featured: 20
+featured: 11
 ---
 
 ## Description
@@ -61,13 +61,13 @@ _Please note - we are required to add a location to job ads, PostHog is a fully-
 
 **What we offer in return:**
 
-*   Generous, transparent [compensation](https://github.com/PostHog/ops/issues/(/handbook/people/compensation)) and [equity](https://posthog.com/handbook/people/compensation) in PostHog
-*   [Unlimited, permissionless vacation](https://github.com/handbook/people/time-off) with a 25 day minimum
-*   Private [health insurance](https://posthog.com/careers#benefits) including dental and vision provided for our team in the UK
+*   Generous, transparent compensation and equity in PostHog
+*   Unlimited, permissionless vacation with a 25 day minimum
+*   Private health insurance including dental and vision provided for our team in the UK
 *   Pension contributions
-*   [Generous parental leave](https://github.com/handbook/people/time-off)
-*   [Training budget](https://github.com/handbook/people/training) and [free books](https://github.com/handbook/people/training#books)
-*   [$200/month budget towards co-working or café working](https://github.com/handbook/people/spending-money)
+*   Generous parental leave
+*   Training budget and free books
+*   $200/month budget towards co-working or café working
 *   Quarterly get-together with the team (once Covid allows us to travel)
 *   Carbon offsetting for work travel with [Project Wren](https://www.wren.co/)
 
@@ -81,9 +81,9 @@ _Please note that benefits vary slightly by country. If you have any questions, 
 
 **Not sold? Learn more first**
 
-*   [How we hire](https://github.com/careers#the-process)
-*   We ask for your best work, and in return [pay generously](https://github.com/handbook/people/compensation) and have [exceptional benefits](https://github.com/careers/#benefits)
-*   Learn about [the team you'd be working with](https://github.com/handbook/company/team)
-*   Getting hiring right is key to diversity. Learn about [how we think about this](https://github.com/handbook/company/diversity).
+*   How we hire
+*   We ask for your best work, and in return pay generously and have exceptional benefits
+*   Learn about the team you'd be working with
+*   Getting hiring right is key to diversity. Learn about how we think about this.
 
 _We believe people from diverse backgrounds, with different identities and experiences, make our product and our company better. No matter your background, we'd love to hear from you! Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!_
