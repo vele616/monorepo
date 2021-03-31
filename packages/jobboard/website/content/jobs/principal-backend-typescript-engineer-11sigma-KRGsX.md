@@ -6,13 +6,13 @@ companyName: "11sigma"
 url: "https://11sigma.breezy.hr/p/cf88c7238e5c01-principal-backend-typescript-engineer"
 applyUrl: "https://11sigma.breezy.hr/p/cf88c7238e5c01-principal-backend-typescript-engineer/apply"
 timestamp: 1617148800000
-hashtags: "#typescript,#aws,#terraform,#ui/ux,#git,#marketing,#redis,#postgresql,#office,#analysis"
+hashtags: "#typescript,#aws,#nodejs,#terraform,#ui/ux,#git,#marketing,#redis,#postgresql,#office,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/11sigma"
 companyWebsite: "https://11sigma.com/"
-summary: "To apply as a principal backend typescript engineer at 11sigma, you preferably need to have 10+ years of experience in professional software development."
+summary: "To apply as a Principal Backend Typescript engineer at 11sigma, you preferably need to have 10+ years of experience in professional software development."
 summaryBackup: "Love #typescript, #aws, #terraform? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Hi! My name is Chris, I’m the CEO of [11Sigma](https://11sigma.com/), and I’d like to invite you to join our team.
@@ -35,7 +35,6 @@ To find exciting work and open amazing opportunities we partner with tech startu
 
 If the above resonates with you, please read on.
 
-![](https://gallery-cdn.breezy.hr/7d73b/191120-dark-text-contained.png)
 
 ## Job Description
 
