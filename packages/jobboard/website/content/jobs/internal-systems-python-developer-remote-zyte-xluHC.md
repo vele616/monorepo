@@ -1,6 +1,6 @@
 ---
-title: "Internal Systems Python Developer - Remote"
-location: ""
+title: "Internal Systems Python Developer"
+location: "remote"
 host: "https://apply.workable.com/zyte/"
 companyName: "Zyte"
 url: "https://apply.workable.com/zyte/j/61B6B9BC51/"
@@ -10,9 +10,9 @@ hashtags: "#python,#django,#javascript,#rails,#css,#html,#aws,#ui/ux,#sales,#HR"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/zyte"
 companyWebsite: "https://zyte.com/"
-summary: "Zyte is searching for an internal systems python developer that has 3+ years of experience with development in Python."
+summary: "Zyte is searching for an Internal Systems Python Developer that has 3+ years of experience with development in Python."
 summaryBackup: "Zyte is looking for an internal systems python developer that has experience in: #python, #django, #javascript."
-featured: 20
+featured: 9
 ---
 
 ## Description
