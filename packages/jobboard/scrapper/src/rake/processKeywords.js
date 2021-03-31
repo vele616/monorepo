@@ -14,7 +14,7 @@ module.exports = (phrases, keywords, language) => {
   for (const keyword of Object.keys(keywordIndex)) {
     for (const phrase of Object.keys(phrases)) {
       if(keyword === phrase) {
-        result[keywordIndex[keyword]] = phrases[phrase];
+        result[keywordIndex[keyword]] = (result[keywordIndex[keyword]] || 0) + phrases[phrase];
       }
     }
   }

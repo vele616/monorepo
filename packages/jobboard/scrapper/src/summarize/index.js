@@ -13,7 +13,7 @@ const createTLDR = (company, position, phrase, selectedRegex) => [
   },
   {
     regex: [5],
-    expression: `${company} is looking for ${getPreposition(position)} ${position} that has experience in: ${phrase}.`,
+    expression: `${company} is looking for ${getPreposition(position)} ${position} that has ${phrase}.`,
   },
   {
     regex: [0, 1, 2, 3, 4],
@@ -57,7 +57,7 @@ const createTLDR = (company, position, phrase, selectedRegex) => [
   },
   {
     regex: [5],
-    expression: `To apply as ${getPreposition(position)} ${position} at ${company}, you preferably need to have some knowledge of: ${phrase}.`,
+    expression: `To apply as ${getPreposition(position)} ${position} at ${company}, you preferably need to have some ${phrase}.`,
   },
 ].filter(t => t.regex.includes(selectedRegex));
 
