@@ -12,6 +12,7 @@ companyWebsite: "http://www.gogoapps.io/"
 summary: "If you have 3+ years of experience designing products for both desktop and mobile, GogoApps S.A. is looking for someone with your knowledge."
 summaryBackup: "GogoApps S.A. is looking for an ux designer that has experience in: #ui/ux, #css, #html."
 featured: 5
+archived: "true"
 ---
 
 ## Job description
