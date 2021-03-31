@@ -18,6 +18,6 @@ body {
 
 .jobs {
   @include mediaQuery(">tabletPortrait"){
-    margin-left: 25% !important;
+    //margin-left: 15% !important;
   }
 }

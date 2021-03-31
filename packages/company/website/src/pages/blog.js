@@ -1,13 +1,15 @@
 import React from "react";
 import Layout from "../components/Layout";
-import BlogHeader from "../components/Blog/Header";
+import MostRecent from "../components/Blog/MostRecent";
+import Header from "../components/Blog/Header";
 
 export default function Blog({ data }) {
   const { big, small1, small2 } = data.blogJson;
 
   return (
     <Layout stickyFooter>
-      <BlogHeader featured={big} post1={small1} post2={small2} />
+      <Header />
+      <MostRecent featured={big} post1={small1} post2={small2} />
     </Layout>
   );
 }
