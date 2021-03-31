@@ -13,6 +13,7 @@ companyWebsite: "https://zyte.com/"
 summary: "To apply as a senior Frontend Developer at Zyte, you preferably need to have in depth experience with the Angular framework."
 summaryBackup: "Love #python, #javascript, #reactjs? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Description
