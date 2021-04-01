@@ -2,39 +2,56 @@ import React from "react";
 import Layout from "../components/Layout";
 import MostRecent from "../components/Blog/MostRecent";
 import Header from "../components/Blog/Header";
+import Posts from "../components/Blog/Posts";
 
 export default function Blog({ data }) {
-  const { big, small1, small2 } = data.blogJson;
+  const nodes = data?.allMarkdownRemark?.edges.map((t) => t.node);
+
+  const posts = nodes.map((n) => ({
+    timeToRead: n.timeToRead,
+    category: n.frontmatter.category,
+    date: n.frontmatter.date,
+    description: n.frontmatter.description,
+    title: n.frontmatter.title,
+    image: n.frontmatter.image,
+    slug: n.fields.slug,
+  }));
+
+  const [featured, post1, post2, ...rest] = posts;
 
   return (
     <Layout stickyFooter>
       <Header />
-      <MostRecent featured={big} post1={small1} post2={small2} />
+      <MostRecent featuredPost={featured} post1={post1} post2={post2} />
+      <Posts posts={rest} />
     </Layout>
   );
 }
 
 export const query = graphql`
   query QueryBlog {
-    blogJson {
-      big {
-        childImageSharp {
-          fluid(maxHeight: 700, quality: 90) {
-            ...GatsbyImageSharpFluid_withWebp
+    allMarkdownRemark(
+      sort: { fields: frontmatter___date, order: DESC }
+      filter: { frontmatter: { blog: { eq: true } } }
+    ) {
+      edges {
+        node {
+          timeToRead
+          fields {
+            slug
           }
-        }
-      }
-      small1 {
-        childImageSharp {
-          fluid(maxHeight: 700, quality: 90) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
-      small2 {
-        childImageSharp {
-          fluid(maxHeight: 700, quality: 90) {
-            ...GatsbyImageSharpFluid_withWebp
+          frontmatter {
+            category
+            date
+            description
+            title
+            image {
+              childImageSharp {
+                fluid(maxHeight: 1200, quality: 90) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
           }
         }
       }

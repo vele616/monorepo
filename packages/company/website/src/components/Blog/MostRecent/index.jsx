@@ -3,8 +3,9 @@ import styles from "./index.module.scss";
 import { Section, Typography } from "@crocoder-dev/components";
 import Img from "gatsby-image";
 import { Link } from "gatsby";
+import { Post } from "../Posts";
 
-const MostRecent = ({ featured, post1, post2 }) => {
+const MostRecent = ({ featuredPost = {}, post1 = {}, post2 = {} }) => {
   return (
     <Section className={styles.whiteBackground}>
       <div className={styles.titleWrapper}>
@@ -17,18 +18,21 @@ const MostRecent = ({ featured, post1, post2 }) => {
         >
           Most recent posts
         </Typography>
-        <Link to="/blog">
+        <Link className={styles.viewall} to="/blog">
           <Typography color="gray_2">View All Posts</Typography>
         </Link>
       </div>
       <div className={styles.wrapper}>
-        <Link to="/blog" className={styles.featured_post}>
+        <Link to={featuredPost.slug} className={styles.featured_post}>
           <figure>
             <Img
               fadeIn={false}
-              fluid={featured ? featured.childImageSharp.fluid : {}}
-              alt={"big"}
-              style={{}}
+              fluid={
+                featuredPost.image
+                  ? featuredPost.image.childImageSharp.fluid
+                  : {}
+              }
+              alt={featuredPost.title}
             />
           </figure>
           <Typography className={styles.text} element="h5">
@@ -40,7 +44,7 @@ const MostRecent = ({ featured, post1, post2 }) => {
               color="gray_11"
               fontFamily="rubik"
             >
-              growth
+              {featuredPost.category}
             </Typography>
             <Typography
               fontSize={24}
@@ -49,7 +53,7 @@ const MostRecent = ({ featured, post1, post2 }) => {
               fontWeight={700}
               fontFamily="rubik"
             >
-              Lorem ipsum dolor sit amet, consectetur cras amet.
+              {featuredPost.title}
             </Typography>
           </Typography>
           <Typography
@@ -58,73 +62,21 @@ const MostRecent = ({ featured, post1, post2 }) => {
             color="gray_11"
             fontFamily="rubik"
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-            sagittis, orci id iaculis rhoncus, lorem lacus sollicitudin sapien,
-            vitae ac.
+            {featuredPost.description}
           </Typography>
         </Link>
-        <Link to="/blog">
-          <figure>
-            <Img
-              fadeIn={false}
-              fluid={post1 ? post1.childImageSharp.fluid : {}}
-              alt={"big"}
-              style={{}}
-            />
-          </figure>
-          <Typography className={styles.text} element="h5">
-            <Typography
-              fontSize={12}
-              fontWeight={500}
-              className={styles.category}
-              element="div"
-              color="gray_11"
-              fontFamily="rubik"
-            >
-              growth
-            </Typography>
-            <Typography
-              color="gray_2"
-              fontSize={24}
-              className={styles.title}
-              fontWeight={700}
-              fontFamily="rubik"
-            >
-              Proin vestibulum justo vel nisl ornare, nec varius eu.
-            </Typography>
-          </Typography>
-        </Link>
-        <Link to="/blog">
-          <figure>
-            <Img
-              fadeIn={false}
-              fluid={post2 ? post2.childImageSharp.fluid : {}}
-              alt={"big"}
-              style={{}}
-            />
-          </figure>
-          <Typography className={styles.text} element="h5">
-            <Typography
-              fontSize={12}
-              fontWeight={1100}
-              className={styles.category}
-              element="div"
-              color="gray_11"
-              fontFamily="rubik"
-            >
-              product
-            </Typography>
-            <Typography
-              color="gray_2"
-              fontSize={24}
-              className={styles.title}
-              fontWeight={700}
-              fontFamily="rubik"
-            >
-              Proin at suscipit elit. Donec hendrerit magna quam.
-            </Typography>
-          </Typography>
-        </Link>
+        <Post
+          slug={post1.slug}
+          image={post1.image}
+          title={post1.title}
+          category={post1.category}
+        />
+        <Post
+          slug={post2.slug}
+          image={post2.image}
+          title={post2.title}
+          category={post2.category}
+        />
       </div>
     </Section>
   );
