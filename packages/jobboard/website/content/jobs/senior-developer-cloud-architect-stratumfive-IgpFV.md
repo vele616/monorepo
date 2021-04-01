@@ -1,18 +1,18 @@
 ---
-title: "Senior Developer / Cloud Architect"
+title: "Senior Cloud Architect"
 location: "Shoreham-by-Sea, England, United Kingdom"
 host: "https://apply.workable.com/stratumfive/"
 companyName: "StratumFive"
 url: "https://apply.workable.com/stratumfive/j/F9F072CE1A/"
 applyUrl: "https://apply.workable.com/stratumfive/j/F9F072CE1A/apply/"
 timestamp: 1617235200000
-hashtags: "#ui/ux,#operations,#html,#docker,#aws,#azure,#googlecloud,#analysis,#monitoring"
+hashtags: "#csharp,#aws,#kubernetes,#ui/ux,#operations,#html,#docker,#azure,#googlecloud,#analysis,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stratumfive"
 companyWebsite: "http://www.stratumfive.com/"
-summary: "StratumFive is looking for a senior developer that has 6 years of coding experience."
+summary: "StratumFive is looking for a Senior Cloud Architect that has 6 years of coding experience."
 summaryBackup: "Love #ui/ux, #operations, #html? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Description
