@@ -13,6 +13,7 @@ companyWebsite: "https://hunter.io/"
 summary: "Hunter wishes to hire a new Ruby on Rails Developer. If you have solid development experience with MVC frameworks, consider applying."
 summaryBackup: "Excited about #rubylang, #rails, #kubernetes? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description
