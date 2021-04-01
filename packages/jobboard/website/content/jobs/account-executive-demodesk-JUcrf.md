@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 3+ years of software selling experience, consider applying to Demodesk's job post for a new Account Executive."
 summaryBackup: "Demodesk is looking for an account executive that has experience in: #sales, #management, #css."
 featured: 9
+archived: "true"
 ---
 
 **Mission**
