@@ -1,18 +1,18 @@
 ---
-title: "Payroll Specialist - Fully Remote - FTC"
+title: "Payroll Specialist"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/1BDB70901A/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/1BDB70901A/apply/"
 timestamp: 1617321600000
-hashtags: "#operations,#management,#marketing,#office,#finance"
+hashtags: "#operations,#management,#finance,#marketing,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent intends to hire a new payroll specialist. If you have 5 years’ experience in international payroll, consider applying."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
