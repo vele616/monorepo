@@ -1,18 +1,18 @@
 ---
-title: "SDR Manager UK&I"
+title: "SDR Manager"
 location: "Remote-EMEA"
 host: "https://jobs.lever.co/aircall/?location=Remote%20-%20EMEA"
 companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/703cf3ca-4edd-4aec-8bb5-45a7ee880265"
 applyUrl: "https://jobs.lever.co/aircall/703cf3ca-4edd-4aec-8bb5-45a7ee880265/apply"
 timestamp: 1617321600000
-hashtags: "#sales,#management,#css,#assembly,#windows,#marketing,#monitoring"
+hashtags: "#sales,#management,#monitoring,#css,#assembly,#windows,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
-summary: "If you have 2+ years in the software sales space as both an SDR &amp, consider applying to Aircall's job post for a new sdr manager uk&i."
+summary: "If you have 2+ years in the software sales space as both an SDR & closer within the UK&I market, consider applying to Aircall's job post for a new SDR Manager."
 summaryBackup: "Aircall is looking for a sdr manager uk&i that has experience in: #sales, #management, #css."
-featured: 20
+featured: 19
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!
