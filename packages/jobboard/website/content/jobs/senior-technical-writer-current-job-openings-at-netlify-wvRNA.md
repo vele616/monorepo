@@ -2,17 +2,17 @@
 title: "Senior Technical Writer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5144985002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5144985002#app"
 timestamp: 1617321600000
-hashtags: "#content,#javascript,#ui/ux,#git,#figma,#analysis,#rest,#English"
-jobType: "software"
+hashtags: "#content,#git,#English,#javascript,#ui/ux,#figma,#analysis,#rest"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "To apply as a senior technical writer at Current Job Openings at Netlify, you preferably need to have experience with Git and docs."
+summary: "To apply as a Senior Technical Writer at Netlify, you preferably need to have experience with Git and docs-as-code workflows."
 summaryBackup: "Current Job Openings at Netlify is looking for a senior technical writer that has experience in: #content, #javascript, #ui/ux."
-featured: 20
+featured: 16
 ---
 
 ## Company Overview
