@@ -10,9 +10,9 @@ hashtags: "#rails,#ui/ux,#javascript,#typescript,#rubylang,#assembly,#terraform,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
-summary: "Aircall is searching for an application security engineer that has 3+ years of experience in Security."
+summary: "Aircall is searching for an Application Security Engineer that has 3+ years of experience in Security."
 summaryBackup: "Aircall is looking for an application security engineer that has experience in: #rails, #ui/ux, #javascript."
-featured: 20
+featured: 10
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!
