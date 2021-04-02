@@ -1,18 +1,18 @@
 ---
-title: "Management Accountant - Based Anywhere - Fully Remote"
+title: "Management Accountant"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/4B1368CF97/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/4B1368CF97/apply/"
 timestamp: 1617321600000
-hashtags: "#management,#css,#finance,#marketing,#operations,#socialmedia,#office"
+hashtags: "#accountant,#finance,#management,#css,#marketing,#operations,#socialmedia,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "Omnipresent intends to hire a new management accountant. If you have experience with Xero advantageous but not essential, consider applying."
+summary: "Love #accountant, #finance, #management? Check out this job post!"
 summaryBackup: "Love #management, #css, #finance? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Description
