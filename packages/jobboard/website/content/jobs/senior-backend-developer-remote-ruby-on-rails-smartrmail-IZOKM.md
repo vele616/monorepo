@@ -13,6 +13,7 @@ companyWebsite: "http://smartrmail.com/"
 summary: "If you have 4+ years’ experience in a Ruby on Rails development, SmartrMail has a job opening for a Senior Backend Developer"
 summaryBackup: "To apply as a senior backend developer at SmartrMail, you preferably need to have some knowledge of: #rails, #rubylang, #marketing."
 featured: 10
+archived: "true"
 ---
 
 ## Description

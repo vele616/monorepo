@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "Aircall is looking for a Business Project Manager that has experience in: #css, #sales, #assembly."
 summaryBackup: "Excited about #css, #sales, #assembly? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!

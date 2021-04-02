@@ -13,6 +13,7 @@ companyWebsite: "http://smartrmail.com/"
 summary: "If you have 3+ years’ experience in Full-Stack Ruby on Rails development, SmartrMail is looking for someone with your knowledge."
 summaryBackup: "Love #rails, #rubylang, #vuejs? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Description
