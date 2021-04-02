@@ -25,7 +25,7 @@ The Cyber Incident Response Team (CIRT) continues to push the boundaries of thre
 
 People can only act based on what they know. If our customers only understand part of their security posture, they can’t make the best decisions. You will help the customer understand the full scope of information available to them and make informed decisions about their environment. You will partner with the customer as an extension of their security team to help them to understand and mature their overall security program. If a customer experiences an incident, you will work to help by taking ownership of the customer's success and providing any resources they need to remediate and recover.
 
-## Who You Are
+**Who You Are**
 
 *   Partner with customers, helping them understand the full scope of information available and make informed decisions about their security program
 *   Tailor communication to the customer’s level of expertise, providing education and information to help them understand the bigger picture and make educated decisions
