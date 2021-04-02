@@ -1,18 +1,18 @@
 ---
-title: "Strategic Payroll Lead - Fully Remote - Based Anywhere"
+title: "Strategic Payroll Lead"
 location: "United Kingdom"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/892E4E90F7/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/892E4E90F7/apply/"
 timestamp: 1617321600000
-hashtags: "#management,#marketing,#operations,#socialmedia,#office,#finance"
+hashtags: "#management,#finance,#operations,#marketing,#socialmedia,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "If you have 10 years’ experience in international payroll, Omnipresent is looking for someone with your knowledge."
+summary: "If you have at least 10 years of experience in international payroll, Omnipresent is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #marketing, #operations? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 ## Description
