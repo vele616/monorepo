@@ -2,7 +2,7 @@
 title: "Senior Frontend Engineer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5113296002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5113296002#app"
 timestamp: 1617321600000
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#javascript,#html,#git,#figma,#ui/ux,#management"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "To apply as a senior frontend engineer at Current Job Openings at Netlify, you preferably need to have some knowledge of: experience in: #reactjs, #javascript, #html."
+summary: "To apply as a Senior Frontend Engineer at Netlify, you preferably need to have some knowledge of: #reactjs, #javascript, #html."
 summaryBackup: "Excited about #reactjs, #javascript, #html? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Company Overview
