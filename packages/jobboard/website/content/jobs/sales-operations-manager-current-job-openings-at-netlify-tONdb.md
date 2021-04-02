@@ -2,7 +2,7 @@
 title: "Sales Operations Manager"
 location: "San Francisco or Austin, TX Area (Remote)"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5166370002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5166370002#app"
 timestamp: 1617321600000
@@ -10,9 +10,9 @@ hashtags: "#sales,#operations,#management,#ui/ux,#marketing,#analytics,#analysis
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have 2-5 years experience in Sales Operations, Program Management,, Current Job Openings at Netlify is looking for someone with your knowledge."
+summary: "If you have 2-5 years experience in Sales Operations, Program Management or Strategy consulting, Netlify is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #operations, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Company Overview
@@ -40,7 +40,7 @@ We’re looking for a data driven sales operations professional who is passionat
 
 ## What skills and experience do you need?
 
-*   2-5 years experience in Sales Operations, Program Management,  or Strategy consulting. 
+*   2-5 years experience in Sales Operations, Program Management, or Strategy consulting. 
 *   1-3 years of Salesforce implementation (design, configuration, deployment) experience
 *   Success in running project timelines, communicating across business units and guiding Salesforce solutions
 *   Expert Excel skills, with comfort developing insightful models and quantitative analysis, paired with critical thinking and sound business judgment
