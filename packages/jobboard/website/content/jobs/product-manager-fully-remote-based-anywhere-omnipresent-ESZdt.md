@@ -1,23 +1,21 @@
 ---
-title: "Product Manager - Fully remote- Based Anywhere"
+title: "Product Manager"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/omnipresent-group/"
 companyName: "Omnipresent"
 url: "https://apply.workable.com/omnipresent-group/j/80111646F6/"
 applyUrl: "https://apply.workable.com/omnipresent-group/j/80111646F6/apply/"
 timestamp: 1617321600000
-hashtags: "#management,#marketing,#ui/ux,#operations,#socialmedia,#office,#rest,#finance,#English"
+hashtags: "#management,#operations,#English,#marketing,#ui/ux,#socialmedia,#office,#rest,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/omnipresent"
 companyWebsite: "https://omnipresent.com/"
-summary: "To apply as a product manager at Omnipresent, you preferably need to have maybe you have experience building and launching a product from scratch."
+summary: "To apply as a Product Manager at Omnipresent, you preferably need to be self-motivated with the ability to take initiative, and able to run complex projects end-to-end."
 summaryBackup: "To apply as a product manager at Omnipresent, you preferably need to have some knowledge of: #management, #marketing, #ui/ux."
-featured: 20
+featured: 11
 ---
 
 ## Description
-
-**TL;DR**
 
 **Why?**
 
@@ -42,7 +40,6 @@ Yet, at a time when remote work is exploding, most companies are finding it too 
 **Your role**
 
 *   You will work with other members of Product and the subject matter experts in the rest of the company to deeply understand our problem space
-
 *   You will own areas of this problem space and will lead the effort to find solutions in this space
 *   You will work closely with developers and designers to refine these solutions and their requirements to ensure we only do valuable work
 *   You will work closely with Operations, Legal and Finance to understand and sometimes change their processes, so that we are all pulling in the same direction
