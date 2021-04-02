@@ -6,13 +6,13 @@ companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/ae373a24-06e1-4a5f-96ff-65c4e7eb9e8b"
 applyUrl: "https://jobs.lever.co/redcanary/ae373a24-06e1-4a5f-96ff-65c4e7eb9e8b/apply"
 timestamp: 1617321600000
-hashtags: "#css,#ui/ux,#management,#marketing,#operations,#analysis"
+hashtags: "#management,#operations,#analysis,#css,#ui/ux,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "If you have if a customer experiences an incident, you will work to help by taking ownership of the customer's success and providing any resources they need to remediate and recover, Red Canary is looking for someone with your knowledge."
+summary: "Red Canary is looking for a Senior Incident Handler that has experience in: #management, #operations, #analysis."
 summaryBackup: "Red Canary is looking for a senior incident handler that has experience in: #css, #ui/ux, #management."
-featured: 20
+featured: 12
 ---
 
 **Why Red Canary**
