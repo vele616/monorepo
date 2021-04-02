@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is searching for a Customer Success Manager that has 2+ years experience in an Account Management or Customer Success position at a SaaS company."
 summaryBackup: "Love #management, #css, #operations? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 **Why Red Canary**

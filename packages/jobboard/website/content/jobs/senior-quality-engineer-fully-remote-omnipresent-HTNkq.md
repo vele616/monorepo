@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "If you have 5 years of technology experience, Omnipresent has a job opening for a Senior Quality Engineer"
 summaryBackup: "Excited about #javascript, #management, #marketing? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description
