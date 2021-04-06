@@ -25,6 +25,7 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
         <>
           {socialMedia.map((mediaLink) => (
             <a
+              rel="nofollow noopener noreferrer"
               className={styles.icon}
               key={mediaLink.icon}
               href={mediaLink.link}

@@ -83,6 +83,7 @@ const JobDetails = ({
         >
           Job post found at{' '}
           <a
+            rel="nofollow noopener noreferrer"
             className="link"
             style={{ fontSize: 'inherit' }}
             href={urlRef}
@@ -107,7 +108,11 @@ const JobDetails = ({
         Description
       </Typography>
       <div className={styles.text} dangerouslySetInnerHTML={{ __html: html }} />
-      <a href={applyRefUrl} className={`${styles.button} ${styles.linkButton}`}>
+      <a
+        rel="nofollow noopener noreferrer"
+        href={applyRefUrl}
+        className={`${styles.button} ${styles.linkButton}`}
+      >
         Apply for position
       </a>
     </Section>
