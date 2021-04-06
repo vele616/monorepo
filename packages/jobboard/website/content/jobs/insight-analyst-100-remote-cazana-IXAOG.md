@@ -1,18 +1,18 @@
 ---
-title: "Insight Analyst - 100% Remote"
+title: "Insight Analyst"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
 url: "https://cazana.recruitee.com/o/insight-analyst-100-remote"
 applyUrl: "https://cazana.recruitee.com/o/insight-analyst-100-remote/c/new"
 timestamp: 1617667200000
-hashtags: "#python,#marketing,#flask,#analysis,#sales,#management,#linux,#aws,#git,#postgresql"
-jobType: "software"
+hashtags: "#python,#analysis,#sales,#marketing,#flask,#management,#linux,#aws,#git,#postgresql"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "Interested in new opportunities and have 1-2 years experience manipulating and interpreting datasets using Python? Cazana has a job opening for an insight analyst."
+summary: "Interested in new opportunities and have 1-2 years experience manipulating and interpreting datasets using Python? Cazana has a job opening for an Insight Analyst."
 summaryBackup: "To apply as an insight analyst at Cazana, you preferably need to have some knowledge of: #python, #marketing, #flask."
-featured: 20
+featured: 10
 ---
 
 ## Job description
