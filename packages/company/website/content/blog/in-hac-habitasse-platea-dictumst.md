@@ -7,6 +7,142 @@ date: 1617288656
 blog: true
 author: davidabram
 ---
+
+  <demo title="DEMO">
+    <style>
+      .abc {
+        color: red;
+      }
+    </style>
+    <div className="abc">aaaa</div>
+  </demo>
+
+<snippet type="html">
+
+  ```html
+
+    <style>
+      .abc {
+        color: red;
+      }
+    </style>
+    <div class="abc">aaaa</div>
+
+  ```
+
+</snippet>
+
+<row>
+
+  <column>
+    <demo title= "DEMO">
+      <example-button>EXAMPLE</example-button>
+    </demo>
+
+  <snippet type="css">
+
+  ```css
+
+    p {
+      color: red;
+      text-align: center;
+    } 
+
+  ```
+
+  </snippet>
+
+  <snippet type="css">
+
+  ```css
+
+    p {
+      color: red;
+      text-align: center;
+    } 
+
+  ```
+
+  </snippet>
+  </column>
+
+  <column>
+    <demo title= "DEMO">
+      <div>EXAMPLE</div>
+    </demo>
+
+  <snippet type="css">
+
+  ```css
+
+    p {
+      color: red;
+      text-align: center;
+    } 
+
+  ```
+
+  </snippet>
+
+  <snippet type="css">
+
+  ```css
+
+    p {
+      color: red;
+      text-align: center;
+    } 
+
+  ```
+
+  </snippet>
+  </column>
+
+</row>
+
+<row>
+
+  <column>
+    <demo title= "DEMO">
+      <example-button>EXAMPLE</example-button>
+    </demo>
+
+  <snippet type="css">
+
+  ```css
+
+    p {
+      color: red;
+      text-align: center;
+    } 
+
+  ```
+
+  </snippet>
+
+  <snippet type="css">
+
+  ```css
+
+    p {
+      color: red;
+      text-align: center;
+    } 
+
+  ```
+
+  </snippet>
+  </column>
+
+  <column text="true">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eleifend mollis magna. Nullam eget vulputate diam, non feugiat dui. Suspendisse aliquet, libero non laoreet rhoncus, dolor ante varius augue, dignissim interdum magna ante vitae magna. Nunc efficitur tristique elit, quis laoreet mauris dictum sit amet. Suspendisse ultricies, ex vel iaculis mollis, ipsum nulla ultricies quam, sit amet tincidunt eros ex non erat. Nunc non dui nec ipsum rutrum placerat. Mauris quis neque pulvinar, pellentesque felis vel, sodales ipsum. Ut eget rutrum nisl. 
+    </br>
+    </br>
+    Nunc dapibus est ac nisl aliquet laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce mi purus, auctor ac elit at, pharetra malesuada sem. Donec diam erat, malesuada in vulputate non, bibendum ut magna. Ut ut est in lorem semper malesuada. Donec viverra sapien ipsum, eget accumsan metus vulputate id. Suspendisse pellentesque eget enim vitae mattis. Aliquam ultrices sem libero, a ullamcorper elit bibendum sed. Donec id libero porta, egestas metus in, vestibulum mauris. Cras non purus erat. Donec euismod hendrerit congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In dui erat, finibus sit amet interdum id, accumsan id erat. Donec laoreet, velit a suscipit euismod, tortor felis semper lacus, vitae luctus diam massa a nibh. Vestibulum pulvinar id tortor quis interdum. Quisque at fermentum nulla, facilisis ultrices dolor.
+  </column>
+
+</row>
+
 ## Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eleifend mollis magna. Nullam eget vulputate diam, non feugiat dui. Suspendisse aliquet, libero non laoreet rhoncus, dolor ante varius augue, dignissim interdum magna ante vitae magna. Nunc efficitur tristique elit, quis laoreet mauris dictum sit amet. Suspendisse ultricies, ex vel iaculis mollis, ipsum nulla ultricies quam, sit amet tincidunt eros ex non erat. Nunc non dui nec ipsum rutrum placerat. Mauris quis neque pulvinar, pellentesque felis vel, sodales ipsum. Ut eget rutrum nisl.
 

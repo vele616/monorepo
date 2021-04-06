@@ -14,7 +14,7 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
         image={post.frontmatter.image}
         title={post.frontmatter.title}
       />
-      <Body html={post.html} />
+      <Body html={post.html} htmlAst={post.htmlAst} />
     </Layout>
   );
 };
@@ -24,6 +24,7 @@ export const pageQuery = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
+      htmlAst
       fields {
         slug
       }
