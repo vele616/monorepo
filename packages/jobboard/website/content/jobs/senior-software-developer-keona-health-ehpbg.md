@@ -13,6 +13,7 @@ companyWebsite: "http://keonahealth.com/"
 summary: "If you have 5+ Year’s experience with javascript front-end development technologies and tools, Keona Health is looking for someone with your knowledge."
 summaryBackup: "Excited about #javascript, #reactjs, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description
