@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk intends to hire a new Operations Project Manager. If you have 3 + years experience working in a high performance environment like a fast growing startup or consultancy, consider applying."
 summaryBackup: "Excited about #management, #operations, #sales? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 **Mission**

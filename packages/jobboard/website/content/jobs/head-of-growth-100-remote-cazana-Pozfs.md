@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "If you have experience overseeing on and off-page improvements to drive traffic and revenue growth, Cazana has a job opening for a Head of Growth"
 summaryBackup: "Love #management, #ui/ux, #operations? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Netlify intends to hire a new lead developer experience engineer. If you've built things with Next.js, Nuxt, Gatsby, Eleventy, Scully, consider applying."
 summaryBackup: "Excited about #nodejs, #management, #javascript? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 ## Company Overview

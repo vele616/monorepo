@@ -1,19 +1,18 @@
 ---
-title: "Front-End Developer"
+title: "Senior Cloud Architect"
 location: "Shoreham-by-Sea, England, United Kingdom"
 host: "https://apply.workable.com/stratumfive/"
 companyName: "StratumFive"
-url: "https://apply.workable.com/stratumfive/j/CA5245C6C5/"
-applyUrl: "https://apply.workable.com/stratumfive/j/CA5245C6C5/apply/"
-timestamp: 1614124800000
-hashtags: "#javascript,#reactjs,#angular,#typescript,#ui/ux,#operations,#html,#docker,#azure,#management"
+url: "https://apply.workable.com/stratumfive/j/F9F072CE1A/"
+applyUrl: "https://apply.workable.com/stratumfive/j/F9F072CE1A/apply/"
+timestamp: 1617235200000
+hashtags: "#csharp,#aws,#kubernetes,#ui/ux,#operations,#html,#docker,#azure,#googlecloud,#analysis,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stratumfive"
 companyWebsite: "http://www.stratumfive.com/"
-summary: "StratumFive intends to hire a new Front-End Developer. If you have framework experience, consider applying."
-summaryBackup: "StratumFive is looking for a front-end developer that has experience in: #javascript, #reactjs, #angular."
-featured: 5
-archived: "true"
+summary: "StratumFive is looking for a Senior Cloud Architect that has 6 years of coding experience."
+summaryBackup: "Love #ui/ux, #operations, #html? Check out this job post!"
+featured: 12
 ---
 
 ## Description
@@ -43,31 +42,38 @@ Our fast paced development team works with cutting edge technologies that solve 
 
 **Role & Responsibilities**
 
-As _Front-End Developer_, you will play a significant role in the development of our core suite of products. Our innovative product suite consists mainly of HTML5 / webapps that have been designed to operate onboard vessels, mobile applications, desktops, and large kiosk displays. You will be responsible for the front-end development, design, and deployments using our agile-like internal process.
+As Cloud Architect you will occupy a significant position within the development team and business to shape our core suite of products. While our innovative product suite consists of several HTML5 / webapps, behind the scenes are a multitude of complex data aggregation services, high-velocity data feeds, optimised high-volume data-stores, all operating under a multi-zone clustered cloud environment. As Cloud Architect you will be responsible to expand on our existing system designs and more importantly design our next-gen versions to meet out ambitious product plans. You will need to consider cloud-op costs, resource allocations, total cost of ownership and come up with innovative solutions for a rapidly growing company that pushes the technical boundaries with every new feature.
 
-You will demonstrate leadership qualities, contribute to all technical discussions with insight and pragmatism, and drive the development of our customer facing products by combining technical vision, commercial awareness, and entrepreneurial spirit.
+You will demonstrate strong leadership qualities, contribute to all technical discussions with insight and pragmatism, and drive the development of our customer facing products by combining technical vision, commercial awareness, and entrepreneurial spirit.
 
-**Salary Range**: £45K to £50K
+**Salary Range**: £60K to £70K
 
 **Responsibilities**
 
-*   Work closely with the Lead FE developer and management to develop new features for the company's suite of products
-*   Push deployments on a regular scheduled basis using internal CI/CD pipelines
-*   Participate in code-reviews and provide constructive feedback to UI team
+*   Design robust, cohesive, and innovative cloud-native architectural solutions for our core suite of products
+*   Become an active member of the leadership team, supporting corporate responsibilities/objectives and promoting both organisational level performance and continuous improvement
+*   Ensure system designs are fit for purpose and fully meet business requirements
+*   Provide leadership and guidance to a growing team of developers spread across several geographic locations (all within same time zone)
+*   Work closely with the CTO and team-leads to build rolling 12-month roadmap of new technology and services
+*   Participate in code-reviews and provide constructive feedback to development team
+*   Educate and inspire development team on the latest cloud-native solutions, tools, and approaches to solve problems
+*   Leading your team to identify gaps in platform capability
+*   Research new technologies and tools that improve our products and internal development processes
+*   Engage in hands-on development work as required
 *   Learn, embrace, and understand the Maritime Industry
-*   Participate in a "solution-driven dev culture"
+*   Promote a "solution-driven dev culture"
 *   Expected to have regular working hours compatible with UK time zone
 *   Be able to attend periodic meetings in UK office
 
 ## Requirements
 
-*   Frontend Frameworks: Advanced Vue.js experience preferable, although general framework experience is applicable (Vue.js, React, Angular).
-*   Bundling: Webpack
-*   Testing: Jest, [Testing Library](https://testing-library.com/), Cypress
-*   Languages: JavaScript and Typescript
-*   Mapping libraries: OpenLayers/Mapbox/Leaflet
-*   CI/CD: Azure Pipelines / Github Actions / Circle CI
-*   Containers: Docker
+*   Minimum 6 years of coding experience
+*   Languages: proficient in C#/.NET Core (other comparable language proficiency potentially acceptable)
+*   Expertise within cloud-native technologies on AWS (preferred) and/or GCP, Azure
+*   Strong experience developing solutions involving Big data, OLAP, ETL/ELT, Data lakes
+*   Experience working with geospatial and time-series datasets
+*   Experience working with SQL and traditional RDBMS
+*   Experience with K8S and/or Docker, Cloud-based databases, and Cloud-based monitoring tools
 
 **Helpful Traits**
 

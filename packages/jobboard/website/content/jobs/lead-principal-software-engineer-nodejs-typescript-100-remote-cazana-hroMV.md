@@ -3,17 +3,16 @@ title: "Lead/Principal Software Engineer"
 location: "Remote job"
 host: "https://cazana.recruitee.com/"
 companyName: "Cazana"
-url: "https://cazana.recruitee.com/o/leadprincipal-software-engineer-nodejs-typescript-100-remote"
-applyUrl: "https://cazana.recruitee.com/o/leadprincipal-software-engineer-nodejs-typescript-100-remote/c/new"
-timestamp: 1614297600000
-hashtags: "#typescript,#python,#nodejs,#marketing,#terraform,#postgresql,#aws,#css,#redis,#elasticsearch"
+url: "https://cazana.recruitee.com/o/leadprincipal-software-engineer-nodejstypescript-100-remote"
+applyUrl: "https://cazana.recruitee.com/o/leadprincipal-software-engineer-nodejstypescript-100-remote/c/new"
+timestamp: 1617667200000
+hashtags: "#typescript,#python,#nodejs,#marketing,#terraform,#postgresql,#aws,#redis,#css,#elasticsearch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cazana"
 companyWebsite: "https://cazana.com/uk"
-summary: "If you have experience creating APIs and AWS knowledge, Cazana is looking for someone with your knowledge."
-summaryBackup: "Excited about #typescript, #python, #css? Check out this job post!"
+summary: "Cazana is searching for a Lead/Principal Software Engineer that has experience creating APIs and AWS knowledge."
+summaryBackup: "Love #typescript, #python, #css? Check out this job post!"
 featured: 10
-archived: "true"
 ---
 
 ## Job description
@@ -64,7 +63,7 @@ Infrastructure:**_ECS, RDS (PostgreSQL), Terraform, Elasticache (Elasticsearch a
 *   All the equipment you need to get the job done
 *   The ability to work where and when you want in order to get the job done (remote and flexible working welcome)
 *   A central London office and meeting space to use when you need it
-*   Access to free counselling, therapy and mental health support via[Spill](https://www.spill.chat/)
+*   Access to free counselling, therapy and mental health support via [Spill](https://www.spill.chat/)
 *   Access to free personal/ professional coaching via a trained internal coach
 *   Cycle to work scheme
 *   25 days holiday, all bank holidays off and any period of closure over Christmas also paid.
