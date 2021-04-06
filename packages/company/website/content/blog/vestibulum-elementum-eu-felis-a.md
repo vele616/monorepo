@@ -5,13 +5,199 @@ category: "growth"
 image: "../images/big.jpg"
 date: 1617288653
 blog: true
+author: davidabram
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eleifend mollis magna. Nullam eget vulputate diam, non feugiat dui. Suspendisse aliquet, libero non laoreet rhoncus, dolor ante varius augue, dignissim interdum magna ante vitae magna. Nunc efficitur tristique elit, quis laoreet mauris dictum sit amet. Suspendisse ultricies, ex vel iaculis mollis, ipsum nulla ultricies quam, sit amet tincidunt eros ex non erat. Nunc non dui nec ipsum rutrum placerat. Mauris quis neque pulvinar, pellentesque felis vel, sodales ipsum. Ut eget rutrum nisl.
 
-Nunc dapibus est ac nisl aliquet laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce mi purus, auctor ac elit at, pharetra malesuada sem. Donec diam erat, malesuada in vulputate non, bibendum ut magna. Ut ut est in lorem semper malesuada. Donec viverra sapien ipsum, eget accumsan metus vulputate id. Suspendisse pellentesque eget enim vitae mattis. Aliquam ultrices sem libero, a ullamcorper elit bibendum sed. Donec id libero porta, egestas metus in, vestibulum mauris. Cras non purus erat. Donec euismod hendrerit congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In dui erat, finibus sit amet interdum id, accumsan id erat. Donec laoreet, velit a suscipit euismod, tortor felis semper lacus, vitae luctus diam massa a nibh. Vestibulum pulvinar id tortor quis interdum. Quisque at fermentum nulla, facilisis ultrices dolor.
 
-Aenean tempus interdum est eu consequat. Maecenas aliquet sodales ullamcorper. Aenean vestibulum imperdiet lorem sagittis sodales. Nam suscipit lectus ante, sed consequat urna euismod eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sapien nunc, ullamcorper vel elit eget, ullamcorper facilisis risus. Sed nulla est, ultricies sed nisl quis, feugiat elementum dolor. Duis eget ante orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse et imperdiet neque, vel malesuada orci. Ut sem enim, lobortis vel nibh eget, gravida aliquet velit. Maecenas sollicitudin, nulla eu ultrices congue, arcu quam luctus orci, sit amet cursus nibh ex et turpis. Cras tempus dictum libero eget viverra. Aliquam sit amet viverra lectus. Suspendisse ut eros id dui consectetur iaculis quis a arcu. Donec iaculis iaculis vulputate.
+## Examples
 
-Aliquam ut ex neque. Quisque sed faucibus metus. Duis placerat tellus sed massa efficitur convallis. Donec non placerat odio. Vivamus elit felis, dictum nec mattis at, consequat quis purus. Curabitur at massa egestas, sollicitudin ipsum in, viverra quam. Cras sem velit, congue in mattis in, porttitor venenatis velit. Aliquam eu purus auctor, sollicitudin nulla nec, suscipit nunc. Nunc bibendum placerat quam.
+You can even apply your standard loop methods on it!
 
-Integer vulputate sed tellus a egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed nisl lectus. Fusce accumsan tortor sed lacus accumsan, sit amet bibendum est facilisis. Aenean feugiat vel erat at luctus. Proin magna elit, tincidunt vel mattis quis, efficitur feugiat nulla. In auctor dui id luctus viverra. Aliquam et turpis in orci porta tempus. Aliquam sollicitudin metus nec ultrices accumsan. In pellentesque laoreet enim eu tempus. Phasellus vel consectetur turpis, ullamcorper bibendum velit. Donec condimentum, eros eu sagittis gravida, nulla lectus scelerisque enim, nec tempus felis arcu id augue.
+### Using it with Map
+
+Use it with the map method to triple each of the number.
+
+```bash{promptUser: alice}{promptHost: dev.localhost}
+#!/bin/bash
+echo "Printing text with newline"
+echo -n "Printing text without newline"
+echo -e "\nRemoving \t backslash \t characters\n"
+```
+
+```bash
+#!/bin/bash
+echo "Printing text with newline"
+echo -n "Printing text without newline"
+echo -e "\nRemoving \t backslash \t characters\n"
+```
+
+```javascript{1,4-6}
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        `gatsby-remark-prismjs`,
+      ]
+    }
+  }
+]
+```
+
+```jsx
+class FlavorForm extends React.Component { // highlight-line
+  constructor(props) {
+    super(props);
+    this.state = {value: 'coconut'};
+
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  handleChange(event) {
+    // highlight-next-line
+    this.setState({value: event.target.value});
+  }
+
+  // highlight-start
+  handleSubmit(event) {
+    alert('Your favorite flavor is: ' + this.state.value);
+    event.preventDefault();
+  }
+  // highlight-end
+
+  render() {
+    return (
+      { /* highlight-range{1,4-9,12} */ }
+      <form onSubmit={this.handleSubmit}>
+        <label>
+          Pick your favorite flavor:
+          <select value={this.state.value} onChange={this.handleChange}>
+            <option value="grapefruit">Grapefruit</option>
+            <option value="lime">Lime</option>
+            <option value="coconut">Coconut</option>
+            <option value="mango">Mango</option>
+          </select>
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+    );
+  }
+}
+```
+
+```javascript{numberLines: true}
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        `gatsby-remark-prismjs`,
+      ]
+    }
+  }
+]
+```
+
+```javascript{numberLines: 5}
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        `gatsby-remark-prismjs`,
+      ]
+    }
+  }
+]
+```
+
+```javascript
+const dropRightWhile = (arr, func) => {
+  //change?
+  let rightIndex = arr.length;
+  while (rightIndex-- && !func(arr[rightIndex]));
+  return arr.slice(0, rightIndex + 1);
+};
+
+// Number.prototype[Symbol.iterator] = function*() {...}
+
+const even = [...10].filter(x => x % 2 === 0);
+
+even; // [ 0, 2, 4, 6, 8, 10 ]
+```
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.207/distr/fira_code.css">
+  </head>
+  <body>
+
+    <h1>My First Heading</h1>
+    <p>My first paragraph.</p>
+
+    <script>
+      document.getElementById("demo").innerHTML = "Hello JavaScript!";
+    </script>
+  </body>
+</html>
+```
+
+```css
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.207/distr/fira_code.css);
+/* Specify in CSS */
+code { font-family: 'Fira Code', monospace; }
+
+@supports (font-variation-settings: normal) {
+  code { font-family: 'Fira Code VF', monospace; }
+}
+```
+
+```scss
+/** Cross-browser filter mixin. */
+@mixin filter($value) {
+  -moz-filter: $value;
+  -ms-filter: $value;
+  -o-filter: $value;
+  -webkit-filter: $value;
+  filter: $value;
+}
+
+/** Cross-browser transform mixin. */
+@mixin transform($value) {
+  -moz-transform: $value;
+  -o-transform: $value;
+  -webkit-transform: $value;
+  transform: $value;
+}
+/** Cross-browser transition mixin. */
+@mixin transition($value) {
+  -moz-transition: $value;
+  -o-transition: $value;
+  -webkit-transition: $value;
+  transition: $value;
+}
+
+/** Cross-browser non selectable element mixin. */
+@mixin user-select-none() {
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Adds elipsis to element */
+@mixin ellipsis() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+```

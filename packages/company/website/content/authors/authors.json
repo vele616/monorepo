@@ -1,0 +1,13 @@
+{ 
+  "authors": [
+    {
+      "id":"davidabram",
+      "name":"David Abram",
+      "description": "",
+      "twitter": "https://twitter.com/devabram",
+      "linkedin": "https://www.linkedin.com/in/david-abram/",
+      "email": "david@crocoder.dev",
+      "image": "../images/authors/davidabram.png"
+    }
+  ]
+}

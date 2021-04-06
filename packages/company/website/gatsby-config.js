@@ -14,6 +14,27 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-prismjs",
+            options: {
+              classPrefix: "language-",
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: false,
+              promt: {
+                user: "croc",
+                host: "crocoder",
+                global: false,
+              },
+            },
+          },
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 1200,
+            },
+          },
+          {
             resolve: "gatsby-remark-external-links",
           },
         ],

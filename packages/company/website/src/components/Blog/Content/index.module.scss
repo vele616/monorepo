@@ -1,0 +1,49 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.header {
+  background-color: $white;
+  > div {
+    width: 100% !important;
+    border-bottom: 1px solid $gray_5;
+    padding-bottom: 50px;
+  }
+
+  .authorHeaderWrapper {
+    display: flex;
+    align-items: center;
+    .authorWrittenBy {
+      padding-left: 10px;
+    }
+
+    .avatarHeaderWrapper {
+      width: 36px;
+      height: 36px;
+      display: inline-block;
+  
+      img {
+        border-radius: 50%;
+      }
+    }
+  }
+
+  &.whiteBackground {
+    background-color: $white;
+  
+    @include mediaQuery(">=1199px") {
+      padding: 50px 100px !important;
+    }
+  
+    @include mediaQuery(">=800px", "<1199px") {
+      padding: 60px 80px !important;
+    }
+  
+    div {
+      width: auto !important;
+    }
+  }
+}
+
+.body {
+  background-color: $white;
+  padding-top: 0px;
+}

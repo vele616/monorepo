@@ -38,8 +38,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 };
 
-exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+const createBlogPages = async (graphql, createPage) => {
   const blogPostsResult = await graphql(
     `
       {
@@ -50,12 +49,47 @@ exports.createPages = async ({ graphql, actions }) => {
                 slug
               }
               id
+              frontmatter {
+                author
+              }
             }
           }
         }
       }
     `
   );
+
+  const authorsResult = await graphql(
+    `
+      {
+        authorsJson {
+          authors {
+            id
+            name
+            description
+            twitter
+            linkedin
+            email
+            image {
+              id
+              childImageSharp {
+                fluid(maxHeight: 100, quality: 90) {
+                  srcSet
+                  srcSetWebp
+                  src
+                  sizes
+                  base64
+                  aspectRatio
+                }
+              }
+            }
+          }
+        }
+      }
+    `
+  );
+
+  const authors = authorsResult.data.authorsJson.authors;
   const blogPosts = blogPostsResult.data.allMarkdownRemark.edges;
   const blogPostTemplate = path.resolve("./src/templates/BlogPost.js");
   const blogPostSocialTemplate = path.resolve(
@@ -63,11 +97,19 @@ exports.createPages = async ({ graphql, actions }) => {
   );
 
   blogPosts.forEach((post) => {
+    let author;
+    if (post.node.frontmatter.author && authors[post.node.frontmatter.author]) {
+      author = authors[blogPosts.node.frontmatter.author];
+    } else if (authors[0]) {
+      author = authors[0];
+    }
+
     createPage({
       path: post.node.fields.slug,
       component: blogPostTemplate,
       context: {
         slug: post.node.fields.slug,
+        author,
       },
     });
   });
@@ -83,4 +125,9 @@ exports.createPages = async ({ graphql, actions }) => {
       });
     });
   }
+};
+
+exports.createPages = async ({ graphql, actions }) => {
+  const { createPage } = actions;
+  await createBlogPages(graphql, createPage);
 };

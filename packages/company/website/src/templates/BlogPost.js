@@ -1,25 +1,21 @@
 import React from "react";
 import { graphql } from "gatsby";
-import Img from "gatsby-image";
+import Header from "../components/Blog/Content/Header";
+import Body from "../components/Blog/Content/Body";
+import Layout from "../components/Layout";
 
-export const BlogPostTemplate = (props) => {
-  const post = props.data.markdownRemark;
-
+export const BlogPostTemplate = ({ data, pageContext }) => {
+  const post = data.markdownRemark;
+  const { author } = pageContext;
   return (
-    <div>
-      <Img
-        fadeIn={false}
-        fluid={
-          post?.frontmatter.image
-            ? post?.frontmatter.image.childImageSharp.fluid
-            : {}
-        }
-        alt={post.frontmatter.title}
-        style={{}}
+    <Layout stickyFooter>
+      <Header
+        author={author}
+        image={post.frontmatter.image}
+        title={post.frontmatter.title}
       />
-      <h1>{post.frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: post.html }} />
-    </div>
+      <Body html={post.html} />
+    </Layout>
   );
 };
 
