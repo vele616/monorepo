@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "Cazana wishes to hire a new Head of Business Development. If you have experience as a Head of Business Development, ideally in a retail function, consider applying."
 summaryBackup: "Cazana is looking for a head of business development that has experience in: #management, #sales, #windows."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

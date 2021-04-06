@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "If you have 5+ years of related FP&A experience, with increasing levels of responsibility and seniority, Cazana is looking for someone with your skillset."
 summaryBackup: "Excited about #management, #marketing, #office? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

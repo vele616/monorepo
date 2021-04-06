@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "DockYard is searching for a Client Partner that has 3-5 years experience in software development consulting or an agency role."
 summaryBackup: "Love #management, #ui/ux, #scrum? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

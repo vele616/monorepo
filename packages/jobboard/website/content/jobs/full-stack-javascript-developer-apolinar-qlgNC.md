@@ -13,6 +13,7 @@ companyWebsite: "https://apolinargroup.com/"
 summary: "Apolinar is searching for a Full-Stack JavaScript Developer that has 4+ years of relevant industry experience."
 summaryBackup: "Apolinar is looking for a full-stack javascript developer that has experience in: #javascript, #reactjs, #angular."
 featured: 7
+archived: "true"
 ---
 
 ## Description
