@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat is searching for a senior people and organisational development partner that has 10+ years of experience in Human Resources positions of increasing scope and responsibility, preferably in fast paced, international companies."
 summaryBackup: "Excited about #ui/ux, #management, #office? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## About us 
