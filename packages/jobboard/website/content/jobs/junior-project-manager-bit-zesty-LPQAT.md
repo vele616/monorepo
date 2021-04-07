@@ -6,13 +6,13 @@ companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/C3B4205FB8/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/C3B4205FB8/apply/"
 timestamp: 1617753600000
-hashtags: "#management,#office,#monitoring"
+hashtags: "#management,#monitoring,#qa,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
-summary: "Bit Zesty is searching for a junior project manager that has relevant work experience is desirable along with a passion for IT."
+summary: "Bit Zesty is searching for a Junior Project Manager that has relevant work experience in project management, development or testing."
 summaryBackup: "To apply as a junior project manager at Bit Zesty, you preferably need to have some knowledge of: #management, #office, #monitoring."
-featured: 20
+featured: 10
 ---
 
 ## Description
