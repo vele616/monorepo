@@ -10,7 +10,7 @@ hashtags: "#management,#analysis,#monitoring,#css,#translation,#office,#optimiza
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
-summary: "EVisit is searching for a business analyst that has 2+ years in a technical, customer-facing role -- SaaS Experience preferred."
+summary: "eVisit is searching for a Business Analyst that has 2+ years of experiance in a technical, customer-facing role -- SaaS preferred."
 summaryBackup: "Excited about #management, #css, #translation? Check out this job post!"
 featured: 13
 ---
