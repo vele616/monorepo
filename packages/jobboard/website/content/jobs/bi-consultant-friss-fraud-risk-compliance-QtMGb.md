@@ -2,17 +2,17 @@
 title: "BI Consultant"
 location: "Remote job"
 host: "https://friss.recruitee.com/"
-companyName: "FRISS | fraud, risk & compliance"
+companyName: "FRISS"
 url: "https://friss.recruitee.com/o/bi-consultant"
 applyUrl: "https://friss.recruitee.com/o/bi-consultant/c/new"
 timestamp: 1617753600000
-hashtags: "#azure,#spark,#analysis,#management,#optimization,#office"
-jobType: "software"
+hashtags: "#azure,#analysis,#management,#optimization,#spark,#office"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "If you have we’d like you to have experience in as many of the following as possible, FRISS | fraud, risk & compliance is looking for someone with your skillset."
+summary: "If You have a proven track record as a BI consultant for at least 3 years, FRISS is looking for someone with your skillset."
 summaryBackup: "Love #azure, #spark, #analysis? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Job description
