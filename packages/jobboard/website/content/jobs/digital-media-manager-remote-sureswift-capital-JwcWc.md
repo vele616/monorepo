@@ -1,18 +1,18 @@
 ---
-title: "Digital Media Manager - Remote"
+title: "Digital Media Manager"
 location: "Multiple Countries"
 host: "https://sureswiftcapital.applytojob.com/apply/"
 companyName: "SureSwift Capital"
 url: "http://sureswiftcapital.applytojob.com/apply/I5iBUDGexQ/Digital-Media-Manager-Remote"
 applyUrl: "http://sureswiftcapital.applytojob.com/apply/I5iBUDGexQ/Digital-Media-Manager-Remote"
 timestamp: 1617753600000
-hashtags: "#management,#marketing,#css,#analytics,#analysis,#office,#monitoring,#optimization"
+hashtags: "#management,#marketing,#analytics,#analysis,#office,#css,#monitoring,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sureswift-capital"
 companyWebsite: "https://www.sureswiftcapital.com/"
-summary: "Interested in new opportunities and have experience working in an entrepreneurial/startup environment? SureSwift Capital has a job opening for a digital media manager."
+summary: "Interested in new opportunities and have experience working in an entrepreneurial/startup environment? SureSwift Capital has a job opening for a Digital Media Manager."
 summaryBackup: "SureSwift Capital is looking for a digital media manager that has experience in: #management, #marketing, #css."
-featured: 20
+featured: 11
 ---
 
 ## About SureSwift Capital
