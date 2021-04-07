@@ -1,5 +1,5 @@
 ---
-title: "AI Business Development Manager - Fully Remote"
+title: "AI Business Development Manager"
 location: "Toronto, ON - Remote OK"
 host: "https://cvedia.breezy.hr/"
 companyName: "cvedia"
@@ -10,7 +10,7 @@ hashtags: "#management,#marketing,#sales,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cvedia"
 companyWebsite: "https://www.cvedia.com/"
-summary: "If you have 500k to $1 Million a year in ARR, Cvedia has a job opening for an ai business development manager"
+summary: "If you have ability to deliver presentations and speak to technical capabilities of the solution, Cvedia has a job opening for an AI Business Development Manager"
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 20
 ---
@@ -19,7 +19,7 @@ CVEDIA is a funded AI company that develops deep learning solutions for some of 
 
 In this role, you will have the opportunity of working in a team of exceptionally talented and driven individuals who are all making a massive impact on our business. There is no micromanaging or babysitting at CVEDIA, everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labour.
 
-Responsibilities Include
+**Responsibilities Include**
 
 *   Effectively building and managing a pipeline of 20 to 40 active opportunities
 *   Closing of client contracts ranging in size from $500k to $1 Million a year in ARR
@@ -28,7 +28,7 @@ Responsibilities Include
 *   Accurate forecasting of pipeline and consistent delivery of quota
 *   Maintaining a high level of attention to detail and precision in communication
 
-Key Qualifications Include
+**Key Qualifications Include**
 
 *   Proof of meeting and exceeding sales and partnership goals
 *   Ability to deliver presentations and speak to technical capabilities of the solution
@@ -36,7 +36,7 @@ Key Qualifications Include
 *   Enthusiasm to contribute to a rapidly growing and innovative company culture
 *   Intelligence and ability to quickly establish credibility with a technical buyer
 
-What We Offer
+**What We Offer**
 
 *   Fully distributed team, located in 19 countries
 *   4 weeks paid holiday per year
@@ -44,7 +44,7 @@ What We Offer
 *   Anti-discriminatory company culture - we won’t discount you for things like needing to pick your kids up from school, your age, your ethnicity, or your gender
 *   An excited, communicative, and helpful team - we keep our work environment positive, but we also place importance on honesty
 
-Our Values
+**Our Values**
 
 1\. Passion - We need both energy and passion to develop cutting edge AI. To succeed at CVEDIA, you’ll need to have a a investment in both your career and the role of AI in the future of the planet.
 
@@ -56,7 +56,7 @@ Our Values
 
 5\. Communication - Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to spontaneously discuss plans and ideas with any team member on the fly, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.
 
-How to Apply
+**How to Apply**
 
 *   Please state in the subject the job position you are applying for
 *   Please mention your city and country of residence in your application
