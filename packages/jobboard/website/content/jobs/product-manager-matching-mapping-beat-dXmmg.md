@@ -1,21 +1,21 @@
 ---
-title: "Product Manager, Matching/ Mapping"
+title: "Product Manager"
 location: "Amsterdam (Netherlands), Athens (Greece),  Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2551971"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=2551971#app"
 timestamp: 1617753600000
-hashtags: "#ui/ux,#scrum,#management,#marketing,#operations,#analysis"
+hashtags: "#management,#marketing,#operations,#ui/ux,#scrum,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have experience working with data to build solutions and drive product decisions, Beat is looking for someone with your knowledge."
 summaryBackup: "Beat is looking for a product manager that has experience in: #ui/ux, #scrum, #management."
-featured: 20
+featured: 15
 ---
 
- About us 
+## About us 
 
 Beat is one of the most exciting companies to ever come out of the ride-hailing space. One city at a time, all across the globe we make transportation affordable, convenient, and safe for everyone. 
 
