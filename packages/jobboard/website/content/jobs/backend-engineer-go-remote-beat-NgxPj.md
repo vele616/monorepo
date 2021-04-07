@@ -1,21 +1,21 @@
 ---
-title: "Backend Engineer (Go) - Remote"
+title: "Backend Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3033513"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3033513#app"
 timestamp: 1617753600000
-hashtags: "#ui/ux,#operations,#scrum,#kubernetes,#docker,#aws,#git,#management,#rest,#mysql"
+hashtags: "#golang,#kubernetes,#docker,#aws,#ui/ux,#operations,#scrum,#git,#management,#rest,#mysql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "Beat intends to hire a new backend engineer. If you have 3 years of experience, consider applying."
+summary: "Beat intends to hire a new Backend Engineer. If you have solid understanding of OOP and Design Patterns in Go with more than 3 years of experience, consider applying."
 summaryBackup: "Love #ui/ux, #operations, #scrum? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
- About us 
+## About us 
 
 Beat is one of the most exciting companies to ever come out of the ride-hailing space. One city at a time, all across the globe we make transportation affordable, convenient, and safe for everyone. 
 
@@ -29,7 +29,7 @@ We constantly strive to innovate. Our systems are written in a modern, testable 
 
 Are you a Backend Engineer who has excellent problem solving skills and loves technical challenges? Can you deliver under pressure, take initiative, work well as part of a team? If yes, then join us and participate in building an amazing product with international reach!
 
-## _Currently, our remote team are only based between UTC+0 - UTC+3, so you'll need to be located in that region too._
+**_Currently, our remote team are only based between UTC+0 - UTC+3, so you'll need to be located in that region too._**
 
 ## What you'll do day in day out:
 
