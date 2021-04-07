@@ -1,18 +1,18 @@
 ---
-title: "Business Analyst (Technical Configuration)"
+title: "Business Analyst"
 location: "Mesa, Arizona, United States"
 host: "https://apply.workable.com/evisit"
 companyName: "eVisit"
 url: "https://apply.workable.com/evisit/j/76964AA689/"
 applyUrl: "https://apply.workable.com/evisit/j/76964AA689/apply/"
 timestamp: 1617753600000
-hashtags: "#management,#css,#translation,#office,#analysis,#monitoring,#optimization"
+hashtags: "#management,#analysis,#monitoring,#css,#translation,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/evisit"
 companyWebsite: "http://www.evisit.com/"
 summary: "EVisit is searching for a business analyst that has 2+ years in a technical, customer-facing role -- SaaS Experience preferred."
 summaryBackup: "Excited about #management, #css, #translation? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
