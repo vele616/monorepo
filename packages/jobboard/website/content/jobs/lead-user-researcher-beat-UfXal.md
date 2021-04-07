@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have have at least 5 plus years experience in the field of user experience research and design, consider applying to Beat's job post for a new Lead User Researcher."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
  About us 

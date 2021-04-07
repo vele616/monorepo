@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat intends to hire a new Lead Machine Learning Engineer. If you have 5 years of experience in machine learning / deep learning, where you had demonstrated impact on a larger of your organisation, consider applying."
 summaryBackup: "Excited about #spark, #nodejs, #python? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
  About us 

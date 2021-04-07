@@ -13,6 +13,7 @@ companyWebsite: "http://www.evisit.com/"
 summary: "eVisit intends to hire a new Remote Bilingual Technical Support Advisor. If you have 1 years of experience in a Technical Support Role, consider applying."
 summaryBackup: "EVisit is looking for a remote bilingual technical support advisor that has experience in: #management, #css, #analysis."
 featured: 12
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://bitzesty.com/"
 summary: "Love experience in: #management, #office, #monitoring? Check out this job post!"
 summaryBackup: "Excited about #management, #office, #monitoring? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Description
