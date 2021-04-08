@@ -6,13 +6,13 @@ companyName: "Dataquest"
 url: "https://jobs.lever.co/dataquest/e7f5cb0e-b6be-4ead-b807-279d7e1643b3"
 applyUrl: "https://jobs.lever.co/dataquest/e7f5cb0e-b6be-4ead-b807-279d7e1643b3/apply"
 timestamp: 1617840000000
-hashtags: "#python,#terraform,#management,#kubernetes,#aws,#ui/ux,#marketing,#monitoring"
+hashtags: "#python,#terraform,#kubernetes,#aws,#ui/ux,#marketing,#management,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dataquest"
 companyWebsite: "https://www.dataquest.io/"
-summary: "If you have 7 years of experience, based in Madrid, would be $103,804, Dataquest is looking for someone with your knowledge."
+summary: "If you have python programming experience, Dataquest is looking for someone with your knowledge."
 summaryBackup: "Dataquest is looking for a sr. infrastructure engineer that has experience in: #python, #terraform, #management."
-featured: 20
+featured: 2
 ---
 
 Dataquest is an interactive online learning platform for data science. We’re passionate about helping students go from zero to job ready. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers.  Read more about our philosophy [here](https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/), and read what students think [here](https://www.switchup.org/bootcamps/dataquest).
@@ -21,17 +21,17 @@ We want to help tens of millions of students worldwide change their lives throug
 
 **This is a fully remote company and we are open to applications worldwide.**  You don't have to match all of the listed requirements to apply, we're truly looking for people who can grow along with our diverse and global team.
 
-Job purpose and overview
+**Job purpose and overview**
 
 We're rebuilding the code running system from the ground up targeting 500 millisecond across the board, so we can be the industry leaders in code running speed. You will be responsible for making code running fast and scalable!
 
 You will work with the Head of Engineering to ensure that we meet our uptime SLAs and create and improve the performance of the learning platform. You will also contribute to our CI/CD pipelines.
 
-Stack you will use
+**Stack you will use**
 
 Kubernetes is the main one. You will also use Terraform, Python, Jenkins and AWS or Google cloud platform.
 
-Reporting lines
+**Reporting lines**
 
 Reports to Director of Engineering
 
