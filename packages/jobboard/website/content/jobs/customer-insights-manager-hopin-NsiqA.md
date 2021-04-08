@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4395959003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4395959003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#matlab,#css,#windows,#ui/ux,#management,#analysis"
+hashtags: "#matlab,#management,#analysis,#css,#windows,#ui/ux"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 3+ years of experience working on customer insights or user experience research at a SaaS company, consider applying to Hopin's job post for a new customer insights manager."
+summary: "If you have 3+ years of experience working on customer insights or user experience research at a SaaS company, consider applying to Hopin's job post for a new Customer Insights Manager."
 summaryBackup: "Hopin is looking for a customer insights manager that has experience in: #matlab, #css, #windows."
-featured: 20
+featured: 12
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -49,9 +47,7 @@ Hopin is seeking a Customer Insights Manager to lead our efforts to collect and 
 *   Demonstrated project management and collaborative skills in a cross-functional and global environment.
 *   Experience working in a customer facing role is a plus.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
