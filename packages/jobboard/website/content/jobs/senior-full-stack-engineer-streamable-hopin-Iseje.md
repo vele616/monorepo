@@ -1,5 +1,5 @@
 ---
-title: "Senior Full-Stack Engineer @ Streamable"
+title: "Senior Full-Stack Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -10,14 +10,12 @@ hashtags: "#reactjs,#python,#flask,#nodejs,#windows,#content,#ui/ux,#redis,#opti
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin intends to hire a new senior full-stack engineer @ streamable. If you have stack Engineer with experience building and shipping products in Python and React, consider applying."
+summary: "Hopin intends to hire a new Senior Full-Stack Engineer. If you have 5+ years front-end web development experience, consider applying."
 summaryBackup: "Love #reactjs, #python, #flask? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -29,7 +27,7 @@ We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, 
 
 ## At Streamable, we’re building the future of video streaming. We make video hosting easy and accessible for everyone.
 
-Streamable ([https://streamable.com](https://streamable.com)) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
+[Streamable](https://streamable.com) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
 
 We’re building video products at Streamable that are simple and easy-to-use for everyone. Streamable is perfect whether you’re just getting started with video hosting or if you have advanced video editing needs. You can upload, crop, trim, and share videos -- all without leaving your browser. We’ve recently been acquired by Hopin, the world’s number one virtual events platform!
 
@@ -53,9 +51,7 @@ Streamable is seeking a Senior Full-Stack Engineer with experience building and 
 *   Self-driven and motivated to learn new skills
 *   Great communication skills in remote environment
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
