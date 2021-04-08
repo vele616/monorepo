@@ -1,5 +1,5 @@
 ---
-title: "Senior Front-End Engineer @ Streamable"
+title: "Senior Front-End Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -10,14 +10,12 @@ hashtags: "#reactjs,#javascript,#css,#html,#windows,#content,#ui/ux,#office,#opt
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is looking for a senior front-end engineer @ streamable that has end Engineer with experience building and shipping web products in React."
+summary: "Hopin is looking for a Senior Front-End Engineer that has experience with building and shipping web products in React."
 summaryBackup: "Love #reactjs, #javascript, #css? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -29,7 +27,7 @@ We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, 
 
 ## At Streamable, we’re building the future of video streaming. We make video hosting easy and accessible for everyone.
 
-Streamable ([https://streamable.com](https://streamable.com)) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
+[Streamable](https://streamable.com) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
 
 We’re building video products at Streamable that are simple and easy-to-use for everyone. Streamable is perfect whether you’re just getting started with video hosting or if you have advanced video editing needs. You can upload, crop, trim, and share videos -- all without leaving your browser. We’ve recently been acquired by Hopin, the world’s number one virtual events platform!
 
@@ -53,9 +51,7 @@ Streamable is seeking a Senior Front-End Engineer with experience building and s
 *   Self-driven and motivated to learn new skills
 *   Great communication skills in remote environment
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
