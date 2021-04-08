@@ -1,5 +1,5 @@
 ---
-title: "Front-end Developer (+ Shopify, BigCommerce, HubSpot), Remote"
+title: "Front-end Developer"
 location: "Remote job"
 host: "https://xfive.recruitee.com/"
 companyName: "Xfive"
@@ -10,9 +10,9 @@ hashtags: "#html,#javascript,#reactjs,#angular,#vuejs,#css,#windows,#ui/ux,#git,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/xfive"
 companyWebsite: "https://www.xfive.co/"
-summary: "If you have experience with the, Xfive is looking for someone with your knowledge."
+summary: "If you have good knowledge of modern front-end development, Xfive is looking for someone with your knowledge."
 summaryBackup: "Love #html, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Job description
@@ -33,12 +33,12 @@ _Note: Our job ads are aimed at developers from Central Europe. Consider whether
 
 ## General skills
 
-*   Ability to **deliver** projects **on time** and with**high-quality**.
+*   Ability to **deliver** projects **on time** and with **high-quality**.
 *   Passion for development and continuous **self-education** in your area of expertise.
 *   **Code samples** showing all your relevant skills. Each code sample is a non-trivial example showing your best skills and knowledge.
 *   Good **programming skills** and knowledge of general principles (DRY, abstraction, KISS, code refactoring and optimization, etc).
-*   **C****onsistent coding style** and passion for **well-organized, clean code**.
-*   You have good verbal and written communication skills in **English**and you are not afraid to communicate with the clients directly during online meetings
+*   **Consistent coding style** and passion for **well-organized, clean code**.
+*   You have good verbal and written communication skills in **English** and you are not afraid to communicate with the clients directly during online meetings
 *   Good knowledge of the **Git** version control system.
 *   Ability to work with the **command line**.
 
