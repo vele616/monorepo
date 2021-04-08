@@ -1,8 +1,8 @@
 ---
-title: "Senior Customer Success Manager (Latin America)"
+title: "Senior Customer Success Manager"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
-companyName: "time-doctor"
+companyName: "time doctor"
 url: "https://time-doctor.breezy.hr/p/2c906c9eb0da-senior-customer-success-manager-latin-america"
 applyUrl: "https://time-doctor.breezy.hr/p/2c906c9eb0da-senior-customer-success-manager-latin-america/apply"
 timestamp: 1617840000000
@@ -10,9 +10,9 @@ hashtags: "#management,#marketing,#sales,#jira,#office,#monitoring,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "If you have 5+ years of strategic customer success or account management experience, Time-doctor has a job opening for a senior customer success manager"
+summary: "If you have 5+ years of strategic customer success or account management experience, Time Doctor has a job opening for a Senior Customer Success Manager"
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## About the Role
@@ -48,7 +48,7 @@ As a Senior CSM, you will manage our top tier of large accounts in your territor
 *   Comfortable using Zoom, Slack, Jira, Support desk and Project Management tools
 *   Experience working remotely
 
-_This is a full-time, 100% remote position that will allow you to work from anywhere._
+**_This is a full-time, 100% remote position that will allow you to work from anywhere._**
 
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
