@@ -10,14 +10,12 @@ hashtags: "#javascript,#reactjs,#typescript,#ui/ux,#css,#html,#windows,#content,
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have you have experience leading incremental adoption of new technologies and standards, Hopin is looking for someone with your skillset."
+summary: "If you are up to date with modern JavaScript practices, including reactive design and state management, Hopin is looking for someone with your skillset."
 summaryBackup: "Excited about #javascript, #reactjs, #typescript? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -59,9 +57,7 @@ Our team includes people of all genders, sexual orientation, parents, the self-t
 *   Experience with Module Federation, Lerna based monorepos, and Webpack 5
 *   Expertise with developing backend systems
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
