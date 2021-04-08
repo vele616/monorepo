@@ -1,18 +1,18 @@
 ---
-title: "Security Programme Manager (m/f/d)"
+title: "Security Programme Manager"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/bd2f102d68a501-security-programme-manager-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/bd2f102d68a501-security-programme-manager-m-f-d/apply"
 timestamp: 1617840000000
-hashtags: "#ui/ux,#windows,#management,#operations,#scrum,#office"
+hashtags: "#management,#operations,#scrum,#windows,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
-summary: "Interested in new opportunities and have 3 years of professional experience as Program Manager or similar role working in the field of Information Security or Risk Management? Jimdo has a job opening for a security programme manager."
+summary: "Interested in new opportunities and have 3 years of professional experience as Program Manager or similar role working in the field of Information Security or Risk Management? Jimdo has a job opening for a Security Programme Manager."
 summaryBackup: "Jimdo is looking for a security programme manager that has experience in: #ui/ux, #windows, #management."
-featured: 20
+featured: 3
 ---
 
 ## Security Programme Manager
