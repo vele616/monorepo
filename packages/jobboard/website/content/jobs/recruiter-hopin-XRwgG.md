@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4419902003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4419902003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#management,#socialmedia,#css,#windows,#monitoring"
+hashtags: "#management,#HR,#socialmedia,#css,#windows,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Interested in new opportunities and have 3 years of experience in Talent Acquisition and HR related tasks in fast paced environments? Hopin has a job opening for a recruiter."
 summaryBackup: "Excited about #management, #socialmedia, #css? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -27,7 +25,9 @@ We believe in events without limits, but events that are sustainable and accessi
 
 We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, Northzone, Coatue, Tiger Global, Salesforce Ventures and many other high profile investors.
 
-## The RoleWe are looking for a passionate Recruiter that’s not afraid of scrappy environments and actually feels more comfortable working lean. This person is a best practices advocate: Candidate experience is your core but Hiring Manager’s relationship is just as important.
+## The Role
+
+We are looking for a passionate Recruiter that’s not afraid of scrappy environments and actually feels more comfortable working lean. This person is a best practices advocate: Candidate experience is your core but Hiring Manager’s relationship is just as important.
 
 ## Responsibilities
 
@@ -51,9 +51,7 @@ We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, 
 *   Understanding of referral programs.
 *   Solid verbal and written communication skills.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
