@@ -1,23 +1,21 @@
 ---
-title: "Commercial Counsel, EMEA"
+title: "Commercial Counsel"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4401784003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4401784003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#management,#sales,#windows,#office"
+hashtags: "#management,#marketing,#sales,#windows,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin wishes to hire a new commercial counsel. If you have 5+ years of relevant commercial experience, ideally as in-house counsel in a high-growth technology company, consider applying."
+summary: "Hopin wishes to hire a new Commercial Counsel. If you have 5+ years of relevant commercial experience, ideally as in-house counsel in a high-growth technology company, consider applying."
 summaryBackup: "Hopin is looking for a commercial counsel that has experience in: #management, #sales, #windows."
 featured: 20
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -36,7 +34,7 @@ As our Commercial Counsel, you will also partner with our sales and business dev
 ## Responsibilities:
 
 *   Structure, review, draft, and negotiate a variety of commercial agreements, including customer sales agreements, commercial partnership agreements, and services agreements.
-*   ​Build and manage contract processes, workflows, playbooks, and training that can scale to keep up with our fast growth.
+*   Build and manage contract processes, workflows, playbooks, and training that can scale to keep up with our fast growth.
 *   Develop, improve, and maintain contract templates, standard forms, corporate policies and processes, and training programs.
 *   Stay up-to-date on relevant industry, commercial, open-source, IP, privacy, employment, and other laws, regulations, and developments to provide the most practical advice.
 *   Contribute to cross-functional teams as a trusted advisor, creative problem-solver, and strategic thinker.
@@ -55,9 +53,7 @@ As our Commercial Counsel, you will also partner with our sales and business dev
 *   Collaborative team player with excellent interpersonal skills and a good sense of humor
 *   Ability to learn quickly and take on challenging new projects with enthusiasm
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
