@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4411188003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4411188003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#ui/ux,#scrum,#windows,#management,#analysis,#office,#English"
-jobType: "other"
+hashtags: "#analysis,#backend,#ui/ux,#scrum,#windows,#management,#office,#English"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have tolerant, and efficient services that enable the Hopin platform to deliver online and hybrid event experience to hundreds of thousands of customers across the globe, Hopin has a job opening for a lead back end engineer"
 summaryBackup: "To apply as a lead back end engineer at Hopin, you preferably need to have some knowledge of: #ui/ux, #scrum, #windows."
-featured: 20
+featured: 14
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -37,7 +35,7 @@ You will be responsible for developing and designing a highly scalable and relia
 
 We are seeking a highly motivated individual who is comfortable in a fast-paced, start-up environment, as well as effectively collaborating with a fully remote development team
 
-## Experience comes in many forms and passion goes a long way. If your background is close to what we are looking for, please consider applying even if you can’t check every box.
+**Experience comes in many forms and passion goes a long way. If your background is close to what we are looking for, please consider applying even if you can’t check every box.**
 
 ## Responsibilities
 
@@ -59,9 +57,7 @@ The skillset of our backend experts is multidisciplinary, and we believe deeply 
 *   Strong analytical and critical thinking, with the ability to make practical tradeoffs and balance short and long term priorities
 *   Fluent in English (written and verbal) with excellent communication skills and an ability to work closely with creative and business stakeholders
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
