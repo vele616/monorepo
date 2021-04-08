@@ -1,5 +1,5 @@
 ---
-title: "ABM Manager (100% Remote)"
+title: "ABM Manager"
 location: "Remote OK"
 host: "https://time-doctor.breezy.hr/"
 companyName: "time-doctor"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#sales,#css,#socialmedia,#content,#monitoring,
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "If you have 3+ years of B2B marketing experience, with at least one year focused on paid channels and demand generation, Time-doctor has a job opening for an abm manager"
+summary: "If you have 3+ years of B2B marketing experience, with at least one year focused on paid channels and demand generation, Time Doctor has a job opening for an ABM Manager"
 summaryBackup: "To apply as an abm manager at Time-doctor, you preferably need to have some knowledge of: #marketing, #management, #sales."
-featured: 20
+featured: 9
 ---
 
 We’re looking for a driven demand generation manager who will be responsible for the execution of marketing programs that capture and nurture leads across multiple channels. In this role, you’ll be responsible for managing programs to generate demand via SEM, SEO, targeted social advertising, retargeting, email, and co-marketing efforts. You’ll work closely with our sales teams to execute and monitor campaigns, partner with ad agencies on our advertising, and partner with other members of the marketing team to execute integrated campaigns. You’ll play a crucial role in helping Time Doctor meet ambitious revenue goals in 2021 and beyond.
@@ -23,7 +23,7 @@ This is a full-time role. You must be available to work from 9 a.m. to 6 p.m. (E
 
 You’ll report directly to our VP of marketing, who is in EST, so we’re looking for someone who can work at least two hours per day in that time zone.
 
-Responsibilities
+## Responsibilities
 
 *   Demand: Execute an on-demand generation strategy to drive leads, MQLs, SQLs, and pipeline to meet revenue targets.
 *   ABM: Lead the development of an account-based marketing strategy and execute it for priority enterprise accounts.
@@ -32,7 +32,7 @@ Responsibilities
 *   Lead nurturing: Own the strategy for HubSpot email nurtures, workflows, segmented lists, campaign assets, and reporting.
 *   Reporting: Monitor performance of advertising and integrated campaigns, always ensuring that we keep within budget.
 
-Qualifications
+## Qualifications
 
 *   3+ years of B2B marketing experience, with at least one year focused on paid channels and demand generation
 *   A deep understanding of paid strategies and tactics—leveraging the right channels for awareness, nurturing, and performance marketing
