@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4419396003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4419396003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#management,#sales,#windows,#marketing,#operations,#analysis,#English"
+hashtags: "#management,#sales,#operations,#windows,#marketing,#analysis,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have you will leverage past experience with partnership programs to inform our priorities while capitalizing on the unique opportunities presented by Hopin’s innovative technology to create a first of kind model for robust Agency, Hopin has a job opening for an agency success program manager"
+summary: "If you have 5+ years experience in building, scaling and operating a world-class partnership program, Hopin has a job opening for an Agency Success Program Manager."
 summaryBackup: "Excited about #management, #sales, #windows? Check out this job post!"
-featured: 20
+featured: 4
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -51,9 +49,7 @@ Hopin aspires to be the preferred technology partner for innovative Event Agenci
 *   Customer facing experience in Sales or  Account Management is a plus.
 *   University degree or equivalent experience in a relevant field. MBA or other relevant post-graduate work is a bonus.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
