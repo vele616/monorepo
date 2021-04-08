@@ -1,5 +1,5 @@
 ---
-title: "Senior Back-End Engineer @ Streamable"
+title: "Senior Back-End Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -10,14 +10,12 @@ hashtags: "#flask,#python,#nodejs,#redis,#postgresql,#windows,#aws,#content,#opt
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have end Engineer with experience working in back, Hopin has a job opening for a senior back-end engineer @ streamable"
+summary: "If you have 5+ years back-end web development experience, Hopin has a job opening for a Senior Back-End Engineer"
 summaryBackup: "To apply as a senior back-end engineer @ streamable at Hopin, you preferably need to have some knowledge of: #flask, #python, #nodejs."
-featured: 20
+featured: 10
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -53,9 +51,7 @@ Streamable is seeking a Senior Back-end Engineer with experience working in back
 *   Self-driven and motivated to learn new skills
 *   Great communication skills in remote environment
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
