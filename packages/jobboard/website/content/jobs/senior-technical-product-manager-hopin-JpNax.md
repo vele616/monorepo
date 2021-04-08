@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4390749003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4390749003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#management,#windows,#ui/ux,#marketing,#operations,#analysis"
+hashtags: "#management,#operations,#analysis,#windows,#ui/ux,#marketing"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Interested in new opportunities and have 5+ years of experience in product or program management of technology? Hopin has a job opening for a senior technical product manager."
+summary: "Interested in new opportunities and have 5+ years of experience in product or program management of technology? Hopin has a job opening for a Senior Technical Product Manager."
 summaryBackup: "Excited about #management, #windows, #ui/ux? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -64,9 +62,7 @@ You will be partnering directly with an engineering team, designers, user resear
 *   Strong verbal and written communication abilities: must effectively communicate with technical and non-technical people
 *   A university degree or significant experience in a technical field
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
