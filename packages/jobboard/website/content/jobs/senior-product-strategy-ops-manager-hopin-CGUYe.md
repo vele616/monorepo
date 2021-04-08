@@ -1,23 +1,21 @@
 ---
-title: "Senior Product Strategy & Ops Manager"
+title: "Product Strategy & Ops Manager"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4389359003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4389359003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#management,#windows,#marketing,#office,#English"
+hashtags: "#management,#operations,#marketing,#windows,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is looking for a senior product strategy & ops manager that has 4+ years of experience in a high-growth technology business, or in defining and operationalizing strategic initiatives."
+summary: "Hopin is looking for a Senior Product Strategy & Ops Manager that has 4+ years of experience in a high-growth technology business, or in defining and operationalizing strategic initiatives."
 summaryBackup: "To apply as a senior product strategy & ops manager at Hopin, you preferably need to have some knowledge of: #management, #windows, #marketing."
-featured: 20
+featured: 10
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -54,9 +52,7 @@ This is a new and high-impact role at Hopin that will be responsible for scaling
 *   Confident communicating complex product challenges.
 *   Excellent communication skills and an ability to work closely with creative, technical, and business stakeholders.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
