@@ -10,7 +10,7 @@ hashtags: "#management,#HR,#socialmedia,#css,#windows,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Interested in new opportunities and have 3 years of experience in Talent Acquisition and HR related tasks in fast paced environments? Hopin has a job opening for a recruiter."
+summary: "Interested in new opportunities and have 3 years of experience in Talent Acquisition and HR related tasks in fast paced environments? Hopin has a job opening for a Recruiter."
 summaryBackup: "Excited about #management, #socialmedia, #css? Check out this job post!"
 featured: 14
 ---
