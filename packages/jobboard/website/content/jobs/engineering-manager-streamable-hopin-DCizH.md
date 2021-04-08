@@ -1,5 +1,5 @@
 ---
-title: "Engineering Manager @ Streamable"
+title: "Engineering Manager"
 location: "Remote"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
@@ -10,14 +10,12 @@ hashtags: "#management,#reactjs,#python,#windows,#content"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin intends to hire a new engineering manager @ streamable. If you have 5+ years experience in software development, preferably with 2+ years managing a team, consider applying."
+summary: "Hopin intends to hire a new Engineering Manager. If you have 5+ years experience in software development, preferably with 2+ years managing a team, consider applying."
 summaryBackup: "To apply as an engineering manager @ streamable at Hopin, you preferably need to have some knowledge of: #management, #reactjs, #python."
-featured: 20
+featured: 10
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -29,7 +27,7 @@ We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, 
 
 ## At Streamable, we’re building the future of video streaming. We make video hosting easy and accessible for everyone.
 
-Streamable ([https://streamable.com](https://streamable.com)) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
+Streamable [https://streamable.com](https://streamable.com) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
 
 We’re building video products at Streamable that are simple and easy-to-use for everyone. Streamable is perfect whether you’re just getting started with video hosting or if you have advanced video editing needs. You can upload, crop, trim, and share videos -- all without leaving your browser. We’ve recently been acquired by Hopin, the world’s number one virtual events platform!
 
@@ -54,9 +52,7 @@ Streamable is seeking an Engineering Manager to lead a fast growing software eng
 *   Self-driven and motivated to learn new skills
 *   Great communication skills in remote environment
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
