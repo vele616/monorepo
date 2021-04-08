@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4440642003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4440642003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#ui/ux,#windows,#management,#marketing,#office,#analysis,#English"
+hashtags: "#ui/ux,#analysis,#management,#windows,#marketing,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years of experience in a UX Research / User Research role and have partnered with Product and Engineering teams to conceptualize, build, and launch new products or complex product features, Hopin is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #windows, #management? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -52,9 +50,7 @@ You will take an active part in shaping UX Research culture at Hopin. Together w
 *   Confident communicating complex product challenges.
 *   Excellent communication skills and an ability to work closely with creative, technical, and business stakeholders.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
