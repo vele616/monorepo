@@ -1,23 +1,21 @@
 ---
-title: "Sales Strategy and Operations Analyst -EMEA"
+title: "Sales Strategy and Operations Analyst"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4406242003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4406242003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#sales,#management,#operations,#css,#windows,#office,#optimization,#analysis,#monitoring"
+hashtags: "#sales,#management,#analysis,#operations,#css,#windows,#office,#optimization,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is searching for a sales strategy and operations analyst that has 1-3+ years of sales operations, management consulting, or equivalent experience."
+summary: "Hopin is searching for a Sales Strategy and Operations Analyst that has 1-3+ years of sales operations, management consulting, or equivalent experience."
 summaryBackup: "Excited about #sales, #management, #operations? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -54,9 +52,7 @@ Hopin’s Sales Strategy and Operations Analyst will work closely with the Sales
 *   Experience working at an early stage, hyper-growth startup
 *   Strong understanding of/experience with SaaS business models
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
