@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4397187003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4397187003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#branding,#ui/ux,#content,#windows,#translation,#management,#office,#English"
+hashtags: "#ui/ux,#content,#management,#windows,#branding,#translation,#office,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is looking for a senior ux writer that has 6+ years of experience in a similar role."
+summary: "Hopin is looking for a Senior UX Writer that has 6+ years of experience in a similar role."
 summaryBackup: "Excited about #branding, #ui/ux, #content? Check out this job post!"
 featured: 20
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -33,15 +31,13 @@ Hopin is seeking a Senior UX Writer who is self-driven, passionate and ambitious
 
 We're excited to work with someone who is proactive, highly motivated, comfortable in a rapidly changing start-up environment, and happy to work with a remote-first team. We're a team of 400+, and you will be working with a growing team of senior product designers.
 
-## Experience comes in many forms and passion goes a long way. If your background is close to what we are looking for, please consider applying even if you can’t check every box.
+**Experience comes in many forms and passion goes a long way. If your background is close to what we are looking for, please consider applying even if you can’t check every box.**
 
 ## About You
 
 *   You write engaging and inclusive copy with a distinctive brand voice.
 *   You are an effective communicator with a variety of internal and external audiences.
-
 *   You have the ability to translate complex topics into easy to digest formats.
-
 *   You have excellent writing, editing and proofreading skills in English (bonus points for other languages).
 *   You are able to execute consistent copywriting across multiple touchpoints.
 *   You enjoy working closely with and mentoring product design teams. 
@@ -52,15 +48,12 @@ We're excited to work with someone who is proactive, highly motivated, comfortab
 
 *   A creative thinker who is able to translate brand and strategic needs into meaningful consumer facing copy.
 *   6+ years of experience in a similar role.
-
 *   A well rounded portfolio demonstrating creative and technical copywriting experience across a variety of brands and channels.
 *   Experience writing clear narratives for B2C and B2B audiences.
 *   Experience in establishing and governing UX writing guidelines and best practices.
 *   Experience testing and validating copy, both quantitatively and qualitatively.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
