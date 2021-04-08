@@ -2,17 +2,17 @@
 title: "Recruiter"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
-companyName: "time-doctor"
+companyName: "time doctor"
 url: "https://time-doctor.breezy.hr/p/f41762391068-recruiter"
 applyUrl: "https://time-doctor.breezy.hr/p/f41762391068-recruiter/apply"
 timestamp: 1617840000000
-hashtags: "#operations,#marketing,#office,#windows,#ui/ux,#management,#analysis,#finance,#monitoring,#English"
+hashtags: "#HR,#operations,#monitoring,#marketing,#office,#windows,#ui/ux,#management,#analysis,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor wishes to hire a new recruiter. If you have 3-5 years recruiting experience in technology recruitment, several of which should be in a fast-paced startup environment, consider applying."
+summary: "Time Doctor wishes to hire a new Recruiter. If you have 3-5 years recruiting experience in technology recruitment, several of which should be in a fast-paced startup environment, consider applying."
 summaryBackup: "Love #operations, #marketing, #office? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## About the Role
@@ -21,7 +21,7 @@ Time Doctor is the leading time tracking and productivity monitoring software fo
 
 As a Recruiter, you will be responsible for sourcing, evaluating and hiring talent in 30+ countries. You will ensure a best-in-class candidate experience by owning the full recruitment cycle, from application through hire. On an average day you might find yourself interviewing engineers, sourcing for marketing talent and collecting feedback from your interviewing committees.
 
-## This is a full-time three month contract position, with the potential for a longer-term position based on the candidate’s success and the company’s needs.
+#**This is a full-time three month contract position, with the potential for a longer-term position based on the candidate’s success and the company’s needs.**
 
 ## Your Responsibilities
 
@@ -52,7 +52,7 @@ As a Recruiter, you will be responsible for sourcing, evaluating and hiring tale
 *   The ability to operate with a high degree of autonomy in a fast moving, sometimes ambiguous environment.
 *   Advanced knowledge of Microsoft Office Suite and Google Drive, with the ability to create advanced reporting in spreadsheets
 
-Bonus Qualifications
+**Bonus Qualifications**
 
 *   Experience using Breezy is a big plus!
 
