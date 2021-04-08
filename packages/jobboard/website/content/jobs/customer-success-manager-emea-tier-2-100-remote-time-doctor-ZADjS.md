@@ -1,18 +1,18 @@
 ---
-title: "Customer Success Manager- EMEA ( Tier 2, 100% Remote)"
+title: "Customer Success Manager"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
 companyName: "time-doctor"
 url: "https://time-doctor.breezy.hr/p/c943f3004917-customer-success-manager-emea-tier-2-100-remote"
 applyUrl: "https://time-doctor.breezy.hr/p/c943f3004917-customer-success-manager-emea-tier-2-100-remote/apply"
 timestamp: 1617840000000
-hashtags: "#management,#marketing,#sales,#jira,#office,#monitoring"
+hashtags: "#management,#monitoring,#sales,#marketing,#jira,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor wishes to hire a new customer success manager. If you have 3+ years of customer success or account management experience, consider applying."
+summary: "Time Doctor wishes to hire a new Customer Success Manager. If you have 3+ years of customer success or account management experience, consider applying."
 summaryBackup: "Excited about #management, #marketing, #sales? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## About the Role:
