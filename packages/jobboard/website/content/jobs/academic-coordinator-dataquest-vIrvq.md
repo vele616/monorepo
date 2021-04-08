@@ -10,7 +10,7 @@ hashtags: "#management,#sales,#monitoring,#office,#ui/ux,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dataquest"
 companyWebsite: "https://www.dataquest.io/"
-summary: "Interested in new opportunities and have experience with creating and implementing processes? Dataquest has a job opening for an academic coordinator."
+summary: "Interested in new opportunities and have experience with creating and implementing processes? Dataquest has a job opening for an Academic Coordinator."
 summaryBackup: "Excited about #management, #office, #ui/ux? Check out this job post!"
 featured: 5
 ---
