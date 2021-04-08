@@ -1,23 +1,21 @@
 ---
-title: "Senior Account Executive (German Speaking, 100% Remote)"
+title: "Senior Account Executive"
 location: "Remote Germany"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4405948003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4405948003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#sales,#windows,#crm,#office,#German,#English"
+hashtags: "#sales,#German,#crm,#office,#windows,#English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Interested in new opportunities and have 6+ years of experience in Sales or Business Development? Hopin has a job opening for a senior account executive."
+summary: "Interested in new opportunities and have 6+ years of experience in Sales or Business Development? Hopin has a job opening for a Senior Account Executive."
 summaryBackup: "Hopin is looking for a senior account executive that has experience in: #sales, #windows, #crm."
-featured: 20
+featured: 16
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -31,7 +29,7 @@ Please note: all applications should be in English
 
 ## The role
 
-Hopin is seeking a German-speaking Senior Account Executive who is personable, self-driven, passionate and ambitious! We’re looking for someone with sales experience and super excited to tell others about our virtual events platform. You will generate sales leads, meet with prospects over calls, and create new opportunities. We’ll provide all the training you need for you to be successful. 
+Hopin is seeking a **German-speaking Senior Account Executive** who is personable, self-driven, passionate and ambitious! We’re looking for someone with sales experience and super excited to tell others about our virtual events platform. You will generate sales leads, meet with prospects over calls, and create new opportunities. We’ll provide all the training you need for you to be successful. 
 
 We're excited to be working with someone who is highly motivated, a team player, comfortable in a fast-paced start-up environment and is happy to work with a remote team. You will wear many hats at times but will have a key role in our future growth and immediate responsibility.  We're currently a team of 360+, and you will be working within the Sales team.
 
@@ -58,9 +56,7 @@ About You
 
 ## We are currently a remote team and for this position we are looking for people based in EMEA timezones.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
