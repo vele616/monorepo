@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4393100003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4393100003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#windows,#ui/ux,#management,#photoshop,#office,#English"
+hashtags: "ui/ux,#management,#operations,#photoshop,#office,#windows,##English"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is searching for a visual strategist that has 6+ years of experience defining and conceptualizing product strategies."
+summary: "Hopin is searching for a Visual Strategist that has 6+ years of experience defining and conceptualizing product strategies."
 summaryBackup: "Hopin is looking for a visual strategist that has experience in: #windows, #ui/ux, #management."
-featured: 20
+featured: 15
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -31,7 +29,7 @@ We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, 
 
 Hopin is seeking a Visual Strategist who is self-driven, passionate and ambitious. You will be working closely with the CEO to bring his product vision to life through visual communications that provoke conversation and inform positive change at Hopin.
 
-## Experience comes in many forms and passion goes a long way. If your background is close to what we are looking for, please consider applying even if you can’t check every box.
+**Experience comes in many forms and passion goes a long way. If your background is close to what we are looking for, please consider applying even if you can’t check every box.**
 
 ## About you
 
@@ -52,9 +50,7 @@ Hopin is seeking a Visual Strategist who is self-driven, passionate and ambitiou
 *   Fluent in English (written and verbal)
 *   Excellent communication skills and an ability to work closely with creative and business stakeholders.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
