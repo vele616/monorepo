@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4439740003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4439740003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#management,#ui/ux,#windows,#marketing,#office,#operations,#analysis,#finance,#optimization"
+hashtags: "#management,#analysis,#finance,#ui/ux,#windows,#marketing,#office,#operations,#optimization"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "Hopin is looking for a global benefits manager that has 8+ years of progressive experience in the HR function with a minimum of 6 years of benefits experience."
+summary: "Hopin is looking for a Global Benefits Manager that has 8+ years of progressive experience in the HR function with a minimum of 6 years of benefits experience."
 summaryBackup: "To apply as a global benefits manager at Hopin, you preferably need to have some knowledge of: #management, #ui/ux, #windows."
-featured: 20
+featured: 2
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -31,7 +29,7 @@ The Global Benefits Manager will take the lead on managing Hopin’s  global be
 
 This is a hands-on and consultative role, in which you will research, develop and administer employee benefit programs that are competitive while encouraging Hopineers to lead healthy and fulfilling lives. 
 
-Responsibilities: 
+## Responsibilities: 
 
 *   Design, implement and administer our various global  employee benefit programs, including, health, life, and disability insurance, retirement programs.
 *   Initial locations include , among others  UK, US, Canada, Ireland, Spain and adding new countries as we grow.
@@ -52,9 +50,7 @@ Responsibilities:
 *   Exceptional business insight and strategic orientation. Intellectual curiosity and ability to handle high levels of ambiguity.
 *   Ability to work in a fast-paced, high growth, rapidly changing, fun environment.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
