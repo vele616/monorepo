@@ -6,13 +6,13 @@ companyName: "Dataquest"
 url: "https://jobs.lever.co/dataquest/fffa47dc-6a94-48ee-a322-4ef92b63179a"
 applyUrl: "https://jobs.lever.co/dataquest/fffa47dc-6a94-48ee-a322-4ef92b63179a/apply"
 timestamp: 1617840000000
-hashtags: "#management,#office,#ui/ux,#marketing,#sales,#monitoring"
+hashtags: "#management,#sales,#monitoring,#office,#ui/ux,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dataquest"
 companyWebsite: "https://www.dataquest.io/"
 summary: "Interested in new opportunities and have experience with creating and implementing processes? Dataquest has a job opening for an academic coordinator."
 summaryBackup: "Excited about #management, #office, #ui/ux? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Dataquest is an interactive online learning platform for data science. We’re passionate about helping students go from zero to job ready. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers.  Read more about our philosophy [here](https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/), and read what students think [here](https://www.switchup.org/bootcamps/dataquest).
@@ -92,7 +92,7 @@ Time distribution
 *   Excellent communication and explanatory skills
 *   Excellent interpersonal and presentations skills
 *   Willingness to increase knowledge about the Dataquest curriculum
-*   Aligns with Dataquest [mission](https://www.notion.so/dataquest/Vision-And-Mission-eec2fd38342b4c4ba1ddbb4d9d2d71ae) and [values](https://www.notion.so/dataquest/Values-f68d8f04012441168bb8bee614833d27)
+*   Aligns with Dataquest mission and values
 
 **Salary Range**
 
