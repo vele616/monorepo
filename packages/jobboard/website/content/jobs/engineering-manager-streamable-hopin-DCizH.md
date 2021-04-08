@@ -27,7 +27,7 @@ We’ve been recently funded by a16z, General Catalyst, IVP, Accel, DFJ Growth, 
 
 ## At Streamable, we’re building the future of video streaming. We make video hosting easy and accessible for everyone.
 
-Streamable [https://streamable.com](https://streamable.com) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
+[Streamable](https://streamable.com) is an internet video streaming company that powers innovative video experiences for creators and businesses around the world. Over 5,000 customers in 100+ countries trust Streamable to host and share their video content.
 
 We’re building video products at Streamable that are simple and easy-to-use for everyone. Streamable is perfect whether you’re just getting started with video hosting or if you have advanced video editing needs. You can upload, crop, trim, and share videos -- all without leaving your browser. We’ve recently been acquired by Hopin, the world’s number one virtual events platform!
 
