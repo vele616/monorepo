@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4419899003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4419899003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#windows,#branding,#management,#English"
+hashtags: "#HR,#management,#English,#windows,#branding"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 2+ years of experience in recruiting, HR or administrative preferred but not required, Hopin has a job opening for a recruiting coordinator"
+summary: "If you have 2+ years of experience in recruiting, Hopin has a job opening for a Recruiting Coordinator"
 summaryBackup: "To apply as a recruiting coordinator at Hopin, you preferably need to have some knowledge of: #windows, #branding, #management."
-featured: 20
+featured: 6
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -34,7 +32,6 @@ Hopin is seeking a Recruiting Coordinator to handle everything from scheduling i
 ## Responsibilities
 
 *   Partner with recruiters, sourcers and hiring managers to schedule interviews and logistics in a timely manner with a human touch.
-
 *   Enhance and document recruiting processes to help calibrate others around hiring at Hopin.
 *   Ensure a consistent, positive and memorable candidate experience while embodying Hopin's brand throughout the recruitment process.
 *   Own, maintain and track data throughout the entire interview coordination process, flagging trends and roadblocks and offering up course of action.
@@ -42,9 +39,7 @@ Hopin is seeking a Recruiting Coordinator to handle everything from scheduling i
 ## About You
 
 *   2+ years of experience in recruiting, HR or administrative preferred but not required.
-
 *   Fluency in English both written and verbal forms. 
-
 *   Thrive in a fast paced, ambiguous environment.
 *   Extremely organized and detail oriented with a knack for customer service.
 *   Experience with Google Suite, Greenhouse or other applicant tracking systems preferred.
@@ -53,9 +48,7 @@ Hopin is seeking a Recruiting Coordinator to handle everything from scheduling i
 
 *   Interested in pursuing a career in recruiting/sourcing.
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
