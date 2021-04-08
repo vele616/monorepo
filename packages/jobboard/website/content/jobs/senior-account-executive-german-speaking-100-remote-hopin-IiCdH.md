@@ -54,7 +54,7 @@ About You
 *   Super motivated, can-do attitude, problem solver and excited by a fast paced environment 
 *   University degree or 4 years of professional experience
 
-## We are currently a remote team and for this position we are looking for people based in EMEA timezones.
+**We are currently a remote team and for this position we are looking for people based in EMEA timezones.**
 
 ## The Offer
 
