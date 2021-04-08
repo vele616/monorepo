@@ -1,8 +1,8 @@
 ---
-title: "Customer Success Manager APAC (Tier 2, 100% Remote)"
+title: "Customer Success Manager"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
-companyName: "time-doctor"
+companyName: "time doctor"
 url: "https://time-doctor.breezy.hr/p/28bc4f79d81d-customer-success-manager-apac-tier-2-100-remote"
 applyUrl: "https://time-doctor.breezy.hr/p/28bc4f79d81d-customer-success-manager-apac-tier-2-100-remote/apply"
 timestamp: 1617840000000
@@ -10,9 +10,9 @@ hashtags: "#management,#marketing,#sales,#jira,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "Time-doctor is searching for a customer success manager apac that has 3+ years of customer success or account management experience."
+summary: "Time Doctor is searching for a Customer Success Manager that has 3+ years of customer success or account management experience."
 summaryBackup: "Time-doctor is looking for a customer success manager apac that has experience in: #management, #marketing, #sales."
-featured: 20
+featured: 7
 ---
 
 ## About the Role
@@ -30,7 +30,7 @@ As a CSM, you’ll manage our mid-market (Tier 2) group of enterprise accounts i
 
 ## Required Skills & Experience
 
-Minimum Qualifications
+**Minimum Qualifications**
 
 *   A bachelor’s degree or equivalent practical experience
 *   3+ years of customer success or account management experience
@@ -40,7 +40,7 @@ Minimum Qualifications
 *   Experience acting as a product expert in a similar role/company, providing product overviews/trainings, and partnering closely with a product team
 *   Past participation in cross-departmental processes and projects with other teams, such as sales, support, product, engineering, marketing, etc.
 
-Preferred Qualifications
+**Preferred Qualifications**
 
 *   Experience working remotely is a plus
 *   Excellent communication, presentation, problem-solving, multitasking, and prioritization skills
