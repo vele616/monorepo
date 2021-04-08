@@ -6,18 +6,16 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4401753003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4401753003?t=02952e2a3us#app"
 timestamp: 1617840000000
-hashtags: "#ui/ux,#operations,#css,#windows,#aws,#googlecloud,#heroku,#management,#sales,#translation"
-jobType: "software"
+hashtags: "#analysis,#aws,#heroku,#css,#windows,#ui/ux,#googlecloud,#operations,#management,#sales,#translation"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have project management experience, consider applying to Hopin's job post for a new senior grc analyst."
+summary: "If you have experience in a highly SaaS/PaaS environment, consider applying to Hopin's job post for a new Senior GRC Analyst."
 summaryBackup: "Hopin is looking for a senior grc analyst that has experience in: #ui/ux, #operations, #css."
-featured: 20
+featured: 8
 ---
 
-## 
-
-At Hopin, we’re reimagining virtual events.
+## At Hopin, we’re reimagining virtual events.
 
 As the first all-in-one virtual venue for live online events, Hopin brings people together in a highly interactive and engaging online experience that feels just like an in-person event, only without the barriers. Whether it’s a 50-person meetup, or a 50,000-person conference—any type of event organizer can host a Hopin event for their attendees, speakers, sponsors, and vendors to convene, learn, and interact face-to-face online. We’re spearheading the innovative technology that is enabling people to gather online like never before.
 
@@ -40,9 +38,7 @@ The Security team is small and we are looking for someone who is a motivated sel
 *   Assist with implementing compliance programs and routines
 *   Help maintain, improve and develop policies and standards that support the overall Information Security Program
 *   Communicate to key stakeholder to develop robust security controls in line with overall security strategy
-
 *   Perform controls testing, document results, and provide detailed updates to internal stakeholders
-
 *   Track remediation work identified by internal audit to completion 
 *   Assist with implementing compliance programs and routines
 *   Assist process/control owners with the design/implementation of controls and related documentation (e.g., policies, procedures, narratives, and matrices)
@@ -69,9 +65,7 @@ The Security team is small and we are looking for someone who is a motivated sel
 *   Certified in Governance of Enterprise IT (CGEIT), Certified Information Security Manager (CISM), Certified Information Systems Security Professional (CISSP), CPA, and/or CIA.
 *   Project management experience
 
-## 
-
-The Offer
+## The Offer
 
 *   Competitive salary
 *   Fully remote, global team
