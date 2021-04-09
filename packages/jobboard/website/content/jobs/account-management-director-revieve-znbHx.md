@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/revieve"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=revieve"
 summary: "If you have 7+ years of experience with enterprise software sales in SaaS, Retail, Software or Tech account management and know what it's like to work in a fast-growing company, Revieve is looking for someone with your skillset."
 summaryBackup: "Revieve is looking for an account management director that has experience in: #management, #branding, #sales."
-featured: 20
+featured: 6
 ---
 
 Revieve is a market-leading beauty-technology company partnered with 100+ global brands on 4 continents building the new standard of commerce across skin, beauty, health and wellness. We enable brands and retailers to drive their customer-experience leveraging AI, AR and Computer-Vision. We've been fortunate to partner with world-leading brands including ULTA, Shiseido, Unilever and others to drive business results.
