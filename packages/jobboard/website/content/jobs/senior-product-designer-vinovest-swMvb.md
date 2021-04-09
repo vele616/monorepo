@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/senior-product-designer/c/new"
 timestamp: 1617926400000
 hashtags: "#ui/ux,#analysis,#content,#management,#marketing,#office,#rest"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "If you have 3 years of experience working in a reputed organization which will be qualified as demonstrated experience with end-to-end product design, consider applying to Vinovest's job post for a new Senior Product Designer."
 summaryBackup: "Love #ui/ux, #content, #management? Check out this job post!"

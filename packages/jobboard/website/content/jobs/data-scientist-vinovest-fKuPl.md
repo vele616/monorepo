@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/data-scientist/c/new"
 timestamp: 1617926400000
 hashtags: "#analysis,#analytics,#python,#office,#management,#ui/ux,#marketing,#optimization"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "If you have direct experience managing Business Intelligence deliverables, Vinovest is looking for someone with your knowledge."
 summaryBackup: "To apply as a data scientist at Vinovest, you preferably need to have some knowledge of: #ui/ux, #analysis, #python."

@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/head-of-growth-marketing/c/new"
 timestamp: 1617926400000
 hashtags: "#marketing,#analytics,#management,#sales,#content,#mysql,#optimization,#translation,#analysis,#monitoring"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest intends to hire a new Head of Growth Marketing. If you have 5+ years of growth marketing, growth hacking, or performance marketing experience, consider applying."
 summaryBackup: "Vinovest is looking for a head of growth marketing that has experience in: #marketing, #analytics, #management."
