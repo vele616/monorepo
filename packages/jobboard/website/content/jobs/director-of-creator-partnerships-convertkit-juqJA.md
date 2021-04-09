@@ -13,6 +13,7 @@ companyWebsite: "http://convertkit.com/"
 summary: "To apply as a Director of Creator Partnerships at ConvertKit, you preferably need to have 5+ years of combined people and project management experience."
 summaryBackup: "To apply as a director of creator partnerships at ConvertKit, you preferably need to have some knowledge of: #sales, #marketing, #branding."
 featured: 10
+archived: "true"
 ---
 
 ## Description

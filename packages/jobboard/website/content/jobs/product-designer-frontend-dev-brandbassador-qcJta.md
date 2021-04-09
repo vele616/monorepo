@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "Brandbassador is searching for a Product Designer that has experience with Design Systems."
 summaryBackup: "Excited about #ui/ux, #branding, #figma? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 We are a marketing-Tech platform that allows brands to scale and automate word-of-mouth ambassador marketing. We empower people to be ambassadors for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, MVMT Watches, Huel, Fabletics, and the list goes on. And we are lucky to have ≈ 1 million users!
