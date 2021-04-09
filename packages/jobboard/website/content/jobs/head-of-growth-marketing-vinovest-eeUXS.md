@@ -10,9 +10,9 @@ hashtags: "#marketing,#analytics,#management,#sales,#content,#mysql,#optimizatio
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
-summary: "Vinovest intends to hire a new head of growth marketing. If you have 5+ years of growth marketing, growth hacking, or performance marketing experience required, consider applying."
+summary: "Vinovest intends to hire a new Head of Growth Marketing. If you have 5+ years of growth marketing, growth hacking, or performance marketing experience, consider applying."
 summaryBackup: "Vinovest is looking for a head of growth marketing that has experience in: #marketing, #analytics, #management."
-featured: 20
+featured: 12
 ---
 
 ## Job description
@@ -23,7 +23,7 @@ You will develop and monitor the company’s growth strategy for all stages in t
 
 This role requires a strategist who is able to balance both creative and analytical needs while working in an incredibly fast-paced work environment.
 
-## What you’ll do:
+**What you’ll do:**
 
 *   Own, manage and develop all growth & marketing initiatives.
 *   Develop a system to track conversion rates and measure progress against goals, constantly looking to eliminate bottlenecks, improve processes, and introduce creative ideas and solutions that are quickly tested and evaluated.
@@ -39,18 +39,15 @@ This role requires a strategist who is able to balance both creative and analyti
 
 ## Job requirements
 
-## Who you are:
+**Who you are:**
 
 *   5+ years of growth marketing, growth hacking, or performance marketing experience required.
 *   A self-starter and resourceful. You consistently identify new opportunities and rapidly develop actionable strategies to capitalize on ROI-driven opportunities.
-
 *   Creative and nimble. You think on your feet, try new approaches and are willing to learn from your mistakes. You’ve got the perseverance without the ego.
 *   A confident communicator. You have an uncanny ability to influence others with your exceptional communication skills, and are confident interacting with numerous departments and stakeholders.
-
 *   Experience scaling customer acquisition, activation, and maximizing retention as well as LTV while managing against budgeted resources.
 *   Proven experience tracking analytics and exceeding KPIS.
 *   Extensive experience with database management systems and data visualization software, including MySQL, Tableau for dashboard development and data analysis
-
 *   Proven experience scaling influencer marketing, affiliate marketing, partnerships or a similar program
 *   An analytical storyteller. You can aggregate relevant data from multiple sources and translate it into insightful stories, strategic decisions and tactical recommendations.
 
