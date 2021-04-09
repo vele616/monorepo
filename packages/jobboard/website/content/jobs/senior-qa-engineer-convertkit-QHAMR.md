@@ -6,13 +6,13 @@ companyName: "ConvertKit"
 url: "https://apply.workable.com/convertkit/j/C125F899AA/"
 applyUrl: "https://apply.workable.com/convertkit/j/C125F899AA/apply/"
 timestamp: 1617926400000
-hashtags: "#css,#ui/ux,#marketing,#chef,#office,#rest"
-jobType: "other"
+hashtags: "#qa,#ui/ux,#operations,#marketing,#chef,#css,#office,#rest"
+jobType: "software"
 
 companyWebsite: "http://convertkit.com/"
-summary: "Interested in new opportunities and have 000 yearly vacation bonus for taking 5 consecutive days of vacation, fully unplugged from work? ConvertKit has a job opening for a senior qa engineer."
+summary: "Interested in new opportunities and have 0significant experience in SaaS QA methodologies, tools and processes? ConvertKit has a job opening for a Senior QA Engineer."
 summaryBackup: "Excited about #css, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
@@ -43,7 +43,7 @@ While this is our first full-time QA role, we recognize that we're looking for s
 
 ## Requirements
 
-## The right person
+**The right person**
 
 *   Has significant experience in SaaS QA methodologies, tools and processes
 *   Is avidly interested in using QA to continuously improve daily experiences for coworkers and customers. Cares about customer impact more than defect-free code
@@ -58,7 +58,7 @@ While this is our first full-time QA role, we recognize that we're looking for s
 
 ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at our level 3 ($130,000) or level 4 ($155,000), out of five levels for individual contributors in Engineering. Level is determined based on experience and our interview process.
 
-Other benefits include:
+**Other benefits include:**
 
 *   3 weeks paid vacation, increasing to 4 weeks paid vacation after 1 year on the team
 *   $1,000 yearly vacation bonus for taking 5 consecutive days of vacation, fully unplugged from work
