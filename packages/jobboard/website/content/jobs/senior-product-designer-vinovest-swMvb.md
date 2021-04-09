@@ -6,20 +6,20 @@ companyName: "Vinovest"
 url: "https://vinovest.recruitee.com/o/senior-product-designer"
 applyUrl: "https://vinovest.recruitee.com/o/senior-product-designer/c/new"
 timestamp: 1617926400000
-hashtags: "#ui/ux,#content,#management,#marketing,#analysis,#office,#rest"
+hashtags: "#ui/ux,#analysis,#content,#management,#marketing,#office,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
-summary: "If you have 3 years of experience working in a reputed organization which will be qualified as demonstrated experience with end-to-end product design, consider applying to Vinovest's job post for a new senior product designer."
+summary: "If you have 3 years of experience working in a reputed organization which will be qualified as demonstrated experience with end-to-end product design, consider applying to Vinovest's job post for a new Senior Product Designer."
 summaryBackup: "Love #ui/ux, #content, #management? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Job description
 
 As a Product Designer, you will be involved in every aspect of the product development process, from brainstorming the next great product innovation to tweaking pixels right before launch. You will be expected to utilize your full range of product design, interaction design, and visual design skills, and you will own the experience for Vinovest while also ensuring that our products tie in with the market needs and consumer preferences.
 
-## What you’ll do
+**What you’ll do**
 
 *   Collaborate with Development and Product Management teams throughout the development process to holistically design solutions
 *   Advocate for the systematic, usable design of products
@@ -33,7 +33,7 @@ As a Product Designer, you will be involved in every aspect of the product devel
 
 ## Job requirements
 
-## Who you are
+**Who you are**
 
 *   Experience in product design, strategy, and vision
 *   3 years of experience working in a reputed organization which will be qualified as demonstrated experience with end-to-end product design
@@ -45,6 +45,6 @@ As a Product Designer, you will be involved in every aspect of the product devel
 *   Excellent communication and presentation skills; both written and verbal
 *   A go-getter attitude with a drive to do better and better while also being a team player who collectively plays their part in taking Vinovest forward
 
-## Commitment to Diversity
+**Commitment to Diversity**
 
 Vinovest is an online platform for fine wine as an asset class. We tap into our network of top wineries and trusted fine wine merchants for transparent pricing and global liquidity so that you save time and gain peace of mind.Vinovest is an equal opportunity employer and values the diversity of backgrounds and perspectives to cultivate an environment of understanding to have a greater impact on our business and customers. As an equal employment opportunity provider, Vinovest makes all decisions of employment purely based on merit irrespective of race, caste, gender, creed, color, religion, sex, national origin, or disability.
