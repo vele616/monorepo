@@ -6,13 +6,13 @@ companyName: "Hubstaff"
 url: "https://apply.workable.com/hubstaff/j/69E6716BF5/"
 applyUrl: "https://apply.workable.com/hubstaff/j/69E6716BF5/apply/"
 timestamp: 1617926400000
-hashtags: "#management,#content,#ui/ux,#css,#macos,#wordpress,#branding,#marketing,#analysis,#office"
+hashtags: "#management,#analysis,#optimization,#content,#ui/ux,#css,#macos,#wordpress,#branding,#marketing,#office"
 jobType: "other"
 
 companyWebsite: "https://hubstaff.com/"
-summary: "If you have 100% bootstrapped and has been profitable for years, we want someone to join our team that is as committed as we are to continue and catalyze this growth, consider applying to Hubstaff's job post for a new seo & sem team lead."
+summary: "If you have proven successful experience as an SEO manager / team leader, consider applying to Hubstaff's job post for a new SEO & SEM Team Lead."
 summaryBackup: "Love #management, #content, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
@@ -32,7 +32,6 @@ Your main focus will be on improving domain authority, reaching new audiences th
 *   Work directly with the content team on strategy and research
 *   Direct the team responsible for outreach for effective, efficient link building for SEO as well as brand recognition and referral traffic
 *   Manage a small team of SEO and SEM specialists
-
 *   Design and install systems so that our team is using tools to scale rankings
 *   Know our website health and issues at all times and make sure corrective measures are in place as needed
 *   Work closely with the content team on strategy and implementation
