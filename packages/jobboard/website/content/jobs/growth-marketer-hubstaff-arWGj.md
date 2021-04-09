@@ -6,13 +6,13 @@ companyName: "Hubstaff"
 url: "https://apply.workable.com/hubstaff/j/BF8EE32984/"
 applyUrl: "https://apply.workable.com/hubstaff/j/BF8EE32984/apply/"
 timestamp: 1617926400000
-hashtags: "#marketing,#management,#ui/ux,#css,#content,#analytics,#socialmedia,#analysis,#office,#optimization"
+hashtags: "#marketing,#optimization,#management,#ui/ux,#css,#content,#analytics,#socialmedia,#analysis,#office"
 jobType: "other"
 
 companyWebsite: "https://hubstaff.com/"
-summary: "If you have 2-3 years in a growth-related position, Hubstaff is looking for someone with your knowledge."
+summary: "If you have 2-3 years of experience in a growth-related position, Hubstaff is looking for someone with your knowledge."
 summaryBackup: "Excited about #marketing, #management, #ui/ux? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Description
