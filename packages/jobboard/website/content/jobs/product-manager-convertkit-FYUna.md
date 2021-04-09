@@ -6,13 +6,13 @@ companyName: "ConvertKit"
 url: "https://apply.workable.com/convertkit/j/D8989481C5/"
 applyUrl: "https://apply.workable.com/convertkit/j/D8989481C5/apply/"
 timestamp: 1617926400000
-hashtags: "#management,#ui/ux,#marketing,#css,#chef,#content,#rest,#office"
+hashtags: "#management,#rest,#marketing,#ui/ux,#css,#chef,#content,#office"
 jobType: "software"
 
 companyWebsite: "http://convertkit.com/"
-summary: "To apply as a product manager at ConvertKit, you preferably need to have 000 yearly vacation bonus for taking 5 consecutive days of vacation, fully unplugged from work."
+summary: "To apply as a Product Manager at ConvertKit, you preferably need to have experience in product management at a SaaS company."
 summaryBackup: "Love #management, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## Description
