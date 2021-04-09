@@ -13,6 +13,7 @@ companyWebsite: "https://hubstaff.com/"
 summary: "If you have experience writing company or brand blog, consider applying to Hubstaff's job post for a new SaaS Blog Writer & Editor."
 summaryBackup: "To apply as a saas blog writer & editor at Hubstaff, you preferably need to have some knowledge of: #css, #branding, #management."
 featured: 5
+archived: "true"
 ---
 
 ## Description

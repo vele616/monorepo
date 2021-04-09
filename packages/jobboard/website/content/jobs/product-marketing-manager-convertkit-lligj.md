@@ -13,6 +13,7 @@ companyWebsite: "http://convertkit.com/"
 summary: "Interested in new opportunities and have 4+ years of in-house experience in product marketing for SaaS, B2C tech companies? ConvertKit has a job opening for a Product Marketing Manager."
 summaryBackup: "ConvertKit is looking for a product marketing manager that has experience in: #marketing, #ui/ux, #css."
 featured: 1
+archived: "true"
 ---
 
 ## Description
