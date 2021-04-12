@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
 summary: "Customer.io is looking for an engineering manager that have strong technical foundation in database technologies, distributed systems, and scaling solutions"
 summaryBackup: "Excited about #management, #spring, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://customer.io).

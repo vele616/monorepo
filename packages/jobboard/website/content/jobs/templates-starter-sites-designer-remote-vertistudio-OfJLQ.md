@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "To apply as a Templates/Starter Sites Designer at VertiStudio, you preferably need to have 2+ years experience building graphical designs."
 summaryBackup: "VertiStudio is looking for a templates that has experience in: #ui/ux, #css, #html."
 featured: 5
+archived: "true"
 ---
 
 ## About us
