@@ -6,13 +6,13 @@ companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/3051886?t=5c1a877f1us"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/3051886?t=5c1a877f1us#app"
 timestamp: 1618185600000
-hashtags: "#spring,#marketing,#sales,#css,#content,#ui/ux,#management,#office"
+hashtags: "#management,#content,#marketing,#spring,#sales,#css,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
-summary: "Customer.io wishes to hire a new startup program manager. If you have 2,000 USD reimbursement per year to use on conferences, books, classes, or workshops, consider applying."
-summaryBackup: "Customer.io is looking for a startup program manager that has experience in: #spring, #marketing, #sales."
-featured: 20
+summary: "Customer.io is looking for a Startup Program Manager that has experience in: #management, #content, #marketing."
+summaryBackup: "Customer.io is looking for a Startup Program Manager that has experience in: #management, #content, #marketing."
+featured: 11
 ---
 
 Hello! My name is Kyle and I head up the Partners Team at [Customer.io](http://customer.io). One of the newer growth strategies of our team has been building the [Customer.io Startup Program](https://customer.io/startup-program/). This program is designed to give funded startups access to Customer.io at a discounted rate so they're able to build a world-class messaging tool into their stack early on.
