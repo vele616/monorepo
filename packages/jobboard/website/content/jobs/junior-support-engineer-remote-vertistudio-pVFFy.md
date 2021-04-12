@@ -1,5 +1,5 @@
 ---
-title: "Junior Support Engineer (Remote)"
+title: "Junior Support Engineer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
@@ -7,12 +7,12 @@ url: "https://themeisle.freshteam.com/jobs/8DiJoMCXUJtv/junior-support-engineer-
 applyUrl: "https://themeisle.freshteam.com/jobs/8DiJoMCXUJtv/junior-support-engineer-remote#applicant-form"
 timestamp: 1618185600000
 hashtags: "#wordpress,#javascript,#jquery,#php,#git,#css,#html,#optimization,#English"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
-summary: "VertiStudio wishes to hire a new junior support engineer. If you have basic experience with WordPress, any previous project with it is an advantage, consider applying."
+summary: "VertiStudio wishes to hire a new Junior Support Engineer. If you have basic experience with WordPress, consider applying."
 summaryBackup: "VertiStudio is looking for a junior support engineer that has experience in: #wordpress, #javascript, #jquery."
-featured: 20
+featured: 13
 ---
 
 ## About us
