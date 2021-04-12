@@ -7,7 +7,7 @@ url: "https://bmat.bamboohr.com/jobs/view.php?id=174&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=174&source=other"
 timestamp: 1618185600000
 hashtags: "#operations,#django,#python,#docker,#aws,#elasticsearch,#scrum,#translation,#English"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "If you have some experience with docker and elasticsearch, BMAT has a job opening for an Operations Engineer"
