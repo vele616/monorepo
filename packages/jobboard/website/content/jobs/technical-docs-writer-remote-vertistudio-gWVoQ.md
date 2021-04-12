@@ -1,5 +1,5 @@
 ---
-title: "Technical Docs Writer (Remote)"
+title: "Technical Docs Writer"
 location: "Remote"
 host: "https://themeisle.freshteam.com/jobs"
 companyName: "VertiStudio"
@@ -7,12 +7,12 @@ url: "https://themeisle.freshteam.com/jobs/asOotstnEqMJ/technical-docs-writer-re
 applyUrl: "https://themeisle.freshteam.com/jobs/asOotstnEqMJ/technical-docs-writer-remote#applicant-form"
 timestamp: 1618185600000
 hashtags: "#wordpress,#javascript,#jquery,#php,#css,#html,#content,#git,#optimization,#English"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"
-summary: "VertiStudio wishes to hire a new technical docs writer. If you have basic experience with WordPress or any previous project with it is an advantage, consider applying."
+summary: "VertiStudio wishes to hire a new Technical Docs Writer. If you have basic experience with WordPress or any previous project with it, consider applying."
 summaryBackup: "Excited about #wordpress, #javascript, #jquery? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## About us
