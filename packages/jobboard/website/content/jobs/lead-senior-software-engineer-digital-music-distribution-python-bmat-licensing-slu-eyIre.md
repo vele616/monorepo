@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "If you have 5+ years of industry experience building data-intensive web applications, consider applying to BMAT's job post for a new Lead Senior Software Engineer."
 summaryBackup: "To apply as a lead senior software engineer at BMAT Licensing SLU, you preferably need to have some knowledge of: #python, #ui/ux, #django."
 featured: 18
+archived: "true"
 ---
 
 ## About BMAT 

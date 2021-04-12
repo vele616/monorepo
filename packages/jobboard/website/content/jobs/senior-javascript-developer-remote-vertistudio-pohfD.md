@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio wishes to hire a new senior javascript developer. If you have 2+ years experience building web applications, consider applying."
 summaryBackup: "To apply as a senior javascript developer at VertiStudio, you preferably need to have some knowledge of: #javascript, #ui/ux, #wordpress."
 featured: 12
+archived: "true"
 ---
 
 ## About us
