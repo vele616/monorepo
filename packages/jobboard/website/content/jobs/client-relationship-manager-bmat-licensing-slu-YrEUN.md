@@ -6,13 +6,13 @@ companyName: "BMAT Licensing SLU"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=173&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=173&source=other"
 timestamp: 1618185600000
-hashtags: "#management,#office,#translation,#operations,#scrum,#optimization,#English"
+hashtags: "#management,#optimization,#crm,#office,#translation,#operations,#scrum,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "Love experience in: #management, #office, #translation? Check out this job post!"
+summary: "Love experience in: #management, #optimization, #crm? Check out this job post!"
 summaryBackup: "Love #management, #office, #translation? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## About BMAT 
@@ -57,7 +57,7 @@ You will work in close collaboration with the Engineering team. You will have th
 *   Knowledge or experience in the music industry is a plus
 *   Fluency in English and Spanish.
 
-##  You Can Enjoy
+## You Can Enjoy
 
 *   Full-time job, part-time or freelancing options available!
 *   Flexibility on working hours and home office.
