@@ -2,7 +2,7 @@
 title: "Python Software Engineer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
-companyName: "BMAT Licensing SLU"
+companyName: "BMAT"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=172&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=172&source=other"
 timestamp: 1618185600000
@@ -10,9 +10,9 @@ hashtags: "#python,#django,#flask,#operations,#ui/ux,#linux,#docker,#management,
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU is searching for a python software engineer that has experience with software design life cycle and best practices."
+summary: "BMAT is searching for a Python Software Engineer that has hands-on experience in MongoDB, MySQL, PostgreSQL as database management systems."
 summaryBackup: "Excited about #python, #django, #flask? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## About BMAT 
