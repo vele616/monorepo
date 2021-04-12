@@ -2,7 +2,7 @@
 title: "Research Assistant"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
-companyName: "BMAT Licensing SLU"
+companyName: "BMAT"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=167&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=167&source=other"
 timestamp: 1618185600000
@@ -10,9 +10,9 @@ hashtags: "#python,#django,#flask,#management,#ui/ux,#pandas,#pytorch,#keras,#li
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU wishes to hire a new research assistant. If you have experience with the main research, machine learning and audio libraries, consider applying."
+summary: "BMAT wishes to hire a new Research Assistant. If you have experience with the main research, machine learning and audio libraries, consider applying."
 summaryBackup: "Excited about #python, #django, #flask? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## About BMAT
@@ -61,18 +61,15 @@ This job offer is supported by ACCIÓ (Agència per la Competitivitat de l'Empre
 *   Fluency in English.
 *   Bonus points: Spanish, Catalan.  
     
-
 ## You Can Enjoy
 
 *   Full-time job.
 *   Flexible working location and remote working.
 *   Flexibility on working hours.
 *   Flat hierarchy.  
-    
 *   Free English and Spanish classes.
 *   Wide range of online and onsite courses.
 *   Possibility to choose your hardware and tools.  
-    
 *   Becoming part of a diverse and multicultural team based in Barcelona obsessed with bettering the music industry
 
 Diverse perspectives drive innovation, and innovation is kind of our thing. Our open-minded and flexible culture organically fosters this diversity. We've learnt that we thrive on learning from each other, so we don't just welcome but actively hire a range of open-minded people from all walks of life. Our team is made up of people with different backgrounds, perspectives, orientations, abilities, musical tastes, dress sense and time-zones - but we all have one common goal: Making the music world a better place. With equal opportunities for everyone, BMAT is a pretty nice place to work.
