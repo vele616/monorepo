@@ -1,5 +1,5 @@
 ---
-title: "Operations Engineer - Back Office"
+title: "Operations Engineer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
 companyName: "BMAT Licensing SLU"
@@ -10,9 +10,9 @@ hashtags: "#operations,#django,#python,#docker,#aws,#elasticsearch,#scrum,#trans
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "If you have some experience with docker and elasticsearch will help you solve some tasks faster, BMAT Licensing SLU has a job opening for an operations engineer"
+summary: "If you have some experience with docker and elasticsearch, BMAT has a job opening for an Operations Engineer"
 summaryBackup: "Love #operations, #django, #python? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
 ## About BMAT 
