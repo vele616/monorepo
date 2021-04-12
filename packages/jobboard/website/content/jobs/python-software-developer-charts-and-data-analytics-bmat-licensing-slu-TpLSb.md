@@ -1,18 +1,18 @@
 ---
-title: "Python Software Developer - Charts and Data Analytics"
+title: "Python Software Developer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
-companyName: "BMAT Licensing SLU"
+companyName: "BMAT"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=169&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=169&source=other"
 timestamp: 1618185600000
-hashtags: "#python,#ui/ux,#javascript,#django,#flask,#docker,#elasticsearch,#linux,#aws,#analysis"
+hashtags: "#python,#linux,#aws,#ui/ux,#javascript,#django,#flask,#docker,#elasticsearch,#analysis"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU intends to hire a new python software developer. If you have 4+ years of experience, consider applying."
+summary: "BMAT intends to hire a new Python Software Developer. If you have solid Python knowledge with 4+ years of experience, consider applying."
 summaryBackup: "To apply as a python software developer at BMAT Licensing SLU, you preferably need to have some knowledge of: #python, #ui/ux, #javascript."
-featured: 20
+featured: 10
 ---
 
 ## About BMAT
