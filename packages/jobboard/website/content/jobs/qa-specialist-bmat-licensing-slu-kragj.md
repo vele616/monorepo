@@ -2,17 +2,17 @@
 title: "QA Specialist"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
-companyName: "BMAT Licensing SLU"
+companyName: "BMAT"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=168&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=168&source=other"
 timestamp: 1618185600000
-hashtags: "#scrum,#ui/ux,#management,#analysis,#English"
-jobType: "other"
+hashtags: "#scrum,#analysis,#qa,#ui/ux,#management,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU is looking for a qa specialist that has 3 years of experience in testing complex web-applications."
+summary: "BMAT is looking for a QA specialist that has 3 years of experience in testing complex web-applications."
 summaryBackup: "Excited about #scrum, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## About BMAT
