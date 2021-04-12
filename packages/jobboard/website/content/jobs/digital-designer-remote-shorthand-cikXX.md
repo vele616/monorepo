@@ -1,18 +1,18 @@
 ---
-title: "Digital Designer (Remote)"
+title: "Digital Designer"
 location: "Remote"
 host: "https://shorthand.freshteam.com/jobs"
 companyName: "Shorthand"
 url: "https://shorthand.freshteam.com/jobs/YNrsYmMykYXS/digital-designer-remote"
 applyUrl: "https://shorthand.freshteam.com/jobs/YNrsYmMykYXS/digital-designer-remote#applicant-form"
 timestamp: 1618185600000
-hashtags: "#ui/ux,#marketing,#branding,#css,#html,#management,#sales,#content,#socialmedia,#photoshop"
+hashtags: "#ui/ux,#photoshop,#html,#marketing,#branding,#css,#management,#sales,#content,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shorthand"
 companyWebsite: "https://shorthand.freshteam.com/jobs"
-summary: "Interested in new opportunities and have has at least two years of experience in a similar role, with a good understanding of multi? Shorthand has a job opening for a digital designer."
+summary: "Interested in new opportunities and have extensive experience with design software such as Adobe Photoshop, Illustrator, InDesign, or similar? Shorthand has a job opening for a Digital Designer."
 summaryBackup: "To apply as a digital designer at Shorthand, you preferably need to have some knowledge of: #ui/ux, #marketing, #branding."
-featured: 20
+featured: 11
 ---
 
 ## The Opportunity
