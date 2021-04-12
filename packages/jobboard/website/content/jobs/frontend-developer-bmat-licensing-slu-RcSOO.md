@@ -2,7 +2,7 @@
 title: "Frontend Developer"
 location: "Remote, Barcelona"
 host: "https://bmat.bamboohr.com/jobs/"
-companyName: "BMAT Licensing SLU"
+companyName: "BMAT"
 url: "https://bmat.bamboohr.com/jobs/view.php?id=175&source=other"
 applyUrl: "https://bmat.bamboohr.com/jobs/view.php?id=175&source=other"
 timestamp: 1618185600000
@@ -10,9 +10,9 @@ hashtags: "#javascript,#angular,#typescript,#reactjs,#css,#html,#python,#ui/ux,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bmat-licensing-slu"
 companyWebsite: "https://bmat.bamboohr.com/jobs/"
-summary: "BMAT Licensing SLU wishes to hire a new frontend developer. If you have experience with Angular 2x, consider applying."
+summary: "BMAT  wishes to hire a new Frontend Developer. If you have experience with Angular 2x, consider applying."
 summaryBackup: "Love #javascript, #angular, #typescript? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## About BMAT
