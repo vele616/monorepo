@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Developer .NET (f/m, Remote)"
+title: "Full Stack Developer"
 location: "Zagreb,Croatia"
 host: "https://careers.smartrecruiters.com/Codebooq/"
 companyName: "Codebooq"
 url: "https://jobs.smartrecruiters.com/Codebooq/743999742039431-full-stack-developer-net-f-m-remote-"
 applyUrl: "https://jobs.smartrecruiters.com/oneclick-ui/company/Codebooq/publication/93fdcc3c-905d-4974-98e9-f525bff15155?dcr_id=DCRA1"
 timestamp: 1618272000000
-hashtags: "#javascript,#reactjs,#angular,#windows,#kubernetes,#docker,#azure,#ui/ux,#management,#English"
+hashtags: "#csharp,#javascript,#reactjs,#angular,#windows,#kubernetes,#docker,#azure,#ui/ux,#management,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/codebooq"
 companyWebsite: "http://www.codebooq.com/"
-summary: "If you have 3+ years’ experience with, Codebooq has a job opening for a full stack developer .net"
+summary: "If you have experience as a Fullstack software developer or you have the ambition to go from Backend to Fullstack, Codebooq has a job opening for a Full Stack Developer."
 summaryBackup: "Codebooq is looking for a full stack developer .net that has experience in: #javascript, #reactjs, #angular."
-featured: 20
+featured: 10
 ---
 
 ## Company Description
