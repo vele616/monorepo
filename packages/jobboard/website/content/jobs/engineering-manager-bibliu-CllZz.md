@@ -17,11 +17,11 @@ featured: 10
 
 ## Job description
 
-Engineering Manager(Javascript, node.js)
+Engineering Manager (Javascript, node.js)
 
 **Location:** Fully remote
 
-**Experience:** 2-5 years (at least one year in manager/ team lead role)**100% remote.**
+**Experience:** 2-5 years (at least one year in manager/ team lead role) **100% remote.**
 
 **Full time (contract)**
 
