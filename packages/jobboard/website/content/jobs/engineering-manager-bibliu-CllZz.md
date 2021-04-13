@@ -6,13 +6,13 @@ companyName: "BibliU"
 url: "https://bibliu.recruitee.com/o/engineering-manager"
 applyUrl: "https://bibliu.recruitee.com/o/engineering-manager/c/new"
 timestamp: 1618272000000
-hashtags: "#management,#javascript,#content,#aws,#ui/ux,#marketing,#operations,#rest,#English"
+hashtags: "#management,#javascript,#aws,#content,#ui/ux,#marketing,#operations,#rest,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bibliu"
 companyWebsite: "https://www.bibliu.com/"
-summary: "Interested in new opportunities and have have experience with building and designing REST APIs? BibliU has a job opening for an engineering manager."
+summary: "Interested in new opportunities and have have experience with building and designing REST APIs? BibliU has a job opening for an Engineering Manager."
 summaryBackup: "To apply as an engineering manager at BibliU, you preferably need to have some knowledge of: #management, #javascript, #content."
-featured: 20
+featured: 10
 ---
 
 ## Job description
@@ -23,9 +23,9 @@ Engineering Manager(Javascript, node.js)
 
 **Experience:** 2-5 years (at least one year in manager/ team lead role)**100% remote.**
 
-## Full time (contract)
+**Full time (contract)**
 
-## MUST speak fluent English
+**MUST speak fluent English**
 
 ## About Us
 
@@ -78,7 +78,7 @@ We strongly encourage candidates of all different backgrounds, experiences and i
 We are looking for an experienced engineering manager (or team lead) to manage a new team offull-stack developers. We are looking for you if you:
 
 *   Are proficient Javascript and Node.js (ES8 or later)
-*   Engineering Management (orTeam Lead) experience - you have experience in the "people management"side
+*   Engineering Management (orTeam Lead) experience - you have experience in the "people management" side
 *   Have a working knowledge of cloud services (ideally AWS)
 *   Have a good understanding of remote software development workflows
 *   Have experience with building and designing REST APIs
