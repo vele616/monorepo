@@ -1,16 +1,16 @@
 ---
-title: "Junior Technical Support Engineer (Remote)"
+title: "Junior Technical Support Engineer"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/z41D6wGyicR8/junior-technical-support-engineer-remote"
 applyUrl: "https://keyrock.freshteam.com/jobs/z41D6wGyicR8/junior-technical-support-engineer-remote#applicant-form"
 timestamp: 1618358400000
-hashtags: "#marketing,#management,#docker,#office,#operations,#analysis,#finance,#monitoring"
-jobType: "other"
+hashtags: "#operations,#analysis,#docker,#marketing,#management,#office,#finance,#monitoring"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "Keyrock intends to hire a new junior technical support engineer. If you have the freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year, consider applying."
+summary: "Keyrock intends to hire a new Junior Technical Support Engineer. If you have proven professional experience in testing, customer support and business analysis, consider applying."
 summaryBackup: "Love #marketing, #management, #docker? Check out this job post!"
 featured: 20
 ---
