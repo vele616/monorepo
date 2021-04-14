@@ -1,18 +1,18 @@
 ---
-title: "Senior Full Stack Engineer (Elixir, React | Fully Remote)"
+title: "Senior Full Stack Engineer"
 location: "Vienna, AT - Remote OK"
 host: "https://gustav-technologies-inc.breezy.hr/"
-companyName: "gustav-technologies-inc"
+companyName: "gustav technologies inc"
 url: "https://gustav-technologies-inc.breezy.hr/p/63df0f7204c501-senior-full-stack-engineer-elixir-react-fully-remote"
 applyUrl: "https://gustav-technologies-inc.breezy.hr/p/63df0f7204c501-senior-full-stack-engineer-elixir-react-fully-remote/apply"
 timestamp: 1618358400000
-hashtags: "#python,#rubylang,#ui/ux,#javascript,#reactjs,#html,#css,#aws,#git,#translation"
+hashtags: "#python,#reactjs,#elixir,#rubylang,#ui/ux,#javascript,#html,#css,#aws,#git,#translation"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gustav-technologies-inc"
 companyWebsite: "https://hellogustav.com/"
-summary: "Interested in new opportunities and have experience with common front? Gustav-technologies-inc has a job opening for a senior full stack engineer."
+summary: "Interested in new opportunities and have 5+ years of real-world experience in software development? Gustav Technologies has a job opening for a Senior Full Stack Engineer."
 summaryBackup: "Excited about #python, #rubylang, #ui/ux? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 _In short: Full-time position at Gustav as Senior Full Stack Engineer (Elixir + React.js), fully remote._
