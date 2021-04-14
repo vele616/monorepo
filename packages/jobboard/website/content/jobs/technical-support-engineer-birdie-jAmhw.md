@@ -6,13 +6,13 @@ companyName: "Birdie"
 url: "https://apply.workable.com/birdie/j/22173F3307/"
 applyUrl: "https://apply.workable.com/birdie/j/22173F3307/apply/"
 timestamp: 1618358400000
-hashtags: "#socialmedia,#css,#javascript,#elasticsearch,#management,#html,#office,#content,#analytics,#marketing"
-jobType: "other"
+hashtags: "#kibana,#css,#javascript,#elasticsearch,#management,#html,#socialmedia,#office,#content,#analytics,#marketing"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/birdie"
 companyWebsite: "https://birdie.care/"
-summary: "If you have 1 years experience in a Technical Support role within a SaaS company, consider applying to Birdie's job post for a new technical support engineer."
+summary: "If you have 1 years experience in a Technical Support role within a SaaS company, consider applying to Birdie's job post for a new Technical Support Engineer."
 summaryBackup: "Love #socialmedia, #css, #javascript? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Description
@@ -68,7 +68,17 @@ These are our ideal requirements, but we know some people are less likely to app
 
 ## Benefits
 
-**🙌 People are our core strength.**We are social entrepreneurs, boasting an outstanding culture (employer net promotion score of 67) with strong values (B-Corp certified). We offer exceptional benefits and invest massively in our team's happiness, wellbeing and growth:**✨ Compensation**Competitive salary between £28 - £33k - dependent on skills and experience; we provide discretionary share options🏝 **Flexible**With Covid-19, we have decided to be a fully distributed team with Birdees working across the globe. As long as you're +-3h from GMT, you can work from anywhere you want. We organise quarterly in-person events and online socials to make sure you can meet up with peers. If you want to come to the office, you're most welcome of course!
+**🙌 People are our core strength.** 
+
+We are social entrepreneurs, boasting an outstanding culture (employer net promotion score of 67) with strong values (B-Corp certified). We offer exceptional benefits and invest massively in our team's happiness, wellbeing and growth:
+
+**✨ Compensation** 
+
+Competitive salary between £28 - £33k - dependent on skills and experience; we provide discretionary share options
+
+🏝 **Flexible**
+
+With Covid-19, we have decided to be a fully distributed team with Birdees working across the globe. As long as you're +-3h from GMT, you can work from anywhere you want. We organise quarterly in-person events and online socials to make sure you can meet up with peers. If you want to come to the office, you're most welcome of course!
 
 **🌱 L&D budget**
 
@@ -90,7 +100,9 @@ Gym membership and numerous other wellbeing perks and discounts via Vitality
 
 Birdie will buy a bike up-front and you can salary sacrifice to pay-off over the next 12-36 months
 
-**👼🏽 Parental Leave**Highly favourable parental leave policy for any new parent (we believe we must address the gender gap pay by fostering equal parental leave policies regardless of gender)
+**👼🏽 Parental Leave** 
+
+Highly favourable parental leave policy for any new parent (we believe we must address the gender gap pay by fostering equal parental leave policies regardless of gender)
 
 **👵🏻 Pension employer contribution**
 
