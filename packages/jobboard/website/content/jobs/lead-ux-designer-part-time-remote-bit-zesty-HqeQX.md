@@ -13,6 +13,7 @@ companyWebsite: "https://bitzesty.com/"
 summary: "Love experience in: #ui/ux, #management, #analysis? Check out this job post!"
 summaryBackup: "Excited about #ui/ux, #management, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

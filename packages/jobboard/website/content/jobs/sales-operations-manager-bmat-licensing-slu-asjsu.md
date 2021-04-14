@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT Licensing SLU intends to hire a new Sales Operations Manager. If you have +7ys direct experience in the music industry and a good understanding of international copyrights, consider applying."
 summaryBackup: "To apply as a sales operations manager at BMAT Licensing SLU, you preferably need to have some knowledge of: #sales, #management, #operations."
 featured: 19
+archived: "true"
 ---
 
 ## About BMAT 

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=revieve"
 summary: "To apply as a Director of Business Development at Revieve, you preferably need to have 3+ years of experience with enterprise sales in SaaS, Retail, Software or Tech direct selling and know what it's like to work in a fast-growing company."
 summaryBackup: "Love #branding, #sales, #css? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 Revieve is a market-leading beauty-technology company partnered with 70+ global brands on 4 continents building the new standard of commerce across skin, beauty, health and wellness. We enable brands and retailers to drive their customer-experience leveraging AI, AR and Computer-Vision. We've been fortunate to partner with world-leading brands including ULTA, Shiseido, Unilever and others to drive business results.

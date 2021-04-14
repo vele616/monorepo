@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "To apply as a devops engineer at VertiStudio, you preferably need to have 2+ years experience using AWS."
 summaryBackup: "Excited about #nodejs, #golang, #php? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About us

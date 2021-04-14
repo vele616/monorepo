@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat intends to hire a new Senior iOS Engineer. If you have 3+ years of native iOS app development experience, consider applying."
 summaryBackup: "Beat is looking for a senior ios engineer that has experience in: #ios, #swift, #objectivec."
 featured: 9
+archived: "true"
 ---
 
 ## About us
