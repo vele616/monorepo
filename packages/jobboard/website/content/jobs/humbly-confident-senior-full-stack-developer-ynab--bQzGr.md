@@ -1,5 +1,5 @@
 ---
-title: "Humbly Confident Senior Full Stack Developer"
+title: "Senior Full Stack Developer"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
@@ -10,9 +10,9 @@ hashtags: "#rails,#vuejs,#typescript,#ui/ux,#css,#javascript,#reactjs,#angular,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
-summary: "YNAB wishes to hire a new humbly confident senior full stack developer. If you have we host on Heroku, so experience there is a bonus, but experience with AWS or other popular IAAS/PAAS is just fine, consider applying."
+summary: "YNAB wishes to hire a new Senior Full Stack Developer. If you have at least five years of experience building, shipping, monitoring, and maintaining SaaS apps at scale, consider applying."
 summaryBackup: "YNAB is looking for a humbly confident senior full stack developer that has experience in: #rails, #vuejs, #typescript."
-featured: 20
+featured: 16
 ---
 
 ## About Us and Why We’re Hiring
@@ -145,7 +145,6 @@ YNAB is an equal opportunity employer. We believe a diversity of backgrounds, be
 
 *   Apply below by 11:59pm on April 25th, 2021. Firm. It’s a real deadline.
 *   Write a cover letter and attach it as a PDF. In your cover letter:
-
 *   Introduce yourself, tell us why this position is of interest to you, and why you would be a great fit. _This portion of the cover letter should be less than a page and a half._
 *   On a separate page of your cover letter, please answer the following questions. _Each response should be about a paragraph in length_:
 
