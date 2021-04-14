@@ -9,6 +9,7 @@ const WhatCanWeDo = ({ title1, text1, title2, text2, image1, image2 }) => [
     key="initial"
     className={styles.section}
     backgroundColor="background_base"
+    id="second-section"
   >
     <Flexbox alignItems="center" className={styles.flex}>
       <Img
