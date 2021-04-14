@@ -1,18 +1,18 @@
 ---
-title: "Software Development Engineer (Fullstack)"
-location: ""
+title: "Software Development Engineer"
+location: "remote"
 host: "https://gistia.breezy.hr/"
 companyName: "gistia"
 url: "https://gistia.breezy.hr/p/a7f04c6d5a41-software-development-engineer-fullstack"
 applyUrl: "https://gistia.breezy.hr/p/a7f04c6d5a41-software-development-engineer-fullstack/apply"
 timestamp: 1618358400000
-hashtags: "#reactjs,#java,#ui/ux,#html,#css,#javascript,#angular,#typescript,#management,#ansible"
+hashtags: "#reactjs,#java,#html,#css,#javascript,#angular,#typescript,#ui/ux,#management,#ansible"
 jobType: "software"
 
 companyWebsite: "https://gistia.breezy.hr/"
-summary: "If you have 3 years of experience, having built, delivered, and maintained at least 2-3 applications, back to front, Gistia has a job opening for a software development engineer"
+summary: "If you have 3 years of experience, having built, delivered, and maintained at least 2-3 applications, back to front, Gistia has a job opening for a Software Development Engineer"
 summaryBackup: "Excited about #reactjs, #java, #ui/ux? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Keyword Search:
