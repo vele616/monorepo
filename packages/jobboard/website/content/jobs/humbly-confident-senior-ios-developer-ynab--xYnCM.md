@@ -13,6 +13,7 @@ companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "YNAB intends to hire a new humbly confident senior ios developer. If you have you have deep experience with Swift and are comfortable with Objective, consider applying."
 summaryBackup: "YNAB is looking for a humbly confident senior ios developer that has experience in: #swift, #ios, #objectivec."
 featured: 9
+archived: "true"
 ---
 
 ## About Us and Why We’re Hiring
