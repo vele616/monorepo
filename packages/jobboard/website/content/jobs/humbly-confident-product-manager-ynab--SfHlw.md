@@ -1,5 +1,5 @@
 ---
-title: "Humbly Confident Product Manager"
+title: "Product Manager"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#marketing,#management,#windows,#operations,#css,#html,#financ
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
-summary: "If you have you must have at least five years of experience working in the software industry, at least three of which were as a product manager or other key role on a product team, YNAB is looking for someone with your skillset."
+summary: "If you have at least five years of experience working in the software industry, at least three of which were as a product manager or other key role on a product team, YNAB is looking for someone with your skillset."
 summaryBackup: "YNAB is looking for a humbly confident product manager that has experience in: #ui/ux, #marketing, #management."
-featured: 20
+featured: 10
 ---
 
 ## About Us and Why We’re Hiring
