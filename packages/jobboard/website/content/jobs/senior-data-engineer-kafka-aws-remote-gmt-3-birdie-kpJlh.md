@@ -13,6 +13,7 @@ companyWebsite: "https://birdie.care/"
 summary: "Birdie intends to hire a new Senior Data Engineer. If you have 3 years of experience working in a data engineering role supporting customer-facing processes and infrastructure, consider applying."
 summaryBackup: "To apply as a senior data engineer at Birdie, you preferably need to have some knowledge of: #socialmedia, #aws, #spark."
 featured: 14
+archived: "true"
 ---
 
 ## Description

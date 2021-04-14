@@ -13,6 +13,7 @@ companyWebsite: "https://aiven.io/"
 summary: "Aiven intends to hire a new Senior Software Engineer. If you have a strong background in software engineering and test automation, consider applying."
 summaryBackup: "To apply as a senior software engineer in testing at Aiven, you preferably need to have some knowledge of: #python, #java, #operations."
 featured: 20
+archived: "true"
 ---
 
 ## Description

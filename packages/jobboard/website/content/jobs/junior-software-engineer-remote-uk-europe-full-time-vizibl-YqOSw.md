@@ -13,6 +13,7 @@ companyWebsite: "http://www.vizibl.co/"
 summary: "If you have some professional experience writing code as part of a software engineering team, Vizibl has a job opening for a Junior Software Engineer"
 summaryBackup: "Excited about #javascript, #python, #ui/ux? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Description
