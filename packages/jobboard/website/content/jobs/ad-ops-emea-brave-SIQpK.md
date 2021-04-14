@@ -1,18 +1,18 @@
 ---
-title: "Ad Ops - EMEA"
+title: "Ad Ops Manager"
 location: "EMEA - Remote"
 host: "https://boards.greenhouse.io/brave"
 companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/3003179"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/3003179#app"
 timestamp: 1618358400000
-hashtags: "#operations,#management,#javascript,#css,#html,#marketing"
+hashtags: "#operations,#management,#marketing,#javascript,#css,#html"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "Brave wishes to hire a new ad ops. If you have 7 years work experience in Ad Operations, consider applying."
+summary: "Brave wishes to hire a new Ad Ops Manager. If you have 2 - 7 years work experience in Ad Operations, consider applying."
 summaryBackup: "Excited about #operations, #management, #javascript? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Ad Ops Manager- EMEA
