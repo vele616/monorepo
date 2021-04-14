@@ -1,5 +1,5 @@
 ---
-title: "Humbly Confident Senior Android Developer"
+title: "Senior Android Developer"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
@@ -10,9 +10,9 @@ hashtags: "#kotlin,#android,#javascript,#typescript,#ui/ux,#rails,#java,#windows
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
-summary: "If you have you have extensive experience with Kotlin and Java, consider applying to YNAB's job post for a new humbly confident senior android developer."
+summary: "If you have you have extensive experience with Kotlin and Java, consider applying to YNAB's job post for a new Senior Android Developer."
 summaryBackup: "YNAB is looking for a humbly confident senior android developer that has experience in: #kotlin, #android, #javascript."
-featured: 20
+featured: 7
 ---
 
 ## About Us and Why We’re Hiring
@@ -117,11 +117,11 @@ We’re already spiking on integrating Kotlin Multiplatform as well, so this is 
 *   You have played an essential role in building, shipping, and supporting at least one significant Android app.
 *   You have excellent debugging skills. You know how to find problems and how to build apps so that problems are discoverable in the first place.
 *   You are self-motivated and thrive with directions like:
+   
+    *   "This part of the program is too slow. Can you find out why?"
+    *   "This component needs to be re-architected to allow for new feature X. How do you think we should do it?"
+    *   “Our code needs to call into a Javascript library, but that Javascript library is crashing because it can’t find the setTimeout function. Can you investigate?”  
 
-*   "This part of the program is too slow. Can you find out why?"
-*   "This component needs to be re-architected to allow for new feature X. How do you think we should do it?"
-*   “Our code needs to call into a Javascript library, but that Javascript library is crashing because it can’t find the setTimeout function. Can you investigate?”  
-    
 
 *   You are excited to work across multiple platforms with different technologies.
 *   You have an understanding of algorithms and data structures beyond arrays and “for loops.” That doesn’t mean you have to be a computer science PhD or even that you have to know “Big O” notation, but you should know when to use a Dictionary/Map, and why finding an element in a sorted array is faster than finding an element in an unsorted array.
