@@ -6,7 +6,7 @@ companyName: "VertiStudio"
 url: "https://themeisle.freshteam.com/jobs/z8VHHSrYHamW/head-of-people-remote"
 applyUrl: "https://themeisle.freshteam.com/jobs/z8VHHSrYHamW/head-of-people-remote#applicant-form"
 timestamp: 1607558400000
-hashtags: "#management,#operations,#projectmanagement,#hr,#analysis"
+hashtags: "#management,#operations,#projectmanagement,#HR,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vertistudio"
 companyWebsite: "https://careers.vertistudio.com/"

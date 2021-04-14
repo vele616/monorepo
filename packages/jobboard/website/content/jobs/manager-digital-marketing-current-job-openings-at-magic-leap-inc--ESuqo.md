@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 5+ years experience in digital marketing, Magic Leap, Inc. is looking for someone with your skillset."
 summaryBackup: "To apply as a manager at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #marketing, #ui/ux, #management."
 featured: 20
+archived: "true"
 ---
 
 ## Job Description

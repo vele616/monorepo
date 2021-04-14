@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=barrel"
 summary: "Barrel wishes to hire a new Digital Project Manager. If you have prior experience working on WordPress and/or Shopify website projects, consider applying."
 summaryBackup: "Barrel is looking for a digital project manager that has experience in: #management, #content, #wordpress."
 featured: 10
+archived: "true"
 ---
 
 Barrel is a creative and digital marketing agency that works with exciting lifestyle brands such as KIND Snacks, Peloton, Wanderlust, and Sakara Life. We design and develop user experience solutions and help clients navigate marketing challenges. Founded in 2006, we are a remote-first team with offices in New York City and Los Angeles and team members across the world.

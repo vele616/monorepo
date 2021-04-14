@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=barrel"
 summary: "If you have 3+ years digital experience, solid knowledge of industry tools and understanding of designing intuitive and responsive user experiences, Barrel is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #branding, #management? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Company Background

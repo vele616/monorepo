@@ -12,6 +12,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "Gistia intends to hire a new Software Engineer. If you are comfortable working in Linux OS, programming in Python, C/C++, and/or Java, consider applying."
 summaryBackup: "Love #analysis, #python, #java? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Job overview:

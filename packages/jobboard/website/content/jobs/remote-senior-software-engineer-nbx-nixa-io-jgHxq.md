@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "If you have 5+ years of experience developing microservices for large scale production services using Python, Go, Java, C#, C++ or equivalent language, Nixa.io is looking for someone with your skillset."
 summaryBackup: "Excited about #python, #java, #golang? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Description

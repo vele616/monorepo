@@ -1,6 +1,6 @@
-Owner of the CroCoder trademark is Abram j.d.o.o., Zagreb, Lanište 3D, registration number (MBS): 081073544 entered in the court register of the Commercial Court in Zagreb, OIB 39175801917.
+Owner of the CroCoder trademark is CROCODER, INC., 651 N BROAD ST SUITE 206, MIDDLETOWN, DELAWARE, USA.
 
-In this policy "we", "us", etc. refers to Abram j.d.o.o.
+In this policy "we", "us", etc. refers to CROCODER, INC.
 
 This Privacy Policy applies to crocoder.dev and jobs.crocoder.dev. We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.

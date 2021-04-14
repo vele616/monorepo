@@ -13,6 +13,7 @@ companyWebsite: "http://www.stratumfive.com/"
 summary: "StratumFive intends to hire a new Front-End Developer. If you have framework experience, consider applying."
 summaryBackup: "StratumFive is looking for a front-end developer that has experience in: #javascript, #reactjs, #angular."
 featured: 5
+archived: "true"
 ---
 
 ## Description

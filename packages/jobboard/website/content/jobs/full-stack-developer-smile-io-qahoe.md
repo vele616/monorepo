@@ -13,6 +13,7 @@ companyWebsite: "https://smile.io/"
 summary: "Interested in new opportunities and have 3+ years technical experience in software development? Smile.io has a job opening for a Full Stack Developer."
 summaryBackup: "Excited about #reactjs, #rails, #rubylang? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Description

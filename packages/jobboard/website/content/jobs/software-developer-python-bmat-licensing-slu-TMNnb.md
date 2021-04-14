@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "If you have experience with software design life cycle and best practices (Code Reviews, Testing), BMAT Licensing SLU is looking for someone with your knowledge."
 summaryBackup: "BMAT Licensing SLU is looking for a software developer that has experience in: #python, #ui/ux, #django."
 featured: 20
+archived: "true"
 ---
 
 ## About BMAT

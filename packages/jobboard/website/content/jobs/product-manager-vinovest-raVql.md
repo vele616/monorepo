@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest is searching for a product manager that has 3+ years of experience leading major product initiatives across consumer or direct-to-customer business products."
 summaryBackup: "Excited about #ui/ux, #analytics, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

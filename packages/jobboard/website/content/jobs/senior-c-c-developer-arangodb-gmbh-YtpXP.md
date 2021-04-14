@@ -6,7 +6,7 @@ companyName: "arangodb-gmbh"
 url: "https://arangodb-gmbh.breezy.hr/p/5d0475dfffc001-senior-c-c-developer"
 applyUrl: "https://arangodb-gmbh.breezy.hr/p/5d0475dfffc001-senior-c-c-developer/apply"
 timestamp: 1613088000000
-hashtags: "#c++,#sql,#ArangoDB,#javascript,#ui/ux,#optimization"
+hashtags: "#cplusplus,#sql,#arangodb,#javascript,#ui/ux,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/arangodb-gmbh"
 companyWebsite: "https://www.arangodb.com/"

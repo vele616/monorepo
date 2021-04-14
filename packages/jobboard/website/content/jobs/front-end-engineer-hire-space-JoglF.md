@@ -6,7 +6,7 @@ companyName: "hire-space"
 url: "https://hire-space.breezy.hr/p/2baf0163573601-front-end-engineer"
 applyUrl: "https://hire-space.breezy.hr/p/2baf0163573601-front-end-engineer/apply"
 timestamp: 1608163200000
-hashtags: "#reactjs,#ui/ux,#javascript,#typescript,#operations,#css,#html,#twillio,#graphql,#webrtc"
+hashtags: "#reactjs,#ui/ux,#javascript,#typescript,#operations,#css,#html,#twilio,#graphql,#webrtc"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hire-space"
 companyWebsite: "https://hire-space.breezy.hr/hirespace.com"

@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Interested in new opportunities and have strong familiarity with markdown and other templating languages and tools? Primer has a job opening for an UX Writer."
 summaryBackup: "Primer is looking for an ux writer that has experience in: #python, #php, #rubylang."
 featured: 7
+archived: "true"
 ---
 
 ## Description

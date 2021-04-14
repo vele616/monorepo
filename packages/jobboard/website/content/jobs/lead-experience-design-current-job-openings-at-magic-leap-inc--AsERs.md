@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Interested in new opportunities and have 7 years’ experience designing mobile or web applications, mixed reality, VR, gaming, or physical interactives? Magic Leap has a job opening for a lead."
 summaryBackup: "Love #ui/ux, #content, #scrum? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job Description

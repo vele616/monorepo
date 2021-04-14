@@ -13,6 +13,7 @@ companyWebsite: "https://shorthand.freshteam.com/jobs"
 summary: "Shorthand wishes to hire a new senior software engineer. If you have 5 years of experience in Software Engineering roles, consider applying."
 summaryBackup: "Shorthand is looking for a senior software engineer that has experience in: #javascript, #nodejs, #typescript."
 featured: 0
+archived: "true"
 ---
 
 ## The Opportunity

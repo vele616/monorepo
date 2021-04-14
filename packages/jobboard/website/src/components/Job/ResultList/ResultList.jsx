@@ -239,6 +239,7 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
         >
           {jobPosts}
         </Grid>
+        {pagination}
         <Button
           onClick={scrollToTop}
           className={`${styles.floatingButton} ${
@@ -247,7 +248,6 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
         >
           <Icon icon="chevron-up" />
         </Button>
-        {pagination}
       </div>
     </>
   );

@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest wishes to hire a new Wine Trader. If you have 3+ years of experience in a high-performing vendor management or market trading environment, consider applying."
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

@@ -12,6 +12,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "Gistia intends to hire a new Senior Software Engineer. If you have 3-5+ Years of professional experience working with any of the #javascript, #reactjs, #typescript technologies, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 Gistia helps organizations deliver high-quality full stack enterprise solutions.

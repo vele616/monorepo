@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is searching for a technical account manager that has experience working in a Security Operations Center."
 summaryBackup: "Love #operations, #marketing, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 **Who You Are**

@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "To apply as an Associate Software Engineer at Primer, you preferably need to have knowledge of programming and are proficient in at least one language."
 summaryBackup: "Primer is looking for an associate software engineer that has experience in: #reactjs, #office."
 featured: 20
+archived: "true"
 ---
 
 ## Description

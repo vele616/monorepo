@@ -19,7 +19,7 @@
     "content": [
       {
         "title": "Your Remote Team",
-        "text": "It does not matter where you are located in the world - what matters is that we are part of your team now. We have taken care to have the right setup and equpment to get the job done. And remember, we are only one click away!",
+        "text": "It does not matter where you are located in the world - what matters is that we are part of your team now. We have taken care to have the right setup and equipment to get the job done. And remember, we are only one click away!",
         "image": "../images/yourRemoteTeam.png"
       },
       {
@@ -29,18 +29,18 @@
       },
       {
         "title": "Focus On You",
-        "text": "We are a small team and as such focus soly on you. We are extremely adaptable and want you to thrive. We feel we are invested in every business we’ve had a pleasure to work with so it’s very important for us that you succeed.",
+        "text": "We are a small team and as such focus solely on you. We are extremely adaptable and want you to thrive. We feel we are invested in every business we’ve had a pleasure to work with so it’s very important for us that you succeed.",
         "image": "../images/focusOnYou.png"
       }
     ]
   },
   "ourWorkProcess": {
     "title": "Our Work Process",
-    "text": "In software development, there a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
+    "text": "In software development, there are a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
     "sections": [
       {
         "title": "DEFINITION",
-        "text": "In the definition part of the process, we try and create strict boundaries around the essence of the product. It’s also a part where you, as a client, are maximally involved. We use this part in the process to find out what you want to build and give you an outline on how we see your idea coming to life.",
+        "text": "In the definition part of the process, we try to create strict boundaries around the essence of the product. It’s also a part where you, as a client, are maximally involved. We use this part in the process to find out what you want to build and give you an outline on how we see your idea coming to life.",
         "image": "../images/contact.png"
       },
       {
@@ -57,7 +57,7 @@
   },
   "contactUs": {
     "title": "We can do it - together!",
-    "text": "Whether you need an MVP,  a completely custom software or just some short-term help implemeting a solution that will ehnance your business - let us know!",
+    "text": "Whether you need an MVP,  a completely custom software or just some short-term help implementing a solution that will enhance your business - let us know!",
     "scheduleCall": "Schedule a call",
     "sendEmail": "Send us an email",
     "email": "info@crocoder.dev",
@@ -85,7 +85,7 @@
         },
         {
           "title": "Consultancy",
-          "text": "We become advizors and/or maintainers for a fixed time and a fixed rate.<br/><br/>We might do one of the folowing:<ul><li>Software maintenance and support</li><li>Research and present technical options with their pros and cons</li><li>Implement larger features that include several months of development</li><li>Ogranize and implement web developer education and training for in-house team</li><li>Custom software development</li>"
+          "text": "We become advisors and/or maintainers for a fixed time and a fixed rate.<br/><br/>We might do one of the following:<ul><li>Software maintenance and support</li><li>Research and present technical options with their pros and cons</li><li>Implement larger features that include several months of development</li><li>Organize and implement web developer education and training for in-house team</li><li>Custom software development</li>"
         }
       ],
       "headline": "helps you <em>focus on your core business.</em>",

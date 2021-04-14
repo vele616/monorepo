@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "ChartMogul wishes to hire a new Backend Engineer. If you have 2+ years of work experience as a Ruby engineer, consider applying."
 summaryBackup: "Love #javascript, #golang, #rustlang? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Job description

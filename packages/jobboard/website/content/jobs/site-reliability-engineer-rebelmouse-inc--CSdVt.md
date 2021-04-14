@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "Interested in new opportunities and have 3+ years of relevant experience? RebelMouse, Inc. has a job opening for a Site Reliability Engineer."
 summaryBackup: "RebelMouse, Inc. is looking for a site reliability engineer that has experience in: #operations, #python, #aws."
 featured: 3
+archived: "true"
 ---
 
 ## Job description

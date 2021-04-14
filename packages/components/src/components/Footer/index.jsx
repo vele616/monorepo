@@ -16,7 +16,7 @@ const Footer = ({
   children,
   style,
   logo,
-  copyrigtNotice = "Copyright © Abram j.d.o.o. All rights reserved",
+  copyrightNotice,
   socialLinks,
   ...other
 }) => {
@@ -43,7 +43,7 @@ const Footer = ({
         </Flexbox>
         <div className={styles.line} />
         <Typography fontSize={12} className={styles.copyright}>
-          {copyrigtNotice}
+          {copyrightNotice}
         </Typography>
       </div>
     </footer>
@@ -76,7 +76,7 @@ Footer.propTypes = {
   /**
    * Copyright notice
    */
-  copyrigtNotice: PropTypes.string,
+  copyrightNotice: PropTypes.string,
 };
 
 export default Footer;

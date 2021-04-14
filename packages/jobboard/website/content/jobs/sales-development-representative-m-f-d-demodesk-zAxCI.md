@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk is searching for a sales development representative that has prior experience communicating with prospective customers ideally in a B2B SaaS SDR role."
 summaryBackup: "Demodesk is looking for a sales development representative that has experience in: #sales, #marketing, #css."
 featured: 20
+archived: "true"
 ---
 
 Mission

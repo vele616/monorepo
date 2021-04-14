@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "Excited about experience in: #management, #operations, #HR? Check out this job post!"
 summaryBackup: "Clubhouse Software is looking for a chief of staff that has experience in: #management, #operations, #sales."
 featured: 5
+archived: "true"
 ---
 
 Clubhouse is a venture-backed Series B startup that’s building software to make software development teams more efficient and collaborative. Thousands of the fastest-growing organizations use Clubhouse to plan and build their software, including Nubank, Glossier, Dataiku, Scale AI, FullStory, and LaunchDarkly. Greylock, Lerer Hippeau, RRE, and Battery Ventures are investors in Clubhouse. 

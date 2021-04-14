@@ -6,7 +6,7 @@ companyName: "FRISS "
 url: "https://friss.recruitee.com/o/fight-fraud-as-professional-services-consultant"
 applyUrl: "https://friss.recruitee.com/o/fight-fraud-as-professional-services-consultant/c/new"
 timestamp: 1607472000000
-hashtags: "#Dutch,#English,#management,#German,#optimization,"
+hashtags: "#Dutch,#English,#management,#German,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"

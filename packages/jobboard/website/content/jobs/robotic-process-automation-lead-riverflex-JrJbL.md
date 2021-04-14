@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "Riverflex intends to hire a new Robotic Process Automation Lead. If you have experience with leading RPA using e.g UIPath and BluePrism, consider applying."
 summaryBackup: "Love #ui/ux, #optimization? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job description

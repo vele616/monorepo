@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "DockYard, Inc. is searching for a html that has experience with Sketch and Git preferred."
 summaryBackup: "To apply as a html at DockYard, Inc., you preferably need to have some knowledge of: #css, #html, #ui/ux."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

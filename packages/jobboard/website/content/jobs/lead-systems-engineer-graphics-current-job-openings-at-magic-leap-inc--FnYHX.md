@@ -6,7 +6,7 @@ companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2259450"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2259450#app"
 timestamp: 1607299200000
-hashtags: "#directX,#openGL,#c,#vulkan,#c++"
+hashtags: "#directX,#openGL,#c,#vulkan,#cplusplus"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"

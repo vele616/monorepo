@@ -6,7 +6,7 @@ companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/bc4d6089-d560-4322-9fca-21f6dd76ae1b"
 applyUrl: "https://jobs.lever.co/demodesk/bc4d6089-d560-4322-9fca-21f6dd76ae1b/apply"
 timestamp: 1607990400000
-hashtags: "#ui/ux,#English,#German,"
+hashtags: "#ui/ux,#English,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"

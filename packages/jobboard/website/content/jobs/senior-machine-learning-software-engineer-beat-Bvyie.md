@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat is looking for a Senior Machine Learning Software Engineer that has experience in: #spark, #python, #golang."
 summaryBackup: "To apply as a senior machine learning software engineer at Beat, you preferably need to have some knowledge of: #spark, #python, #golang."
 featured: 10
+archived: "true"
 ---
 
 ## About us

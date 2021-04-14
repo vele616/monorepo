@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "Vinterior is looking for a Full Stack Developer that has 2 or more years of professional experience with HTML, CSS, Javascript and Ruby web development."
 summaryBackup: "Vinterior is looking for a full stack developer that has experience in: #rails, #rubylang, #javascript."
 featured: 1
+archived: "true"
 ---
 
 ## Description

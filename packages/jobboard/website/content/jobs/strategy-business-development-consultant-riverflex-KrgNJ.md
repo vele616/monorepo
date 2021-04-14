@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "Interested in new opportunities and have 5-10 years of relevant work experience? Riverflex has a job opening for a Strategy & Business Development Consultant."
 summaryBackup: "Riverflex is looking for a strategy & business development consultant that has experience in: #marketing, #management, #translation."
 featured: 17
+archived: "true"
 ---
 
 ## Job description

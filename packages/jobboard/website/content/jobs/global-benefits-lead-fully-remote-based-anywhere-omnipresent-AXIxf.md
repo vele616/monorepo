@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Excited about experience in: #marketing, #operations, #management? Check out this job post!"
 summaryBackup: "To apply as a global benefits lead at Omnipresent, you preferably need to have some knowledge of: #marketing, #operations, #management."
 featured: 20
+archived: "true"
 ---
 
 ## Description

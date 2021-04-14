@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "Pressable intends to hire a new General Manager. If you have 10+ years of progressive leadership experience building and managing a B2B SaaS product, consider applying."
 summaryBackup: "Excited about #marketing, #wordpress, #sales? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## About the Company

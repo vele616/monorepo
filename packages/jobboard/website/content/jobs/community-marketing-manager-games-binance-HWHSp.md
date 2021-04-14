@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "Binance wishes to hire a new Community Marketing Manager. If you have experience attracting and growing crypto communities, as well deep relationships with the global crypto community, KOLs and PR/marketing outlets, consider applying."
 summaryBackup: "To apply as a community marketing manager at Binance, you preferably need to have some knowledge of: #marketing, #socialmedia, #content."
 featured: 9
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.

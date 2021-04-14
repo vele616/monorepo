@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Intellum intends to hire a new Platform Specialist. If you have 2+ years in a technical project management role, consider applying."
 summaryBackup: "Excited about #css, #content, #operations? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Description

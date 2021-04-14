@@ -6,7 +6,7 @@ companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/8c1a1799-483e-4aad-8d18-f3a3f2d14199"
 applyUrl: "https://jobs.lever.co/demodesk/8c1a1799-483e-4aad-8d18-f3a3f2d14199/apply"
 timestamp: 1609718400000
-hashtags: "#qualityassurance,#linux,#testing,#rest,#German,#English"
+hashtags: "#qa,#linux,#testing,#rest,#German,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"

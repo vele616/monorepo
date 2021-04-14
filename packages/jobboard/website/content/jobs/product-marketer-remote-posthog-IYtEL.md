@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "PostHog wishes to hire a new Product Marketer. If you have experience working as a product marketer for a technical product positioned at developers, consider applying."
 summaryBackup: "Excited about #marketing, #sales, #content? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

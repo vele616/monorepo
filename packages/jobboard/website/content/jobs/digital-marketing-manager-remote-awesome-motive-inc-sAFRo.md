@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "Awesome Motive, Inc wishes to hire a new digital marketing manager. If you have proven working experience in various aspects of digital marketing, consider applying."
 summaryBackup: "Love #marketing, #management, #content? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 As a Digital Marketing Manager at Awesome Motive, you’ll join the WPForms team and be responsible for creating, planning, and executing digital marketing campaigns across various mediums such as web, SEO, SEM, email, and social media (and more).

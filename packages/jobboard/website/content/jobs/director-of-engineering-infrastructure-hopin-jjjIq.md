@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new Director of Engineering. If you have 5+ years of experience operating a high transaction rate internet service, consider applying."
 summaryBackup: "To apply as a director of engineering at Hopin, you preferably need to have some knowledge of: #management, #operations, #nodejs."
 featured: 14
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

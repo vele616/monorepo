@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have 5+ years of experience with a combination of sales, marketing, and sales operations background within a security or technology organization, Red Canary has a job opening for a partner relationship manager"
 summaryBackup: "Excited about #windows, #sales, #marketing? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 **Why Red Canary**

@@ -6,7 +6,7 @@ companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/26DD4AD960/"
 applyUrl: "https://apply.workable.com/nixa/j/26DD4AD960/apply/"
 timestamp: 1607299200000
-hashtags: "#java,#spring,#kotlin,#terraform,#management,#devsec,#mysql,#ui/ux,#aws,"
+hashtags: "#java,#spring,#kotlin,#terraform,#management,#devsec,#mysql,#ui/ux,#aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"

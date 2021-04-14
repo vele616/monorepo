@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "If you have you have experience with crypto economics and accounting, Current Mobile is looking for someone with your skillset."
 summaryBackup: "Current Mobile is looking for a director of strategic finance that has experience in: #management, #operations, #finance."
 featured: 5
+archived: "true"
 ---
 
 ## What is Current?

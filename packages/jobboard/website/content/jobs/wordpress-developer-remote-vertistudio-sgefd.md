@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "If you have 2+ years experience building WordPress plugins or themes, VertiStudio is looking for someone with your skillset."
 summaryBackup: "To apply as a wordpress developer at VertiStudio, you preferably need to have some knowledge of: #wordpress, #javascript, #php."
 featured: 15
+archived: "true"
 ---
 
 ## About us
