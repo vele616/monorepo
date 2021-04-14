@@ -1,18 +1,18 @@
 ---
-title: "Product Engineer (balenaEtcher)"
-location: ""
+title: "Product Engineer"
+location: "remote"
 host: "https://apply.workable.com/balena/"
 companyName: "balena"
 url: "https://apply.workable.com/balena/j/9B1E649C68/"
 applyUrl: "https://apply.workable.com/balena/j/9B1E649C68/apply/"
 timestamp: 1618358400000
-hashtags: "#ui/ux,#typescript,#docker,#management,#marketing,#office,#English"
-jobType: "other"
+hashtags: "#analysis,#typescript,#docker,#management,#marketing,#ui/ux,#office,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/balena"
 companyWebsite: "https://balena.io/"
-summary: "To apply as a product engineer at Balena, you preferably need to have based on our experience seeing thousands of devices running in production environments."
+summary: "To apply as a Product Engineer at Balena, you preferably need to have experience writing high-quality, production-ready code and debugging complex issues."
 summaryBackup: "Love #ui/ux, #typescript, #docker? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 ## Description
