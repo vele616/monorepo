@@ -2,6 +2,7 @@ const { createFilePath } = require("gatsby-source-filesystem");
 const DirectoryNamedWebpackPlugin = require("directory-named-webpack-plugin");
 const path = require("path");
 const fs = require("fs");
+const { findSimilarPosts } = require("./scripts/compare-strings");
 
 exports.onCreateWebpackConfig = ({
   stage,
@@ -49,8 +50,25 @@ const createBlogPages = async (graphql, createPage) => {
                 slug
               }
               id
+              excerpt(pruneLength: 160)
               frontmatter {
+                title
+                description
                 author
+                category
+                image {
+                  id
+                  childImageSharp {
+                    fluid(maxHeight: 350, quality: 100) {
+                      srcSet
+                      srcSetWebp
+                      src
+                      sizes
+                      base64
+                      aspectRatio
+                    }
+                  }
+                }
               }
             }
           }
@@ -104,12 +122,35 @@ const createBlogPages = async (graphql, createPage) => {
       author = authors[0];
     }
 
+    const blogPostData = {
+      title: post.node.frontmatter.title,
+      description: post.node.frontmatter.description,
+      id: post.node.id,
+      excerpt: post.node.excerpt,
+    };
+
+    const otherBlogPostData = blogPosts
+      .filter((p) => p.node.id !== post.node.id)
+      .map((p) => {
+        return {
+          title: p.node.frontmatter.title,
+          description: p.node.frontmatter.description,
+          id: p.node.id,
+          excerpt: p.node.excerpt,
+        };
+      });
+
+    const { bestMatches } = findSimilarPosts(blogPostData, otherBlogPostData);
+
     createPage({
       path: post.node.fields.slug,
       component: blogPostTemplate,
       context: {
         slug: post.node.fields.slug,
         author,
+        similiarPosts: blogPosts
+          .filter((p) => bestMatches.map((b) => b.id).includes(p.node.id))
+          .map((p) => p.node),
       },
     });
   });

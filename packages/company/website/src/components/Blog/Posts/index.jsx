@@ -1,11 +1,10 @@
 import React from "react";
 import styles from "./index.module.scss";
-import { Section, Typography } from "@crocoder-dev/components";
+import { Typography } from "@crocoder-dev/components";
 import Img from "gatsby-image";
 import { Link } from "gatsby";
 
 export const Post = ({ image, category, title, slug }) => {
-  console.log(slug);
   return (
     <Link className={styles.post} to={slug}>
       <figure>
@@ -42,15 +41,12 @@ export const Post = ({ image, category, title, slug }) => {
 };
 
 const Posts = ({ posts }) => {
-  console.log(posts);
   return (
-    <Section>
-      <div className={styles.wrapper}>
-        {posts.map((p) => (
-          <Post key={p.id} {...p} />
-        ))}
-      </div>
-    </Section>
+    <div className={styles.wrapper}>
+      {posts.map((p) => (
+        <Post key={p.id} {...p} />
+      ))}
+    </div>
   );
 };
 

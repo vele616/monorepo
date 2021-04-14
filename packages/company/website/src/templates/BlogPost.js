@@ -4,10 +4,18 @@ import Header from "../components/Blog/Content/Header";
 import Body from "../components/Blog/Content/Body";
 import About from "../components/Blog/Content/About";
 import Layout from "../components/Layout";
+import SimiliarPosts from "../components/Blog/Content/SimiliarPosts";
 
 export const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark;
-  const { author } = pageContext;
+  const { author, similiarPosts } = pageContext;
+  const posts = similiarPosts.map((p) => ({
+    id: p.id,
+    image: p.frontmatter.image,
+    category: p.frontmatter.category,
+    title: p.frontmatter.title,
+    slug: p.fields.slug,
+  }));
   return (
     <Layout stickyFooter>
       <Header
@@ -17,6 +25,7 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
       />
       <Body html={post.html} htmlAst={post.htmlAst} />
       <About author={author} />
+      <SimiliarPosts posts={posts} />
     </Layout>
   );
 };

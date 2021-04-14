@@ -3,6 +3,7 @@ import Layout from "../components/Layout";
 import MostRecent from "../components/Blog/MostRecent";
 import Header from "../components/Blog/Header";
 import Posts from "../components/Blog/Posts";
+import { Section } from "@crocoder-dev/components";
 
 export default function Blog({ data }) {
   const nodes = data?.allMarkdownRemark?.edges.map((t) => t.node);
@@ -23,7 +24,9 @@ export default function Blog({ data }) {
     <Layout stickyFooter>
       <Header />
       <MostRecent featuredPost={featured} post1={post1} post2={post2} />
-      <Posts posts={rest} />
+      <Section>
+        <Posts posts={rest} />
+      </Section>
     </Layout>
   );
 }
