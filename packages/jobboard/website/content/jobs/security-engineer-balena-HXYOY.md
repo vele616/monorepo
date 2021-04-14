@@ -1,18 +1,18 @@
 ---
 title: "Security Engineer"
-location: ""
+location: "remote"
 host: "https://apply.workable.com/balena/"
 companyName: "balena"
 url: "https://apply.workable.com/balena/j/D4F0E4F44B/"
 applyUrl: "https://apply.workable.com/balena/j/D4F0E4F44B/apply/"
 timestamp: 1618358400000
-hashtags: "#operations,#linux,#kubernetes,#docker,#aws,#ui/ux,#management,#office,#monitoring,#English"
-jobType: "other"
+hashtags: "#linux,#analysis,#kubernetes,#docker,#aws,#operations,#ui/ux,#management,#office,#monitoring,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/balena"
 companyWebsite: "https://balena.io/"
-summary: "Interested in new opportunities and have based on our experience seeing thousands of devices running in production? Balena has a job opening for a security engineer."
+summary: "Interested in new opportunities and have experience writing secure, high-quality code and debugging production systems? Balena has a job opening for a Security Engineer."
 summaryBackup: "To apply as a security engineer at Balena, you preferably need to have some knowledge of: #operations, #linux, #kubernetes."
-featured: 20
+featured: 14
 ---
 
 ## Description
