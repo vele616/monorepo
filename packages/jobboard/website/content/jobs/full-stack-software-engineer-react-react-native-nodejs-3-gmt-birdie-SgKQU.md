@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Software Engineer - React, React Native, NodeJS (± 3 GMT)"
+title: "Full Stack Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/birdie/"
 companyName: "Birdie"
 url: "https://apply.workable.com/birdie/j/615150AF2D/"
 applyUrl: "https://apply.workable.com/birdie/j/615150AF2D/apply/"
 timestamp: 1618358400000
-hashtags: "#reactjs,#socialmedia,#nodejs,#ui/ux,#scrum,#aws,#analysis,#office,#operations,#monitoring"
+hashtags: "#reactjs,#nodejs,#aws,#socialmedia,#ui/ux,#scrum,#analysis,#office,#operations,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/birdie"
 companyWebsite: "https://birdie.care/"
-summary: "To apply as a full stack software engineer at Birdie, you preferably need to have some knowledge of: experience in: #reactjs, #socialmedia, #nodejs."
+summary: "To apply as a Full Stack Software Engineer at Birdie, you preferably need to have some knowledge of: #reactjs, #nodejs, #aws."
 summaryBackup: "Excited about #reactjs, #socialmedia, #nodejs? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Description
@@ -51,7 +51,6 @@ We need full stack developers to deliver on our product and build the best tech 
 *   You stay up to date with the latest technologies;
 *   You're obsessed with team efficiency, collaboration and focus;
 *   You can operate without ego to discuss, learn, grow, and help others do the same
-
 *   Have proficiency in React & React Native and related tech (Redux, Redux-saga, offline-first...) ;
 *   Have proficiency with NodeJS ;
 *   Have knowledge of Relational databases ;
