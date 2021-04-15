@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Bitfinex wishes to hire a new Marketing Executive. If you have experience in using data, research and customer feedback to improve a campaign to inform future activities, consider applying."
 summaryBackup: "To apply as a marketing executive uk at Bitfinex, you preferably need to have some knowledge of: #marketing, #management, #socialmedia."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

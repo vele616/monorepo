@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Bitfinex is looking for a Marketing Project Manager that has demonstrable experience in a wide range of digital marketing including marketing database management, content creation, email marketing, social media, display advertising campaigns and events promotion."
 summaryBackup: "To apply as a marketing project manager at Bitfinex, you preferably need to have some knowledge of: #marketing, #management, #socialmedia."
 featured: 12
+archived: "true"
 ---
 
 ## Job description
