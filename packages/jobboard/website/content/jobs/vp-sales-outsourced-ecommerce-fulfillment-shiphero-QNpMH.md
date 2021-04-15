@@ -1,21 +1,23 @@
 ---
-title: "VP Sales - Outsourced Ecommerce Fulfillment"
+title: "VP Sales"
 location: "Remote OK"
 host: "https://shiphero.breezy.hr/"
 companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/3f224fc9525c-vp-sales-outsourced-ecommerce-fulfillment"
 applyUrl: "https://shiphero.breezy.hr/p/3f224fc9525c-vp-sales-outsourced-ecommerce-fulfillment/apply"
 timestamp: 1618444800000
-hashtags: "#sales,#management,#marketing,#operations"
+hashtags: "#sales,#management,#operations,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "Shiphero is looking for a vp sales that has 10 years of sales experience."
+summary: "Shiphero is looking for a VP of sales that has 10 years of sales experience."
 summaryBackup: "Love #sales, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
-VP Sales - FulfillmentThis is a sales leadership role at ShipHero. The position is remote.
+## VP Sales - Fulfillment
+
+This is a sales leadership role at ShipHero. The position is remote.
 
 We provide outsourced fulfillment for ecommerce. We operate our own warehouses in the US. Our model is, the merchant sends all their products to one of our warehouses, we distribute the product among our 7 US warehouses which means we're closer to the end customer. We charge the merchant a flat and simple price for shipping anywhere in the US.
 
