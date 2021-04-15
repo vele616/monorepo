@@ -1,5 +1,5 @@
 ---
-title: "PR Manager (Remote) - Spain"
+title: "PR Manager"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
@@ -10,9 +10,9 @@ hashtags: "#windows,#content,#management,#office,#English,#finance,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "To apply as a pr manager at Bitfinex, you preferably need to have 3-5 years in a public relations role, ideally in a public affairs agency and/or working on a communications or public relations team in-house."
+summary: "To apply as a PR Manager at Bitfinex, you preferably need to have 3-5 years in a public relations role, ideally in a public affairs agency and/or working on a communications or public relations team in-house."
 summaryBackup: "Bitfinex is looking for a pr manager that has experience in: #windows, #content, #management."
-featured: 20
+featured: 14
 ---
 
 ## Job description
@@ -25,11 +25,10 @@ If you get excited about being in an industry that is breaking new ground and ha
 
 Currently looking for:
 
-## PR Manager (Remote)
+## PR Manager (Remote) - Spain
 
-​
 
-Job description
+## Job description
 
 *   Develop and lead both proactive and reactive strategic public relations campaigns to shape public opinion to benefit Bitfinex and the digital token and blockchain space in general.
 *   Engage directly and build relationships with the digital token and blockchain communities, policymakers, key influencers and others to develop the interests of Bitfinex and the community as a whole.
