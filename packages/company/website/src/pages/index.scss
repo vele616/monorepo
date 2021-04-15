@@ -6,5 +6,12 @@ body {
 
   #second-section {
     background-color: #F6FCFD !important;
+
+    >div {
+      >div {
+        display: flex !important;
+      }
+    }
+
   }
 }
