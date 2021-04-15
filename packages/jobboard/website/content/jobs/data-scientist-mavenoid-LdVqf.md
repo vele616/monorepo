@@ -10,9 +10,9 @@ hashtags: "#python,#pytorch,#tensorflow,#branding"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
-summary: "To apply as a data scientist at Mavenoid, you preferably need to have some knowledge of: experience in: #python, #pytorch, #tensorflow."
+summary: "To apply as a Data Scientist at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
 summaryBackup: "To apply as a data scientist at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
-featured: 20
+featured: 10
 ---
 
 ## Job description
