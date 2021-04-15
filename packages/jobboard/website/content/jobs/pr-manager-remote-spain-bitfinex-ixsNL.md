@@ -6,7 +6,7 @@ companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/pr-manager-remote-spain"
 applyUrl: "https://bitfinex.recruitee.com/o/pr-manager-remote-spain/c/new"
 timestamp: 1618444800000
-hashtags: "#windows,#content,#management,#office,#English,#finance,#monitoring"
+hashtags: "#content,#management,#monitoring,#office,#windows,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
