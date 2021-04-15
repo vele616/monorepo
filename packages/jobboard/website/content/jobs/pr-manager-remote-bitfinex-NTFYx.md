@@ -1,18 +1,18 @@
 ---
-title: "PR Manager (Remote)"
+title: "PR Manager"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/pr-manager-remote-london"
 applyUrl: "https://bitfinex.recruitee.com/o/pr-manager-remote-london/c/new"
 timestamp: 1618444800000
-hashtags: "#windows,#content,#management,#office,#English,#finance,#monitoring"
+hashtags: "#content,#management,#monitoring,#windows,#office,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "To apply as a pr manager at Bitfinex, you preferably need to have 3-5 years in a public relations role, ideally in a public affairs agency and/or working on a communications or public relations team in-house."
+summary: "To apply as a PR Manager at Bitfinex, you preferably need to have 3-5 years in a public relations role, ideally in a public affairs agency and/or working on a communications or public relations team in-house."
 summaryBackup: "Love #windows, #content, #management? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Job description
@@ -27,9 +27,8 @@ Currently looking for:
 
 ## PR Manager (Remote)
 
-​
 
-Job description
+## Job description
 
 *   Develop and lead both proactive and reactive strategic public relations campaigns to shape public opinion to benefit Bitfinex and the digital token and blockchain space in general.
 *   Engage directly and build relationships with the digital token and blockchain communities, policymakers, key influencers and others to develop the interests of Bitfinex and the community as a whole.
