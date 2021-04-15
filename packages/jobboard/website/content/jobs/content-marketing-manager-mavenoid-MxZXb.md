@@ -6,13 +6,13 @@ companyName: "Mavenoid"
 url: "https://mav.recruitee.com/o/content-marketing-manager"
 applyUrl: "https://mav.recruitee.com/o/content-marketing-manager/c/new"
 timestamp: 1618444800000
-hashtags: "#marketing,#sales,#branding,#management,#content,#ui/ux,#socialmedia,#rest"
+hashtags: "#marketing,#management,#content,#sales,#branding,#ui/ux,#socialmedia,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
-summary: "Love experience in: #marketing, #sales, #branding? Check out this job post!"
+summary: "Love experience in: #marketing, #management, #content? Check out this job post!"
 summaryBackup: "Love #marketing, #sales, #branding? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Job description
