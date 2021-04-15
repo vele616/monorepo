@@ -1,21 +1,23 @@
 ---
-title: "VP of Sales - SaaS"
+title: "VP of Sales"
 location: "Remote OK"
 host: "https://shiphero.breezy.hr/"
 companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/cf048cb11b06-vp-of-sales-saas"
 applyUrl: "https://shiphero.breezy.hr/p/cf048cb11b06-vp-of-sales-saas/apply"
 timestamp: 1618444800000
-hashtags: "#sales,#css,#branding,#management,#marketing"
+hashtags: "#sales,#management,#marketing,#css,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "Shiphero intends to hire a new vp of sales. If you have 10 years of sales experience, consider applying."
-summaryBackup: "Shiphero is looking for a vp of sales that has experience in: #sales, #css, #branding."
-featured: 20
+summary: "Shiphero intends to hire a new VP of Sales. If you have 10 years of sales experience, consider applying."
+summaryBackup: "ShipHero is looking for a vp of sales that has experience in: #sales, #css, #branding."
+featured: 8
 ---
 
-VP Sales - SaaSThis is a sales leadership role at ShipHero. The position is remote.
+## VP Sales - SaaS
+
+This is a sales leadership role at ShipHero. The position is remote.
 
 Our product is a warehouse management system for ecommerce brands and 3PLs that serve ecommerce brands.
 
