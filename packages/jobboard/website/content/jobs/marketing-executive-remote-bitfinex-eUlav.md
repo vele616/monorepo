@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Interested in new opportunities and have demonstrable experience in a wide range of digital marketing including marketing database management, email marketing, social media, SEO, display advertising campaigns and events promotion? Bitfinex has a job opening for a Marketing Executive."
 summaryBackup: "Bitfinex is looking for a marketing executive that has experience in: #marketing, #management, #socialmedia."
 featured: 20
+archived: "true"
 ---
 
 ## Job description
