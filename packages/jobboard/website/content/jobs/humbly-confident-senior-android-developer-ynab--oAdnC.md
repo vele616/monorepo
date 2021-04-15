@@ -1,30 +1,29 @@
 ---
-title: "Senior iOS Developer"
+title: "Senior Android Developer"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
-url: "https://ynab.recruiterbox.com/jobs/fk0u7tc/"
-applyUrl: "https://ynab.recruiterbox.com/jobs/fk0u7tc/?apply=true"
-timestamp: 1615507200000
-hashtags: "#swift,#ios,#objectivec,#typescript,#ui/ux,#rails,#windows,#operations,#unity,#macos"
+url: "https://ynab.recruiterbox.com/jobs/fk0urrx/"
+applyUrl: "https://ynab.recruiterbox.com/jobs/fk0urrx/?apply=true"
+timestamp: 1618358400000
+hashtags: "#kotlin,#android,#javascript,#typescript,#ui/ux,#rails,#java,#windows,#git,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
-summary: "YNAB intends to hire a new humbly confident senior ios developer. If you have you have deep experience with Swift and are comfortable with Objective, consider applying."
-summaryBackup: "YNAB is looking for a humbly confident senior ios developer that has experience in: #swift, #ios, #objectivec."
-featured: 9
-archived: "true"
+summary: "If you have you have extensive experience with Kotlin and Java, consider applying to YNAB's job post for a new Senior Android Developer."
+summaryBackup: "YNAB is looking for a humbly confident senior android developer that has experience in: #kotlin, #android, #javascript."
+featured: 7
 ---
 
 ## About Us and Why We’re Hiring
 
-We build “You Need a Budget,” the best budgeting software and education around. (Those in the know call us YNAB, which is pronounced “why-nab.”) For more than a decade, people have been buying YNAB and then telling their friends what a difference it has made in their lives. [Google us](https://www.google.com/search?q=ynab), or read some of our [reviews on the app store](https://apps.apple.com/us/app/ynab-you-need-a-budget/id1010865877), and you’ll see what we mean. We love building something that has a huge positive impact on people’s lives.
+We build “You Need a Budget,” the best budgeting software and education resources around. (Those in the know call us YNAB, which is pronounced “why-nab.”) For more than a decade, people have been buying YNAB and then telling their friends what a difference it has made in their lives. [Google us](https://www.google.com/search?q=ynab), or read some of our [reviews on the app store](https://apps.apple.com/us/app/ynab-you-need-a-budget/id1010865877), and you’ll see what we mean. We love building something that has a huge positive impact on people’s lives.
 
-YNAB is growing, and so is our product team. We’re a software ecosystem that includes apps for web, iPhone, iPad, Apple Watch, and Android phones. We have some big plans for our iOS app, and that’s where you come in!
+YNAB is growing, and so is our product team. We’re a software ecosystem that includes apps for web, Android, iPhone, iPad, and Apple Watch. We have some big plans for our Android app, and that’s where you come in!
 
 We have one overarching requirement when it comes to joining our team: our [Cultural Manifesto](https://docs.google.com/document/d/16hufsixsrv1j2jZkWUgQmeKpNfQRsacnnK2xTVwO0ew/edit) has to really _click_ with you. If you’re nodding emphatically while reading this, you’ll probably fit right in!
 
-Of course, we have some firm requirements too. You must have at least five years of professional software development experience, and a minimum of four years spent writing iOS apps.
+Of course, we have some firm requirements too. You must have at least five years of professional software development experience, and a minimum of four years spent writing Android apps.
 
 But first, let’s talk about life at YNAB, and then we’ll go into detail about what we’re looking for.
 
@@ -94,28 +93,41 @@ We use a leading compensation data provider to set competitive and well-defined 
 
 If this sounds like your ideal environment, read on because now we want to talk about you. You will play a big part in building something easy and joyful to use that helps millions of people discover budgeting as an essential financial and life-planning tool. _You_ _will change lives_.
 
-## You, Our New Senior iOS Developer
+## You, Our New Senior Android Developer
 
-You're a software developer with over five years of professional, full-time experience. You spent at least four of those years working with iOS. You know how to write easy-to-maintain software while still keeping an eye on the roadmap.
+You're a software developer with over five years of professional, full-time experience. You spent at least four of those years working with Android. You know how to write easy-to-maintain software while still keeping an eye on the roadmap.
 
-You'll help us write and maintain features in our iOS/iPadOS/watchOS app.
+You'll help us write and maintain features in our Android app.
 
-We have a native Swift/Objective-C implementation for the app infrastructure and user interface code. We are migrating our codebase over time from Objective-C to Swift, with all new development in Swift.
+We believe in the power of native user interfaces on each platform and are incredibly excited about Jetpack Compose. We are migrating all of our Android code to Kotlin and all new development is in Kotlin.
 
-We use a shared library written in TypeScript for things common across platforms, such as interfacing with our Rails/Postgres server and much of our business logic. We use SQLite for local storage.
+We have a home-built shared library written in TypeScript that uses the V8 engine for things common across platforms, such as interfacing with our Rails/Postgres server and much of our business logic. We use SQLite for local storage.
 
-As an iOS developer here, you don’t have to be an expert in TypeScript or SQL, but being curious about how things work on that layer will help.
+As an Android developer here, you don’t have to be an expert in TypeScript or SQL, but being curious about how things work on that layer will help.
+
+Our minSdkVersion is 24, we are moving towards a unidirectional data flow architecture, and we use Coroutines, Flow, ViewBinding, RxJava, Dagger, Robolectric, Bitrise CI, and Github.
+
+We’re already spiking on integrating Kotlin Multiplatform as well, so this is a great time for you to get in at the start of a big Kotlin push.
 
 ## You’re our person if:
 
 *   You are an excellent, senior developer that can adapt to new languages quickly.
 *   You write code that is easy for other programmers and your future self to understand and use.
-*   You have deep experience with Swift and are comfortable with Objective-C.
-*   You have played an essential role in building, shipping, and supporting at least one significant iOS app.
+*   You have extensive experience with Kotlin and Java.
+*   You have played an essential role in building, shipping, and supporting at least one significant Android app.
 *   You have excellent debugging skills. You know how to find problems and how to build apps so that problems are discoverable in the first place.
+*   You are self-motivated and thrive with directions like:
+   
+    *   "This part of the program is too slow. Can you find out why?"
+    *   "This component needs to be re-architected to allow for new feature X. How do you think we should do it?"
+    *   “Our code needs to call into a Javascript library, but that Javascript library is crashing because it can’t find the setTimeout function. Can you investigate?”  
+
+
+*   You are excited to work across multiple platforms with different technologies.
 *   You have an understanding of algorithms and data structures beyond arrays and “for loops.” That doesn’t mean you have to be a computer science PhD or even that you have to know “Big O” notation, but you should know when to use a Dictionary/Map, and why finding an element in a sorted array is faster than finding an element in an unsorted array.
+*   You feel right at home with Git/Github, and can happily talk about the pros and cons of different Git branching models and workflows.
 *   You aren’t (necessarily) a security specialist, but you know enough to be protective of customer data and privacy.
-*   You already use and love YNAB. (Not a requirement, but we’ll give you bonus points for this one.)
+*   You already use and love YNAB. (Not a requirement, but we’ll give you bonus points for this one).
 
 ## Diversity
 
@@ -123,11 +135,10 @@ YNAB is an equal opportunity employer. We believe a diversity of backgrounds, be
 
 ## How to Apply
 
-*   Apply below by 11:59PM on March 28th, 2021. Firm. It’s a real deadline.
+*   Apply below by 11:59PM on April 18th, 2021. Firm. It’s a real deadline.
 *   Write a cover letter and attach it as a PDF. In your cover letter:
 
-*   Introduce yourself, tell us why this position is of interest to you, and why you would be a great fit. _This portion of the cover letter should be less than a page and a half.  
-    _
+*   Introduce yourself, tell us why this position is of interest to you, and why you would be a great fit. _This portion of the cover letter should be less than a page and a half._
 *   On a separate page of your cover letter, please answer the following questions. _Each response should be about a paragraph in length_:
 
 *   1\. What criteria do you look for when searching for your next company or position?
@@ -137,13 +148,10 @@ YNAB is an equal opportunity employer. We believe a diversity of backgrounds, be
 *   5\. Briefly (no more than a few sentences) describe a proud “debugging” moment you had, where you found and fixed a bug.
 *   6\. If you were interviewing a prospective developer for this position, what would be a good interview question to ask to find out if a candidate really knew their stuff?
 
-*   Complete this short coding test in your language of choice and include a link to your results in your cover letter. This shouldn’t take more than 30 minutes or so: [https://www.interviewzen.com/apply/PVNGB2](https://www.interviewzen.com/apply/PVNGB2)
-
-*   Swift isn’t directly supported yet in that simple Interview Zen code editor, but you can choose plain “Text” as the language and write in Swift anyway if you like.
+*   Complete this short Kotlin test and include a link to your answer in your cover letter. This shouldn’t take more than 30 minutes or so: [https://pl.kotl.in/Q1PY9OvAu](https://pl.kotl.in/Q1PY9OvAu)
 
 *   If you have a prepared resume, attach it in PDF form. If you don’t have a resume because you aren’t even sure you’re looking to change jobs, that’s fine! In that case, please just include an informal list of your work and education history or a link to your LinkedIn profile.
-*   Please send all attachments as PDFs.  
-      
-    
+*   Please send all attachments as PDFs
 
+  
 P.S. If this position isn’t right for you at this time, but you know someone else who might be interested, we’d really appreciate it if you passed this along!
