@@ -6,16 +6,16 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/3b5aa923bc20-vp-marketing"
 applyUrl: "https://shiphero.breezy.hr/p/3b5aa923bc20-vp-marketing/apply"
 timestamp: 1618444800000
-hashtags: "#marketing,#css,#branding,#sales,#content,#management"
+hashtags: "#marketing,#management,#content,#css,#branding,#sales"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "If you have 5 years of SaaS marketing experience, in the ecommerce space is preferred, consider applying to Shiphero's job post for a new vp marketing."
+summary: "If you have 3 years in a management position leading a staff of 5+ employees, consider applying to Shiphero's job post for a new VP Marketing."
 summaryBackup: "To apply as a vp marketing at Shiphero, you preferably need to have some knowledge of: #marketing, #css, #branding."
-featured: 20
+featured: 12
 ---
 
-VP of Marketing
+## VP of Marketing
 
 We love marketing, help us get better at it!
 
@@ -35,7 +35,7 @@ We have two products:
 *   Define the strategy for SaaS and FaaS including potentially rebranding FaaS with a new name.
 *   Work closely with our product team to promote and explain what we do today and new features as they are developed.
 *   Work closely with the sales team.
-*   Be a a member of the leadership team.
+*   Be a strong member of the leadership team.
 
 ## Requirements:
 
