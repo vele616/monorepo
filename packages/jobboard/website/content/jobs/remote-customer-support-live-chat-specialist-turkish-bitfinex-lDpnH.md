@@ -1,18 +1,18 @@
 ---
-title: "Remote Customer Support Live Chat Specialist - Turkish"
+title: "Customer Support Specialist"
 location: "Customer Support"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/remote-customer-support-live-chat-specialist-turkish"
 applyUrl: "https://bitfinex.recruitee.com/o/remote-customer-support-live-chat-specialist-turkish/c/new"
 timestamp: 1618444800000
-hashtags: "#marketing,#analysis,#office,#finance,#English"
+hashtags: "#customersupport,#analysis,#finance,#marketing,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have experience and a deep interest in working with Finance, Mathematics or Statistics, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Excited about #marketing, #analysis, #office? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
@@ -41,7 +41,7 @@ We’re currently looking for a Customer Support Live Chat Specialist to join ou
 *   Good understanding of trading and derivatives markets
 *   Strong analytical ability
 *   Experience in customer relations, ability to handle requests and inquiries is essential
-*   Excellent communication skills in English and Turkish
+*   Excellent communication skills in **English and Turkish**
 *   Passionate about cryptocurrency and blockchain world
 *   Detail-oriented
 *   Security and privacy focus
