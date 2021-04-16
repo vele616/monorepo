@@ -10,9 +10,9 @@ hashtags: "#javascript,#typescript,#reactjs,#management,#css,#terraform,#aws,#ma
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "Curebase is searching for a head of information security that has 2+ years of experience in the cybersecurity industry."
+summary: "Curebase is searching for a Head of Information Security that has 2+ years of experience in the cybersecurity industry."
 summaryBackup: "Excited about #javascript, #typescript, #reactjs? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## About Curebase
