@@ -1,18 +1,18 @@
 ---
-title: "Customer Support Specialist - Italian"
+title: "Customer Support Specialist"
 location: "Remote"
 host: "https://jobs.lever.co/binance?location=Remote&commitment=Full-time%3A%20Remote"
 companyName: "Binance"
 url: "https://jobs.lever.co/binance/2985e378-3b47-4525-ba4f-64a3c6418541"
 applyUrl: "https://jobs.lever.co/binance/2985e378-3b47-4525-ba4f-64a3c6418541/apply"
 timestamp: 1618531200000
-hashtags: "#management,#operations,#office,#finance,#English"
+hashtags: "#management,#operations,#crypto,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "Binance is searching for a customer support specialist that has 1+ years experience of proven customer facing experience or experience as a customer service representative."
+summary: "Binance is searching for a Customer Support Specialist that has 1+ years experience of proven customer facing experience or experience as a customer service representative."
 summaryBackup: "Excited about #management, #operations, #office? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
