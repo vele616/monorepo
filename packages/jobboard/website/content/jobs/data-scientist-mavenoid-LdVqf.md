@@ -7,7 +7,7 @@ url: "https://mav.recruitee.com/o/data-scientist-1"
 applyUrl: "https://mav.recruitee.com/o/data-scientist-1/c/new"
 timestamp: 1618444800000
 hashtags: "#python,#pytorch,#tensorflow,#branding"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "To apply as a Data Scientist at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
