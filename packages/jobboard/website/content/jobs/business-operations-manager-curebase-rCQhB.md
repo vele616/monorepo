@@ -6,13 +6,13 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4440819003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4440819003#app"
 timestamp: 1618531200000
-hashtags: "#operations,#analysis,#windows,#ui/ux,#management,#marketing,#finance,#office,#monitoring"
+hashtags: "#operations,#analysis,#management,#windows,#ui/ux,#marketing,#finance,#office,#monitoring"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "Curebase is looking for a business operations manager that has 3+ years of experience in business operations, product or project management, consulting, corporate strategy, or investment banking."
+summary: "Curebase is looking for a Business Operations Manager that has 3+ years of experience in business operations, product or project management, consulting, corporate strategy, or investment banking."
 summaryBackup: "Curebase is looking for a business operations manager that has experience in: #operations, #analysis, #windows."
-featured: 20
+featured: 18
 ---
 
 ## About Curebase
