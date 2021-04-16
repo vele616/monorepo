@@ -6,13 +6,13 @@ companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/25D69780A7/"
 applyUrl: "https://apply.workable.com/vinterior/j/25D69780A7/apply/"
 timestamp: 1618531200000
-hashtags: "#marketing,#branding,#socialmedia,#analysis,#windows,#content,#management,#office,#operations,#monitoring"
+hashtags: "#marketing,#analysis,#branding,#socialmedia,#windows,#content,#management,#office,#operations,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "If you have 3+ years in managing and monitoring performance of marketing campaigns across channels for an e-commerce business, Vinterior has a job opening for a marketing executive"
+summary: "If you have 3+ years in managing and monitoring performance of marketing campaigns across channels for an e-commerce business, Vinterior has a job opening for a Marketing Executive"
 summaryBackup: "Excited about #marketing, #branding, #socialmedia? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
