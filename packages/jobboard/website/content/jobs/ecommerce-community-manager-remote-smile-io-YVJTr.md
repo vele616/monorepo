@@ -1,18 +1,18 @@
 ---
-title: "Ecommerce Community Manager (Remote)"
+title: "eCommerce Community Manager"
 location: "Vancouver, British Columbia, Canada"
 host: "https://apply.workable.com/smileio/"
 companyName: "Smile.io"
 url: "https://apply.workable.com/smileio/j/6D3B58F11C/"
 applyUrl: "https://apply.workable.com/smileio/j/6D3B58F11C/apply/"
 timestamp: 1618531200000
-hashtags: "#management,#branding,#content,#ui/ux,#socialmedia,#marketing,#translation,#analysis,#monitoring"
+hashtags: "#management,#content,#socialmedia,#ui/ux,#branding,#marketing,#translation,#analysis,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/smile-io"
 companyWebsite: "https://smile.io/"
-summary: "Smile.io intends to hire a new ecommerce community manager. If you have just like how UX Designers advocate for the best user experience with a product, the Community Manager will be the advocate for – and driving force behind – creating a community of e, consider applying."
+summary: "Smile.io is looking for an eCommerce Community Manager that has experience in: #management, #branding, #content."
 summaryBackup: "Smile.io is looking for an ecommerce community manager that has experience in: #management, #branding, #content."
-featured: 20
+featured: 13
 ---
 
 ## Description
@@ -23,7 +23,9 @@ We are looking for an experienced and passionate Community Manager to join our M
 
 As the first Community Manager at Smile, you need to be passionate about e-commerce. You read articles and blogs about it, you listen to podcasts about it, and you may even run your own e-commerce business (full time, or on the side). If you have experience in community building, social media marketing, and a passion for storytelling, we’d love to hear from you.
 
-**About the role:**Listening – listening to what’s going on in the world of commerce. That means identifying news, businesses, brands, and people of interest and influence in the e-commerce world, and researching and learning what they care about as people and professionals. This also means being up to date on Smile, our features, and our role within e-commerce.
+**About the role:**
+
+Listening – listening to what’s going on in the world of commerce. That means identifying news, businesses, brands, and people of interest and influence in the e-commerce world, and researching and learning what they care about as people and professionals. This also means being up to date on Smile, our features, and our role within e-commerce.
 
 Engaging – engaging with the audience above. That could mean via Facebook Groups, Twitter, Quora, e-commerce forums, etc., It does _not_ mean only posting about Smile or joining in loyalty-specific conversations. We aren’t going to force Smile inorganically into conversations, and we want to help _all_ merchants, supporting them regardless of whether they are using, or will ever use, Smile.
 
