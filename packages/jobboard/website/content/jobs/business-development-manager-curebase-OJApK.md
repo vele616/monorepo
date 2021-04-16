@@ -6,13 +6,13 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4431234003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4431234003#app"
 timestamp: 1618531200000
-hashtags: "#sales,#internship,#ui/ux,#management,#marketing,#crm,#office"
+hashtags: "#sales,#management,#marketing,#internship,#ui/ux,#crm,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "If you have 2-6 years of sales experience, including internships!, Curebase has a job opening for a business development manager"
+summary: "If you have 2-6 years of sales experience, including internships, Curebase has a job opening for a Business Development Manager"
 summaryBackup: "To apply as a business development manager at Curebase, you preferably need to have some knowledge of: #sales, #internship, #ui/ux."
-featured: 20
+featured: 15
 ---
 
 ## About Curebase
