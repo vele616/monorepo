@@ -6,13 +6,13 @@ companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/6B7CD03374/"
 applyUrl: "https://apply.workable.com/vinterior/j/6B7CD03374/apply/"
 timestamp: 1618531200000
-hashtags: "#ui/ux,#python,#marketing,#analysis,#analytics,#branding,#management,#operations,#office,#monitoring"
+hashtags: "#analysis,#analytics,#python,#ui/ux,#marketing,#branding,#management,#operations,#office,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
-summary: "To apply as a senior product data analyst at Vinterior, you preferably need to have 5 years of experience doing similar work elsewhere."
+summary: "To apply as a Senior Product Data Analyst at Vinterior, you preferably need to have 5 years of experience doing similar work elsewhere."
 summaryBackup: "To apply as a senior product data analyst at Vinterior, you preferably need to have some knowledge of: #ui/ux, #python, #marketing."
-featured: 20
+featured: 14
 ---
 
 ## Description
