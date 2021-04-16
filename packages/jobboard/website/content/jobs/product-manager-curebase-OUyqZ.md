@@ -6,13 +6,13 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4417758003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4417758003#app"
 timestamp: 1618531200000
-hashtags: "#marketing,#management,#ui/ux,#analysis,#sales,#translation,#office"
+hashtags: "#marketing,#management,#analysis,#ui/ux,#sales,#translation,#office"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
-summary: "Curebase is searching for a product manager that has 2 new FDA guidance letters and a major, positive industry mindset shift that will only accelerate this year."
+summary: "Curebase is searching for a Product Manager that has 4+ years of experience in product management."
 summaryBackup: "Love #marketing, #management, #ui/ux? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## About Curebase
