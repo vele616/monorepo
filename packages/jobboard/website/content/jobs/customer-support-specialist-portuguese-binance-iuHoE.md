@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "If you have 1+ years experience of proven customer facing experience or experience as a customer service representative, Binance is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #operations, #office? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
