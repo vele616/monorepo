@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "Don't miss out on an interesting remote job opportunity ever again.",
+    "title": "Find the latest remote jobs available for IT experts across Croatia and Europe",
     "callToActionSubscribe": "subscribe",
     "callToActionSearch": "search",
     "image": "../images/jobsHeader.png"
@@ -27,7 +27,7 @@
   "newsletter": {
     "title_1": "Subscribe to ",
     "title_2": " jobs",
-    "subtitle": "Get your daily dose of new job postings",
+    "subtitle": "Get your daily dose of fresh remote jobs",
     "confirm": "I give consent to CroCoder to use my email to send their newsletter.",
     "inputLabel": "E-mail",
     "submitButtonLabel": "Submit",
@@ -39,7 +39,7 @@
     "responseStatusOKTitle": "Almost done!"
   },
   "postAJob": {
-    "title": "We Find Jobs By Crawling Popular Recruitment Applications and Job Posting Sites",
+    "title": "We Find Remote Jobs By Crawling Popular Recruitment Applications and Job Posting Sites",
     "companies": [
       { 
         "logo": "../images/TalentLyft.png",
