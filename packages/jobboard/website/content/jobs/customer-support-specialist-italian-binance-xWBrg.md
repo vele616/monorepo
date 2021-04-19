@@ -3,24 +3,21 @@ title: "Customer Support Specialist"
 location: "Remote"
 host: "https://jobs.lever.co/binance?location=Remote&commitment=Full-time%3A%20Remote"
 companyName: "Binance"
-url: "https://jobs.lever.co/binance/5dc1d34e-3057-4622-83c0-6a4ffd0afcf6"
-applyUrl: "https://jobs.lever.co/binance/5dc1d34e-3057-4622-83c0-6a4ffd0afcf6/apply"
-timestamp: 1615766400000
-hashtags: "#management,#operations,#analysis,#office,#finance,#English"
+url: "https://jobs.lever.co/binance/2985e378-3b47-4525-ba4f-64a3c6418541"
+applyUrl: "https://jobs.lever.co/binance/2985e378-3b47-4525-ba4f-64a3c6418541/apply"
+timestamp: 1618531200000
+hashtags: "#management,#operations,#crypto,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "If you have 1+ years experience of proven customer facing experience or experience as a customer service representative, Binance is looking for someone with your knowledge."
+summary: "Binance is searching for a Customer Support Specialist that has 1+ years experience of proven customer facing experience or experience as a customer service representative."
 summaryBackup: "Excited about #management, #operations, #office? Check out this job post!"
 featured: 11
-archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
 
 Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world?
-
-**Only applicants based in the EU with Customer Support experience will be considered for this role.**
 
 Binance is looking for an experienced Customer Support representatives to set up and expand our customer support operations in Europe.
 
@@ -49,7 +46,7 @@ Your goal will be to ensure exceptional service standards and sustain high custo
 *   Ability to multi-task, prioritise, and control time effectively
 *   Knowledge of the cryptocurrency/blockchain field is a big plus
 *   Multi-lingual capability is a big plus
-*   **Fluent in English and Portuguese**
+*   Fluent in English and Italian
 *   **Willing to work weekends and irregular hours which will include night shifts**
 
 **Conditions**
