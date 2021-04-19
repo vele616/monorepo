@@ -10,9 +10,9 @@ hashtags: "#sales,#management,#operations,#marketing,#css,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dnsfilter"
 companyWebsite: "https://www.dnsfilter.com/"
-summary: "Dnsfilter is looking for a VP of Sales that has 5-10 years sales leadership experience, managing high-performing teams who consistently meet & exceed quota."
+summary: "DNSFilter is looking for a VP of Sales that has 5-10 years sales leadership experience, managing high-performing teams who consistently meet & exceed quota."
 summaryBackup: "Love #sales, #css, #management? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 DNSFilter was born out of necessity. Our founders realized that the existing solutions for DNS security out there were clunky, convoluted, and overpriced. In 2015, they set out on a simple yet crucial mission—to revolutionize DNS security. We’ve come a long way since our humble beginnings. We support nearly 14,000 organizations, including Fortune 500 customers like NVIDIA, and provide service to millions of end-users. Our infrastructure is made up of two anycast networks with over 300 servers in 53 datacenters. At the start of 2020, our software was processing 1B queries/day. One year later, we’re now processing 12B queries/day! In the middle of a global pandemic, our team (and product) thrived. We doubled the size of our team, and we’re looking to do it all over again in 2021.
