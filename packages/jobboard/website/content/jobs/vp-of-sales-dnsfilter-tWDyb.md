@@ -6,11 +6,11 @@ companyName: "dnsfilter"
 url: "https://dnsfilter.breezy.hr/p/bf6879b7dd69-vp-of-sales"
 applyUrl: "https://dnsfilter.breezy.hr/p/bf6879b7dd69-vp-of-sales/apply"
 timestamp: 1618790400000
-hashtags: "#sales,#css,#management,#marketing,#operations,#finance"
+hashtags: "#sales,#management,#operations,#marketing,#css,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dnsfilter"
 companyWebsite: "https://www.dnsfilter.com/"
-summary: "Dnsfilter is looking for a vp of sales that has previous experience building and scaling sales organizations from early."
+summary: "Dnsfilter is looking for a VP of Sales that has 5-10 years sales leadership experience, managing high-performing teams who consistently meet & exceed quota."
 summaryBackup: "Love #sales, #css, #management? Check out this job post!"
 featured: 20
 ---
@@ -21,7 +21,7 @@ To accelerate our growth, we are looking for an experienced VP of Sales to build
 
 The VP of Sales reports directly to our CEO and is a key part of our executive team.
 
-You will:
+**You will:**
 
 *   Own all new, expansion and renewal revenue
 *   Define and implement strategies and plans that support the achievement of our revenue goals
@@ -32,13 +32,13 @@ You will:
 
 *   Create forward-looking departmental plans to support our future growth targets
 
-Success in This Role is Measured By:
+**Success in This Role is Measured By:**
 
 *   Setting and meeting aggressive growth targets for new, expansion and renewal revenue
 *   Providing accurate forecasts and forward-looking targets
 *   Building, managing and leading a team of high-performing sales professionals to ensure predictable, forecastable goal attainment
 
-You have:
+**You have:**
 
 *   5-10 years sales leadership experience, managing high-performing teams who consistently meet & exceed quota
 *   Previous experience building and scaling sales organizations from early-stage to at least $25m ARR
