@@ -6,13 +6,13 @@ companyName: "Startupz.com"
 url: "https://startupzcom.recruitee.com/o/growth-marketeer-2"
 applyUrl: "https://startupzcom.recruitee.com/o/growth-marketeer-2/c/new"
 timestamp: 1618790400000
-hashtags: "#marketing,#sales,#ui/ux,#socialmedia,#content,#analytics,#management,#operations,#analysis,#office"
+hashtags: "#marketing,#content,#analytics,#sales,#ui/ux,#socialmedia,#management,#operations,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Startupz.com is looking for a growth marketeer that has experience in: experience in: #marketing, #sales, #ui/ux."
+summary: "Startupz is looking for a Growth Marketeer that has experience in: #marketing, #sales, #ui/ux."
 summaryBackup: "Startupz.com is looking for a growth marketeer that has experience in: #marketing, #sales, #ui/ux."
-featured: 20
+featured: 10
 ---
 
 ## Job description
@@ -23,7 +23,9 @@ We are looking for a growth marketeer who really understands all the moving piec
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
-**About the Position****Growth Marketeer**
+**About the Position**
+
+**Growth Marketeer**
 
 The position is about marketing our new products and services which we scale into companies. You will help our projects to succeed by applying your marketing skills to support the growth process. You will work together with our Sales team so they can reach out to new leads which you helped to generate. These are the most important aspects you’ll be working on:
 
@@ -40,7 +42,7 @@ The position is about marketing our new products and services which we scale int
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. What else can you expect from us?
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. What else can you expect from us?
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
@@ -50,7 +52,9 @@ You can expect a mindful onboarding process with ramp-up and time to learn. You 
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
-**About You**We are looking for someone who is ready for this challenge with a getting things done work spirit.
+**About You**
+
+We are looking for someone who is ready for this challenge with a getting things done work spirit.
 
 ## Skills
 
