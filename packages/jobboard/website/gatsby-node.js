@@ -65,6 +65,10 @@ exports.createPages = async ({ graphql, actions }) => {
                 slug
               }
               id
+              frontmatter {
+                archived
+                timestamp
+              }
             }
           }
         }
@@ -83,6 +87,8 @@ exports.createPages = async ({ graphql, actions }) => {
       component: jobPostTemplate,
       context: {
         slug: post.node.fields.slug,
+        archived: post.node.frontmatter.archived === 'true',
+        timestamp: post.node.frontmatter.timestamp,
       },
     });
   });

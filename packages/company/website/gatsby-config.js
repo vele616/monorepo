@@ -39,5 +39,49 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        output: "/sitemap.xml",
+        exclude: [],
+        query: `
+          {
+            allSitePage {
+              nodes {
+                path
+              }
+            }
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+          }
+        `,
+        resolveSiteUrl: ({ site }) => {
+          return site.siteMetadata.siteUrl;
+        },
+        serialize: ({ site, allSitePage }) =>
+          allSitePage.nodes.map((node) => {
+            if (
+              node.path.includes("/privacy_policy/") ||
+              node.path.includes("/terms/")
+            ) {
+              return {
+                url: `${site.siteMetadata.siteUrl}${node.path}`,
+                changefreq: `monthly`,
+                priority: 0.5,
+                lastmod: new Date(),
+              };
+            }
+            return {
+              url: `${site.siteMetadata.siteUrl}${node.path}`,
+              changefreq: `weekly`,
+              priority: 1,
+              lastmod: new Date(),
+            };
+          }),
+      },
+    },
   ],
 };
