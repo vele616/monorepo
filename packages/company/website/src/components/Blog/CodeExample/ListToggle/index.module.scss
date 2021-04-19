@@ -1,0 +1,41 @@
+.listToggle {
+  width: 100%;
+}
+
+.clickable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.content {
+  transition: all 0.3s ease-in;
+}
+
+.visible {
+}
+
+.invisible {
+ display: none;
+}
+
+.arrow {
+  transition-timing-function: ease;
+  transition: 0.3s;
+  display: inline-block;
+  width: 0; 
+  height: 0; 
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+
+  margin-bottom: 5px;
+  margin-right: 5px;
+  
+  border-top: 12px solid #424C6D;
+}
+
+.arrowDown {
+}
+
+.arrowRight {
+  transform: rotate(-90deg);
+}
