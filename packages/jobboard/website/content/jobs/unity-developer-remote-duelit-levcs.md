@@ -1,18 +1,18 @@
 ---
-title: "Unity Developer (Remote)"
+title: "Unity Developer"
 location: "Remote,United States"
 host: "https://careers.smartrecruiters.com/Duelit?remoteLocation=true"
 companyName: "Duelit"
 url: "https://jobs.smartrecruiters.com/Duelit/743999740426821-unity-developer-remote-"
 applyUrl: "https://jobs.smartrecruiters.com/oneclick-ui/company/Duelit/publication/8179f438-4c8e-44a5-a573-96cf1ab5a4b5?dcr_id=DCRA1"
 timestamp: 1618790400000
-hashtags: "#unity,#java,#swift,#ios,#android,#windows,#git,#ui/ux,#office,#optimization"
+hashtags: "#unity,#java,#cplusplus,#swift,#ios,#android,#windows,#git,#ui/ux,#office,#optimization"
 jobType: "software"
 
 companyWebsite: "http://duelit.com/"
-summary: "Duelit is looking for an unity developer that has 5+ years of Unity development experience."
+summary: "Duelit is looking for an Unity Developer that has 5+ years of Unity development experience."
 summaryBackup: "Excited about #unity, #java, #swift? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Company Description
