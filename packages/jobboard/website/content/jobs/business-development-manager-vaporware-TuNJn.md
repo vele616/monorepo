@@ -6,13 +6,13 @@ companyName: "vaporware"
 url: "https://vaporware.breezy.hr/p/cbaa2f679d64-business-development-manager"
 applyUrl: "https://vaporware.breezy.hr/p/cbaa2f679d64-business-development-manager/apply"
 timestamp: 1618790400000
-hashtags: "#management,#sales,#marketing,#office,#branding,#socialmedia,#crm"
+hashtags: "#management,#sales,#crm,#marketing,#office,#branding,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vaporware"
 companyWebsite: "https://www.vaporware.net/"
-summary: "To apply as a business development manager at Vaporware, you preferably need to have 5 years successful experience as a direct contributor carrying an individual quota in B2B software product development sales."
+summary: "To apply as a Business Development Manager at Vaporware, you preferably need to have experience refining, managing, and directing the entire sales cycle from prospecting to close."
 summaryBackup: "To apply as a business development manager at Vaporware, you preferably need to have some knowledge of: #management, #sales, #marketing."
-featured: 20
+featured: 14
 ---
 
 The Business Development Manager (BDM) is responsible for prospecting, identifying, qualifying, pursuing and closing new business with new clients and convert them into long term clients.
