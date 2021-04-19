@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your skillset."
 summaryBackup: "Startupz.com is looking for a sales manager that has experience in: #sales, #css, #operations."
 featured: 8
+archived: "true"
 ---
 
 ## Job description

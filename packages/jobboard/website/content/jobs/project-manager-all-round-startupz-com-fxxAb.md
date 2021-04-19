@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have experience in working in an international environment, Startupz is looking for someone with your knowledge."
 summaryBackup: "Startupz.com is looking for a project manager that has experience in: #management, #ui/ux, #operations."
 featured: 17
+archived: "true"
 ---
 
 ## Job description

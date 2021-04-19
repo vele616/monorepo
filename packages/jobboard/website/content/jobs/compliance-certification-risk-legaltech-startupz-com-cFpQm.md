@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Startupz wishes to hire a new Compliance, Certification & Risk Manager. If you have experience in working with people from a broad range of companies in different sizes and from different industries, consider applying."
 summaryBackup: "Excited about #management, #operations, #ui/ux? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

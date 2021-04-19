@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Startupz is searching for a designer that has experience working with design systems & symbol libraries."
 summaryBackup: "Excited about #ui/ux, #management, #operations? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 ## Job description

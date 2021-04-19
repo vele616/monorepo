@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Startupz is looking for a product manager that has experience in: #marketing, #ui/ux, #content."
 summaryBackup: "To apply as a product manager at Startupz.com, you preferably need to have some knowledge of: #marketing, #ui/ux, #content."
 featured: 6
+archived: "true"
 ---
 
 ## Job description

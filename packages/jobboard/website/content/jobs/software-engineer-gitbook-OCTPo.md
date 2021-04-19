@@ -13,6 +13,7 @@ companyWebsite: "https://gitbook.com/"
 summary: "GitBook is looking for a software engineer that has experience in: #reactjs, #nodejs, #typescript."
 summaryBackup: "GitBook is looking for a software engineer that has experience in: #reactjs, #nodejs, #typescript."
 featured: 2
+archived: "true"
 ---
 
 [GitBook](https://www.gitbook.com/) is a **modern documentation platform** sustained by some of the best SaaS europeans VCs (Point 9 Capital, Notion Capital, Fly VC). Our ambition is to **empower team's intelligence.** We want to help **teams work more efficiently** by creating a single place to leverage their knowledge.
