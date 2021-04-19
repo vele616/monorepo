@@ -13,6 +13,7 @@ companyWebsite: "https://gitbook.com/"
 summary: "If you have 4+ years experience in a product-focused design role, GitBook has a job opening for an UI Designer"
 summaryBackup: "Excited about #ui/ux, #css, #html? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ‌GitBook is a modern documentation platform. Our ambition is to empower teams' intelligence. We want to help teams work more efficiently by creating a single place to leverage their knowledge and share their docs with the world.
