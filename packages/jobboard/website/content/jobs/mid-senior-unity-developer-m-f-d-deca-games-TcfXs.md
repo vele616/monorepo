@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Interested in new opportunities and have at least four years of gaming industry experience? DECA Games has a job opening for a Mid / Senior Unity Developer."
 summaryBackup: "Love #unity, #ui/ux, #scrum? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Who we’re looking for

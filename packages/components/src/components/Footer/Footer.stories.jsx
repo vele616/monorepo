@@ -44,6 +44,7 @@ export const Story1 = (args) => (
 Story1.storyName = "Basic";
 Story1.args = {
   element: "div",
+  copyrightNotice: "Copyright © CroCoder Inc. All rights reserved",
 };
 Story1.argTypes = {
   className: { control: { disable: true } },

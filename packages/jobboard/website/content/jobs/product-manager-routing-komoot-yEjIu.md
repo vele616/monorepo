@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "To apply as a product manager at Komoot, you preferably need to have 3+ years Product Management experience in a product company with an emphasis on the technical/backend side of a product OR 3+ years of experience in data science and/or engineering with an ambition to transition into a Product Manager role."
 summaryBackup: "Excited about #marketing, #macos, #management? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Description

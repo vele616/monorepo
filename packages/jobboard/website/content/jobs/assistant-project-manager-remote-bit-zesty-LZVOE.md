@@ -13,6 +13,7 @@ companyWebsite: "https://bitzesty.com/"
 summary: "Bit Zesty is looking for an Assistant Project Manager that has experience in: #management, #office, #monitoring."
 summaryBackup: "Excited about #management, #office, #monitoring? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description

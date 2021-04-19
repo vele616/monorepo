@@ -109,8 +109,13 @@ $padding-top-content: 80px;
 }
 
 .section {
-  padding-top: 0;
+  padding-top: 20px;
   width: 100%;
+  background-color: $blue_6;
+
+  .title {
+    background-color: $blue_6;
+  }
 }
 
 .contentWrapper {

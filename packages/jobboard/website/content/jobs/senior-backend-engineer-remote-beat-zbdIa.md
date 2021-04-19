@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat wishes to hire a new Senior Backend Engineer. If you have more than 5 years of proven, production-grade software development expertise, consider applying."
 summaryBackup: "Excited about #ui/ux, #python, #java? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About us

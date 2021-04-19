@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a Senior Support Engineer at Netlify, you preferably need to have experience with and a solid understanding of: #html, #javascript, #rubylang."
 summaryBackup: "Excited about #javascript, #rubylang, #golang? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Company Overview

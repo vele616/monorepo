@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Interested in new opportunities and have 3 years of hands-on experience in machine learning methodologies and predictive analytics to solve business and user problems using Python or R? Beat has a job opening for a Data Scientist."
 summaryBackup: "Beat is looking for a data scientist ii that has experience in: #python, #ui/ux, #scala."
 featured: 8
+archived: "true"
 ---
 
 ## About us

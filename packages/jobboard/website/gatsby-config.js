@@ -82,7 +82,14 @@ module.exports = {
           'body',
           'hashtagsString',
         ],
-        store: ['slug', 'title', 'companyName', 'summary', 'hashtags', 'companyLogo'],
+        store: [
+          'slug',
+          'title',
+          'companyName',
+          'summary',
+          'hashtags',
+          'companyLogo',
+        ],
         normalizer: ({ data }) =>
           data.allMarkdownRemark.nodes.map((node, i) => ({
             id: i,
@@ -100,6 +107,79 @@ module.exports = {
             title: node.frontmatter.title,
             body: node.rawMarkdownBody,
           })),
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        output: '/sitemap.xml',
+        exclude: [
+          '/newsletter/unsubscribe/error/',
+          '/newsletter/unsubscribe/success/',
+          '/newsletter/subscribe/already-confirmed/',
+          '/newsletter/subscribe/error/',
+          '/newsletter/subscribe/success/',
+          '/archived-jobs/',
+          '/404/',
+          '/404.html',
+          '/search/',
+        ],
+        query: `
+          {
+            allSitePage {
+              nodes {
+                path
+                context {
+                  slug
+                  archived
+                  timestamp
+                }
+              }
+            }
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+          }
+        `,
+        resolveSiteUrl: ({ site }) => {
+          return site.siteMetadata.siteUrl;
+        },
+        serialize: ({ site, allSitePage }) =>
+          allSitePage.nodes.map((node) => {
+            if (node.path.includes('/jobs/') && !node.context.archived) {
+              return {
+                url: `${site.siteMetadata.siteUrl}${node.path}`,
+                changefreq: 'weekly',
+                priority: 0.7,
+                lastmod: new Date(node.context.timestamp),
+              };
+            } else if (node.path.includes('/jobs/') && node.context.archived) {
+              return {
+                url: `${site.siteMetadata.siteUrl}${node.path}`,
+                changefreq: 'never',
+                priority: 0.0,
+                lastmod: new Date(node.context.timestamp),
+              };
+            }
+
+            if (node.path.includes('/post-a-job/')) {
+              return {
+                url: `${site.siteMetadata.siteUrl}${node.path}`,
+                changefreq: 'monthly',
+                priority: 0.4,
+                lastmod: new Date(),
+              };
+            }
+
+            return {
+              url: `${site.siteMetadata.siteUrl}${node.path}`,
+              changefreq: 'daily',
+              priority: 1,
+              lastmod: new Date(),
+            };
+          }),
       },
     },
   ],

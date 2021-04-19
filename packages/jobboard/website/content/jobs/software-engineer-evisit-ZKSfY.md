@@ -13,6 +13,7 @@ companyWebsite: "http://www.evisit.com/"
 summary: "Love #reactjs, #rails, #nodejs? Check out this job post!"
 summaryBackup: "Love #reactjs, #rails, #nodejs? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Description

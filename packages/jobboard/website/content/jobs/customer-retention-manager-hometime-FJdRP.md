@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime is searching for a customer retention manager that has on experience with leading CRM, CX and email marketing solutions."
 summaryBackup: "Love #management, #marketing, #analysis? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About Hometime:

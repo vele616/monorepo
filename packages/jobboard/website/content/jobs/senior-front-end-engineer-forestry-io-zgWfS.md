@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/forestry"
 summary: "Interested in new opportunities and have experience working with TypeScript or NextJS? Forestry.io has a job opening for a Senior Front-end Engineer."
 summaryBackup: "Love #reactjs, #content, #management? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 At Forestry.io, we believe the web is one of humanity’s greatest achievements and our mission is to help people build a better web. We’re building a Git-backed content management system (CMS) and an open source site-editing toolkit ([TinaCMS](https://tinacms.org/)), both focused on the JAMstack. [We’re a growing company](https://forestry.io/about) with big dreams that's full of opportunities for you to have an impact and grow with us.

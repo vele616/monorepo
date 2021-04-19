@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "Brave intends to hire a new Front End Engineer. If you have 5+ years experience with application development, consider applying."
 summaryBackup: "To apply as a front end engineer at Brave, you preferably need to have some knowledge of: #javascript, #reactjs, #office."
 featured: 4
+archived: "true"
 ---
 
 Brave is looking for an experienced Senior Software Engineer to work on cryptocurrency integrations with Brave.  You'll work on our Brave Wallet.  This is a high­ profile and impactful, hands-on position.  Work together with our developers and privacy/security experts to help us take our browser to the next level.

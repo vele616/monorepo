@@ -13,6 +13,7 @@ companyWebsite: "http://www.slashdata.co/"
 summary: "SlashData is looking for a Software Engineer that has 3+ years of experience developing web applications with modern JavaScript frameworks."
 summaryBackup: "To apply as a software engineer at SlashData, you preferably need to have some knowledge of: #javascript, #reactjs, #python."
 featured: 5
+archived: "true"
 ---
 
 ## Description

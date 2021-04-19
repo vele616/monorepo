@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "To apply as a react developer at Piggy-llc, you preferably need to have 2 years experience using REACT in a commercial environment."
 summaryBackup: "Love #javascript, #reactjs, #office? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 Joinpiggy.com is looking for React developers to join its technical team’s expansion. The ideal candidate will be based in a European time zone.

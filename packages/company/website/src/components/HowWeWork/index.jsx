@@ -61,18 +61,19 @@ const HowWeWork = ({ title, content, howWeWorkRef }) => {
       style={{ position: "relative", top: "-100px" }}
       ref={howWeWorkRef}
     />,
-    <div key="section" className={styles.section}>
+    <section key="section" className={styles.section}>
       <Typography
         color="gray_2"
         element="h1"
         fontSize={50}
         fontWeight={700}
         textAlign="center"
+        className={styles.title}
       >
         {title}
       </Typography>
       <div className={styles.contentWrapper}>{cards}</div>
-    </div>,
+    </section>,
   ];
 };
 

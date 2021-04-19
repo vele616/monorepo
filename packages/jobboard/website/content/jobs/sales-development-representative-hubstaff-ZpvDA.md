@@ -13,6 +13,7 @@ companyWebsite: "https://hubstaff.com/"
 summary: "Hubstaff wishes to hire a new Sales Development Representative. If you have 3 years experience selling B2B SaaS software to Mid market and Enterprise segments, consider applying."
 summaryBackup: "To apply as a sales development representative at Hubstaff, you preferably need to have some knowledge of: #sales, #css, #management."
 featured: 13
+archived: "true"
 ---
 
 ## Description

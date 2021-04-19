@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Interested in new opportunities and have 2 years in a project management role working on software development or financial services? Bitfinex has a job opening for an European Project Manager."
 summaryBackup: "Bitfinex is looking for an european project manager that has experience in: #management, #windows, #ui/ux."
 featured: 17
+archived: "true"
 ---
 
 ## Job description

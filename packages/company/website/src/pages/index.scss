@@ -2,5 +2,16 @@
 
 body {
   min-height: 100vh !important;
-  background-color: $blue_6;
+  background-color: $white;
+
+  #second-section {
+    background-color: #F6FCFD !important;
+
+    >div {
+      >div {
+        display: flex !important;
+      }
+    }
+
+  }
 }

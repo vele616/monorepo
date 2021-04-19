@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "If you have 3+ years previous experience as a people manager, ideally at a SaaS company with distributed teams and individuals with varying levels of experience, consider applying to Clubhouse Software's job post for a new engineering manager."
 summaryBackup: "Excited about #css, #ui/ux, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Clubhouse was built by software engineers with the goal of making project management software less painful, more collaborative, and help software development teams do their best work. The platform combines a simple, modern UI with enterprise-grade tools, allowing technology companies to plan and manage their projects effectively, visualize progress across the organization, and define deadlines and milestones based upon data and predictive modeling.

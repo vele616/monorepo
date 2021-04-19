@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "If you have 5+ years consulting experience at a tier 1 consultancy, consider applying to Riverflex's job post for a new CRM Consultant."
 summaryBackup: "Riverflex is looking for a crm consultant that has experience in: #management, #crm, #branding."
 featured: 11
+archived: "true"
 ---
 
 ## Job description

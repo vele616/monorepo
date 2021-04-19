@@ -7,6 +7,7 @@ import styles from './index.module.scss';
 const Footer = ({ socialMedia, sticky, scrollToTop }) => {
   return (
     <FooterComponent
+      copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
       className={sticky ? styles.sticky : ''}
       logo={
         <Link
@@ -24,6 +25,7 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
         <>
           {socialMedia.map((mediaLink) => (
             <a
+              rel="nofollow noopener noreferrer"
               className={styles.icon}
               key={mediaLink.icon}
               href={mediaLink.link}
@@ -38,6 +40,7 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
         Home
       </Link>
       <a
+        rel="nofollow noopener noreferrer"
         href="https://crocoder.dev/terms"
         style={{ color: 'inherit' }}
         className="link"
@@ -45,6 +48,7 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
         Terms of use
       </a>
       <a
+        rel="nofollow noopener noreferrer"
         href="https://crocoder.dev/privacy_policy"
         style={{ color: 'inherit' }}
         className="link"

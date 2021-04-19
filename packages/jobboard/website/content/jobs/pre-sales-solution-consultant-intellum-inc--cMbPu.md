@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "If you have experience developing and delivering presentations both to executive-level and working-level audiences, Intellum is looking for someone with your skillset."
 summaryBackup: "Intellum, Inc. is looking for a pre-sales solution consultant that has experience in: #sales, #marketing, #css."
 featured: 6
+archived: "true"
 ---
 
 ## Description

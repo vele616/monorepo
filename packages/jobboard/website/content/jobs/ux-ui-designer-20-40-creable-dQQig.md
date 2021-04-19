@@ -12,6 +12,7 @@ companyWebsite: "https://creable.io/"
 summary: "If you have 3+ years of UX/UI experience, designing digital products and a portfolio to prove it, Creable is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #branding, #marketing? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Job description

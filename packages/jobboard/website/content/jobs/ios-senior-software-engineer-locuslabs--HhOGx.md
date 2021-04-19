@@ -13,6 +13,7 @@ companyWebsite: "http://www.locuslabs.com/"
 summary: "LocusLabs wishes to hire a new iiOS Senior Software Engineer. If you have 5 years or more of professional iOS development experience, consider applying."
 summaryBackup: "Love #ios, #ui/ux, #reactjs? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 iOSSeniorSoftware Engineer (U.S.or Europe Remote)

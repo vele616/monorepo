@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "If you have experience creating APIs and AWS knowledge, Cazana is looking for someone with your knowledge."
 summaryBackup: "Excited about #typescript, #python, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

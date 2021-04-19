@@ -7,6 +7,7 @@ import styles from "./index.module.scss";
 const Footer = ({ socialMedia, sticky, scrollToTop }) => {
   return (
     <FooterComponent
+      copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
       className={sticky ? styles.sticky : ""}
       logo={
         <Link
@@ -24,6 +25,7 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
         <>
           {socialMedia.map((mediaLink) => (
             <a
+              rel="nofollow noopener noreferrer"
               className={styles.icon}
               key={mediaLink.icon}
               href={mediaLink.link}

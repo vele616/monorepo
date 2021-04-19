@@ -7,7 +7,7 @@ url: "https://boards.greenhouse.io/pleo/jobs/4399215003"
 applyUrl: "https://boards.greenhouse.io/pleo/jobs/4399215003#app"
 timestamp: 1616025600000
 hashtags: "#management,#operations,#ui/ux"
-jobType: "other"
+jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "To apply as a lead software engineer at Pleo, you preferably need to have some knowledge of: #management, #operations, #ui/ux."

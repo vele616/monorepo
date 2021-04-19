@@ -13,6 +13,7 @@ companyWebsite: "http://productfeedback.com/"
 summary: "Product Feedback intends to hire a new Senior JS-TS Engineer. If you are experienced with modern front-end technologies, consider applying."
 summaryBackup: "Love #git, #reactjs, #typescript? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

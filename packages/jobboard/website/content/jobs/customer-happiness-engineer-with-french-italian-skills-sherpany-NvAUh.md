@@ -13,6 +13,7 @@ companyWebsite: "https://www.sherpany.com/en/"
 summary: "If you have 2+ years’ experience in a similar position, Sherpany is looking for someone with your skillset."
 summaryBackup: "Sherpany is looking for a customer happiness engineer that has experience in: #management, #office, #photoshop."
 featured: 20
+archived: "true"
 ---
 
 

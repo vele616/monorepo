@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have experience in improving accounting processes and internal controls, Sketch has a job opening for a Senior/Staff Accountant."
 summaryBackup: "Love #operations, #finance, #ui/ux? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products every day. Want to join us and help us take our accounting operations to the next level? We’re looking for our second hire on the accounting team.

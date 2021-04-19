@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "If you have experience working with document-oriented databases like MongoDB or Elasticsearch, BMAT Licensing SLU has a job opening for a Data Engineer."
 summaryBackup: "BMAT Licensing SLU is looking for a data engineer that has experience in: #python, #linux, #docker."
 featured: 4
+archived: "true"
 ---
 
 ## About BMAT 

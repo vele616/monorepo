@@ -7,7 +7,7 @@ url: "http://numbrs.applytojob.com/apply/K6aFxxZa9w/Head-Of-Software-Engineering
 applyUrl: "http://numbrs.applytojob.com/apply/K6aFxxZa9w/Head-Of-Software-Engineering-Remote"
 timestamp: 1616025600000
 hashtags: "#management,#java,#golang,#cplusplus,#android,#ios,#ui/ux,#office,#finance,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs wishes to hire a new head of software engineering. If you have 10 years experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, consider applying."
