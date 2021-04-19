@@ -1,33 +1,45 @@
 ---
-title: "Compliance, Certification & Risk (LegalTech)"
+title: "Certification & Risk Manager"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/compliance-certification-risk-legaltech-5"
 applyUrl: "https://startupzcom.recruitee.com/o/compliance-certification-risk-legaltech-5/c/new"
 timestamp: 1618790400000
-hashtags: "#management,#operations,#ui/ux,#analysis,#monitoring,#English,#Dutch"
+hashtags: "#management,#operations,#monitoring,#ui/ux,#analysis,#English,#Dutch"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Startupz.com intends to hire a new compliance. If you have you may have experience in working with people from a broad range of companies in different sizes and from different industries, consider applying."
+summary: "Startupz intends to hire a new Certification & Risk Manager. If you have experience in a compliance management role or similar role, consider applying."
 summaryBackup: "To apply as a compliance at Startupz.com, you preferably need to have some knowledge of: #management, #operations, #ui/ux."
-featured: 20
+featured: 15
 ---
 
 ## Job description
 
 **Intro**
 
-We are looking for someone to join our team to help us manage our compliance with regulations, obtaining and managing our certifications relating to security and organizational quality, and managing risk and mitigating that with our insurance partners.Don’t worry, you’ll be trained on the job! Just make sure you have the skills listed under ‘About You’.
+We are looking for someone to join our team to help us manage our compliance with regulations, obtaining and managing our certifications relating to security and organizational quality, and managing risk and mitigating that with our insurance partners. Don’t worry, you’ll be trained on the job! Just make sure you have the skills listed under ‘About You’.
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
-**About the Position****Compliance, Certification & Risk (LegalTech)**The position is dynamic and multi-sided. These are the most important aspects you’ll be working on:
+**About the Position**
 
-*   ComplianceIn order to operate within the limits of required security and organizational compliance, you will develop and disseminate our programs within our different activities and teams. You know how to make it fun for everyone involved.
-*   Certification You manage and obtain our certifications (ISO27001). This means you, and not an outside service provider, work with the certifications authorities to get the certifications awarded.
-*   Risk ManagementYou monitor our risks in different aspects of the company and work with insurance partners to cover those risks. You monitor contracts to make sure our agreements don’t fall outside the limits of our coverage.
+**Compliance, Certification & Risk (LegalTech)**
+
+The position is dynamic and multi-sided. These are the most important aspects you’ll be working on:
+
+*   Compliance
+
+In order to operate within the limits of required security and organizational compliance, you will develop and disseminate our programs within our different activities and teams. You know how to make it fun for everyone involved.
+
+*   Certification 
+
+You manage and obtain our certifications (ISO27001). This means you, and not an outside service provider, work with the certifications authorities to get the certifications awarded.
+
+*   Risk Management
+
+You monitor our risks in different aspects of the company and work with insurance partners to cover those risks. You monitor contracts to make sure our agreements don’t fall outside the limits of our coverage.
 
 **About Startupz**
 
