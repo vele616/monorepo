@@ -7,12 +7,12 @@ url: "https://apply.workable.com/wp-media/j/DA836B6B6F/"
 applyUrl: "https://apply.workable.com/wp-media/j/DA836B6B6F/apply/"
 timestamp: 1618876800000
 hashtags: "#wordpress,#content,#marketing,#javascript,#php,#css,#html,#management,#optimization,#office"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wp-media"
 companyWebsite: "http://wp-media.me/"
 summary: "If you have experience with web performance optimization, WP Media has a job opening for a Content Writer"
 summaryBackup: "To apply as a content writer at WP Media, you preferably need to have some knowledge of: #wordpress, #content, #marketing."
-featured: 20
+featured: 11
 ---
 
 ## Description
