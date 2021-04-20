@@ -6,7 +6,7 @@ companyName: "strongDM"
 url: "https://jobs.lever.co/strongdm/45f47244-2d58-49fd-a2b9-a27897332175"
 applyUrl: "https://jobs.lever.co/strongdm/45f47244-2d58-49fd-a2b9-a27897332175/apply"
 timestamp: 1618876800000
-hashtags: "#windows,#ui/ux,#sales,#css,#chef,#management,#marketing"
+hashtags: "#sales,#management,#marketing,#windows,#ui/ux,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strongdm"
 companyWebsite: "http://www.strongdm.com/"
