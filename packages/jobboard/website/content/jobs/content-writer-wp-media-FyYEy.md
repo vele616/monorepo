@@ -10,7 +10,7 @@ hashtags: "#wordpress,#content,#marketing,#javascript,#php,#css,#html,#managemen
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wp-media"
 companyWebsite: "http://wp-media.me/"
-summary: "If you have you have experience with web performance optimization, WP Media has a job opening for a content writer"
+summary: "If you have experience with web performance optimization, WP Media has a job opening for a Content Writer"
 summaryBackup: "To apply as a content writer at WP Media, you preferably need to have some knowledge of: #wordpress, #content, #marketing."
 featured: 20
 ---
@@ -23,7 +23,7 @@ Do you love writing engaging content? Are you able to explain complex topics in 
 
 If you answered yes to these questions, we are sure this position will sound super exciting to you. 🤩
 
-We are looking for a friendly person who loves to write, to produce high-quality content for [WP Rocket](https://wp-rocket.me/), [Imagify](https://imagify.io/), and [RocketCDN](https://go.wp-rocket.me/rocket-cdn). 🚀
+We are looking for a friendly person who loves to write, to produce high-quality content for [WP Rocket](https://wp-rocket.me/), [Imagify](https://imagify.io/), and RocketCDN. 🚀
 
 Keep reading for more details! 📝
 
@@ -69,14 +69,12 @@ You will need to be able to effectively write and communicate in English, respec
 
 Do you want to know two other things we appreciate about our candidates?
 
-*   **Previous remote job experience.**Slack will be your virtual office, where all the life of the company takes place.
-*   **The involvement in the WordPress community.**We support our teammates to attend and/or speak at WordCamps and volunteer within the community.
+*   **Previous remote job experience.** Slack will be your virtual office, where all the life of the company takes place.
+*   **The involvement in the WordPress community.** We support our teammates to attend and/or speak at WordCamps and volunteer within the community.
 
 ## What You Should Know About Our Company: WP Media
 
 Founded in 2014 in the beautiful Lyon, France, [WP Media](http://wp-media.me) is an equal opportunity employer with a distributed team of +35 teammates living around the world.
-
-![](https://lh6.googleusercontent.com/1VdiSot68VkwtUnweJwg1WB2-Gbz9Wva-othCGcWwsqJc6NfcLxxfdDF7Ua8UxaCf9WxVEfVnGG3P8J_cPB64IXiUED4zk0S2zCf6ykWnA--JnsF2nonp4rw37QzJsKJimRv5LJ6)
 
 We are best known as the creators of WP Rocket, but we also developed [Imagify](https://imagify.io/).
 
@@ -92,7 +90,6 @@ These are the fundamental values that support our life as a team.
 
 We encourage our employees to enjoy their family and hobbies with flexible working hours and minimum vacation policy (you should take a _minimum_ of 5 weeks per year: really, we don’t count them!).
 
-![](https://lh2.googleusercontent.com/IdoofO1Xb8jst8fpMAA_rbQe9Ptqtmo-VHiTXWMlONanvfzhBk01dTJnWtBSKZ98DAaHx7q43l3HWHvepwkj2cXLNj1vwj1tj99Axfu3qnwDjOd5YHiJBwkNSNo235KRWYKx0Wvj)
 
 **We care about the work you do, not about the hours you sit at your desk.**
 
@@ -106,9 +103,8 @@ We have a [public salary grid](https://docs.google.com/spreadsheets/d/1qWhlCaxV4
 
 Every year, we organize a trip with the whole team and **spend a week of coworking and fun activities together**.
 
-To give you an idea, so far we have traveled to Spain, Portugal, and Mexico:
+To give you an idea, so far we have traveled to Spain, Portugal, and Mexico.
 
-![](https://lh6.googleusercontent.com/JOvCQvD6o2CNMhUcOBE4By56Jen07kH9h8F50blRyBeVC7W_5ADk8LmTzWowddYhhGQRmmKLWqG739AgOX15s1vGB6Fnd4vsIvmRrckn-UgliZiXhsyeTT6gIV-mznuNyPVs-lQ-)
 
 Now that we've told you so much about us, it's your turn.
 
