@@ -1,18 +1,18 @@
 ---
-title: "Brand Partnership and Events Lead"
+title: "Brand Partnership & Events Lead"
 location: "Remote"
 host: "https://jobs.lever.co/ParadeInc/?location=Remote"
 companyName: "Parade"
 url: "https://jobs.lever.co/ParadeInc/4df8632d-a2a9-442c-92ae-49c3398f9b52"
 applyUrl: "https://jobs.lever.co/ParadeInc/4df8632d-a2a9-442c-92ae-49c3398f9b52/apply"
 timestamp: 1618876800000
-hashtags: "#branding,#marketing,#windows,#management,#spark,#ui/ux,#office,#socialmedia,#finance,#optimization"
+hashtags: "#branding,#marketing,#management,#spark,#ui/ux,#windows,#office,#socialmedia,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/parade"
 companyWebsite: "http://yourparade.com/"
-summary: "Parade is searching for a brand partnership and events lead that has 5+ years of experience in experiential marketing, event production, and partnership negotiation."
+summary: "Parade is searching for a Brand Partnership and Events Lead that has 5+ years of experience in experiential marketing, event production, and partnership negotiation."
 summaryBackup: "Parade is looking for a brand partnership and events lead that has experience in: #branding, #marketing, #windows."
-featured: 20
+featured: 13
 ---
 
 **Parade is a self-expression brand.** We make Creative Basics—underwear that celebrates who you are today. We believe that women’s underwear is a replenishment category that needs a mass-market challenger brand focused on delivering style and fabric innovation. Our DNA is community-first and catalyzed via mobile experiences because we know it’s the best way to find her. Parade has been honored by the Webby Awards and featured in [InStyle](https://www.instyle.com/fashion/parade-underwear-review), [Nylon](https://www.nylon.com/parade-underwear-brand-founder), [Teen Vogue.](https://www.teenvogue.com/story/parade-underwear-thongs-review) [Refinery29](https://www.refinery29.com/en-us/2020/02/9351825/parade-game-time-size-inclusive-underwear-collection), [Forbes](https://www.forbes.com/sites/virgietovar/2019/11/19/new-underwear-brand-parade-offers-extended-sizing--sustainable-fabrics-for-9/#2a9abdb7192c) and other publications. Parade has raised more than $6M to date from top investors such as Greycroft and Lerer Hippeau, and the founders of Warby Parker, Casper, Bonobos, and Away. In our first full year, we're on track to do $10M in revenue and sell over 750K pairs of underwear!
