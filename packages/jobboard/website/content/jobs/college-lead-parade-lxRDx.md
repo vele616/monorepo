@@ -6,13 +6,13 @@ companyName: "Parade"
 url: "https://jobs.lever.co/ParadeInc/f796c174-e010-4970-8a69-85bb2e4e9ffc"
 applyUrl: "https://jobs.lever.co/ParadeInc/f796c174-e010-4970-8a69-85bb2e4e9ffc/apply"
 timestamp: 1618876800000
-hashtags: "#branding,#marketing,#windows,#management,#spark,#ui/ux,#office,#operations,#socialmedia,#finance"
+hashtags: "#branding,#marketing,#management,#spark,#ui/ux,#office,#windows,#operations,#socialmedia,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/parade"
 companyWebsite: "http://yourparade.com/"
 summary: "If you have 3+ years of experience in college community building, experiential marketing, event production, and partnership negotiation, Parade is looking for someone with your skillset."
 summaryBackup: "Parade is looking for a college lead that has experience in: #branding, #marketing, #windows."
-featured: 20
+featured: 19
 ---
 
 **Parade is a self-expression brand.** We make Creative Basics—underwear that celebrates who you are today. We believe that women’s underwear is a replenishment category that needs a mass-market challenger brand focused on delivering style and fabric innovation. Our DNA is community-first and catalyzed via mobile experiences because we know it’s the best way to find her. Parade has been honored by the Webby Awards and featured in [InStyle](https://www.instyle.com/fashion/parade-underwear-review), [Nylon](https://www.nylon.com/parade-underwear-brand-founder), [Teen Vogue.](https://www.teenvogue.com/story/parade-underwear-thongs-review) [Refinery29](https://www.refinery29.com/en-us/2020/02/9351825/parade-game-time-size-inclusive-underwear-collection), [Forbes](https://www.forbes.com/sites/virgietovar/2019/11/19/new-underwear-brand-parade-offers-extended-sizing--sustainable-fabrics-for-9/#2a9abdb7192c) and other publications. Parade has raised more than $6M to date from top investors such as Greycroft and Lerer Hippeau, and the founders of Warby Parker, Casper, Bonobos, and Away. In our first full year, we're on track to do $10M in revenue and sell over 750K pairs of underwear!
@@ -29,8 +29,8 @@ Parade is seeking a College Lead to develop, launch and own our college program 
 *   Collaborate with design, brand, social, community and growth teams to build cohesive, multi-channel marketing & PR plans to amplify events
 *   Direct communications, logistics and timelines with agencies, freelancers, logistics, programming, talent, and production for events Liaise with finance, strategy, and legal departments to process contracts and payments
 *   Travel to events, college campuses, and external meetings as needed
-*   Conduct experiential market research and provide recommendations for innovation 
-*   Compile college digital and real life event recaps and optimization suggestions   
+*   Conduct experiential market research and provide recommendations for innovation
+*   Compile college digital and real life event recaps and optimization suggestions 
 
 ## What You’ll Bring:
 
@@ -40,7 +40,7 @@ Parade is seeking a College Lead to develop, launch and own our college program 
 *   Thrive in a in a fast-paced entrepreneurial environment
 *   Passion for problem-solving - top down and bottom up
 *   Team player who is adept at navigating and managing cross-functional teams and relationships
-*   Deep knowledge of digital media  
+*   Deep knowledge of digital media
 
 **What We Value**
 
