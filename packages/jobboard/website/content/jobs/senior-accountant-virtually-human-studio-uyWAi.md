@@ -6,13 +6,13 @@ companyName: "Virtually Human Studio"
 url: "https://apply.workable.com/virtually-human-studio/j/E86905CE3A/"
 applyUrl: "https://apply.workable.com/virtually-human-studio/j/E86905CE3A/apply/"
 timestamp: 1618876800000
-hashtags: "#management,#finance"
+hashtags: "#management,#finance,#accountant"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/virtually-human-studio"
 companyWebsite: "http://vhslab.com/"
-summary: "Virtually Human Studio is looking for a senior accountant that has 3-4+ years of experience minimum, you are self-motivated, results-driven, able to engage, inspire, influence, negotiate and coach others, possess highly developed networking skills as well as strong project management skills within a global business."
+summary: "Virtually Human Studio is looking for a Senior Accountant that has 3+ years industry experience within an accounting role."
 summaryBackup: "Love #management, #finance? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
@@ -43,7 +43,6 @@ Ideally, you have worked within a Tech Start-Up and/or Sporting industry and hav
 
 *   Preparation of weekly, monthly and annual reporting, budgeting, cashflows and forecasting;
 *   Providing meaningful reporting for management and cross-functional teams;
-
 *   Financial / Management Accounting;
 *   Half year and full yearly reporting;
 *   Forecasting and budgeting;
