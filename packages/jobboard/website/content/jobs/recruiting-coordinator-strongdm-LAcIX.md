@@ -6,11 +6,11 @@ companyName: "strongDM"
 url: "https://jobs.lever.co/strongdm/4ab32220-9cce-4174-b9e5-0f70475367ba"
 applyUrl: "https://jobs.lever.co/strongdm/4ab32220-9cce-4174-b9e5-0f70475367ba/apply"
 timestamp: 1618876800000
-hashtags: "#chef,#analytics,#management"
+hashtags: "#HR,#analytics,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strongdm"
 companyWebsite: "http://www.strongdm.com/"
-summary: "StrongDM is looking for a recruiting coordinator that has experience in: experience in: #chef, #analytics, #management."
+summary: "StrongDM is looking for a Recruiting Coordinator that has experience in: #HR, #analytics, #management."
 summaryBackup: "To apply as a recruiting coordinator at StrongDM, you preferably need to have some knowledge of: #chef, #analytics, #management."
 featured: 20
 ---
@@ -51,4 +51,3 @@ _\* Chef's co-founder Adam Jacob says "strongDM takes the friction out of gettin
 *   Clear, concise, and engaging written communicator -- you don’t sound like a bot and will catch bad copy/paste jobs every time (the worst!).
 *   Highly empathetic - we are real humans and do our best to demonstrate that with every interaction.
 
-**#LI-Remote**
