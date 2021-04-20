@@ -1,6 +1,6 @@
 ---
 title: "Map, Filter, Reduce in JavaScript"
-description: "Map, filter and reduce are the most useful array methods to manipulate arrays and often the hardest to master. Try to "
+description: "Map, filter and reduce are the most useful array methods to manipulate arrays and often the hardest to master. Try to solve the given exercises!"
 category: "learn javascript"
 image: "../images/map-filter-reduce.png"
 date: 1717288653
