@@ -1,5 +1,5 @@
 ---
-title: "Account Executive, Enterprise"
+title: "Account Executive"
 location: "Remote"
 host: "https://jobs.lever.co/strongdm/?location=Remote"
 companyName: "strongDM"
@@ -10,9 +10,9 @@ hashtags: "#windows,#ui/ux,#sales,#css,#chef,#management,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strongdm"
 companyWebsite: "http://www.strongdm.com/"
-summary: "StrongDM wishes to hire a new account executive. If you have 7+ years of experience selling SaaS solutions, consider applying."
+summary: "StrongDM wishes to hire a new Account Executive. If you have 7+ years of experience selling SaaS solutions, consider applying."
 summaryBackup: "To apply as an account executive at StrongDM, you preferably need to have some knowledge of: #windows, #ui/ux, #sales."
-featured: 20
+featured: 14
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**
@@ -58,5 +58,3 @@ _\* Chef's co-founder Adam Jacob says "strongDM takes the friction out of gettin
 *   401k, HSA, FSA, short / long-term disability, 3 month parental leave
 *   3 weeks PTO + standard holidays
 *   In future, up to 20% travel within your designated geography
-
-**#LI-Remote**
