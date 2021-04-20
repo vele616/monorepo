@@ -6,7 +6,12 @@
   font-size: 18px;
   line-height: 28px;
   word-wrap: break-word;
+
+  @include mediaQuery(">=desktop") {
+    font-size: 20px;
+  }
 }
+
 
 .markdown-body .gatsby-highlight {
   padding-bottom: 28px;

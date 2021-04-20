@@ -1,14 +1,39 @@
 ---
-title: "Map Filter Reduce Exercises"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis, orci id iaculis rhoncus, lorem lacus sollicitudin sapien, vitae ac."
-category: "learn"
-image: "../images/big.jpg"
-date: 1617288653
+title: "Map, Filter, Reduce in JavaScript"
+description: "Map, filter and reduce are the most useful array methods to manipulate arrays and often the hardest to master. Try to "
+category: "learn javascript"
+image: "../images/map-filter-reduce.png"
+date: 1717288653
 blog: true
 author: davidabram
 ---
 
-<typography element="h2">Array Squared</typography>
+As a JavaScript developer, you will come across arrays. Arrays of numbers, arrays of objects, arrays of arrays of objects, multi-dimensional arrays, and you will need to simplify, transform or manipulate with them. 
+
+You could use nested for loops to solve most of the problems you will encounter, but that leaves the code hard to read and understand. I would like to prove to you that by using map, filter, and reduce array methods, not only that the code will be more readable, but you will be able to analyze the problem and write the code with ease.
+
+The next exercises aim to help out the beginner devs to solidify their understanding of map, filter, reduce, and other array methods that are useful to master. Every exercise has a brief description of the problem, input code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
+
+<br/>
+<br/>
+
+
+<typography element="h2">Exercises</typography>
+
+- [Array Squared](#array-squared)
+- [Sum of every positive element](#sum-of-every-positive-element)
+- [Calculate median and mean](#calculate-median-and-mean)
+- [Get Name initials](#get-name-initials)
+- [Age Difference from the youngest and oldest](#age-difference-from-the-youngest-and-oldest)
+- [Numeronyms](#numeronyms)
+- [n! with map and reduce](#n-with-map-and-reduce)
+- [Count elements in array of arrays](#count-elements-in-array-of-arrays)
+
+
+<br/>
+<br/>
+
+<typography id="array-squared" element="h2">Array Squared</typography>
 
 Square value of every element in the array. Presume that you will get only numbers in the input array.
 
@@ -56,7 +81,7 @@ Square value of every element in the array. Presume that you will get only numbe
 
 </list-toggle>
 
-<typography element="h2">Sum of every positive element</typography>
+<typography id="sum-of-every-positive-element" element="h2">Sum of every positive element</typography>
 
 Input is an array of numbers, return the sum of all of the positives ones. If the array is empty or there aren't any postitive numbers return 0.
 
@@ -109,7 +134,67 @@ Input is an array of numbers, return the sum of all of the positives ones. If th
 
 </list-toggle>
 
-<typography element="h2">Get Name initials</typography>
+<typography id="calculate-median-and-mean" element="h2">Calculate median and mean</typography>
+
+Calculate the mean and median values of the number elements from the input array.
+
+<typography element="h4">Helpful MDN Docs links</typography>
+
+- [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+- [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+- [Math.abs()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs)
+
+
+<row>
+
+  <column>
+  <typography element="h4">Input</typography>
+
+  ```javascript
+
+    const input = [12, 46, 32, 64];
+    
+  ```
+
+  </column>
+
+  <column>
+
+  <typography element="h4">Result</typography>
+
+  ```javascript
+    //[mean, median]
+    [38.5, 32]
+  ```
+
+  </column>
+
+</row>
+
+<list-toggle title="Solution">
+
+  ```javascript
+    const input = [12, 46, 32, 64];
+    input.sort((a, b) => a - b);
+
+    input
+    .reduce((accumulator, currentValue, index, array) => {
+
+      accumulator.mean += currentValue /  array.length;
+
+      if(Math.abs(index + 1  - array.length / 2) < 1) { 
+        accumulator.median = currentValue 
+      }
+
+      return accumulator;
+    }, { mean: 0, median: 0 });
+
+
+  ```
+
+</list-toggle>
+
+<typography id="get-name-initials" element="h2">Get Name initials</typography>
 
 Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
 
@@ -161,11 +246,103 @@ Input is a string of multiple words with a single space between each of them. Yo
 
 </list-toggle>
 
+<typography id="age-difference-from-the-youngest-and-oldest" element="h2">Age Difference from the youngest and oldest</typography>
 
-<typography element="h2">Numeronyms</typography>
+Find the difference in age between the oldest and youngest family members, and return their respective ages and the difference.
+
+<typography element="h4">Helpful MDN Docs links</typography>
+
+- [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [Math.min()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
+- [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+
+<row>
+
+  <column>
+  <typography element="h4">Input</typography>
+
+  ```javascript
+
+    const input = [
+      {
+        name: 'John',
+        age: 13
+      },
+      {
+        name: 'Mark',
+        age: 56,
+      },
+      {
+        name: 'Rachel',
+        age: 45,
+      },
+      {
+        name: 'Nate',
+        age: 67,
+      },
+      {
+        name: 'Jeniffer',
+        age: 65,
+      }
+    ];
+    
+  ```
+
+  </column>
+
+  <column>
+
+  <typography element="h4">Result</typography>
+
+  ```javascript
+    [13, 67, 54]
+  ```
+
+  </column>
+
+</row>
+
+<list-toggle title="Solution">
+
+  ```javascript
+    const input = [
+      {
+        name: 'John',
+        age: 13
+      },
+      {
+        name: 'Mark',
+        age: 56,
+      },
+      {
+        name: 'Rachel',
+        age: 45,
+      },
+      {
+        name: 'Nate',
+        age: 67,
+      },
+      {
+        name: 'Jeniffer',
+        age: 65,
+      }
+    ];
+
+    const ages = input.map(person => person.age);
+
+    [Math.min(...ages), Math.max(...ages), Math.max(...ages) - Math.min(...ages)];
+
+
+  ```
+
+</list-toggle>
+
+
+
+<typography id="numeronyms" element="h2">Numeronyms</typography>
 
 Devs like to abbreviate everything: k8s means Kubernetes, a11y means accessibility, l10n means localization. You get the Dev numeronyms by taking the first and the last letter and counting the number of letters in between. Words that have less than 4 letters aren't abbreviated, because that would be just odd. 
-The input is a sentence, and you should abbreviate every word that is 4 letters long or longer. There won't be any punctuation in the sentence.
+The input is a sentence, and you should abbreviate every word that is 4 letters long or longer. There won't be any punctuation in the sentence. g2d l2k e6e
 
 <typography element="h4">Helpful MDN Docs links</typography>
 
@@ -225,7 +402,7 @@ The input is a sentence, and you should abbreviate every word that is 4 letters 
 
 </list-toggle>
 
-<typography element="h2">n! with map and reduce </typography>
+<typography id="n-with-map-and-reduce" element="h2">n! with map and reduce </typography>
 
 Input is a number and you should return factorial of that number. The factorial of a natural number n is the product of the positive integers less than or equal to n. So, 2! = 2, 3! = 6, 4! = 24 and so on.
 
@@ -281,6 +458,75 @@ Input is a number and you should return factorial of that number. The factorial 
     .fill(null)
     .map((currentValue, index) => index + 1)
     .reduce((accumulator, currentValue) => accumulator * currentValue);
+  
+  ```
+
+</list-toggle>
+
+<typography id="count-elements-in-array-of-arrays" element="h2">Count elements in array of arrays</typography>
+
+Count the occurrences of distinct elements in the given 2D array. The given input is an array in which elements are arrays of strings. The result is an object which properties' names are values from the arrays and their value is the number of their occurrences. 
+
+<typography element="h4">Helpful MDN Docs links</typography>
+
+- [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+- [Array.prototype.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
+
+
+<row>
+
+  <column>
+  <typography element="h4">Input</typography>
+
+  ```javascript
+    const input = [
+      ['a', 'b', 'c'],
+      ['c', 'd', 'f'],
+      ['d', 'f', 'g'],
+    ];
+
+  ```
+
+  </column>
+
+  <column>
+
+  <typography element="h4">Result</typography>
+
+  ```javascript
+    {
+      a: 1,
+      b: 1,
+      c: 2,
+      d: 2,
+      f: 2,
+      g: 1,
+    }
+  ```
+
+  </column>
+
+</row>
+
+<list-toggle title="Solution">
+
+  ```javascript
+    const input = [
+      ['a', 'b', 'c'],
+      ['c', 'd', 'f'],
+      ['d', 'f', 'g'],
+    ];
+
+    input
+    .flat()
+    .reduce((accumulator, currentValue) => {
+      if(accumulator[currentValue]) {
+        accumulator[currentValue] += 1;
+      } else {
+        accumulator[currentValue] = 1;
+      }
+      return accumulator;
+    }, {});
   
   ```
 
