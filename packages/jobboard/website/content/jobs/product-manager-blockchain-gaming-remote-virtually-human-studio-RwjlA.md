@@ -1,18 +1,18 @@
 ---
-title: "Product Manager, Blockchain Gaming (remote)"
+title: "Product Manager"
 location: "Sydney, New South Wales, Australia"
 host: "https://apply.workable.com/virtually-human-studio/"
 companyName: "Virtually Human Studio"
 url: "https://apply.workable.com/virtually-human-studio/j/45EE1C0968/"
 applyUrl: "https://apply.workable.com/virtually-human-studio/j/45EE1C0968/apply/"
 timestamp: 1618876800000
-hashtags: "#management,#ui/ux,#marketing,#analysis,#office"
+hashtags: "#management,#marketing,#analysis,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/virtually-human-studio"
 companyWebsite: "http://vhslab.com/"
 summary: "Excited about experience in: #management, #ui/ux, #marketing? Check out this job post!"
 summaryBackup: "Virtually Human Studio is looking for a product manager that has experience in: #management, #ui/ux, #marketing."
-featured: 20
+featured: 15
 ---
 
 ## Description
