@@ -6,13 +6,13 @@ companyName: "Virtually Human Studio"
 url: "https://apply.workable.com/virtually-human-studio/j/EE2AFB1E11/"
 applyUrl: "https://apply.workable.com/virtually-human-studio/j/EE2AFB1E11/apply/"
 timestamp: 1618876800000
-hashtags: "#ui/ux,#management,#jira,#scrum,#monitoring"
+hashtags: "#qa,#management,#jira,#scrum,#ui/ux,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/virtually-human-studio"
 companyWebsite: "http://vhslab.com/"
 summary: "Virtually Human Studio is searching for a lead qa automation engineer that has on experience with white box, black box testing and other automated testing."
 summaryBackup: "Excited about #ui/ux, #management, #jira? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Description
