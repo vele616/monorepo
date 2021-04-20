@@ -1,5 +1,5 @@
 ---
-title: "Front End Engineer (contract/remote)"
+title: "Front End Engineer"
 location: "Los Angeles, CA"
 host: "https://firstandthird.applytojob.com/apply/"
 companyName: "First+Third"
@@ -7,12 +7,12 @@ url: "http://firstandthird.applytojob.com/apply/Z54PFWrhjm/Front-End-Engineer-co
 applyUrl: "http://firstandthird.applytojob.com/apply/Z54PFWrhjm/Front-End-Engineer-contractremote"
 timestamp: 1618876800000
 hashtags: "#css,#javascript,#ui/ux,#html,#reactjs,#wordpress,#content,#git,#management,#photoshop"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/first-third"
 companyWebsite: "https://firstandthird.applytojob.com/apply/firstandthird.com"
-summary: "First+Third is searching for a front end engineer that has 2+ years of experience as a front-end developer."
+summary: "First+Third is searching for a Front End Engineer that has 2+ years of experience as a front-end developer."
 summaryBackup: "To apply as a front end engineer at First+Third, you preferably need to have some knowledge of: #css, #javascript, #ui/ux."
-featured: 20
+featured: 12
 ---
 
 ## Overview Of Role: 
@@ -27,14 +27,14 @@ As an organization we are obsessed with helping our clients understand and achie
 
 As a team, we invest ourselves fully in meeting our client’s goals as if they were our own because when they succeed, we do too. 
 
-Responsibilities:
+## Responsibilities:
 
 *   **Execute** - Be able to take visual designs in sketch and written specifications and turn those into semantic html/css/js that is reusable, scalable, performant, accessible and work on all major browsers
 *   **Make it move** - We love to create experiences on our pages. We leverage CSS and JavaScript animation to make our pages come alive
 *   **Components** - Be able to create reusable Gutenberg blocks that allow clients and product team to enter content and customize the components.
 *   **Reuse** - Develop a reusable component/block library for WordPress that is reusable across client projects
 
-Requirements:
+## Requirements:
 
 *   2+ years of experience as a front-end developer.
 *   Strong understanding of HTML and CSS including cross-browser compatibility and performance.
@@ -49,7 +49,7 @@ Requirements:
 *   Experience working with component systems.
 *   Estimating work for a project and taking specs and turning into clearly defined, executable tasks.
 
-Nice to haves:
+## Nice to haves:
 
 *   Experience with React
 *   Experience with Node.js
