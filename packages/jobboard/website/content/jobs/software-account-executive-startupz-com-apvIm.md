@@ -1,19 +1,18 @@
 ---
-title: "SaaS Sales Representative"
+title: "Software Account Executive"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
 companyName: "Startupz"
-url: "https://startupzcom.recruitee.com/o/saas-sales-representative-4"
-applyUrl: "https://startupzcom.recruitee.com/o/saas-sales-representative-4/c/new"
-timestamp: 1615852800000
-hashtags: "#sales,#operations,#office,#css,#ui/ux,#English,#Dutch"
+url: "https://startupzcom.recruitee.com/o/software-account-executive"
+applyUrl: "https://startupzcom.recruitee.com/o/software-account-executive/c/new"
+timestamp: 1618790400000
+hashtags: "#sales,#operations,#office,#ui/ux,#English,#Dutch"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your knowledge."
-summaryBackup: "To apply as a saas sales representative at Startupz.com, you preferably need to have some knowledge of: #sales, #css, #ui/ux."
-featured: 12
-archived: "true"
+summary: "If you have you may have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your knowledge."
+summaryBackup: "To apply as a software account executive at Startupz.com, you preferably need to have some knowledge of: #sales, #ui/ux, #operations."
+featured: 13
 ---
 
 ## Job description
@@ -26,9 +25,11 @@ We are accepting applications for the next two months and we fill the open posit
 
 **About the Position**
 
-## SaaS Sales Representative
+## Software Account Executive
 
-As our SaaS Sales Representative you will be selling our new products and services which we scale into companies. You will be responsible for identifying new leads and following up with existing leads to explain the advantages of using our products. You can apply your sales skills to support the growth process and help our projects succeed!These are the most important aspects you’ll be working on:
+As our Software Account Executive you will be selling our new products and services which we scale into companies. You will be responsible for identifying new leads and following up with existing leads to explain the advantages of using our products. You can apply your sales skills to support the growth process and help our projects succeed!
+
+These are the most important aspects you’ll be working on:
 
 *   Dealmaking :)!
 *   Advising customers on potential solutions
@@ -41,11 +42,13 @@ As our SaaS Sales Representative you will be selling our new products and servic
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. _What else can you expect from us?_
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+
+_What else can you expect from us?_
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
-*   Friday afternoon drinks and/or (theme)parties(when Covid allows)
+*   Friday afternoon drinks and/or (theme) parties (when Covid allows)
 
 You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
 
@@ -53,7 +56,7 @@ We build our apps, our teams, and our company for the long haul, with a strong e
 
 **About You**
 
-We are looking for someone who is ready for this challenge with a getting things done work spirit.You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
+We are looking for someone who is ready for this challenge with a getting things done work spirit. You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 

@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Startupz is looking for a HR talent recruiter & performance coach that has experience in: #HR, #management, #operations."
 summaryBackup: "To apply as a hr talent recruiter & performance coach at Startupz.com, you preferably need to have some knowledge of: #socialmedia, #ui/ux, #management."
 featured: 15
+archived: "true"
 ---
 
 ## Job description
