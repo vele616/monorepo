@@ -1,5 +1,5 @@
 ---
-title: "Front-end Three.js Engineer (remote)"
+title: "Front-end Three.js Engineer"
 location: "Melbourne, Victoria, Australia"
 host: "https://apply.workable.com/virtually-human-studio/"
 companyName: "Virtually Human Studio"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#unity,#unreal,#linux,#postgresql,#optimization"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/virtually-human-studio"
 companyWebsite: "http://vhslab.com/"
-summary: "Virtually Human Studio is looking for a front-end three.js engineer that has 3+ year experience building in three js, plus sound knowledge of other real-time applications such as unity and/or unreal and a passion for new technologies."
+summary: "Virtually Human Studio is looking for a Front-end Three.js Engineer that has 3+ year experience building in three js, plus sound knowledge of other real-time applications such as unity and/or unreal and a passion for new technologies."
 summaryBackup: "Love #javascript, #reactjs, #unity? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
