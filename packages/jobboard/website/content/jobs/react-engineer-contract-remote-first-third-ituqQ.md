@@ -1,18 +1,18 @@
 ---
-title: "React Engineer (contract/remote)"
+title: "React Engineer"
 location: "Los Angeles, CA"
 host: "https://firstandthird.applytojob.com/apply/"
 companyName: "First+Third"
 url: "http://firstandthird.applytojob.com/apply/R1gKtFS9yi/React-Engineer-contractremote"
 applyUrl: "http://firstandthird.applytojob.com/apply/R1gKtFS9yi/React-Engineer-contractremote"
 timestamp: 1618876800000
-hashtags: "#reactjs,#javascript,#ui/ux,#css,#html,#wordpress,#git,#management,#photoshop"
+hashtags: "#reactjs,#javascript,#css,#html,#wordpress,#git,#ui/ux,#management,#photoshop"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/first-third"
 companyWebsite: "https://firstandthird.applytojob.com/apply/firstandthird.com"
-summary: "First+Third wishes to hire a new react engineer. If you have 2+ years of experience as a React developer, consider applying."
+summary: "First+Third wishes to hire a new React Engineer. If you have 2+ years of experience as a React developer, consider applying."
 summaryBackup: "Excited about #reactjs, #javascript, #ui/ux? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Overview Of Role: 
@@ -27,14 +27,14 @@ As an organization we are obsessed with helping our clients understand and achie
 
 As a team, we invest ourselves fully in meeting our client’s goals as if they were our own because when they succeed, we do too. 
 
-Responsibilities:
+## Responsibilities:
 
 *   **Execute** - Be able to take visual designs in sketch and written specifications and turn those into React components that are reusable, scalable, performant, accessible and work on all major browsers
 *   **Make it move** - We love to create experiences on our pages. We leverage CSS and JavaScript animation to make our pages come alive
 *   **Reuse** - Develop React components that are reusable across client projects
 *   **Data** \- Develop experiences that pull in data from various APIs
 
-Requirements:
+## Requirements:
 
 *   2+ years of experience as a React developer.
 *   Strong understanding of HTML and CSS including cross-browser compatibility and performance.
@@ -48,7 +48,7 @@ Requirements:
 *   Experience working with component systems.
 *   Estimating work for a project and taking specs and turning into clearly defined, executable tasks.
 
-Nice to haves:
+## Nice to haves:
 
 *   Experience with React Native
 *   Experience with WordPress
