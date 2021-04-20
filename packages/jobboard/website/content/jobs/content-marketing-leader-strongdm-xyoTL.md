@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strongdm"
 companyWebsite: "http://www.strongdm.com/"
 summary: "StrongDM is searching for a Content Marketing Leader that has 7+ years of experience with a proven track record in multichannel content creation."
 summaryBackup: "Excited about #content, #socialmedia, #chef? Check out this job post!"
-featured: 
+featured: 10
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**
