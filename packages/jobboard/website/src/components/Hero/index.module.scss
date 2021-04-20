@@ -1,6 +1,63 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
 
+.title {
+
+  @include mediaQuery(">=1400px") {
+    font-size: 146px;
+  }
+
+  @include mediaQuery(">=1200px", "<1400px") {
+    font-size: 132px;
+  }
+
+  @include mediaQuery(">=1000px", "<1200px") {
+    font-size: 112px;
+  }
+
+  @include mediaQuery(">=900px", "<1000px") {
+    font-size: 98px;
+  }
+
+  @include mediaQuery(">=800px", "<900px") {
+    font-size: 86px;
+  }
+
+  @include mediaQuery(">=700px", "<800px") {
+    font-size: 76px;
+  }
+
+  @include mediaQuery(">=600px", "<700px") {
+    font-size: 64px;
+  }
+
+  @include mediaQuery(">=500px", "<600px") {
+    font-size: 58px;
+  }
+
+  @include mediaQuery(">=400px", "<500px") {
+    font-size: 44px;
+  }
+
+  @include mediaQuery("<400px") {
+    font-size: 36px;
+  }
+
+  @include mediaQuery('<600px') {
+    margin: 0 auto;
+  }
+
+  font-family: Rubik, sans-serif;
+  font-weight: 700;
+  color: #85A32A;
+  margin: 0;
+  padding: 0;
+
+  .coder {
+    color: #424C6D
+  }
+}
+
 .wrapper {
   padding-top: 25px;
 

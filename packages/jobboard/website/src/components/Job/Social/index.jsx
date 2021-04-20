@@ -17,7 +17,7 @@ const JobSocialDetails = ({
     <Section className={styles.section}>
       <Grid className={styles.grid}>
         <div className={styles.image}>
-          <CompanyLogo src={logoUrl} />
+          <CompanyLogo alt={companyName} src={logoUrl} />
         </div>
         <Typography
           fontSize="36"
