@@ -10,7 +10,7 @@ hashtags: "#management,#marketing,#analysis,#ui/ux,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/virtually-human-studio"
 companyWebsite: "http://vhslab.com/"
-summary: "Excited about experience in: #management, #ui/ux, #marketing? Check out this job post!"
+summary: "Excited about experience in: #management, #analysis, #marketing? Check out this job post!"
 summaryBackup: "Virtually Human Studio is looking for a product manager that has experience in: #management, #ui/ux, #marketing."
 featured: 15
 ---
