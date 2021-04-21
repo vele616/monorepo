@@ -1,18 +1,18 @@
 ---
-title: "IT Admin / IT Support - Remote"
+title: "IT Admin / IT Support"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/yPBbSihgAh/IT-Admin-IT-Support-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/yPBbSihgAh/IT-Admin-IT-Support-Remote"
 timestamp: 1618963200000
 hashtags: "#management,#macos,#android,#ios,#aws,#wordpress,#office,#finance,#jira,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG intends to hire a new it admin. If you have hands on experience with managing Apple devices, consider applying."
+summary: "Numbrs intends to hire a new IT Admin / IT Support. If you have basic understanding of networking, storage technologies and the command line interface, consider applying."
 summaryBackup: "Excited about #management, #macos, #android? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.
@@ -36,7 +36,7 @@ In this role, you will be responsible for the administration and support of the 
 *   You deliver. You may enjoy thoughtful conversations about problems but in the end, you know that what matters is delivering a solution that works every time.
 *   Resourceful, flexible and adaptable; no task is too big or too small.
 
-Key Qualifications:
+## Key Qualifications:
 
 *   previous professional experience as an IT Administrator
 *   basic understanding of networking, storage technologies and the command line interface
@@ -49,7 +49,7 @@ Key Qualifications:
 *   outstanding writing and oral communication skills
 *   fluent in English
 
-Preferred qualifications:
+## Preferred qualifications:
 
 *   professional experience managing the following tools and technologies: G Suite, Atlassian (JIRA & Confluence), AWS, Wordpress, BetterCloud, LDAP, NAS, SSH, VPN, Command Line and similar 
 *   hands-on experience with basic programming/scripting languages and automation tools
