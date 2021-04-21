@@ -5,6 +5,7 @@ import Body from "../components/Blog/Content/Body";
 import About from "../components/Blog/Content/About";
 import Layout from "../components/Layout";
 import SimiliarPosts from "../components/Blog/Content/SimiliarPosts";
+import { Helmet } from "react-helmet";
 
 export const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark;
@@ -18,6 +19,17 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
   }));
   return (
     <Layout stickyFooter>
+      <Helmet>
+        <meta content={post.frontmatter.description} name="description" />
+        <meta
+          content={post.frontmatter.description}
+          name="twitter:description"
+        />
+        <meta
+          content={post.frontmatter.description}
+          property="og:description"
+        />
+      </Helmet>
       <Header
         author={author}
         image={post.frontmatter.image}

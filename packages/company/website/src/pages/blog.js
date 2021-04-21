@@ -4,6 +4,7 @@ import MostRecent from "../components/Blog/MostRecent";
 import Header from "../components/Blog/Header";
 import Posts from "../components/Blog/Posts";
 import { Section } from "@crocoder-dev/components";
+import { Helmet } from "react-helmet";
 
 export default function Blog({ data }) {
   const nodes = data?.allMarkdownRemark?.edges.map((t) => t.node);
@@ -22,6 +23,11 @@ export default function Blog({ data }) {
 
   return (
     <Layout stickyFooter>
+      <Helmet>
+        <meta content="" name="description" />
+        <meta content="" name="twitter:description" />
+        <meta content="" property="og:description" />
+      </Helmet>
       <Header />
       <MostRecent featuredPost={featured} post1={post1} post2={post2} />
       <Section>

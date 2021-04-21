@@ -163,8 +163,7 @@ Calculate the mean and median values of the number elements from the input array
   <typography element="h4">Result</typography>
 
   ```javascript
-    //[mean, median]
-    [38.5, 32]
+    { mean: 38.5, median: 32 }
   ```
 
   </column>

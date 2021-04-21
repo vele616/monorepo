@@ -15,7 +15,11 @@ author: lukaucur
   <column>
 
   ```html
-    <ul></ul>
+  <ul></ul>
+  ```
+
+  ```javascript
+  const fruitList = ['apple', 'banana', 'tomato' ];
   ```
 
   </column>
@@ -34,7 +38,7 @@ author: lukaucur
 
 </row>
 
-
+<list-toggle title="Solution">
 
 ```javascript
 const fruitList = ['apple', 'banana', 'tomato' ];
@@ -49,3 +53,114 @@ fruitList.forEach((fruit) => {
 
 ```
 
+</list-toggle>
+
+
+<row>
+
+  <column>
+
+  ```html
+  <div></div>
+  ```
+
+  ```javascript
+  const imageSrc = 'https://crocoder.dev/icon.png';
+  ```
+
+  </column>
+
+  <column>
+
+  <demo>
+    <div>
+      <img height="30%" src="https://crocoder.dev/icon.png">
+    </div>
+  </demo>
+
+  </column>
+
+</row>
+
+<list-toggle title="Solution">
+
+```javascript
+  const imageSrc = 'https://crocoder.dev/icon.png';
+
+  const divElement = document.querySelector('div');
+
+  const imgElement = document.createElement('img');
+
+  imgElement.src = imageSrc;
+
+  divElement.appendChild(imgElement);
+
+```
+
+</list-toggle>
+
+<row>
+
+  <column>
+
+  ```html
+  <ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+  </ul>
+  <ul>
+    <li>a</li>
+    <li>b</li>
+    <li>c</li>
+  </ul>
+  <ul>
+    <li>👻</li>
+    <li>👽</li>
+    <li>🦁</li>
+  </ul>
+  ```
+
+  </column>
+
+  <column>
+
+  <demo>
+  <div>
+    <ul>
+      <li>first</li>
+      <li>2</li>
+      <li>last</li>
+    </ul>
+    <ul>
+      <li>first</li>
+      <li>b</li>
+      <li>last</li>
+    </ul>
+    <ul>
+      <li>first</li>
+      <li>👽</li>
+      <li>last</li>
+    </ul>
+    </div>
+  </demo>
+
+  </column>
+
+</row>
+
+<list-toggle title="Solution">
+
+```javascript
+
+  const firstLis = [...document.querySelectorAll('ul > li:first-child')];
+  const lastLis = [...document.querySelectorAll('ul > li:last-child')];
+
+  firstLis.forEach(li => li.textContent = 'first');
+
+  lastLis.forEach(li => li.textContent = 'last');
+
+
+```
+
+</list-toggle>
