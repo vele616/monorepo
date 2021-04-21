@@ -6,13 +6,13 @@ companyName: "Able"
 url: "https://boards.greenhouse.io/able/jobs/4130519002"
 applyUrl: "https://boards.greenhouse.io/able/jobs/4130519002#app"
 timestamp: 1618963200000
-hashtags: "#branding,#ui/ux,#management,#operations,#office,#English,#finance"
+hashtags: "#management,#operations,#monitoring,#branding,#ui/ux,#office,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/able"
 companyWebsite: "https://boards.greenhouse.io/able"
-summary: "Interested in new opportunities and have 5+ years professional experience as a software engineer or equivalent? Able has a job opening for a software engineering manager."
+summary: "Interested in new opportunities and have 5+ years professional experience as a software engineer or equivalent? Able has a job opening for a Software Engineering Manager."
 summaryBackup: "Excited about #branding, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Able is a team of designers and engineers that have started, grown, and sold technology companies. Now we pool our skills as a team to build a growing portfolio of businesses. We believe the future of investing will be driven by technical capability and that people with our skills shouldn't have to bet everything on the success of a single startup.
@@ -42,7 +42,7 @@ We are looking for an Engineering Manager to mentor and help build our Lima engi
 *   Previous experience coaching people to help them reach professional opportunities
 *   Professional proficiency in written and spoken English
 
-## **Why would you love to work for [Able](https://able.co/)?**
+## Why would you love to work for [Able](https://able.co/)?
 
 We believe that people, teams, and well-thought processes are more important than the ideas themselves, and we’re keen on bringing great people together while investing in their growth.Our teams have built products in various industries, from media to finance to toys to healthcare. Sometimes we will work with management teams to help their businesses grow faster or unlock value using technology. Other times, we start or buy businesses outright. Each time, though, we will look for opportunities to leverage technology built at the portfolio-level to drive value faster and grow as a group.And we like to put our money where our mouth is, offering great benefits to ensure you have the best experience working with us:
 
@@ -59,4 +59,4 @@ We believe that people, teams, and well-thought processes are more important tha
 
 We know that a diverse team brings extraordinary success, and we have created a work environment geared towards work and life balance as well as happiness. Able is committed to inclusion and diversity and is an equal opportunity employer. All applicants will receive consideration without regard to race, color, religion, gender, gender identity, sexual orientation, national origin, disability, or veteran status.
 
-## This is but the beginning of a conversation we’d love to have with you._Apply, and let’s get this adventure started!_
+**This is but the beginning of a conversation we’d love to have with you. _Apply, and let’s get this adventure started!_**
