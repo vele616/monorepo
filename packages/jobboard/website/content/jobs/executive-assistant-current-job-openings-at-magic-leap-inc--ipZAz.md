@@ -2,20 +2,20 @@
 title: "Executive Assistant"
 location: "Plantation, FL OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/3077473"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/3077473#app"
 timestamp: 1618963200000
-hashtags: "#management,#office"
+hashtags: "#management,#office,#operations"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "To apply as an executive assistant at Current Job Openings at Magic Leap, Inc., you preferably need to have experience working with high."
+summary: "To apply as an Executive Assistant at Magic Leap, you preferably need to have experience working with high-level executives."
 summaryBackup: "To apply as an executive assistant at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #office."
-featured: 20
+featured: 18
 ---
 
-Job Description 
+## Job Description 
 
 The Executive Assistant will work with upper management and play an integral role in the Magic Leap environment. This opportunity has tremendous growth potential within this enticing organization. Ideally, this role is for someone who has impeccable organization skills and a great attitude. The candidate applying should be a team player who’s willing to work with a multitude of personalities. 
 
@@ -66,4 +66,3 @@ The Executive Assistant will work with upper management and play an integral rol
 
 *   All your information will be kept confidential according to Equal Employment Opportunities guidelines.
 
-#LI-DV1
