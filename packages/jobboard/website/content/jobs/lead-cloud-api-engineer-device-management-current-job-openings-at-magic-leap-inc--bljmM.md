@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years’ experience designing high-performance, secure, multi-tenant cloud services, Magic Leap has a job opening for a Lead Cloud API Engineer"
 summaryBackup: "To apply as a lead at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #operations, #ui/ux."
 featured: 15
+archived: "true"
 ---
 
 ## Job Description

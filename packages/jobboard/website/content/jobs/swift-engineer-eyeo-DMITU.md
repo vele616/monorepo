@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo intends to hire a new Swift Engineer. If you have 5+ years of software development experience, consider applying."
 summaryBackup: "Love #swift, #objectivec, #javascript? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Get to know us
