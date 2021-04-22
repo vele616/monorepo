@@ -10,7 +10,7 @@ hashtags: "#wordpress,#javascript,#css,#management,#php,#html,#marketing,#analys
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strategy11"
 companyWebsite: "https://strategy11.bamboohr.com/jobs/"
-summary: "To apply as a wordpress technical support specialist at Strategy11, you preferably need to have experience building or supporting these is a huge plus."
+summary: "To apply as a Wordpress Technical Support Specialist at Strategy11, you preferably need to have working knowledge of WordPress, WordPress Plugins, and WordPress themes."
 summaryBackup: "To apply as a wordpress technical support specialist at Strategy11, you preferably need to have some knowledge of: #wordpress, #javascript, #css."
 featured: 12
 ---
@@ -44,7 +44,7 @@ We are hiring 2 full or part time Technical Support Specialists to join our amaz
 *   Great English writing skills. You'll be writing and communicating with clients and other team members primarily in writing. Clear and effective communication is key.
 *   Self-driven work ethic. You need to be a self-starter who loves taking initiative and seeing things through to completion. We have a small team so each member has a lot of responsibility and a lot of involvement in the direction our company takes.
 *   Curiosity and the desire to learn. Creative ideas and involvement with our clients fuel the growth of our company. We also need team members who are able to efficiently find answers to their questions.  
-*   A dependable work environment. Since you'll be working from home, you'll need a reasonably fast computer and a reliable high­-speed internet connection.
+*   A dependable work environment. Since you'll be working from home, you'll need a reasonably fast computer and a reliable high-speed internet connection.
 *   Ability to work during our business hours (US PST or MST 9-5)
 
 ## Bonus points if you have the following:
