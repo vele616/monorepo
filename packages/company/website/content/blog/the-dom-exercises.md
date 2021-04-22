@@ -8,7 +8,31 @@ blog: true
 author: lukaucur
 ---
 
+The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it JavaScript can access and change all the elements of an HTML document. The following excercises are meant to teach you to effectively manipulate the content and style of HTML elements.
 
+<br/>
+<br/>
+
+
+<typography element="h2">Exercises</typography>
+
+- [Fruit list](#fruit-list)
+- [CroCoder Logo](#crocoder-logo)
+- [Change first and last item from an unordered list](#change-first-and-last-item-from-an-unordered-list)
+
+<br/>
+<br/>
+
+<typography id="fruit-list" element="h2">Fruit List</typography>
+
+Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+
+<typography element="h4">Helpful MDN Docs links</typography>
+
+- [Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [Document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+- [Node.appendChild()](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
+- [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
 <row>
 
@@ -55,6 +79,15 @@ fruitList.forEach((fruit) => {
 
 </list-toggle>
 
+<typography id="crocoder-logo" element="h2">CroCoder Logo</typography>
+
+Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+
+<typography element="h4">Helpful MDN Docs links</typography>
+
+- [Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [Document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+- [Node.appendChild()](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 
 <row>
 
@@ -98,6 +131,16 @@ fruitList.forEach((fruit) => {
 ```
 
 </list-toggle>
+
+<typography id="change-first-and-last-item-from-an-unordered-list" element="h2">Change first and last item from an unordered list</typography>
+
+Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+
+<typography element="h4">Helpful MDN Docs links</typography>
+
+- [Document.querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+- [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+- [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
 <row>
 
