@@ -6,26 +6,26 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/2ba611a3-1ac7-4ff6-a919-5d97139d3a98"
 applyUrl: "https://jobs.lever.co/pathrise/2ba611a3-1ac7-4ff6-a919-5d97139d3a98/apply"
 timestamp: 1619049600000
-hashtags: "#management,#analytics,#operations,#analysis,#office,#optimization"
+hashtags: "#management,#analytics,#HR,#operations,#analysis,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Pathrise wishes to hire a new recruiter. If you have 3+ years full cycle in-house recruiting experience at a seed, series A, or series B startup or similar experience, consider applying."
+summary: "Pathrise wishes to hire a new Recruiter. If you have 3+ years full cycle in-house recruiting experience at a seed, series A, or series B startup or similar experience, consider applying."
 summaryBackup: "Excited about #management, #analytics, #operations? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
-**What is Pathrise?**
+## What is Pathrise?
 
 [Pathrise](https://www.pathrise.com/) (YC W18) is an online program for tech professionals that provides 1-on-1 mentorship, training and advice to help anyone land their next job. On top of that, we're built around aligned incentives. Fellows only pay when they get hired and start working at a job first.
 
 Every day we are expanding our team and our services. We are looking for individuals who are ready to jump into a new role with us. We are a flourishing team and we really enjoy working together to improve our fellows chances of getting the jobs of their dreams!  If this sounds like something you'd be interested we’d like the opportunity to get to know you more.
 
-**Our Mission**
+## Our Mission
 
 We seek to uplift job seekers in their careers and help them fulfill their hopes, ambitions, and livelihoods. Read more about why we’re driven to do this in our [manifesto](https://www.pathrise.com/manifesto).
 
-**The Role**
+## The Role
 
 Pathrise is looking for a recruiter to join us in building our company from the ground up by managing the full-cycle recruiting process as we grow our full-time team to 50 employees and beyond. You will report to the Head of Operations and work with our full-time recruiter on our hiring team. You will fill a range of business-critical positions, including senior strategy roles, technical roles, IC roles and part-time roles, providing a smooth fully-remote hiring experience for candidates. You will balance our immediate headcount needs with working collaboratively with our team to optimize and standardize our recruitment strategies and processes across the hiring funnel. 
 
