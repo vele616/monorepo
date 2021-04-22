@@ -10,12 +10,12 @@ hashtags: "#sales,#management,#analytics,#ui/ux,#marketing,#asana,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Pathrise is searching for an account executive that has 2+ years of experience in a sales or business development role."
+summary: "Pathrise is searching for an Account Executive that has 2+ years of experience in a sales or business development role."
 summaryBackup: "Excited about #sales, #management, #analytics? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
-**What is Pathrise?**
+## What is Pathrise?
 
 [Pathrise](https://www.pathrise.com/) (YC W18) is an online program for tech professionals that provides 1-on-1 mentorship, training and advice to help anyone land their next job. On top of that, we're built around aligned incentives. Fellows only pay when they get hired and start working at a job first.
 
