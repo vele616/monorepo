@@ -1,27 +1,27 @@
 ---
-title: "Product Mentor (Part Time)"
+title: "Product Mentor"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/e7853cb6-61d4-4700-b38c-04b45bee798f"
 applyUrl: "https://jobs.lever.co/pathrise/e7853cb6-61d4-4700-b38c-04b45bee798f/apply"
 timestamp: 1619049600000
-hashtags: "#management,#marketing,#windows,#aws,#content,#analysis,#ui/ux,#operations,#scrum"
+hashtags: "#management,#marketing,#content,#analysis,#windows,#aws,#ui/ux,#operations,#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Interested in new opportunities and have 3 years of industry experience with product management? Pathrise has a job opening for a product mentor."
+summary: "Interested in new opportunities and have 3 years of industry experience with product management? Pathrise has a job opening for a Product Mentor."
 summaryBackup: "Pathrise is looking for a product mentor that has experience in: #management, #marketing, #windows."
-featured: 20
+featured: 8
 ---
 
-**What is Pathrise?**
+## What is Pathrise?
 
 [Pathrise](https://www.pathrise.com/) (YC W18) is an online program for tech professionals that provides 1-on-1 mentorship, training and advice to help anyone land their next job. On top of that, we're built around aligned incentives. Fellows only pay when they get hired and start working at a job first.
 
 Every day we are expanding our team and our services. We are looking for individuals who are ready to jump into a new role with us. We are a flourishing team and we really enjoy working together to improve our fellows chances of getting the jobs of their dreams!  If this sounds like something you'd be interested we’d like the opportunity to get to know you more.
 
-**Our Mission**
+## Our Mission
 
 We seek to uplift job seekers in their careers and help them fulfill their hopes, ambitions, and livelihoods. Read more about why we’re driven to do this in our [manifesto](https://www.pathrise.com/manifesto).
 
