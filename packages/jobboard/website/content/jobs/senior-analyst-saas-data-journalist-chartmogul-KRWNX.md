@@ -1,18 +1,18 @@
 ---
-title: "Senior Analyst (SaaS Data Journalist)"
+title: "Senior Analyst"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul"
 url: "https://jobs.chartmogul.com/o/senior-analyst-saas-data-journalist"
 applyUrl: "https://jobs.chartmogul.com/o/senior-analyst-saas-data-journalist/c/new"
 timestamp: 1619049600000
-hashtags: "#content,#css,#branding,#marketing,#analysis,#finance,#English"
+hashtags: "#analysis,#content,#marketing,#css,#branding,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
-summary: "If you have 6 years, we’ve built a loyal, recurring audience at ChartMogul and established our brand as a thought leader in the SaaS and subscription industry, consider applying to ChartMogul's job post for a new senior analyst."
+summary: "If you have worked in the software/technology industry for at least 5 years, consider applying to ChartMogul's job post for a new Senior Analyst."
 summaryBackup: "Excited about #content, #css, #branding? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Job description
@@ -25,7 +25,7 @@ Over the past 6 years, we’ve built a loyal, recurring audience at ChartMogul a
 
 Today, ChartMogul publishes on a [Blog](http://blog.chartmogul.com), a resource library for [downloadable guides](http://chartmogul.com/resources), other channels like iTunes and Soundcloudfor [podcasts](https://itunes.apple.com/us/podcast/saas-open-mic/id1067803742?mt=2). We plan to expand our efforts and reach, through any channel that’s relevant to our audience. Though more important than the channel is the quality of the thinking and the writing/production that goes into every post.
 
-As a SeniorAnalyst within ChartMogul's content team, you’d be responsible for bringing your own unique set of analytical skills to our content. This could be in:
+As a Senior Analyst within ChartMogul's content team, you’d be responsible for bringing your own unique set of analytical skills to our content. This could be in:
 
 *   Industry commentary, analysis and interpretation
 *   Data visualization and analysis
@@ -37,7 +37,7 @@ As a SeniorAnalyst within ChartMogul's content team, you’d be responsible for 
 
 ## What we’re looking for:
 
-*   You have the industryknowledge, skills andintelligence required to do truly originalwork that stands outin the crowded space of 'SaaS content marketing'.
+*   You have the industry knowledge, skills and intelligence required to do truly original work that stands out in the crowded space of 'SaaS content marketing'.
 *   You have worked in the software/technology industry for at least 5 years.
 *   You are comfortable forming and expressing original opinions, backed up by your high levelcompetence and industry knowledge.
 *   You can write perfect English.
