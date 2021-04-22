@@ -6,22 +6,22 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/48766fce-a826-4d4d-914c-6fa292beb209"
 applyUrl: "https://jobs.lever.co/pathrise/48766fce-a826-4d4d-914c-6fa292beb209/apply"
 timestamp: 1619049600000
-hashtags: "#windows,#aws,#content"
-jobType: "software"
+hashtags: "#software,#content,#management,#windows,#aws"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Interested in new opportunities and have 3 years of industry experience with Software Engineering? Pathrise has a job opening for a software engineering mentor."
+summary: "Interested in new opportunities and have 3 years of industry experience with Software Engineering? Pathrise has a job opening for a Software Engineering Mentor."
 summaryBackup: "Excited about #windows, #aws, #content? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
-**What is Pathrise?**
+## What is Pathrise?
 
 [Pathrise](https://www.pathrise.com/) (YC W18) is an online program for tech professionals that provides 1-on-1 mentorship, training and advice to help anyone land their next job. On top of that, we're built around aligned incentives. Fellows only pay when they get hired and start working at a job first.
 
 Every day we are expanding our team and our services. We are looking for individuals who are ready to jump into a new role with us. We are a flourishing team and we really enjoy working together to improve our fellows chances of getting the jobs of their dreams!  If this sounds like something you'd be interested we’d like the opportunity to get to know you more.
 
-**Our Mission**
+## Our Mission
 
 We seek to uplift job seekers in their careers and help them fulfill their hopes, ambitions, and livelihoods. Read more about why we’re driven to do this in our [manifesto](https://www.pathrise.com/manifesto).
 
@@ -44,7 +44,7 @@ As a part time Software Engineer mentor, you will be responsible for fellow succ
 *   Mentors will need to commit a few hours per week preparing materials, leveraging existing Pathrise curriculum content and responding to fellow’s emails 
 *   Work alongside Pathrise Mentors and learn how to best meet the needs and learning styles of your fellows
 *   Guide fellows through both technical and behavioral aspects of the job search
-*    Facilitate a thoughtful and inclusive environment for all fellows to learn and grow in their technical skills to achieve great results and land the job of their dreams!
+*   Facilitate a thoughtful and inclusive environment for all fellows to learn and grow in their technical skills to achieve great results and land the job of their dreams!
 
 ## What’s in it for You?
 
