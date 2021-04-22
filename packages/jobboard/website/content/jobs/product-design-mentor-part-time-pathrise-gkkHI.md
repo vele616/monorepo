@@ -1,16 +1,16 @@
 ---
-title: "Product Design Mentor (Part Time)"
+title: "Product Design Mentor"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/58f26eb9-aed5-4623-bafc-3002b9d38348"
 applyUrl: "https://jobs.lever.co/pathrise/58f26eb9-aed5-4623-bafc-3002b9d38348/apply"
 timestamp: 1619049600000
-hashtags: "#ui/ux,#windows,#aws,#content"
+hashtags: "#ui/ux,#content,#monitoring,#windows,#aws"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "To apply as a product design mentor at Pathrise, you preferably need to have 3 years of industry experience with Product Design."
+summary: "To apply as a Product Design Mentor at Pathrise, you preferably need to have 3 years of industry experience with Product Design."
 summaryBackup: "Pathrise is looking for a product design mentor that has experience in: #ui/ux, #windows, #aws."
 featured: 20
 ---
