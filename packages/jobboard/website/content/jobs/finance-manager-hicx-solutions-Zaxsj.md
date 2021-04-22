@@ -2,17 +2,17 @@
 title: "Finance Manager"
 location: "London, GB - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/da1311c852c701-finance-manager"
 applyUrl: "https://hicx-solutions.breezy.hr/p/da1311c852c701-finance-manager/apply"
 timestamp: 1619049600000
-hashtags: "#management,#office,#css,#finance,#analysis"
+hashtags: "#management,#finance,#analysis,#office,#css"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "If you have experience of working accurately with procedures and deadlines in a financial environment, Hicx-solutions is looking for someone with your knowledge."
+summary: "If you have experience of working accurately with procedures and deadlines in a financial environment, HICX solutions is looking for someone with your knowledge."
 summaryBackup: "To apply as a finance manager at Hicx-solutions, you preferably need to have some knowledge of: #management, #office, #css."
-featured: 20
+featured: 7
 ---
 
 HICX is a leading worldwide provider of enterprise SaaS solutions for digital supplier management.. [Learn more about HICX](https://hicx-solutions.breezy.hr/)
