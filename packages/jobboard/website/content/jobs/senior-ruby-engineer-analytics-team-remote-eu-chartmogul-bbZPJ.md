@@ -1,5 +1,5 @@
 ---
-title: "Senior Ruby Engineer (Analytics Team) - Remote (EU)"
+title: "Senior Ruby Engineer"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul"
@@ -10,9 +10,9 @@ hashtags: "#rubylang,#rustlang,#rails,#ui/ux,#terraform,#analysis,#marketing,#ma
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
-summary: "ChartMogul intends to hire a new senior ruby engineer. If you have 4+ years of professional experience as a backend engineer, with at least 2 of them in developing high traffic web applications, consider applying."
+summary: "ChartMogul intends to hire a new Senior Ruby Engineer. If you have 4+ years of professional experience as a backend engineer, with at least 2 of them in developing high traffic web applications, consider applying."
 summaryBackup: "To apply as a senior ruby engineer at ChartMogul, you preferably need to have some knowledge of: #rubylang, #rustlang, #rails."
-featured: 20
+featured: 10
 ---
 
 ## Job description
@@ -57,4 +57,4 @@ As with many young companies, your responsibilities will change over time. Howev
 *   You’ll become part of a team of nice, awesome, and highly dedicated people who all have the same mission: Helping companies build better businesses.
 *   You’ll receive a great salary pack (market or upmarket).
 
-****Please note, we are only accepting EU-based applicants at this time.****
+**Please note, we are only accepting EU-based applicants at this time.**
