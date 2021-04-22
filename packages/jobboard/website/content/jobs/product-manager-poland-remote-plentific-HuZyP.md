@@ -1,18 +1,18 @@
 ---
-title: "Product Manager - Poland, Remote"
+title: "Product Manager"
 location: "Warsaw, Masovian Voivodeship, Poland"
 host: "https://apply.workable.com/plentific/"
 companyName: "Plentific"
 url: "https://apply.workable.com/plentific/j/F5C6672E11/"
 applyUrl: "https://apply.workable.com/plentific/j/F5C6672E11/apply/"
 timestamp: 1619049600000
-hashtags: "#management,#ui/ux,#marketing,#socialmedia,#analysis,#office"
+hashtags: "#management,#ui/ux,#analysis,#marketing,#socialmedia,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plentific"
 companyWebsite: "http://www.plentific.com/"
-summary: "To apply as a product manager at Plentific, you preferably need to have 3+ years experience working as a Digital Product Manager."
+summary: "To apply as a Product Manager at Plentific, you preferably need to have 3+ years experience working as a Digital Product Manager."
 summaryBackup: "Love #management, #ui/ux, #marketing? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
@@ -40,7 +40,7 @@ In sum, Plentific is a technology-led business developing cutting-edge solutions
 
 [plentific.com/careers](http://plentific.com/careers)
 
-**The Role**
+## The Role
 
 **This is a fully remote position based anywhere in Europe.** We currently have a number of remote employees based in the UK, Germany, Turkey, Poland, Ukraine, Italy, Slovakia, Spain and Romania.
 
@@ -48,7 +48,7 @@ The product team is composed of professionals who share a passion for building a
 
 We’re looking for a talented team player with demonstrable experience of working as a Digital Product Manager. You’ll work alongside a highly technical and enthusiastic team and apply your product management skills across our B2C and B2B offerings.
 
-**Responsibilities**
+## Responsibilities
 
 *   Develop a deep understanding of our target users and their known and unknown needs.
 *   Negotiate product trade-offs impacting cost, schedule and usability to optimise ROI.
