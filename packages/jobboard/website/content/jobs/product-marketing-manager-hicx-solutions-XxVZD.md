@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "HICX intends to hire a new product marketing manager. If you have 10+ years’ experience in a B2B technology marketing role, of which at least 5 in a product marketing capacity, consider applying."
 summaryBackup: "To apply as a product marketing manager at Hicx-solutions, you preferably need to have some knowledge of: #marketing, #sales, #management."
 featured: 7
+archived: "true"
 ---
 
 As part of our exciting growth plans for 2021 and beyond, HICX is looking to hire an experienced Product Marketing Manager to establish and build our product marketing function.
