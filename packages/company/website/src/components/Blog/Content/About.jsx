@@ -27,26 +27,28 @@ const About = ({ author }) => {
           <Typography fontFamily="rubik" color="gray_11">
             {author.description}
           </Typography>{" "}
-          <Typography fontFamily="rubik" color="gray_11">
-            Connect with him on{" "}
-            <a
-              rel="nofollow noopener noreferrer"
-              className="link"
-              target="_blank"
-              href={author.twitter}
-            >
-              Twitter
-            </a>{" "}
-            and{" "}
-            <a
-              rel="nofollow noopener noreferrer"
-              className="link"
-              target="_blank"
-              href={author.linkedin}
-            >
-              LinkedIn
-            </a>
-          </Typography>
+          {author.twitter && author.linkedin ? (
+            <Typography fontFamily="rubik" color="gray_11">
+              Connect with him on{" "}
+              <a
+                rel="nofollow noopener noreferrer"
+                className="link"
+                target="_blank"
+                href={author.twitter}
+              >
+                Twitter
+              </a>{" "}
+              and{" "}
+              <a
+                rel="nofollow noopener noreferrer"
+                className="link"
+                target="_blank"
+                href={author.linkedin}
+              >
+                LinkedIn
+              </a>
+            </Typography>
+          ) : null}
         </div>
       </div>
     </Section>

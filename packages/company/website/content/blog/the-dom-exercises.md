@@ -1,9 +1,9 @@
 ---
-title: "DOM"
+title: "The DOM"
 description: ""
 category: "learn javascript"
-image: "../images/map-filter-reduce.png"
-date: 1717288653
+image: "../images/blogs/dom.png"
+date: 1619463600
 blog: true
 author: lukaucur
 ---

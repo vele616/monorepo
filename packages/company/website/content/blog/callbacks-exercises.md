@@ -1,9 +1,9 @@
 ---
-title: "Callbacks"
+title: "JavaScript Callbacks"
 description: ""
 category: "learn javascript"
-image: "../images/map-filter-reduce.png"
-date: 1717288653
+image: "../images/blogs/callbacks.png"
+date: 1619463600
 blog: true
 author: davidabram
 ---
