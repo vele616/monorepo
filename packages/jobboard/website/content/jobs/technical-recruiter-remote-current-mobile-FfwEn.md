@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Current Mobile is searching for a technical recruiter that has 2-4 years of full-cycle technical recruiting experience in a fast-paced, high-growth environment."
 summaryBackup: "Current Mobile is looking for a technical recruiter that has experience in: #management, #operations, #content."
 featured: 17
+archived: "true"
 ---
 
 ## What is Current?
