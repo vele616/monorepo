@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/f31dbfc4-841a-435e-9898-ef1d0b690a02"
 applyUrl: "https://jobs.lever.co/10up-2/f31dbfc4-841a-435e-9898-ef1d0b690a02/apply"
 timestamp: 1619395200000
-hashtags: "#operations,#optimization,#wordpress,#content,#ui/ux,#management,#analysis,#office,#monitoring,#English"
+hashtags: "#operations,#optimization,#content,#wordpress,#ui/ux,#management,#analysis,#office,#monitoring,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "If you have experience working in a distributed environment is appreciated, 10up is looking for someone with your knowledge."
+summary: "If you have at least two years of experience in ad operations including trafficking, yield management, and private marketplace deals, 10up is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #optimization, #wordpress? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 The AcceleRev Ad Ops Specialist is responsible for the day-to-day ad operations of our program’s largest client. This person has a high attention to detail in implementing and optimizing direct and programmatic revenue and has a proven track record of increasing revenue through their strategic approach to yield optimization. Highly analytical, this person will proactively leverage data to identify issues in delivery and opportunities to increase revenue. The AcceleRev Ad Ops Specialist will report to the AcceleRev Program Director.
@@ -32,7 +32,7 @@ The AcceleRev Ad Ops Specialist is responsible for the day-to-day ad operations 
 
 *   Expert with Google Ad Manager.
 *   At least two years experience in ad operations including trafficking, yield management, and private marketplace deals.
-*   At least two years experience in programmatic optimization and header bidding including Open Bidding (previously EBDA), [Prebid.js](http://Prebid.js), and other third party wrappers. 
+*   At least two years experience in programmatic optimization and header bidding including Open Bidding (previously EBDA), Prebid.js, and other third party wrappers. 
 *   Awareness of current and future industry trends, and knowledge of key campaign performance indicators.
 *   Passion to improve the digital media ecosystem.
 *   Consistently leverage a solutions-focused mindset to productively collaborate with clients, teams, and third party vendors to efficiently solve problems and move teams forward. 
