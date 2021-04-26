@@ -6,13 +6,13 @@ companyName: "10up"
 url: "https://jobs.lever.co/10up-2/747bb1db-7fb9-481e-9bca-30ced4d50127"
 applyUrl: "https://jobs.lever.co/10up-2/747bb1db-7fb9-481e-9bca-30ced4d50127/apply"
 timestamp: 1619395200000
-hashtags: "#ui/ux,#operations,#content,#management,#finance,#office,#optimization"
+hashtags: "#management,#finance,#accountant,#ui/ux,#operations,#content,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/10up"
 companyWebsite: "http://10up.com/"
-summary: "10up wishes to hire a new staff accountant. If you have 3 years plus financial operations role in services-based company, consider applying."
+summary: "10up wishes to hire a new Staff Accountant. If you have 3+ years of financial operations role in services-based company, consider applying."
 summaryBackup: "Love #ui/ux, #operations, #content? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 10up seeks a full-time financial operations specialist to support and assist our financial operations team with invoicing, accounts receivable, employee expenses/reimbursements and similar tasks. Success in this role requires a strong ability to organize one’s time, attention to detail, and strong communications ability as well as basic financial understanding. 
