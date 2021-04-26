@@ -1,5 +1,5 @@
 ---
-title: "The DOM"
+title: "JS Exercises: The DOM"
 description: "The DOM or the Document Object Model of the page is created after the web page is loaded. Learn some DOM manuipulation with these exercises."
 category: "Learn JavaScript"
 image: "../images/blogs/dom.png"
@@ -8,9 +8,15 @@ blog: true
 author: lukaucur
 ---
 
-The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it JavaScript can access and change all the elements of an HTML document. 
+It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. The best way is to write a project from scratch, which is super time-consuming. We have prepared some exercises to help out the beginner devs to solidify their understanding of **the DOM**. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
 
-The following excercises are meant to teach you to effectively manipulate the content and style of HTML elements.
+If you need some additional help, you can check out our [The DOM video](https://youtu.be/TWV2qERCPG4) from **#lockdown learning** series or contact the author of the article directly.
+
+<br />
+<hr />
+<br />
+
+The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it JavaScript can access and change all the elements of an HTML document. 
 
 <br/>
 <br/>
@@ -27,7 +33,7 @@ The following excercises are meant to teach you to effectively manipulate the co
 
 <typography id="fruit-list" element="h2">Fruit List</typography>
 
-Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+You are given some names of different fruits and an unordered list html element; add a list item for each to the unordered list.
 
 <typography element="h4">Helpful MDN Docs links</typography>
 
@@ -83,7 +89,7 @@ fruitList.forEach((fruit) => {
 
 <typography id="crocoder-logo" element="h2">CroCoder Logo</typography>
 
-Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+Add the CroCoder logo (image element) as a child element to the existing div element.
 
 <typography element="h4">Helpful MDN Docs links</typography>
 
@@ -136,7 +142,7 @@ Input is a string of multiple words with a single space between each of them. Yo
 
 <typography id="change-first-and-last-item-from-an-unordered-list" element="h2">Change first and last item from an unordered list</typography>
 
-Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+Change the text in first and the last list item element in every unordered list element on this page. Change it to ```'first'``` and ```'last'```.
 
 <typography element="h4">Helpful MDN Docs links</typography>
 
