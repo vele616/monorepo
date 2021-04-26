@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "ChartMogul is looking for a product marketing & partnerships manager that has experience in: #marketing, #analytics, #ui/ux."
 summaryBackup: "Excited about #marketing, #css, #ui/ux? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Job description
