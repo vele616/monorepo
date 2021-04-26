@@ -13,6 +13,7 @@ companyWebsite: "http://www.altanddot.com/"
 summary: "Alt & Dot is looking for a shopify front-end developer that has 2+ years of experience in Shopify web development."
 summaryBackup: "To apply as a shopify front-end developer at Alt & Dot, you preferably need to have some knowledge of: #javascript, #reactjs, #css."
 featured: 5
+archived: "true"
 ---
 
 ## Description
