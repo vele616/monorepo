@@ -1,5 +1,5 @@
 ---
-title: "JS Exercises: Callbacks"
+title: "Callbacks - Code Exercises"
 description: "Callbacks are so common in JavaScript, you certainly used callbacks without knowing they're called that. Let's try to solve some exercises that will help you learn callbacks in JavaScript."
 category: "Learn JavaScript"
 image: "../images/blogs/callbacks.png"

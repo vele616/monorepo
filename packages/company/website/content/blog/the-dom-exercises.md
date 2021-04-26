@@ -1,5 +1,5 @@
 ---
-title: "JS Exercises: The DOM"
+title: "The DOM - Code Exercises"
 description: "The DOM or the Document Object Model of the page is created after the web page is loaded. Learn some DOM manuipulation with these exercises."
 category: "Learn JavaScript"
 image: "../images/blogs/dom.png"
