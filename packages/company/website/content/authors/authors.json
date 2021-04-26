@@ -1,0 +1,20 @@
+{ 
+  "authors": [
+    {
+      "id":"davidabram",
+      "name":"David Abram",
+      "description": "Spends his time untangling software architectures and doing DevOps. Likes to build stuff.",
+      "twitter": "https://twitter.com/devabram",
+      "linkedin": "https://www.linkedin.com/in/david-abram/",
+      "email": "david@crocoder.dev",
+      "image": "../images/authors/davidabram.png"
+    },
+    {
+      "id":"lukaucur",
+      "name":"Luka Učur",
+      "description": "Learning JavaScript all the time, writing posts sometimes.",
+      "email": "luka.ucur@gmail.com",
+      "image": "../images/authors/default-author.png"
+    }
+  ]
+}

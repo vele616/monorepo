@@ -45,6 +45,9 @@ const Layout = ({
               </Typography>{" "}
               Jobs
             </a>
+            <Link className={`${styles.jobs} link`} to="/blog">
+              Blog
+            </Link>
             <Button
               onClick={() => {
                 toggle();
