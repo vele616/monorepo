@@ -1,21 +1,19 @@
 ---
-title: "Finance and Accounting Analyst (m/f/d)"
+title: "Finance and Accounting Analyst"
 location: "Remote"
 host: "https://boards.greenhouse.io/bryter"
 companyName: "BRYTER"
 url: "https://boards.greenhouse.io/bryter/jobs/4379551003"
 applyUrl: "https://boards.greenhouse.io/bryter/jobs/4379551003#app"
 timestamp: 1619395200000
-hashtags: "#management,#css,#operations,#German,#finance,#optimization,#English"
+hashtags: "#accountant,#finance,#analysis,#management,#css,#operations,#German,#optimization,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bryter"
 companyWebsite: "https://boards.greenhouse.io/bryter"
-summary: "If you have 2 years of experience with accounting, especially the following topics, consider applying to BRYTER's job post for a new finance and accounting analyst."
+summary: "If you have 2 years of experience with accounting, consider applying to BRYTER's job post for a new Finance and Accounting Analyst."
 summaryBackup: "BRYTER is looking for a finance and accounting analyst that has experience in: #management, #css, #operations."
-featured: 20
+featured: 11
 ---
-
-[https://bryter.io/careers/finance-and-accounting-analyst/](https://bryter.io/careers/finance-and-accounting-analyst/)
 
 ## Get an Impression of the Team:
 
