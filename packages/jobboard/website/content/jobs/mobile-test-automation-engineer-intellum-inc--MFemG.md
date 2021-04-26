@@ -10,9 +10,9 @@ hashtags: "#rails,#swift,#kotlin,#reactjs,#css,#docker,#branding,#ui/ux,#git,#ma
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/intellum-inc-"
 companyWebsite: "http://www.intellum.com/"
-summary: "Intellum, Inc. wishes to hire a new mobile test automation engineer. If you have 3,500 per year in educational funds, consider applying."
+summary: "Intellum, Inc. is looking for a Mobile Test Automation Engineer that has experience in: #rails, #swift, #kotlin."
 summaryBackup: "Intellum, Inc. is looking for a mobile test automation engineer that has experience in: #rails, #swift, #kotlin."
-featured: 20
+featured: 10
 ---
 
 ## Description
