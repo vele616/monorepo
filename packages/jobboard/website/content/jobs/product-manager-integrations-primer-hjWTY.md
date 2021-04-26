@@ -1,18 +1,18 @@
 ---
-title: "Product Manager - Integrations"
+title: "Product Manager"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/511795AFAE/"
 applyUrl: "https://apply.workable.com/primer-api/j/511795AFAE/apply/"
 timestamp: 1619395200000
-hashtags: "#management,#office"
+hashtags: "#management,#monitoring,#product,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
-summary: "Primer intends to hire a new product manager. If you have experience product managing integrations and working with APIs is preferable, and experience within payments would be amazing, consider applying."
+summary: "Primer intends to hire a new Product Manager. If you have experience working with small product delivery teams managing roadmaps, product specs, and all accompanying tasks, consider applying."
 summaryBackup: "Primer is looking for a product manager that has experience in: #management, #office."
-featured: 20
+featured: 13
 ---
 
 ## Description
