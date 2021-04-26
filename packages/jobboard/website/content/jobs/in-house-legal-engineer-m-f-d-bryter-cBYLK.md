@@ -1,18 +1,18 @@
 ---
-title: "In-house Legal Engineer (m/f/d)"
+title: "In-house Legal Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/bryter"
 companyName: "BRYTER"
 url: "https://boards.greenhouse.io/bryter/jobs/4447211003"
 applyUrl: "https://boards.greenhouse.io/bryter/jobs/4447211003#app"
 timestamp: 1619395200000
-hashtags: "#css,#marketing,#analysis,#branding,#management,#office,#operations,#finance,#optimization,#English"
+hashtags: "#management,#analysis,#operations,#css,#marketing,#branding,#office,#operations,#finance,#optimization,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bryter"
 companyWebsite: "https://boards.greenhouse.io/bryter"
-summary: "BRYTER intends to hire a new in-house legal engineer. If you have besides your professional qualification, you have solid experience in working with various market standard tools for document analysis and automation, consider applying."
+summary: "BRYTER intends to hire a new In-house Legal Engineer. If you have solid experience in working with various market standard tools for document analysis and automation, consider applying."
 summaryBackup: "Love #css, #marketing, #analysis? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Being an In-house Legal Engineer with us
@@ -60,12 +60,12 @@ This role does not require in-depth coding experience, but is rather focused on 
 
 We supercharge enterprise services by enabling business experts to build and distribute powerful applications. Our truly no-code platform gives enterprise teams the tools to build self-service applications to provide faster, more accurate services to their colleagues, without programming. Our product is especially geared to professionals in law, compliance, accounting and finance, who use our software to automate complex, recurring decisions and scenarios.  Global brands from McDonalds and ING, through to professional service firms like Deloitte, PwC and KPMG, use BRYTER to deliver services digitally.  
 
-##   **What is it like to work at BRYTER?**  
+**What is it like to work at BRYTER?**  
 
 We are a remote-first Software-as-a-Service company, with people across the world. We believe that teams are more important than businesses and we are convinced that the right team can have the greatest impact. Our management team has successfully built, scaled and sold companies before and wants to create an environment where everyone can grow to their full potential and flourish.  
 
-## We want our team members to take responsibility, to understand the mission and, ultimately, to be happy. That is why our organization is optimized to foster employee happiness, allowing everyone to have as much ownership, autonomy and mastery as possible. If you want to hear it straight from the horse’s mouth on what this means, how working at BRYTER is like, our CPO and Co-Founder Michael Hübl has [recorded a webinar](https://bryter.com/press-news/how-to-remote-with-bryter/), where he shares a bit about our remote-first working culture.  
+**We want our team members to take responsibility, to understand the mission and, ultimately, to be happy. That is why our organization is optimized to foster employee happiness, allowing everyone to have as much ownership, autonomy and mastery as possible. If you want to hear it straight from the horse’s mouth on what this means, how working at BRYTER is like, our CPO and Co-Founder Michael Hübl has [recorded a webinar](https://bryter.com/press-news/how-to-remote-with-bryter/), where he shares a bit about our remote-first working culture.**
 
 Our employees can choose to work from home or anywhere they prefer. We encourage everyone to take part in conferences, to share their suggestions across the business and to learn. Whilst we are remote-first, we have office hubs in London, New York, Berlin, Frankfurt and Dublin.   
 
-## Being remote-first means we work extra hard to foster relationships, including daily coffees (only rule is don’t talk about work!) and an in-person get-together every quarter where we spend the time strategizing, planning as well as just talking, having fun and getting to know each other better. To date we have always done this in Frankfurt, Germany, where we have one of our offices. That’s why we sometimes call the time that we get together, on-sites. However, during the COVID-pandemic, these get-togethers [have become virtual as well](https://bryter.com/press-news/how-to-host-a-virtual-company-gathering-that-creates-magic/).
+**Being remote-first means we work extra hard to foster relationships, including daily coffees (only rule is don’t talk about work!) and an in-person get-together every quarter where we spend the time strategizing, planning as well as just talking, having fun and getting to know each other better. To date we have always done this in Frankfurt, Germany, where we have one of our offices. That’s why we sometimes call the time that we get together, on-sites. However, during the COVID-pandemic, these get-togethers [have become virtual as well](https://bryter.com/press-news/how-to-host-a-virtual-company-gathering-that-creates-magic/).**
