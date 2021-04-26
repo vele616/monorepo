@@ -8,7 +8,7 @@ blog: true
 author: davidabram
 ---
 
-It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. The best way is to write a project from scratch, which is super time-consuming. We have prepared some exercises to help out the beginner devs to solidify their understanding of **callbacks**. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
+It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of **callbacks**. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
 
 If you need some additional help, you can check out our [Functions video](https://youtu.be/VkjE7CebnPQ) from **#lockdown learning** series in which we discuss **functions and callbacks** or contact the author of the article directly.
 
