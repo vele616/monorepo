@@ -22,6 +22,14 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
     <Layout stickyFooter>
       <Helmet>
         <title>{`${post.frontmatter.title} | ${post.frontmatter.category}`}</title>
+        <meta
+          content={`${post.frontmatter.title} | ${post.frontmatter.category}`}
+          name="twitter:text:title"
+        />
+        <meta
+          content={`${post.frontmatter.title} | ${post.frontmatter.category}`}
+          property="og:title"
+        />
         <meta content={post.frontmatter.description} name="description" />
         <meta
           content={post.frontmatter.description}
