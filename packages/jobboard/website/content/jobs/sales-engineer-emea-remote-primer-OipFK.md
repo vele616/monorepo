@@ -1,18 +1,18 @@
 ---
-title: "Sales Engineer - EMEA, Remote"
+title: "Sales Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/9BE81FAAC1/"
 applyUrl: "https://apply.workable.com/primer-api/j/9BE81FAAC1/apply/"
 timestamp: 1619395200000
-hashtags: "#sales,#marketing,#translation,#ui/ux"
+hashtags: "#sales,#marketing,#ui/ux,#translation"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
-summary: "Interested in new opportunities and have experience working in a fast? Primer has a job opening for a sales engineer."
+summary: "Interested in new opportunities and have previous experience in a pre-sales role with a complex API product, ideally in payments? Primer has a job opening for a Sales Engineer."
 summaryBackup: "Primer is looking for a sales engineer that has experience in: #sales, #marketing, #translation."
-featured: 20
+featured: 9
 ---
 
 ## Description
