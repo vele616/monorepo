@@ -9,6 +9,7 @@ import { Helmet } from "react-helmet";
 
 export const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark;
+  const { siteUrl } = data.site.siteMetadata;
   const { author, similiarPosts } = pageContext;
   const posts = similiarPosts.map((p) => ({
     id: p.id,
@@ -20,6 +21,7 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
   return (
     <Layout stickyFooter>
       <Helmet>
+        <title>{`${post.frontmatter.title} | ${post.frontmatter.category}`}</title>
         <meta content={post.frontmatter.description} name="description" />
         <meta
           content={post.frontmatter.description}
@@ -28,6 +30,14 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
         <meta
           content={post.frontmatter.description}
           property="og:description"
+        />
+        <meta
+          content={`${siteUrl}${post.frontmatter.image.publicURL}`}
+          name="twitter:image"
+        />
+        <meta
+          content={`${siteUrl}${post.frontmatter.image.publicURL}`}
+          property="og:image"
         />
       </Helmet>
       <Header
@@ -44,6 +54,11 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
@@ -57,6 +72,7 @@ export const pageQuery = graphql`
         description
         title
         image {
+          publicURL
           childImageSharp {
             fluid(maxHeight: 1200, quality: 90) {
               ...GatsbyImageSharpFluid_withWebp

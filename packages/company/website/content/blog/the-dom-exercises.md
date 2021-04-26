@@ -1,14 +1,16 @@
 ---
 title: "The DOM"
-description: ""
-category: "learn javascript"
+description: "The DOM or the Document Object Model of the page is created after the web page is loaded. Learn some DOM manuipulation with these exercises."
+category: "Learn JavaScript"
 image: "../images/blogs/dom.png"
 date: 1619463600
 blog: true
 author: lukaucur
 ---
 
-The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it JavaScript can access and change all the elements of an HTML document. The following excercises are meant to teach you to effectively manipulate the content and style of HTML elements.
+The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it JavaScript can access and change all the elements of an HTML document. 
+
+The following excercises are meant to teach you to effectively manipulate the content and style of HTML elements.
 
 <br/>
 <br/>

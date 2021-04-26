@@ -1,18 +1,28 @@
 ---
-title: "JavaScript Callbacks"
-description: ""
-category: "learn javascript"
+title: "Callbacks"
+description: "Callbacks are so common in JavaScript, you certianly used callbacks without knowing they're called that. Let's try to solve some exercises that will help you learn callbacks in JavaScript."
+category: "Learn JavaScript"
 image: "../images/blogs/callbacks.png"
 date: 1619463600
 blog: true
 author: davidabram
 ---
 
-As a JavaScript developer, you will come across arrays. Arrays of numbers, arrays of objects, arrays of arrays of objects, multi-dimensional arrays, and you will need to simplify, transform or manipulate with them. 
+Callbacks are a critical concept in JavaScript and you won't get very far without knowing how to use them. They are often confusing to experienced developers as to begginers. A callback is nothing more than a function that is passed into another function as an argument to be executed later.
 
-You could use nested for loops to solve most of the problems you will encounter, but that leaves the code hard to read and understand. I would like to prove to you that by using map, filter, and reduce array methods, not only that the code will be more readable, but you will be able to analyze the problem and write the code with ease.
+They are so common in JavaScript, you certianly used callbacks without knowing they're called that. You probably wrote similar snippet multiple times: 
 
-The next exercises aim to help out the beginner devs to solidify their understanding of map, filter, reduce, and other array methods that are useful to master. Every exercise has a brief description of the problem, input code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
+```javascript
+
+const button = document.querySelector('button');
+
+button.addEventListener('click', (e) => {
+  this.classList.add('clicked')
+});
+
+```
+
+The second parameter passed into addEventListener is actually a callback. I have compiled some exercises to improve your understanding of callbacks. Try not to skip them as some code is reused in later exercises.
 
 <br/>
 <br/>

@@ -24,9 +24,19 @@ export default function Blog({ data }) {
   return (
     <Layout stickyFooter>
       <Helmet>
-        <meta content="" name="description" />
-        <meta content="" name="twitter:description" />
-        <meta content="" property="og:description" />
+        <title>{"Blog | CroCoder"}</title>
+        <meta
+          content="Tips and ideas to help you learn, build and improve your projects."
+          name="description"
+        />
+        <meta
+          content="Tips and ideas to help you learn, build and improve your projects."
+          name="twitter:description"
+        />
+        <meta
+          content="Tips and ideas to help you learn, build and improve your projects."
+          property="og:description"
+        />
       </Helmet>
       <Header />
       <MostRecent featuredPost={featured} post1={post1} post2={post2} />
