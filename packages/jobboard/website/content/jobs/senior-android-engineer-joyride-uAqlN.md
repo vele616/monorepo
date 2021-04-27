@@ -13,6 +13,7 @@ companyWebsite: "http://www.joyridedating.com/"
 summary: "If you have experience working in a variety of different platforms and technologies, Joyride is looking for someone with your knowledge."
 summaryBackup: "Joyride is looking for a senior android engineer that has experience in: #android, #git, #scrum."
 featured: 4
+archived: "true"
 ---
 
 ## 👏 ABOUT US

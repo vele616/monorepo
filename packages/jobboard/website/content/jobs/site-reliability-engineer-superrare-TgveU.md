@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "Interested in new opportunities and have 2+ years of experience in software development, DevOps, IT admin or similar technical role? SuperRare has a job opening for a Site Reliability Engineer."
 summaryBackup: "To apply as a site reliability engineer at Superrare, you preferably need to have some knowledge of: #javascript, #docker, #terraform."
 featured: 7
+archived: "true"
 ---
 
 ## About SuperRare

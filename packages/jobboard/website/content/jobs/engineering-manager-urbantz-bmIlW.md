@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Interested in new opportunities and have 2+ years of successfully managing remote people? Urbantz has a job opening for an Engineering Manager."
 summaryBackup: "Love #css, #operations, #javascript? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Is managing people in a technology environment your passion? Do you thrive in a fast-changing scaling environment? Then become our new Engineering Manager!
