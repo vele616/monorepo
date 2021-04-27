@@ -3,16 +3,16 @@ title: "Director of Engineering"
 location: "Brooklyn, NY - Remote OK"
 host: "https://superrare.breezy.hr/"
 companyName: "superrare"
-url: "https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering"
+url: "#ui/ux,"
 applyUrl: "https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering/apply"
 timestamp: 1619481600000
-hashtags: "#ui/ux,#management,#marketing,#office,#socialmedia"
+hashtags: "#management,#operations,#crypto,#marketing,#office,#ui/ux,#socialmedia"
 jobType: "other"
 
 companyWebsite: "https://superrare.co/"
-summary: "Interested in new opportunities and have 8+ years experience and 4+ years leadership experience? Superrare has a job opening for a director of engineering."
+summary: "Interested in new opportunities and have 8+ years experience and 4+ years leadership experience at a startup? Superrare has a job opening for a Director of Engineering."
 summaryBackup: "Superrare is looking for a director of engineering that has experience in: #ui/ux, #management, #marketing."
-featured: 20
+featured: 10
 ---
 
 ## About SuperRare
