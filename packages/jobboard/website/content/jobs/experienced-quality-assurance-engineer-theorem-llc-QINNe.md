@@ -1,18 +1,18 @@
 ---
-title: "Experienced Quality Assurance Engineer"
+title: "Quality Assurance Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/b9a1d016-32b6-4940-a267-571296bd146f"
 applyUrl: "https://jobs.lever.co/theorem/b9a1d016-32b6-4940-a267-571296bd146f/apply"
 timestamp: 1619481600000
-hashtags: "#ui/ux,#nodejs,#python,#rubylang,#management,#operations,#socialmedia,#scrum,#office,#finance"
-jobType: "other"
+hashtags: "#qa,#nodejs,#python,#ui/ux,#rubylang,#management,#operations,#socialmedia,#scrum,#office,#finance"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have 5+ years of professional experience working as a Quality Assurance Engineer and/or Software Engineer, Theorem, LLC is looking for someone with your skillset."
+summary: "If you have 5+ years of professional experience working as a Quality Assurance Engineer and/or Software Engineer, Theorem is looking for someone with your skillset."
 summaryBackup: "To apply as an experienced quality assurance engineer at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #nodejs, #python."
-featured: 20
+featured: 7
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
