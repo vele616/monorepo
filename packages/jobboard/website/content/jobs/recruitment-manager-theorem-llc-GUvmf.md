@@ -6,13 +6,13 @@ companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/476931e5-0aa5-4d4f-bcbe-31aa07b2fc29"
 applyUrl: "https://jobs.lever.co/theorem/476931e5-0aa5-4d4f-bcbe-31aa07b2fc29/apply"
 timestamp: 1619481600000
-hashtags: "#operations,#ui/ux,#management,#socialmedia,#office,#finance,#optimization"
+hashtags: "#HR,#operations,#management,#ui/ux,#socialmedia,#office,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
-summary: "If you have 5+ years experience as a technical recruiter, consider applying to Theorem, LLC's job post for a new recruitment manager."
+summary: "If you have 5+ years experience as a technical recruiter, consider applying to Theorem's job post for a new Recruitment Manager."
 summaryBackup: "Theorem, LLC is looking for a recruitment manager that has experience in: #operations, #ui/ux, #management."
-featured: 20
+featured: 9
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
