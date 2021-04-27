@@ -2,20 +2,20 @@
 title: "Customer Support Team Manager"
 location: "Toronto, ON"
 host: "https://veeqo-ltd.breezy.hr/"
-companyName: "veeqo-ltd"
+companyName: "veeqo ltd"
 url: "https://veeqo-ltd.breezy.hr/p/d456911f914f01-customer-support-team-manager"
 applyUrl: "https://veeqo-ltd.breezy.hr/p/d456911f914f01-customer-support-team-manager/apply"
 timestamp: 1619481600000
-hashtags: "#management,#operations,#css,#office"
+hashtags: "#management,#customersupport,#operations,#css,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/veeqo-ltd"
 companyWebsite: "https://www.veeqo.com/"
-summary: "If you have multiple years of experience working in a customer support role, with progressive experience in managing teams, Veeqo-ltd is looking for someone with your knowledge."
+summary: "If you have multiple years of experience working in a customer support role, with progressive experience in managing teams, Veeqo is looking for someone with your knowledge."
 summaryBackup: "Veeqo-ltd is looking for a customer support team manager that has experience in: #management, #operations, #css."
-featured: 20
+featured: 7
 ---
 
-Job Overview:
+## Job Overview:
 
 In this role, you will oversee the activities and operations of the customer support team, and develop and implement strategies to deliver Veeqo’s vision of making excellent Customer Support a true feature of our product.
 
