@@ -1,18 +1,18 @@
 ---
 title: "UX Researcher"
-location: ""
+location: "remote"
 host: "https://irl.breezy.hr/"
 companyName: "irl"
 url: "https://irl.breezy.hr/p/4ad828aa908d-ux-researcher"
 applyUrl: "https://irl.breezy.hr/p/4ad828aa908d-ux-researcher/apply"
 timestamp: 1619481600000
-hashtags: "#ui/ux,#management,#socialmedia,#translation"
+hashtags: "#ui/ux,#analysis,#management,#socialmedia,#translation"
 jobType: "other"
 
 companyWebsite: "https://irl.breezy.hr/"
-summary: "If you have experience working with product managers, designers, and engineering leads, Irl is looking for someone with your knowledge."
+summary: "If you have solid understanding of UX Research methods with the ability to choose and articulate study design to stakeholders, IRL is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #socialmedia? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Company Overview
