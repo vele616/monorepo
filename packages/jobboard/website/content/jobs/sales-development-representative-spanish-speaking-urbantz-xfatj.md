@@ -1,18 +1,18 @@
 ---
-title: "Sales Development Representative - Spanish Speaking"
+title: "Sales Development Representative"
 location: "Spain - Remote OK"
 host: "https://urbantz.breezy.hr/"
 companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/e79e3cf4965f-sales-development-representative-spanish-speaking"
 applyUrl: "https://urbantz.breezy.hr/p/e79e3cf4965f-sales-development-representative-spanish-speaking/apply"
 timestamp: 1619481600000
-hashtags: "#sales,#css,#marketing,#operations,#windows,#management,#English"
+hashtags: "#sales,#Spanish,#marketing,#operations,#css,#windows,#management,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Urbantz is looking for a sales development representative that has 6 years of prospecting experience and a a track record of performance in a previous similar role."
+summary: "Urbantz is looking for a Sales Sevelopment Representative that has 3 to 6 years of prospecting experience and a a track record of performance in a previous similar role."
 summaryBackup: "To apply as a sales development representative at Urbantz, you preferably need to have some knowledge of: #sales, #css, #marketing."
-featured: 20
+featured: 11
 ---
 
 ## Do you want to work to make an impact?
@@ -48,7 +48,7 @@ In this role, you will:
 
 You are energetic and positive-minded and wish to pursue a career in sales.
 
-*   Your level of Spanish must be close to native and you speak proficient level of English.
+*   Your level of **Spanish** must be close to native and you speak proficient level of English.
 *   You have 3 to 6 years of prospecting experience and a a track record of performance in a previous similar role.
 *   At least one experience in SaaS or software selling is a big big plus.
 *   You are eager to pick up the phone and talk with leads.
@@ -70,4 +70,3 @@ This is a great opportunity to take ownership and get support in implementing yo
 
 If you want to just “work” somewhere, we probably aren’t the right place. If you want to make a serious difference and build an amazing sales machine that you can be proud of, we want to see you!
 
-## _#TogetherWeDeliver_
