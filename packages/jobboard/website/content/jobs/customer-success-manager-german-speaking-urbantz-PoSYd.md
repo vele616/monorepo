@@ -1,18 +1,18 @@
 ---
-title: "Customer Success Manager - German Speaking"
+title: "Customer Success Manager"
 location: "Brussels, BE"
 host: "https://urbantz.breezy.hr/"
 companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/208a39976bc1-customer-success-manager-german-speaking"
 applyUrl: "https://urbantz.breezy.hr/p/208a39976bc1-customer-success-manager-german-speaking/apply"
 timestamp: 1619481600000
-hashtags: "#management,#css,#operations,#windows,#sales,#marketing,#office,#German,#translation,#analysis"
+hashtags: "#management,#operations,#German,#css,#windows,#sales,#marketing,#office,#translation,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "Urbantz intends to hire a new customer success manager. If you have strong experience with Customer Success or Account Management in a SaaS company with a proven track record of successfully building customer, consider applying."
+summary: "Urbantz intends to hire a new Customer Success Manager. If you have strong experience with Customer Success or Account Management in a SaaS company with a proven track record of successfully building customer-centric relationships, consider applying."
 summaryBackup: "To apply as a customer success manager at Urbantz, you preferably need to have some knowledge of: #management, #css, #operations."
-featured: 20
+featured: 15
 ---
 
 Urbantz is growing. Our team is on the hunt for a dynamic, high-performing and experienced Customer Success Manager to focus on our DACH region's clients.
@@ -44,7 +44,7 @@ You will:
 *   Drive growth in your customers portfolio and collaborate with the sales team by identifying upsell opportunities
 *   Establish long term relationships with your customers portfolio and manage escalations of issues and risks
 
-About You
+## About You
 
 *   Proactive with a problem solving attitude
 *   Structured & a analytical skills
