@@ -6,13 +6,13 @@ companyName: "Overleaf"
 url: "https://apply.workable.com/overleaf/j/F8E83AAD79/"
 applyUrl: "https://apply.workable.com/overleaf/j/F8E83AAD79/apply/"
 timestamp: 1619481600000
-hashtags: "#css,#marketing,#analytics,#ui/ux,#management,#sales,#socialmedia,#analysis,#monitoring,#finance"
+hashtags: "#monitoring,#management,#analytics,#marketing,#ui/ux,#sales,#socialmedia,#analysis,#css,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/overleaf"
 companyWebsite: "https://www.overleaf.com/"
-summary: "If you have 3 years of relevant experience, Overleaf is looking for someone with your knowledge."
+summary: "If you have a minimum of 2–3 years of relevant experience, Overleaf is looking for someone with your knowledge."
 summaryBackup: "Love #css, #marketing, #analytics? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Description
@@ -112,7 +112,7 @@ Experience with the technologies we use is always a plus, but you don't need to 
 *   Salary £40k–£60k per year depending on experience.
 *   You would join a small, dedicated and growing team.
 *   We're substantially (around 80%) open source, so your work will often be on open source.
-*   We're backed by Bethnal Green Ventures (https://bethnalgreenventures.com/) and Digital Science (https://www.digital-science.com/), through which we're part of a wider community of startups in science, health and ed-tech.
+*   We're backed by [Bethnal Green Ventures](https://bethnalgreenventures.com/) and [Digital Science](https://www.digital-science.com/), through which we're part of a wider community of startups in science, health and ed-tech.
 *   Our London office is shared with several other Digital Science companies, so there's lots of interesting people to meet, and clubs and sports activities outside of work.
 *   You can pick your own equipment. MacBook Pro? Lenovo ThinkPad? Notebook and pen? However you like to work, we'll provide what you need.
 *   We provide a training budget; many of our staff choose to attend relevant industry conferences or buy training materials.
