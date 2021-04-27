@@ -1,18 +1,18 @@
 ---
-title: "Paid Social Media Marketing Expert"
+title: "Social Media Marketing Expert"
 location: "Remote - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
-companyName: "piggy-llc"
+companyName: "piggy llc"
 url: "https://piggy-llc.breezy.hr/p/648fb69b816e-paid-social-media-marketing-expert"
 applyUrl: "https://piggy-llc.breezy.hr/p/648fb69b816e-paid-social-media-marketing-expert/apply"
 timestamp: 1619481600000
-hashtags: "#marketing,#socialmedia,#html,#office,#content,#management,#analysis,#monitoring,#optimization"
+hashtags: "#marketing,#socialmedia,#analysis,#html,#office,#content,#management,#monitoring,#optimization"
 jobType: "other"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "Piggy-llc intends to hire a new paid social media marketing expert. If you have 5+ years proven experience in performance marketing utilizing social networks including TikTok, Facebook, Snapchat, Twitter and others, consider applying."
+summary: "Piggy intends to hire a new Social Media Marketing Expert. If you have 5+ years proven experience in performance marketing utilizing social networks including TikTok, Facebook, Snapchat, Twitter and others, consider applying."
 summaryBackup: "Excited about #marketing, #socialmedia, #html? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 [Piggy, LLC](https://www.joinpiggy.com/) is looking for the highest quality Paid Social marketing expert to assist in launching and monitoring its paid social ad campaigns. You should have demonstrated subject-matter-expertise in multiple social networks and show a a analytical mindset.
