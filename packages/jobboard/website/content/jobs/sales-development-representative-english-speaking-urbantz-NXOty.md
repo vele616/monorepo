@@ -1,18 +1,18 @@
 ---
-title: "Sales Development Representative - English Speaking"
+title: "Sales Development Representative"
 location: "United Kingdom - Remote OK"
 host: "https://urbantz.breezy.hr/"
 companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/b3f1ed49290f-sales-development-representative-english-speaking"
 applyUrl: "https://urbantz.breezy.hr/p/b3f1ed49290f-sales-development-representative-english-speaking/apply"
 timestamp: 1619481600000
-hashtags: "#sales,#css,#marketing,#operations,#windows,#management,#English"
+hashtags: "#sales,#management,#English,#css,#marketing,#operations,#windows"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "If you have 2-3+ years of prospecting experience, and a a track record of performance in a previous similar role, Urbantz is looking for someone with your knowledge."
+summary: "If you have at least one experience in SaaS or software selling, Urbantz is looking for someone with your knowledge."
 summaryBackup: "To apply as a sales development representative at Urbantz, you preferably need to have some knowledge of: #sales, #css, #marketing."
-featured: 20
+featured: 6
 ---
 
 Do you want to work to make an impact?
@@ -47,7 +47,7 @@ As a Sales Development Representative, you will be a key member of our sales tea
 You are energetic and positive-minded and wish to pursue a career in sales.
 
 *   Your level of English must be close to native, any other language is a plus.
-*   You have 2-3+ years of prospecting experience, and a a track record of performance in a previous similar role.
+*   You have 2-3+ years of prospecting experience, and a track record of performance in a previous similar role.
 *   You have at least one experience in SaaS or software selling.
 *   You are eager to pick up the phone and talk with leads.
 *   You want to take initiative, tackle new obstacles, and solve problems we have not encountered before.
@@ -67,5 +67,3 @@ This is not a “come to work and do the same thing everyday” business. Here's
 This is a great opportunity to take ownership and get support in implementing your ideas and initiatives.
 
 If you want to just “work” somewhere, we probably aren’t the right place. If you want to make a serious difference and build an amazing sales machine that you can be proud of, we want to see you!
-
-_#TogetherWeDeliver_
