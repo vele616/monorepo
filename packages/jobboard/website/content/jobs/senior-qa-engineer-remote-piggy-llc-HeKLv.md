@@ -1,18 +1,18 @@
 ---
-title: "Senior QA Engineer (Remote)"
+title: "Senior QA Engineer"
 location: "London, GB - Remote OK"
 host: "https://piggy-llc.breezy.hr/"
-companyName: "piggy-llc"
+companyName: "piggy llc"
 url: "https://piggy-llc.breezy.hr/p/d75ca34ef891-senior-qa-engineer-remote"
 applyUrl: "https://piggy-llc.breezy.hr/p/d75ca34ef891-senior-qa-engineer-remote/apply"
 timestamp: 1619481600000
-hashtags: "#javascript,#ui/ux,#management,#css,#html,#office,#scrum,#German,#French,#monitoring"
-jobType: "other"
+hashtags: "#javascript,#qa,#html,#ui/ux,#management,#css,#office,#scrum,#German,#French,#monitoring"
+jobType: "software"
 
 companyWebsite: "https://piggy-llc.breezy.hr/"
-summary: "If you have experience working on various Agile development methodologies, and having a opinions on them, Piggy-llc is looking for someone with your skillset."
-summaryBackup: "To apply as a senior qa engineer at Piggy-llc, you preferably need to have some knowledge of: #javascript, #ui/ux, #management."
-featured: 20
+summary: "If you have xxperience designing test strategies and orchestrating work on multiple teams to create highly efficient QA process and a very high-quality bar, Piggy-llc is looking for someone with your skillset."
+summaryBackup: "To apply as a Senior QA Engineer at Piggy, you preferably need to have some knowledge of: #javascript, #ui/ux, #management."
+featured: 10
 ---
 
 Joinpiggy.com is looking for the highest-caliber QA engineer to join its technical team’s expansion. Remote-based candidates should be based in European time zones or willing to work in such time zones. Simply put, your job will be to break our frontend and backend systems on a continuous basis and with each new release cycle.
