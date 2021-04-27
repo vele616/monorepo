@@ -6,13 +6,13 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/d28603d6221d-tech-lead"
 applyUrl: "https://urbantz.breezy.hr/p/d28603d6221d-tech-lead/apply"
 timestamp: 1619481600000
-hashtags: "#css,#operations,#javascript,#angular,#management,#windows,#kubernetes,#aws,#azure,#marketing"
+hashtags: "#javascript,#nodejs,#management,#css,#operations,#angular,#windows,#kubernetes,#aws,#azure,#marketing"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "If you have 1+ years of successfully leading a remote people, consider applying to Urbantz's job post for a new tech lead."
+summary: "If you have 1+ years of successfully leading a remote people, consider applying to Urbantz's job post for a new Tech Lead."
 summaryBackup: "Love #css, #operations, #javascript? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Is improving technology along side your coworkers your passion? Do you thrive in a fast-changing scaling environment? Then become our new Technical Lead!
@@ -42,13 +42,15 @@ You will:
 *   Guide our product and technical evolution, and drive reductions in technical debt
 *   Evaluate and improve our technology strategy
 
-About Our Stack
+## About Our Stack
 
 *   We migrated from AWS ECS to Azure using Kubernetes for container-orchestration. Our main data store is MongoDB hosted on Mongo Atlas, but we also use Elasticsearch for some corner-case full-text search needs. Our backend and API code runs on Node.js, while the front-end web application is written in AngularJS and we are looking into migrating it.
 
 *   Our toolset also counts with single-command, build & deploy tasks for both production and staging environments, working along with GitLab CI. We use Protractor for the end-to-end testing and Jest for the back-end unit testing.
 
-About you A proven track record and 1+ years of successfully leading a remote people (a team of 4-8 remote Software Engineers)
+## About you 
+
+A proven track record and 1+ years of successfully leading a remote people (a team of 4-8 remote Software Engineers)
 
 *   A willingness and passion for mentorship
 *   Have min 6 years of experience as a Software Developer
@@ -69,4 +71,3 @@ About you A proven track record and 1+ years of successfully leading a remote pe
 
 If you desire to work to change the future of cities, then this is your chance: don't hesitate and apply now!
 
-_#TogetherWeDeliver_
