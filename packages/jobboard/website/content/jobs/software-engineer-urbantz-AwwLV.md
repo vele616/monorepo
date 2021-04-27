@@ -6,13 +6,13 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/867976e3f666-software-engineer"
 applyUrl: "https://urbantz.breezy.hr/p/867976e3f666-software-engineer/apply"
 timestamp: 1619481600000
-hashtags: "#javascript,#operations,#angular,#nodejs,#kubernetes,#css,#mongodb,#docker,#aws,#azure"
+hashtags: "#javascript,#kubernetes,#mongodb,#operations,#angular,#nodejs,#css,#docker,#aws,#azure"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "If you have 5 years, consider applying to Urbantz's job post for a new software engineer."
+summary: "To apply as a Software Engineer at Urbantz, you preferably need to have some knowledge of: #javascript, #kubernetes, #mongodb."
 summaryBackup: "To apply as a software engineer at Urbantz, you preferably need to have some knowledge of: #javascript, #operations, #angular."
-featured: 20
+featured: 6
 ---
 
 ## Your talent and creative mind are needed at Urbantz !
@@ -35,7 +35,7 @@ We’re offering not just a company, but a culture:
 *   Our culture is built on experimentation, constant development, flexibility, and encouragement of initiatives in an international, English speaking work environment.
 *   Our mission is to make last-mile logistics more sustainable for retailers and transport operators by improving their operational efficiency. We bring value to the retail and logistics sector by providing a better client service and help them save on deliveries.
 
-About the Team
+## About the Team
 
 “Think, try, fail, collaborate and grow a better developer.”
 
@@ -80,4 +80,3 @@ You are positive minded and like to find ways to constantly improve in what you 
 3.  Interview with CTO/Technical leads
 4.  Technical test
 
-_#TogetherWeDeliver_
