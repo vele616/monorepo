@@ -13,6 +13,7 @@ companyWebsite: "https://www.veeqo.com/"
 summary: "To apply as a Customer Support Team Manager at Veeqo, you preferably need to have multiple years of experience working in a customer support role, with progressive experience in managing teams."
 summaryBackup: "To apply as a customer support team manager at Veeqo-ltd, you preferably need to have some knowledge of: #management, #operations, #css."
 featured: 10
+archived: "true"
 ---
 
 Job Overview:

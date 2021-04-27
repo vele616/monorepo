@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "Theorem is looking for a Product Strategist that has experience in: #management, #operations #analysis."
 summaryBackup: "Theorem, LLC is looking for a product strategist that has experience in: #ui/ux, #management, #operations."
 featured: 15
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
