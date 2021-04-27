@@ -6,13 +6,13 @@ companyName: "urbantz"
 url: "https://urbantz.breezy.hr/p/13374950456a-platform-engineer"
 applyUrl: "https://urbantz.breezy.hr/p/13374950456a-platform-engineer/apply"
 timestamp: 1619481600000
-hashtags: "#operations,#css,#javascript,#reactjs,#angular,#python,#golang,#terraform,#cordova,#kubernetes"
+hashtags: "#javascript,#terraform,#operations,#css,#reactjs,#angular,#python,#golang,#cordova,#kubernetes"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/urbantz"
 companyWebsite: "https://urbantz.com/"
-summary: "If you have have proven experiences with Infrastructure as Code tools, Urbantz has a job opening for a platform engineer"
+summary: "If you have an extended software development experience, including building/scaling large throughput systems, building & operating a web platform, ideally a SaaS product using cloud technologies, Urbantz has a job opening for a Platform Engineer"
 summaryBackup: "Urbantz is looking for a platform engineer that has experience in: #operations, #css, #javascript."
-featured: 20
+featured: 8
 ---
 
 Do you like to work to have a positive impact?Become our new Platform Engineer!
@@ -31,7 +31,7 @@ We’re offering not just a company, but a culture:
 *   Our culture is built on experimentation, constant development, flexibility, and encouragement of initiatives in an international, English speaking work environment.
 *   Our mission is to make last-mile logistics more sustainable for retailers and transport operators by improving their operational efficiency. We bring value to the retail and logistics sector by providing a better client service and help them save on deliveries.
 
-Your journey at URBANTZ
+## Your journey at URBANTZ
 
 As a Platform Engineer, your goal is to help us build an internal platform to speed up the delivery of our product team. For that you will:
 
@@ -68,4 +68,3 @@ Diversity and flexibility, nice colleagues, fun company activities (even for rem
 
 If you desire to work to make teamwork better: don’t hesitate and apply now!
 
-_#TogetherWeDeliver_
