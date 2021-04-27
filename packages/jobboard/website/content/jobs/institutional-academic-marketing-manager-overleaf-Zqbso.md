@@ -1,18 +1,18 @@
 ---
-title: "Institutional/Academic Marketing Manager"
+title: "Institutional Marketing Manager"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/overleaf/"
 companyName: "Overleaf"
 url: "https://apply.workable.com/overleaf/j/298B141F6C/"
 applyUrl: "https://apply.workable.com/overleaf/j/298B141F6C/apply/"
 timestamp: 1619481600000
-hashtags: "#marketing,#sales,#css,#management,#analytics,#branding,#office,#socialmedia,#translation,#crm"
+hashtags: "#marketing,#management,#sales,#css,#analytics,#branding,#office,#socialmedia,#translation,#crm"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/overleaf"
 companyWebsite: "https://www.overleaf.com/"
-summary: "If you have previous working experience within a marketing role for 3+ years, consider applying to Overleaf's job post for a new institutional."
+summary: "If you have previous working experience within a marketing role for 3+ years, consider applying to Overleaf's job post for a new Institutional Marketing Manager."
 summaryBackup: "Love #marketing, #sales, #css? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Description
@@ -85,7 +85,7 @@ This is a remote position ideally based in the US (in or close to the east coast
 
 *   Remote and flexible working.
 *   You would join a small, dedicated, and growing team.
-*   We're part of Digital Science (https://www.digital-science.com/) and backed by Bethnal Green Ventures (https://bethnalgreenventures.com/), through which we're part of a wider community of startups in science, health and ed-tech.
+*   We're part of [Digital Science](https://www.digital-science.com/) and backed by [Bethnal Green Ventures](https://bethnalgreenventures.com/), through which we're part of a wider community of startups in science, health and ed-tech.
 *   You can pick your own equipment. MacBook Pro? Lenovo ThinkPad? Notebook and pen? However you like to work, we'll provide what you need.
 *   We provide a training budget; many of our staff choose to attend relevant industry conferences or buy training materials.
 *   We run a biweekly internal seminar series (show and tell) with short talks from staff about their work or personal projects, new technologies and techniques.
