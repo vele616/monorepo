@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Interested in new opportunities and have 2-3 years of experience in a game design role? DECA Games has a job opening for a Game Design Systems."
 summaryBackup: "Love #ui/ux, #content, #unity? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 DECA Games is looking for a talented Systems Designer / Balancer to join our growing team and help us create new and exciting features. A Systems Designer / Balancer is responsible for assisting with the conception and implementation of systems that drive player investment in their character and providing a positive environment for the multiplayer and social interactions they have with others. You will work closely with the engineers to develop engaging systems that keep players coming back.

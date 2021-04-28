@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Interested in new opportunities and have 2+ years’ experience in quality control and assurance? Deca-games has a job opening for a qa tester."
 summaryBackup: "Deca-games is looking for a qa tester that has experience in: #git, #jira, #English."
 featured: 20
+archived: "true"
 ---
 
 ## Who we’re looking

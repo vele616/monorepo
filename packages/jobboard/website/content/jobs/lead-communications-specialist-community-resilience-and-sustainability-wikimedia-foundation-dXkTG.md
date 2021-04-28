@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "If you have experience working across digital platforms, consider applying to Wikimedia Foundation's job post for a new Lead Communications Specialist."
 summaryBackup: "Love #content, #operations, #management? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Lead Communications Specialist (Community Resilience and Sustainability)
