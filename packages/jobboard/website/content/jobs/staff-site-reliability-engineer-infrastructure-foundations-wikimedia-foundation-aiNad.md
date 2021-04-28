@@ -1,18 +1,18 @@
 ---
-title: "Staff Site Reliability Engineer, Infrastructure Foundations"
+title: "Staff Site Reliability Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/wikimedia"
 companyName: "Wikimedia Foundation"
 url: "https://boards.greenhouse.io/wikimedia/jobs/3006568"
 applyUrl: "https://boards.greenhouse.io/wikimedia/jobs/3006568#app"
 timestamp: 1619568000000
-hashtags: "#operations,#ui/ux,#management,#python,#golang,#ansible,#puppet,#linux,#content,#monitoring"
+hashtags: "#operations,#ui/ux,#python,#golang,#ansible,#puppet,#management,#linux,#content,#monitoring"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
-summary: "Wikimedia Foundation is searching for a staff site reliability engineer that has 5+ years experience in an SRE/Operations/DevOps role as part of a team."
+summary: "Wikimedia Foundation is searching for a Staff Site Reliability Engineer that has 5+ years experience in an SRE/Operations/DevOps role as part of a team."
 summaryBackup: "Excited about #operations, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 ## Staff Site Reliability Engineer, Infrastructure Foundations
@@ -58,9 +58,9 @@ We are a globally distributed and diverse team of engineers with a drive to expl
 
 ...the nonprofit organization that hosts and operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive financial support from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.
 
-## _As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics._
+**_As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics._**
 
-## _If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or (415) 839-6885._
+**_If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or (415) 839-6885._**
 
 ## U.S. Benefits & Perks\*
 
@@ -81,4 +81,23 @@ We are a globally distributed and diverse team of engineers with a drive to expl
 
 ## More information
 
-## [Wikimedia Foundation](https://wikimediafoundation.org/)[**Blog**](https://wikimediafoundation.org/news/)[**Wikimedia 2030**](https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017)[**Wikimedia Medium Term Plan**](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019)[**Our Commitment to Equity**](https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca)[**This is Wikimedia Foundation**](https://www.youtube.com/watch?v=OQzZI0l3IOw) [**Facts Matter**](https://www.youtube.com/watch?v=xQ4ba28-oGs)[**Our Projects**](https://wikimediafoundation.org/wiki/Our_projects)[**Our Tech Stack**](https://meta.wikimedia.org/wiki/Wikimedia_servers#System_architecture)
+[**Wikimedia Foundation**](https://wikimediafoundation.org/)
+
+[**Blog**](https://wikimediafoundation.org/news/)
+
+[**Wikimedia 2030**](https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017)
+
+[**Wikimedia Medium Term Plan**](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019)
+
+[**Our Commitment to Equity**](https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca)
+
+[**This is Wikimedia Foundation**](https://www.youtube.com/watch?v=OQzZI0l3IOw) 
+
+[**Facts Matter**](https://www.youtube.com/watch?v=xQ4ba28-oGs)
+
+[**Our Projects**](https://wikimediafoundation.org/wiki/Our_projects)
+
+[**Our Tech Stack**](https://techblog.wikimedia.org/)
+
+
+
