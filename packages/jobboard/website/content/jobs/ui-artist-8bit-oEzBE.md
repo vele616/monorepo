@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have a portfolio that demonstrates a strong sense of design, illustration capabilities, and experience with typography, consider applying to 8Bit's job post for a new ui artist."
 summaryBackup: "8Bit is looking for an ui artist that has experience in: #ui/ux, #socialmedia, #photoshop."
 featured: 20
+archived: "true"
 ---
 
 Our client, that is a leader in the social casino and gambling style mobile games, based in Hong Kong is now seeking an ambitious UI Artist to create designs and work with internal Creative Leads to deliver high-quality UI assets to their players.
