@@ -1,18 +1,18 @@
 ---
-title: "Mid / Senior C++ Developer Backend (m/f/d)"
+title: "Mid/Senior C++ Developer"
 location: "Remote Worldwide"
 host: "https://deca-games.breezy.hr/?&location=Worldwide#positions"
-companyName: "deca-games"
+companyName: "deca games"
 url: "https://deca-games.breezy.hr/p/fe143d7bd11201-mid-senior-c-developer-backend-m-f-d"
 applyUrl: "https://deca-games.breezy.hr/p/fe143d7bd11201-mid-senior-c-developer-backend-m-f-d/apply"
 timestamp: 1619568000000
-hashtags: "#ui/ux,#python,#unity,#scrum,#git,#management,#optimization,#English"
+hashtags: "#cplusplus,#python,#unity,#scrum,#git,#ui/ux,#management,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/deca-games"
 companyWebsite: "https://decagames.com/"
-summary: "Deca-games is looking for a mid that has extensive experience with self."
+summary: "Deca Games is looking for a Mid/Senior C++ Developer that has extensive knowledge and understanding of writing high performance networking code."
 summaryBackup: "To apply as a mid at Deca-games, you preferably need to have some knowledge of: #ui/ux, #python, #unity."
-featured: 20
+featured: 6
 ---
 
 ## Who we’re looking for
@@ -45,7 +45,6 @@ This role is a remote role, you can work from everywhere in the world.
 *   Experience with Git
 *   Good knowledge of Unix systems
 *   Basic experience in Python
-
 *   Familiar with Agile Project Management and Scrum
 *   Independent and highly motivated working style that take pleasure from creative work
 *   Ability to communicate effectively and work as part of a team
