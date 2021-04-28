@@ -12,7 +12,7 @@ jobType: "other"
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "If you have 2+ years of experience in leading and mentoring a team, Wikimedia Foundation is looking for someone with your knowledge."
 summaryBackup: "Wikimedia Foundation is looking for a marketing manager that has experience in: #marketing, #management, #content."
-featured: 20
+featured: 6
 ---
 
 ## Marketing Manager
