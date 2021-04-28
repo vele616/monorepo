@@ -3,7 +3,7 @@ title: "Director of Engineering"
 location: "Brooklyn, NY - Remote OK"
 host: "https://superrare.breezy.hr/"
 companyName: "superrare"
-url: "#ui/ux,"
+url: "https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering"
 applyUrl: "https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering/apply"
 timestamp: 1619481600000
 hashtags: "#management,#operations,#crypto,#marketing,#office,#ui/ux,#socialmedia"
