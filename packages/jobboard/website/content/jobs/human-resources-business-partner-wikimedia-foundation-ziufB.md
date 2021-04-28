@@ -10,9 +10,9 @@ hashtags: "#HR,#operations,#management,#office,#windows,#translation,#content,#a
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/wikimedia"
-summary: "Interested in new opportunities and have the position requires a balance of strategic vision and tactical implementation, experience in the intersection of change management and international human resource development, serving as a consultant to employees on human resource? Wikimedia Foundation has a job opening for a human resources business partner."
+summary: "Interested in new opportunities and have experience using data analytics platforms to inform storytelling and presentations? Wikimedia Foundation has a job opening for a Human Resources Business Partner."
 summaryBackup: "Love #HR, #operations, #management? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## HUMAN RESOURCES BUSINESS PARTNER
@@ -26,26 +26,17 @@ This position will report to the VP, Talent and Culture (“T&C”) (to be hired
 ## You are responsible for:
 
 *   In collaboration with Lead HRBPs and T&C, implementing solutions to meet changing business and talent needs to support the Foundation and team objectives, proposing plans which build capability, and delivering against the strategic initiatives of T&C
-
 *   Using quantitative and qualitative data to inform strategies and plans
-
 *   Supporting the  talent review processes to recommend skill building for an employee, team, or manager to achieve their goals
-
 *   Supporting managers and staff with processing changes that arise from recommendations
 *   Providing day-to-day guidance in line with HRBP to employees and managers (i.e. coach, career development)
-
 *   Organizational Development: implementing solutions that improve employee engagement, retention, leadership development, org culture, and productivity
 *   Collaborating on internal and external communications messages with the Lead HRBPs and Chief of Talent & Culture (together with the communications team as necessary)
-
 *   Facilitating department discussions on talent and culture issues
-
 *   Employee Relations: working closely with staff to improve work relationships, build morale, and increase productivity and retention, including mediating complex staff issues with compassion, active listening, and understanding, while maintaining confidentiality
-
 *   Liaising with internal legal counsel, reducing legal risks and ensuring compliance
 *   Tactfully facilitating and counseling managers and employees on a range of performance related issues, providing guidance on corrective action
-
 *   Working with the Learning & Development team to identify training needs for teams and individuals to support staff to prioritize and implement best practices in their respective work areas
-
 *   Providing coaching to employees in a variety of formats (both individually and as a team)
 
 ## Skills and Experience:
@@ -58,18 +49,14 @@ This position will report to the VP, Talent and Culture (“T&C”) (to be hired
 *   HR acumen - Familiar with the complete HR service portfolio including OD and talent management and able to effectively partner with other COE talent acquisition, total rewards, learning & development, people operations and diversity & inclusion
 *   Business acumen- Understand the organization's business strategies and dynamically changing external business competition, conditions and trends. Translate this knowledge into appropriate management and HR actions
 *   OD acumen: experience translating OD strategies into practical business applications at progressively increasing levels of scope and complexity. 
-
 *   Proven ability to collaborate with stakeholders to identify needs and develop solutions
 *   Operates with a global mindset while fostering the open exchange of ideas between people
-
 *   Partnering and influence - Present solutions in ways that are heard, understood and supported. Add insight that positively influences senior management decision-making. Communicate with clarity, conviction and confidence across regions/cultures, including upward when necessary
 *   Personal credibility - Consistently offer quality advice, counsel and insight. Maintain self-esteem and that of others while directly and constructively addressing issues. Create trust and mutual respect
 *   Ability to maximize relationships, build trust and communicate effectively is required in order to analyze HR issues, provide information, direction and advice as described
 *   Proven employee relations experience with ability to navigate sensitive, confidential matters 
-
 *   Experience advising on performance improvement plans including exit interviews 
 *   Experience collaborating with legal team on employment law matters to mitigate risk to the organization and our employees
-
 *   Good technical knowledge of human resources and its role within the business
 *   Possess strong communication, interpersonal, and presentation skills and the ability to deal effectively and professionally with all levels of employees and management. Good analytical skills, problem solving and decision-making skills are required to provide support as described
 *   Excellent planning, time management, prioritization, and organizational skills. The ability to handle competing priorities calmly under pressure and within restricted timeframes is essential
@@ -96,9 +83,9 @@ This position will report to the VP, Talent and Culture (“T&C”) (to be hired
 
 ...the nonprofit organization that hosts and operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge, free of interference. We host the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive financial support from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.
 
-## _As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics._
+**_As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics._**
 
-## _If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or (415) 839-6885._
+**_If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or (415) 839-6885._**
 
 ## U.S. Benefits & Perks\*
 
@@ -119,4 +106,20 @@ This position will report to the VP, Talent and Culture (“T&C”) (to be hired
 
 ## More information
 
-## [Wikimedia Foundation](https://wikimediafoundation.org/)[**Blog**](https://wikimediafoundation.org/news/)[**Wikimedia 2030**](https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017)[**Wikimedia Medium Term Plan**](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019)[**Our Commitment to Equity**](https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca)[**This is Wikimedia Foundation**](https://www.youtube.com/watch?v=OQzZI0l3IOw) [**Facts Matter**](https://www.youtube.com/watch?v=xQ4ba28-oGs)[**Our Projects**](https://wikimediafoundation.org/wiki/Our_projects)[**Our Tech Stack**](https://techblog.wikimedia.org/)
+[**Wikimedia Foundation**](https://wikimediafoundation.org/)
+
+[**Blog**](https://wikimediafoundation.org/news/)
+
+[**Wikimedia 2030**](https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017)
+
+[**Wikimedia Medium Term Plan**](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019)
+
+[**Our Commitment to Equity**](https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca)
+
+[**This is Wikimedia Foundation**](https://www.youtube.com/watch?v=OQzZI0l3IOw) 
+
+[**Facts Matter**](https://www.youtube.com/watch?v=xQ4ba28-oGs)
+
+[**Our Projects**](https://wikimediafoundation.org/wiki/Our_projects)
+
+[**Our Tech Stack**](https://techblog.wikimedia.org/)
