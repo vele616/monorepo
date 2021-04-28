@@ -1,5 +1,5 @@
 ---
-title: "VP, Global Advocacy"
+title: "VP of Global Advocacy"
 location: "Remote"
 host: "https://boards.greenhouse.io/wikimedia"
 companyName: "Wikimedia Foundation"
@@ -35,7 +35,7 @@ Screening of complete applications will begin immediately and continue until the
 
 **_If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at_** [**_recruiting@wikimedia.org_**](mailto:recruiting@wikimedia.org)**_._**
 
-U.S. Benefits & Perks\* 
+**U.S. Benefits & Perks\***
 
 *   Fully paid medical, dental and vision coverage for employees and their eligible families (yes, fully paid premiums!)
 *   The Wellness Program provides reimbursement for mind, body and soul activities such as fitness memberships, babysitting, continuing education and much more.
