@@ -1,5 +1,5 @@
 ---
-title: "Senior AWS Engineer (Backend)"
+title: "Senior AWS Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/8bitplay/?location=Remote&commitment=Remote"
 companyName: "8Bit"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 4+ years of relevant work experience, 8Bit is looking for someone with your skillset."
 summaryBackup: "8Bit is looking for a senior aws engineer that has experience in: #aws, #nodejs, #python."
-featured: 20
+featured: 8
 ---
 
 Our Client is an international, award-winning entertainment company providing unique and deeply engaging mobile games that are played by tens of millions of people across the globe. 
