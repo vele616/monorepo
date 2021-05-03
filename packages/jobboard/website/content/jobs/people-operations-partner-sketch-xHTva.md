@@ -6,13 +6,13 @@ companyName: "Sketch"
 url: "https://jobs.lever.co/sketch/4e2ef8ee-e454-4b9b-9fbb-7d0466eeb900"
 applyUrl: "https://jobs.lever.co/sketch/4e2ef8ee-e454-4b9b-9fbb-7d0466eeb900/apply"
 timestamp: 1620000000000
-hashtags: "#operations,#management,#branding,#git,#office"
+hashtags: "#HR,#operations,#management,#branding,#git,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
-summary: "Interested in new opportunities and have you have experience with running selection processes? Sketch has a job opening for a people operations partner."
+summary: "Interested in new opportunities and have experience with running selection processes? Sketch has a job opening for a People Operations Partner."
 summaryBackup: "Sketch is looking for a people operations partner that has experience in: #operations, #management, #branding."
-featured: 20
+featured: 10
 ---
 
 We are currently searching for a new People Operations team member — preferably based in European time zones — to join us at Sketch. We’re a successful remote company, growing fast, with an amazing history and a People Ops department where the potential is huge. Does this sound like a challenge you are looking for?
