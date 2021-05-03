@@ -6,13 +6,13 @@ companyName: "BlueLabs"
 url: "https://careers.bluelabs.eu/o/frontend-engineer"
 applyUrl: "https://careers.bluelabs.eu/o/frontend-engineer/c/new"
 timestamp: 1620000000000
-hashtags: "#javascript,#nodejs,#management,#operations,#css,#html,#ui/ux,#git,#optimization,#English"
+hashtags: "#javascript,#nodejs,#html,#management,#operations,#css,#ui/ux,#git,#optimization,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bluelabs"
 companyWebsite: "https://www.bluelabs.eu/"
-summary: "BlueLabs intends to hire a new frontend engineer. If you have 2+ years experience in developing complex web and mobile applications with JavaScript, consider applying."
+summary: "BlueLabs intends to hire a new Frontend Engineer. If you have 2+ years experience in developing complex web and mobile applications with JavaScript, consider applying."
 summaryBackup: "BlueLabs is looking for a frontend engineer that has experience in: #javascript, #nodejs, #management."
-featured: 20
+featured: 10
 ---
 
 ## Job description
