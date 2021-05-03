@@ -6,11 +6,11 @@ companyName: "Stellar Development Foundation"
 url: "https://jobs.lever.co/stellar/ad142cfd-1fc2-45ef-9897-fc984849907f"
 applyUrl: "https://jobs.lever.co/stellar/ad142cfd-1fc2-45ef-9897-fc984849907f/apply"
 timestamp: 1620000000000
-hashtags: "#ui/ux,#finance,#analysis,#office"
-jobType: "other"
+hashtags: "#cplusplus,#crypto,#ui/ux,#finance,#analysis,#office"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/stellar-development-foundation"
 companyWebsite: "https://www.stellar.org/"
-summary: "If you have 4+ years of experience developing software on a team, consider applying to Stellar Development Foundation's job post for a new senior core engineer."
+summary: "If you have 4+ years of experience developing software on a team, consider applying to Stellar's job post for a new Senior Core Engineer."
 summaryBackup: "Excited about #ui/ux, #finance, #analysis? Check out this job post!"
 featured: 20
 ---
