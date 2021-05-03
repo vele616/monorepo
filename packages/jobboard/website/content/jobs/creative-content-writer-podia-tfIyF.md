@@ -13,6 +13,7 @@ companyWebsite: "https://www.podia.com/"
 summary: "Interested in new opportunities and have 2+ year experience writing at least 2 amazing, long-form, SEO-friendly content pieces per week? Podia has a job opening for a Creative Content Writer."
 summaryBackup: "Podia is looking for a creative content writer that has experience in: #management, #windows, #content."
 featured: 9
+archived: "true"
 ---
 
 ## Description

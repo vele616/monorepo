@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "If you have 5 years of experience working as a PM, ideally on a distributed web design / dev team, Modern Tribe is looking for someone with your skillset."
 summaryBackup: "Excited about #wordpress, #ui/ux, #scrum? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## The Opportunity

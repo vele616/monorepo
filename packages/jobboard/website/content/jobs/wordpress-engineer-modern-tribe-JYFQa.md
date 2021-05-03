@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "Modern Tribe intends to hire a new Wordpress Engineer. If you have 5+ years experience working as a backend web developer on production sites, consider applying."
 summaryBackup: "Love #wordpress, #php, #laravel? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## The Opportunity

@@ -13,6 +13,7 @@ companyWebsite: "https://www.bluelabs.eu/"
 summary: "If you have 1+ years of professional software development experience using Go, BlueLabs is looking for someone with your skillset."
 summaryBackup: "To apply as a software engineer at BlueLabs, you preferably need to have some knowledge of: #operations, #management, #golang."
 featured: 20
+archived: "true"
 ---
 
 ## Job description

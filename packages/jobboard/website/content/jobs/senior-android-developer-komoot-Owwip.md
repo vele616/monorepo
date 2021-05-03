@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "Komoot wishes to hire a new Senior Android Developer. If you have 4+ years of professional experience with developing high quality production native Android apps, consider applying."
 summaryBackup: "Komoot is looking for a senior android developer that has experience in: #android, #java, #kotlin."
 featured: 12
+archived: "true"
 ---
 
 ## Description
