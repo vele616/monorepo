@@ -10,12 +10,11 @@ hashtags: "#python,#management,#analysis,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sherpany"
 companyWebsite: "https://www.sherpany.com/en/"
-summary: "Sherpany is searching for a senior data scientist that has we are looking for someone who has experience working with data and knows how to leverage it efficiently."
+summary: "Sherpany is searching for a Senior Data Scientist that has experience working with data and knows how to leverage it efficiently."
 summaryBackup: "Love #python, #management, #analysis? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
-![](https://gallery-cdn.breezy.hr/236f1/analysis-blog-blogger-1657152.jpg)
 
 Sherpany\`s mission is to give back time by turning formal meetings from time-wasters into value-creators. Our team is building a mobile and web based platform that allows effective choice making by digitally transforming meetings and decision making processes. In cutting administrative, organizational and repetitive work Sherpany\`s platform is actively sparing resources like paper, shipping and transportation. Within the next 5 years we aim to give back over 2 Mio. hours of extra time to people making decisions thereby enabling them to focus on value-adding work. Our headquarter is located in Zurich and we have offices in Lisbon, Berlin, Paris, Milan and Wroclaw.
 
