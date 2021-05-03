@@ -13,6 +13,7 @@ companyWebsite: "https://luckbox.com/"
 summary: "Luckbox is looking for a graphic designer that has 4+ years experience as a visual designer / graphic designer."
 summaryBackup: "To apply as a graphic designer at Luckbox, you preferably need to have some knowledge of: #ui/ux, #branding, #marketing."
 featured: 9
+archived: "true"
 ---
 
 ## Job description

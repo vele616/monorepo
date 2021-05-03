@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "Pressable is searching for a sales operations account representative that has 3 years of experience in Sales/Sales Operations within a fast-paced technology company, ideally in the managed WordPress hosting space."
 summaryBackup: "Pressable is looking for a sales operations account representative that has experience in: #sales, #wordpress, #operations."
 featured: 14
+archived: "true"
 ---
 
 The Sales Operations Account Representative will be responsible for supporting sales and sales leadership to help increase productivity and effectiveness. This person will report directly to the Head of Sales and Enablement and respond to customer inquiries via online chat, help put together sales data, respond to payment disputes, and assist with partner and customer AP/AR tasks, amongst other day-to-day items. 

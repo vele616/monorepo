@@ -13,6 +13,7 @@ companyWebsite: "https://www.bluelabs.eu/"
 summary: "BlueLabs intends to hire a new Cloud Infrastructure Engineer. If you have 2+ years of experience with some of the major clouds like AWS, GCP or Azure, consider applying."
 summaryBackup: "To apply as a cloud infrastructure engineer at BlueLabs, you preferably need to have some knowledge of: #operations, #python, #terraform."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

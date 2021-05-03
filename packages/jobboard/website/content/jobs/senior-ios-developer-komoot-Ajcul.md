@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "To apply as a Senior iOS Developer at Komoot, you preferably need to have 4+ years of professional experience with developing high quality production iOS apps."
 summaryBackup: "Komoot is looking for a senior ios developer that has experience in: #ios, #swift, #ui/ux."
 featured: 8
+archived: "true"
 ---
 
 ## Description
