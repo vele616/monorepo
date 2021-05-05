@@ -6,11 +6,11 @@ companyName: "GogoApps S.A."
 url: "https://gogoapps.recruitee.com/o/senior-product-designer-1"
 applyUrl: "https://gogoapps.recruitee.com/o/senior-product-designer-1/c/new"
 timestamp: 1620172800000
-hashtags: "#ui/ux,#branding,#css,#html,#management,#socialmedia,#photoshop,#figma,#English"
+hashtags: "#ui/ux,#branding,#figma,#css,#html,#management,#socialmedia,#photoshop,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gogoapps-s-a-"
 companyWebsite: "http://www.gogoapps.io/"
-summary: "GogoApps S.A. intends to hire a new senior product designer. If you have 5+ years of experience designing products for both desktop and mobile, consider applying."
+summary: "GogoApps intends to hire a new Senior Product Designer. If you have 5+ years of experience designing products for both desktop and mobile, consider applying."
 summaryBackup: "Love #ui/ux, #branding, #css? Check out this job post!"
 featured: 20
 ---
