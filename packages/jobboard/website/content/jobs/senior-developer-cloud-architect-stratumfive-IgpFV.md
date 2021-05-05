@@ -13,6 +13,7 @@ companyWebsite: "http://www.stratumfive.com/"
 summary: "StratumFive is looking for a Senior Cloud Architect that has 6 years of coding experience."
 summaryBackup: "Love #ui/ux, #operations, #html? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Description
