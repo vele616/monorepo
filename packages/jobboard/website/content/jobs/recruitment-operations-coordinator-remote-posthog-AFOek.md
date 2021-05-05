@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "If you have 2 years of experience sourcing and coordinating candidates for a wide variety of roles within a start-up and/or high growth tech business, PostHog has a job opening for a recruitment & operations coordinator"
 summaryBackup: "To apply as a recruitment & operations coordinator at PostHog, you preferably need to have some knowledge of: #operations, #management, #sales."
 featured: 20
+archived: "true"
 ---
 
 ## Description
