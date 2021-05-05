@@ -1,18 +1,18 @@
 ---
-title: "Senior Mobile Engineer - EMEA (Remote)"
+title: "Senior Mobile Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/841992AD04/"
 applyUrl: "https://apply.workable.com/posthog/j/841992AD04/apply/"
 timestamp: 1620172800000
-hashtags: "#reactjs,#android,#ios,#javascript,#java,#swift,#kotlin,#objectivec,#macos,#operations"
+hashtags: "#android,#ios,#objectivec,#javascript,#java,#swift,#kotlin,#reactjs,#macos,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "PostHog is searching for a senior mobile engineer that has 4-5 years of Android and iOS development experience, over many iterations of phone operating systems."
+summary: "PostHog is searching for a Senior Mobile Engineer that has 4-5 years of Android and iOS development experience, over many iterations of phone operating systems."
 summaryBackup: "Love #reactjs, #android, #ios? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Description
