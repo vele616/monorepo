@@ -1,18 +1,18 @@
 ---
-title: "Senior Backend Engineer - Platform"
-location: ""
+title: "Senior Backend Engineer"
+location: "remote"
 host: "https://apply.workable.com/zyte/"
 companyName: "Zyte"
 url: "https://apply.workable.com/zyte/j/85F4BDCDB9/"
 applyUrl: "https://apply.workable.com/zyte/j/85F4BDCDB9/apply/"
 timestamp: 1620172800000
-hashtags: "#django,#python,#java,#linux,#docker,#ui/ux,#rest,#monitoring,#English"
+hashtags: "#django,#python,#docker,#java,#linux,#ui/ux,#rest,#monitoring,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/zyte"
 companyWebsite: "https://zyte.com/"
-summary: "Zyte wishes to hire a new senior backend engineer. If you have 3+ years of experience building and maintaining high load distributed systems, consider applying."
+summary: "Zyte wishes to hire a new Senior Backend Engineer. If you have 3+ years of experience building and maintaining high load distributed systems, consider applying."
 summaryBackup: "Excited about #django, #python, #java? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Description
