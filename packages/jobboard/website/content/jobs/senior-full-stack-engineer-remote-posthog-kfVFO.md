@@ -1,5 +1,5 @@
 ---
-title: "Senior Full Stack Engineer (Remote)"
+title: "Senior Full Stack Engineer"
 location: "San Francisco, California, United States"
 host: "https://apply.workable.com/posthog/"
 companyName: "PostHog"
@@ -10,9 +10,9 @@ hashtags: "#reactjs,#python,#analysis,#ui/ux,#management,#sales,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "If you have you have strong experience with relevant, consider applying to PostHog's job post for a new senior full stack engineer."
+summary: "If you have you have strong experience with relevant, consider applying to PostHog's job post for a new Senior Full Stack Engineer."
 summaryBackup: "PostHog is looking for a senior full stack engineer that has experience in: #reactjs, #python, #analysis."
-featured: 20
+featured: 8
 ---
 
 ## Description
@@ -67,7 +67,7 @@ _Please note - we are required to add a location to job ads, PostHog is a fully-
 
 *   Generous, transparent [compensation](https://posthog.com/handbook/people/compensation) and employee-friendly [equity](https://posthog.com/handbook/people/compensation) in PostHog
 *   [Unlimited time off](https://posthog.com/handbook/people/time-off) with a 25 day minimum
-*   Private[medical insurance](https://posthog.com/handbook/people/benefits#private-health-insurance)[](https://posthog.com/careers#benefits) including dental and vision
+*   Private [medical insurance](https://posthog.com/handbook/people/benefits#private-health-insurance)[](https://posthog.com/careers#benefits) including dental and vision
 *   [401k contributions](https://posthog.com/careers)
 *   [Generous parental leave](https://posthog.com/handbook/people/time-off)
 *   [Training budget](https://posthog.com/handbook/people/training) and [free books](https://posthog.com/handbook/people/training)
