@@ -6,13 +6,13 @@ companyName: "Atomic Robot"
 url: "https://apply.workable.com/atomicrobot/j/68C7859A88/"
 applyUrl: "https://apply.workable.com/atomicrobot/j/68C7859A88/apply/"
 timestamp: 1620172800000
-hashtags: "#ui/ux,#ios,#socialmedia,#spark,#figma,#android,#marketing,#office,#photoshop"
+hashtags: "#ui/ux,#ios,#figma,#socialmedia,#spark,#android,#marketing,#office,#photoshop"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/atomic-robot"
 companyWebsite: "https://atomicrobot.com/"
-summary: "To apply as an ui at Atomic Robot, you preferably need to have some knowledge of: experience in: #ui/ux, #ios, #socialmedia."
+summary: "To apply as an UI/UX Designer at Atomic Robot, you preferably need to have some knowledge of: #ui/ux, #ios, #figma."
 summaryBackup: "Love #ui/ux, #ios, #socialmedia? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
