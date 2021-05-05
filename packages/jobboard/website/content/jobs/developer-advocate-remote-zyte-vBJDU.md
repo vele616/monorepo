@@ -1,6 +1,6 @@
 ---
-title: "Developer Advocate - Remote"
-location: ""
+title: "Developer Advocate"
+location: "remote"
 host: "https://apply.workable.com/zyte/"
 companyName: "Zyte"
 url: "https://apply.workable.com/zyte/j/8B89DF62DC/"
@@ -10,9 +10,9 @@ hashtags: "#content,#socialmedia,#python,#marketing,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/zyte"
 companyWebsite: "https://zyte.com/"
-summary: "If you have 2+ years of experience working as a developer or developer advocate/evangelist or support engineer, consider applying to Zyte's job post for a new developer advocate."
+summary: "If you have 2+ years of experience working as a developer or developer advocate/evangelist or support engineer, consider applying to Zyte's job post for a new Developer Advocate."
 summaryBackup: "Zyte is looking for a developer advocate that has experience in: #content, #socialmedia, #python."
-featured: 20
+featured: 16
 ---
 
 ## Description
