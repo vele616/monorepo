@@ -12,6 +12,7 @@ companyWebsite: "http://www.gogoapps.io/"
 summary: "To apply as a Devops Engineer at GogoApps, you preferably need to have experience with at least one major cloud provider."
 summaryBackup: "Excited about #terraform, #python, #rustlang? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 ## Job description
