@@ -1,18 +1,18 @@
 ---
-title: "MonsterInsights WordPress Developer (Remote)"
+title: "WordPress Developer"
 location: "West Palm Beach, Florida"
 host: "https://awesomemotive.bamboohr.com/jobs/"
 companyName: "Awesome Motive, Inc"
 url: "https://awesomemotive.bamboohr.com/jobs/view.php?id=25&source=other"
 applyUrl: "https://awesomemotive.bamboohr.com/jobs/view.php?id=25&source=other"
 timestamp: 1620172800000
-hashtags: "#wordpress,#vuejs,#php,#javascript,#management,#jquery,#git,#analysis,#branding,#ui/ux"
+hashtags: "#wordpress,#php,#javascript,#management,#vuejs,#jquery,#git,#analysis,#branding,#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/awesome-motive-inc"
 companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
-summary: "If you have deep experience with build tools like gulp and webpack and, Awesome Motive, Inc is looking for someone with your skillset."
+summary: "If you have deep experience with build tools like gulp and webpack and package managers such as Composer and NPM, Awesome Motive, Inc is looking for someone with your skillset."
 summaryBackup: "To apply as a monsterinsights wordpress developer at Awesome Motive, Inc, you preferably need to have some knowledge of: #wordpress, #vuejs, #php."
-featured: 20
+featured: 16
 ---
 
 As a WordPress Developer at Awesome Motive, you’ll join the MonsterInsights team where you will collaborate with awesome team members and tackle a wide range of responsibilities.
@@ -30,10 +30,8 @@ Attention to detail is one of our core values! This is your chance to stand out 
 To love this role, here’s the type of person you are:
 
 *   You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers "own" features/tasks and are responsible for scoping, development, and testing.  
-    
 *   You're an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is **critical** and there is no such thing as over-communicating.
-*   You take pride in the quality and craftsmanship of your work rather than just doing it to get it done - with attention to detail.  
-    
+*   You take pride in the quality and craftsmanship of your work rather than just doing it to get it done - with attention to detail. 
 *   You love mentoring your peers and helping them "level up" just as much as writing code.
 *   You are comfortable giving critical feedback to peers (in a respectful and productive manner) and also don't take feedback given personally.
 *   You're happy jumping between front-end and back-end development tasks or tackling tasks that require both.
@@ -42,12 +40,9 @@ To love this role, here’s the type of person you are:
 Responsibilities include (but are not limited to):
 
 *   Triaging bugs and enhancements that come into GitHub.  
-    
 *   Scoping, writing, and testing new product features and addons.  
-    
 *   Communicating with the team and supporting your peers using chat, audio, and video.
 *   Supervising other developers; providing feedback, giving peer reviews (PRs), and managing deadlines.  
-    
 *   Managing sprints and product releases.
 
 Skills you'll need to succeed in this role:
@@ -57,9 +52,7 @@ Skills you'll need to succeed in this role:
 *   Strong familiarity with JavaScript (VueJS, vanilla JS, jQuery, ES6, etc).
 *   Deep experience with build tools like gulp and webpack and package managers such as Composer and NPM.
 *   Experience working with third-party APIs (Eg Google Analytics, Stripe, Drip, Zapier, etc).  
-    
 *   The ability to iterate and ship ideas quickly - done is better than perfect.  
-    
 *   Ability to keep complex ideas and features _simple_. (Simplicity is a core value!)
 *   Previous remote work experience.
 
@@ -67,7 +60,6 @@ What we offerWorking for a fast-growing bootstrapped company is a rare opportuni
 
 *   Competitive Salary.
 *   Health, Dental and Vision Insurance benefits for full-time U.S. employees.  
-    
 *   Work from your home. We’re spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore and more.
 *   Unlimited PTO after 90 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.
 *   Paid maternity and paternity leave.
