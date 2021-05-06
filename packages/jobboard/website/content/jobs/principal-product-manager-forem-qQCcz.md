@@ -6,13 +6,13 @@ companyName: "Forem"
 url: "https://jobs.forem.com/o/principal-product-manager"
 applyUrl: "https://jobs.forem.com/o/principal-product-manager/c/new"
 timestamp: 1620259200000
-hashtags: "#branding,#ui/ux,#management,#operations,#socialmedia"
+hashtags: "#branding,#management,#operations,#ui/ux,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/forem"
 companyWebsite: "https://forem.com/"
 summary: "If you have experience working with open source software, Forem is looking for someone with your knowledge."
 summaryBackup: "Love #branding, #ui/ux, #management? Check out this job post!"
-featured: 20
+featured: 18
 ---
 
 ## Job description
