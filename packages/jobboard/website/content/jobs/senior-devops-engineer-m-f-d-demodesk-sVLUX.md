@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "To apply as a senior devops engineer at Demodesk, you preferably need to have some knowledge of: #rubylang, #rails, #golang."
 summaryBackup: "Excited about #rubylang, #rails, #golang? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 We are looking for the first DevOps Engineer (m/f/d) to join our team. You will work on our overall infrastructure, APIs, database architecture, as well as shared backend services. You will also train and coach the whole engineering team in DevOps best practices.
