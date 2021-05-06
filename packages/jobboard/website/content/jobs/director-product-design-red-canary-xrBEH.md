@@ -1,18 +1,18 @@
 ---
-title: "Director, Product Design"
+title: "Director of Product Design"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/09ec2a16-5f12-475d-b80f-cb5b4da4c621"
 applyUrl: "https://jobs.lever.co/redcanary/09ec2a16-5f12-475d-b80f-cb5b4da4c621/apply"
 timestamp: 1620259200000
-hashtags: "#ui/ux,#management,#marketing,#sales,#analysis"
+hashtags: "#ui/ux,#management,#HR,#marketing,#sales,#analysis"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary is looking for a director that has experience leading a team of designers."
+summary: "Red Canary is looking for a Director of Product Design that has experience leading a team of designers (4+) in a fast-growing environment, hiring, and managing performance."
 summaryBackup: "Excited about #ui/ux, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 **Who We Are**
