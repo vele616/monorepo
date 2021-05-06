@@ -6,7 +6,7 @@ companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/04160061-7059-4adf-940e-c04c9d815a66"
 applyUrl: "https://jobs.lever.co/aircall/04160061-7059-4adf-940e-c04c9d815a66/apply"
 timestamp: 1620259200000
-hashtags: "#css,#management,#sales,#assembly,#analytics,#marketing,#operations,#German"
+hashtags: "#management,#sales,#operations,#assembly,#analytics,#marketing,#css,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
