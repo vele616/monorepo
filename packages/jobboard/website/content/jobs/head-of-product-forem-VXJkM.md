@@ -6,13 +6,13 @@ companyName: "Forem"
 url: "https://jobs.forem.com/o/head-of-product-new-york"
 applyUrl: "https://jobs.forem.com/o/head-of-product-new-york/c/new"
 timestamp: 1620259200000
-hashtags: "#ui/ux,#branding,#management,#operations,#socialmedia"
+hashtags: "#branding,#management,#operations,#ui/ux,#socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/forem"
 companyWebsite: "https://forem.com/"
-summary: "If you have as Forem grows, we need dedicated direction and leadership on our product team and are looking for a compassionate leader with product experience to complement the skills of our founders and company leaders in design and engineering, Forem is looking for someone with your knowledge."
+summary: "If you have experience working with open source software, Forem is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #branding, #management? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Job description
@@ -54,7 +54,7 @@ DEV Community is the fastest growing social network for software developers. The
 
 We’re a company that values emotional intelligence, learning and growth. We hire diverse, well-rounded and communicative people who want to build an inclusive software ecosystem as badly as we do.
 
-## ******About Forem******
+## About Forem
 
 Forem is open source software for building inclusive communities. It powers platforms such as the DEV Community, among many others. The platform is flexible and hardened by the scrutiny of thousands of developers. To learn more about the future of Forem, [check out our announcement post on DEV](https://dev.to/devteam/for-empowering-community-2k6h).Benefits for US Based Employees:
 
