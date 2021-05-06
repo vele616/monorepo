@@ -1,16 +1,16 @@
 ---
-title: "Partner Account Manager - UK&I"
+title: "Partner Account Manager"
 location: "Remote-EMEA"
 host: "https://jobs.lever.co/aircall/?location=Remote%20-%20EMEA"
 companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/2d83a797-2900-463d-a1bb-27da358c4acb"
 applyUrl: "https://jobs.lever.co/aircall/2d83a797-2900-463d-a1bb-27da358c4acb/apply"
 timestamp: 1620259200000
-hashtags: "#css,#marketing,#sales,#assembly,#content,#management,#operations,#office,#French,#English"
+hashtags: "#management,#operations,#content,#css,#marketing,#sales,#assembly,#office,#French,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
-summary: "Aircall is looking for a partner account manager that has 2 years experience in Business Development."
+summary: "Aircall is looking for a Partner Account Manager that has 2 years experience in Business Development."
 summaryBackup: "Love #css, #marketing, #sales? Check out this job post!"
 featured: 20
 ---
