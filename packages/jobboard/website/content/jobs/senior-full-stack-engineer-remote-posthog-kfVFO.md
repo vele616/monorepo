@@ -7,7 +7,7 @@ url: "https://apply.workable.com/posthog/j/E3CAF059AB/"
 applyUrl: "https://apply.workable.com/posthog/j/E3CAF059AB/apply/"
 timestamp: 1620172800000
 hashtags: "#reactjs,#python,#analysis,#ui/ux,#management,#sales,#optimization"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
 summary: "If you have you have strong experience with relevant, consider applying to PostHog's job post for a new Senior Full Stack Engineer."
