@@ -6,16 +6,16 @@ companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/d04bfea0-8b79-4737-ab24-39bd91591fe4"
 applyUrl: "https://jobs.lever.co/demodesk/d04bfea0-8b79-4737-ab24-39bd91591fe4/apply"
 timestamp: 1620259200000
-hashtags: "#ui/ux,#sales,#css,#linux,#analysis,#management,#translation,#German"
+hashtags: "#analysis,#management,#sales,#ui/ux,#css,#linux,#translation,#German"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 2+ years experience in Product Development, B2B SaaS, or similar, Demodesk is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #sales, #css? Check out this job post!"
-featured: 20
+featured: 17
 ---
 
-Mission
+## Mission
 
 As our third Product Manager, your first mission is to adapt our scheduling solution of the platform to perfectly solve our customer's biggest problems in order to establish Demodesk as the globally leading customer meeting platform. You will be responsible for talking to our customers and translating their needs into a world-class product that users love. You will be a key player in our organization and you will work closely with the customers to find further meaningful problems to solve. Be ready to share your knowledge and learn from others and grow together with the company.
 
@@ -51,7 +51,7 @@ As our third Product Manager, your first mission is to adapt our scheduling solu
 *   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.500) € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
-About us
+## About us
 
 Demodesk is building the world's first intelligent customer meeting platform for remote sales with the vision to enable everyone to have great customer conversations. We give revenue teams superpowers by enabling them to host more effective and engaging meetings. Demodesk provides teams with real-time conversational guidance that is invisible to the customer and has significantly more data to analyze than existing tools! 
 
