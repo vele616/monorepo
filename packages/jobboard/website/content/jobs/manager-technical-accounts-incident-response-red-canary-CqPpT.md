@@ -1,5 +1,5 @@
 ---
-title: "Manager, Technical Accounts, Incident Response"
+title: "Technical Accounts Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
@@ -10,9 +10,9 @@ hashtags: "#operations,#management,#marketing,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary is looking for a manager that has 5+ years experience working in a Security Operations Center."
+summary: "Red Canary is looking for a Technical Accounts Manager that has 5+ years experience working in a Security Operations Center."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 **Who We Are**
