@@ -2,17 +2,17 @@
 title: "Relationship Manager"
 location: "London, GB - Remote OK"
 host: "https://hire-space.breezy.hr/"
-companyName: "hire-space"
+companyName: "hire space"
 url: "https://hire-space.breezy.hr/p/98d1af29db1101-relationship-manager"
 applyUrl: "https://hire-space.breezy.hr/p/98d1af29db1101-relationship-manager/apply"
 timestamp: 1620259200000
-hashtags: "#sales,#management,#operations,#socialmedia,#office"
+hashtags: "#management,#operations,#sales,#socialmedia,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hire-space"
 companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
-summary: "If you have 2 year sales or related industry experience, Hire-space has a job opening for a relationship manager"
+summary: "If you have 2 year sales or related industry experience, Hire Space has a job opening for a Relationship Manager"
 summaryBackup: "Excited about #sales, #management, #operations? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Hire Space is transforming the events industry.Powering exceptional event planners through innovation, technology and discoveryOur mission: To help 50 companies deliver 50 post-pandemic events each
