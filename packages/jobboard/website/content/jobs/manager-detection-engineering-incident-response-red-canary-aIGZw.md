@@ -7,7 +7,7 @@ url: "https://jobs.lever.co/redcanary/39b14bed-d9cb-4c4a-86c8-5c1c4636275d"
 applyUrl: "https://jobs.lever.co/redcanary/39b14bed-d9cb-4c4a-86c8-5c1c4636275d/apply"
 timestamp: 1620259200000
 hashtags: "#operations,#management,#analysis,#python,#golang,#rubylang,#office,#rest"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is searching for a Detection Engineering Manager that has 5+ years of experience working in a Security Operations Center."
