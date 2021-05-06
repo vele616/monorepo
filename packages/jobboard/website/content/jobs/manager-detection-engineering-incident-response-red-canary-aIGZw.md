@@ -1,18 +1,18 @@
 ---
-title: "Manager, Detection Engineering, Incident Response"
+title: "Detection Engineering Manager"
 location: "Remote"
 host: "https://jobs.lever.co/redcanary/?location=Remote"
 companyName: "Red Canary"
 url: "https://jobs.lever.co/redcanary/39b14bed-d9cb-4c4a-86c8-5c1c4636275d"
 applyUrl: "https://jobs.lever.co/redcanary/39b14bed-d9cb-4c4a-86c8-5c1c4636275d/apply"
 timestamp: 1620259200000
-hashtags: "#operations,#management,#python,#golang,#rubylang,#analysis,#office,#rest"
+hashtags: "#operations,#management,#analysis,#python,#golang,#rubylang,#office,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/red-canary"
 companyWebsite: "http://www.redcanary.com/"
-summary: "Red Canary is searching for a manager that has 5+ years experience working in a Security Operations Center."
+summary: "Red Canary is searching for a Detection Engineering Manager that has 5+ years of experience working in a Security Operations Center."
 summaryBackup: "Excited about #operations, #management, #python? Check out this job post!"
-featured: 20
+featured: 19
 ---
 
 **Who We Are**
