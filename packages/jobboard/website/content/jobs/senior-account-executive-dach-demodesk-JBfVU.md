@@ -1,21 +1,21 @@
 ---
-title: "Senior Account Executive DACH"
+title: "Senior Account Executive"
 location: "RemoteMunich,Germany"
 host: "https://jobs.lever.co/demodesk?location=Remote%2F%20Munich%2C%20Germany"
 companyName: "Demodesk"
 url: "https://jobs.lever.co/demodesk/51539b5e-edd3-4ca0-8888-6154193646f4"
 applyUrl: "https://jobs.lever.co/demodesk/51539b5e-edd3-4ca0-8888-6154193646f4/apply"
 timestamp: 1620259200000
-hashtags: "#sales,#management,#css,#linux,#marketing,#German,#English"
+hashtags: "#sales,#management,#marketing,#css,#linux,#German,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/demodesk"
 companyWebsite: "http://www.demodesk.com/"
-summary: "If you have 5+ years of software selling experience, Demodesk has a job opening for a senior account executive dach"
+summary: "If you have 5+ years of software selling experience, Demodesk has a job opening for a Senior Account Executive"
 summaryBackup: "Excited about #sales, #management, #css? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
-**Mission**
+## Mission
 
 Demodesk's Account Executives are at the center of our mission to help everyone have effective customer conversations. Demodesk is building the leading online meeting platform for customer interactions. As part of Demodesk's growing sales team, you will be laser-focused on establishing relationships with prospects, managing a structured sales process, and providing great customer experiences. You will work closely with Demodesk's marketing, customer success, and product teams to become an expert on the Demodesk platform and deliver value-based solutions to our fast-growing customer base.
 
@@ -46,10 +46,10 @@ Demodesk's Account Executives are at the center of our mission to help everyone 
 *   Full responsibility from day one and being part of our hierarchy-free and results-driven working environment
 *   Competitive salary plus attractive stock compensation package
 *   Flexible working hours and annual travel allowance for working remotely
-*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of [1.500](http://1.0.1.244/) € per year
+*   Attractive perks including gym memberships, German language course, top of the line MacBook or Linux machine, and a professional development budget of 1.500 € per year
 *   Regular team events like dinners, Oktoberfest, ski trips and much more
 
-About us
+## About us
 
 Demodesk is building the world's first intelligent customer meeting platform for remote sales with the vision to enable everyone to have great customer conversations. We give revenue teams superpowers by enabling them to host more effective and engaging meetings. Demodesk provides teams with real-time conversational guidance that is invisible to the customer and has significantly more data to analyze than existing tools! 
 
