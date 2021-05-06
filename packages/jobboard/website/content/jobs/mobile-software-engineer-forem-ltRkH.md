@@ -13,6 +13,7 @@ companyWebsite: "https://forem.com/"
 summary: "Forem is looking for a mobile software engineer that has experience in: #android, #kotlin, #swift."
 summaryBackup: "Forem is looking for a mobile software engineer that has experience in: #android, #kotlin, #swift."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

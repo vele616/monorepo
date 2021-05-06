@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "To apply as a detection engineer at Red Canary, you preferably need to have 2+ years of experience working in a Security Operations Center or in Digital Forensics and Incident Response."
 summaryBackup: "Excited about #operations, #python, #golang? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 **Why Red Canary**
