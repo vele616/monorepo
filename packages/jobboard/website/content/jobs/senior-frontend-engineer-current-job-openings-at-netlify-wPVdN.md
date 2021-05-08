@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a Senior Frontend Engineer at Netlify, you preferably need to have some knowledge of: #reactjs, #javascript, #html."
 summaryBackup: "Excited about #reactjs, #javascript, #html? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Company Overview
