@@ -2,7 +2,7 @@
 title: "Enterprise Marketing Director"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5190353002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5190353002#app"
 timestamp: 1620345600000

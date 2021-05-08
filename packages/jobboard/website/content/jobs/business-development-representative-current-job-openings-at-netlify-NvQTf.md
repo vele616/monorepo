@@ -2,7 +2,7 @@
 title: "Business Development Representative"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5045254002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5045254002#app"
 timestamp: 1612310400000
