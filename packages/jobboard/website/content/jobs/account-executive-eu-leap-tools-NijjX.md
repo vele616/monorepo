@@ -1,18 +1,18 @@
 ---
-title: "Account Executive - EU"
+title: "Account Executive"
 location: "Remote Worldwide"
 host: "https://leap-tools.breezy.hr/?&location=Worldwide#positions"
-companyName: "leap-tools"
+companyName: "leap tools"
 url: "https://leap-tools.breezy.hr/p/751f2335d9da-account-executive-eu"
 applyUrl: "https://leap-tools.breezy.hr/p/751f2335d9da-account-executive-eu/apply"
 timestamp: 1620345600000
-hashtags: "#sales,#windows,#branding,#management,#marketing"
+hashtags: "#sales,#management,#marketing,#windows,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/leap-tools"
 companyWebsite: "http://www.leaptools.com/"
-summary: "To apply as an account executive at Leap-tools, you preferably need to have some knowledge of: experience in: #sales, #windows, #branding."
+summary: "To apply as an Account Executive at Leap Tools, you preferably need to have some knowledge of: #sales, #management, #marketing."
 summaryBackup: "To apply as an account executive at Leap-tools, you preferably need to have some knowledge of: #sales, #windows, #branding."
-featured: 20
+featured: 11
 ---
 
 ## Account Executive
