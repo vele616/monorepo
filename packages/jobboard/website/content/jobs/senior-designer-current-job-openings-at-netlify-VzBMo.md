@@ -2,7 +2,7 @@
 title: "Senior Designer"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5193687002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5193687002#app"
 timestamp: 1620345600000
@@ -10,9 +10,9 @@ hashtags: "#ui/ux,#branding,#marketing,#git,#socialmedia,#figma,#rest,#optimizat
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "To apply as a senior designer at Current Job Openings at Netlify, you preferably need to have 5+ years work experience."
+summary: "To apply as a Senior Designer at Netlify, you preferably need to have proven work experience with a strong portfolio that demonstrates a refined aesthetic and design thinking."
 summaryBackup: "Love #ui/ux, #branding, #marketing? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 ## Company Overview
