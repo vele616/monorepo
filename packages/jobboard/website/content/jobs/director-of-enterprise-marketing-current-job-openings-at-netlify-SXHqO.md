@@ -1,5 +1,5 @@
 ---
-title: "Director of Enterprise Marketing"
+title: "Enterprise Marketing Director"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#sales,#content,#ui/ux,#git,#operations,#figma
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify is looking for a director of enterprise marketing that has experience in: experience in: #marketing, #management, #sales."
+summary: "Netlify is looking for a Director of Enterprise Marketing that has experience in: #marketing, #management, #sales."
 summaryBackup: "Current Job Openings at Netlify is looking for a director of enterprise marketing that has experience in: #marketing, #management, #sales."
-featured: 20
+featured: 8
 ---
 
 ## Company Overview
