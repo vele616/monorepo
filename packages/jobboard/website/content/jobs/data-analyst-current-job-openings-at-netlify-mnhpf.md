@@ -2,17 +2,17 @@
 title: "Data Analyst"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5239871002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5239871002#app"
 timestamp: 1620345600000
-hashtags: "#python,#ui/ux,#management,#operations,#css,#git,#rest,#figma,#analysis,#finance"
+hashtags: "#python,#analysis,#operations,#ui/ux,#management,#css,#git,#rest,#figma,#finance"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "Current Job Openings at Netlify is looking for a data analyst that has prior experience working with software development tools, like Git and the command line."
+summary: "Netlify is looking for a Data Analyst that has prior experience working with software development tools, like Git and the command line."
 summaryBackup: "To apply as a data analyst at Current Job Openings at Netlify, you preferably need to have some knowledge of: #python, #ui/ux, #management."
-featured: 20
+featured: 10
 ---
 
 ## Company Overview
@@ -29,9 +29,9 @@ At Netlify, our data team exists to empower the entire organization to make the 
 
 We’ve been remote-first since our inception and are a globally distributed team, spanning across North America and Europe. We’re biased towards asynchronous planning and communication, meaning less meetings and more execution. We take documentation seriously and place our values of transparency, empowerment, and commitment at the forefront of everything we do. We’re driven by passion and we make sure that everyone on the team knows their value, feels ownership over their work, and can quickly see the impact of their efforts. Beyond just hiring smart, empathetic team members, we foster a culture where there are no dumb questions and our team can get access to the resources that they need to continue to learn. As a remote-first company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Netlify is the type of company where you can balance great work with great life.
 
-## We’re in the beginning stages of building out the foundation of our data team, so as a Data Analyst, you’ll be in an imperative position working closely with stakeholders to educate and empower them to use data as an analytic tool. With our team, you'll be turning rows and columns in a data warehouse into powerful business insights that can be used to make impactful decisions. This role will be providing crucial analyses that are accurate, reliable, reproducible, and is easily accessible to help impact the rest of the business. We think of Data analysts as business partners for their domains of expertise. Please note: This is a SQL-first role, not an Excel-first role.
+**We’re in the beginning stages of building out the foundation of our data team, so as a Data Analyst, you’ll be in an imperative position working closely with stakeholders to educate and empower them to use data as an analytic tool. With our team, you'll be turning rows and columns in a data warehouse into powerful business insights that can be used to make impactful decisions. This role will be providing crucial analyses that are accurate, reliable, reproducible, and is easily accessible to help impact the rest of the business. We think of Data analysts as business partners for their domains of expertise. Please note: This is a SQL-first role, not an Excel-first role.**
 
-Learn more about our team below: 
+## Learn more about our team below: 
 
 *   [Data Dream Teams: Netlify at dbt Coalesce](https://www.youtube.com/watch?v=10uTDBerfTo)
 *   [dbt Slack Roundup #1](https://www.youtube.com/watch?v=T0Z_ibd3Hx0) 
