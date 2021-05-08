@@ -1,18 +1,18 @@
 ---
-title: "Senior Security Compliance Analyst"
+title: "Security Compliance Analyst"
 location: "San Francisco or Remote"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5170736002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5170736002#app"
 timestamp: 1620345600000
-hashtags: "#management,#aws,#azure,#googlecloud,#ui/ux,#git,#operations,#sales,#figma,#analysis"
-jobType: "software"
+hashtags: "#management,#analysis,#aws,#azure,#googlecloud,#ui/ux,#git,#operations,#sales,#figma"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have house as a Security Analyst or have experience with a broader consulting team, we want to hear from you, Current Job Openings at Netlify has a job opening for a senior security compliance analyst"
+summary: "If you have strong analytical and problem solving skills and the ability to “think-out-of-the-box”, Netlify has a job opening for a Senior Security Compliance Analyst"
 summaryBackup: "Love #management, #aws, #azure? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Company Overview
