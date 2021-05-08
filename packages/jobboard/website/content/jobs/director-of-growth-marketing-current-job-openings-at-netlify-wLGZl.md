@@ -2,7 +2,7 @@
 title: "Director of Growth Marketing"
 location: "Remote or San Francisco"
 host: "https://boards.greenhouse.io/netlify"
-companyName: "Current Job Openings at Netlify"
+companyName: "Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5194048002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5194048002#app"
 timestamp: 1620345600000
@@ -10,9 +10,9 @@ hashtags: "#marketing,#management,#content,#analysis,#branding,#ui/ux,#socialmed
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "If you have experience working at scale, across millions of monthly visitors, consider applying to Current Job Openings at Netlify's job post for a new director of growth marketing."
+summary: "If you have experience working at scale, across millions of monthly visitors, consider applying to Netlify's job post for a new Director of Growth Marketing."
 summaryBackup: "Current Job Openings at Netlify is looking for a director of growth marketing that has experience in: #marketing, #management, #content."
-featured: 20
+featured: 15
 ---
 
 ## Company Overview
