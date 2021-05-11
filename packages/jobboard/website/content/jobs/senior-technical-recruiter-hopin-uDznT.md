@@ -6,13 +6,13 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4479603003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4479603003?t=02952e2a3us#app"
 timestamp: 1620691200000
-hashtags: "#management,#socialmedia,#css,#windows,#git,#monitoring"
-jobType: "software"
+hashtags: "#HR,#management,#socialmedia"
+jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new senior technical recruiter. If you have 5 years of experience in Tech Recruitment in fast paced environments, consider applying."
 summaryBackup: "Excited about #management, #socialmedia, #css? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## 
