@@ -6,7 +6,7 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4500443003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4500443003?t=02952e2a3us#app"
 timestamp: 1620691200000
-hashtags: "#marketing,#windows,#management,#operations,#sales"
+hashtags: "#marketing,#management,#operations,#sales"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
