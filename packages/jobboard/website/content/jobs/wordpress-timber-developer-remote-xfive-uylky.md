@@ -10,9 +10,9 @@ hashtags: "#wordpress,#javascript,#reactjs,#php,#html,#css,#windows,#git,#brandi
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/xfive"
 companyWebsite: "https://www.xfive.co/"
-summary: "To apply as a wordpress 🌲 timber developer at Xfive, you preferably need to have 2-3 years of experience."
+summary: "To apply as a wordpress, timber developer at Xfive, you preferably need to have 2-3 years of experience."
 summaryBackup: "Excited about #wordpress, #javascript, #reactjs? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Job description
