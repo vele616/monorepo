@@ -6,7 +6,7 @@ companyName: "Paperpile"
 url: "https://apply.workable.com/paperpile/j/8F2F368386/"
 applyUrl: "https://apply.workable.com/paperpile/j/8F2F368386/apply/"
 timestamp: 1620691200000
-hashtags: "#management,#marketing,#windows,#content,#sales,#socialmedia,#office,#French,#English"
+hashtags: "#management,#marketing,#socialmedia,#windows,#content,#sales,#office,#French,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/paperpile"
 companyWebsite: "https://paperpile.com/"
