@@ -1,18 +1,18 @@
 ---
-title: "Senior Back-End Engineer (100% Remote)"
+title: "Senior Backend Engineer"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
 companyName: "time-doctor"
 url: "https://time-doctor.breezy.hr/p/7e8ad1da6a4f-senior-back-end-engineer-100-remote"
 applyUrl: "https://time-doctor.breezy.hr/p/7e8ad1da6a4f-senior-back-end-engineer-100-remote/apply"
 timestamp: 1620691200000
-hashtags: "#ui/ux,#management,#css,#aws,#googlecloud,#heroku,#marketing,#redis,#mongodb"
+hashtags: "#nodejs,#mongodb,#aws,#googlecloud,#heroku,#marketing,#redis,#mongodb"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
-summary: "If you have 4 years of professional back-end experience, ideally working on Node, Time-doctor is looking for someone with your knowledge."
+summary: "If you have 4 years of professional backend experience, ideally working on Node, Time-doctor is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #css? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## About the Role:
