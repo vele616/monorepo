@@ -1,5 +1,5 @@
 ---
-title: "Frontend Tracking Specialist (m/f/d)"
+title: "Frontend Tracking Specialist"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
