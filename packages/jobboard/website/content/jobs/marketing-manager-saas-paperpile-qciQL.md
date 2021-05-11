@@ -6,13 +6,13 @@ companyName: "Paperpile"
 url: "https://apply.workable.com/paperpile/j/1B957DB0B8/"
 applyUrl: "https://apply.workable.com/paperpile/j/1B957DB0B8/apply/"
 timestamp: 1620691200000
-hashtags: "#marketing,#content,#css,#ui/ux,#analysis,#analytics,#management,#socialmedia,#optimization"
+hashtags: "#marketing,#content,#analytics,#management,#socialmedia,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/paperpile"
 companyWebsite: "https://paperpile.com/"
-summary: "If you have 4 years of experience in Digital &amp, consider applying to Paperpile's job post for a new marketing manager."
+summary: "If you have 4 years of experience in Digital & Growth Marketing, consider applying to Paperpile's job post for a new marketing manager."
 summaryBackup: "Paperpile is looking for a marketing manager that has experience in: #marketing, #content, #css."
-featured: 20
+featured: 5
 ---
 
 ## Description
