@@ -1,5 +1,5 @@
 ---
-title: "Backend engineer (Node.js, TypeScript)"
+title: "Node.js Backend engineer"
 location: "Austria"
 host: "https://apply.workable.com/paperpile/"
 companyName: "Paperpile"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/paperpile"
 companyWebsite: "https://paperpile.com/"
 summary: "Paperpile intends to hire a new backend engineer. If you have before and have experience with the required database and backend technologies, consider applying."
 summaryBackup: "Excited about #typescript, #javascript, #aws? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Description
