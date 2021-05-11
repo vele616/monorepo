@@ -1,5 +1,5 @@
 ---
-title: "Full stack developer (Node.js, React, TypeScript)"
+title: "Node.js / React Full stack developer"
 location: "Austria"
 host: "https://apply.workable.com/paperpile/"
 companyName: "Paperpile"
