@@ -1,5 +1,5 @@
 ---
-title: "Agile Project Manager / Scrum Master"
+title: "Scrum Master"
 location: "Remote"
 host: "https://team.brandbassador.com/jobs/"
 companyName: "Brandbassador"
