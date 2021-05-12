@@ -6,7 +6,7 @@ companyName: "Brandbassador"
 url: "http://team.brandbassador.com/jobs/1144792-agile-project-manager-scrum-master"
 applyUrl: "http://team.brandbassador.com/jobs/1144792-agile-project-manager-scrum-master/applications/new?"
 timestamp: 1620777600000
-hashtags: "#scrum,#branding,#analysis,#management,#marketing,#socialmedia,#jira,#office,#English"
+hashtags: "#scrum,#analysis,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
