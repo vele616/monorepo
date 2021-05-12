@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Web Developer (Angular, NodeJS, mySQL, Google Cloud Platform)"
+title: "Full Stack Web Developer"
 location: "Remote OK"
 host: "https://documo.breezy.hr/"
 companyName: "documo"
