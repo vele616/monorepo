@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "If you have significant experience delivering at a Senior Developer level in an enterprise environment, Brandbassador is looking for someone with your skillset."
 summaryBackup: "Brandbassador is looking for a senior backend developer that has experience in: #ui/ux, #branding, #typescript."
 featured: 4
+archived: "true"
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, Huel, Desenio and the list goes on. 
