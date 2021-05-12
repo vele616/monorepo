@@ -6,7 +6,7 @@ companyName: "Brandbassador"
 url: "http://team.brandbassador.com/jobs/898608-sales-development-representative"
 applyUrl: "http://team.brandbassador.com/jobs/898608-sales-development-representative/applications/new?"
 timestamp: 1620777600000
-hashtags: "#sales,#branding,#marketing,#windows,#management,#socialmedia,#office"
+hashtags: "#sales,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
