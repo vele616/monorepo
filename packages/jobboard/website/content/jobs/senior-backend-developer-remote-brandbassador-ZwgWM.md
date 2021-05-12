@@ -1,12 +1,12 @@
 ---
-title: "Senior Backend Developer - REMOTE"
+title: "Senior Backend Developer"
 location: "Remote"
 host: "https://team.brandbassador.com/jobs/"
 companyName: "Brandbassador"
 url: "http://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote"
 applyUrl: "http://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote/applications/new?"
 timestamp: 1620777600000
-hashtags: "#ui/ux,#branding,#typescript,#marketing,#kubernetes,#googlecloud,#socialmedia,#couchbase,#analysis,#finance"
+hashtags: "#typescript,#nodejs,#googlecloud,#socialmedia,#couchbase,#analysis,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
