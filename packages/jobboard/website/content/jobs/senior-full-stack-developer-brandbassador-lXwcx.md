@@ -1,5 +1,5 @@
 ---
-title: "Senior Full Stack Developer"
+title: "Senior Fullstack Developer"
 location: "Remote"
 host: "https://team.brandbassador.com/jobs/"
 companyName: "Brandbassador"
