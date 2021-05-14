@@ -13,6 +13,7 @@ companyWebsite: "https://flightradar24.com/"
 summary: "If you have at least 4 years experience of modern web development, consider applying to Flightradar24's job post for a new Full-stack Developer"
 summaryBackup: "Excited about #javascript, #php, #css? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## What you’ll do
