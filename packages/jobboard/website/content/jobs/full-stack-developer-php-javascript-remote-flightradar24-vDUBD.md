@@ -1,5 +1,5 @@
 ---
-title: "Full-stack Developer – PHP/JavaScript (remote)"
+title: "Fullstack Developer"
 location: "Remote"
 host: "https://careers.flightradar24.com/jobs/"
 companyName: "Flightradar24"
@@ -10,7 +10,7 @@ hashtags: "#javascript,#php,#css,#html,#aws,#ui/ux,#rest,#English"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flightradar24"
 companyWebsite: "https://flightradar24.com/"
-summary: "If you have 4 years experience of modern web development, Flightradar24 has a job opening for a full-stack developer – php"
+summary: "If you have 4 years experience of modern web development, Flightradar24 has a job opening for a fullstack developer"
 summaryBackup: "Excited about #javascript, #php, #css? Check out this job post!"
 featured: 20
 ---
