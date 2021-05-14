@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "Excited about #management, #marketing, #analysis? Check out this job post!"
 summaryBackup: "Excited about #management, #marketing, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 HICX delivers extraordinary value to some of the largest companies in the world by fixing one of the most challenging problems they face.

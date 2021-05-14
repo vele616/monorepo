@@ -13,6 +13,7 @@ companyWebsite: "https://blackthorn.io/"
 summary: "If you have 5+ years as a developer across multiple programming languages, Blackthorn has a job opening for a senior salesforce developer"
 summaryBackup: "To apply as a senior salesforce developer at Blackthorn-io-inc, you preferably need to have some knowledge of: #management, #ui/ux, #git."
 featured: 9
+archived: "true"
 ---
 
 ## SENIOR SALESFORCE DEVELOPER

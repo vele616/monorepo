@@ -13,6 +13,7 @@ companyWebsite: "https://hellogustav.com/"
 summary: "As a Product Designer at Gustav, you will be creating design guidelines for our products to ensure interface consistency across devices."
 summaryBackup: "Love #ui/ux, #css, #branding? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 Gustav is looking for a Product Designer to join our fully-remote, international team.

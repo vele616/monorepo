@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "To apply as a Social Media and Content Executive at Vinterior, you preferably need to have 1-2 years experience working in a social media team."
 summaryBackup: "Love #socialmedia, #branding, #marketing? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

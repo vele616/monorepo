@@ -18,6 +18,7 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
         description={head.description}
       />
       <Navigation
+        className={styles.navigation}
         Logo={
           <Link
             to="/"
@@ -32,6 +33,14 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
         <Link className={`${styles.centerAlignedLink} link`} to="/search/">
           Search
         </Link>
+        <a
+          className={`link`}
+          rel="noreferrer noopener"
+          target="_blank"
+          href="https://crocoder.dev/blog"
+        >
+          Blog
+        </a>
         <a
           className={`link`}
           rel="noreferrer noopener"

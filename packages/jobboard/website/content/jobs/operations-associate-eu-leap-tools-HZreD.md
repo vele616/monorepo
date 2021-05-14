@@ -13,6 +13,7 @@ companyWebsite: "http://www.leaptools.com/"
 summary: "Leap Tools is looking for an Operations Associate that has experience in: #operations, #windows, #branding."
 summaryBackup: "Leap-tools is looking for an operations associate that has experience in: #operations, #windows, #branding."
 featured: 10
+archived: "true"
 ---
 
 ## Operations Associate

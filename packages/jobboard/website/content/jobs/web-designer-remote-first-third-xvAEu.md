@@ -13,6 +13,7 @@ companyWebsite: "https://firstandthird.applytojob.com/apply/firstandthird.com"
 summary: "First+Third wishes to hire a new Web Designer. If you have 3+ years experience as a designer or related discipline, consider applying."
 summaryBackup: "Love #ui/ux, #management, #css? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## Overview of role: 

@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have experience managing a team of programmers, 8Bit is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on new IP,  sci-fi RPG project is now on the lookout for a **Lead Gameplay Programmer.**

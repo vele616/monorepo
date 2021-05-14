@@ -1,0 +1,10 @@
+User-agent: googlebot
+Disallow: /search/
+Disallow: /404/
+Disallow: /archived-jobs/
+Disallow: /newsletter/*
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jobs.crocoder.dev/sitemap.xml

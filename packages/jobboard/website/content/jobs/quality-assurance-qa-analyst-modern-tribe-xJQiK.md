@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "To apply as a Quality Assurance Analyst at Modern Tribe, you preferably need to have a proven track record in Quality Assurance."
 summaryBackup: "Love #wordpress, #ui/ux, #git? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 ## The Opportunity

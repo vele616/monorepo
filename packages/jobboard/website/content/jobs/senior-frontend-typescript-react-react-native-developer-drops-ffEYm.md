@@ -13,6 +13,7 @@ companyWebsite: "http://languagedrops.com/"
 summary: "To apply as a senior frontend developer at Drops, you preferably need to have 2 years of experience in building apps with React or React Native with state management tools."
 summaryBackup: "Drops is looking for a senior frontend that has experience in: #reactjs, #management, #typescript."
 featured: 7
+archived: "true"
 ---
 
 ## Description

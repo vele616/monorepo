@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your knowledge."
 summaryBackup: "To apply as a saas sales representative at Startupz.com, you preferably need to have some knowledge of: #sales, #css, #ui/ux."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

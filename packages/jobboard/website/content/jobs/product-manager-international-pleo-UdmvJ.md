@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "Excited about #marketing, #management, #sales? Check out this job post!"
 summaryBackup: "Excited about #marketing, #management, #sales? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 

@@ -30,13 +30,10 @@ const Hero = ({
         columns="auto"
         className={styles.grid}
       >
-        <Img
-          fadeIn={false}
-          className={styles.image}
-          fluid={image ? image.childImageSharp.fluid : {}}
-          alt={'CroCoder Jobs'}
-          objectFit="contain"
-        />
+        <h1 className={styles.title}>
+          Cro
+          <span className={styles.coder}>Coder</span> Jobs
+        </h1>
         <Typography
           fontWeight={700}
           fontSize={50}

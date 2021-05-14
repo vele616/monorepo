@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is searching for a Lead Animation Programmer that has experience managing a team of programmers."
 summaryBackup: "Excited about #management, #ui/ux, #office? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on a new IP,  sci-fi RPG project is now on the lookout for a **Lead Animation Programmer** to provide technical leadership and balance the immediate and long term needs of the project.

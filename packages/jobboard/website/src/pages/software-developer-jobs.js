@@ -14,11 +14,11 @@ const AllSoftwareDeveloperJobsPage = ({ location }) => {
   return (
     <Layout
       head={{
-        title: 'All Software Developer Jobs',
+        title: 'All Remote Software Developer Jobs',
         description: '',
       }}
     >
-      <JobSection title="All Software Developer Jobs">
+      <JobSection title="All Remote Software Developer Jobs">
         <DevJobList scrollToJobWithIndex={scrollToJobWithIndex} />
       </JobSection>
       <Newsletter />

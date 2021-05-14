@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "To apply as a product manager at ChartMogul, you preferably need to have some knowledge of: #management, #analysis, #ui/ux."
 summaryBackup: "Excited about #management, #analysis, #ui/ux? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Job description

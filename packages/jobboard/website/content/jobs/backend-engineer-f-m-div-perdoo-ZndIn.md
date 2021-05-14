@@ -13,6 +13,7 @@ companyWebsite: "https://www.perdoo.com/"
 summary: "If you have 4+ years of experience running cloud-based backends at scale, consider applying to Perdoo's job post for a new Backend Engineer."
 summaryBackup: "Love #django, #python, #management? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Job description

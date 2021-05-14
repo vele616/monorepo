@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "Brandbassador wishes to hire a new Senior Full Stack Developer. If you have extensive experience in React OR Angular / Node / GraphQL / Apollo / TypeScript, consider applying."
 summaryBackup: "Brandbassador is looking for a senior full stack developer that has experience in: #branding, #ui/ux, #reactjs."
 featured: 3
+archived: "true"
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, Huel, Desenio and the list goes on. 

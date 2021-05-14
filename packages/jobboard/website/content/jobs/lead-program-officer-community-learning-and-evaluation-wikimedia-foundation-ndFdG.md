@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is looking for a Lead Program Officer that has experience in: #management, #analysis, #monitoring."
 summaryBackup: "Wikimedia Foundation is looking for a lead program officer that has experience in: #ui/ux, #content, #management."
 featured: 20
+archived: "true"
 ---
 
 ## Lead Program Officer, Community Learning and Evaluation

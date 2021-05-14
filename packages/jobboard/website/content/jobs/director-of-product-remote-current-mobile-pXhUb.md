@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Current Mobile intends to hire a new Director of Product. If you have you have experience working in ad tech, consider applying."
 summaryBackup: "Current Mobile is looking for a director of product that has experience in: #management, #ui/ux, #windows."
 featured: 7
+archived: "true"
 ---
 
 ## What is Current?

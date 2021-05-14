@@ -1,0 +1,27 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.whiteBackground {
+  background-color: $white;
+
+  @include mediaQuery(">=1199px") {
+    padding: 80px 100px 20px 100px !important;
+  }
+
+  @include mediaQuery(">=800px", "<1199px") {
+    padding: 60px 80px 20px 80px !important;
+  }
+
+  div {
+    width: auto !important;
+  }
+}
+
+.green {
+  color: $green_4;
+  font-weight: 600;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.3;
+}

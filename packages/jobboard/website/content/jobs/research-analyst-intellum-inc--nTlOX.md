@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Interested in new opportunities and have ability to prioritize and manage several projects and initiatives at once? Intellum has a job opening for a Research Analyst."
 summaryBackup: "Love #css, #content, #management? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

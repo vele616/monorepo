@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "To apply as a Live Chat Sales Specialist at Awesome Motive, you preferably need to have demonstrated experience in a sales position where your performance was measured by the volume of sales you produced."
 summaryBackup: "To apply as a live chat sales specialist at Awesome Motive, Inc, you preferably need to have some knowledge of: #sales, #marketing, #swift."
 featured: 10
+archived: "true"
 ---
 
 ## Purpose of Position

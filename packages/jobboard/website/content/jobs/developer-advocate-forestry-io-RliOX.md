@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/forestry"
 summary: "If you have 3 years of experience working in web development, consider applying to Forestry.io's job post for a new Developer Advocate."
 summaryBackup: "To apply as a developer advocate at Forestry.io, you preferably need to have some knowledge of: #content, #reactjs, #socialmedia."
 featured: 6
+archived: "true"
 ---
 
 At Forestry.io, we believe the web is one of humanity’s greatest achievements and our mission is to help people build a better web. We’re building a Git-backed content management system (CMS) and an open source site-editing toolkit ([TinaCMS](https://tinacms.org/)), both focused on the JAMstack. [We’re a growing company](https://forestry.io/about) with big dreams that's full of opportunities for you to have an impact and grow with us.

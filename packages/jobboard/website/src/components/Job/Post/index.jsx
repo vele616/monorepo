@@ -18,10 +18,14 @@ const JobPost = ({
     alignItems="center"
     className={`${gridElement && styles.gridElement} ${styles.wrapper}`}
   >
-    <CompanyLogo src={companyLogo} className={styles.image} />
+    <CompanyLogo alt={companyName} src={companyLogo} className={styles.image} />
     <Card narrow className={styles.card}>
       <Grid className={styles.post__content}>
-        <CompanyLogo src={companyLogo} className={styles.mini} />
+        <CompanyLogo
+          alt={companyName}
+          src={companyLogo}
+          className={styles.mini}
+        />
         <Typography
           className={styles.company_name}
           fontSize={20}

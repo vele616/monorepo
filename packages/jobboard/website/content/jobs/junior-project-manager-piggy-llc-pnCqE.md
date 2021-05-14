@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Piggy-llc is searching for a Junior Project Manager that has great educational background or relevant experiences preferably in the fields of computer science or engineering."
 summaryBackup: "Piggy-llc is looking for a junior project manager that has experience in: #management, #jira, #scrum."
 featured: 17
+archived: "true"
 ---
 
 Joinpiggy.com is looking for a junior project manager to work with our development team. The selected candidate can expect to work in a fast-paced environment with a growing company.

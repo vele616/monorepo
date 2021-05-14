@@ -10,9 +10,10 @@ hashtags: "#management,#cplusplus,#ui/ux,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/8bit"
 companyWebsite: "http://www.8bitplay.com/"
-summary: "If you have experience managing a team of programmers, 8Bit is looking for someone with your knowledge."
+summary: "If you have strong C++ programming and debugging skills, 8Bit is looking for someone with your knowledge."
 summaryBackup: "Love #management, #ui/ux, #office? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on a new IP,  sci-fi RPG project is now on the lookout for a **Lead AI Programmer** to provide technical leadership and ensure the delivery of high-quality of AI systems by the team.

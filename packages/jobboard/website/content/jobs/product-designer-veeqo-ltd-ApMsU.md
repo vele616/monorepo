@@ -13,6 +13,7 @@ companyWebsite: "https://www.veeqo.com/"
 summary: "Interested in new opportunities and have 3+ years of experience in a product design role? Veeqo has a job opening for a Product Designer."
 summaryBackup: "Love #ui/ux, #reactjs, #operations? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 Product designer

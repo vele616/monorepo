@@ -29,7 +29,7 @@ const IndexPage = ({ data }) => {
   }, []);
 
   const { group } = data.allMarkdownRemark;
-  const [ otherJobs, softwareJobs ] = group;
+  const [otherJobs, softwareJobs] = group;
 
   const otherJobsNumber = otherJobs.totalCount;
   const softwareJobsNumber = softwareJobs.totalCount;
@@ -37,7 +37,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout scrollToTop={scrollToTop}>
       <Hero topRef={topRef} scrollToSubscribe={scrollToSubscribe} />
-      <JobSection title="Software Developer Jobs">
+      <JobSection title="Remote Software Developer Jobs">
         <DevJobListLimit12 />
         {softwareJobsNumber > 12 && (
           <div
@@ -61,7 +61,7 @@ const IndexPage = ({ data }) => {
       <PostAJob />
 
       <Newsletter subscribeRef={subscribeRef} />
-      <JobSection title="Other IT Related Jobs">
+      <JobSection title="All other remote IT Jobs">
         <OtherJobListLimit12 />
         {otherJobsNumber > 12 && (
           <div
@@ -90,7 +90,7 @@ export default IndexPage;
 
 export const query = graphql`
   query indexQuery {
-    allMarkdownRemark(sort: {fields: frontmatter___jobType}) {
+    allMarkdownRemark(sort: { fields: frontmatter___jobType }) {
       group(field: frontmatter___jobType) {
         fieldValue
         totalCount

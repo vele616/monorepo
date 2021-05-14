@@ -13,6 +13,7 @@ companyWebsite: "https://smile.io/"
 summary: "Smile.io is looking for a VP People and Culture that has experience in: #HR, #management, #operations."
 summaryBackup: "Smile.io is looking for a vp people and culture that has experience in: #management, #branding, #ui/ux."
 featured: 13
+archived: "true"
 ---
 
 ## Description

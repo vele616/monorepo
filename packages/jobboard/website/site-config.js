@@ -1,9 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: 'CroCoder Jobs 🐊',
+  siteTitle: 'CroCoder Jobs | Remote jobs updated daily',
   siteTitleShort: 'CroCoder Jobs',
-  siteDescription: 'CroCoder Jobs is hub for all remote jobs that are availiable in Croatia and Europe.',
+  siteDescription:
+    'Find every remote job available for IT experts across Croatia and Europe. CroCoder Jobs has all of the latest remote jobs in one place, updated daily.',
   siteUrl: 'https://jobs.crocoder.dev',
   themeColor: '#000',
   backgroundColor: '#fff',

@@ -51,7 +51,7 @@ const JobDetails = ({
       </GoBackLink>
       <Grid className={styles.grid}>
         <div className={styles.image}>
-          <CompanyLogo src={logoUrl} />
+          <CompanyLogo alt={companyName} src={logoUrl} />
         </div>
         <Typography
           fontSize="34"

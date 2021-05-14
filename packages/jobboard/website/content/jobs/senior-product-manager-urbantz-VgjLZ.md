@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "If you have have solid experience of working as a Product manager in a technology start up environment, Urbantz has a job opening for a Senior Product Manager"
 summaryBackup: "To apply as a senior product manager at Urbantz, you preferably need to have some knowledge of: #marketing, #management, #ui/ux."
 featured: 7
+archived: "true"
 ---
 
 We are looking for an outstanding Senior Product Manager to oversee Urbantz’ product offerings.
