@@ -7,7 +7,7 @@ url: "http://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote
 applyUrl: "http://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote/applications/new?"
 timestamp: 1620777600000
 hashtags: "#typescript,#nodejs,#googlecloud,#socialmedia,#couchbase,#analysis,#finance"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
 summary: "If you have 2 years and over $4 million in development costs to create what is now Brandbassador, Brandbassador is looking for someone with your knowledge."
