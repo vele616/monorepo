@@ -1,18 +1,18 @@
 ---
-title: "Quantitative Trader (Remote possible - European and American time zones)"
+title: "Quantitative Trader"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/O14jmnWEY3Fb/quantitative-trader-remote-possible-european-and-american-time-zones"
 applyUrl: "https://keyrock.freshteam.com/jobs/O14jmnWEY3Fb/quantitative-trader-remote-possible-european-and-american-time-zones#applicant-form"
 timestamp: 1621296000000
-hashtags: "#management,#marketing,#swift,#operations,#finance,#analysis,#monitoring,#office,#English"
+hashtags: "#management,#analysis,#marketing,#swift,#operations,#finance,#monitoring,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "Keyrock is looking for a quantitative trader that has the freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year."
+summary: "Keyrock is looking for a Quantitative Trader that has understanding of digital assets and blockchain technologies."
 summaryBackup: "Keyrock is looking for a quantitative trader that has experience in: #management, #marketing, #swift."
-featured: 20
+featured: 10
 ---
 
 ## Keyrock is expanding!
@@ -25,7 +25,7 @@ A dynamic Junior Quantitative Trader to work in collaboration with our engineers
 
 Your mission will be to manage, supervise and track all Keyrock’s trading algorithms. We expect you to have a thorough understanding of not only Keyrock’s activities but also macro movements within the markets, and to have the capacity to analyze, assess and communicate in the most efficient, swift and professional manner observations made throughout trading activities. 
 
-## NB our current priority for this position is traders based in Europe and the Americas
+**NB our current priority for this position is traders based in Europe and the Americas**
 
 ## What you will be doing
 
