@@ -6,7 +6,7 @@ companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/z41D6wGyicR8/junior-technical-support-engineer-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/z41D6wGyicR8/junior-technical-support-engineer-remote-possible#applicant-form"
 timestamp: 1621296000000
-hashtags: "#analysis,#crypto,#monitoring,#marketing,#management,#docker,#office,#operations,#finance"
+hashtags: "#analysis,#monitoring,#crypto,#marketing,#management,#docker,#office,#operations,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
