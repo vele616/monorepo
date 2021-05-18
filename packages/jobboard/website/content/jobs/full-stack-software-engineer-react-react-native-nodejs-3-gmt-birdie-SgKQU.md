@@ -13,6 +13,7 @@ companyWebsite: "https://birdie.care/"
 summary: "To apply as a Full Stack Software Engineer at Birdie, you preferably need to have some knowledge of: #reactjs, #nodejs, #aws."
 summaryBackup: "Excited about #reactjs, #socialmedia, #nodejs? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Description
