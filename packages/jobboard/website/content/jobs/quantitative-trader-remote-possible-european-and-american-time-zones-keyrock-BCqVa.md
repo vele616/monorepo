@@ -6,7 +6,7 @@ companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/O14jmnWEY3Fb/quantitative-trader-remote-possible-european-and-american-time-zones"
 applyUrl: "https://keyrock.freshteam.com/jobs/O14jmnWEY3Fb/quantitative-trader-remote-possible-european-and-american-time-zones#applicant-form"
 timestamp: 1621296000000
-hashtags: "#management,#analysis,#crypto,#marketing,#swift,#operations,#finance,#monitoring,#office,#English"
+hashtags: "#analysis,#monitoring,#crypto,#management,#marketing,#swift,#operations,#finance,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
@@ -69,7 +69,7 @@ Your mission will be to manage, supervise and track all Keyrock’s trading algo
 
 **Past experience trading cryptocurrencies is essential. This doesn’t have to be professional experience - we’re also keen to talk to anyone who trades cryptocurrencies as a hobby.**
 
-Our recruitment philosophy
+## Our recruitment philosophy
 
 We believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.
 
