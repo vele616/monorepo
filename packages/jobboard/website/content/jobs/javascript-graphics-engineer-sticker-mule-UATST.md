@@ -10,7 +10,7 @@ hashtags: "#javascript,#reactjs,#typescript,#css,#html,#docker,#operations,#bran
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sticker-mule"
 companyWebsite: "https://www.stickermule.com/"
-summary: "To apply as a JavaScript Graphics Engineer at Sticker Mule, you preferably need to have some knowledge of: #javascript, #reactjs, #typescript."
+summary: "To apply as a Javascript Graphics Engineer at Sticker Mule, you preferably need to have some knowledge of: #javascript, #reactjs, #typescript."
 summaryBackup: "To apply as a javascript graphics engineer at Sticker Mule, you preferably need to have some knowledge of: #javascript, #reactjs, #typescript."
 featured: 10
 ---
