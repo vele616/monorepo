@@ -6,7 +6,7 @@ companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/O14jmnWEY3Fb/quantitative-trader-remote-possible-european-and-american-time-zones"
 applyUrl: "https://keyrock.freshteam.com/jobs/O14jmnWEY3Fb/quantitative-trader-remote-possible-european-and-american-time-zones#applicant-form"
 timestamp: 1621296000000
-hashtags: "#management,#analysis,#marketing,#swift,#operations,#finance,#monitoring,#office,#English"
+hashtags: "#management,#analysis,#crypto,#marketing,#swift,#operations,#finance,#monitoring,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
@@ -67,7 +67,7 @@ Your mission will be to manage, supervise and track all Keyrock’s trading algo
 *   Fluent in English
     
 
-## Past experience trading cryptocurrencies is essential. This doesn’t have to be professional experience - we’re also keen to talk to anyone who trades cryptocurrencies as a hobby.
+**Past experience trading cryptocurrencies is essential. This doesn’t have to be professional experience - we’re also keen to talk to anyone who trades cryptocurrencies as a hobby.**
 
 Our recruitment philosophy
 
