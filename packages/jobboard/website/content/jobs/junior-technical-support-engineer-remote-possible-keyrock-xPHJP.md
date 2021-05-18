@@ -1,18 +1,18 @@
 ---
-title: "Junior Technical Support Engineer (Remote possible)"
+title: "Jr. Technical Support Engineer"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/z41D6wGyicR8/junior-technical-support-engineer-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/z41D6wGyicR8/junior-technical-support-engineer-remote-possible#applicant-form"
 timestamp: 1621296000000
-hashtags: "#marketing,#management,#docker,#office,#operations,#analysis,#finance,#monitoring"
+hashtags: "#analysis,#monitoring,#crypto,#marketing,#management,#docker,#office,#operations,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "To apply as a junior technical support engineer at Keyrock, you preferably need to have the freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year."
+summary: "To apply as a Junior Technical Support Engineer at Keyrock, you preferably need to have proven professional experience in testing, customer support and business analysis."
 summaryBackup: "To apply as a junior technical support engineer at Keyrock, you preferably need to have some knowledge of: #marketing, #management, #docker."
-featured: 20
+featured: 12
 ---
 
 ## Keyrock is expanding!
@@ -25,7 +25,7 @@ Keyrock's beating heart is its technical team filled with software engineers, di
 
 A testing and business market analyst to provide internal support to Keyrock’s different teams in order to ensure our operations run smoothly. You’ll be responsible for implementing and improving support processes, and for overseeing our internal tools.
 
-## NB this position can be remote or based in our Brussels office, but candidates must be in a time zone within 2 hours of Brussels in either direction.
+**NB this position can be remote or based in our Brussels office, but candidates must be in a time zone within 2 hours of Brussels in either direction.**
 
 ## Background and experience
 
