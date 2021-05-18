@@ -13,6 +13,7 @@ companyWebsite: "https://balena.io/"
 summary: "Interested in new opportunities and have experience writing secure, high-quality code and debugging production systems? Balena has a job opening for a Security Engineer."
 summaryBackup: "To apply as a security engineer at Balena, you preferably need to have some knowledge of: #operations, #linux, #kubernetes."
 featured: 14
+archived: "true"
 ---
 
 ## Description

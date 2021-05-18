@@ -13,6 +13,7 @@ companyWebsite: "https://www.playtestcloud.com/"
 summary: "Interested in new opportunities and have some experience with frontend development? PlaytestCloud has a job opening for a Software Engineer."
 summaryBackup: "Playtestcloud is looking for a software engineer that has experience in: #rails, #rubylang, #angular."
 featured: 17
+archived: "true"
 ---
 
 ## About PlaytestCloud
