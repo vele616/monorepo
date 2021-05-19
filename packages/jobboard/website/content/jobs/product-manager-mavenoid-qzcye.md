@@ -12,18 +12,18 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Excited about experience in: #management, #branding, #marketing? Check out this job post!"
 summaryBackup: "Love #management, #branding, #marketing? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## Job description
 
 Here at Mavenoid, we are building a virtual product assistant that helps customers configure, use, and troubleshoot their products. With some of the world’s most iconic brands as clients and $10 million in funding, we're reinventing technical support. Our goal is to help customers repair more and replace less, make the most out of their products, and never wait on hold again.
 
-## The role
+**The role**
 
 As a Product Manager, you will be owning several product streams on our roadmap (such as Growth, Onboarding, Connectivity). This includes identifying problems to solve, validating their value (for users and customers) and business viability (for us), enabling the team to create and iterate on high-quality solutions.
 
-## Responsibilities
+**Responsibilities**
 
 *   Conduct ongoing product discovery (customer/user interviews, data/insights exploration, competitive analysis).
 *   Set OKRs for your product stream(s), agree on them with the team and approve with the Head of Product.
