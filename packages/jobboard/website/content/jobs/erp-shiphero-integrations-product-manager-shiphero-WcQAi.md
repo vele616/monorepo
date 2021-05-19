@@ -1,18 +1,18 @@
 ---
-title: "ERP <--> ShipHero Integrations Product Manager"
+title: "ERP Integrations Product Manager"
 location: "Remote Worldwide"
 host: "https://shiphero.breezy.hr/"
 companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/d24b97f81177-erp-shiphero-integrations-product-manager"
 applyUrl: "https://shiphero.breezy.hr/p/d24b97f81177-erp-shiphero-integrations-product-manager/apply"
 timestamp: 1621382400000
-hashtags: "#ui/ux,#management,#css,#sales"
+hashtags: "#management,#operations,#sales,#css,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "Shiphero is searching for an erp <--> shiphero integrations product manager that has experience working with SaaS software."
+summary: "ShipHero is searching for an ERP Integrations Product Manager that has experience working with SaaS software."
 summaryBackup: "Shiphero is looking for an erp <--> shiphero integrations product manager that has experience in: #ui/ux, #management, #css."
-featured: 20
+featured: 17
 ---
 
 We love helping our customers make the most out of ShipHero. Our customers use various accounting systems and ERPs, Netsuite being the most popular. Lead our efforts to build the bridge from ERPs to ShipHero in a way that is flexible and solves our customers needs.
@@ -30,7 +30,7 @@ As the project manager for our ERP and accounting integrations, you will:
 *   Identify ways to improve our product and our integrations.
 *   Be a resource for other team members across the company including engineering, sales and solutions.
 
-Requirements:
+## Requirements:
 
 *   Experience defining product requirements and validating that they are built correctly.
 *   Self driven, proactive and able to navigate through ambiguity, complexity.
