@@ -13,6 +13,7 @@ companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "If you have at least five years of experience working in the software industry, at least three of which were as a product manager or other key role on a product team, YNAB is looking for someone with your skillset."
 summaryBackup: "YNAB is looking for a humbly confident product manager that has experience in: #ui/ux, #marketing, #management."
 featured: 10
+archived: "true"
 ---
 
 ## About Us and Why We’re Hiring

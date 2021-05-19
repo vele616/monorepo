@@ -13,6 +13,7 @@ companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "If you have you have extensive experience with Kotlin and Java, consider applying to YNAB's job post for a new Senior Android Developer."
 summaryBackup: "YNAB is looking for a humbly confident senior android developer that has experience in: #kotlin, #android, #javascript."
 featured: 7
+archived: "true"
 ---
 
 ## About Us and Why We’re Hiring
