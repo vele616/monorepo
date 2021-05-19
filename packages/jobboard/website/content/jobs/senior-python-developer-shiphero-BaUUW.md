@@ -6,18 +6,18 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/e590b26d8760-senior-python-developer"
 applyUrl: "https://shiphero.breezy.hr/p/e590b26d8760-senior-python-developer/apply"
 timestamp: 1621382400000
-hashtags: "#python,#ui/ux,#aws,#operations,#rest,#optimization"
+hashtags: "#python,#optimization,#operations,#ui/ux,#aws,#rest"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "Shiphero wishes to hire a new senior python developer. If you have 5+ years of experience writing Python, consider applying."
+summary: "ShipHero wishes to hire a new Senior Python Developer. If you have 5+ years of experience writing Python, consider applying."
 summaryBackup: "Excited about #python, #ui/ux, #aws? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## About ShipHero
 
-Hello. We are ShipHero (https://shiphero.com). We have built a software platform entrusted by hundreds of ecommerce companies, large and small to run their operations and we continue to grow. About US$5 billion of ecommerce orders are shipped a year via ShipHero. Our customers sell on Shopify, Amazon, Etsy, Ebay, WooCommerce, BigCommerce and many other platforms. We’re driven to help our customers grow their businesses by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful, easy to use and is loved by our customers. Our culture also reflects our ethos and belief that by bringing passionate, talented and great people together - you can do great things.
+Hello. We are [ShipHero](https://shiphero.com). We have built a software platform entrusted by hundreds of ecommerce companies, large and small to run their operations and we continue to grow. About US$5 billion of ecommerce orders are shipped a year via ShipHero. Our customers sell on Shopify, Amazon, Etsy, Ebay, WooCommerce, BigCommerce and many other platforms. We’re driven to help our customers grow their businesses by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful, easy to use and is loved by our customers. Our culture also reflects our ethos and belief that by bringing passionate, talented and great people together - you can do great things.
 
 Our team is fully remote, with most of our engineers currently spread over the Americas but have been building out teams in Europe as well. We communicate regularly using video chat and Slack, and put a a emphasis on asynchronous work so people have large chunks of uninterrupted time to focus and do deep work.
 
