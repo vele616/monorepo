@@ -6,13 +6,13 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/5eec56ac663c-customer-success-manager"
 applyUrl: "https://shiphero.breezy.hr/p/5eec56ac663c-customer-success-manager/apply"
 timestamp: 1621382400000
-hashtags: "#management,#sales,#css,#aws,#ui/ux,#marketing,#operations,#office"
+hashtags: "#management,#sales,#marketing,#css,#aws,#ui/ux,#operations,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "Shiphero is searching for a customer success manager that has 2-years of Account Management experience and a proven ability to succeed in a fast-paced, dynamic and high growth environment."
+summary: "ShipHero is searching for a Customer Success Manager that has 2-years of Account Management experience and a proven ability to succeed in a fast-paced, dynamic and high growth environment."
 summaryBackup: "Love #management, #sales, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## What We Do:
@@ -33,8 +33,8 @@ This is a remote position. We communicate regularly using video chat and Slack.
 *   Are willing to travel based on customer and business need (10-25% travel)
 *   Have knowledge of the warehouse and/or logistics industries
 
-About ShipHero
+## About ShipHero
 
-Hello. We are ShipHero ([https://shiphero.com](http://shiphero.com)). We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their eCommerce operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented, and great people together - you can do great things. We are looking for people who are passionate about technology and helping people solve problems.
+Hello. We are [ShipHero](http://shiphero.com). We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their eCommerce operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented, and great people together - you can do great things. We are looking for people who are passionate about technology and helping people solve problems.
 
 Equal Opportunity Employer/Veterans/Disabled
