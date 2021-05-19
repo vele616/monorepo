@@ -6,13 +6,13 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/92e74ab88f50-tier-2-support-specialist"
 applyUrl: "https://shiphero.breezy.hr/p/92e74ab88f50-tier-2-support-specialist/apply"
 timestamp: 1621382400000
-hashtags: "#javascript,#python,#css,#html,#aws,#ui/ux,#office,#operations,#analysis"
-jobType: "software"
+hashtags: "#javascript,#python,#html,#css,#aws,#ui/ux,#office,#operations,#analysis"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "Excited about experience in: #javascript, #python, #css? Check out this job post!"
+summary: "Excited about experience in: #javascript, #python, #html? Check out this job post!"
 summaryBackup: "To apply as a tier 2 support specialist at Shiphero, you preferably need to have some knowledge of: #javascript, #python, #css."
-featured: 20
+featured: 13
 ---
 
 ## What We Do:
@@ -43,6 +43,6 @@ This is a remote, work from home position. We collaborate daily with video chat 
 
 About ShipHero
 
-Hello. We are ShipHero ([https://shiphero.com](http://shiphero.com)). We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their eCommerce operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented and great people together - you can do great things. We are looking for people who are passionate about technology and helping people solve problems.
+Hello. We are ShipHero [https://shiphero.com](http://shiphero.com). We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their eCommerce operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented and great people together - you can do great things. We are looking for people who are passionate about technology and helping people solve problems.
 
 Equal Opportunity Employer/Veterans/Disabled
