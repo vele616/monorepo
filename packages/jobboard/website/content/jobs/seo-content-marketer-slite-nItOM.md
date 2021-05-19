@@ -10,9 +10,9 @@ hashtags: "#content,#marketing,#analytics,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/slite"
 companyWebsite: "http://www.slite.com/"
-summary: "To apply as a seo content marketer at Slite, you preferably need to have 1+ year) ideally within a B2B industry is a big plus."
+summary: "To apply as a SEO Content Marketer at Slite, you preferably need to have good understanding of SEO & digital marketing."
 summaryBackup: "Love #content, #marketing, #analytics? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 You will lead and develop all our efforts regarding Content for SEO purposes. We've been growing this channel very well last year and we see promising potential on making it Slite's first acquisition channel.
