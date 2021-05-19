@@ -1,25 +1,25 @@
 ---
-title: "Humbly Confident Part-Time Support Specialist"
+title: "Support Specialist"
 location: "Anywhere"
 host: "https://ynab.recruiterbox.com/#content"
 companyName: "YNAB"
 url: "https://ynab.recruiterbox.com/jobs/fk0uafn/"
 applyUrl: "https://ynab.recruiterbox.com/jobs/fk0uafn/?apply=true"
 timestamp: 1621382400000
-hashtags: "#management,#office,#branding,#operations,#rest,#English,#finance"
+hashtags: "#management,#cplusplus,#operations,#office,#branding,#rest,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/ynab"
 companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "If you have you have experience working remotely, YNAB is looking for someone with your knowledge."
 summaryBackup: "Love #management, #office, #branding? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## About Us and Why We're Hiring
 
 We build “You Need a Budget,” the best budgeting software around. (But people in the know call us YNAB, which is pronounced “why-nab”). For more than a decade, people have been buying YNAB and then telling their friends what a difference it has made in their lives. [Google us](https://www.google.com/search?q=ynab), or read some of our [reviews on the app store](https://apps.apple.com/us/app/ynab-you-need-a-budget/id1010865877), and you’ll see what we mean. We love building something that literally changes people’s lives, and we have an impressive (if we do say so ourselves) ecosystem of apps, live classes, and stellar support.
 
-As YNAB continues to grow, we are looking for friendly, technically-savvy Customer Support Specialists to join our team! It’s a part-time (25-29 hours a week) remote position, and you might just be a perfect fit. You’ll know it if you’re somewhat of a YNAB wizard already (or are quick to learn!), and are known for being helpful, patient, and awesome–particularly when it comes to technical problem solving and explaining complicated things in a way anyone can understand.
+As YNAB continues to grow, we are looking for friendly, technically-savvy Customer Support Specialists to join our team! It’s a **part-time** (25-29 hours a week) remote position, and you might just be a perfect fit. You’ll know it if you’re somewhat of a YNAB wizard already (or are quick to learn!), and are known for being helpful, patient, and awesome–particularly when it comes to technical problem solving and explaining complicated things in a way anyone can understand.
 
 We love our YNAB customers, and we want to make sure they love their support experience. You’ll look forward to every chat message and email, because it’s an opportunity to help another person gain control of their money and become a better budgeter.
 
