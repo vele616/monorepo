@@ -1,18 +1,17 @@
 ---
-title: "Software Development Engineer (Fullstack)"
+title: "Software Development Engineer"
 location: ""
 host: "https://gistia.breezy.hr/"
 companyName: "gistia"
 url: "https://gistia.breezy.hr/p/55e23477180c-software-development-engineer-fullstack"
 applyUrl: "https://gistia.breezy.hr/p/55e23477180c-software-development-engineer-fullstack/apply"
 timestamp: 1621382400000
-hashtags: "#reactjs,#java,#ui/ux,#html,#css,#javascript,#angular,#typescript,#management,#ansible"
+hashtags: "#reactjs,#java,#javascript,#ui/ux,#html,#css,#angular,#typescript,#management,#ansible"
 jobType: "software"
-
 companyWebsite: "https://gistia.breezy.hr/"
 summary: "If you have 3 years of experience, having built, delivered, and maintained at least 2-3 applications, back to front, Gistia is looking for someone with your skillset."
 summaryBackup: "To apply as a software development engineer at Gistia, you preferably need to have some knowledge of: #reactjs, #java, #ui/ux."
-featured: 20
+featured: 10
 ---
 
 ## Keyword Search:
