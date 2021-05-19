@@ -6,13 +6,13 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/5bef309b8382-tier-1-support-specialist"
 applyUrl: "https://shiphero.breezy.hr/p/5bef309b8382-tier-1-support-specialist/apply"
 timestamp: 1621382400000
-hashtags: "#css,#office,#aws,#ui/ux,#marketing,#operations,#sales"
+hashtags: "#marketing,#operations,#sales,#css,#office,#aws,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
-summary: "If you have 1-year experience in customer service, Shiphero is looking for someone with your knowledge."
+summary: "If you have 1-year experience in customer service, ShipHero is looking for someone with your knowledge."
 summaryBackup: "Love #css, #office, #aws? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## What We Do:
@@ -35,6 +35,6 @@ This is a remote position. We communicate regularly using video chat and Slack.
 
 ## About ShipHero
 
-Hello. We are ShipHero ([https://shiphero.com](http://shiphero.com)). We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their eCommerce operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented, and great people together - you can do great things. We are looking for people who are passionate about technology and helping people solve problems.
+Hello. We are ShipHero [https://shiphero.com](http://shiphero.com). We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their eCommerce operations. Many of our customers sell on Shopify and/or Amazon. We’re driven to help our customers grow their businesses, by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology that is beautiful and easy to use. Our culture also reflects our ethos and belief that by bringing passionate, talented, and great people together - you can do great things. We are looking for people who are passionate about technology and helping people solve problems.
 
 Equal Opportunity Employer/Veterans/Disabled
