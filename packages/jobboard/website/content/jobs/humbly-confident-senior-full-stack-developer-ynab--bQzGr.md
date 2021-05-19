@@ -13,6 +13,7 @@ companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "YNAB wishes to hire a new Senior Full Stack Developer. If you have at least five years of experience building, shipping, monitoring, and maintaining SaaS apps at scale, consider applying."
 summaryBackup: "YNAB is looking for a humbly confident senior full stack developer that has experience in: #rails, #vuejs, #typescript."
 featured: 16
+archived: "true"
 ---
 
 ## About Us and Why We’re Hiring
