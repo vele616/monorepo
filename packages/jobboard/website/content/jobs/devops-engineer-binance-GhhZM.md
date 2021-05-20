@@ -10,9 +10,9 @@ hashtags: "#python,#golang,#terraform,#ansible,#linux,#kubernetes,#docker,#aws,#
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "To apply as a devops engineer at Binance, you preferably need to have 3-6+ years of technical experience in a or similar role supporting large scale production systems."
+summary: "To apply as a DevOps Engineer at Binance, you preferably need to have 3-6+ years of technical experience in a or similar role supporting large scale production systems."
 summaryBackup: "Love #python, #golang, #terraform? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
