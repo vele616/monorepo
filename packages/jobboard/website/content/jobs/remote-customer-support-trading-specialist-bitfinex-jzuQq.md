@@ -1,18 +1,18 @@
 ---
-title: "Remote Customer Support Trading Specialist"
+title: "Customer Support Trading Specialist"
 location: ""
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/remote-customer-support-trading-specialist"
 applyUrl: "https://bitfinex.recruitee.com/o/remote-customer-support-trading-specialist/c/new"
 timestamp: 1621468800000
-hashtags: "#marketing,#office,#analysis,#finance,#English"
+hashtags: "#analysis,#finance,#crypto,#marketing,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "To apply as a remote customer support trading specialist at Bitfinex, you preferably need to have experience and a deep interest in working with Finance, Mathematics or Statistics."
+summary: "To apply as a remote Customer Support Trading Specialist at Bitfinex, you preferably need to have experience and a deep interest in working with Finance, Mathematics or Statistics."
 summaryBackup: "To apply as a remote customer support trading specialist at Bitfinex, you preferably need to have some knowledge of: #marketing, #office, #analysis."
-featured: 20
+featured: 8
 ---
 
 ## Job description
