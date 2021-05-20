@@ -10,9 +10,9 @@ hashtags: "#operations,#management,#analysis,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "Bitfinex is looking for an operations analyst that has experience in: experience in: #operations, #management, #analysis."
+summary: "Bitfinex is looking for an Operations Analyst that has experience in: #operations, #management, #analysis."
 summaryBackup: "To apply as an operations analyst at Bitfinex, you preferably need to have some knowledge of: #operations, #management, #analysis."
-featured: 20
+featured: 11
 ---
 
 ## Job description
