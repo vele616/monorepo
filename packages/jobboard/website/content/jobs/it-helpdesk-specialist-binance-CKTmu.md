@@ -6,13 +6,13 @@ companyName: "Binance"
 url: "https://jobs.lever.co/binance/14cbd453-591b-401e-b11a-03a2a61a4951"
 applyUrl: "https://jobs.lever.co/binance/14cbd453-591b-401e-b11a-03a2a61a4951/apply"
 timestamp: 1621468800000
-hashtags: "#operations,#ios,#analysis,#monitoring,#finance,#English"
+hashtags: "#operations,#ios,#monitoring,#analysis,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "Interested in new opportunities and have 2 years experience working within network and servers? Binance has a job opening for an it helpdesk specialist."
+summary: "Interested in new opportunities and have 2 years experience working within network and servers? Binance has a job opening for an IT Helpdesk Specialist."
 summaryBackup: "To apply as an it helpdesk specialist at Binance, you preferably need to have some knowledge of: #operations, #ios, #analysis."
-featured: 20
+featured: 15
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
