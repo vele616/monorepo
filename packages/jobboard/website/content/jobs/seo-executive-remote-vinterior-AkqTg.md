@@ -1,18 +1,18 @@
 ---
-title: "SEO Executive - Remote"
+title: "SEO Executive"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vinterior/"
 companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/BE2C38CCFE/"
 applyUrl: "https://apply.workable.com/vinterior/j/BE2C38CCFE/apply/"
 timestamp: 1621468800000
-hashtags: "#management,#analysis,#branding,#marketing,#operations"
+hashtags: "#management,#analysis,#marketing,#branding,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
 summary: "If you have 3+ years of experience working in SEO, either in-house or agency side, Vinterior is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #analysis, #branding? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 ## Description
@@ -57,4 +57,14 @@ We're looking for a high-analytical and data-driven SEO Executive, with a breadt
 *   Pension
 *   Employee discount on product
 
-**Our values**Our interview process looks for people who share our company values.[Please find them here](https://www.notion.so/Vinterior-ba2940b7744a4ec180b8a4d5f07c7e21).The more these values sound like you and describe people you want to work with, the more likely you will thrive at Vinterior.**Remote working**Working hours We operate on British office hours, so we’re looking for people who are fully available to work during these hours.Stable internet connection This is a remote role, so please check that you have a suitable and stable internet connection before applying.We appreciate this is a tricky time for many to navigate career changes and want to be as transparent as possible. Vinterior typically receives a high volume of applications and unfortunately, we’re unlikely to be able to respond to everyone individually about the status of your application.Thanks for being patient and we’ll be in touch if we’re keen to take your application further. We’ll also notify all applicants once the role has been filled.Vinterior is passionate about championing diversity and treats each application equally and respectfully._No recruitment consultants please. Visa Sponsorship not available._
+**Our values**
+
+Our interview process looks for people who share our company values.
+
+[Please find them here](https://www.notion.so/Vinterior-ba2940b7744a4ec180b8a4d5f07c7e21).
+
+The more these values sound like you and describe people you want to work with, the more likely you will thrive at Vinterior.
+
+**Remote working**
+
+Working hours We operate on British office hours, so we’re looking for people who are fully available to work during these hours.Stable internet connection This is a remote role, so please check that you have a suitable and stable internet connection before applying.We appreciate this is a tricky time for many to navigate career changes and want to be as transparent as possible. Vinterior typically receives a high volume of applications and unfortunately, we’re unlikely to be able to respond to everyone individually about the status of your application.Thanks for being patient and we’ll be in touch if we’re keen to take your application further. We’ll also notify all applicants once the role has been filled.Vinterior is passionate about championing diversity and treats each application equally and respectfully._No recruitment consultants please. Visa Sponsorship not available._
