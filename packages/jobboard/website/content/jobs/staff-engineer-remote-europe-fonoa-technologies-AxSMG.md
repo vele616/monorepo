@@ -1,18 +1,18 @@
 ---
-title: "Staff Engineer (Remote) - Europe"
+title: "Staff Engineer"
 location: "Netherlands"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/C4EFFD5BCF/"
 applyUrl: "https://apply.workable.com/fonoa/j/C4EFFD5BCF/apply/"
 timestamp: 1621468800000
-hashtags: "#ui/ux,#css,#windows,#aws,#content,#office,#operations,#finance"
+hashtags: "#operations,#management,#analysis,#ui/ux,#css,#windows,#aws,#content,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
-summary: "Fonoa Technologies intends to hire a new staff engineer. If you have to be successful in this role you should have experience leading projects in a fast paced start environment, with a proven track record of taking ownership from start to finish over the technical roadmap, consider applying."
+summary: "Fonoa Technologies intends to hire a new Staff Engineer. If you have relevant experience as a Technical Lead / Staff Engineer in a technology led organisation, consider applying."
 summaryBackup: "To apply as a staff engineer at Fonoa Technologies, you preferably need to have some knowledge of: #ui/ux, #css, #windows."
-featured: 20
+featured: 12
 ---
 
 ## Description
