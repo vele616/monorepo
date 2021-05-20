@@ -1,18 +1,18 @@
 ---
-title: "Engineering Manager (Remote) - Europe"
+title: "Engineering Manager"
 location: ""
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/4FB07BB329/"
 applyUrl: "https://apply.workable.com/fonoa/j/4FB07BB329/apply/"
 timestamp: 1621468800000
-hashtags: "#management,#css,#windows,#aws,#content,#ui/ux,#operations,#office,#finance"
+hashtags: "#management,#operations,#fintech,#css,#windows,#aws,#content,#ui/ux,#office,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
-summary: "Love experience in: #management, #css, #windows? Check out this job post!"
+summary: "Love experience in: #management, #operations, #fintech? Check out this job post!"
 summaryBackup: "To apply as an engineering manager at Fonoa Technologies, you preferably need to have some knowledge of: #management, #css, #windows."
-featured: 20
+featured: 14
 ---
 
 ## Description
