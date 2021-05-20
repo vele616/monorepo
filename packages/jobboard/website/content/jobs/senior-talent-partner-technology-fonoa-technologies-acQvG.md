@@ -1,18 +1,18 @@
 ---
-title: "Senior Talent Partner (Technology)"
+title: "Senior Talent Partner"
 location: ""
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/5DD20D1A5D/"
 applyUrl: "https://apply.workable.com/fonoa/j/5DD20D1A5D/apply/"
 timestamp: 1621468800000
-hashtags: "#css,#branding,#management,#operations,#windows,#sales,#office,#optimization"
+hashtags: "#management,#operations,#HR,#css,#branding,#windows,#sales,#office,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
-summary: "Fonoa Technologies is looking for a senior talent partner that has experience in: experience in: #css, #branding, #management."
+summary: "Fonoa Technologies is looking for a Senior Talent Partner that has experience in: ##management, #operations, #HR."
 summaryBackup: "Love #css, #branding, #management? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
