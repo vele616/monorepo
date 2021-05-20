@@ -6,13 +6,13 @@ companyName: "Binance"
 url: "https://jobs.lever.co/binance/9eface80-60e0-4a38-b4db-aec4b6290d39"
 applyUrl: "https://jobs.lever.co/binance/9eface80-60e0-4a38-b4db-aec4b6290d39/apply"
 timestamp: 1621468800000
-hashtags: "#ui/ux,#office,#photoshop,#analysis,#finance,#English"
+hashtags: "#analysis,#finance,#crypto,#ui/ux,#office,#photoshop,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
-summary: "To apply as an investigations specialist at Binance, you preferably need to have some knowledge of: experience in: #ui/ux, #office, #photoshop."
+summary: "To apply as an Investigations Specialist at Binance, you preferably need to have some knowledge of: #analysis, #finance, #crypto."
 summaryBackup: "Love #ui/ux, #office, #photoshop? Check out this job post!"
-featured: 20
+featured: 13
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
