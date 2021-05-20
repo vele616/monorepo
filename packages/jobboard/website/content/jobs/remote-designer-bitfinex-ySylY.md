@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have 3+ years experience working on a mix of graphic design and UI/UX, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Love #photoshop, #ui/ux, #socialmedia? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Job description

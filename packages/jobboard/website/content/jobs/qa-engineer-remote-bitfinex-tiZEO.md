@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have 3+ years of experience in QA, Bitfinex is looking for someone with your skillset."
 summaryBackup: "Love #javascript, #python, #html? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## Job description

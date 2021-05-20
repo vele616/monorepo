@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "Binance is searching for a Customer Support Specialist that has 1+ years experience of proven customer facing experience or experience as a customer service representative."
 summaryBackup: "Excited about #management, #operations, #office? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.

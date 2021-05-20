@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "To apply as a Senior Product Data Analyst at Vinterior, you preferably need to have 5 years of experience doing similar work elsewhere."
 summaryBackup: "To apply as a senior product data analyst at Vinterior, you preferably need to have some knowledge of: #ui/ux, #python, #marketing."
 featured: 14
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have experience and a deep interest in working with Finance, Mathematics or Statistics, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Excited about #marketing, #analysis, #office? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description
