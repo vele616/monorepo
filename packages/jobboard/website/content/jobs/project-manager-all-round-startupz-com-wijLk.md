@@ -1,18 +1,18 @@
 ---
-title: "Project Manager (all-round)"
+title: "Project Manager"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/project-manager-allround-5"
 applyUrl: "https://startupzcom.recruitee.com/o/project-manager-allround-5/c/new"
 timestamp: 1621555200000
-hashtags: "#management,#ui/ux,#operations,#office,#English,#Dutch"
+hashtags: "#management,#operations,#English,#office,#ui/ux,#Dutch"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have you may have experience in working in an international environment, Startupz.com is looking for someone with your skillset."
+summary: "If you have you may have experience in working in an international environment, Startupz is looking for someone with your skillset."
 summaryBackup: "Love #management, #ui/ux, #operations? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 ## Job description
@@ -29,7 +29,9 @@ As a Project Manager you will be assigned to work on several small projects and 
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. _What else can you expect from us?_
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+
+_What else can you expect from us?_
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
@@ -39,7 +41,9 @@ You can expect a mindful onboarding process with ramp-up and time to learn. You 
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
-**About You**We are looking for someone who is ready for this challenge with a getting things done work spirit.You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
+**About You**
+
+We are looking for someone who is ready for this challenge with a getting things done work spirit.You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
