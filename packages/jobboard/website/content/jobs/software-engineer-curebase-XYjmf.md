@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "Curebase is looking for a Software Engineer that has interest in healthcare, experience building quality web applications, and experience in one of our current skill gaps."
 summaryBackup: "Excited about #javascript, #terraform, #aws? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## About the job

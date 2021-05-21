@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have you may have experience making deals of different sizes and levels of complexity, Startupz is looking for someone with your knowledge."
 summaryBackup: "To apply as a software account executive at Startupz.com, you preferably need to have some knowledge of: #sales, #ui/ux, #operations."
 featured: 13
+archived: "true"
 ---
 
 ## Job description
