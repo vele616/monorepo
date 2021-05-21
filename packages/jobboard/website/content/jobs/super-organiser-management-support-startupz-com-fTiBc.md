@@ -6,7 +6,7 @@ companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/super-organiser-management-support"
 applyUrl: "https://startupzcom.recruitee.com/o/super-organiser-management-support/c/new"
 timestamp: 1621555200000
-hashtags: "#ui/ux,#management,#operations,#sales,#Dutch,#translation,#office,#English"
+hashtags: "#management,#operations,#Dutch,#sales,#translation,#ui/ux,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
@@ -31,7 +31,9 @@ As our super organiser you will be assigned to work on diverse and advanced admi
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. _What else can you expect from us?_
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+
+_What else can you expect from us?_
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
