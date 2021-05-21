@@ -1,18 +1,18 @@
 ---
-title: "Manager backoffice"
+title: "Manager Backoffice"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/manager-backoffice"
 applyUrl: "https://startupzcom.recruitee.com/o/manager-backoffice/c/new"
 timestamp: 1621555200000
-hashtags: "#management,#ui/ux,#operations,#office,#English,#Dutch"
+hashtags: "#management,#operations,#English,#office,#ui/ux,#Dutch"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Startupz.com wishes to hire a new manager backoffice. If you have you may have experience in working in an international environment, consider applying."
+summary: "Startupz wishes to hire a new Manager Backoffice. If you have experience in working in an international environment, consider applying."
 summaryBackup: "Love #management, #ui/ux, #operations? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Job description
@@ -39,7 +39,9 @@ You can expect a mindful onboarding process with ramp-up and time to learn. You 
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
-**About You**We are looking for someone who is ready for this challenge with a getting things done work spirit.You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
+**About You**
+
+We are looking for someone who is ready for this challenge with a getting things done work spirit.You can expect a mindful onboarding process with ramp-up and time to learn. You can expect a team that listens, and to be heard. You can expect to give and provide direct feedback. You can expect to be counted on. You can expect to do your best work and build a career here.
 
 We build our apps, our teams, and our company for the long haul, with a strong eye to other teams’ effectiveness & happiness, from design to support and operations. A healthy, resilient app starts with a healthy, resilient organization.
 
