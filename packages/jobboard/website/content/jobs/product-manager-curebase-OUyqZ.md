@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "Curebase is searching for a Product Manager that has 4+ years of experience in product management."
 summaryBackup: "Love #marketing, #management, #ui/ux? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## About Curebase

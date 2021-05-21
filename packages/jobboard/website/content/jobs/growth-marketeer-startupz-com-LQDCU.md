@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Startupz is looking for a Growth Marketeer that has experience in: #marketing, #sales, #ui/ux."
 summaryBackup: "Startupz.com is looking for a growth marketeer that has experience in: #marketing, #sales, #ui/ux."
 featured: 10
+archived: "true"
 ---
 
 ## Job description
