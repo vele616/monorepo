@@ -1,8 +1,8 @@
 ---
-title: "Backend Engineer (Ruby-on-Rails)"
+title: "Backend Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-6"
 applyUrl: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-6/c/new"
 timestamp: 1621555200000
@@ -10,9 +10,9 @@ hashtags: "#javascript,#rubylang,#reactjs,#rails,#ui/ux,#aws,#operations,#manage
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have experience with the tools, Startupz.com is looking for someone with your skillset."
+summary: "If you have experience with PostgreSQL and/or Elasticsearch, Startupz is looking for someone with your skillset."
 summaryBackup: "Startupz.com is looking for a backend engineer that has experience in: #javascript, #rubylang, #reactjs."
-featured: 20
+featured: 12
 ---
 
 ## Job description
@@ -35,7 +35,7 @@ These are the most important aspects you’ll be working on:
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co.
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co.
 
 Check out our projects to get an idea of what we like to work on (please note: pre-launch projects are not on our website yet).
 
