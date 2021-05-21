@@ -1,8 +1,8 @@
 ---
-title: "Front End Engineer (Javascript)"
+title: "Front End Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
+companyName: "Startupz"
 url: "https://startupzcom.recruitee.com/o/front-end-engineer-javascript-6"
 applyUrl: "https://startupzcom.recruitee.com/o/front-end-engineer-javascript-6/c/new"
 timestamp: 1621555200000
@@ -10,9 +10,9 @@ hashtags: "#javascript,#ui/ux,#reactjs,#rails,#rubylang,#css,#operations,#Englis
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have 5 years of experience developing web applications, Startupz.com has a job opening for a front end engineer"
+summary: "If you have 5 years of experience developing web applications, Startupz has a job opening for a Front End Engineer"
 summaryBackup: "Love #javascript, #ui/ux, #reactjs? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job description
@@ -40,7 +40,9 @@ These are the most important aspects you’ll be working on:
 
 Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services,   and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. Check out our projects to get an idea of what we like to work on (please note: pre-launch projects are not on our website yet).
 
-We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. _What else can you expect from us?_
+We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+
+_What else can you expect from us?_
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
