@@ -14,10 +14,15 @@
 .layout {
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 
 .topRow {
   display: grid;
+}
+
+.title {
+  margin: auto;
 }
 
 @media screen and (max-width: 767px) {

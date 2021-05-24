@@ -16,7 +16,7 @@ export default function Home() {
         target="_blank"
       >
         <Image
-          class={styles.logo}
+          className={styles.logo}
           width={80}
           height={80}
           alt="CroCoder Logo"
@@ -25,13 +25,9 @@ export default function Home() {
       </a>
       <main className={styles.layout}>
         <h1 className={styles.title}>After Work Talks</h1>
-        <div className={styles.topRow}>
-          <div
-            style={{ backgroundColor: "red", gridColumn: "1 / span 1" }}
-          ></div>
-          <div
-            style={{ backgroundColor: "blue", gridColumn: "2 / span 1" }}
-          ></div>
+        <div>
+          <div>abc</div>
+          <div>def</div>
         </div>
       </main>
       <footer></footer>
