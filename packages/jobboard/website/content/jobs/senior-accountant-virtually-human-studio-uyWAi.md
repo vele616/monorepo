@@ -13,6 +13,7 @@ companyWebsite: "http://vhslab.com/"
 summary: "Virtually Human Studio is looking for a Senior Accountant that has 3+ years industry experience within an accounting role."
 summaryBackup: "Love #management, #finance? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description
