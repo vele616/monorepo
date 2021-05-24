@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have interest in healthcare, experience building quality web applications, and experience in one of our current skill gaps, Curebase is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #terraform, #aws? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## About the job

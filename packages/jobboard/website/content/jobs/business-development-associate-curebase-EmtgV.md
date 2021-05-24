@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have experience with clinical studies, consider applying to Curebase's job post for a new Business Development Associate."
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Do you want to use your science/engineering skills and business acumen to change medical research for the better?

@@ -2,18 +2,17 @@
 title: "Growth Marketeer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
-companyName: "Startupz.com"
-url: "https://startupzcom.recruitee.com/o/growth-marketeer-2"
-applyUrl: "https://startupzcom.recruitee.com/o/growth-marketeer-2/c/new"
-timestamp: 1618790400000
-hashtags: "#marketing,#content,#analytics,#sales,#ui/ux,#socialmedia,#management,#operations,#analysis,#office"
+companyName: "Startupz"
+url: "https://startupzcom.recruitee.com/o/growth-marketeer-3"
+applyUrl: "https://startupzcom.recruitee.com/o/growth-marketeer-3/c/new"
+timestamp: 1621555200000
+hashtags: "#marketing,#sales,#analysis,#ui/ux,#socialmedia,#content,#analytics,#management,#operations,#analysis,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "Startupz is looking for a Growth Marketeer that has experience in: #marketing, #sales, #ui/ux."
-summaryBackup: "Startupz.com is looking for a growth marketeer that has experience in: #marketing, #sales, #ui/ux."
+summary: "To apply as a Growth Marketeer at Startupz, you preferably need to have some knowledge of: #marketing, #sales, #analysis."
+summaryBackup: "Excited about #marketing, #sales, #ui/ux? Check out this job post!"
 featured: 10
-archived: "true"
 ---
 
 ## Job description
@@ -43,7 +42,9 @@ The position is about marketing our new products and services which we scale int
 
 **About Startupz**
 
-Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. What else can you expect from us?
+Startupz is a startup studio that develops and launches new companies. We develop innovative products, systems and services, and then build teams to scale them into companies.Some of the things we do: we work to eliminate language barriers at Tolq.com, protect your privacy at LegalSite.co and make the internet safer at Codekeeper.co. We are remote-first and local in The Hague. We have an open ‘startup-like’ mentality and work inside a larger group of hi-tech web companies. 
+
+What else can you expect from us?
 
 *   Enthusiastic and fun colleagues
 *   Startup mentality and possibilities
