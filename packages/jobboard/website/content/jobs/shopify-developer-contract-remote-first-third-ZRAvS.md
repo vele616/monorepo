@@ -1,18 +1,18 @@
 ---
-title: "Shopify  Developer (contract/remote)"
+title: "Shopify Developer"
 location: "Los Angeles, CA"
 host: "https://firstandthird.applytojob.com/apply/"
 companyName: "First+Third"
 url: "http://firstandthird.applytojob.com/apply/wXyygDNV8d/Shopify-Developer-contractremote"
 applyUrl: "http://firstandthird.applytojob.com/apply/wXyygDNV8d/Shopify-Developer-contractremote"
 timestamp: 1621814400000
-hashtags: "#management,#javascript,#css,#content,#ui/ux,#reactjs,#rubylang,#html,#git,#photoshop"
+hashtags: "#javascript,#css,#reactjs,#content,#ui/ux,#rubylang,#html,#git,#management,#photoshop"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/first-third"
 companyWebsite: "https://firstandthird.com/"
-summary: "Interested in new opportunities and have 2+ Years of Shopify? First+Third has a job opening for a shopify  developer."
+summary: "Interested in new opportunities and have 2+ Years of Shopify development experience? First+Third has a job opening for a Shopify Developer."
 summaryBackup: "Love #management, #javascript, #css? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 ## Overview Of Role: 
@@ -31,14 +31,14 @@ As an organization we are obsessed with helping our clients understand and achie
 
 As a team, we invest ourselves fully in meeting our client’s goals as if they were our own because when they succeed, we do too. 
 
-Responsibilities
+## Responsibilities
 
 *   **Execute -** Be able to take visual designs and turn them into fully functional Shopify Theme code including semantically correct liquid syntax, component and blocks that will allow page section re-use as well as the ability to manage page content, as well as write clear and understandable CSS and javascript code that complements the Shopify theme code.
 *   **Make it Engaging -** Be able to work within the Shopify theme to provide an engaging and interesting eCommerce experience that will provide a high level of ROI to the client utilizing Shopify and industry best practices.
 *   **Connected -** Be able to work with the Shopify theme API as well as the Front End shopify cart api logic for a truly custom user experience.
 *   **Manage -** Be able to manage and implement Shopify features including content, product creation, content and page management as well as utilizing the API for custom features and custom reporting tasks.
 
-Requirements
+## Requirements
 
 *   2+ Years of Shopify (Plus) development experience
 *   Strong grasp of the Shopify ecosystem including it’s strengths and potential pitfalls.
@@ -53,7 +53,7 @@ Requirements
 *   Experience working remotely.
 *   Estimating work for a project and taking specs and turning into clearly defined, executable tasks.
 
-Nice to have
+## Nice to have
 
 *   Ability to create Shopify Apps from scratch
 *   Ability to write and test scripts in Ruby for Shopify Scripts
