@@ -14,6 +14,7 @@ const services = {
     [process.env.SR_PLATFORM]: require('./services/sr'),
     [process.env.TT_PLATFORM]: require('./services/tt'),
     [process.env.HR_PLATFORM]: require('./services/hr'),
+    [process.env.WP_PLATFORM]: require('./services/wp'),
 };
 module.exports = (platform, url, browser, jobUrl) => ({
     getJobs: () => services[platform].getJobs(browser, jobUrl),
