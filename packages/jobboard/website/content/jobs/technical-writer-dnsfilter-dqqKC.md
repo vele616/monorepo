@@ -10,7 +10,7 @@ hashtags: "#content,#marketing,#management,#sales,#translation,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dnsfilter"
 companyWebsite: "https://www.dnsfilter.com/"
-summary: "If you have 2-5 years experience writing technical content for a software company, consider applying to DNSfilter's job post for a new tTechnical Writer."
+summary: "If you have 2-5 years experience writing technical content for a software company, consider applying to DNSfilter's job post for a new Technical Writer."
 summaryBackup: "Dnsfilter is looking for a technical writer that has experience in: #content, #marketing, #management."
 featured: 12
 ---

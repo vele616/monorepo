@@ -10,7 +10,7 @@ hashtags: "#management,#operations,#English,#office,#ui/ux,#Dutch"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have you may have experience in working in an international environment, Startupz is looking for someone with your skillset."
+summary: "If you have experience in working in an international environment, Startupz is looking for someone with your skillset."
 summaryBackup: "Love #management, #ui/ux, #operations? Check out this job post!"
 featured: 14
 ---
