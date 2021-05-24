@@ -10,9 +10,9 @@ hashtags: "#marketing,#sales,#management,#chef,#content"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strongdm"
 companyWebsite: "http://www.strongdm.com/"
-summary: "StrongDM wishes to hire a new product marketing lead. If you have 5-10+ years of experience, depending on if you're an individual contributor tackling specific product marketing initiatives or if you're a product marketing leader with the skills to build and lead an entire team, consider applying."
+summary: "StrongDM wishes to hire a Product Marketing Lead. If you have 5-10+ years of experience, depending on if you're an individual contributor tackling specific product marketing initiatives or if you're a product marketing leader with the skills to build and lead an entire team, consider applying."
 summaryBackup: "Excited about #marketing, #sales, #management? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**
