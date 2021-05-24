@@ -67,7 +67,7 @@ module.exports = {
       resolve: "gatsby-plugin-sitemap",
       options: {
         output: "/sitemap.xml",
-        exclude: [],
+        exclude: ["/privacy_policy", "/terms"],
         query: `
           {
             allSitePage {
@@ -87,17 +87,6 @@ module.exports = {
         },
         serialize: ({ site, allSitePage }) =>
           allSitePage.nodes.map((node) => {
-            if (
-              node.path.includes("/privacy_policy/") ||
-              node.path.includes("/terms/")
-            ) {
-              return {
-                url: `${site.siteMetadata.siteUrl}${node.path}`,
-                changefreq: `monthly`,
-                priority: 0.5,
-                lastmod: new Date(),
-              };
-            }
             return {
               url: `${site.siteMetadata.siteUrl}${node.path}`,
               changefreq: `weekly`,
