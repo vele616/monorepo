@@ -1,8 +1,8 @@
 ---
-title: "Senior Blockchain Engineer - Remote"
+title: "Senior Blockchain Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/zLDugpdKNe/Senior-Blockchain-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/zLDugpdKNe/Senior-Blockchain-Engineer-Remote"
 timestamp: 1621900800000
@@ -10,9 +10,9 @@ hashtags: "#java,#golang,#rustlang,#ui/ux,#spark,#kubernetes,#docker,#aws,#offic
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Interested in new opportunities and have professional experience in integrating with various blockchains? Numbrs Personal Finance AG has a job opening for a senior blockchain engineer."
-summaryBackup: "To apply as a senior blockchain engineer at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #java, #golang, #rustlang."
-featured: 20
+summary: "Interested in new opportunities and have professional experience in integrating with various blockchains? Numbrs has a job opening for a Senior Blockchain Engineer."
+summaryBackup: "To apply as a Senior Blockchain Engineer at Numbrs, you preferably need to have some knowledge of: #java, #golang, #rustlang."
+featured: 6
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
@@ -36,7 +36,7 @@ You will be a part of a team that is responsible for developing, releasing, moni
 *   You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a solution that works every time.
 *   Resourceful, flexible and adaptable; no task is too big or too small.
 
-Key Qualifications
+## Key Qualifications
 
 *   You have a passion for blockchain technologies and cryptocurrencies
 *   Deep technical knowledge of blockchains and their data structures, especially with Ethereum and Bitcoin
@@ -48,12 +48,12 @@ Key Qualifications
 *   A security-minded engineer with deep understanding of encryption algorithms, cryptographic hash functions, and  public-key algorithms such as ECC
 *   Excellent written and oral communication in English and interpersonal skills
 
-Preferred qualifications
+## Preferred qualifications
 
 *   Experience with AWS, Kubernetes, and Docker
 *   Experience with Big Data technologies such as Kafka, Spark, and Cassandra
 *   Experience with CI/CD systems like Spinnaker and Jenkins
-*   Fluent with functional, imperative and object-­oriented languages
+*   Fluent with functional, imperative and object-oriented languages
 *   Knowledge of Machine Learning
 
 ## What we offer
