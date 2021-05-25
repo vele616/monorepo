@@ -1,8 +1,8 @@
 ---
-title: "Web Engineer - Remote"
+title: "Web Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/smdNVHsUhX/Web-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/smdNVHsUhX/Web-Engineer-Remote"
 timestamp: 1621900800000
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#angular,#java,#golang,#scala,#css,#html,#office
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG is searching for a web engineer that has experience with automated unit and integration testing and continuous integration."
+summary: "Numbrs is searching for a Web Engineer that has experience with automated unit and integration testing and continuous integration."
 summaryBackup: "Numbrs Personal Finance AG is looking for a web engineer that has experience in: #javascript, #reactjs, #angular."
-featured: 20
+featured: 8
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
@@ -23,7 +23,7 @@ Numbrs is one of the best-financed FinTechs in Europe and, with a valuation abov
 
 We are building a remote team of multidisciplinary experts that are passionate about making a world-changing impact. We've built a hardworking and engaging remote culture that combines the best of scientific cutting edge technology with a product-focused environment, offering an ambitious balance of structure and flexibility.
 
-The Role
+## The Role
 
 We are seeking an experienced, dedicated, and well-organized Web Engineer to join our remote engineering team. This position will require someone who is adaptable in a changing environment and who is passionate about delivering high quality results in a fast-paced environment.
 
@@ -36,7 +36,7 @@ As a web developer, you will contribute to the evolution of the platform by expe
 *   You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a solution that works every time.
 *   Resourceful, flexible and adaptable; no task is too big or too small.
 
-Key qualifications
+## Key qualifications
 
 *   A Bachelor's or higher degree in the technical field of study
 *   A minimum of two years' experience developing, monitoring and troubleshooting modern web applications
@@ -46,7 +46,7 @@ Key qualifications
 *   Excellent troubleshooting and creative problem-solving abilities
 *   Excellent written and oral communication and interpersonal skills
 
-Preferred qualifications
+## Preferred qualifications
 
 *   Experience with automated unit and integration testing and continuous integration
 *   Experience with modern web features such as web workers, WSS, WebRTC, native fetch and others
@@ -54,7 +54,7 @@ Preferred qualifications
 *   Experience writing asynchronous, non-blocking code
 *   Experience with at least one backend language such as Go, C/C++, Java and Scala
 
-What we offer
+## What we offer
 
 *   An opportunity to work on the most exciting challenges in the financial and crypto industry
 *   Collaboration with some of the smartest and the most talented experts in technology
