@@ -1,18 +1,18 @@
 ---
-title: "People Generalist - Berlin, Cologne, Remote"
+title: "People Generalist"
 location: "Berlin, Cologne, Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/3125077"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/3125077#app"
 timestamp: 1621900800000
-hashtags: "#management,#operations,#content,#German,#scrum,#office,#finance,#English"
+hashtags: "#management,#operations,#German,#content,#scrum,#office,#finance,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
-summary: "If you have 2+ years) in HR Operations in international and fast-paced organizations, Eyeo is looking for someone with your skillset."
+summary: "If you have 2+ years of experience in HR Operations in international and fast-paced organizations, Eyeo is looking for someone with your skillset."
 summaryBackup: "Love #management, #operations, #content? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## Get to know us
