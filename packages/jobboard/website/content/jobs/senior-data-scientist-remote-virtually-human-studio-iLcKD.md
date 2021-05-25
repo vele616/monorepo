@@ -7,10 +7,10 @@ url: "https://apply.workable.com/virtually-human-studio/j/484CEFF827/"
 applyUrl: "https://apply.workable.com/virtually-human-studio/j/484CEFF827/apply/"
 timestamp: 1621814400000
 hashtags: "#python,#linux,#git,#analysis,#office,#English"
-jobType: "software"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/virtually-human-studio"
 companyWebsite: "http://vhslab.com/"
-summary: "Virtually Human Studio intends to hire a new sSenior Data Scientist. If you have 3 + years experience with machine learning algorithms, data modelling and quantitative analysis, consider applying."
+summary: "Virtually Human Studio intends to hire a new Senior Data Scientist. If you have 3 + years experience with machine learning algorithms, data modelling and quantitative analysis, consider applying."
 summaryBackup: "To apply as a senior data scientist at Virtually Human Studio, you preferably need to have some knowledge of: #python, #linux, #git."
 featured: 10
 ---
