@@ -1,8 +1,8 @@
 ---
-title: "Senior, Experience Designer"
+title: "Senior Experience Designer"
 location: "Sunnyvale, CA OR Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Current Job Openings at Magic Leap, Inc."
+companyName: "Magic Leap"
 url: "https://boards.greenhouse.io/magicleapinc/jobs/3150891"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/3150891#app"
 timestamp: 1621900800000
@@ -10,14 +10,14 @@ hashtags: "#ui/ux,#content,#scrum"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "If you have 5 years’ experience designing mobile or web applications, AR, VR, gaming, or physical interactives, Current Job Openings at Magic Leap, Inc. has a job opening for a senior"
+summary: "If you have 5 years’ experience designing mobile or web applications, AR, VR, gaming, or physical interactives, Magic Leap has a job opening for a Senior Experience Designer"
 summaryBackup: "Excited about #ui/ux, #content, #scrum? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Job Description
 
-The Senior Experience Designer will help craft the next generation of augmented reality enterprise software.​ Our work will influence the future of how business gets done—amplifying human ability with our wearable technology. We are looking for a perpetual student of human behavior—proficient in interactive design and prototyping. We seek a designer who is ready to explore new interaction paradigms and eager to join a team exploring the frontier of human-computer interaction and communication.
+The Senior Experience Designer will help craft the next generation of augmented reality enterprise software. Our work will influence the future of how business gets done—amplifying human ability with our wearable technology. We are looking for a perpetual student of human behavior—proficient in interactive design and prototyping. We seek a designer who is ready to explore new interaction paradigms and eager to join a team exploring the frontier of human-computer interaction and communication.
 
 ## Responsibilities
 
