@@ -1,18 +1,18 @@
 ---
-title: "Security Engineer - Remote"
+title: "Security Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/l2tMqlIpjz/Security-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/l2tMqlIpjz/Security-Engineer-Remote"
 timestamp: 1621900800000
 hashtags: "#java,#golang,#scala,#ui/ux,#aws,#management,#office,#finance,#monitoring,#English"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 5 years of security work experience, Numbrs Personal Finance AG is looking for someone with your knowledge."
+summary: "If you have 5 years of security work experience, Numbrs is looking for someone with your knowledge."
 summaryBackup: "Excited about #java, #golang, #scala? Check out this job post!"
-featured: 20
+featured: 12
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
@@ -36,7 +36,7 @@ You are responsible for planning, developing, and monitoring all information sec
 *   You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a solution that works every time.
 *   Resourceful, flexible and adaptable; no task is too big or too small.
 
-Key Qualifications
+## Key Qualifications
 
 *   A minimum of 5 years of security work experience
 *   Experience in penetration testing web-based apps, mobile apps and backend infrastructure
@@ -46,12 +46,12 @@ Key Qualifications
 *   Hands-on experience with performing code and design reviews
 *   Excellent interpersonal skills, English in written and oral communication
 
-Preferred qualifications
+## Preferred qualifications
 
 *   Good knowledge of at least one programming language, such as Go, Java, Scala, or C++
 *   Hands-on experience in securing and monitoring AWS infrastructure
 
-What we offer
+## What we offer
 
 *   An opportunity to work on the most exciting challenges in the financial and crypto industry
 *   Collaboration with some of the smartest and the most talented experts in technology
