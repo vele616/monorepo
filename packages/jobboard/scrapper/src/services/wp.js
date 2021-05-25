@@ -1,10 +1,6 @@
-const puppeteer = require("puppeteer");
 
 const getUrls = async (browser, url) => {
-  const browser = await puppeteer.launch({
-    headless: false,
-    slowMo: 500,
-  });
+
   const page = await browser.newPage();
   await page.goto(url);
 
@@ -23,18 +19,15 @@ const getUrls = async (browser, url) => {
 
     return {
       urls,
-      companyName: companyName ? companyName.textContent : undefined,
+      companyName: companyName ? companyName.textContent : null,
       logoUrl: null,
-      companyWebsite: undefined,
+      companyWebsite: null,
     };
   });
 };
 
 const getJobs = async (browser, url) => {
-  const browser = await puppeteer.launch({
-    headless: false,
-    slowMo: 500,
-  });
+
   const page = await browser.newPage();
   await page.goto(url);
 
