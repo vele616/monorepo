@@ -1,18 +1,18 @@
 ---
-title: "Senior Product Manager - Remote"
+title: "Senior Product Manager"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/BVP29BBKu4/Senior-Product-Manager-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/BVP29BBKu4/Senior-Product-Manager-Remote"
 timestamp: 1621900800000
-hashtags: "#management,#android,#ios,#ui/ux,#scrum,#analysis,#finance,#office,#English"
+hashtags: "#management,#scrum,#monitoring,#android,#ios,#ui/ux,#analysis,#finance,#office,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "To apply as a senior product manager at Numbrs Personal Finance AG, you preferably need to have 5 years of experience in building consumer products with a history of managing projects that facilitate or enhance customer experiences."
+summary: "To apply as a Senior Product Manager at Numbrs, you preferably need to have 5 years of experience in building consumer products with a history of managing projects that facilitate or enhance customer experiences."
 summaryBackup: "Excited about #management, #android, #ios? Check out this job post!"
-featured: 20
+featured: 5
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
