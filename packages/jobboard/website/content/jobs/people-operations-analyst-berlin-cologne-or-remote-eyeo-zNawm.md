@@ -1,18 +1,18 @@
 ---
-title: "People Operations Analyst - Berlin, Cologne or Remote"
+title: "People Operations Analyst"
 location: "Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/3093604"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/3093604#app"
 timestamp: 1621900800000
-hashtags: "#operations,#scrum,#management,#jira,#content,#analysis,#English"
+hashtags: "#HR,#operations,#analysis,#scrum,#management,#jira,#content,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
-summary: "To apply as a people operations analyst at Eyeo, you preferably need to have 2+ years of experience in People Operations working with HR information systems, ideally as a People Data Analyst."
+summary: "To apply as a People Operations Analyst at Eyeo, you preferably need to have 2+ years of experience in People Operations working with HR information systems, ideally as a People Data Analyst."
 summaryBackup: "Eyeo is looking for a people operations analyst that has experience in: #operations, #scrum, #management."
-featured: 20
+featured: 9
 ---
 
 ## Get to know us
