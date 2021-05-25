@@ -1,18 +1,18 @@
 ---
-title: "Graphic and Motion Designer - Remote"
+title: "Graphic and Motion Designer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/bGOHTqkR6j/Graphic-And-Motion-Designer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/bGOHTqkR6j/Graphic-And-Motion-Designer-Remote"
 timestamp: 1621900800000
-hashtags: "#ui/ux,#management,#content,#branding,#marketing,#photoshop,#figma,#finance,#office"
+hashtags: "#ui/ux,#management,#figma,#content,#branding,#marketing,#photoshop,#finance,#office"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 5 years of experience as graphic designer for a product or design company, advertising agency or in-house creative environment, Numbrs Personal Finance AG is looking for someone with your knowledge."
+summary: "If you have 5 years of experience as graphic designer for a product or design company, advertising agency or in-house creative environment, Numbrs is looking for someone with your knowledge."
 summaryBackup: "To apply as a graphic and motion designer at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #ui/ux, #management, #content."
-featured: 20
+featured: 11
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
