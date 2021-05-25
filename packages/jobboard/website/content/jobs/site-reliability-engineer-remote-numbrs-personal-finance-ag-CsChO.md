@@ -1,18 +1,18 @@
 ---
-title: "Site Reliability Engineer - Remote"
+title: "Site Reliability Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/wPuuphiAVz/Site-Reliability-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/wPuuphiAVz/Site-Reliability-Engineer-Remote"
 timestamp: 1621900800000
-hashtags: "#kubernetes,#management,#spark,#linux,#aws,#googlecloud,#ui/ux,#office,#cassandra,#finance"
+hashtags: "#kubernetes,#aws,#cassandra,#management,#spark,#linux,#googlecloud,#ui/ux,#office,#finance"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 5 years experience deploying, monitoring and troubleshooting large scale distributed systems, Numbrs Personal Finance AG is looking for someone with your skillset."
+summary: "If you have 5 years experience deploying, monitoring and troubleshooting large scale distributed systems, Numbrs is looking for someone with your skillset."
 summaryBackup: "Excited about #kubernetes, #management, #spark? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
@@ -38,7 +38,7 @@ As part of the SRE team, you stay on the cutting edge by looking into new techno
 *   You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a solution that works every time.
 *   Resourceful, flexible and adaptable; no task is too big or too small.
 
-Key Qualifications
+## Key Qualifications
 
 *   A Bachelor's or higher degree in the technical field of study, or equivalent practical experience
 *   A minimum of 5 years experience deploying, monitoring and troubleshooting large scale distributed systems
@@ -48,12 +48,12 @@ Key Qualifications
 *   Quick to learn and fast to adapt to changing environments
 *   Excellent troubleshooting and creative problem-solving abilities
 
-Preferred qualifications
+## Preferred qualifications
 
 *   Experience with open-source tools for network and security monitoring and management on Linux/Unix platforms
 *   Experience with Security
 
-What we offer
+## What we offer
 
 *   An opportunity to work on the most exciting challenges in the financial and crypto industry
 *   Collaboration with some of the smartest and the most talented experts in technology
