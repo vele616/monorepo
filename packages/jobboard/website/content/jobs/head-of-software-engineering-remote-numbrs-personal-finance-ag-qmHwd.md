@@ -1,18 +1,18 @@
 ---
-title: "Head of Software Engineering - Remote"
+title: "Head of Software Engineering"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/TehQHUTI5j/Head-Of-Software-Engineering-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/TehQHUTI5j/Head-Of-Software-Engineering-Remote"
 timestamp: 1621900800000
-hashtags: "#management,#java,#ui/ux,#office,#android,#ios,#finance,#English"
-jobType: "other"
+hashtags: "#management,#java,#cplusplus,#ui/ux,#office,#android,#ios,#finance,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "If you have 10 years experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, Numbrs Personal Finance AG is looking for someone with your skillset."
+summary: "If you have 10 years of experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, Numbrs is looking for someone with your skillset."
 summaryBackup: "Numbrs Personal Finance AG is looking for a head of software engineering that has experience in: #management, #java, #ui/ux."
-featured: 20
+featured: 15
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
