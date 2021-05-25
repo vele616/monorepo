@@ -1,18 +1,18 @@
 ---
-title: "Engineering Manager - Remote"
+title: "Engineering Manager"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/0vnwH3ncta/Engineering-Manager-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/0vnwH3ncta/Engineering-Manager-Remote"
 timestamp: 1621900800000
-hashtags: "#management,#ui/ux,#office,#java,#golang,#scala,#scrum,#finance,#monitoring"
+hashtags: "#management,#java,#golang,#ui/ux,#office,#scala,#scrum,#finance,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
-summary: "Numbrs Personal Finance AG is looking for an engineering manager that has 5 years experience leading and managing technical team and software projects."
+summary: "Numbrs is looking for an Engineering Manager that has 5 years experience leading and managing technical team and software projects."
 summaryBackup: "Love #management, #ui/ux, #office? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 
@@ -36,7 +36,7 @@ You will be responsible for planning, managing and monitoring a team building ba
 *   You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a solution that works every time.
 *   Resourceful, flexible and adaptable; no task is too big or too small.
 
-Key Qualifications
+## Key Qualifications
 
 *   A Bachelor's or higher degree in the technical field of study
 *   A minimum of 5 years experience leading and managing technical team and software projects
@@ -45,7 +45,7 @@ Key Qualifications
 *   Excellent troubleshooting and creative problem-solving abilities
 *   Excellent written and oral communication and interpersonal skills
 
-Preferred qualifications
+## Preferred qualifications
 
 *   Experience working with large scale distributed systems
 *   Experience with API design and third-party system integrations
