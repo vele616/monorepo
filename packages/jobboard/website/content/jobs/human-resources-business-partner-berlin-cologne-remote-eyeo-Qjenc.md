@@ -1,18 +1,18 @@
 ---
-title: "Human Resources Business Partner - Berlin, Cologne, Remote"
+title: "Human Resources Business Partner"
 location: "Berlin, Cologne, Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/3121597"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/3121597#app"
 timestamp: 1621900800000
-hashtags: "#scrum,#operations,#content,#HR,#management,#German,#monitoring"
+hashtags: "#HR,#scrum,#operations,#content,#management,#German,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
-summary: "If you have 5 years of job experience in HR in international and fast-growing organizations, Eyeo has a job opening for a human resources business partner"
+summary: "If you have 5 years of job experience in HR in international and fast-growing organizations, Eyeo has a job opening for a Human Resources Business Partner"
 summaryBackup: "Love #scrum, #operations, #content? Check out this job post!"
-featured: 20
+featured: 7
 ---
 
 ## Get to know us
