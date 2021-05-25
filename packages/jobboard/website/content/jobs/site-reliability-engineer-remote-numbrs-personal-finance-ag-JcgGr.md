@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "If you have a minimum of 5 years experience deploying, monitoring and troubleshooting large scale distributed systems, Numbrs is looking for someone with your knowledge."
 summaryBackup: "To apply as a site reliability engineer at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #management, #kubernetes, #spark."
 featured: 7
+archived: "true"
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 5+ years of experience building and maintaining digital characters, rigging pipelines, and developing api's for both engineers and artists, consider applying to Magic Leap's job post for a new Lead Character Technical Artist."
 summaryBackup: "To apply as a lead at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #unity, #python."
 featured: 14
+archived: "true"
 ---
 
 ## Job Description:
