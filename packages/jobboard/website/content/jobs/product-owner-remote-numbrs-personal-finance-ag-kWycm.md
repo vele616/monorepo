@@ -2,7 +2,7 @@
 title: "Product Owner"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
-companyName: "Numbrs Personal Finance AG"
+companyName: "Numbrs"
 url: "http://numbrs.applytojob.com/apply/oXhEYToadR/Product-Owner-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/oXhEYToadR/Product-Owner-Remote"
 timestamp: 1621900800000
