@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#rails,#rubylang,#management,#heroku,#ui/ux,#pos
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "To apply as a software engineering manager at Pathrise, you preferably need to have 4+ years of full-time software engineering experience."
+summary: "To apply as a Software Engineering Manager at Pathrise, you preferably need to have 4+ years of full-time software engineering experience."
 summaryBackup: "To apply as a software engineering manager at Pathrise, you preferably need to have some knowledge of: #javascript, #reactjs, #rails."
-featured: 20
+featured: 8
 ---
 
 **What is Pathrise?**
