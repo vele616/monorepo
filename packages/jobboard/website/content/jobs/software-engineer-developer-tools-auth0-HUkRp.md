@@ -1,18 +1,18 @@
 ---
-title: "Software Engineer, Developer Tools"
+title: "Software Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/auth0/?location=Remote"
 companyName: "Auth0"
 url: "https://jobs.lever.co/auth0/fc692979-9f11-4791-b99a-e99ce9a93708"
 applyUrl: "https://jobs.lever.co/auth0/fc692979-9f11-4791-b99a-e99ce9a93708/apply"
 timestamp: 1621987200000
-hashtags: "#ui/ux,#kubernetes,#docker,#office"
+hashtags: "#golang,#kubernetes,#docker,#ui/ux,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/auth0"
 companyWebsite: "https://auth0.com/"
 summary: "If you have 4+ years of software development experience, Auth0 is looking for someone with your knowledge."
 summaryBackup: "To apply as a software engineer at Auth0, you preferably need to have some knowledge of: #ui/ux, #kubernetes, #docker."
-featured: 20
+featured: 7
 ---
 
 Awesome tech is made by awesome people. And we’re always looking for new team members who bring the energy, passion, commitment, and collaboration that has made Auth0 the great company it is today.
