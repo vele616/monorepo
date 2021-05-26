@@ -1,18 +1,18 @@
 ---
-title: "QA Engineer - Poland, Remote"
+title: "QA Engineer"
 location: "Warsaw, Masovian Voivodeship, Poland"
 host: "https://apply.workable.com/plentific/"
 companyName: "Plentific"
 url: "https://apply.workable.com/plentific/j/46EC0B55BC/"
 applyUrl: "https://apply.workable.com/plentific/j/46EC0B55BC/apply/"
 timestamp: 1621987200000
-hashtags: "#management,#django,#python,#ui/ux,#javascript,#aws,#pandas,#kubernetes,#docker,#git"
+hashtags: "#aws,#python,#django,#management,#ui/ux,#javascript,#pandas,#kubernetes,#docker,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plentific"
 companyWebsite: "http://www.plentific.com/"
 summary: "If you have experience of working with a variety of QA tools, Plentific is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #django, #python? Check out this job post!"
-featured: 20
+featured: 11
 ---
 
 ## Description
@@ -61,7 +61,7 @@ The engineering team sits at the centre of everything we do at Plentific and is 
 *   Ensure all software is reliable, scaleable and quality
 *   Contribute towards the future efficiency of the QA team
 
-## Requirements
+**Requirements**
 
 *   2+ years QA engineer experience, understanding QA processes and methodologies
 *   Python programming experience
@@ -72,7 +72,7 @@ The engineering team sits at the centre of everything we do at Plentific and is 
 *   Excellent communication skills with ability to articulate technical concepts in plain English
 *   BSc (at least 2:1) essential in computer science, engineering, computational physics, mathematics or another field with strong computational curriculum. MSc/PhD in similar subjects desirable
 
-## Benefits
+**Benefits**
 
 As you can see, we have big plans and are eager to grow our team of dreamers and doers to achieve our vision of managing over 1 million properties through our platform across various countries. You can help us shape the future of property management. Here’s what we offer:
 
