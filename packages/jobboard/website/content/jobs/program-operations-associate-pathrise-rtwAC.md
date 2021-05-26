@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/17b613a1-3eb2-474b-8023-70e3c3e075c5"
 applyUrl: "https://jobs.lever.co/pathrise/17b613a1-3eb2-474b-8023-70e3c3e075c5/apply"
 timestamp: 1621987200000
-hashtags: "#operations,#management,#branding,#jira"
+hashtags: "#operations,#management,#jira,#branding"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Pathrise wishes to hire a new program operations associate. If you have 1-2 years of experience in a customer facing role, consider applying."
+summary: "Pathrise wishes to hire a new Program Operations Associate. If you have 1-2 years of experience in a customer facing role, consider applying."
 summaryBackup: "To apply as a program operations associate at Pathrise, you preferably need to have some knowledge of: #operations, #management, #branding."
-featured: 20
+featured: 16
 ---
 
 **What is Pathrise?**
