@@ -1,18 +1,18 @@
 ---
-title: "Data Engineer - Remote (EU)"
+title: "Data Engineer"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul"
 url: "https://jobs.chartmogul.com/o/data-engineer-remote-eu"
 applyUrl: "https://jobs.chartmogul.com/o/data-engineer-remote-eu/c/new"
 timestamp: 1621987200000
-hashtags: "#marketing,#aws,#content,#ui/ux,#sales,#translation,#analysis,#optimization,#English"
-jobType: "other"
+hashtags: "#aws,#analysis,#optimization,#marketing,#content,#ui/ux,#sales,#translation,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
 summary: "If you have experience with AWS data processing tools, ChartMogul has a job opening for a data engineer"
 summaryBackup: "To apply as a data engineer at ChartMogul, you preferably need to have some knowledge of: #marketing, #aws, #content."
-featured: 20
+featured: 12
 ---
 
 ## Job description
@@ -67,4 +67,4 @@ This is a critical hire for us, and also an incredibly impactful one. As our fir
 5.  Reference Checks
 6.  Offer
 
-## Please note, we are only accepting EU-based applicants at this time.
+**Please note, we are only accepting EU-based applicants at this time.**
