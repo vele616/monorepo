@@ -2,17 +2,17 @@
 title: "Back-End Engineer"
 location: "Remote Worldwide"
 host: "https://jibble-group.breezy.hr/?&location=Worldwide#positions"
-companyName: "jibble-group"
+companyName: "jibble group"
 url: "https://jibble-group.breezy.hr/p/01cdf9b02a0d01-back-end-engineer"
 applyUrl: "https://jibble-group.breezy.hr/p/01cdf9b02a0d01-back-end-engineer/apply"
 timestamp: 1621987200000
-hashtags: "#ui/ux,#management,#vuejs,#typescript,#aws,#css,#postgresql,#operations,#marketing,#elasticsearch"
+hashtags: "#csharp,#aws,#postgresql,#ui/ux,#management,#vuejs,#typescript,#css,#operations,#marketing,#elasticsearch"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
-summary: "Interested in new opportunities and have 3+ years of commercial development experience? Jibble-group has a job opening for a back-end engineer."
+summary: "Interested in new opportunities and have 3+ years of commercial development experience? Jibble Group has a job opening for a Back-End Engineer."
 summaryBackup: "Love #ui/ux, #management, #vuejs? Check out this job post!"
-featured: 20
+featured: 8
 ---
 
 ## Our Mission
