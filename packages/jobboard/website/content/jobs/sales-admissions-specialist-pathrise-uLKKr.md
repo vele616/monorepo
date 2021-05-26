@@ -10,9 +10,9 @@ hashtags: "#sales,#management,#operations"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Pathrise is looking for a sales admissions specialist that has 1+ years of experience working in sales, customer success, business development, account management, or related field."
+summary: "Pathrise is looking for a Sales Admissions Specialist that has 1+ years of experience working in sales, customer success, business development, account management, or related field."
 summaryBackup: "Love #sales, #management, #operations? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 **What is Pathrise?**
