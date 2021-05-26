@@ -1,18 +1,18 @@
 ---
-title: "Senior WordPress Developer (Remote)"
+title: "Senior WordPress Developer"
 location: "Anywhere, Utah"
 host: "https://strategy11.bamboohr.com/jobs/"
 companyName: "Strategy11"
 url: "https://strategy11.bamboohr.com/jobs/view.php?id=30&source=other"
 applyUrl: "https://strategy11.bamboohr.com/jobs/view.php?id=30&source=other"
 timestamp: 1621987200000
-hashtags: "#php,#wordpress,#management,#git,#javascript,#reactjs,#vuejs,#jquery,#golang,#operations"
+hashtags: "#php,#wordpress,#javascript,#management,#git,#reactjs,#vuejs,#jquery,#golang,#operations"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strategy11"
 companyWebsite: "https://strategy11.bamboohr.com/jobs/"
-summary: "Strategy11 wishes to hire a new senior wordpress developer. If you have professional experience with WordPress plugin development, architecture, and standards, consider applying."
+summary: "Strategy11 wishes to hire a new Senior WordPress Developer. If you have professional experience with WordPress plugin development, architecture, and standards, consider applying."
 summaryBackup: "Excited about #php, #wordpress, #management? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 Hi! We're Strategy11. We are the company behind Formidable Forms and our newly acquired Business Directory Plugin. No matter what product we're working on, our goal is to make big projects possible without big resources, and make complex tasks simple.  Our software is running on over 300,000 websites, and our team is growing fast.  We have tons of big plans for the future, and would love for you to be a part of it.
