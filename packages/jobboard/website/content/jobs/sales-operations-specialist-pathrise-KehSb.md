@@ -10,9 +10,9 @@ hashtags: "#sales,#operations,#management,#analytics,#marketing,#ui/ux,#optimiza
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "If you have 3+ years of experience in a operations, sales operations experience preferred, Pathrise has a job opening for a sales operations specialist"
+summary: "If you have 3+ years of experience in a operations, sales operations experience preferred, Pathrise has a job opening for a Sales Operations Specialist"
 summaryBackup: "Excited about #sales, #operations, #management? Check out this job post!"
-featured: 20
+featured: 9
 ---
 
 **What is Pathrise?**
