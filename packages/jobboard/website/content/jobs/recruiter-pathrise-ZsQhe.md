@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise wishes to hire a new Recruiter. If you have 3+ years full cycle in-house recruiting experience at a seed, series A, or series B startup or similar experience, consider applying."
 summaryBackup: "Excited about #management, #analytics, #operations? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## What is Pathrise?

@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "To apply as a Talent Acquisition Manager at Pathrise, you preferably need to have 3+ years of full cycle recruiting experience at a seed, series A, or series B startup or similar experience."
 summaryBackup: "Love #management, #analytics, #operations? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## What is Pathrise?
