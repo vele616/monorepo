@@ -13,6 +13,7 @@ companyWebsite: "https://strategy11.bamboohr.com/jobs/"
 summary: "To apply as a Wordpress Technical Support Specialist at Strategy11, you preferably need to have working knowledge of WordPress, WordPress Plugins, and WordPress themes."
 summaryBackup: "To apply as a wordpress technical support specialist at Strategy11, you preferably need to have some knowledge of: #wordpress, #javascript, #css."
 featured: 12
+archived: "true"
 ---
 
 As a WordPress Technical Support Specialist, you will be responsible for helping people find success through the use of the Formidable Forms WordPress plugin. 

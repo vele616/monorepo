@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Interested in new opportunities and have 3 years of industry experience with Software Engineering? Pathrise has a job opening for a Software Engineering Mentor."
 summaryBackup: "Excited about #windows, #aws, #content? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## What is Pathrise?

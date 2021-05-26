@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise is looking for a Technical Recruiter that has 2+ years of full cycle technical recruiting experience at a seed, series A, or series B startup or similar experience."
 summaryBackup: "Love #management, #analytics, #operations? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## What is Pathrise?
