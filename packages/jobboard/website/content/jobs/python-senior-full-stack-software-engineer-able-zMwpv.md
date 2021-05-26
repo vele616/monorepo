@@ -1,5 +1,5 @@
 ---
-title: "Python Senior Full-stack Software Engineer"
+title: "Full-stack Software Engineer"
 location: "Remote, Lima, NYC, SF"
 host: "https://boards.greenhouse.io/able"
 companyName: "Able"
@@ -10,22 +10,22 @@ hashtags: "#python,#vuejs,#html,#css,#javascript,#reactjs,#flask,#management,#ui
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/able"
 companyWebsite: "https://boards.greenhouse.io/able"
-summary: "Able is searching for a python senior full-stack software engineer that has 5+ years of professional experience working as a software engineer."
+summary: "Able is searching for a Python Senior Full-stack Software Engineer that has 5+ years of professional experience working as a software engineer."
 summaryBackup: "Excited about #python, #vuejs, #html? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 Able is a product acceleration studio. Our technology teams consist of exceptional product designers, software engineers, product managers, and all-around company builders. We incubate our own investments and also work with our partners (clients) to improve their odds of success by deploying startup-caliber teams that are capable of addressing every stage of the technology venture lifecycle.
 
 Do you enjoy the thrill of building complex full-stack solutions with ever-evolving interfaces? Do you feel comfortable architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure?
 
-## Able may be the right place for you, where we connect creative and challenging projects with a **passionate and well-intended** team—plus many other perks to boot.
+**Able may be the right place for you, where we connect creative and challenging projects with a passionate and well-intended team—plus many other perks to boot.**
 
-## We are currently looking for a Python Senior Full Stack Software Engineer to join our team!
+**We are currently looking for a Python Senior Full Stack Software Engineer to join our team!**
 
 ## Who are we looking for?
 
-## We are seeking someone that feels comfortable using Python, as well as VueJS. Specifically, someone who’d be interested in:
+**We are seeking someone that feels comfortable using Python, as well as VueJS. Specifically, someone who’d be interested in:**
 
 *   **Building server-side applications** (as well as RESTful APIs) using Python.
 *   **Developing client-side applications** using VueJS, and a dash of HTML5 and CSS3.
@@ -44,7 +44,7 @@ Ideally, they would also have:
 *   Professional proficiency in written and spoken English
 *   **Availability: This position is 100% remote. We are looking for talent who can commit to at least 6 hours of overlap with our main team’s office working hours in Lima-Perú (From 09:00 am to 06:00 pm GMT-5)**
 
-## Don’t think you are quite there? That’s fine too. Let’s talk and get to know you and your talents!
+**Don’t think you are quite there? That’s fine too. Let’s talk and get to know you and your talents!**
 
 ## Why would you love to work for Able?
 
@@ -72,4 +72,4 @@ We know that a diverse team brings extraordinary success, and we have created a 
 
 This is but the beginning of a conversation we’d love to have with you.
 
-## _Apply, and let’s get this adventure started!_
+**_Apply, and let’s get this adventure started!_**
