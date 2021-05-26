@@ -137,7 +137,7 @@ exports.exec = async (event) => {
         classification.software >= classification.other ? "software" : "other";
 
       const { summary, summaryBackup } = summarize(
-        companyName,
+        result.name ? result.name : companyName,
         result.title,
         result.content,
         hashtags
@@ -157,10 +157,11 @@ exports.exec = async (event) => {
         companyLogo || "",
         companyWebsite || "",
         summary,
-        summaryBackup
+        summaryBackup,
+        result.name
       );
 
-      const titleCompany = `${result.title}-${companyName}`
+      const titleCompany = `${result.title}-${result.name ? result.name : companyName}`
         .replace(/[^a-z0-9]/gi, "-")
         .replace(/(-)\1+/g, "$1")
         .toLowerCase();

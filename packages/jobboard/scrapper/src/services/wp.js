@@ -1,15 +1,15 @@
-
 const getUrls = async (browser, url) => {
-
   const page = await browser.newPage();
   await page.goto(url);
 
   return await page.evaluate(() => {
     const companyName = document.querySelector(".Listing-companyName");
     const isFeatured = [
-      ...document.querySelectorAll(".Listing-titleAndDate > div")
+      ...document.querySelectorAll(".Listing-titleAndDate > div"),
     ];
-    const urls = [...document.querySelectorAll(".Listing-quickActions > div > a")]
+    const urls = [
+      ...document.querySelectorAll(".Listing-quickActions > div > a"),
+    ]
       .map((url, i) => ({
         url: url.href,
         isFeatured: isFeatured[i].textContent,
@@ -27,7 +27,6 @@ const getUrls = async (browser, url) => {
 };
 
 const getJobs = async (browser, url) => {
-
   const page = await browser.newPage();
   await page.goto(url);
 
@@ -40,6 +39,7 @@ const getJobs = async (browser, url) => {
           .innerHTML.replace(/&nbsp;/g, ""),
         location: document.querySelector(".Listing-location").textContent,
         applyUrl: document.querySelector(".Listing-actions > div > a").href,
+        name: document.querySelector(".Listing-companyName").textContent,
       };
     })),
     url,
