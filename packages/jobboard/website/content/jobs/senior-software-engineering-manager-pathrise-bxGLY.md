@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering Manager"
+title: "Sr. Software Engineering Manager"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
