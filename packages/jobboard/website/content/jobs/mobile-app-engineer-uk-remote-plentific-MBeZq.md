@@ -1,18 +1,18 @@
 ---
-title: "Mobile App Engineer - UK, Remote"
+title: "Mobile App Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/plentific/"
 companyName: "Plentific"
 url: "https://apply.workable.com/plentific/j/2CA20E2E92/"
 applyUrl: "https://apply.workable.com/plentific/j/2CA20E2E92/apply/"
 timestamp: 1621987200000
-hashtags: "#management,#reactjs,#xamarin,#android,#ios,#ui/ux,#marketing,#socialmedia,#office,#English"
-jobType: "other"
+hashtags: "#csharp,#reactjs,#xamarin,#android,#ios,#ui/ux,#marketing,#management,#socialmedia,#office,#English"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plentific"
 companyWebsite: "http://www.plentific.com/"
-summary: "Plentific wishes to hire a new mobile app engineer. If you have 3 years of experience with C# and, consider applying."
+summary: "Plentific wishes to hire a new Mobile App Engineer. If you have 3 years of experience with C# and, consider applying."
 summaryBackup: "Excited about #management, #reactjs, #xamarin? Check out this job post!"
-featured: 20
+featured: 6
 ---
 
 ## Description
@@ -60,7 +60,7 @@ In sum, Plentific is a technology-led business developing cutting-edge solutions
 *   Passion for writing clean, modular, well-commented, readable and reusable code
 *   BSc in computer science, engineering or another computational field
 
-Desirable skills
+**Desirable skills**
 
 *   Native Mobile development for IOS and Android
 *   React and/or React Native
