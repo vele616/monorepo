@@ -1,18 +1,18 @@
 ---
-title: "QA Engineer - Europe, Remote"
+title: "QA Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/plentific/"
 companyName: "Plentific"
 url: "https://apply.workable.com/plentific/j/F325493C03/"
 applyUrl: "https://apply.workable.com/plentific/j/F325493C03/apply/"
 timestamp: 1621987200000
-hashtags: "#management,#django,#python,#ui/ux,#javascript,#aws,#pandas,#kubernetes,#docker,#git"
+hashtags: "#django,#python,#aws,#ui/ux,#management,#javascript,#pandas,#kubernetes,#docker,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plentific"
 companyWebsite: "http://www.plentific.com/"
-summary: "To apply as a qa engineer at Plentific, you preferably need to have experience of working with a variety of QA tools."
+summary: "To apply as a QA Engineer at Plentific, you preferably need to have experience of working with a variety of QA tools."
 summaryBackup: "Plentific is looking for a qa engineer that has experience in: #management, #django, #python."
-featured: 20
+featured: 13
 ---
 
 ## Description
