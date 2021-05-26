@@ -10,7 +10,7 @@ hashtags: "#csharp,#reactjs,#xamarin,#android,#ios,#ui/ux,#marketing,#management
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/plentific"
 companyWebsite: "http://www.plentific.com/"
-summary: "Plentific wishes to hire a new Mobile App Engineer. If you have 3 years of experience with C# and, consider applying."
+summary: "Plentific wishes to hire a new Mobile App Engineer. If you have 3 years of experience with C# and .Net Framework, consider applying."
 summaryBackup: "Excited about #management, #reactjs, #xamarin? Check out this job post!"
 featured: 6
 ---
