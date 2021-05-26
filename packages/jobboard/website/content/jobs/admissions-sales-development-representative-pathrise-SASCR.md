@@ -1,5 +1,5 @@
 ---
-title: "Admissions Sales Development Representative"
+title: "Sales Development Representative"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
@@ -10,9 +10,9 @@ hashtags: "#sales,#management,#analytics,#marketing,#ui/ux,#operations,#asana,#o
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Pathrise wishes to hire a new admissions sales development representative. If you have 1+ years of experience in a related sales role, consider applying."
+summary: "Pathrise wishes to hire a new Admissions Sales Development Representative. If you have 1+ years of experience in a related sales role, consider applying."
 summaryBackup: "To apply as an admissions sales development representative at Pathrise, you preferably need to have some knowledge of: #sales, #management, #analytics."
-featured: 20
+featured: 12
 ---
 
 **What is Pathrise?**
