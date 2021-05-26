@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Engineering Manager"
+title: "Software Engineering Manager"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
@@ -10,9 +10,9 @@ hashtags: "#javascript,#reactjs,#rails,#rubylang,#management,#heroku,#ui/ux,#pos
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
-summary: "Interested in new opportunities and have 4+ years of full-time software engineering experience? Pathrise has a job opening for a senior software engineering manager."
+summary: "Interested in new opportunities and have 4+ years of full-time software engineering experience? Pathrise has a job opening for a Senior Software Engineering Manager."
 summaryBackup: "To apply as a senior software engineering manager at Pathrise, you preferably need to have some knowledge of: #javascript, #reactjs, #rails."
-featured: 20
+featured: 5
 ---
 
 **What is Pathrise?**
