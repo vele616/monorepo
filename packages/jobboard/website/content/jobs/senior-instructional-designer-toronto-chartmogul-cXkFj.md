@@ -1,18 +1,18 @@
 ---
-title: "Senior Instructional Designer - Toronto"
+title: "Senior Instructional Designer"
 location: "Remote job"
 host: "https://jobs.chartmogul.com/"
 companyName: "ChartMogul"
 url: "https://jobs.chartmogul.com/o/senior-instructional-designer-toronto"
 applyUrl: "https://jobs.chartmogul.com/o/senior-instructional-designer-toronto/c/new"
 timestamp: 1621987200000
-hashtags: "#ui/ux,#css,#content,#management,#analysis,#English"
+hashtags: "#ui/ux,#management,#analysis,#css,#content,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/chartmogul"
 companyWebsite: "https://chartmogul.com/"
 summary: "If you have 3+ years in instructional writing, technical writing, or a similar role in a software company, ideally in SaaS, ChartMogul is looking for someone with your skillset."
 summaryBackup: "ChartMogul is looking for a senior instructional designer that has experience in: #ui/ux, #css, #content."
-featured: 20
+featured: 13
 ---
 
 ## Job description
