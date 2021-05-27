@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "Clubhouse Software wishes to hire a new Director of Product Design. If you have 7+ years professional experience designing web applications with 3+ years experience managing teams, consider applying."
 summaryBackup: "Clubhouse Software is looking for a director of product design that has experience in: #ui/ux, #management, #operations."
 featured: 2
+archived: "true"
 ---
 
 Clubhouse was founded to help software teams execute and make decisions faster, encourage healthy cross-functional collaboration, and ultimately grow as an organization without losing speed.
