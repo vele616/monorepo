@@ -76,6 +76,8 @@ exports.exec = async (event) => {
     ) {
       const result = await switchFunc(platform, host, browser, url).getJobs();
 
+      const companyNameSubstitute = result.name ? result.name : companyName;
+
       const keywordsData = rake(
         `${result.content}. ${result.title}`
           .replace(/<.*?>|<.*?>|&.*?;/g, " ")
@@ -137,7 +139,7 @@ exports.exec = async (event) => {
         classification.software >= classification.other ? "software" : "other";
 
       const { summary, summaryBackup } = summarize(
-        result.name ? result.name : companyName,
+        companyNameSubstitute,
         result.title,
         result.content,
         hashtags
@@ -153,15 +155,14 @@ exports.exec = async (event) => {
         result.content,
         hashtags,
         jobType,
-        companyName || "",
+        companyNameSubstitute || "",
         companyLogo || "",
         companyWebsite || "",
         summary,
         summaryBackup,
-        result.name
       );
 
-      const titleCompany = `${result.title}-${result.name ? result.name : companyName}`
+      const titleCompany = `${result.title}-${companyNameSubstitute}`
         .replace(/[^a-z0-9]/gi, "-")
         .replace(/(-)\1+/g, "$1")
         .toLowerCase();
