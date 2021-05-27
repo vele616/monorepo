@@ -1,18 +1,18 @@
 ---
-title: "Principal Software Development Engineer - Remote"
+title: "Software Development Engineer"
 location: "New Delhi, IN - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
 companyName: "hicx-solutions"
 url: "https://hicx-solutions.breezy.hr/p/71cbe9623cb201-principal-software-development-engineer-remote"
 applyUrl: "https://hicx-solutions.breezy.hr/p/71cbe9623cb201-principal-software-development-engineer-remote/apply"
 timestamp: 1622073600000
-hashtags: "#spring,#java,#ui/ux,#javascript,#reactjs,#python,#php,#management,#html,#css"
+hashtags: "#java,#javascript,#reactjs,#python,#spring,#php,#ui/ux,#management,#html,#css"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "If you have 12 years in professional Java programming with a experience in application design, software development, and maintenance, Hicx-solutions is looking for someone with your knowledge."
+summary: "If you have 12 years in professional Java programming with a experience in application design, software development, and maintenance, HICX Solutions is looking for someone with your knowledge."
 summaryBackup: "To apply as a principal software development engineer at Hicx-solutions, you preferably need to have some knowledge of: #spring, #java, #ui/ux."
-featured: 20
+featured: 10
 ---
 
 ## Principal Software Development Engineer
@@ -23,13 +23,13 @@ We are looking to expand our Product & Platform Engineering Team, by adding high
 
 This role will give you opportunities to help define, contribute, and improve system architecture; You will work closely with others to create, plan, and execute engineering strategies needed to help Scale our systems and support rapidly growing Business growth.
 
-## _NB: This role is a Hands-On position and Line management_ _is not_ _required__._
+**_NB: This role is a Hands-On position and Line management_ _is not_ _required__._**
 
 We are looking for a long-term relationship, a talented individual that will become part of the team and support growth within our company.
 
 The candidate must be willing to work in UK business hours as they will be working with the UK team; the role is primarily remote however you may need to relocate to the United Kingdom when needed.
 
-Required Skills:
+## Required Skills:
 
 *   Minimum +12 years in professional Java programming with a experience in application design, software development, and maintenance
 *   A BSc in Computer Science or similar field
@@ -64,16 +64,15 @@ Required Skills:
 *   Ability to define, plan and execute large and complex Engineering strategies across multiple business areas and domains.
 *   A natural leader: the ability to coach, help, and lead others when needed.
 
-Desirable Skills:
+**Desirable Skills:**
 
 *   Experience in working on large enterprise-level systems.
-
 *   Experience in front-end frameworks like Vue.js or React is a plus
 *   BPMN Framework like Activity
 
 _Compensation will depend on the associated skill level of the individual selected._
 
-## Please do NOT apply when you have no experience in JAVA development
+**Please do NOT apply when you have no experience in JAVA development**
 
 (Note: Our projects do not use PHP, Perl, Python, WordPress) and do not meet the minimum required skills.
 
