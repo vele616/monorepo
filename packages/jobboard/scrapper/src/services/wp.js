@@ -3,7 +3,7 @@ const getUrls = async (browser, url) => {
   await page.goto(url);
 
   return await page.evaluate(() => {
-    const urls = [...document.querySelectorAll(".Listing--highlightPromotion .Listing-link")]
+    const urls = [...document.querySelectorAll(".Listing--highlightPromotion > .Listing-inner > .Listing-link")]
     .map(url => url.href);
 
     return {
@@ -27,7 +27,7 @@ const getJobs = async (browser, url) => {
           .querySelector(".RichText")
           .innerHTML.replace(/&nbsp;/g, ""),
         location: document.querySelector(".Listing-location").textContent,
-        applyUrl: document.querySelector(".Listing-actionItem .Button.Button--block").href,
+        applyUrl: document.querySelector(".Listing-actionItem > .Button.Button--block").href,
         companyName: document.querySelector(".Listing-companyName").textContent,
       };
     })),
