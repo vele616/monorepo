@@ -2,17 +2,17 @@
 title: "Secure Operations Manager"
 location: "London, GB - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/07acc1f78d5301-secure-operations-manager"
 applyUrl: "https://hicx-solutions.breezy.hr/p/07acc1f78d5301-secure-operations-manager/apply"
 timestamp: 1622073600000
-hashtags: "#operations,#management,#css,#ui/ux"
+hashtags: "#operations,#management,#encryption,#css,#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "Hicx-solutions is looking for a secure operations manager that has experience in: experience in: #operations, #management, #css."
+summary: "HICX Solutions is looking for a Secure Operations Manager that has experience in: #operations, #management, #encryption."
 summaryBackup: "Excited about #operations, #management, #css? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 HICX is a leading worldwide provider of enterprise SaaS solutions for digital supplier management. [Learn more about HICX](https://hicx-solutions.breezy.hr/)
