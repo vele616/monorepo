@@ -4,18 +4,10 @@ const getUrls = async (browser, url) => {
 
   return await page.evaluate(() => {
     const companyName = document.querySelector(".Listing-companyName");
-    const isFeatured = [
-      ...document.querySelectorAll(".Listing-titleAndDate > div"),
-    ];
-    const urls = [
-      ...document.querySelectorAll(".Listing-quickActions > div > a"),
-    ]
-      .map((url, i) => ({
-        url: url.href,
-        isFeatured: isFeatured[i].textContent,
-      }))
-      .filter((p) => p.isFeatured === "Featured")
-      .map((t) => t.url);
+
+    const urls = [...document.querySelectorAll(".Listing--highlightPromotion")].map(
+      (url) => (url = url.querySelector(".Listing-link").href)
+    );
 
     return {
       urls,
@@ -38,8 +30,8 @@ const getJobs = async (browser, url) => {
           .querySelector(".RichText")
           .innerHTML.replace(/&nbsp;/g, ""),
         location: document.querySelector(".Listing-location").textContent,
-        applyUrl: document.querySelector(".Listing-actions > div > a").href,
-        name: document.querySelector(".Listing-companyName").textContent,
+        applyUrl: document.querySelector(".Listing-actionItem").children[0].href,
+        companyName: document.querySelector(".Listing-companyName").textContent,
       };
     })),
     url,

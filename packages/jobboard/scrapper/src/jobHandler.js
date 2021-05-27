@@ -76,7 +76,7 @@ exports.exec = async (event) => {
     ) {
       const result = await switchFunc(platform, host, browser, url).getJobs();
 
-      const companyNameSubstitute = result.name ? result.name : companyName;
+      const companyNameSubstitute = result.companyName ? result.companyName : companyName;
 
       const keywordsData = rake(
         `${result.content}. ${result.title}`
