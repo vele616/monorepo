@@ -2,17 +2,17 @@
 title: "Customer Data Analyst"
 location: "Manila, PH - Remote OK"
 host: "https://hicx-solutions.breezy.hr/"
-companyName: "hicx-solutions"
+companyName: "hicx solutions"
 url: "https://hicx-solutions.breezy.hr/p/76a9a9e283b901-customer-data-analyst"
 applyUrl: "https://hicx-solutions.breezy.hr/p/76a9a9e283b901-customer-data-analyst/apply"
 timestamp: 1622073600000
-hashtags: "#management,#css,#office,#analysis,#operations,#monitoring"
+hashtags: "#management,#analysis,#office,#operations,#css,#monitoring"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hicx-solutions"
 companyWebsite: "http://www.hicxsolutions.com/"
-summary: "To apply as a customer data analyst at Hicx-solutions, you preferably need to have experience with using complex formulae in Excel."
+summary: "To apply as a Customer Data Analyst at HICX Solutions, you preferably need to have experience with using complex formulae in Excel."
 summaryBackup: "Excited about #management, #css, #office? Check out this job post!"
-featured: 20
+featured: 14
 ---
 
 HICX is a leading worldwide provider of enterprise SaaS solutions for digital supplier management. [Learn more about HICX](https://hicx-solutions.breezy.hr/)
