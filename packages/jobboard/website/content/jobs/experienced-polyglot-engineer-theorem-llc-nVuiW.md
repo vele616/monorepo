@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "Theorem intends to hire a new Full Stack Engineer. If you have strong server side development experience utilizing Java and Spring Boot, consider applying."
 summaryBackup: "Excited about #ui/ux, #spring, #java? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.
