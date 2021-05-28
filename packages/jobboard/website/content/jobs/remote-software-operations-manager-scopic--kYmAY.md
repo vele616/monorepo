@@ -1,18 +1,18 @@
 ---
-title: "Remote Software Operations Manager"
+title: "Software Operations Manager"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0u8bh/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0u8bh/?apply=true"
 timestamp: 1622160000000
-hashtags: "#management,#operations,#windows,#scrum,#monitoring,#office,#English,#finance"
+hashtags: "#management,#operations,#scrum,#monitoring,#office,#windows,#English,#finance"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
-summary: "Excited about experience in: #management, #operations, #windows? Check out this job post!"
+summary: "Excited about experience in: #management, #operations, #scrum? Check out this job post!"
 summaryBackup: "To apply as a remote software operations manager at Scopic, you preferably need to have some knowledge of: #management, #operations, #windows."
-featured: 20
+featured: 10
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and an Operations Managerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.
