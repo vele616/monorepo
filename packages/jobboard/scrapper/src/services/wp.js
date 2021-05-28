@@ -10,7 +10,7 @@ const getUrls = async (browser, url) => {
       urls,
       companyName: null,
       logoUrl: null,
-      companyWebsite: null,
+      companyWebsite: window.location.href,
     };
   });
 };
