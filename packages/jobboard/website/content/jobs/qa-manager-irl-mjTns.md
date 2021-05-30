@@ -6,7 +6,7 @@ companyName: "irl"
 url: "https://irl.breezy.hr/p/3a3eb4411c01-qa-manager"
 applyUrl: "https://irl.breezy.hr/p/3a3eb4411c01-qa-manager/apply"
 timestamp: 1622160000000
-hashtags: "#management,#socialmedia"
+hashtags: "#qa,#management"
 jobType: "other"
 
 companyWebsite: "https://irl.breezy.hr/"
