@@ -1,12 +1,12 @@
 ---
-title: "Backend Engineer (Remote)"
+title: "Backend Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/primer-api/"
 companyName: "Primer"
 url: "https://apply.workable.com/primer-api/j/71DC4BA14A/"
 applyUrl: "https://apply.workable.com/primer-api/j/71DC4BA14A/apply/"
 timestamp: 1622160000000
-hashtags: "#python,#ui/ux,#kubernetes,#aws,#office"
+hashtags: "#python,#kubernetes,#aws,#office"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/primer"
 companyWebsite: "https://primer.io/"
