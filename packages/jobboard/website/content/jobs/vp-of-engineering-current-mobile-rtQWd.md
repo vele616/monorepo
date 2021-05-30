@@ -6,7 +6,7 @@ companyName: "Current Mobile"
 url: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5252312002"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=currentmedia&token=5252312002#app"
 timestamp: 1622160000000
-hashtags: "#aws,#management,#marketing,#operations,#finance"
+hashtags: "#aws,#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/current-mobile"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
