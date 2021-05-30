@@ -1,12 +1,12 @@
 ---
-title: "Remote Manual QA Engineer"
+title: "Manual QA Engineer"
 location: "Anywhere"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0ua1p/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0ua1p/?apply=true"
 timestamp: 1622160000000
-hashtags: "#ui/ux,#jira,#analysis,#English"
+hashtags: "#qa,#ui/ux,#jira,#analysis,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
