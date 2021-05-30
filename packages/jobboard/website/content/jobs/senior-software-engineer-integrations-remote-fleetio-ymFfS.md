@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Engineer, Integrations (Remote)"
+title: "Senior Software Engineer"
 location: "Birmingham, Alabama, United States"
 host: "https://apply.workable.com/fleetio/"
 companyName: "Fleetio"
