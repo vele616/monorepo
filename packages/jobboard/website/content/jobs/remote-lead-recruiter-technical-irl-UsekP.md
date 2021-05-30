@@ -21,7 +21,7 @@ Imagine being part of a nimble team where your ideas and input have the potentia
 
 Our team is focused on building an event social network. We're looking for self-motivated engineers who have a passion for building high-quality consumer-facing applications.
 
-While we still ultimately retain our goal of facilitating people spending more time together in person, due to COVID-19 we have shifted our focus to online events and successfully raised a Series B round (https://techcrunch.com/2020/09...) and are currently in the midst of raising a considerably sized series C ([https://www.theinformation.com...](https://www.theinformation.com...)</p><h2>About) the role
+While we still ultimately retain our goal of facilitating people spending more time together in person, due to COVID-19 we have shifted our focus to online events and successfully raised a Series B round (https://techcrunch.com/2020/09...) and are currently in the midst of raising a considerably sized series C ([https://www.theinformation.com...](https://www.theinformation.com...))
 
 You will be responsible for sourcing, hiring, and as a growing company building appropriate systems and metrics to support the company as they scale. The ideal candidate will have 5+ years of full-cycle quantifiable recruiting experience within a technical environment.
 
