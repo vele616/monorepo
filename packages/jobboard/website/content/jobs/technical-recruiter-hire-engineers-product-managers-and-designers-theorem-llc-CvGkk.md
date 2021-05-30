@@ -1,12 +1,12 @@
 ---
-title: "Technical Recruiter - Hire Engineers, Product Managers, and Designers"
+title: "Technical Recruiter"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/bd4f3040-7db6-49da-9ad9-64b7f7b98e9e"
 applyUrl: "https://jobs.lever.co/theorem/bd4f3040-7db6-49da-9ad9-64b7f7b98e9e/apply"
 timestamp: 1622160000000
-hashtags: "#ui/ux,#management,#operations,#socialmedia,#scrum,#office,#finance,#optimization"
+hashtags: "#HR,#ui/ux,#operations,#socialmedia,#scrum,#office,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
