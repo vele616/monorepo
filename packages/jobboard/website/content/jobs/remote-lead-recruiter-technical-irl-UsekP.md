@@ -1,12 +1,12 @@
 ---
-title: "Remote - Lead Recruiter (Technical)"
+title: "Lead Technical Recruiter"
 location: ""
 host: "https://irl.breezy.hr/"
 companyName: "irl"
 url: "https://irl.breezy.hr/p/9c8f45e29ca0-remote-lead-recruiter-technical"
 applyUrl: "https://irl.breezy.hr/p/9c8f45e29ca0-remote-lead-recruiter-technical/apply"
 timestamp: 1622160000000
-hashtags: "#socialmedia,#branding,#management,#marketing"
+hashtags: "#HR,#managment"
 jobType: "other"
 
 companyWebsite: "https://irl.breezy.hr/"
