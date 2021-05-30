@@ -1,12 +1,12 @@
 ---
-title: "Experienced Backend Engineer - Python"
+title: "Python Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/theorem?location=Remote"
 companyName: "Theorem, LLC"
 url: "https://jobs.lever.co/theorem/5e335f20-bc53-4c6c-ba5c-6548b3da3797"
 applyUrl: "https://jobs.lever.co/theorem/5e335f20-bc53-4c6c-ba5c-6548b3da3797/apply"
 timestamp: 1622160000000
-hashtags: "#python,#ui/ux,#golang,#rubylang,#management,#operations,#socialmedia,#scrum,#finance,#optimization"
+hashtags: "#python,#golang,#rubylang,#management,#operations,#socialmedia,#scrum,#finance,#optimization"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/theorem-llc"
 companyWebsite: "https://theorem.co/"
