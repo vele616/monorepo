@@ -6,7 +6,7 @@ companyName: "Fleetio"
 url: "https://apply.workable.com/fleetio/j/097C676F03/"
 applyUrl: "https://apply.workable.com/fleetio/j/097C676F03/apply/"
 timestamp: 1622160000000
-hashtags: "#management,#reactjs,#typescript,#rubylang,#marketing,#ui/ux,#operations,#office,#rest,#monitoring"
+hashtags: "#reactjs,#typescript,#rubylang,#marketing,#ui/ux,#operations,#office,#rest,#monitoring"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fleetio"
 companyWebsite: "http://www.fleetio.com/"
