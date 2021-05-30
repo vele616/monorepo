@@ -1,5 +1,5 @@
 ---
-title: "Senior Backend Engineer (Team Lead)"
+title: "Senior Backend Engineer"
 location: ""
 host: "https://irl.breezy.hr/"
 companyName: "irl"
