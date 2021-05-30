@@ -1,13 +1,13 @@
 ---
-title: "Site Reliability Engineer - EMEA"
+title: "Site Reliability Engineer"
 location: "Remote"
 host: "https://boards.greenhouse.io/customerio"
 companyName: "Customer.io"
 url: "https://boards.greenhouse.io/customerio/jobs/3174227"
 applyUrl: "https://boards.greenhouse.io/customerio/jobs/3174227#app"
 timestamp: 1622160000000
-hashtags: "#management,#spring,#marketing,#ui/ux,#mysql,#office,#monitoring"
-jobType: "other"
+hashtags: "#spring,#monitoring,#mysql"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/customer-io"
 companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "If you have experience in managing and working with RDB systems, preferably MySQL, Customer.io is looking for someone with your knowledge."
