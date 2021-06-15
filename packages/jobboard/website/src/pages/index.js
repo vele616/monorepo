@@ -90,7 +90,10 @@ export default IndexPage;
 
 export const query = graphql`
   query indexQuery {
-    allMarkdownRemark(sort: { fields: frontmatter___jobType }) {
+    allMarkdownRemark(
+      sort: { fields: frontmatter___jobType }
+      filter: { frontmatter: { archived: { ne: "true" } } }
+    ) {
       group(field: frontmatter___jobType) {
         fieldValue
         totalCount
