@@ -6,11 +6,11 @@ companyName: "PostHog"
 url: "https://apply.workable.com/posthog/j/039CA3883F/"
 applyUrl: "https://apply.workable.com/posthog/j/039CA3883F/apply/"
 timestamp: 1623715200000
-hashtags: "#html,#figma,#reactjs,#frontend,#nodejs,#typescript,#ui/ux,#testing,#gatsby,#optimization"
+hashtags: "#reactjs,#nodejs,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/posthog"
 companyWebsite: "http://www.posthog.com/"
-summary: "PostHog is looking for a front end developer that has experience in: #html, #figma, #reactjs."
+summary: "PostHog is looking for a front end developer that has experience in: #reactjs,#nodejs,#typescript."
 summaryBackup: "PostHog is looking for a front end developer that has #html, #figma, #reactjs."
 featured: 20
 ---
