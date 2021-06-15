@@ -13,6 +13,7 @@ companyWebsite: "https://www.stellar.org/"
 summary: "If you have 4+ years of experience developing software on a team, consider applying to Stellar's job post for a new Senior Core Engineer."
 summaryBackup: "Excited about #ui/ux, #finance, #analysis? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Interested in helping us change the world of payments forever? The Stellar Development Foundation (SDF) is looking for a talented, experienced, and hands-on engineer to join our team. In this role you’ll be designing, building, and implementing changes to Stellar Core - the primary distributed system that is used for maintaining Stellar's ledger and obtaining global consensus.

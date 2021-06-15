@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have deep experience with build tools like gulp and webpack and package managers such as Composer and NPM, Awesome Motive, Inc is looking for someone with your skillset."
 summaryBackup: "To apply as a monsterinsights wordpress developer at Awesome Motive, Inc, you preferably need to have some knowledge of: #wordpress, #vuejs, #php."
 featured: 16
+archived: "true"
 ---
 
 As a WordPress Developer at Awesome Motive, you’ll join the MonsterInsights team where you will collaborate with awesome team members and tackle a wide range of responsibilities.

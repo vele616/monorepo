@@ -13,6 +13,7 @@ companyWebsite: "http://3boxlabs.com/"
 summary: "3Box Labs wishes to hire a new Protocol Engineer. If you have background in mechanism design or game theory, ability to design systems for adversarial environments, experience working with standards or research organizations, consider applying."
 summaryBackup: "To apply as a protocol engineer at 3Box Labs, you preferably need to have some knowledge of: #ui/ux, #management, #branding."
 featured: 3
+archived: "true"
 ---
 
 Do you want to help developers and users reclaim the web with a brand new technology to directly manage our information and identities online?

@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have the ability to research and understand technical concepts, then explain them in simple terms to people who aren’t tech-savvy, Awesome Motive, Inc is looking for someone with your skillset."
 summaryBackup: "Excited about #wordpress, #html, #operations? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 As a Writer at Awesome Motive, you’re responsible for growing our organic traffic and converting website visitors into email subscribers and customers.
