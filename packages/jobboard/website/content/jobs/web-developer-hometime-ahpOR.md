@@ -6,7 +6,7 @@ companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=78&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=78&source=other"
 timestamp: 1623369600000
-hashtags: "#reactjs,#marketing,#operations,#javascript,#rails,#ui/ux,#management,#branding,#scrum,#rest"
+hashtags: "#reactjs,#javascript,#rails,#ui/ux,#management,#branding,#scrum,#rest"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
