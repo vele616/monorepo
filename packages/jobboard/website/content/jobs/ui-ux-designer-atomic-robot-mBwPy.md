@@ -13,6 +13,7 @@ companyWebsite: "https://atomicrobot.com/"
 summary: "To apply as an UI/UX Designer at Atomic Robot, you preferably need to have some knowledge of: #ui/ux, #ios, #figma."
 summaryBackup: "Love #ui/ux, #ios, #socialmedia? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

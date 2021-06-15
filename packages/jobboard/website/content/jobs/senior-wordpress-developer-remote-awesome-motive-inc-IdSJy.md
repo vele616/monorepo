@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have professional experience with WordPress plugin development, architecture, and standards, Awesome Motive is looking for someone with your knowledge."
 summaryBackup: "Awesome Motive is looking for a Senior Wordpress Developer that has experience in: #management, #wordpress, #php."
 featured: 15
+archived: "true"
 ---
 
 As a Senior WordPress at Awesome Motive, you’ll join the WPForms team where you will collaborate with awesome team members and tackle a wide range of responsibilities.
