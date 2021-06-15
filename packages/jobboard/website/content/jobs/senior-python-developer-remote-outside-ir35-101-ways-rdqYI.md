@@ -1,18 +1,18 @@
 ---
-title: "Senior Python Developer (Remote, Outside IR35)"
+title: "Senior Python Developer"
 location: "Remote"
 host: "https://wellpaid.io/jobs"
-companyName: "101 Ways"
+companyName: "101 Ways via wellpaid.io"
 url: "https://wellpaid.io/job/senior-python-developer-direct-koyi9s2m"
 applyUrl: "https://wellpaid.io/apply/direct-koyi9s2m"
 timestamp: 1623715200000
 hashtags: "#python,#django,#aws,#postgresql,#HR,#scrum,#testing,#management,#backend,#innovation"
 jobType: "software"
-
+logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wellpaid"
 companyWebsite: "https://wellpaid.io/jobs"
 summary: "Love experience in: #python, #django, #aws? Check out this job post!"
 summaryBackup: "To apply as a senior python developer at 101 Ways, you preferably need to have some #python, #django, #aws."
-featured: 20
+featured: 1
 ---
 
 **Senior python developer – Early-stage project with a highly skilled python team.**
