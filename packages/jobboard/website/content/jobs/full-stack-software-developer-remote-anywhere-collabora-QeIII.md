@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "If you have experience developing and deploying applications with Docker, Collabora is looking for someone with your skillset."
 summaryBackup: "Collabora is looking for a full stack software developer that has experience in: #rubylang, #ui/ux, #django."
 featured: 10
+archived: "true"
 ---
 
 Collabora is looking for a Software/DevOps Engineer to join our DevOps team. Working with a diverse set of stakeholders (including Engineering, Delivery, Sysadmin, People Operations, Finance and Sales/Marketing) you will focus on developing, improving, and maintaining our internal applications and integrations. You will be knowledgable in devops and modern software development, augmenting the expertise of the team around you. You will be working closely with your colleagues in the DevOps and infrastructure teams to ensure the tools are being deployed securely and working efficiently.

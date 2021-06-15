@@ -13,6 +13,7 @@ companyWebsite: "https://www.revenuecat.com/"
 summary: "Interested in new opportunities and have 5+ years of experience as a Software or Platform Engineer and are comfortable writing and analyzing code? RevenueCat has a job opening for a Reliability Engineer."
 summaryBackup: "To apply as a reliability engineer at RevenueCat, you preferably need to have some knowledge of: #ui/ux, #aws, #terraform."
 featured: 8
+archived: "true"
 ---
 
 **About us**

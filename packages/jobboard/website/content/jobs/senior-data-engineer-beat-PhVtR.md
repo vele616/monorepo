@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat wishes to hire a new Senior Data Engineer. If you have experience building and running large-scale real-time and batch data pipelines, consider applying."
 summaryBackup: "Excited about #spark, #reactjs, #java? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## About us

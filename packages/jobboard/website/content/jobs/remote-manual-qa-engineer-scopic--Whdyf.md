@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "If you have 3+ years of relevant QA experience, Scopic is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #jira, #analysis? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemoteManual QAby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

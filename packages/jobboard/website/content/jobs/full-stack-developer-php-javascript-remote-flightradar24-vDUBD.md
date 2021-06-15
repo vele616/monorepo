@@ -13,6 +13,7 @@ companyWebsite: "https://flightradar24.com/"
 summary: "If you have 4 years experience of modern web development, Flightradar24 has a job opening for a fullstack developer"
 summaryBackup: "Excited about #javascript, #php, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## What you’ll do

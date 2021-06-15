@@ -13,6 +13,7 @@ companyWebsite: "https://www.ockam.io/"
 summary: "If you have 5+ years of experience, Ockam has a job opening for a Senior Engineer"
 summaryBackup: "Ockam is looking for a sr engineer that has experience in: #ui/ux, #rustlang, #git."
 featured: 3
+archived: "true"
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated messaging libraries and infrastructure that is designed for the high throughput, low latency, intermittent connectivity requirements of IoT and connected machines.

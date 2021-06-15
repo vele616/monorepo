@@ -15,7 +15,7 @@ summaryBackup: "Excited about #management, #spring, #marketing? Check out this j
 featured: 20
 ---
 
-Hi, I'm Alex - Site Reliability Engineering Manager. [Customer.io](customer.io%20) is looking for a collaborative Site Reliability Engineer (SRE) who loves solving interesting puzzles and is excited to help us build out a scalable, reliable platform that our customers love. We understand that you might not have all the skills we've listed, and that's okay. If you have a combination of some of the items listed and you're interested in developing in the others, we want to hear from you!
+Hi, I'm Alex - Site Reliability Engineering Manager. [Customer.io](https://customer.io) is looking for a collaborative Site Reliability Engineer (SRE) who loves solving interesting puzzles and is excited to help us build out a scalable, reliable platform that our customers love. We understand that you might not have all the skills we've listed, and that's okay. If you have a combination of some of the items listed and you're interested in developing in the others, we want to hear from you!
 
 Our small, remote-first team is fun-loving, passionate and highly effective. We offer a lot of opportunity to grow and refine your skills while having a significant impact. Other members of our site reliability team have backgrounds in a wide variety of industries, from Telecom to Gaming, and we believe that embracing our unique perspectives and expertise is key to our success as a collaborative team.
 
