@@ -10,7 +10,7 @@ hashtags: "#python,#django,#aws,#postgresql,#HR,#scrum,#testing,#management,#bac
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wellpaid"
 companyWebsite: "https://wellpaid.io/jobs"
-summary: "Love experience in: #python, #django, #aws? Check out this job post!"
+summary: "Have experience in: #python, #django, #aws? Check out this job post!"
 summaryBackup: "To apply as a senior python developer at 101 Ways, you preferably need to have some #python, #django, #aws."
 featured: 1
 ---
