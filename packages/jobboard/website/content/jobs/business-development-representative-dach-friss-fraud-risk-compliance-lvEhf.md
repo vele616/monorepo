@@ -1,8 +1,8 @@
 ---
-title: "Business Development Representative DACH"
+title: "Business Development Representative"
 location: "Remote job"
 host: "https://friss.recruitee.com/"
-companyName: "FRISS | fraud, risk & compliance"
+companyName: "FRISS"
 url: "https://friss.recruitee.com/o/business-development-representative-dach"
 applyUrl: "https://friss.recruitee.com/o/business-development-representative-dach/c/new"
 timestamp: 1624060800000
@@ -10,7 +10,7 @@ hashtags: "#sales,#marketing,#analytics,#office,#management,#rest,#communication
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "To apply as a business development representative dach at FRISS | fraud, risk & compliance, you preferably need to have some experience in: #sales, #marketing, #analytics."
+summary: "To apply as a business development representative dach at FRISS, you preferably need to have some experience in: #sales, #marketing, #analytics."
 summaryBackup: "Love #sales, #marketing, #analytics? Check out this job post!"
 featured: 20
 ---
