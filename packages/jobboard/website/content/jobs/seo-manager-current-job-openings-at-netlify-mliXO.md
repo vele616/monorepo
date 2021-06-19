@@ -5,10 +5,9 @@ host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5283148002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5283148002#app"
-timestamp: 1624060800000
-hashtags: "#management,#marketing,#content,#analysis,#branding,#innovation,#git,#optimization,#figma,#rest"
+timestamp: 1624226400000
+hashtags: "#marketing,#content,#analysis"
 jobType: "other"
-
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Current Job Openings at Netlify is searching for a seo manager that has 5+ years of SEO experience working with a high traffic and complex website, preferably with an international or global brand."
 summaryBackup: "Excited about #management, #marketing, #content? Check out this job post!"
