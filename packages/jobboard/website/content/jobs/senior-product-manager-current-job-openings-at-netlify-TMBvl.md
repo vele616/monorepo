@@ -5,14 +5,14 @@ host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5292063002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5292063002#app"
-timestamp: 1624060800000
+timestamp: 1624399200000
 hashtags: "#management,#marketing,#analysis,#sales,#css,#ui/ux,#operations,#communication,#git,#rest"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Excited about experience in: #management, #marketing, #analysis? Check out this job post!"
 summaryBackup: "To apply as a senior product manager at Current Job Openings at Netlify, you preferably need to have some #management, #marketing, #analysis."
-featured: 20
+featured: 2
 ---
 
 ## Company Overview
