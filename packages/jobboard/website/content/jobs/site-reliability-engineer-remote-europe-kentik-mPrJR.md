@@ -1,12 +1,12 @@
 ---
-title: "Site Reliability Engineer (Remote - Europe)"
+title: "Site Reliability Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/kentik-2?location=Remote"
 companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/70ddc376-a2a8-4ac8-b5ce-282ce197518f"
 applyUrl: "https://jobs.lever.co/kentik-2/70ddc376-a2a8-4ac8-b5ce-282ce197518f/apply"
-timestamp: 1624060800000
-hashtags: "#python,#git,#reactjs,#operations,#golang,#rubylang,#postgresql,#css,#redis,#mysql"
+timestamp: 1624312800000
+hashtags: "#reactjs,#golang,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
 companyWebsite: "http://www.kentik.com/"
