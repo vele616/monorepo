@@ -5,14 +5,14 @@ host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3030005"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3030005#app"
-timestamp: 1624060800000
-hashtags: "#android,#kotlin,#git,#testing,#scrum,#rest,#operations,#ui/ux,#qa,#marketing"
+timestamp: 1624312800000
+hashtags: "#android,#kotlin,#git"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have 3+ years of native Android app development experience, Beat is looking for someone with your skillset."
 summaryBackup: "To apply as a senior android engineer at Beat, you preferably need to have some #android, #kotlin, #git."
-featured: 20
+featured: 1
 ---
 
 ## About us
