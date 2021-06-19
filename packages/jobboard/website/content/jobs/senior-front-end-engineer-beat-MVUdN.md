@@ -1,16 +1,16 @@
 ---
-title: "Senior Front-end Engineer"
+title: "Senior Frontend"
 location: "Remote"
 host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3188938"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3188938#app"
-timestamp: 1624060800000
-hashtags: "#reactjs,#frontend,#operations,#testing,#javascript,#angular,#vuejs,#typescript,#rest,#css"
+timestamp: 1624399200000
+hashtags: "#reactjs,#frontend,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
-summary: "If you have 3 years of operations in the Greek capital, Beat extended its service in Latin America, starting from Peru, Beat is looking for someone with your knowledge."
+summary: "Excited about #reactjs, #frontend, #javascript? Check out this job post!"
 summaryBackup: "Excited about #reactjs, #frontend, #operations? Check out this job post!"
 featured: 20
 ---
