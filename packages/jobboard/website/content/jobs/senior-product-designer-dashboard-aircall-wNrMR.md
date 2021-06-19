@@ -1,12 +1,12 @@
 ---
-title: "Senior Product Designer - Dashboard"
+title: "Senior Product Designer"
 location: "Remote-EMEA"
 host: "https://jobs.lever.co/aircall/?location=Remote%20-%20EMEA"
 companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/45db38f6-ad1d-46dc-9d9f-d1598983e1bf"
 applyUrl: "https://jobs.lever.co/aircall/45db38f6-ad1d-46dc-9d9f-d1598983e1bf/apply"
-timestamp: 1624060800000
-hashtags: "#ui/ux,#assembly,#css,#accountant,#branding,#figma,#communication,#English"
+timestamp: 1624399200000
+hashtags: "#ui/ux,#branding,#figma,#communication,#English"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
