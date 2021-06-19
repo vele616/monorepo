@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have experience with MVC development frameworks and cascading modularity, Beat is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #python, #java? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
  About us 

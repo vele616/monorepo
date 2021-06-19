@@ -13,6 +13,7 @@ companyWebsite: "https://zyte.com/"
 summary: "If you have 2+ years of experience working as a developer or developer advocate/evangelist or support engineer, consider applying to Zyte's job post for a new Developer Advocate."
 summaryBackup: "Zyte is looking for a developer advocate that has experience in: #content, #socialmedia, #python."
 featured: 16
+archived: "true"
 ---
 
 ## Description

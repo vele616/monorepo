@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "If you have strong analytical and problem solving skills and the ability to “think-out-of-the-box”, Netlify has a job opening for a Senior Security Compliance Analyst"
 summaryBackup: "Love #management, #aws, #azure? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Company Overview

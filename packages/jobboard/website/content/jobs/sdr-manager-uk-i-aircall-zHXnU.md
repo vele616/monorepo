@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "If you have 2+ years in the software sales space as both an SDR & closer within the UK&I market, consider applying to Aircall's job post for a new SDR Manager."
 summaryBackup: "Aircall is looking for a sdr manager uk&i that has experience in: #sales, #management, #css."
 featured: 19
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!

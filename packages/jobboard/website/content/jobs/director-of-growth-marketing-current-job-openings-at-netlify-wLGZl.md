@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "If you have experience working at scale, across millions of monthly visitors, consider applying to Netlify's job post for a new Director of Growth Marketing."
 summaryBackup: "Current Job Openings at Netlify is looking for a director of growth marketing that has experience in: #marketing, #management, #content."
 featured: 15
+archived: "true"
 ---
 
 ## Company Overview
