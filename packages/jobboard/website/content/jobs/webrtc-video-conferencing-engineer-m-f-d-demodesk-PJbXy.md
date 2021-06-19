@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 3 years professional experience in Web Development working with python or ruby, Demodesk has a job opening for a webrtc video conferencing engineer"
 summaryBackup: "Demodesk is looking for a webrtc video conferencing engineer that has experience in: #rubylang, #python, #javascript."
 featured: 15
+archived: "true"
 ---
 
 Your Mission:

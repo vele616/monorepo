@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is looking for a Director of Product Design that has experience leading a team of designers (4+) in a fast-growing environment, hiring, and managing performance."
 summaryBackup: "Excited about #ui/ux, #management, #marketing? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 **Who We Are**

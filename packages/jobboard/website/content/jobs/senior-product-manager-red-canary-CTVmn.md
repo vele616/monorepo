@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Interested in new opportunities and have 5+ years of experience in a Product Manager role? Red Canary has a job opening for a Senior Product Manager."
 summaryBackup: "Red Canary is looking for a senior product manager that has experience in: #ui/ux, #management, #translation."
 featured: 11
+archived: "true"
 ---
 
 **Why Red Canary**

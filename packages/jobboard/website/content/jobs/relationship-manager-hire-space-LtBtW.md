@@ -13,6 +13,7 @@ companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
 summary: "If you have 2 year sales or related industry experience, Hire Space has a job opening for a Relationship Manager"
 summaryBackup: "Excited about #sales, #management, #operations? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Hire Space is transforming the events industry.Powering exceptional event planners through innovation, technology and discoveryOur mission: To help 50 companies deliver 50 post-pandemic events each
