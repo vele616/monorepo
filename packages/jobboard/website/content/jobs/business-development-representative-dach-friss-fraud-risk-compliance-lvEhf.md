@@ -5,7 +5,7 @@ host: "https://friss.recruitee.com/"
 companyName: "FRISS"
 url: "https://friss.recruitee.com/o/business-development-representative-dach"
 applyUrl: "https://friss.recruitee.com/o/business-development-representative-dach/c/new"
-timestamp: 1624060800000
+timestamp: 1624485600000
 hashtags: "#sales,#marketing,#analytics,#office,#management,#rest,#communication,#innovation"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
