@@ -5,7 +5,7 @@ host: "https://jobs.lever.co/kentik-2?location=Remote"
 companyName: "Kentik"
 url: "https://jobs.lever.co/kentik-2/b211c48f-10f6-449f-94a7-95db52e078ed"
 applyUrl: "https://jobs.lever.co/kentik-2/b211c48f-10f6-449f-94a7-95db52e078ed/apply"
-timestamp: 1624060800000
+timestamp: 1624226400000
 hashtags: "#python,#postgresql,#golang"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/kentik"
