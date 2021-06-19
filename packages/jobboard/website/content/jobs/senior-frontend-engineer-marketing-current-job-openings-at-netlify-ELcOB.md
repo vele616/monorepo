@@ -1,16 +1,16 @@
 ---
-title: "Senior Frontend Engineer (Marketing)"
+title: "Senior Frontend Engineer"
 location: "Distributed"
 host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5295000002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5295000002#app"
-timestamp: 1624060800000
-hashtags: "#marketing,#content,#javascript,#vuejs,#html,#css,#frontend,#ui/ux,#operations,#git"
+timestamp: 1624485600000
+hashtags: "#javascript,#vuejs,#css"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/netlify"
-summary: "To apply as a senior frontend engineer at Current Job Openings at Netlify, you preferably need to have you also enjoy working with marketers, designers, content writers, and are able to have a healthy dialogue with them around matching expectations with practical considerations, taking care to deliver experiences that are usable, performant, and accessible."
+summary: "To apply as a senior frontend engineer at Current Job Openings at Netlify, you preferably need to have you also enjoy working with marketers, designers, content writers, and are able to have a healthy dialogue with them around matching expectations with practical considerations."
 summaryBackup: "Current Job Openings at Netlify is looking for a senior frontend engineer that has #marketing, #content, #javascript."
 featured: 20
 ---
