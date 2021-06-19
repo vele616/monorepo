@@ -5,14 +5,14 @@ host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3188934"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3188934#app"
-timestamp: 1624060800000
-hashtags: "#operations,#rest,#backend,#python,#java,#golang,#php,#kotlin,#testing,#mysql"
+timestamp: 1624226400000
+hashtags: "#rest,#golang,#mysql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have experience with MVC development frameworks and cascading modularity, Beat is looking for someone with your knowledge."
 summaryBackup: "To apply as a senior backend engineer at Beat, you preferably need to have some #operations, #rest, #backend."
-featured: 20
+featured: 1
 ---
 
 ## About us
