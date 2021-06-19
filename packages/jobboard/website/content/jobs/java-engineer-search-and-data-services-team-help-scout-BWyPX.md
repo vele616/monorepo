@@ -1,16 +1,16 @@
 ---
-title: "Java Engineer, Search and Data Services Team"
+title: "Java Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/helpscout/?location=Remote&team=Engineering"
 companyName: "Help Scout"
 url: "https://jobs.lever.co/helpscout/2a9481a0-0f37-444a-8b38-a1fb80705700"
 applyUrl: "https://jobs.lever.co/helpscout/2a9481a0-0f37-444a-8b38-a1fb80705700/apply"
-timestamp: 1624060800000
-hashtags: "#java,#kotlin,#testing,#javascript,#php,#marketing,#postgresql,#office,#mysql,#aws"
+timestamp: 1624312800000
+hashtags: "#java,#kotlin,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/help-scout"
 companyWebsite: "http://www.helpscout.com/"
-summary: "If you have 4 years, you get a month of paid vacation, Help Scout is looking for someone with your skillset."
+summary: "Excited about #java, #kotlin, #postgresql? Check out this job post!"
 summaryBackup: "Excited about #java, #kotlin, #testing? Check out this job post!"
 featured: 20
 ---
