@@ -5,7 +5,7 @@ host: "https://boards.greenhouse.io/embed/job_board?for=beat"
 companyName: "Beat"
 url: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3188938"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=beat&token=3188938#app"
-timestamp: 1624399200000
+timestamp: 1624226400000
 hashtags: "#reactjs,#frontend,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/beat"

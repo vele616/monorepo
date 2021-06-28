@@ -5,7 +5,7 @@ host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5292063002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5292063002#app"
-timestamp: 1624399200000
+timestamp: 1624226400000
 hashtags: "#management,#marketing,#analysis,#sales,#css,#ui/ux,#operations,#communication,#git,#rest"
 jobType: "other"
 

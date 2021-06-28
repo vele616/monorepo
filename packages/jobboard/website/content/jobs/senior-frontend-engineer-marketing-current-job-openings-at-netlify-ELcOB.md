@@ -5,7 +5,7 @@ host: "https://boards.greenhouse.io/netlify"
 companyName: "Current Job Openings at Netlify"
 url: "https://boards.greenhouse.io/netlify/jobs/5295000002"
 applyUrl: "https://boards.greenhouse.io/netlify/jobs/5295000002#app"
-timestamp: 1624485600000
+timestamp: 1624226400000
 hashtags: "#javascript,#vuejs,#css"
 jobType: "software"
 
