@@ -1,16 +1,16 @@
 ---
-title: "Agency Success Manager, DACH"
+title: "Agency Success Manager"
 location: "Remote EMEA"
 host: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4541305003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4541305003?t=02952e2a3us#app"
 timestamp: 1625443200000
-hashtags: "#management,#accountant,#css,#HR,#windows,#marketing,#innovation,#analysis,#communication,#crm"
+hashtags: "#management,#crm,#sales,#innovation,#analysis,#communication,"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
-summary: "If you have 5+ years as an Account Manager, Account Executive, Customer Success or a in a Partner Management role, Hopin has a job opening for an agency success manager"
+summary: "If you have 5+ years as an Account Manager, Account Executive, Customer Success or in a Partner Management role, Hopin has a job opening for an agency success manager"
 summaryBackup: "Hopin is looking for an agency success manager that has #management, #accountant, #css."
 featured: 20
 ---
