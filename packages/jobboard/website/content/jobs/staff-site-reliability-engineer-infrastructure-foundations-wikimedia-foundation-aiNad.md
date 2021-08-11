@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is searching for a Staff Site Reliability Engineer that has 5+ years experience in an SRE/Operations/DevOps role as part of a team."
 summaryBackup: "Excited about #operations, #ui/ux, #management? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Staff Site Reliability Engineer, Infrastructure Foundations

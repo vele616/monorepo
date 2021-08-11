@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "To apply as a front end engineer at Startupz, you preferably need to have 5 years of experience developing web applications."
 summaryBackup: "Startupz.com is looking for a front end engineer that has experience in: #javascript, #ui/ux, #reactjs."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

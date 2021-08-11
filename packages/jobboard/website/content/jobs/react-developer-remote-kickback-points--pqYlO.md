@@ -13,6 +13,7 @@ companyWebsite: "https://kickbackpoints.bamboohr.com/jobs/"
 summary: "To apply as a React Developer at Kickback Points, you preferably need to have some knowledge of: #reactjs, #python, #html,."
 summaryBackup: "To apply as a react developer at Kickback Points, you preferably need to have some knowledge of: #ui/ux, #javascript, #reactjs."
 featured: 7
+archived: "true"
 ---
 
 KickBack Rewards Systems ("KRS") is hiring a Front end developer to develop and maintain our web applications. Knowledgable with Javascript. This position works in several technologies. The right candidate is comfortable working with multiple layers of the stack. 

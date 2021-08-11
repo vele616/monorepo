@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "RebelMouse intends to hire a new Web Master. If you have solid experience in building different layouts, consider applying."
 summaryBackup: "To apply as a <!- at RebelMouse, Inc., you preferably need to have some knowledge of: #css, #ui/ux, #javascript."
 featured: 6
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "Komoot is looking for a Senior Backend Engineer that has 3+ years of professional experience."
 summaryBackup: "Komoot is looking for a senior backend engineer that has experience in: #kotlin, #aws, #java."
 featured: 16
+archived: "true"
 ---
 
 ## Description

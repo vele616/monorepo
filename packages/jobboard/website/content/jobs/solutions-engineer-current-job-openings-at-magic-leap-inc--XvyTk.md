@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 5-7+ years of experience in demonstrating and establishing technical feasibility/wins among Enterprise customers, Magic Leap, Inc. is looking for someone with your skillset."
 summaryBackup: "To apply as a solutions engineer at Magic Leap, Inc., you preferably need to have some knowledge of: #sales, #operations, #unity."
 featured: 20
+archived: "true"
 ---
 
 ## Job Description

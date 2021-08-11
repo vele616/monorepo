@@ -13,6 +13,7 @@ companyWebsite: "https://atomicrobot.com/"
 summary: "Atomic Robot intends to hire a new Social Media Coordinator. If you have previous internship experience as a Social media coordinator, consider applying."
 summaryBackup: "To apply as a social media coordinator at Atomic Robot, you preferably need to have some knowledge of: #socialmedia, #marketing, #internship."
 featured: 11
+archived: "true"
 ---
 
 ## Description

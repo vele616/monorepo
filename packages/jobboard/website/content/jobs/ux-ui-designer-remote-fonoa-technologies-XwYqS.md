@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "If you have 4+ years of digital product design experience working on web and native applications, Fonoa Technologies has a job opening for an UX/UI Designer."
 summaryBackup: "Excited about #ui/ux,#design,#figma,#wireframes? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

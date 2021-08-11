@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new senior product manager. If you have 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments, consider applying."
 summaryBackup: "To apply as a senior product manager at Hopin, you preferably need to have some knowledge of: #ui/ux, #android, #ios."
 featured: 10
+archived: "true"
 ---
 
 Job Description:

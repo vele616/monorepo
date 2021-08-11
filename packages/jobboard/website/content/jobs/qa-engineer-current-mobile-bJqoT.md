@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Current Mobile is looking for a QA Engineer that has 3+ years of experience in quality assurance."
 summaryBackup: "Current Mobile is looking for a qa engineer that has experience in: #android, #management, #operations."
 featured: 10
+archived: "true"
 ---
 
 ## The Charge Screen Team

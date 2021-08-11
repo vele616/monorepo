@@ -13,6 +13,7 @@ companyWebsite: "https://kodify.io/"
 summary: "To apply as a fullstack developer at Kodify, you preferably need to have 3 years, and can show us examples of their work."
 summaryBackup: "Kodify is looking for a fullstack developer that has experience in: #html, #css, #javascript."
 featured: 20
+archived: "true"
 ---
 
 ## Job description

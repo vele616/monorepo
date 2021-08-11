@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Excited about #javascript, #typescript, #terraform? Check out this job post!"
 summaryBackup: "Excited about #javascript, #typescript, #terraform? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 Hopin is a virtual venue for live online events that brings hundreds of thousands of people together, to have interactive and engaging experiences from anywhere in the world.

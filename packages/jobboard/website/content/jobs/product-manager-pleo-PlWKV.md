@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "Excited about experience in: #management, #finance, #operations? Check out this job post!"
 summaryBackup: "Pleo is looking for a product manager that has experience in: #management, #finance."
 featured: 15
+archived: "true"
 ---
 
 

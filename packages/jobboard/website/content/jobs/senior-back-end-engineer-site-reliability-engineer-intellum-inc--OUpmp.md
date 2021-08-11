@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Intellum wishes to hire a new Senior Back End Engineer. If you have 7 years of experience developing software professionally, consider applying."
 summaryBackup: "Intellum, Inc. is looking for a senior back end engineer that has experience in: #rails, #rubylang, #css."
 featured: 5
+archived: "true"
 ---
 
 ## Description

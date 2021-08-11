@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "Love experience in: #sales, #branding, #marketing? Check out this job post!"
 summaryBackup: "To apply as a sales development representative at Brandbassador, you preferably need to have some knowledge of: #sales, #branding, #marketing."
 featured: 20
+archived: "true"
 ---
 
 Want to be part of building something, working with likeminded people, in an insane culture? At Brandbassador we believe in the concept of the ‘Dream Team’ in which you are part of a group of extraordinary people, highly effective at what they do, working together towards a common goal. We’re looking for bright, hungry people to be the tip of the spear when it comes to growing our business. As a Sales Development Rep at Brandbassador your mission is to work with our commercial team and use advanced prospecting techniques to create new opportunities for us to educate Brands on how we can help them build authentic digital word of mouth.This is not your typical, mass email, mass cold call sales role, we’re looking for smart, innovative people who can passionately believe in what we do, the impact it has for our brands and an infectious enthusiasm to help other brands. This manifests itself in a ‘never give up’ attitude and a fearless approach to prospecting.

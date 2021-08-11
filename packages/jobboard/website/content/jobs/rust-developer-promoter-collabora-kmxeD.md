@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "Collabora intends to hire a new Rust Developer. If you have BS/BA or experience in the role of Engineer, consider applying."
 summaryBackup: "Collabora is looking for a rust developer that has experience in: #rustlang, #management, #marketing."
 featured: 18
+archived: "true"
 ---
 
 Are you looking for a job as a Rust developer advocate to promote and develop with the programming language within Open-Source projects?

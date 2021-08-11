@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Interested in new opportunities and have 6+ years of experience in Sales or Business Development? Hopin has a job opening for a Senior Account Executive."
 summaryBackup: "Hopin is looking for a senior account executive that has experience in: #sales, #windows, #crm."
 featured: 16
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

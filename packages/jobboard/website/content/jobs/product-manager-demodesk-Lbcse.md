@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 2+ years experience in Product Development, B2B SaaS, or similar, Demodesk is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #sales, #css? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Mission

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/able"
 summary: "Able intends to hire a new Sr. Full-Stack Software Engineer. If you have 6+ years of professional experience working as a software engineer, consider applying."
 summaryBackup: "To apply as a senior full-stack software engineer at Able, you preferably need to have some knowledge of: #reactjs, #rails, #rubylang."
 featured: 10
+archived: "true"
 ---
 
 We are Able, a company building products through a portfolio model, and we are looking for a Senior Full-Stack Software Engineer.Do you enjoy the thrill of building complex full-stack solutions with ever-evolving interfaces? Would you like to create products for several industries, following our thesis of impacting the world to make it a better place for all?Able may be the place you’ve been longing for. The one where creative and innovative projects meet with **good-willing and passionate** teams — plus many other perks to boot that we can offer.

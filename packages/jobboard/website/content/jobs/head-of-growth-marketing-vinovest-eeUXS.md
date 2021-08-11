@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest intends to hire a new Head of Growth Marketing. If you have 5+ years of growth marketing, growth hacking, or performance marketing experience, consider applying."
 summaryBackup: "Vinovest is looking for a head of growth marketing that has experience in: #marketing, #analytics, #management."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

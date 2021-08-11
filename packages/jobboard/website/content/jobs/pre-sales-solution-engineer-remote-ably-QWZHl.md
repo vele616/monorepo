@@ -13,6 +13,7 @@ companyWebsite: "https://www.ably.io/careers"
 summary: "To apply as a pre-sales solution engineer at Ably, you preferably need to have 8 years of experience within software pre-sales engineering."
 summaryBackup: "To apply as a pre-sales solution engineer at Ably, you preferably need to have some knowledge of: #sales, #translation, #management."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

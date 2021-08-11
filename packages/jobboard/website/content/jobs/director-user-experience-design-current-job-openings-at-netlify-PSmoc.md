@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "If you have experience in leading teams of Product & UX Designers through the complete product discovery to delivery life cycle, Netlify is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #management, #windows? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Company Overview

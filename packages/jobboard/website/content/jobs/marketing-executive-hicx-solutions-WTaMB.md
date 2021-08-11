@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "To apply as a marketing executive at HICX, you preferably need to identify and target relevant ICP accounts, taking advantage of our ABM tools and the experience of our sales team."
 summaryBackup: "Excited about #marketing, #sales, #css? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Introduction

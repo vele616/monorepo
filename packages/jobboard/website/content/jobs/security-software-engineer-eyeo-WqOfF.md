@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "To apply as a security software engineer at Eyeo, you preferably need to have 3 years experience minimum C++, Java."
 summaryBackup: "Excited about #java, #management, #operations? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Get to know us

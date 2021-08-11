@@ -13,6 +13,7 @@ companyWebsite: "http://www.moovweb.com/"
 summary: "Moovweb is searching for a Software Engineer that has 3-5 years of prior front-end development experience."
 summaryBackup: "Excited about #javascript, #jquery, #css? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Moovweb’s mission is to make the Web instant and simple. The company has been reborn through our new product, Moovweb XDN. We believe the future of development on the web is Jamstack, and our jam is bringing the performance and simplicity benefits of the Jamstack to front-end developer teams at large, dynamic websites where traditional static techniques don't apply. While we're less well known in the developer ecosystem we have a long track record with some of the biggest brands in the world. While static sites for personal blogs are great, we believe unlocking Jamstack benefits for the large sites that represent the majority of the internet economy is a tremendous market opportunity. Browse https://www.thetiebar.com on your phone to experience an instant XDN site for yourself. Moovweb is a profitable, venture-backed company.

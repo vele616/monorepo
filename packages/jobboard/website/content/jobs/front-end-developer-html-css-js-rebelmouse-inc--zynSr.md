@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "RebelMouse intends to hire a new front-end developer. If you have 1,5+ years of web development, consider applying."
 summaryBackup: "To apply as a front-end developer at RebelMouse, Inc., you preferably need to have some knowledge of: #ui/ux, #css, #html."
 featured: 8
+archived: "true"
 ---
 
 ## Job description

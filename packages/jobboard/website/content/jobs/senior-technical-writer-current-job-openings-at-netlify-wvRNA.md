@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a Senior Technical Writer at Netlify, you preferably need to have experience with Git and docs-as-code workflows."
 summaryBackup: "Current Job Openings at Netlify is looking for a senior technical writer that has experience in: #content, #javascript, #ui/ux."
 featured: 16
+archived: "true"
 ---
 
 ## Company Overview

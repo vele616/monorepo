@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor is searching for a Customer Success Manager that has 3+ years of customer success or account management experience."
 summaryBackup: "Time-doctor is looking for a customer success manager apac that has experience in: #management, #marketing, #sales."
 featured: 7
+archived: "true"
 ---
 
 ## About the Role

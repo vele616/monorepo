@@ -13,6 +13,7 @@ companyWebsite: "https://www.cargo.one/"
 summary: "If you have have experience as a Sales Development Representative or Account Executive in the sale of software, Cargo.one has a job opening for an account executive."
 summaryBackup: "To apply as an account executive – iberia at Cargo.one, you preferably need to have some knowledge of: #sales, #windows, #management."
 featured: 20
+archived: "true"
 ---
 
 **Join us in changing an entire industry**

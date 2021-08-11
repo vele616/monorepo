@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Remo is searching for a product design intern that has some experience with design tools."
 summaryBackup: "To apply as a product design intern at Remo-co, you preferably need to have some knowledge of: #ui/ux, #android, #ios."
 featured: 20
+archived: "true"
 ---
 
 What We Are Looking For In You...

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. is seeking an experienced lead systems engineer with expertise in graphics development. "
 summaryBackup: "Magic Leap, Inc. is looking for a lead systems engineer that has experience in: #ui/ux, #scrum, #office."
 featured: 12
+archived: "true"
 ---
 
 ## Job Description

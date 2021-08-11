@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime is searching for a project manager that wants to improve property onboarding processes and enable a seamless Homeowner experience."
 summaryBackup: "Excited about #marketing, #operations, #content? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## About Hometime

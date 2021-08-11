@@ -13,6 +13,7 @@ companyWebsite: "https://bitzesty.com/"
 summary: "If you have ensuring an exceptional employee experience and building strong relationships with all staff, Bit Zesty is looking for someone with your skillset."
 summaryBackup: "Bit Zesty is looking for a hr advisor that has experience in: #management, #office."
 featured: 20
+archived: "true"
 ---
 
 ## Description

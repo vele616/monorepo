@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "To apply as a Client Engineer at Brave, you preferably need to have 5+ years experience with desktop application development."
 summaryBackup: "Excited about #javascript, #rustlang, #android? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 Brave is looking for an experienced Senior Software Engineer to work on advancing the Brave Ads platform on our Chromium­-based desktop and Android browsers.  Brave Ads is Brave’s global private ad network, redesigned from the ground up to reward users while enforcing the highest standards of user privacy.  Brave Ads leverages in-browser machine learning as well as a two phase blinded token algorithm to deliver relevant ads to users in real time.  Your work will impact the 20+MM monthly Brave users, and you will get to work on one of the most popular parts of the Brave product.

@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "Interested in new opportunities and have experience with and passion for building websites? 10up has a job opening for a new client strategist."
 summaryBackup: "10up is looking for a new client strategist that has experience in: #management, #wordpress, #content."
 featured: 6
+archived: "true"
 ---
 
 New Client Strategists advance account growth and acquisition by applying a sophisticated understanding of 10up's capabilities to client and prospect business goals, buttressed by superior communication, attention to detail, and ownership of company sales goals.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is looking for a Senior Accountant that has 4 years of progressive Accounting experience."
 summaryBackup: "To apply as a senior accountant at Wikimedia Foundation, you preferably need to have some knowledge of: #management, #scrum, #content."
 featured: 18
+archived: "true"
 ---
 
 ## SENIOR ACCOUNTANT

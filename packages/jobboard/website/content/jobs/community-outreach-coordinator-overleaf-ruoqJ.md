@@ -13,6 +13,7 @@ companyWebsite: "https://www.overleaf.com/"
 summary: "Overleaf intends to hire a new Community Outreach Coordinator. If you have experience with and are comfortable on social media platforms such as Twitter, consider applying."
 summaryBackup: "Overleaf is looking for a community outreach coordinator that has experience in: #content, #socialmedia, #css."
 featured: 15
+archived: "true"
 ---
 
 ## Description

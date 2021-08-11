@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Interested in new opportunities and are eager to join a fast-moving startup? Current Mobile has a job opening for an Associate Product Manager."
 summaryBackup: "To apply as an associate product manager at Current Mobile, you preferably need to have some knowledge of: #ui/ux, #management, #android."
 featured: 20
+archived: "true"
 ---
 
 ## What is Current?

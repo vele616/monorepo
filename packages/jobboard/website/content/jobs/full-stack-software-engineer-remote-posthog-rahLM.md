@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "Love experience in: #django, #postgresql, #ui/ux? Check out this job post!"
 summaryBackup: "To apply as a full stack software engineer at PostHog, you preferably need to have some knowledge of: #django, #ui/ux, #marketing."
 featured: 15
+archived: "true"
 ---
 
 ## Description

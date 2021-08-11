@@ -13,6 +13,7 @@ companyWebsite: "https://gitbook.com/"
 summary: "If you have experience working in a fast, GitBook has a job opening for a developer relations lead"
 summaryBackup: "GitBook is looking for a developer relations lead that has experience in: #css, #content, #git."
 featured: 15
+archived: "true"
 ---
 
 **​**🤔Why are we opening this position ?

@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "If you have experience with offline storage, threading, and performance tuning, Piggy has a job opening for an Android Developer"
 summaryBackup: "Excited about #android, #ui/ux, #translation? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Joinpiggy.com is looking for a senior Android developer to join its technical team expansion. 

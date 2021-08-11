@@ -13,6 +13,7 @@ companyWebsite: "https://paperpile.com/"
 summary: "If you have 4 years of experience in Digital & Growth Marketing, consider applying to Paperpile's job post for a new marketing manager."
 summaryBackup: "Paperpile is looking for a marketing manager that has experience in: #marketing, #content, #css."
 featured: 5
+archived: "true"
 ---
 
 ## Description

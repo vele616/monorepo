@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "If you have experience with direct contributions to the Mesa 3D Graphics Library, Collabora has a job opening for a Graphics Software Developer"
 summaryBackup: "Collabora is looking for a mesa that has experience in: #linux, #marketing, #ui/ux."
 featured: 11
+archived: "true"
 ---
 
 We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.

@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have 5 years of experience developing web applications, consider applying to Startupz's job post for a new Front End Engineer."
 summaryBackup: "Love #javascript, #ui/ux, #reactjs? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

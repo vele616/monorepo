@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "To apply as a Product Design Mentor at Pathrise, you preferably need to have 3 years of industry experience with Product Design."
 summaryBackup: "Pathrise is looking for a product design mentor that has experience in: #ui/ux, #windows, #aws."
 featured: 20
+archived: "true"
 ---
 
 **What is Pathrise?**

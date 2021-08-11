@@ -13,6 +13,7 @@ companyWebsite: "https://www.optiweb.com/"
 summary: "Optiweb is looking for a Senior Full Stack Engineer that has experience in: #php, #jquery, #mysql."
 summaryBackup: "Excited about #php, #jquery, #css? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Job description

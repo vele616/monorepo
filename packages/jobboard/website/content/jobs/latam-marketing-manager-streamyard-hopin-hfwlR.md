@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new latam marketing manager. If you have 5 Years of demonstrated digital marketing experience, consider applying."
 summaryBackup: "Hopin is looking for a latam marketing manager that has experience in: #marketing, #management, #content."
 featured: 20
+archived: "true"
 ---
 
 ## \*\*Please note, all applications should be in English\*\*

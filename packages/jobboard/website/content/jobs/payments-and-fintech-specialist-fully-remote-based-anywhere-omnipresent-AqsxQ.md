@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "To apply as a Payments and Fintech Specialist at Omnipresent, you preferably need to have experience with formulating and implementing payment strategies for companies that have complex funds flows globally."
 summaryBackup: "Excited about #operations, #management, #marketing? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

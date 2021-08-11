@@ -13,6 +13,7 @@ companyWebsite: "http://languagedrops.com/"
 summary: "Drops wishes to hire a new senior full stack developer. If you have 2 years of experience in building apps with React or React Native with state management tools, consider applying."
 summaryBackup: "To apply as a senior full stack at Drops, you preferably need to have some knowledge of: #reactjs, #management, #typescript."
 featured: 12
+archived: "true"
 ---
 
 ## Description

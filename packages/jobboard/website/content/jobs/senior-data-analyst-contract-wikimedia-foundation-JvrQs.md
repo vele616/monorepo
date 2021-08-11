@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is looking for a Senior Data Analyst that has experience with open source technologies and communities."
 summaryBackup: "Excited about #operations, #python, #management? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## SENIOR DATA ANALYST (CONTRACT)

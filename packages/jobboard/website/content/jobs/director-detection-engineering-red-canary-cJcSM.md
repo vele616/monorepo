@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you are an operational leader with demonstrated technical and management experience, Red Canary is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #management, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 **Why Red Canary**

@@ -13,6 +13,7 @@ companyWebsite: "https://www.sureswiftcapital.com/"
 summary: "Interested in new opportunities and have experience working in an entrepreneurial/startup environment? SureSwift Capital has a job opening for a Digital Media Manager."
 summaryBackup: "SureSwift Capital is looking for a digital media manager that has experience in: #management, #marketing, #css."
 featured: 11
+archived: "true"
 ---
 
 ## About SureSwift Capital

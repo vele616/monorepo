@@ -13,6 +13,7 @@ companyWebsite: "https://hubstaff.com/"
 summary: "If you have proven successful experience as an SEO manager / team leader, consider applying to Hubstaff's job post for a new SEO & SEM Team Lead."
 summaryBackup: "Love #management, #content, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

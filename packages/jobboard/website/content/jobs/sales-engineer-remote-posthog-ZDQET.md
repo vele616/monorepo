@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "PostHog is looking for a Sales Engineer that has experience in: #management, #sales, #marketing."
 summaryBackup: "PostHog is looking for a sales engineer that has experience in: #management, #sales, #ui/ux."
 featured: 11
+archived: "true"
 ---
 
 ## Description

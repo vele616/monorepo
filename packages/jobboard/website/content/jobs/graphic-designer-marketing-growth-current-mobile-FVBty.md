@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "To apply as a Graphic Designer at Current Mobile, you preferably need to have experience with creating ads for different ad platforms such as Facebook, GDN, and Demand Side Platforms."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## What is Current?

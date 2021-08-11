@@ -13,6 +13,7 @@ companyWebsite: "https://kinsta.com/"
 summary: "If you are completely fluent in English with excellent written communication skills, consider applying to Kinsta's job post for a new technical support engineer."
 summaryBackup: "Love #wordpress, #php, #linux? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Description

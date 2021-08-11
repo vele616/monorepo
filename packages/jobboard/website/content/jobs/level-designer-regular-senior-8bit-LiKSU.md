@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is looking for a Level Designer that has 2+ years of game/level design experience."
 summaryBackup: "Excited about #ui/ux, #content? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Our Client is an international, award-winning entertainment company providing unique and deeply engaging mobile games that are played by tens of millions of people across the globe. 

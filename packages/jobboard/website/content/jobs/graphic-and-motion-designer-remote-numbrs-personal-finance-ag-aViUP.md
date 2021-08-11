@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs wishes to hire a new graphic and motion designer. If you have 5 years of experience as graphic designer for a product or design company, advertising agency or in-house creative environment, consider applying."
 summaryBackup: "Numbrs Personal Finance AG is looking for a graphic and motion designer that has experience in: #ui/ux, #management, #android."
 featured: 14
+archived: "true"
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.

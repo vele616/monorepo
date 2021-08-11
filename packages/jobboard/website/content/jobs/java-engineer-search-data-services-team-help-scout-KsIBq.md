@@ -13,6 +13,7 @@ companyWebsite: "http://www.helpscout.com/"
 summary: "If you have experience in #java, #kotlin, #javascript, Help Scout has a job opening for a java engineer."
 summaryBackup: "Excited about #java, #kotlin, #javascript? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 Join the Search and Data Services team at Help Scout! Your work on this team will power critical search capabilities that our customers depend on every day. You’d manage large, frequently changing data-sets with thousands of transactions per second!

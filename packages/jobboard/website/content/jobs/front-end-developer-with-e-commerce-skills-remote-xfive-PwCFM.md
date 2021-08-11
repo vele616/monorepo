@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "If you have year experience with the HTML5, CSS3, Responsive Web Design, Performance Optimization, X Five is looking for someone with your skillset."
 summaryBackup: "To apply as a front-end developer with e-commerce skills at Xfive, you preferably need to have some knowledge of: #html, #javascript, #reactjs."
 featured: 14
+archived: "true"
 ---
 
 ## Job description

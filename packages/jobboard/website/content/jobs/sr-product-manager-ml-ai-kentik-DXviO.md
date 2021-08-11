@@ -13,6 +13,7 @@ companyWebsite: "http://www.kentik.com/"
 summary: "Kentik intends to hire a new Sr. Product Manager. If you have experience with the full life cycle of Machine Learning development – creating and following statistical experiments, deduction and code actualization, consider applying."
 summaryBackup: "To apply as a sr. product manager at Kentik, you preferably need to have some knowledge of: #css, #management, #marketing."
 featured: 5
+archived: "true"
 ---
 
 ## About Kentik

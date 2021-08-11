@@ -13,6 +13,7 @@ companyWebsite: "https://birdie.care/"
 summary: "If you have 1 years experience in a Technical Support role within a SaaS company, consider applying to Birdie's job post for a new Technical Support Engineer."
 summaryBackup: "Love #socialmedia, #css, #javascript? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "If you have excellent understanding of Javascript and its ecosystem, Mavenoid is looking for someone with your knowledge."
 summaryBackup: "Mavenoid is looking for a senior frontend engineer that has experience in: #nodejs, #python, #typescript."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

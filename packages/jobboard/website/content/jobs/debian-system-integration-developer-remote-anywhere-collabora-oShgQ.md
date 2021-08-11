@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "If you have debian experience with tangible track record, consider applying to Collabora's job post for a new Debian System Integration Developer."
 summaryBackup: "Love #marketing, #linux, #management? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 We are currently looking for passionate and enthusiastic Debian System Integration developers join our ever growing geographically-distributed consultancy team.

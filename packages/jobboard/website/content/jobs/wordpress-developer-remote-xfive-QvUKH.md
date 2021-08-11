@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "To apply as a Wordpress Developer at Xfive, you preferably need to have some experience in: #wordpress, #javascript, #php."
 summaryBackup: "Excited about #wordpress, #javascript, #php? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Job description

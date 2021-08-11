@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "If you are an expert with TypeScript and/or Python, Cazana has a job opening for a Principle Backend Engineer"
 summaryBackup: "Love #python, #typescript, #css? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Job description

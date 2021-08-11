@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up wishes to hire a new Senior Front End Engineer. If you have At least five years of experience with UI engineering, web development, web engineering, or a similar field, consider applying."
 summaryBackup: "10up is looking for a senior front end engineer that has experience in: #javascript, #ui/ux, #css."
 featured: 14
+archived: "true"
 ---
 
 Senior UI Engineers have advanced knowledge in HTML, CSS, and JavaScript as well as experience building large-scale modular applications. They are experienced in interpreting designs and crafting solid, reusable, and maintainable HTML and CSS for enterprise clients. They effectively consult with Designers on how to design for the web.

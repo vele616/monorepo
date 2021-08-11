@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "Keyrock wishes to hire a new HR Specialist. If you have 3 years of experience in a HR or recruitment position, consider applying."
 summaryBackup: "Keyrock is looking for a hr specialist that has experience in: #management, #marketing, #analysis."
 featured: 13
+archived: "true"
 ---
 
 ## Keyrock is expanding!

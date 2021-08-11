@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT is searching for an Operations Engineer that has some experience with docker and elasticsearch."
 summaryBackup: "Excited about #operations, #django, #python? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About BMAT 

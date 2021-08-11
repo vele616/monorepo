@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have 2-6 years of sales experience, including internships, Curebase has a job opening for a Business Development Manager"
 summaryBackup: "To apply as a business development manager at Curebase, you preferably need to have some knowledge of: #sales, #internship, #ui/ux."
 featured: 15
+archived: "true"
 ---
 
 ## About Curebase

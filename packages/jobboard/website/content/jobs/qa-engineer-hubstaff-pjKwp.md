@@ -13,6 +13,7 @@ companyWebsite: "https://hubstaff.com/"
 summary: "Hubstaff wishes to hire a new QA Engineer. If you have experience with test automation frameworks like Cypress, consider applying."
 summaryBackup: "Hubstaff is looking for a qa engineer that has experience in: #rails, #rubylang, #management."
 featured: 13
+archived: "true"
 ---
 
 ## Description

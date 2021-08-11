@@ -13,6 +13,7 @@ companyWebsite: "http://wp-media.me/"
 summary: "If you have experience with web performance optimization, WP Media has a job opening for a Content Writer"
 summaryBackup: "To apply as a content writer at WP Media, you preferably need to have some knowledge of: #wordpress, #content, #marketing."
 featured: 11
+archived: "true"
 ---
 
 ## Description

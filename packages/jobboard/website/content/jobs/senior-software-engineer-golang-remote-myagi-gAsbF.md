@@ -13,6 +13,7 @@ companyWebsite: "https://myagi.bamboohr.com/jobs/"
 summary: "To apply as a Senior Software Engineer at Myagi, you preferably need to have some knowledge of: #golang, #python, #aws."
 summaryBackup: "To apply as a senior software engineer at Myagi, you preferably need to have some knowledge of: #golang, #python, #aws."
 featured: 2
+archived: "true"
 ---
 
 ## #golang     #hot🔥startup     #senior-role

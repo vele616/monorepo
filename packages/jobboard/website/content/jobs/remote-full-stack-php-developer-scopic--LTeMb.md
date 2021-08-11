@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic is looking for a remote full-stack php developer that has 2+ years of commercial software development experience."
 summaryBackup: "Excited about #php, #javascript, #reactjs? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote PHP Full-stack Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

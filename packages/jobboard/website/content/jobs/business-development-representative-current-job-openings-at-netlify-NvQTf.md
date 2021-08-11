@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Love experience in: #sales, #management, #marketing? Check out this job post!"
 summaryBackup: "Love #sales, #management, #marketing? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Company Overview

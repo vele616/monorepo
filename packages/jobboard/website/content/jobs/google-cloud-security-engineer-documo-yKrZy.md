@@ -13,6 +13,7 @@ companyWebsite: "https://documo.com/"
 summary: "If you have 2+ years of experience implementing SSO solutions for maintaining consistent and secure credential management, consider applying to Documo's job post for a new Google Cloud Security Engineer."
 summaryBackup: "Excited about #management, #ui/ux, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Documo builds document software solutions that help businesses streamline document processes. We make working with documents easy, more secure, and friendly towards our planet. We want to help drive mass adoption of paperless document technologies. We believe the way to do this is to build amazing products that solve and improve every aspect of document workflow. We couple that with our passion for customer success and our meticulous attention to design and user experience. We build solutions that are secure, easy to use, and improve business efficiency.

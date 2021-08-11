@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have some experience with Redshift, Hopin has a job opening for a Junior Data Engineer"
 summaryBackup: "Hopin is looking for a junior data engineer that has experience in: #javascript, #python, #ui/ux."
 featured: 15
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

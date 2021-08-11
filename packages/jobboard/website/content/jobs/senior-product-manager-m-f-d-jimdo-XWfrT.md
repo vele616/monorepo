@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "Jimdo wishes to hire a new senior product manager. If you have 5+ years of experience as a Product Manager / Product Owner for digital product, consider applying."
 summaryBackup: "To apply as a senior product manager at Jimdo, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## Senior Product Manager (m/f/d)

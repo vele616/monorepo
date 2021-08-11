@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/bryter"
 summary: "To apply as a Treasury Analyst at BRYTER, you preferably need to have 3 years in corporate treasury or similar finance function preferably in a rapidly growing, multi-national, banking or public accounting firm, plus a minimum of 5 year’s overall finance experience."
 summaryBackup: "BRYTER is looking for a treasury analyst that has experience in: #finance, #marketing, #css."
 featured: 8
+archived: "true"
 ---
 
 ## Get an impression of the team

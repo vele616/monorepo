@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "Nixa.io wishes to hire a new Front-End Developer. If you have 3+ years of professional experience with web/software development, consider applying."
 summaryBackup: "Excited about #sales, #rails, #nodejs? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

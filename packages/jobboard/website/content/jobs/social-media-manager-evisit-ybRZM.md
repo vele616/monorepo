@@ -13,6 +13,7 @@ companyWebsite: "http://www.evisit.com/"
 summary: "eVisit is looking for a social media manager that has experience in: #socialmedia, #marketing, #branding."
 summaryBackup: "EVisit is looking for a social media manager that has experience in: #socialmedia, #marketing, #branding."
 featured: 17
+archived: "true"
 ---
 
 ## Description

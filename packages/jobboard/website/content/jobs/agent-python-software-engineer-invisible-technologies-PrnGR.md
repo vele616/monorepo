@@ -13,6 +13,7 @@ companyWebsite: "https://www.inv.tech/"
 summary: "Invisible Technologies is looking for an Python Software Engineer that has experience in: #python, #javascript, #typescript."
 summaryBackup: "Love #python, #javascript, #typescript? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 What is Invisible?

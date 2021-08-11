@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/able"
 summary: "To apply as a devops engineering manager at Able, you preferably need to have 3+ years of professional experience as a System Administrator, DevOps Engineer or equivalent."
 summaryBackup: "Love #linux, #branding, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Able is a team of designers and engineers that have started, grown, and sold technology companies. Now we pool our skills as a team to build a growing portfolio of businesses. We believe the future of investing will be driven by technical capability and that people with our skills shouldn't have to bet everything on the success of a single startup.

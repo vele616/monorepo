@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new Senior Manager. If you have 4+ years of experience leading a UX Research / User Research team and have partnered with Product and Engineering teams to conceptualize, build, and launch new products or complex product features, consider applying."
 summaryBackup: "To apply as a senior manager at Hopin, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
 featured: 19
+archived: "true"
 ---
 
 ## The Role

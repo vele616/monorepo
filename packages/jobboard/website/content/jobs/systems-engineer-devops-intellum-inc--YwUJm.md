@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "If you have experience using configuration management tools like Ansible or chef, etc, consider applying to Intellum's job post for a new Systems Engineer / Devops."
 summaryBackup: "Intellum, Inc. is looking for a systems engineer that has experience in: #rubylang, #rails, #nodejs."
 featured: 2
+archived: "true"
 ---
 
 ## Description

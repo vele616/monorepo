@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "To apply as a Product Designer at SuperRare, you preferably need to have several years of experience working on consumer-facing digital products."
 summaryBackup: "Excited about #marketing, #socialmedia, #management? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## About SuperRare

@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "If you have 4+ years of marketing and social media marketing experience, consider applying to SuperRare's job post for a new Marketing & Social Media Manager."
 summaryBackup: "Excited about #socialmedia, #marketing, #content? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## About SuperRare

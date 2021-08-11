@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "If you have you have experience with relevant technologies, PostHog is looking for someone with your skillset."
 summaryBackup: "To apply as a full stack software engineer at PostHog, you preferably need to have some knowledge of: #reactjs, #python, #analysis."
 featured: 11
+archived: "true"
 ---
 
 ## Description

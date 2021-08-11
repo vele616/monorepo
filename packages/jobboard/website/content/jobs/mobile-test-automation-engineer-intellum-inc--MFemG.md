@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Intellum, Inc. is looking for a Mobile Test Automation Engineer that has experience in: #rails, #swift, #kotlin."
 summaryBackup: "Intellum, Inc. is looking for a mobile test automation engineer that has experience in: #rails, #swift, #kotlin."
 featured: 10
+archived: "true"
 ---
 
 ## Description

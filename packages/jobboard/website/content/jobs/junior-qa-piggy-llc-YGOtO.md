@@ -12,6 +12,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "If you have 1 year of experience in QA field, Piggy is looking for someone with your skillset."
 summaryBackup: "Excited about #javascript, #ui/ux, #jira? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 [Joinpiggy.com](http://joinpiggy.com/) is looking for a Junior QA Engineer to join its technical team’s expansion. Remote-based candidates should be based in European time zones or willing to work in such time zones. Your focus will be on ensuring that our extension functions properly in all stores we support, and for all devices.

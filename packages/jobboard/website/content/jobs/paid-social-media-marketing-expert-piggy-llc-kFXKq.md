@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "Piggy intends to hire a new Social Media Marketing Expert. If you have 5+ years proven experience in performance marketing utilizing social networks including TikTok, Facebook, Snapchat, Twitter and others, consider applying."
 summaryBackup: "Excited about #marketing, #socialmedia, #html? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 [Piggy, LLC](https://www.joinpiggy.com/) is looking for the highest quality Paid Social marketing expert to assist in launching and monitoring its paid social ad campaigns. You should have demonstrated subject-matter-expertise in multiple social networks and show a a analytical mindset.

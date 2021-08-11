@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have you have experience working in cloud compute environments such as Amazon Web Services, and understand the value of Infrastructure, Red Canary has a job opening for an engineering manager"
 summaryBackup: "Excited about #management, #css, #aws? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 **Why You Matter**

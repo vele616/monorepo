@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Netlify intends to hire a new Senior Site Reliability Engineer. If you have extensive experience with HTTP, DNS, CDN and TLS and lot of hands-on exposure to at least one of the major cloud providers, consider applying."
 summaryBackup: "To apply as a senior site reliability engineer at Current Job Openings at Netlify, you preferably need to have some knowledge of: #golang, #ui/ux, #python."
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

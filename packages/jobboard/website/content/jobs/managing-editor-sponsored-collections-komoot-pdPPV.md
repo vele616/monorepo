@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "Komoot intends to hire a new Managing Editor. If you are an experienced editor with a proven track record of producing digital content, are skilled in writing for a specific audience and have a passion for storytelling and publishing, consider applying."
 summaryBackup: "Komoot is looking for a managing editor that has experience in: #content, #macos, #branding."
 featured: 10
+archived: "true"
 ---
 
 ## Description

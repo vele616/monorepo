@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "If you have Strong Ruby on Rails expertise and experience with JavaScript and other frontend technologies, Brave has a job opening for a Senior Software Engineer"
 summaryBackup: "To apply as a senior software engineer at Brave, you preferably need to have some knowledge of: #rails, #rubylang, #javascript."
 featured: 1
+archived: "true"
 ---
 
 ## Job brief

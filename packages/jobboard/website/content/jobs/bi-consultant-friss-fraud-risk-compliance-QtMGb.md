@@ -13,6 +13,7 @@ companyWebsite: "https://www.friss.com/"
 summary: "If You have a proven track record as a BI consultant for at least 3 years, FRISS is looking for someone with your skillset."
 summaryBackup: "Love #azure, #spark, #analysis? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Job description

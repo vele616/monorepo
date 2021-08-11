@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Interested in new opportunities and have 3+ years of experience running production workloads? Beat has a job opening for a senior devops engineer."
 summaryBackup: "Love #management, #python, #golang? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## About us

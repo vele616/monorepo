@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "Interested in new opportunities and have 2+ years of software development experience? Scopic has a job opening for a full-stack node.js developer."
 summaryBackup: "Scopic is looking for a remote full-stack node.js developer that has experience in: #html, #reactjs, #angular."
 featured: 1
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemote Full-Stack Developerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

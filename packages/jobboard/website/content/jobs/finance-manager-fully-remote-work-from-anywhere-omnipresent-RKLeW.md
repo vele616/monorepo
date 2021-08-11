@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent is searching for a finance manager to be a commercially minded CIMA/ACCA (or equivalent) qualified accountant with strong technical skills."
 summaryBackup: "Omnipresent is looking for a finance manager that has experience in: #management, #css, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## Description

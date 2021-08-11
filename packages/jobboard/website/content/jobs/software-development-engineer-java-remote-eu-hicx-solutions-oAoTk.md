@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "Interested in new opportunities and have 2 years in professional Java programming with experience in application design, software development, and maintenance? HICX has a job opening for a software development engineer."
 summaryBackup: "To apply as a software development engineer: java at Hicx-solutions, you preferably need to have some knowledge of: #java, #spring, #javascript."
 featured: 8
+archived: "true"
 ---
 
 ## Software Development Engineer: Java - Remote (Europe)

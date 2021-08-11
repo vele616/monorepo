@@ -13,6 +13,7 @@ companyWebsite: "http://www.strongdm.com/"
 summary: "StrongDM is looking for a Recruiting Coordinator that has experience in: #HR, #analytics, #management."
 summaryBackup: "To apply as a recruiting coordinator at StrongDM, you preferably need to have some knowledge of: #chef, #analytics, #management."
 featured: 20
+archived: "true"
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**

@@ -13,6 +13,7 @@ companyWebsite: "https://forem.com/"
 summary: "If you have experience working with open source software, Forem is looking for someone with your knowledge."
 summaryBackup: "Love #branding, #ui/ux, #management? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Job description

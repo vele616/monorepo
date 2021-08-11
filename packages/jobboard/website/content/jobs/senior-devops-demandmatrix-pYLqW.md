@@ -13,6 +13,7 @@ companyWebsite: "http://www.demandmatrix.com/"
 summary: "DemandMatrix wishes to hire a new Senior DevOps. If you have 2 years of experience in AWS or GCP with docker & kubernetes, consider applying."
 summaryBackup: "DemandMatrix is looking for a senior devops that has experience in: #googlecloud, #python, #management."
 featured: 5
+archived: "true"
 ---
 
 ## Company Description

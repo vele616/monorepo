@@ -13,6 +13,7 @@ companyWebsite: "https://hellogustav.com/"
 summary: "Interested in new opportunities and have 5+ years of real-world experience in software development? Gustav Technologies has a job opening for a Senior Full Stack Engineer."
 summaryBackup: "Excited about #python, #rubylang, #ui/ux? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 _In short: Full-time position at Gustav as Senior Full Stack Engineer (Elixir + React.js), fully remote._

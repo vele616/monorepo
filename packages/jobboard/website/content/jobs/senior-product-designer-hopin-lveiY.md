@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have a portfolio demonstrating 6 + years of experience in product design, Hopin is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #management, #spark? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## The Role

@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up wishes to hire a new Staff Accountant. If you have 3+ years of financial operations role in services-based company, consider applying."
 summaryBackup: "Love #ui/ux, #operations, #content? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 10up seeks a full-time financial operations specialist to support and assist our financial operations team with invoicing, accounts receivable, employee expenses/reimbursements and similar tasks. Success in this role requires a strong ability to organize one’s time, attention to detail, and strong communications ability as well as basic financial understanding. 

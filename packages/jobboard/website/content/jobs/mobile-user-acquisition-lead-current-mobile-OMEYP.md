@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "If you have 2+ years working in paid UA, consider applying to Current Mobile's job post for a new Mobile User Acquisition Lead."
 summaryBackup: "Love #marketing, #android, #ios? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## What is Current?

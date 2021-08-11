@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "If you have the freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year, Keyrock is looking for someone with your skillset."
 summaryBackup: "Keyrock is looking for a quantitative trader that has experience in: #management, #marketing, #swift."
 featured: 20
+archived: "true"
 ---
 
 ## Keyrock is expanding!

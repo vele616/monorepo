@@ -13,6 +13,7 @@ companyWebsite: "https://www.cvedia.com/"
 summary: "Cvedia is searching for an Account Executive that has proof of meeting and exceeding sales goals."
 summaryBackup: "Cvedia is looking for an account executive that has experience in: #management, #marketing, #sales."
 featured: 15
+archived: "true"
 ---
 
 CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop and license solutions for computer vision systems. CVEDIA is seeking an ambitious and intelligent Business Development Representative to contribute to our growth. This position will be responsible for developing new business across verticals including ADAS/AD, Agricultural, Industrial and Infrastructure.

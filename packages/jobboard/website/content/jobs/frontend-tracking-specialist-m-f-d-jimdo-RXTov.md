@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "If you have you have experience with marketing tracking and measurement solutions like Google Tag Manager and Google Analytics, and with complex conversion tracking setups, Jimdo is looking for someone with your skillset."
 summaryBackup: "Love #management, #javascript, #marketing? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Frontend Tracking Specialist (m/f/d)

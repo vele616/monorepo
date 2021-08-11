@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "If you have 7 years of experience developing software professionally, Intellum is looking for someone with your knowledge."
 summaryBackup: "Excited about #rails, #rubylang, #css? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Description

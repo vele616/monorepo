@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent is searching for a partnership manager that has 5 years in sales, partnerships or business development."
 summaryBackup: "Omnipresent is looking for a partnership manager that has experience in: #marketing, #operations, #sales."
 featured: 10
+archived: "true"
 ---
 
 ## Description

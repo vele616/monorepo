@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "Collabora is looking for an Open Source Software Developer that has experience in software development."
 summaryBackup: "To apply as an open source software developer at Collabora, you preferably need to have some knowledge of: #marketing, #linux, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 We are always looking for passionate and talented software developers to join our geographically-distributed engineering team. If you do not think your profile can fit any of the other targeted job openings on our web site, as we are eager to learn more about you, just apply to this one and we will definitely look into your application.

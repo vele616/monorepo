@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "To apply as a Lead Strategic Designer at Magic Leap, you preferably need to have 5+ years in a consumer insights, UX research or design strategy role, with particular experience in uncovering b2b stakeholder needs."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Job Description

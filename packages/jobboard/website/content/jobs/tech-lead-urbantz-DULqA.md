@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "If you have 1+ years of successfully leading a remote people, consider applying to Urbantz's job post for a new Tech Lead."
 summaryBackup: "Love #css, #operations, #javascript? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Is improving technology along side your coworkers your passion? Do you thrive in a fast-changing scaling environment? Then become our new Technical Lead!

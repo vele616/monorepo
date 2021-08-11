@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "If you have 3+ years of experience in commercial software development, consider applying to Scopic's job post for a new C++/3D Developer."
 summaryBackup: "To apply as a remote c++ at Scopic, you preferably need to have some knowledge of: #ui/ux, #aws, #management."
 featured: 5
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote C++/3D Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Interested in new opportunities and have 7 years of related experience? Current Mobile has a job opening for a Senior Product & Lifecycle Marketing Manager."
 summaryBackup: "Excited about #marketing, #management, #branding? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## What is Current?

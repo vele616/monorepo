@@ -13,6 +13,7 @@ companyWebsite: "https://www.bluelabs.eu/"
 summary: "BlueLabs intends to hire a new Software Engineer. If you have 1+ years of professional software development experience using Go, consider applying."
 summaryBackup: "BlueLabs is looking for a software engineer that has experience in: #operations, #management, #golang."
 featured: 15
+archived: "true"
 ---
 
 ## Job description
