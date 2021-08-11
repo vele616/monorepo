@@ -112,7 +112,7 @@ functions:
           method: post
           cors: true
   url-publish:
-    handler: src/urls/publish.exec
+    handler: src/urls/setPublished.exec
     memorySize: 256
     timeout: 30
     events:
@@ -120,6 +120,36 @@ functions:
           path: urls/publish
           authorizer: auth
           method: put
+          cors: true
+  url-download:
+    handler: src/urls/setDownloaded.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls/download
+          authorizer: auth
+          method: put
+          cors: true
+  url-list-publish:
+    handler: src/urls/listPublished.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls/publish
+          authorizer: auth
+          method: get
+          cors: true
+  url-list-download:
+    handler: src/urls/listDownloaded.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls/download
+          authorizer: auth
+          method: get
           cors: true
   url-list-archive:
     handler: src/urls/listArchived.exec
@@ -132,7 +162,7 @@ functions:
           method: get
           cors: true
   url-archive:
-    handler: src/urls/archive.exec
+    handler: src/urls/setArchived.exec
     memorySize: 256
     timeout: 30
     events:
@@ -140,6 +170,16 @@ functions:
           path: urls/archive
           authorizer: auth
           method: put
+          cors: true
+  url-archive-old-jobs:
+    handler: src/urls/archiveOldJobs.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: urls/archive
+          authorizer: auth
+          method: post
           cors: true
 custom:
   serverless-layers:
