@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "If you have 12 years in professional Java programming with a experience in application design, software development, and maintenance, HICX Solutions is looking for someone with your knowledge."
 summaryBackup: "To apply as a principal software development engineer at Hicx-solutions, you preferably need to have some knowledge of: #spring, #java, #ui/ux."
 featured: 10
+archived: "true"
 ---
 
 ## Principal Software Development Engineer

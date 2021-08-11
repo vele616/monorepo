@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "To apply as a Technical Product Strategist at Theorem, you preferably need to have some knowledge of: #management, #operations, #analysis."
 summaryBackup: "Theorem, LLC is looking for a technical product strategist that has experience in: #ui/ux, #management, #operations."
 featured: 19
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.

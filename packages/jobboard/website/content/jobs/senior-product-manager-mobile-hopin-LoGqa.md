@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments, Hopin has a job opening for a Senior Product Manager"
 summaryBackup: "Excited about #ui/ux, #android, #ios? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

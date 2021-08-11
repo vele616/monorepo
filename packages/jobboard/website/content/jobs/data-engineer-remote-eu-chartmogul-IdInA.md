@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "If you have experience with AWS data processing tools, ChartMogul has a job opening for a data engineer"
 summaryBackup: "To apply as a data engineer at ChartMogul, you preferably need to have some knowledge of: #marketing, #aws, #content."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

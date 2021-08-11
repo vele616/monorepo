@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Excited about experience in: #management, #branding, #marketing? Check out this job post!"
 summaryBackup: "Love #management, #branding, #marketing? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "If you have you enjoy and have experience building web applications professionally, consider applying to Jimdo's job post for a new full stack software engineer."
 summaryBackup: "Jimdo is looking for a full stack software engineer that has experience in: #javascript, #ui/ux, #vuejs."
 featured: 20
+archived: "true"
 ---
 
 ## Software Engineer - Full Stack

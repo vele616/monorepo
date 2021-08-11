@@ -13,6 +13,7 @@ companyWebsite: "http://www.fleetio.com/"
 summary: "Fleetio wishes to hire a new senior software engineer. If you have 2+ years of experience building and shipping native iOS apps, consider applying."
 summaryBackup: "To apply as a senior software engineer at Fleetio, you preferably need to have some knowledge of: #ios, #swift, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 ## Description

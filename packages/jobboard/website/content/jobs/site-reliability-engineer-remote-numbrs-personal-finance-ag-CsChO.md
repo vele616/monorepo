@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "If you have 5 years experience deploying, monitoring and troubleshooting large scale distributed systems, Numbrs is looking for someone with your skillset."
 summaryBackup: "Excited about #kubernetes, #management, #spark? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

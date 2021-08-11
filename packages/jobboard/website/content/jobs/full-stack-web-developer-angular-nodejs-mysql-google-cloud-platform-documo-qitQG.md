@@ -13,6 +13,7 @@ companyWebsite: "https://documo.com/"
 summary: "Documo is searching for a full stack web developer that has project management experience."
 summaryBackup: "Love #angular, #nodejs, #mysql? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## The opportunity

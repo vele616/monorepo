@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Remo wishes to hire a new growth marketer. If you have 2-5 years of B2B sales experience, ideally in SaaS is a bonus, consider applying."
 summaryBackup: "Remo is looking for a growth marketer north america that has experience in: #marketing, #content, #css."
 featured: 20
+archived: "true"
 ---
 
 ## About Remo 

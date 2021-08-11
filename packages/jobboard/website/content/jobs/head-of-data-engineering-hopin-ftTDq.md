@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is searching for a Head of Data Engineering that has 8 years experience in software development, with at least 3 of them managing a data engineering team."
 summaryBackup: "Hopin is looking for a head of data engineering that has experience in: #management, #python, #office."
 featured: 8
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "http://yourparade.com/"
 summary: "If you have 4-6+ years of web development experience in E-Commerce, including Shopify, consider applying to Parade's job post for a new Senior Front-End Engineer."
 summaryBackup: "Parade is looking for a senior front-end engineer that has experience in: #rails, #rubylang, #ui/ux."
 featured: 2
+archived: "true"
 ---
 
 **Parade is a self-expression brand.** We make Creative Basics—underwear that celebrates who you are today. We believe that women’s underwear is a replenishment category that needs a mass-market challenger brand focused on delivering style and fabric innovation. Our DNA is community-first and catalyzed via mobile experiences because we know it’s the best way to find her. Parade has been honored by the Webby Awards and featured in [InStyle](https://www.instyle.com/fashion/parade-underwear-review), [Nylon](https://www.nylon.com/parade-underwear-brand-founder), [Teen Vogue.](https://www.teenvogue.com/story/parade-underwear-thongs-review) [Refinery29](https://www.refinery29.com/en-us/2020/02/9351825/parade-game-time-size-inclusive-underwear-collection), [Forbes](https://www.forbes.com/sites/virgietovar/2019/11/19/new-underwear-brand-parade-offers-extended-sizing--sustainable-fabrics-for-9/#2a9abdb7192c) and other publications. Parade has raised more than $6M to date from top investors such as Greycroft and Lerer Hippeau, and the founders of Warby Parker, Casper, Bonobos, and Away. In our first full year, we're on track to do $10M in revenue and sell over 750K pairs of underwear!

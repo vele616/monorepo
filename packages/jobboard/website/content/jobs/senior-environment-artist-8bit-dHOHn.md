@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is searching for a Senior Environment Artist that has 5 years professional experience as an artist in the games industry with at least 1 AAA shipped title."
 summaryBackup: "Love #ui/ux, #unity, #unreal? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on new IP,  sci-fi RPG project is now on the lookout for an experienced **Senior Environment Artist.**

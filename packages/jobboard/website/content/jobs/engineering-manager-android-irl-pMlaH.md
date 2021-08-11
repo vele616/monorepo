@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "Irl is looking for an engineering manager that has 6+ years of experience in building native production Android applications, preferably in Kotlin recently• 1+ years of experience managing high-performing mobile engineering teams• Passion for developing scalable, well-designed software that adapts as it grows• Excellent communication, planning &amp."
 summaryBackup: "Love #android, #management, #kotlin? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

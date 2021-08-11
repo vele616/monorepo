@@ -13,6 +13,7 @@ companyWebsite: "http://www.helpscout.com/"
 summary: "If you have experience in: #javascript, #java, #kotlin, Help Scout is looking for someone with your skillset."
 summaryBackup: "Help Scout is looking for a senior java engineer that has experience in: #javascript, #java, #php."
 featured: 20
+archived: "true"
 ---
 
 As a member of our Communications team building APIs in Kotlin and Java, you’ll be creating the foundations upon which our Beacon and Messages products are built. These products empower over 11,000 companies around the world to deliver world class support to their customers.

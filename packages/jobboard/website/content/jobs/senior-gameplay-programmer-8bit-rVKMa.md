@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 5+ years of AAA game development experience, 8Bit is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #optimization, #English? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 Our client is a leading AAA console/PC studio currently working on their new IP (AAA console based on UE4).

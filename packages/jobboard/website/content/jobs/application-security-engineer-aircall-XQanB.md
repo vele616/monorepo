@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "Aircall is searching for an Application Security Engineer that has 3+ years of experience in Security."
 summaryBackup: "Aircall is looking for an application security engineer that has experience in: #rails, #ui/ux, #javascript."
 featured: 10
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!

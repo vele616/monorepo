@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "ShipHero is searching for an ERP Integrations Product Manager that has experience working with SaaS software."
 summaryBackup: "Shiphero is looking for an erp <--> shiphero integrations product manager that has experience in: #ui/ux, #management, #css."
 featured: 17
+archived: "true"
 ---
 
 We love helping our customers make the most out of ShipHero. Our customers use various accounting systems and ERPs, Netsuite being the most popular. Lead our efforts to build the bridge from ERPs to ShipHero in a way that is flexible and solves our customers needs.

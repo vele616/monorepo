@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Love #accountant, #finance, #management? Check out this job post!"
 summaryBackup: "Love #management, #css, #finance? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Description

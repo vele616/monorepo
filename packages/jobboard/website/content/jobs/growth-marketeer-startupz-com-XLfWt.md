@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "To apply as a Growth Marketeer at Startupz, you preferably need to have some knowledge of: #marketing, #sales, #analysis."
 summaryBackup: "Excited about #marketing, #sales, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

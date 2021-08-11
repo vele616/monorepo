@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have proven experience working on product UI or digital experiences that exist in the real world, consider applying to Magic Leap's job post for a new senior visual designer."
 summaryBackup: "Love #ui/ux, #branding, #unity? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 We are seeking a Senior Visual Designer to join the Solutions Design team in building our next generation of augmented reality enterprise applications. Our work will influence the future of how business gets done—amplifying human ability with our wearable technology. You will translate our brand into 2D & 3D design across multiple platforms, including mixed reality, web, and mobile. You will work closely with our team of designers, prototypers, developers and researchers to define, build, and iterate design solutions — setting the bar for beautiful and thoughtful spatial experiences. Candidates should have 7+ years relevant professional experience and be excited to solve next-generation design problems beyond existing computing paradigms.

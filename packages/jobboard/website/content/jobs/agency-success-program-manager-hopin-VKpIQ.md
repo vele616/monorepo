@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years experience in building, scaling and operating a world-class partnership program, Hopin has a job opening for an Agency Success Program Manager."
 summaryBackup: "Excited about #management, #sales, #windows? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

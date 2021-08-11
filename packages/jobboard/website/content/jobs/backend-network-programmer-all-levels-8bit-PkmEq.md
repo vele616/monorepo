@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit intends to hire a new Backend Network Programmer. If you have experience with different debugging methods and tools, consider applying."
 summaryBackup: "8Bit is looking for a backend network programmer that has experience in: #python, #ui/ux, #management."
 featured: 4
+archived: "true"
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on new IP,  sci-fi open-world project is now on the lookout for a **Backend Network Programmer** on all levels of experience, to join the team in developing complex, game-related backend services and actively look to learn more about innovations within the game industry.

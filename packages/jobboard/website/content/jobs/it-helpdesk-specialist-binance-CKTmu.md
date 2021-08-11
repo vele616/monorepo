@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "Interested in new opportunities and have 2 years experience working within network and servers? Binance has a job opening for an IT Helpdesk Specialist."
 summaryBackup: "To apply as an it helpdesk specialist at Binance, you preferably need to have some knowledge of: #operations, #ios, #analysis."
 featured: 15
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.

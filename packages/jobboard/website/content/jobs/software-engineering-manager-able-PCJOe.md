@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/able"
 summary: "Interested in new opportunities and have 5+ years professional experience as a software engineer or equivalent? Able has a job opening for a Software Engineering Manager."
 summaryBackup: "Excited about #branding, #ui/ux, #management? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Able is a team of designers and engineers that have started, grown, and sold technology companies. Now we pool our skills as a team to build a growing portfolio of businesses. We believe the future of investing will be driven by technical capability and that people with our skills shouldn't have to bet everything on the success of a single startup.

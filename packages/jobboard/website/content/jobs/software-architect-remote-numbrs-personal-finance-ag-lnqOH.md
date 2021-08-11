@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs is looking for a Software Architect that has a minimum of 5 years experience architecting, developing, evolving and troubleshooting large scale distributed systems."
 summaryBackup: "To apply as a software architect at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #java, #kubernetes, #ui/ux."
 featured: 8
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

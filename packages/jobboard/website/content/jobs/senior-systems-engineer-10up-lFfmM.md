@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "To apply as a Senior Systems Engineer at 10up, you preferably need to have experience managing the day-to-day technical needs of a webserver, including scaling, security, and performance."
 summaryBackup: "10up is looking for a senior systems engineer that has experience in: #linux, #php, #management."
 featured: 8
+archived: "true"
 ---
 
 The Senior Systems Engineer provides expertise to 10up teams in all topics related to hosting and server infrastructure. Our Systems Engineers work primarily at the Linux command line, but must consider the web environment as a whole, including DNS, CDNs, WAFs, and hosted cloud appliances. They are comfortable setting up a Linux server from scratch and are effective at troubleshooting WordPress issues in collaboration with Web Engineers.

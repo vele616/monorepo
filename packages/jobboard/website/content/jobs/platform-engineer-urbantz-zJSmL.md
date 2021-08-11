@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "If you have an extended software development experience, including building/scaling large throughput systems, building & operating a web platform, ideally a SaaS product using cloud technologies, Urbantz has a job opening for a Platform Engineer"
 summaryBackup: "Urbantz is looking for a platform engineer that has experience in: #operations, #css, #javascript."
 featured: 8
+archived: "true"
 ---
 
 Do you like to work to have a positive impact?Become our new Platform Engineer!

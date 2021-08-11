@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk is searching for a Customer Success Manager that has strong interpersonal skills and experience building strong internal and external relationships."
 summaryBackup: "Demodesk is looking for a customer success manager dach that has experience in: #management, #sales, #css."
 featured: 13
+archived: "true"
 ---
 
 ## Mission:

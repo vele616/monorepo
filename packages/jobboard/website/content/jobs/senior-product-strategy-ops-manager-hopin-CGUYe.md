@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a Senior Product Strategy & Ops Manager that has 4+ years of experience in a high-growth technology business, or in defining and operationalizing strategic initiatives."
 summaryBackup: "To apply as a senior product strategy & ops manager at Hopin, you preferably need to have some knowledge of: #management, #windows, #marketing."
 featured: 10
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

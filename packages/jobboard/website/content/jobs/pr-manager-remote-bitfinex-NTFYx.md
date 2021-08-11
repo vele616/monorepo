@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "To apply as a PR Manager at Bitfinex, you preferably need to have 3-5 years in a public relations role, ideally in a public affairs agency and/or working on a communications or public relations team in-house."
 summaryBackup: "Love #windows, #content, #management? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Job description

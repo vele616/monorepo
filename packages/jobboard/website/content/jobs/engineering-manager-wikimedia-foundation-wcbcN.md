@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "To apply as an engineering manager at Wikimedia Foundation, you preferably need to have we build a cohesive experience for newcomers, helping them find a place in our communities, connect with others, and start contributing their knowledge."
 summaryBackup: "Excited about #management, #javascript, #php? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## ENGINEERING MANAGER

@@ -13,6 +13,7 @@ companyWebsite: "https://www.inv.tech/"
 summary: "To apply as a Lead Agent at Invisible-technologies, you preferably need to have a good management experience in dealing with medium-large teams and medium-high complexity."
 summaryBackup: "Excited about #operations, #management, #analysis? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 We are currently looking for this position to be filled immediately. We'd like to ask you a few questions to jump start the process and get to know you a bit. We are also currently receiving a lot of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch. What is Invisible?

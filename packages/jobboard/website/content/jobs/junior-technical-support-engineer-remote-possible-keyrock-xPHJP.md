@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "To apply as a Junior Technical Support Engineer at Keyrock, you preferably need to have proven professional experience in testing, customer support and business analysis."
 summaryBackup: "To apply as a junior technical support engineer at Keyrock, you preferably need to have some knowledge of: #marketing, #management, #docker."
 featured: 12
+archived: "true"
 ---
 
 ## Keyrock is expanding!

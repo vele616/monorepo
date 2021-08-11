@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "To apply as a People Operations Analyst at Eyeo, you preferably need to have 2+ years of experience in People Operations working with HR information systems, ideally as a People Data Analyst."
 summaryBackup: "Eyeo is looking for a people operations analyst that has experience in: #operations, #scrum, #management."
 featured: 9
+archived: "true"
 ---
 
 ## Get to know us

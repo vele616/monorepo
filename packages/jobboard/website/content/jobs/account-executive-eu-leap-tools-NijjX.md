@@ -13,6 +13,7 @@ companyWebsite: "http://www.leaptools.com/"
 summary: "To apply as an Account Executive at Leap Tools, you preferably need to have some knowledge of: #sales, #management, #marketing."
 summaryBackup: "To apply as an account executive at Leap-tools, you preferably need to have some knowledge of: #sales, #windows, #branding."
 featured: 11
+archived: "true"
 ---
 
 ## Account Executive

@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is looking for a Senior Incident Handler that has experience in: #management, #operations, #analysis."
 summaryBackup: "Red Canary is looking for a senior incident handler that has experience in: #css, #ui/ux, #management."
 featured: 12
+archived: "true"
 ---
 
 **Why Red Canary**

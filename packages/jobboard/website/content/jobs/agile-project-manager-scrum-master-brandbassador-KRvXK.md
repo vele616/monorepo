@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "Brandbassador intends to hire a new agile project manager. If you have 2 years and over $4 million in development costs to create what is now Brandbassador, consider applying."
 summaryBackup: "Brandbassador is looking for an agile project manager that has experience in: #scrum, #branding, #analysis."
 featured: 20
+archived: "true"
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word of mouth marketing. We work with brands such as Onepiece, iDeal of Sweden, PopSockets, MVMT Watches, Daniel Wellington, and the list goes on. Brandbassador was founded by the founders of Onepiece - a pioneer in the adult onesie industry. After running into a number of painful manual tasks, the founders created their own internal system to alleviate their problem. Little did they know, it was a problem countless brands are facing and need a solution to. So, they spent 2 years and over $4 million in development costs to create what is now Brandbassador.

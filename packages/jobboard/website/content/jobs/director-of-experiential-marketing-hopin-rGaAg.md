@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new director of experiential marketing. If you have 10+ years of experience in event management/ production, including 3 years of experience leading teams, consider applying."
 summaryBackup: "Hopin is looking for a director of experiential marketing that has experience in: #marketing, #windows, #management."
 featured: 20
+archived: "true"
 ---
 
 ## 

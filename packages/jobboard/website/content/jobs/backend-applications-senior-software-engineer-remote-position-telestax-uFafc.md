@@ -13,6 +13,7 @@ companyWebsite: "https://www.telestax.com/"
 summary: "If you have experience with Java JVM and Java Microservices Framework and Application Servers such as Spring, Spring Boot, Akka, Vert, consider applying to Telestax's job post for a new Senior Backend Software Engineer."
 summaryBackup: "Excited about #spring, #java, #operations? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Are you looking to join a highly ambitious international technology startup and work on cutting edge technology? Do you want to build a career in technology but love to solve real life communications problems? Are you looking for a company that will invest time in your development, support your professional growth and listen to your ideas? If the answer is yes, we urge you to apply for a position with Telestax!

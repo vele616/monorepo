@@ -13,6 +13,7 @@ companyWebsite: "https://www.ockam.io/"
 summary: "Ockam is looking for an user experience and graphic design that has experience in: experience in: #ui/ux, #photoshop, #branding."
 summaryBackup: "Love #ui/ux, #photoshop, #branding? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 In this role you will contribute to the look, feel and style of the Ockam brand. You will create illustrations, turn technical diagrams into works of art, and unify Ockam's style guide across all forms of media. This includes [Ockam.io](http://Ockam.io), investor pitch decks, twitter campaigns, blogs, video demos, and much more!

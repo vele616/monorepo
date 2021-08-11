@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "If you have your experience with WordPress development, VertiStudio is looking for someone with your skillset."
 summaryBackup: "To apply as a lead  wordpress developer at VertiStudio, you preferably need to have some knowledge of: #wordpress, #javascript, #php."
 featured: 6
+archived: "true"
 ---
 
 VertiStudio is a distributed [team](https://themeisle.com/about-us/) of more than 20 people all over the world ( Romania, Poland, Greece, Portugal & more), together we run a [profitable](https://www.romanian-companies.eu/vertigo-studio-srl-29109287/) and bootstrapped business for more than 9 years. 

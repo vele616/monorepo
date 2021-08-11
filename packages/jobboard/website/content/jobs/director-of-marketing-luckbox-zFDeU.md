@@ -13,6 +13,7 @@ companyWebsite: "https://luckbox.com/"
 summary: "Luckbox is looking for a Director of Marketing that has 2+ years experience managing a team at a high growth company."
 summaryBackup: "Excited about #marketing, #management, #content? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job description

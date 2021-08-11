@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "Excited about experience in: #cplusplus, #ui/ux, #marketing? Check out this job post!"
 summaryBackup: "To apply as a multimedia open source software developer at Collabora, you preferably need to have some knowledge of: #linux, #ui/ux, #marketing."
 featured: 9
+archived: "true"
 ---
 
 Collabora is looking for a full-time and remote Open Source Software Developer to join its Multimedia team.

@@ -13,6 +13,7 @@ companyWebsite: "https://jobs.lever.co/pointclickcare/?location=Remote&team=Engi
 summary: "PointClickCare is looking for an Engineer that has experience in: #HR, #management, #marketing."
 summaryBackup: "To apply as an engineering at PointClickCare, you preferably need to have some knowledge of: #java, #css, #HR."
 featured: 20
+archived: "true"
 ---
 
 PointClickCare is the leading cloud-based software provider for the senior care market in North America. Driven by a passion for innovation and technology, we build innovative healthcare technology for seniors and their caregivers that improve their quality of life and well-being on a daily basis. Recently named one of Deloitte’s fastest growing technology companies and Canada’s best managed companies, PointClickCare provides vast opportunities and a great culture for our employees. We believe work is much more meaningful when you're doing it with a higher purpose. For more information on PointClickCare, please connect with us on [Glassdoor](http://www.glassdoor.ca/Overview/Working-at-PointClickCare-EI_IE452666.11,25.htm) and [LinkedIn](https://www.linkedin.com/company/50625?trk=tyah&trkInfo=tarId%3A1406914835274%2Ctas%3Apointclickcare%2Cidx%3A2-1-4).

@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "Xfive intends to hire a new Goodie Developer. If you have at least 3-year experience with developing WordPress websites, consider applying."
 summaryBackup: "Xfive is looking for a goodie developer that has experience in: #wordpress, #reactjs, #angular."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

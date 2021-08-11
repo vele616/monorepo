@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "To apply as a wordpress, timber developer at Xfive, you preferably need to have 2-3 years of experience."
 summaryBackup: "Excited about #wordpress, #javascript, #reactjs? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 ## Job description

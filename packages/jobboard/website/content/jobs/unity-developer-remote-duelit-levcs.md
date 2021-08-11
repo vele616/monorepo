@@ -13,6 +13,7 @@ companyWebsite: "http://duelit.com/"
 summary: "Duelit is looking for an Unity Developer that has 5+ years of Unity development experience."
 summaryBackup: "Excited about #unity, #java, #swift? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Company Description

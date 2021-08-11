@@ -13,6 +13,7 @@ companyWebsite: "https://strategy11.bamboohr.com/jobs/"
 summary: "Interested in new opportunities and have copywriting and/or email marketing experience with proven results? Strategy11 has a job opening for a Marketing Copywriter."
 summaryBackup: "Excited about #content, #marketing, #html? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 As a Copywriter at Formidable Forms, you’re responsible for communicating how cool our products are to new and existing users. You will be a marketing strategist, creative storyteller, and unique content crafter.

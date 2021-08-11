@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "To apply as a Senior Network Programmer at 8Bit, you preferably need to have with strong commercial experience of developing games."
 summaryBackup: "To apply as a senior network programmer at 8Bit, you preferably need to have some knowledge of: #unity, #ui/ux, #office."
 featured: 8
+archived: "true"
 ---
 
 Our Client are a games company where you will have a chance to develop some of the biggest AAA games! You’ll be joining them at a stage where they continue to grow rapidly and hire world's most wanted PC and console game engineers.

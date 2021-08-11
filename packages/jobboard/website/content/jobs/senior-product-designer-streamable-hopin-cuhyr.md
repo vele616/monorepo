@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "To apply as a Senior Product Designer at Hopin, you preferably need to have 5+ years of product design experience."
 summaryBackup: "Love #ui/ux, #css, #html? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

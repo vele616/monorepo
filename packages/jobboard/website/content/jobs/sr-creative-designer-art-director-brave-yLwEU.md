@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "Brave is looking for a Sr. Creative Designer/Art Director that has 5-10 years of design experience including 3-5 years of experience managing other designers and external resources portfolio that proves it."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Senior Creative Designer/Art Director

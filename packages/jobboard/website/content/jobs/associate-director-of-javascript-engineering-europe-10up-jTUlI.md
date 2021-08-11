@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up intends to hire a new Associate Director of JavaScript Engineering. If you have at least four years experience building scalable web-based JavaScript applications that work with and consume API data, consider applying."
 summaryBackup: "To apply as an associate director of javascript engineering at 10up, you preferably need to have some knowledge of: #javascript, #reactjs, #php."
 featured: 16
+archived: "true"
 ---
 
 The Associate Director of JavaScript Engineering oversees and ensures the success of advanced JavaScript projects and JavaScript Engineers across projects in the Europe region. This person will serve as the lead for large JavaScript projects for enterprise customers delivering high quality customer service, team leadership, and code. Working in coordination with engineering, accounts, and client delivery leadership, the Associate Director of JavaScript Engineering will work to identify and surface personnel deficiencies and opportunities for engineers to grow their skillsets, serving as a coach and mentor as needed. Additionally, this person will help drive JavaScript best practices, processes, and tooling at 10up.

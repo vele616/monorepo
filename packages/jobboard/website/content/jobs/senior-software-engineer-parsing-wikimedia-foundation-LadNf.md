@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "If you have 4+ years related professional experience in functional programming or OOP, Wikimedia Foundation is looking for someone with your skillset."
 summaryBackup: "Excited about #management, #html, #content? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## SENIOR SOFTWARE ENGINEER, PARSING

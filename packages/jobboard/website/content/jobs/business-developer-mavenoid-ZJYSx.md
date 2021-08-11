@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is looking for a business developer that has 1 year of experience in B2B sales or business development."
 summaryBackup: "Love #accountant, #sales, #branding? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 ## Job description

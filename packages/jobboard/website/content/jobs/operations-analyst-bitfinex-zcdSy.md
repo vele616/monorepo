@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Bitfinex is looking for an Operations Analyst that has experience in: #operations, #management, #analysis."
 summaryBackup: "To apply as an operations analyst at Bitfinex, you preferably need to have some knowledge of: #operations, #management, #analysis."
 featured: 11
+archived: "true"
 ---
 
 ## Job description

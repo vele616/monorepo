@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "If you have 4 years of professional backend experience, ideally working on Node, Time-doctor is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #css? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## About the Role:

@@ -13,6 +13,7 @@ companyWebsite: "http://www.plentific.com/"
 summary: "To apply as a QA Engineer at Plentific, you preferably need to have experience of working with a variety of QA tools."
 summaryBackup: "Plentific is looking for a qa engineer that has experience in: #management, #django, #python."
 featured: 13
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years of interaction design experience, Magic Leap is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #unity, #unreal? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Responsibilities

@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "If you have experience with creating vector illustrations, consider applying to Xfive's job post for a new UI Designer."
 summaryBackup: "Love #ui/ux, #branding, #photoshop? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Job description

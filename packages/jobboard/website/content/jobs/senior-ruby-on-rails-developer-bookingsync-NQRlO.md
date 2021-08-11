@@ -13,6 +13,7 @@ companyWebsite: "https://bookingsync.bamboohr.com/jobs/"
 summary: "BookingSync is searching for a Senior Ruby on Rails Developer that has 5 years of experience working on non-trivial projects with a good success record."
 summaryBackup: "BookingSync is looking for a senior ruby on rails developer that has experience in: #rails, #rubylang, #javascript."
 featured: 2
+archived: "true"
 ---
 
 BookingSync is more than a vacation rental solution for hosts and agencies; it is a platform for hundreds of applications and developers. We need an excellent and highly-experienced engineer to take on the challenges of developing scalable APIs, beautifully designed micro/macro-services, modelling complex domain, extending current complex ecosystem and doing all that following TDD, writing a code of excellent quality and embodying the Extreme Ownership mentality (bonus points if you know Jocko Willink).

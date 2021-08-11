@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "If you have 6 years of professional experience with Penetration Testing, Jimdo is looking for someone with your skillset."
 summaryBackup: "To apply as a senior security analyst at Jimdo, you preferably need to have some knowledge of: #management, #nodejs, #python."
 featured: 9
+archived: "true"
 ---
 
 ## Senior Security Analyst

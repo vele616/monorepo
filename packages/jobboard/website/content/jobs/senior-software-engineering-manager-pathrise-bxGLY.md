@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Interested in new opportunities and have 4+ years of full-time software engineering experience? Pathrise has a job opening for a Senior Software Engineering Manager."
 summaryBackup: "To apply as a senior software engineering manager at Pathrise, you preferably need to have some knowledge of: #javascript, #reactjs, #rails."
 featured: 5
+archived: "true"
 ---
 
 **What is Pathrise?**

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have tolerant, and efficient services that enable the Hopin platform to deliver online and hybrid event experience to hundreds of thousands of customers across the globe, Hopin has a job opening for a lead back end engineer"
 summaryBackup: "To apply as a lead back end engineer at Hopin, you preferably need to have some knowledge of: #ui/ux, #scrum, #windows."
 featured: 14
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new Commercial Counsel. If you have 5+ years of relevant commercial experience, ideally as in-house counsel in a high-growth technology company, consider applying."
 summaryBackup: "Hopin is looking for a commercial counsel that has experience in: #management, #sales, #windows."
 featured: 20
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

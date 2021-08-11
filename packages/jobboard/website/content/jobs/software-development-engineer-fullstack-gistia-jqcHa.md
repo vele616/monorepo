@@ -12,6 +12,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "If you have 3 years of experience, having built, delivered, and maintained at least 2-3 applications, back to front, Gistia is looking for someone with your skillset."
 summaryBackup: "To apply as a software development engineer at Gistia, you preferably need to have some knowledge of: #reactjs, #java, #ui/ux."
 featured: 10
+archived: "true"
 ---
 
 ## Keyword Search:

@@ -13,6 +13,7 @@ companyWebsite: "https://quidco.bamboohr.com/jobs/"
 summary: "Quidco intends to hire a new Senior Product Manager. If you have 3+ years of Product Management experience with the experience of shipping products in a fast-growing company, consider applying."
 summaryBackup: "To apply as a senior product manager at Quidco, you preferably need to have some knowledge of: #management, #scrum, #ui/ux."
 featured: 11
+archived: "true"
 ---
 
 ## About us 

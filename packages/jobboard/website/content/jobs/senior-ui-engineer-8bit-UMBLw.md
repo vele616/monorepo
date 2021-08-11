@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is searching for a Senior UI Engineer that has with strong commercial experience of developing games."
 summaryBackup: "Love #unreal, #ui/ux? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 Our Client are a games company where you will have a chance to develop some of the biggest AAA games! You’ll be joining them at a stage where they continue to grow rapidly and hire world's most wanted PC and console game engineers.

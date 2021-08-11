@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "If you have experience building fast websites, and take care of performance monitoring and optimization, Jimdo is looking for someone with your skillset."
 summaryBackup: "To apply as a staff frontend architect at Jimdo, you preferably need to have some knowledge of: #javascript, #reactjs, #swift."
 featured: 6
+archived: "true"
 ---
 
 ## Staff Frontend Architect

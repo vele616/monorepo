@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "To apply as a Senior Product Manager at Numbrs, you preferably need to have 5 years of experience in building consumer products with a history of managing projects that facilitate or enhance customer experiences."
 summaryBackup: "Excited about #management, #android, #ios? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

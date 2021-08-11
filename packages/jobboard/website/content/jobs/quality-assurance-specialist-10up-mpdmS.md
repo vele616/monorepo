@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "Interested in new opportunities and have 1+ years of previous Quality Assurance experience for web-based technology projects? 10up has a job opening for a Quality Assurance Specialist."
 summaryBackup: "To apply as a quality assurance specialist at 10up, you preferably need to have some knowledge of: #ui/ux, #content, #management."
 featured: 18
+archived: "true"
 ---
 
 10up is seeking an experienced Quality Assurance Tester to join our team. You’ll be responsible for carrying out manual quality assurance testing before launches and releases, ensuring that we are delivering work that meets defined functional and design specifications. The ideal candidate will apply critical thinking, user empathy, and an attention to detail such that they will be able to call out potential issues if something seems visually or functionally incorrect, even if those requirements are not documented in the functional spec or design comps. You’ll work with delivery teams to create comprehensive QA plans and test websites according to those plans as needed.

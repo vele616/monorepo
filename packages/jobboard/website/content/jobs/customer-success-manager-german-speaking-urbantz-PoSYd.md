@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Urbantz intends to hire a new Customer Success Manager. If you have strong experience with Customer Success or Account Management in a SaaS company with a proven track record of successfully building customer-centric relationships, consider applying."
 summaryBackup: "To apply as a customer success manager at Urbantz, you preferably need to have some knowledge of: #management, #css, #operations."
 featured: 15
+archived: "true"
 ---
 
 Urbantz is growing. Our team is on the hunt for a dynamic, high-performing and experienced Customer Success Manager to focus on our DACH region's clients.

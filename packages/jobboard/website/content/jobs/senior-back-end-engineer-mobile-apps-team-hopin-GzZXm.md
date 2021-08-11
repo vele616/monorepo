@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is searching for a Senior Back End Engineer that has 2+ years of experience in Back End technology."
 summaryBackup: "Excited about #ui/ux, #nodejs, #typescript? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

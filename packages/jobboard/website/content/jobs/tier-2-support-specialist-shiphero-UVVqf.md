@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "Excited about experience in: #javascript, #python, #html? Check out this job post!"
 summaryBackup: "To apply as a tier 2 support specialist at Shiphero, you preferably need to have some knowledge of: #javascript, #python, #css."
 featured: 13
+archived: "true"
 ---
 
 ## What We Do:

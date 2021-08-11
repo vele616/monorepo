@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Deca Games is looking for a Mid/Senior C++ Developer that has extensive knowledge and understanding of writing high performance networking code."
 summaryBackup: "To apply as a mid at Deca-games, you preferably need to have some knowledge of: #ui/ux, #python, #unity."
 featured: 6
+archived: "true"
 ---
 
 ## Who we’re looking for

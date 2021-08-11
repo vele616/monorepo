@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor is searching for a Senior Integration Node.js Engineer that has 4 years of professional back-end experience, ideally working on Node.js applications at scale."
 summaryBackup: "Love #ui/ux, #management, #css? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## About the Role
