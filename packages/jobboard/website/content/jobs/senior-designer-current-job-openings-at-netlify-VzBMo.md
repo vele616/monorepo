@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a Senior Designer at Netlify, you preferably need to have proven work experience with a strong portfolio that demonstrates a refined aesthetic and design thinking."
 summaryBackup: "Love #ui/ux, #branding, #marketing? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Company Overview

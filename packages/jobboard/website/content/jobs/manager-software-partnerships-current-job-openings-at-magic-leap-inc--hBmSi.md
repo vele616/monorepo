@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years of licensing technologies and deal-making/partner management experience, Magic Leap has a job opening for a manager"
 summaryBackup: "Love #management, #marketing, #operations? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Job Description

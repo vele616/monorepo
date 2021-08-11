@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "HICX Solutions is looking for a Head of User Experience Design that has 5+ years of consumer UX design experience."
 summaryBackup: "HICX solutions is looking for a Head of User Experience Design that has experience in: #ui/ux, #css, #management."
 featured: 9
+archived: "true"
 ---
 
 HICX is a leading worldwide provider of enterprise SaaS solutions for digital supplier management. [Learn more about HICX](https://hicx-solutions.breezy.hr/)

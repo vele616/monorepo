@@ -13,6 +13,7 @@ companyWebsite: "https://www.revenuecat.com/"
 summary: "RevenueCat wishes to hire a new Backend Engineer. If you have 3+ years of experience working as a backend engineer, consider applying."
 summaryBackup: "Excited about #python, #postgresql, #ui/ux? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 At RevenueCat, we make selling subscriptions in your mobile app easy. We launched as part of Y Combinator's summer 2018 batch and today are handling subscriptions for more than 10 million mobile subscriptions across thousands of apps. We are a mission driven, remote-first company that is building the foundation of mobile subscription infrastructure. Top apps like WidgetSmith, Buffer, and Fishbrain count on RevenueCat to power their subscriptions at scale.

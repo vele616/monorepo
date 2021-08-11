@@ -13,6 +13,7 @@ companyWebsite: "https://firstandthird.applytojob.com/apply/firstandthird.com"
 summary: "First+Third wishes to hire a new React Engineer. If you have 2+ years of experience as a React developer, consider applying."
 summaryBackup: "Excited about #reactjs, #javascript, #ui/ux? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Overview Of Role: 

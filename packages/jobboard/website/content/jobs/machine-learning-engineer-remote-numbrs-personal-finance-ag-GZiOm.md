@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "If you have 5 years of professional experience in Machine Learning, Numbrs is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #java, #scala? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.

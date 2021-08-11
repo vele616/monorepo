@@ -13,6 +13,7 @@ companyWebsite: "https://www.jibble.io/"
 summary: "Interested in new opportunities and have 3+ years of experience in mobile development using Swift? Jibble-group has a job opening for a senior ios engineer."
 summaryBackup: "Excited about #swift, #ui/ux, #ios? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Our Mission

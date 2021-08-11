@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat is searching for a senior android engineer that has 3+ years of native Android app development experience."
 summaryBackup: "Beat is looking for a senior android engineer that has experience in: #android, #kotlin, #scrum."
 featured: 1
+archived: "true"
 ---
 
 ## About us

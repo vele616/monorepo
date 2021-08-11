@@ -13,6 +13,7 @@ companyWebsite: "http://3boxlabs.com/"
 summary: "To apply as a Backend Engineer at 3Box Labs, you preferably need to have deep understanding of UNIX systems."
 summaryBackup: "To apply as a backend engineer at 3Box Labs, you preferably need to have some knowledge of: #management, #nodejs, #rustlang."
 featured: 7
+archived: "true"
 ---
 
 Do you want to help developers and users reclaim the web with a brand new technology to directly manage our information and identities online?

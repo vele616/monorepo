@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "Curebase is looking for a Cyber Security Engineer that has 2+ years of experience in the cybersecurity industry."
 summaryBackup: "To apply as a cyber security engineer at Curebase, you preferably need to have some knowledge of: #javascript, #typescript, #reactjs."
 featured: 8
+archived: "true"
 ---
 
 ## About Curebase

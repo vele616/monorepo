@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs wishes to hire a new Web Engineer. If you have experience with automated unit and integration testing and continuous integration, consider applying."
 summaryBackup: "Numbrs Personal Finance AG is looking for a web engineer that has experience in: #javascript, #reactjs, #angular."
 featured: 2
+archived: "true"
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.

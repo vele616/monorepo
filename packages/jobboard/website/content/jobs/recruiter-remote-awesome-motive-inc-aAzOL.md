@@ -13,6 +13,7 @@ companyWebsite: "https://awesomemotive.bamboohr.com/jobs/"
 summary: "If you have 3 Years of experience in software, information technology, saas, wordPress industry, Awesome Motive is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #css, #windows? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Responsibilities

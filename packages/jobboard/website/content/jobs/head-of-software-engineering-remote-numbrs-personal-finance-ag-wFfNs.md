@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs wishes to hire a new head of software engineering. If you have 10 years experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, consider applying."
 summaryBackup: "Excited about #management, #java, #android? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 Numbrs is a cutting edge technology company developing a smart personal finance application available for iOS and Android. Numbrs is one of the most used finance apps in Germany and was recently launched in the UK. Thanks to artificial intelligence (AI) and machine learning (ML), we are able to offer intelligent and breakthrough features that allow our users to manage their finances easier, faster and smarter.

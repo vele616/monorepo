@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. intends to hire a new interaction designer. If you have 3-5 years in UX Design with at least 2 shipped projects with a full development cycle from concept through completion, consider applying."
 summaryBackup: "Love #ui/ux, #branding, #jira? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job Description

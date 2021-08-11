@@ -13,6 +13,7 @@ companyWebsite: "http://www.gogoapps.io/"
 summary: "GogoApps intends to hire a new Senior Product Designer. If you have 5+ years of experience designing products for both desktop and mobile, consider applying."
 summaryBackup: "Love #ui/ux, #branding, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

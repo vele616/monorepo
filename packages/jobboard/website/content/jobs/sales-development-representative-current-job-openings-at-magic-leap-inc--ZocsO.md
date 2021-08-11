@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap is looking for a talented and competitive Sales Development Representative (SDR) that thrives in a relatively long sales cycle environment."
 summaryBackup: "Excited about #sales, #management, #office? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Sales Development Representative 

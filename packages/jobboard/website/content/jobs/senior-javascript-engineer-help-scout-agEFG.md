@@ -13,6 +13,7 @@ companyWebsite: "http://www.helpscout.com/"
 summary: "Interested in new opportunities and have 4 years, you get a month of paid vacation? Help Scout has a job opening for a senior javascript engineer."
 summaryBackup: "Excited about #javascript, #ui/ux, #reactjs? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 JavaScript powers the magic behind [Help Scout’s](https://www.helpscout.com/) apps and services, bringing them to life with delightful interactions and dynamic real-time updates. Your work as an experienced Javascript Front-end Engineer will empower over 10,000 customer-centric businesses provide excellent service to people in the most human and helpful way, and will support the other senior engineers on your team.

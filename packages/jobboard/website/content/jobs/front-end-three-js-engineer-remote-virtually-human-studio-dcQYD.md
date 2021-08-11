@@ -13,6 +13,7 @@ companyWebsite: "http://vhslab.com/"
 summary: "Virtually Human Studio is looking for a Front-end Three.js Engineer that has 3+ year experience building in three js, plus sound knowledge of other real-time applications such as unity and/or unreal and a passion for new technologies."
 summaryBackup: "Love #javascript, #reactjs, #unity? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

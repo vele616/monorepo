@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "Interested in new opportunities and have a few years' of experience in game development? 8Bit has a job opening for a Lead Artist."
 summaryBackup: "Excited about #ui/ux, #rest, #socialmedia? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Our client, that is a leader in the social casino and gambling style mobile games, based in Hong Kong is now seeking a Lead Artist to join their team (remote role for as long as it required, then on-site position) to come in and lead the rest of the team, create game concept and work with outsource production teams to deliver highest quality of work. 

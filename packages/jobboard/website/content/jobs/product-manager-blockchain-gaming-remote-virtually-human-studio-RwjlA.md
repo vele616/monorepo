@@ -13,6 +13,7 @@ companyWebsite: "http://vhslab.com/"
 summary: "Excited about experience in: #management, #analysis, #marketing? Check out this job post!"
 summaryBackup: "Virtually Human Studio is looking for a product manager that has experience in: #management, #ui/ux, #marketing."
 featured: 15
+archived: "true"
 ---
 
 ## Description

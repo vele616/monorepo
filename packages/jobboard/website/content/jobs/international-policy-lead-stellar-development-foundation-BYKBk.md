@@ -13,6 +13,7 @@ companyWebsite: "https://www.stellar.org/"
 summary: "Stellar Development Foundation is looking for an International Policy Lead that has 7+ years of experience in international monetary/financial policy."
 summaryBackup: "Love #management, #finance, #content? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 **Open to candidates worldwide**

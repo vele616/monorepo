@@ -13,6 +13,7 @@ companyWebsite: "https://about.flipboard.com/careers/"
 summary: "To apply as a Software Engineer at Flipboard, you preferably need to have experience with statically typed languages such as Go, Java and/or C++."
 summaryBackup: "Love #content, #kubernetes, #operations? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Flipboard is a content discovery platform for your passions, interests, and news. Available on web, iOS, and Android, Flipboard offers the world important and influential articles shared by the greatest publishers and our awesome Flipboard community to advance conversation, keep people informed, and inspire them to engage, learn, and lead.

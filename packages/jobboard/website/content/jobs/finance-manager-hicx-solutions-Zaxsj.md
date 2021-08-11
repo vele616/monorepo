@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "If you have experience of working accurately with procedures and deadlines in a financial environment, HICX solutions is looking for someone with your knowledge."
 summaryBackup: "To apply as a finance manager at Hicx-solutions, you preferably need to have some knowledge of: #management, #office, #css."
 featured: 7
+archived: "true"
 ---
 
 HICX is a leading worldwide provider of enterprise SaaS solutions for digital supplier management.. [Learn more about HICX](https://hicx-solutions.breezy.hr/)

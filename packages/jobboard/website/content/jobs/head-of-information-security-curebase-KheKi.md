@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "Curebase is searching for a Head of Information Security that has 2+ years of experience in the cybersecurity industry."
 summaryBackup: "Excited about #javascript, #typescript, #reactjs? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About Curebase

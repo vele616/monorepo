@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "To apply as a senior software engineer at Magic Leap, you preferably need to have 3+ years experience with modern, component-based frameworks like React, NextJS, VueJS, along with the ability to learn new web technologies."
 summaryBackup: "Excited about #reactjs, #vuejs, #unity? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Job Description: 

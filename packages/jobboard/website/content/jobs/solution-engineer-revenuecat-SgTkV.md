@@ -13,6 +13,7 @@ companyWebsite: "https://www.revenuecat.com/"
 summary: "Interested in new opportunities and have 3+ years experience with a technical product in a customer-facing role? RevenueCat has a job opening for a Solution Engineer."
 summaryBackup: "Excited about #sales, #reactjs, #java? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 At RevenueCat, we make selling subscriptions in your mobile app easy. We launched as part of Y Combinator's summer 2018 batch and today are handling subscriptions for more than 10 million mobile subscriptions across thousands of apps. We are a mission driven, remote-first company that is building the foundation of mobile subscription infrastructure. Top apps like WidgetSmith, Buffer, and Fishbrain count on RevenueCat to power their subscriptions at scale.
