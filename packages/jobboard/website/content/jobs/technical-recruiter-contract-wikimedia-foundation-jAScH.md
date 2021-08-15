@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is looking for a Technical Recruiter that has 4+ years of full-cycle recruiting experience in technical roles."
 summaryBackup: "Excited about #content, #management, #operations? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## TECHNICAL RECRUITER

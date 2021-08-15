@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "To apply as a Senior Investor & Community Communications Manager at Current Mobile, you preferably need to have some knowledge of: #management, #marketing, #content."
 summaryBackup: "To apply as a senior investor & community communications manager at Current Mobile, you preferably need to have some knowledge of: #management, #marketing, #content."
 featured: 14
+archived: "true"
 ---
 
 ## What is Current?

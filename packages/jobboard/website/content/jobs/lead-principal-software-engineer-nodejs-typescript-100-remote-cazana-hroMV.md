@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "Cazana is searching for a Lead/Principal Software Engineer that has experience creating APIs and AWS knowledge."
 summaryBackup: "Love #typescript, #python, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

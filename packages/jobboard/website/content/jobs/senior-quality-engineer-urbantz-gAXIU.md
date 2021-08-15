@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Urbantz is searching for a Senior Quality Engineer that has 5+ years of proven experience in Software Quality Assurance."
 summaryBackup: "To apply as a senior quality engineer at Urbantz, you preferably need to have some knowledge of: #operations, #javascript, #windows."
 featured: 16
+archived: "true"
 ---
 
 ## Senior Quality Engineer

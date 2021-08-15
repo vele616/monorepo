@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime intends to hire a new senior react engineer. If you have 5+ years as a JS developer with a minimum of 3 years focused in React, consider applying."
 summaryBackup: "Hometime is looking for a senior react engineer that has experience in: #reactjs, #javascript, #marketing."
 featured: 20
+archived: "true"
 ---
 
 Hometime is the largest and fastest growing platform and brand for flexible rental providers  in the APAC region. 

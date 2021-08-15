@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have experience working with data to build solutions and drive product decisions, Beat is looking for someone with your knowledge."
 summaryBackup: "Beat is looking for a product manager that has experience in: #ui/ux, #scrum, #management."
 featured: 15
+archived: "true"
 ---
 
 ## About us 

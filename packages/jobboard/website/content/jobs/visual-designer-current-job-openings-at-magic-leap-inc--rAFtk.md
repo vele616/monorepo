@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 6+ years experience in relevant professional and creative experiences and be excited to solve next-generation design problems beyond existing computing paradigms, Magic Leap has a job opening for a Visual Designer"
 summaryBackup: "To apply as a visual designer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #branding, #unity."
 featured: 13
+archived: "true"
 ---
 
 We are seeking a Visual Designer to join the Platform Design team to translate and extend our brand into 2D & 3D design across multiple platforms, including mixed reality, web, and mobile. You will be working closely with our team of designers, prototypers, developers and researchers to define, build, and iterate OS level design solutions for enterprise end users, setting the bar for thoughtful, groundbreaking spatial design experiences.

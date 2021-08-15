@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have you might not have experience with all the technologies in our stack, but you are motivated to learn deeply, Sketch is looking for someone with your knowledge."
 summaryBackup: "Sketch is looking for a backend developer that has experience in: #nodejs, #ui/ux, #clojure."
 featured: 20
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take the backend services that support this leading design tool to the next level? We're looking to expand our team with a full-time **Backend Developer**.

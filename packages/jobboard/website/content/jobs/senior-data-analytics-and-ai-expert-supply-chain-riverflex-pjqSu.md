@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "To apply as a Senior Data Analytics and AI Expert at Riverflex, you preferably need to have 5+ years of relevant working experience in the Supply Chain / Manufacturing environment."
 summaryBackup: "Love #analysis, #javascript, #python? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "If you have 1-3 years or more of experience in a Knowledge or Training role, Aircall has a job opening for a knowledge & training specialist"
 summaryBackup: "Excited about #management, #content, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!

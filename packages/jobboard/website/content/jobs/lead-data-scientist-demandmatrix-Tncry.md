@@ -13,6 +13,7 @@ companyWebsite: "http://www.demandmatrix.com/"
 summary: "DemandMatrix is looking for a Lead Data Scientist that has 5+ years of experience."
 summaryBackup: "Excited about #tensorflow, #python, #marketing? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Company Description

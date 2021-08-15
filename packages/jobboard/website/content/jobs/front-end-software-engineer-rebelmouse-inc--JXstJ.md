@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "To apply as a front-end software engineer at RebelMouse, Inc., you preferably need to have strong experience with HTML/CSS."
 summaryBackup: "To apply as a front-end software engineer at RebelMouse, Inc., you preferably need to have some knowledge of: #javascript, #css, #html."
 featured: 20
+archived: "true"
 ---
 
 ## Job description

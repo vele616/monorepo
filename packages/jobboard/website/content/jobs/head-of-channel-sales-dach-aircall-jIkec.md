@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "Aircall intends to hire a new Head of Channel Sales. If you have 5 years or more of experience in the SaaS or telecom industry, consider applying."
 summaryBackup: "To apply as a head of channel sales at Aircall, you preferably need to have some knowledge of: #css, #management, #sales."
 featured: 14
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!

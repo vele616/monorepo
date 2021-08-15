@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "If you have 3+ years professional experience in software development, Scopic is looking for someone with your skillset."
 summaryBackup: "Love #javascript, #rails, #rubylang? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aRemoteRuby on RailsDeveloperby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

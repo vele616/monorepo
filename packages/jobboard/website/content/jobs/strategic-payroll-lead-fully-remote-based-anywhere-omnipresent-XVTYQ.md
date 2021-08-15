@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "If you have at least 10 years of experience in international payroll, Omnipresent is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #marketing, #operations? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## Description

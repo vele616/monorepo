@@ -13,6 +13,7 @@ companyWebsite: "https://www.ockam.io/"
 summary: "If you have 10+ years of engineering experience, Ockam is looking for someone with your skillset."
 summaryBackup: "Excited about #rustlang, #ui/ux, #python? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated communication protocols and libraries that can work in resource constrained, intermittent connectivity IoT devices and connected machines.

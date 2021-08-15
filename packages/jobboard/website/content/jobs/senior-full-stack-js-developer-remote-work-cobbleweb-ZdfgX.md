@@ -13,6 +13,7 @@ companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_sou
 summary: "CobbleWeb is looking for a senior full stack js developer that has experience with REST APIs."
 summaryBackup: "Love #reactjs, #expressjs, #nodejs? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 ## Job description

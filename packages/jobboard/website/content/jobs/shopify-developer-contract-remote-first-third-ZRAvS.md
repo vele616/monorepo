@@ -13,6 +13,7 @@ companyWebsite: "https://firstandthird.com/"
 summary: "Interested in new opportunities and have 2+ Years of Shopify development experience? First+Third has a job opening for a Shopify Developer."
 summaryBackup: "Love #management, #javascript, #css? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Overview Of Role: 

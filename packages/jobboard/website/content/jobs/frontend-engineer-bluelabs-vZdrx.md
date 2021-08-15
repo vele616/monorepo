@@ -13,6 +13,7 @@ companyWebsite: "https://www.bluelabs.eu/"
 summary: "BlueLabs intends to hire a new Frontend Engineer. If you have 2+ years experience in developing complex web and mobile applications with JavaScript, consider applying."
 summaryBackup: "BlueLabs is looking for a frontend engineer that has experience in: #javascript, #nodejs, #management."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

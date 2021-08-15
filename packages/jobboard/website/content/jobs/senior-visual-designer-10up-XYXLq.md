@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up is looking for a senior visual designer that has 5+ years experience with responsive web and mobile design."
 summaryBackup: "Excited about #ui/ux, #content, #management? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 10up is an award-winning full-service digital agency with a customer-centric service model and unrivaled leadership in open platforms and tools for digital makers and content creators. 10up’s services include user experience and interactive design, content strategy and creation, website and app engineering, SEO and online revenue strategy, and managed services. Their 200+ distributed team members provide end-to-end digital project expertise.

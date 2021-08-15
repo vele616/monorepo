@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent wishes to hire a new Payroll Automation Lead. If you have 5 years’ experience in payroll, consider applying."
 summaryBackup: "Omnipresent is looking for a payroll automation lead that has experience in: #management, #marketing, #operations."
 featured: 11
+archived: "true"
 ---
 
 ## Description

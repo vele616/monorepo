@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "If you have 4+ years of experience in iOS development, SuperRare is looking for someone with your skillset."
 summaryBackup: "Excited about #ios, #ui/ux, #reactjs? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## About SuperRare

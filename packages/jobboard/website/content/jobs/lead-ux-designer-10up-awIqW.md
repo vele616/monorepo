@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "Interested in new opportunities and have at least five years experience with information architecture, interaction design, user experience design, or similar field? 10up has a job opening for a Lead UX Designer."
 summaryBackup: "10up is looking for a lead ux designer that has experience in: #ui/ux, #content, #management."
 featured: 2
+archived: "true"
 ---
 
 Lead UX Designers at 10up are experts in their craft and are often asked to plan activities for and guide other designers on projects. At 10up, User Experience Designers work closely with Visual Designers and engineering to meet our clients’ goals. Qualified candidates will be experts in planning and executing user research, designing user flows, and planning architecture alongside these other disciplines. While we don’t expect candidates to be expert visual designers, we do expect Lead UX Designers to be very familiar with the visual design process and have the ability to help shape and guide visual design activities within a project context. Candidates should have experience working in an agency or similar environment and must be experienced in navigating the varied demands of clients, budgets, and timelines. If you’re ready to take ownership over the design of complex projects, we look forward to reviewing your application.

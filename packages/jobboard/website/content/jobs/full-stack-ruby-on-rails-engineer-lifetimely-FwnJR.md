@@ -13,6 +13,7 @@ companyWebsite: "https://lifetimely.breezy.hr/"
 summary: "If you have a track record of shipping web apps preferably in Ruby on Rails in the last 3+ years, Lifetimely is looking for someone with your skillset."
 summaryBackup: "To apply as a full-stack ruby on rails engineer at Lifetimely, you preferably need to have some knowledge of: #rubylang, #javascript, #rails."
 featured: 10
+archived: "true"
 ---
 
 Hey there! 👋

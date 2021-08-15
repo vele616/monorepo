@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime intends to hire a new senior quality assurance engineer. If you have 3+ years as a QA Engineer, consider applying."
 summaryBackup: "Hometime is looking for a senior quality assurance engineer that has experience in: #marketing, #rails, #rubylang."
 featured: 5
+archived: "true"
 ---
 
 Hometime is the largest and fastest growing platform and brand for flexible rental providers  in the APAC region. 

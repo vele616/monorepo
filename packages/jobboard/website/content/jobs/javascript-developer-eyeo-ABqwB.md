@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 5 years of software development experience with deep JavaScript skills, Eyeo is looking for someone with your skillset."
 summaryBackup: "To apply as a javascript developer at Eyeo, you preferably need to have some knowledge of: #javascript, #scrum, #java."
 featured: 5
+archived: "true"
 ---
 
 ## Get to know us

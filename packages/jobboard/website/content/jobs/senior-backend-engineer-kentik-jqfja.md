@@ -13,6 +13,7 @@ companyWebsite: "http://www.kentik.com/"
 summary: "Kentik is looking for a Senior Backend Engineer that has 5+ year experience with C/C++, Go, Java, Python, Rust or similar."
 summaryBackup: "Kentik is looking for a senior backend engineer that has experience in: #golang, #operations, #python."
 featured: 5
+archived: "true"
 ---
 
 ## About Kentik

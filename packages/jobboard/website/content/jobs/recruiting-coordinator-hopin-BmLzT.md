@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 2+ years of experience in recruiting, Hopin has a job opening for a Recruiting Coordinator"
 summaryBackup: "To apply as a recruiting coordinator at Hopin, you preferably need to have some knowledge of: #windows, #branding, #management."
 featured: 6
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

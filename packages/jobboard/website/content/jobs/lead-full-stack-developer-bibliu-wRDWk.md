@@ -13,6 +13,7 @@ companyWebsite: "https://www.bibliu.com/"
 summary: "BibliU wishes to hire a new Lead Full Stack Developer. If you have have experience with building and designing REST APIs, consider applying."
 summaryBackup: "Love #javascript, #content, #aws? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Bitfinex is searching for a Front End Developer that has experience with React, Flux, SASS, Redux and the core principles surrounding these."
 summaryBackup: "Bitfinex is looking for a front end developer [remote] that has experience in: #javascript, #reactjs, #ui/ux."
 featured: 1
+archived: "true"
 ---
 
 ## Job description

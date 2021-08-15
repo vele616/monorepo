@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "Sketch wishes to hire a new licensing support specialist. If you have experience and familiarity with support for SaaS, consider applying."
 summaryBackup: "Sketch is looking for a licensing support specialist that has experience in: #ui/ux, #management, #css."
 featured: 10
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products every day. Want to join us and help us take our customer support to the next level? We’re looking to grow our talented team with a full-time **Licensing Specialist**.

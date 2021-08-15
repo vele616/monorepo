@@ -13,6 +13,7 @@ companyWebsite: "https://www.arangodb.com/"
 summary: "If you have you have experience working on large-scale distributed systems, ArangoDB is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #ui/ux, #optimization? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ArangoDB is the leading native multi-model NoSQL database, with more than 10 million downloads. It combines the power of graphs, JSON documents and a key-value store with a full-text search engine. ArangoDB makes all of your data models accessible with a single elegant declarative query language. Developers can build high-performance applications using a convenient SQL-like query language or JavaScript extensions. Oh, and did we mention it is open source?

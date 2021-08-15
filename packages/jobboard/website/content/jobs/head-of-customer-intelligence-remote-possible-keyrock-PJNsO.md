@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "To apply as a Head of Customer Intelligence at Keyrock, you preferably need to have 3 years of experience in data-driven business development roles."
 summaryBackup: "To apply as a head of customer intelligence at Keyrock, you preferably need to have some knowledge of: #marketing, #python, #management."
 featured: 10
+archived: "true"
 ---
 
 ## Keyrock is expanding!

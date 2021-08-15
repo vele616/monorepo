@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "If you have experience working with SaaS software, ShipHero has a job opening for a SaaS Solutions Lead"
 summaryBackup: "Shiphero is looking for a solutions lead that has experience in: #css, #management, #sales."
 featured: 15
+archived: "true"
 ---
 
 We love helping our customers make the most out of ShipHero. That’s the focus of the Solutions team. Taking the customer from a new user to a power user. We also have a burgeoning Professional Services team that is ready to take it to the next level.

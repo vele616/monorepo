@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have 2+ years automation experience, Curebase is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #aws, #git? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 Curebase runs decentralized clinical trials using our next-generation eClinical software platform built for remote research. Our approach accelerates clinical trials by enrolling patients at home and allowing them to participate in studies online and with local healthcare providers. Our mission is to radically shorten timelines to bring new treatments to market and improve patients lives.

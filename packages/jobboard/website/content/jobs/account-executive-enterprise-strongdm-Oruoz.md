@@ -13,6 +13,7 @@ companyWebsite: "http://www.strongdm.com/"
 summary: "StrongDM wishes to hire a new Account Executive. If you have 7+ years of experience selling SaaS solutions, consider applying."
 summaryBackup: "To apply as an account executive at StrongDM, you preferably need to have some knowledge of: #windows, #ui/ux, #sales."
 featured: 14
+archived: "true"
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**

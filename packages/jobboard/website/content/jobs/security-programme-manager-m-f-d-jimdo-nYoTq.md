@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "Interested in new opportunities and have 3 years of professional experience as Program Manager or similar role working in the field of Information Security or Risk Management? Jimdo has a job opening for a Security Programme Manager."
 summaryBackup: "Jimdo is looking for a security programme manager that has experience in: #ui/ux, #windows, #management."
 featured: 3
+archived: "true"
 ---
 
 ## Security Programme Manager

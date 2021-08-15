@@ -13,6 +13,7 @@ companyWebsite: "https://www.vitaminsoftware.com/"
 summary: "Vitamin Software is searching for a mid-level backend software engineer that has 3 years of experience."
 summaryBackup: "Vitamin Software is looking for a mid-level backend software engineer that has experience in: #management, #aws, #azure."
 featured: 20
+archived: "true"
 ---
 
 [Vitamin Software](https://www.vitaminsoftware.com/) is an international software consulting firm specialised in the startup lifecycle. We work with entrepreneurial organisations across 4 continents. Our team is globally distributed across 8 countries: Romania, Moldova, the Netherlands, France, the US, Brazil, Germany and Serbia.

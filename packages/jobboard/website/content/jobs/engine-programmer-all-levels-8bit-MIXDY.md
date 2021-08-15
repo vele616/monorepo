@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is searching for an Engine Programmer that has professional videogame programming experience on at least 1 sub system of a game engine."
 summaryBackup: "Love #ui/ux, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Our client, an upcoming AAA studio based in Scotland and in central Europe, that currently works on a new IP, sci-fi open-world project is now seeking an **Engine Programmer.**

@@ -13,6 +13,7 @@ companyWebsite: "https://www.stickermule.com/"
 summary: "Sticker Mule is looking for a Javascript Engineer that has experience in: #javascript, #reactjs, #rails."
 summaryBackup: "To apply as a javascript engineer at Sticker Mule, you preferably need to have some knowledge of: #javascript, #reactjs, #rails."
 featured: 3
+archived: "true"
 ---
 
 **About Sticker Mule**

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "Customer.io is looking for a Sales Enablement Associate that has experience in: #sales, #management, #content."
 summaryBackup: "Customer.io is looking for a sales enablement associate that has experience in: #sales, #management, #content."
 featured: 1
+archived: "true"
 ---
 
 Hi, I'm Alex, Sr. Sales Enablement Manager at [Customer.io](http://Customer.io)!

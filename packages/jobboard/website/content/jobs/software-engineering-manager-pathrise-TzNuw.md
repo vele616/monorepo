@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "To apply as a Software Engineering Manager at Pathrise, you preferably need to have 4+ years of full-time software engineering experience."
 summaryBackup: "To apply as a software engineering manager at Pathrise, you preferably need to have some knowledge of: #javascript, #reactjs, #rails."
 featured: 8
+archived: "true"
 ---
 
 **What is Pathrise?**

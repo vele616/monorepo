@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "If you have 1-2 years of production experience with Elixir & Phoenix, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "DockYard, Inc. is looking for an elixir developer that has experience in: #ui/ux, #postgresql, #scrum."
 featured: 18
+archived: "true"
 ---
 
 ## Job description

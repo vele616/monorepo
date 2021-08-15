@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "To apply as a manager at Magic Leap, you preferably need to have 7+ years of experience in design technology, UX engineering, software development, solutions engineering or related field."
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a manager that has experience in: #ui/ux, #unity, #unreal."
 featured: 20
+archived: "true"
 ---
 
 ## Job Description

@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Remo-co wishes to hire a new product manager. If you have 5+ years Product Management experience, consider applying."
 summaryBackup: "Love #management, #css, #marketing? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 As the first Product Manager for Remo, you’ll be on the ground floor of taking a product with clear Product/Market fit and growing it into a massive collaboration and community business. You’ll work tightly with engineering to rapidly build the core experience and partner with our customer teams to understand where the product should go next. You’ll be a leader within the organization and you know how to effectively deliver in an early-stage environment.

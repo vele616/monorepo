@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "SuperRare is looking for a product manager that has 5+ years of product management experience."
 summaryBackup: "Excited about #management, #ui/ux, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About SuperRare

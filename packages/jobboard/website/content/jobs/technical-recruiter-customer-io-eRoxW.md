@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
 summary: "If you have have experience building a collaborative team, not only hiring individuals, Customer.io is looking for someone with your skillset."
 summaryBackup: "Customer.io is looking for a technical recruiter that has experience in: #management, #marketing, #spring."
 featured: 15
+archived: "true"
 ---
 
 Hi, I'm Symone, Recruiting Manager at Customer.io!

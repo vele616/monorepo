@@ -13,6 +13,7 @@ companyWebsite: "https://smile.io/"
 summary: "Smile.io is looking for an eCommerce Community Manager that has experience in: #management, #branding, #content."
 summaryBackup: "Smile.io is looking for an ecommerce community manager that has experience in: #management, #branding, #content."
 featured: 13
+archived: "true"
 ---
 
 ## Description

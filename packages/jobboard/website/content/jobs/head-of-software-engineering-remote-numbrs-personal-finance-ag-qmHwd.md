@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "If you have 10 years of experience in leading engineering positions within fast-paced and fast-evolving environments in technology-driven companies, Numbrs is looking for someone with your skillset."
 summaryBackup: "Numbrs Personal Finance AG is looking for a head of software engineering that has experience in: #management, #java, #ui/ux."
 featured: 15
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

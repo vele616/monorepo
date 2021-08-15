@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a mid market account executive at Netlify, you preferably need to have 3+ years of mid-market sales experience, ideally with a highly technical cloud service."
 summaryBackup: "Current Job Openings at Netlify is looking for a mid market account executive that has experience in: #sales, #ui/ux, #git."
 featured: 10
+archived: "true"
 ---
 
 ## Company Overview

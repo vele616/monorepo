@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 2-5+ years of experience in interactive real-time immersive (AR / VR / MR) development experience using real-time 3D game engines, Magic Leap is looking for someone with your knowledge."
 summaryBackup: "To apply as a software engineer at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #unity, #content, #ui/ux."
 featured: 12
+archived: "true"
 ---
 
 As a Software Engineer in the Developer Relations group, you will engage and support a wide range of Magic Leap’s developers and partners in creating experiences for Magic Leap. You will conduct this support online through the developer website portal, onsite “in the field” at those developers’ offices and from your office at one of Magic Leap’s locations.

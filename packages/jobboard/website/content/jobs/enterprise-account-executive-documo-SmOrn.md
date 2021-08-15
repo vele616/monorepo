@@ -13,6 +13,7 @@ companyWebsite: "https://documo.com/"
 summary: "If you have 5 years of successful enterprise sales experience meeting quota in a startup environment, Documo is looking for someone with your skillset."
 summaryBackup: "To apply as an enterprise account executive at Documo, you preferably need to have some knowledge of: #sales, #css, #crm."
 featured: 17
+archived: "true"
 ---
 
 ## Overview

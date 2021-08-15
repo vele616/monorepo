@@ -13,6 +13,7 @@ companyWebsite: "https://www.friss.com/"
 summary: "Friss is looking for a pre-sales consultant to help them to reach Big Hairy Audacious Goal By building really smart software we enable insurers worldwide to automatically detect insurance fraud and identify high risks!"
 summaryBackup: "Friss is looking for a fight fraud! as pre-sales consultant spain that has experience in: #sales, #css, #translation."
 featured: 20
+archived: "true"
 ---
 
 ## Job description

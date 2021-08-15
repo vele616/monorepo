@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Remo intends to hire a new senior full stack developer. If you have 5 years of experience in maintaining a living and complex codebase with a modern stacks, consider applying."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Please take out 15min test here: https://apply.hire.toggl.com/3282K5ZPYLY6D6KBM5

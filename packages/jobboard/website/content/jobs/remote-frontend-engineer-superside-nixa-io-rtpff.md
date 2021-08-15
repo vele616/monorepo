@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "If you have experience with React and Node, Nixa.io is looking for someone with your knowledge."
 summaryBackup: "Nixa.io is looking for a remote frontend engineer that has experience in: #ui/ux, #javascript, #reactjs."
 featured: 3
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "http://www.kentik.com/"
 summary: "If you have 4 years of relevant SRE or Systems Administration, Kentik is looking for someone with your skillset."
 summaryBackup: "Love #linux, #operations, #python? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About Kentik

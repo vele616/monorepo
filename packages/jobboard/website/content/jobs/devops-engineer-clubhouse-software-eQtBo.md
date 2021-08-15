@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "Clubhouse Software intends to hire a new dDevOps Engineer. If you have 7+ years software engineering experience, consider applying."
 summaryBackup: "Excited about #terraform, #ansible, #python? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 Clubhouse was built by software engineers with the goal of making project management software less painful, more collaborative, and help software development teams do their best work. The platform combines a simple, modern UI with enterprise-grade tools, allowing technology companies to plan and manage their projects effectively, visualize progress across the organization, and define deadlines and milestones based upon data and predictive modeling. Thousands of the fastest-growing organizations use Clubhouse to plan and build software, including Nubank, Dataiku, Scale AI, Atrium and LaunchDarkly.

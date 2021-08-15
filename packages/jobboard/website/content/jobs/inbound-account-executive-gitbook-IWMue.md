@@ -13,6 +13,7 @@ companyWebsite: "https://gitbook.com/"
 summary: "As an Inbound Account Executive you will handle inbound requests and then be responsible for the entire sales cycle to crush quotas and generate revenue."
 summaryBackup: "Excited about #sales, #css, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 GitBook is a **modern documentation platform** backed by some of the best SaaS europeans VCs (Point 9 Capital, Notion Capital, Fly VC). Our ambition is to **empower team's intelligence.** We want to help **teams work more efficiently** by creating a single place to leverage their knowledge.

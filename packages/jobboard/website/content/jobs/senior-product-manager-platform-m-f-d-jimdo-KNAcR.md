@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "Jimdo is searching for a senior product manager that has 5+ years of experience as a Product Manager / Product Owner for digital product, ideally for internal."
 summaryBackup: "Love #ui/ux, #management, #marketing? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 ## Senior Product Manager - Platform (m/f/d)

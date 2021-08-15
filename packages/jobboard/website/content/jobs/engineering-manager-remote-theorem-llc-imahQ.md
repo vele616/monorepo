@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "If you have 2.5 years experience leading and managing custom software engineering teams, Theorem has a job opening for an Engineering Manager"
 summaryBackup: "To apply as an engineering manager at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
 featured: 11
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.

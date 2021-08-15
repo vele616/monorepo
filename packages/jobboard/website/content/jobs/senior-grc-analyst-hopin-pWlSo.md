@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have experience in a highly SaaS/PaaS environment, consider applying to Hopin's job post for a new Senior GRC Analyst."
 summaryBackup: "Hopin is looking for a senior grc analyst that has experience in: #ui/ux, #operations, #css."
 featured: 8
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have a strong understanding of operating system fundamentals, Red Canary is looking for someone with your skillset."
 summaryBackup: "Red Canary is looking for an applied security r&d engineer that has experience in: #operations, #rustlang, #css."
 featured: 6
+archived: "true"
 ---
 
 **Why Red Canary**

@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "Jimdo is searching for an engineering  manager that has 2+ years of experience leading an engineering team."
 summaryBackup: "Excited about #management, #ui/ux, #operations? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Engineering Manager

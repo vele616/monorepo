@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT is searching for a Python Software Engineer that has hands-on experience in MongoDB, MySQL, PostgreSQL as database management systems."
 summaryBackup: "Excited about #python, #django, #flask? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## About BMAT 

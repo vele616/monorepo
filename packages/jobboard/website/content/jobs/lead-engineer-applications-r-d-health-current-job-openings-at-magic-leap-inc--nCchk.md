@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years of industry experience implementing applications & services on mobile platforms, Magic Leap, Inc. has a job opening for a lead engineer"
 summaryBackup: "To apply as a lead engineer at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #management, #unity."
 featured: 10
+archived: "true"
 ---
 
 ## Job Description

@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "Aircall is looking for a Partner Account Manager that has 2 years experience in Business Development."
 summaryBackup: "Love #css, #marketing, #sales? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!

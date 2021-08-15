@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Love experience in: #management, #marketing, #analysis? Check out this job post!"
 summaryBackup: "Love #management, #marketing, #analysis? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 Hometime is the largest and fastest-growing platform for flexible rental providers in the APAC region. 

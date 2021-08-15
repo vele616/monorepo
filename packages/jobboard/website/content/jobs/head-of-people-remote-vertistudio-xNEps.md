@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio is searching for a head of people that has 3+ years in People Operations, strategy or a comparable role ideally in a small/medium size company."
 summaryBackup: "To apply as a head of people at VertiStudio, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
 featured: 20
+archived: "true"
 ---
 
 ## About us

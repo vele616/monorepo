@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is searching for a Senior Site Reliability Engineer that has experience as a Site Reliability Engineer."
 summaryBackup: "To apply as a senior site reliability engineer at Wikimedia Foundation, you preferably need to have some knowledge of: #elasticsearch, #management, #ansible."
 featured: 9
+archived: "true"
 ---
 
 ## Senior Site Reliability Engineer

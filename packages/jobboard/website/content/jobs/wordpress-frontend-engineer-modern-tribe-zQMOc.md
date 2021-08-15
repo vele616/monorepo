@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "If you have experience working with design systems and design system thinking, consider applying to Modern Tribe's job post for a new WordPress Frontend Engineer."
 summaryBackup: "To apply as a wordpress frontend engineer at Modern-tribe, you preferably need to have some knowledge of: #javascript, #ui/ux, #css."
 featured: 12
+archived: "true"
 ---
 
 ## The Opportunity

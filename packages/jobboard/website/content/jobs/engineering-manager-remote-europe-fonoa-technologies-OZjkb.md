@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "Love experience in: #management, #operations, #fintech? Check out this job post!"
 summaryBackup: "To apply as an engineering manager at Fonoa Technologies, you preferably need to have some knowledge of: #management, #css, #windows."
 featured: 14
+archived: "true"
 ---
 
 ## Description

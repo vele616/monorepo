@@ -13,6 +13,7 @@ companyWebsite: "http://languagedrops.com/"
 summary: "If you have 5+ years of experience in monetization for a digital or app-based company, Drops has a job opening for a head of monetization"
 summaryBackup: "Drops is looking for a head of monetization that has experience in: #management, #marketing, #macos."
 featured: 10
+archived: "true"
 ---
 
 ## Description

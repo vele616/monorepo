@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a Senior Front-End Engineer that has experience with building and shipping web products in React."
 summaryBackup: "Love #reactjs, #javascript, #css? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

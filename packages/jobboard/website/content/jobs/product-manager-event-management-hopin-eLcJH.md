@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is searching for a Product Manager that has 4+ years of experience as a product manager or product leader of a software product, with experience growing products through a combination of big bets and experiments."
 summaryBackup: "To apply as a product manager at Hopin, you preferably need to have some knowledge of: #ui/ux, #management, #marketing."
 featured: 2
+archived: "true"
 ---
 
 ## The Role

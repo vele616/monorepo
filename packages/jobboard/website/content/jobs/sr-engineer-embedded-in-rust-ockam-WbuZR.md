@@ -13,6 +13,7 @@ companyWebsite: "https://www.ockam.io/"
 summary: "Interested in new opportunities and have 10+ years of software development experience? Ockam has a job opening for a Sr Engineer."
 summaryBackup: "Excited about #rustlang, #python, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated communication protocols and libraries that can work in resource constrained, intermittent connectivity IoT devices and connected machines. We provide these capabilities to developers as SDKs for embedded systems and edge devices.

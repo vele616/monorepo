@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "If you have experience working with customers and applying a deep understanding of their needs to produce timely solutions to their real, Customer.io is looking for someone with your skillset."
 summaryBackup: "To apply as a senior scaling engineer at Customer.io, you preferably need to have some knowledge of: #management, #spring, #marketing."
 featured: 20
+archived: "true"
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://Customer.io). I'm looking for a Senior Scaling Engineer to join our growing Engineering team.

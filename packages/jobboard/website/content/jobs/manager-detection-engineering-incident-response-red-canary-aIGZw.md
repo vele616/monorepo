@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is searching for a Detection Engineering Manager that has 5+ years of experience working in a Security Operations Center."
 summaryBackup: "Excited about #operations, #management, #python? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 **Who We Are**

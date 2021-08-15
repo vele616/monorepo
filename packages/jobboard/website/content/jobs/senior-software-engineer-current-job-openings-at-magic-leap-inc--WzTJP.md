@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. is looking for a senior that has strong experience with 3D development in Unity is required."
 summaryBackup: "Love #unity, #content, #python? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 ## Job Description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Interested in new opportunities and have experience using data analytics platforms to inform storytelling and presentations? Wikimedia Foundation has a job opening for a Human Resources Business Partner."
 summaryBackup: "Love #HR, #operations, #management? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## HUMAN RESOURCES BUSINESS PARTNER

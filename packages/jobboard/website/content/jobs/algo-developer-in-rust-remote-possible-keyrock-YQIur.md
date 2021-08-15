@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "Keyrock wishes to hire a new Algo Developer in rust. If you have 5 years of coding experience, consider applying."
 summaryBackup: "Love #rustlang, #management, #marketing? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Keyrock is expanding!

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 5 years’ experience designing mobile or web applications, AR, VR, gaming, or physical interactives, Magic Leap has a job opening for a Senior Experience Designer"
 summaryBackup: "Excited about #ui/ux, #content, #scrum? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job Description

@@ -13,6 +13,7 @@ companyWebsite: "http://www.plentific.com/"
 summary: "If you have experience of working with a variety of QA tools, Plentific is looking for someone with your knowledge."
 summaryBackup: "Excited about #management, #django, #python? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Description

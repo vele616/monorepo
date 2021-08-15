@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "Interested in new opportunities and have 2-5 years of experience in quality assurance and testing for web applications? DockYard has a job opening for a SQA Engineer."
 summaryBackup: "Love #ui/ux, #management, #scrum? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.ockam.io/"
 summary: "Excited about #reactjs, #gatsby, #javascript? Check out this job post!"
 summaryBackup: "Excited about #reactjs, #management, #javascript? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 You will build the [Ockam.io](http://Ockam.io) website and other browser based user experiences for Ockam Developers.

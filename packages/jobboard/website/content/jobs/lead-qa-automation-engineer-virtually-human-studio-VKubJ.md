@@ -13,6 +13,7 @@ companyWebsite: "http://vhslab.com/"
 summary: "Virtually Human Studio is searching for a lead qa automation engineer that has on experience with white box, black box testing and other automated testing."
 summaryBackup: "Excited about #ui/ux, #management, #jira? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Description

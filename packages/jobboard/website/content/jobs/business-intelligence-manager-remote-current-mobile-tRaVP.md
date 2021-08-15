@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "To apply as a Business Intelligence Manager at Current Mobile, you preferably need to have 3 years of related experience."
 summaryBackup: "Excited about #operations, #marketing, #management? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## What is Current?

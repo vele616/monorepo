@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "RebelMouse is searching for a Sales Executive that has a history of selling SaaS technologies, specifically around web content management."
 summaryBackup: "Excited about #sales, #content, #css? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise wishes to hire a new Admissions Sales Development Representative. If you have 1+ years of experience in a related sales role, consider applying."
 summaryBackup: "To apply as an admissions sales development representative at Pathrise, you preferably need to have some knowledge of: #sales, #management, #analytics."
 featured: 12
+archived: "true"
 ---
 
 **What is Pathrise?**

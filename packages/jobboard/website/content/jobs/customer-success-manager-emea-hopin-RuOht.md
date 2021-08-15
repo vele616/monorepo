@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 4+ years experience in Account Management, Customer Success, and/or experience as an event manager, consider applying to Hopin's job post for a new Customer Success Manager."
 summaryBackup: "Hopin is looking for a customer success manager that has experience in: #management, #golang, #css."
 featured: 20
+archived: "true"
 ---
 
 ## The role

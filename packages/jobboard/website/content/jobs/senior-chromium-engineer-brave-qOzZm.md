@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "If you have 5+ years experience with desktop application development, Brave is looking for someone with your knowledge."
 summaryBackup: "To apply as a senior chromium engineer at Brave, you preferably need to have some knowledge of: #javascript, #office, #English."
 featured: 20
+archived: "true"
 ---
 
 Brave is looking for an experienced Senior Software Engineer to work on our latest Chromium­ based desktop browser. This is a high­ profile and impactful, hands­-on position.  Work together with our developers and privacy/security experts to help us take our browser to the next level.

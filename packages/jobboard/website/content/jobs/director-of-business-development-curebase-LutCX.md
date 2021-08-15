@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have 4+ years of experience in relevant business development/sales position, consider applying to Curebase's job post for a new Director of Business Development."
 summaryBackup: "Excited about #management, #sales, #ui/ux? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## About Curebase

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "To apply as a Senior UI Engineer at Brave, you preferably need to be proficient using Javascript with the Web API."
 summaryBackup: "Love #javascript, #reactjs, #css? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 Brave is on a mission to save privacy on the web. We make a web browser which protects privacy by blocking tracking by default, right out of the box. We offer completely private ads as an optional alternative to the invasive surveillance online so that you can directly contribute to the sites you visit and appreciate.

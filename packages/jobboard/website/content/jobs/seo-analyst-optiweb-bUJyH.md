@@ -13,6 +13,7 @@ companyWebsite: "https://www.optiweb.com/"
 summary: "Optiweb is looking for a SEO Analyst that has 2 years of prior SEO experience."
 summaryBackup: "Excited about #content, #marketing, #management? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Job description

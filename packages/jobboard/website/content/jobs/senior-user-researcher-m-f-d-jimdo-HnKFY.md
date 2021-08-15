@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "If you have 3+ years of experience in User Research, UX Research, Market Research Human-Computer Interaction, or a related field, Jimdo has a job opening for a senior user researcher."
 summaryBackup: "Love #ui/ux, #marketing, #German? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Senior User Researcher

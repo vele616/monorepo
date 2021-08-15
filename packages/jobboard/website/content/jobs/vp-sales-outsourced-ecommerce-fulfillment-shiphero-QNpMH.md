@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "Shiphero is looking for a VP of sales that has 10 years of sales experience."
 summaryBackup: "Love #sales, #management, #marketing? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## VP Sales - Fulfillment

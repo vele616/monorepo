@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Interested in new opportunities and have experience working with cross-functional teams to ship products and/or project management with multi-stakeholder needs? Wikimedia Foundation has a job opening for a Senior Frontend Developer."
 summaryBackup: "Love #management, #javascript, #css? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Summary

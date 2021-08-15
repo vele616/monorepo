@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 3+ years of experience working on customer insights or user experience research at a SaaS company, consider applying to Hopin's job post for a new Customer Insights Manager."
 summaryBackup: "Hopin is looking for a customer insights manager that has experience in: #matlab, #css, #windows."
 featured: 12
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "https://atomicrobot.com/"
 summary: "Excited about experience in: #ios, #figma, #photoshop? Check out this job post!"
 summaryBackup: "To apply as an ui at Atomic Robot, you preferably need to have some knowledge of: #ui/ux, #ios, #figma."
 featured: 12
+archived: "true"
 ---
 
 ## Description

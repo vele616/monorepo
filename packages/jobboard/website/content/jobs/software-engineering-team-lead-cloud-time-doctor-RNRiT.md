@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor wishes to hire a new Software Engineering Team Lead. If you have 3 + years of experience working as a lead level engineer, ideally working on Node.js, consider applying."
 summaryBackup: "Excited about #management, #css, #ui/ux? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## About the Role

@@ -13,6 +13,7 @@ companyWebsite: "https://www.podia.com/"
 summary: "If you have 2+ year experience working in a marketing role, Podia is looking for someone with your knowledge."
 summaryBackup: "To apply as a marketing coordinator at Podia, you preferably need to have some knowledge of: #marketing, #management, #operations."
 featured: 5
+archived: "true"
 ---
 
 ## Description

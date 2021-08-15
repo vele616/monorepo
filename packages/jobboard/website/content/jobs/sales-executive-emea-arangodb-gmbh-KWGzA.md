@@ -13,6 +13,7 @@ companyWebsite: "https://www.arangodb.com/"
 summary: "ArangoDB is searching for a Sales Executive that has 5+ years of software sales experience in a deep tech field like databases, cloud and/or open-source software."
 summaryBackup: "Excited about #sales, #javascript, #management? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 ArangoDB is the leading native multi-model NoSQL database, with more than 10 million downloads. It combines the power of graphs, with JSON documents and a key-value store. ArangoDB makes all of your data models accessible with a single declarative query language. Developers can build high-performance applications using a convenient SQL-like query language or JavaScript extensions. And did we mention it is open source?

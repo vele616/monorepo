@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Interested in new opportunities and have 5 years leadership experience in a senior marketing role in fast-paced consumer focused AdTech, mobile gaming, DTC, or FinTech companies? Current Mobile has a job opening for a Vice President of Marketing."
 summaryBackup: "Love #marketing, #branding, #management? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## What is Current?

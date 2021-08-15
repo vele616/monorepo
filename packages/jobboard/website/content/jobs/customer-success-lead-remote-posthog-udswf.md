@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "PostHog is looking for a customer success lead that has experience in: experience in: #management, #ui/ux, #marketing."
 summaryBackup: "Excited about #management, #ui/ux, #marketing? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 ## Description

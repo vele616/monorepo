@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "To apply as a Digital Client Manager at BMAT Licensing SLU, you preferably need to have some experience in: #management, #macos, #translation."
 summaryBackup: "To apply as a digital client manager at BMAT Licensing SLU, you preferably need to have some knowledge of: #management, #translation, #English."
 featured: 20
+archived: "true"
 ---
 
 ## About BMAT

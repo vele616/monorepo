@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "If you have experience managing the day-to-day technical needs of a webserver, including scaling, security, and performance, consider applying to 10up's job post for a new Systems Engineer."
 summaryBackup: "To apply as a systems engineer at 10up, you preferably need to have some knowledge of: #linux, #php, #management."
 featured: 15
+archived: "true"
 ---
 
 The Systems Engineer provides expertise to 10up teams in all topics related to hosting and server infrastructure. Systems Engineers work primarily at the Linux command line, but must consider the web environment as a whole, including DNS, CDNs, WAFs, and hosted cloud appliances. They are comfortable setting up a Linux server from scratch and are effective at troubleshooting WordPress issues in collaboration with Web Engineers.

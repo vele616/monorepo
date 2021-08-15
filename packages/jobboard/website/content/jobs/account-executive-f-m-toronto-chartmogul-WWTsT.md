@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "If you have 2+ years of experience leading sales cycles in SaaS or a similar setting, ChartMogul is looking for someone with your knowledge."
 summaryBackup: "ChartMogul is looking for an account executive that has experience in: #sales, #css, #analysis."
 featured: 13
+archived: "true"
 ---
 
 ## Job description

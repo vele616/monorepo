@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 8 years experience in software development, with at least 5 of them managing a team in a high paced startup environment, Hopin is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #management, #office? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## The role

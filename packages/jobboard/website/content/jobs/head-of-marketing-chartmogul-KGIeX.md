@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "If you have prior experience building and leading teams, ChartMogul is looking for someone with your knowledge."
 summaryBackup: "Excited about #marketing, #golang, #content? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Job description

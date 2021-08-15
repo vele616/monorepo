@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "If you have 2+ years of experience in communications design, Komoot is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #branding, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

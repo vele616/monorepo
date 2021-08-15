@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic intends to hire a new remote junior web developer. If you have 1+ year of software development experience, consider applying."
 summaryBackup: "Excited about #html, #javascript, #reactjs? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 Scopic Software is seeking a skilled Junior Web Developer to join our team of 250+ professionals across 40countries.

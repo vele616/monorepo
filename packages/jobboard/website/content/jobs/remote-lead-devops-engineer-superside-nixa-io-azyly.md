@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "If you have 3+ years of experience as an on-call DevOps, SRE, Infrastructure or Cloud Engineer, Nixa.io is looking for someone with your skillset."
 summaryBackup: "To apply as a remote lead devops engineer at Nixa.io, you preferably need to have some knowledge of: #ui/ux, #spring, #kotlin."
 featured: 11
+archived: "true"
 ---
 
 ## Description

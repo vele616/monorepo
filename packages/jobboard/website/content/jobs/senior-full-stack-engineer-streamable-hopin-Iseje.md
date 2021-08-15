@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new Senior Full-Stack Engineer. If you have 5+ years front-end web development experience, consider applying."
 summaryBackup: "Love #reactjs, #python, #flask? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

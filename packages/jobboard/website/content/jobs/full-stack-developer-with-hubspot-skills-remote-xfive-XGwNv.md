@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "Interested in new opportunities and have year experience with HubSpot? Xfive has a job opening for a Full-stack Developer with hubspot skills."
 summaryBackup: "To apply as a full-stack developer with hubspot skills at Xfive, you preferably need to have some knowledge of: #html, #javascript, #reactjs."
 featured: 9
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://zyte.com/"
 summary: "Zyte is searching for an Internal Systems Python Developer that has 3+ years of experience with development in Python."
 summaryBackup: "Zyte is looking for an internal systems python developer that has experience in: #python, #django, #javascript."
 featured: 9
+archived: "true"
 ---
 
 ## Description

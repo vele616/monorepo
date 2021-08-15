@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "Interested in new opportunities and have experience with personnel management, or at a position in career growth where you are ready to take on personnel management responsibilities? 10up has a job opening for an Associate Director."
 summaryBackup: "10up is looking for an associate director that has experience in: #management, #ui/ux, #wordpress."
 featured: 13
+archived: "true"
 ---
 
 Account Strategy Directors are responsible for owning and driving strategic partnerships for a set of diverse, cross-industry client portfolios or a sizable pillar account spanning multiple departments and work streams. Directors work closely with day-to-day Account Strategists and production teams to foster client success and growth through creative thinking and outstanding service.

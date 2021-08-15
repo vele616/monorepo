@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic is searching for a remote software project manager that has experience with project management software tools."
 summaryBackup: "To apply as a remote software project manager at Scopic, you preferably need to have some knowledge of: #management, #ui/ux, #English."
 featured: 10
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote Software Project Manager by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

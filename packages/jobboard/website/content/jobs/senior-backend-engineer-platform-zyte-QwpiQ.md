@@ -13,6 +13,7 @@ companyWebsite: "https://zyte.com/"
 summary: "Zyte wishes to hire a new Senior Backend Engineer. If you have 3+ years of experience building and maintaining high load distributed systems, consider applying."
 summaryBackup: "Excited about #django, #python, #java? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Description

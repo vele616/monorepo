@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "If you have you have strong experience with relevant, consider applying to PostHog's job post for a new Senior Full Stack Engineer."
 summaryBackup: "PostHog is looking for a senior full stack engineer that has experience in: #reactjs, #python, #analysis."
 featured: 8
+archived: "true"
 ---
 
 ## Description

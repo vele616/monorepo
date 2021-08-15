@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "ShipHero wishes to hire a new Senior Python Developer. If you have 5+ years of experience writing Python, consider applying."
 summaryBackup: "Excited about #python, #ui/ux, #aws? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## About ShipHero

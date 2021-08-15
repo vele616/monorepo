@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "To apply as a Head of Special Projects at Omnipresent, you preferably need to have some knowledge of: #marketing, #analysis, #management."
 summaryBackup: "To apply as a head of special projects at Omnipresent, you preferably need to have some knowledge of: #marketing, #analysis, #management."
 featured: 12
+archived: "true"
 ---
 
 ## Description

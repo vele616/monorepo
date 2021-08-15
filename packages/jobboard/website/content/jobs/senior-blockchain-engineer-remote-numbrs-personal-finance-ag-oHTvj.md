@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Interested in new opportunities and have professional experience in integrating with various blockchains? Numbrs has a job opening for a Senior Blockchain Engineer."
 summaryBackup: "To apply as a Senior Blockchain Engineer at Numbrs, you preferably need to have some knowledge of: #java, #golang, #rustlang."
 featured: 6
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

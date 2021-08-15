@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Interested in new opportunities and have solid understanding of how contracts are structured, written and negotiated? Hopin has a job opening for a Strategic Sourcing Manager."
 summaryBackup: "Love #management, #css, #windows? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

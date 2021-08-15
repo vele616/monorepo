@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "If you have 4+ years of software development experience, Scopic has a job opening for a Senior Web Developer"
 summaryBackup: "Love #javascript, #laravel, #django? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote Senior Web Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you are up to date with modern JavaScript practices, including reactive design and state management, Hopin is looking for someone with your skillset."
 summaryBackup: "Excited about #javascript, #reactjs, #typescript? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

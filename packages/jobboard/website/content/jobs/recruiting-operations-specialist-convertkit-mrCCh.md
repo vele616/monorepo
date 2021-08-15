@@ -13,6 +13,7 @@ companyWebsite: "http://convertkit.com/"
 summary: "If you have 2-4 years progressive recruiting experience in a fast-paced environment or equivalent experience sourcing, hiring, or onboarding, consider applying to ConvertKit's job post for a new Recruiting + Operations Specialist."
 summaryBackup: "ConvertKit is looking for a recruiting + operations specialist that has experience in: #operations, #css, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## Description

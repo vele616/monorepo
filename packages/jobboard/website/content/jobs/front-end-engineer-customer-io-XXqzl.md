@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
 summary: "Customer.io intends to hire a new Front-End Engineer. If you have experience with using front-end technologies like JavaScript and CSS to build complex web applications, consider applying."
 summaryBackup: "To apply as a front-end engineer at Customer.io, you preferably need to have some knowledge of: #javascript, #management, #spring."
 featured: 10
+archived: "true"
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://Customer.io). I'm looking for a Front-End Engineer to join our growing Engineering team.

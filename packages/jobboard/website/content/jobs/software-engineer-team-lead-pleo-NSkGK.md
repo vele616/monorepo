@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "To apply as a lead software engineer at Pleo, you preferably need to have some knowledge of: #management, #operations, #ui/ux."
 summaryBackup: "To apply as a software engineer at Pleo, you preferably need to have some knowledge of: #ui/ux, #management, #operations."
 featured: 13
+archived: "true"
 ---
 
 

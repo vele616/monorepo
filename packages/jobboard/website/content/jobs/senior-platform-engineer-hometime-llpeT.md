@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime is searching for a senior platform engineer that has 5+ years experience with Ruby on Rails."
 summaryBackup: "Hometime is looking for a senior platform engineer that has experience in: #javascript, #rails, #reactjs."
 featured: 20
+archived: "true"
 ---
 
 ## Required:

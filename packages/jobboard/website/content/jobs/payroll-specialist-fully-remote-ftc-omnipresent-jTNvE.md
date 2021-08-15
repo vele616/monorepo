@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent intends to hire a new payroll specialist. If you have 5 years’ experience in international payroll, consider applying."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description

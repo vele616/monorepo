@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "To apply as a Senior iOS Engineer at Hopin, you preferably need to have commercial experience with Swift."
 summaryBackup: "Hopin is looking for a senior ios engineer that has experience in: #ui/ux, #ios, #swift."
 featured: 4
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

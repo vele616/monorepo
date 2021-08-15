@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "Interested in new opportunities and have experience working within a company that worked with Machine Learning / Data Science? Cazana has a job opening for a Lead/Principal Data Engineer."
 summaryBackup: "Love #python, #typescript, #postgresql? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Job description

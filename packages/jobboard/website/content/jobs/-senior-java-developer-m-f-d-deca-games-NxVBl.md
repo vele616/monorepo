@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "If you have 4+ years of Games Industry experience, Deca Games has a job opening for you."
 summaryBackup: "Deca-games is looking for a  that has experience in: #java, #spring, #python."
 featured: 20
+archived: "true"
 ---
 
 ## Who we’re looking for

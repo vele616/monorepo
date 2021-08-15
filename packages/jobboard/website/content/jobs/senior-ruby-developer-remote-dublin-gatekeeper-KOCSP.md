@@ -13,6 +13,7 @@ companyWebsite: "http://www.gatekeeperhq.com/"
 summary: "If you have experience of delivering large development projects, Gatekeeper is looking for someone with your knowledge."
 summaryBackup: "Love #rubylang, #rails, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

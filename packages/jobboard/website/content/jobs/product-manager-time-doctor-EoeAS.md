@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor wishes to hire a new Product Manager. If you have 5+ years B2B SaaS product management experience, consider applying."
 summaryBackup: "To apply as a product manager at Time-doctor, you preferably need to have some knowledge of: #sales, #marketing, #css."
 featured: 9
+archived: "true"
 ---
 
 ## About the Role

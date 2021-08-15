@@ -13,6 +13,7 @@ companyWebsite: "https://www.xfive.co/"
 summary: "If you have good knowledge of modern front-end development, Xfive is looking for someone with your knowledge."
 summaryBackup: "Love #html, #javascript, #reactjs? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Job description

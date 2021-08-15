@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Excited about experience in: #management, #operations, #monitoring? Check out this job post!"
 summaryBackup: "Love #management, #operations, #monitoring? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **_Search for the Vice President of Global Advocacy_**

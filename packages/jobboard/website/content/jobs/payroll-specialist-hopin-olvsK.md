@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new payroll specialist. If you have 5+ years years of payroll processing experience, consider applying."
 summaryBackup: "Hopin is looking for a payroll specialist that has experience in: #office, #windows, #finance."
 featured: 20
+archived: "true"
 ---
 
 ## 

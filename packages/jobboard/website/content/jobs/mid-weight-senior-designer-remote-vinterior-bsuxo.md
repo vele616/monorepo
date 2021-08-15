@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "Vinterior is looking for a Mid-Weight/Senior Designer that has 5 plus years of experience working within a lifestyle e-commerce or agency environment."
 summaryBackup: "To apply as a mid-weight at Vinterior, you preferably need to have some knowledge of: #branding, #ui/ux, #management."
 featured: 10
+archived: "true"
 ---
 
 ## Description

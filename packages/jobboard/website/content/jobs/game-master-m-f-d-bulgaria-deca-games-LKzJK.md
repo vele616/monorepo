@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Excited about experience in: #operations, #management, #English? Check out this job post!"
 summaryBackup: "To apply as a game master at Deca-games, you preferably need to have some knowledge of: #operations, #management, #office."
 featured: 1
+archived: "true"
 ---
 
 ## Who we are looking for

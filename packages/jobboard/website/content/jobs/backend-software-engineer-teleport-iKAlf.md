@@ -13,6 +13,7 @@ companyWebsite: "https://goteleport.com/"
 summary: "If you have golang or Rust experience, Teleport has a job opening for a backend software engineer"
 summaryBackup: "Love #golang, #rustlang, #javascript? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.

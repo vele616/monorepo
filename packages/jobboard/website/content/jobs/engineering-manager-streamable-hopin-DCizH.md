@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new Engineering Manager. If you have 5+ years experience in software development, preferably with 2+ years managing a team, consider applying."
 summaryBackup: "To apply as an engineering manager @ streamable at Hopin, you preferably need to have some knowledge of: #management, #reactjs, #python."
 featured: 10
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "Shiphero intends to hire a new VP of Sales. If you have 10 years of sales experience, consider applying."
 summaryBackup: "ShipHero is looking for a vp of sales that has experience in: #sales, #css, #branding."
 featured: 8
+archived: "true"
 ---
 
 ## VP Sales - SaaS

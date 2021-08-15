@@ -13,6 +13,7 @@ companyWebsite: "http://www.gogoapps.io/"
 summary: "GogoApps is searching for a Senior Golang Developer that has 4+ years of experience as a Back-end Developer."
 summaryBackup: "Love #kubernetes, #golang, #terraform? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Job description

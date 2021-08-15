@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "To apply as an User Acquisition Manager at Clubhouse Software, you preferably need to have experience with developer tools and the project management space is a major bonus."
 summaryBackup: "Clubhouse Software is looking for an user acquisition manager that has experience in: #marketing, #analysis, #ui/ux."
 featured: 8
+archived: "true"
 ---
 
 Clubhouse is a venture-backed Series B startup that’s building software to make software development teams more efficient and collaborative. Thousands of the fastest-growing organizations use Clubhouse to plan and build their software, including Nubank, Glossier, Dataiku, Scale AI, FullStory, and LaunchDarkly. Greylock, Lerer Hippeau, RRE, and Battery Ventures are investors in Clubhouse. 

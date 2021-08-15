@@ -13,6 +13,7 @@ companyWebsite: "https://birdie.care/"
 summary: "Birdie wishes to hire a new Growth Marketer. If you have 4+ years of experience in Demand Gen, consider applying."
 summaryBackup: "To apply as a growth marketer at Birdie, you preferably need to have some knowledge of: #marketing, #socialmedia, #content."
 featured: 16
+archived: "true"
 ---
 
 ## Description

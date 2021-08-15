@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new Manager of Sales Development. If you have 5 years in sales, lead generation, sales development or relevant sales experience, consider applying."
 summaryBackup: "Excited about #sales, #management, #analytics? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

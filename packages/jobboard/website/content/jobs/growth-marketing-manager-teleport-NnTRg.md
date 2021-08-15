@@ -13,6 +13,7 @@ companyWebsite: "https://goteleport.com/"
 summary: "Teleport is looking for someone with a deep understanding of the developer audience, an expert on SEO, Google Search Console, and Tag Manager to optimize and own the user journey on our website."
 summaryBackup: "Teleport is looking for a growth marketing manager that has experience in: #marketing, #content, #html."
 featured: 20
+archived: "true"
 ---
 
 Teleport enables engineers to quickly access any computing resource anywhere on the planet. Our open source products provide a Unified Access Plane for developers and security professionals seeking to simplify secure access to servers, applications, and data across all environments. Teleport is built by Gravitational, a Y-Combinator company that is well funded by additional top-tier investors and growing quickly. We value our craft, a work-life balance and embrace a culture of mutual respect.

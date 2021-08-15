@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Urbantz is searching for a Technical Lead that has 1+ years of successfully leading a remote people."
 summaryBackup: "Urbantz is looking for a technical lead that has experience in: #css, #operations, #javascript."
 featured: 11
+archived: "true"
 ---
 
 Is improving technology along side your coworkers your passion? Do you thrive in a fast-changing scaling environment? Then become our new Technical Lead!

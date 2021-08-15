@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor wishes to hire a new Demand Generation Manager. If you have 3+ years of B2B marketing experience, with at least one year focused on paid channels and demand generation, consider applying."
 summaryBackup: "Time-doctor is looking for a demand generation manager that has experience in: #marketing, #management, #sales."
 featured: 20
+archived: "true"
 ---
 
 We’re looking for a driven demand generation manager who will be responsible for the execution of marketing programs that capture and nurture leads across multiple channels. In this role, you’ll be responsible for managing programs to generate demand via SEM, SEO, targeted social advertising, retargeting, email, and co-marketing efforts. You’ll work closely with our sales teams to execute and monitor campaigns, partner with ad agencies on our advertising, and partner with other members of the marketing team to execute integrated campaigns. You’ll play a crucial role in helping Time Doctor meet ambitious revenue goals in 2021 and beyond.

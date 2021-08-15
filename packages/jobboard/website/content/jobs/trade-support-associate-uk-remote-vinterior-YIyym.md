@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "To apply as a Trade Support Associate at Vinterior, you preferably need to have previous experience in customer care or project/sales coordination."
 summaryBackup: "To apply as a trade support associate at Vinterior, you preferably need to have some knowledge of: #operations, #sales, #branding."
 featured: 10
+archived: "true"
 ---
 
 ## Description

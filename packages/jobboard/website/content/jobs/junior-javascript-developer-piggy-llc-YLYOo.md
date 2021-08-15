@@ -13,6 +13,7 @@ companyWebsite: "https://piggy-llc.breezy.hr/"
 summary: "If you have at least 1 year experience in working as a Javascript developer, Piggy has a job opening for a Junior JavaScript Developer."
 summaryBackup: "Piggy-llc is looking for a junior javascript developer that has experience in: #javascript, #jquery, #css."
 featured: 5
+archived: "true"
 ---
 
 Joinpiggy.com is looking for JavaScript developers to join its technical team’s expansion. The ideal candidate will be based in a European time zone.

@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "If you have experience in full-stack development, building, running and debugging web applications, Nixa.io is looking for someone with your knowledge."
 summaryBackup: "Nixa.io is looking for a remote full-stack engineer that has experience in: #javascript, #reactjs, #golang."
 featured: 7
+archived: "true"
 ---
 
 ## Description

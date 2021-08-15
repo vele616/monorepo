@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 5+ years of software selling experience, Demodesk has a job opening for a Senior Account Executive"
 summaryBackup: "Excited about #sales, #management, #css? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Mission

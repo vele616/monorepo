@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "If you have 5+ years of strategic customer success or account management experience, Time Doctor has a job opening for a Senior Customer Success Manager"
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## About the Role

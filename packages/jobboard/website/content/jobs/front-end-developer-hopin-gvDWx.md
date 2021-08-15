@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a Front-End Developer that has strong experience with Twilio, OpenTok and other video softwares."
 summaryBackup: "Excited about #javascript, #reactjs, #jquery? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## The Role

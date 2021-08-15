@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor wishes to hire a new Customer Success Manager. If you have 3+ years of customer success or account management experience, consider applying."
 summaryBackup: "Excited about #management, #marketing, #sales? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## About the Role:

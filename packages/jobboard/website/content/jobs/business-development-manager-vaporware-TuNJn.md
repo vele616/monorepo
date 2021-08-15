@@ -13,6 +13,7 @@ companyWebsite: "https://www.vaporware.net/"
 summary: "To apply as a Business Development Manager at Vaporware, you preferably need to have experience refining, managing, and directing the entire sales cycle from prospecting to close."
 summaryBackup: "To apply as a business development manager at Vaporware, you preferably need to have some knowledge of: #management, #sales, #marketing."
 featured: 14
+archived: "true"
 ---
 
 The Business Development Manager (BDM) is responsible for prospecting, identifying, qualifying, pursuing and closing new business with new clients and convert them into long term clients.

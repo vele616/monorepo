@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "Time Doctor wishes to hire a new Recruiter. If you have 3-5 years recruiting experience in technology recruitment, several of which should be in a fast-paced startup environment, consider applying."
 summaryBackup: "Love #operations, #marketing, #office? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 ## About the Role

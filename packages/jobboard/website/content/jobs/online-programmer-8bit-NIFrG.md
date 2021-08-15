@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 3+ years of experience in the production of games for consoles and PC, 8Bit is looking for someone with your knowledge."
 summaryBackup: "Love #unreal, #ui/ux, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 One of the leading and most experienced Unreal Engine studios in the world that made mark on the action-shooter genre is now looking for **Online Programmer** who will work closely with other departments to create a rich online experience for players across multiple platforms.

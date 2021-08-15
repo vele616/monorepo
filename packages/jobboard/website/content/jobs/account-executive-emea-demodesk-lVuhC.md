@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk intends to hire a new Account Executive. If you have 3+ years of software selling experience, consider applying."
 summaryBackup: "To apply as an account executive emea at Demodesk, you preferably need to have some knowledge of: #sales, #management, #css."
 featured: 9
+archived: "true"
 ---
 
 ## Mission

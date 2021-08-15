@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation intends to hire a new Communications Associate. If you have experience in developing and maintaining systems and documentation for projects with multiple moving parts and stakeholders, consider applying."
 summaryBackup: "To apply as a communications associate at Wikimedia Foundation, you preferably need to have some knowledge of: #socialmedia, #content, #operations."
 featured: 8
+archived: "true"
 ---
 
 ## COMMUNICATIONS ASSOCIATE

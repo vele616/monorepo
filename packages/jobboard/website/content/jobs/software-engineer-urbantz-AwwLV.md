@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "To apply as a Software Engineer at Urbantz, you preferably need to have some knowledge of: #javascript, #kubernetes, #mongodb."
 summaryBackup: "To apply as a software engineer at Urbantz, you preferably need to have some knowledge of: #javascript, #operations, #angular."
 featured: 6
+archived: "true"
 ---
 
 ## Your talent and creative mind are needed at Urbantz !

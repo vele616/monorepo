@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "If you have experience working with design systems and design system thinking, Modern Tribe has a job opening for a WordPress Frontend Engineer"
 summaryBackup: "Love #javascript, #ui/ux, #css? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## The Opportunity

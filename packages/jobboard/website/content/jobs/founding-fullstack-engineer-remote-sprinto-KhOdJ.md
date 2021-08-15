@@ -13,6 +13,7 @@ companyWebsite: "https://sprinto.freshteam.com/jobs"
 summary: "Sprinto intends to hire a new founding fullstack engineer. If you  have professionally programmed for at least 7 years, preferably in a small team, consider applying."
 summaryBackup: "Love #reactjs, #nodejs, #css? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Sprinto is an early stage SaaS startup, working in the information security and compliance space. We are currently in private beta working with a select few customers to build a compelling product.Why work with us?

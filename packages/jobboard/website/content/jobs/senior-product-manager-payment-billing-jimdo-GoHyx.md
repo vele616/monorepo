@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "Interested in new opportunities and have 5+ years of experience as a Product Manager / Product Owner for digital products including 3+ years of experience working on billing and payment platforms or at a FinTech company? Jimdo has a job opening for a senior product manager payment & billing."
 summaryBackup: "To apply as a senior product manager payment & billing at Jimdo, you preferably need to have some knowledge of: #marketing, #css, #ui/ux."
 featured: 5
+archived: "true"
 ---
 
 ## Senior Product Manager Payment & Billing

@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "If you have 3 to 5 years of experience with several implementations and contexts, Omnipresent is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

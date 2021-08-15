@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise wishes to hire a new Program Operations Associate. If you have 1-2 years of experience in a customer facing role, consider applying."
 summaryBackup: "To apply as a program operations associate at Pathrise, you preferably need to have some knowledge of: #operations, #management, #branding."
 featured: 16
+archived: "true"
 ---
 
 **What is Pathrise?**

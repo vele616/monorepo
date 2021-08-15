@@ -13,6 +13,7 @@ companyWebsite: "https://documo.com/"
 summary: "To apply as a HR Coordinator at Documo, you preferably need to have some experience in: #HR, #management, #socialmedia."
 summaryBackup: "Excited about #HR, #management, #socialmedia? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 Documo builds document software solutions that help businesses streamline document processes. We make working with documents easy, more secure, and friendly towards our planet. We want to help drive mass adoption of paperless document technologies. We believe the way to do this is to build amazing products that solve and improve every aspect of document workflow. We couple that with our passion for customer success and our meticulous attention to design and user experience. We build solutions that are secure, easy to use, and improve business efficiency.

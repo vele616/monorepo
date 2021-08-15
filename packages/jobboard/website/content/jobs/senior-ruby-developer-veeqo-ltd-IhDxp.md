@@ -13,6 +13,7 @@ companyWebsite: "https://www.veeqo.com/"
 summary: "To apply as a Senior Ruby Developer at Veeqo, you preferably need to have knowledge and experience working with Ruby on Rails."
 summaryBackup: "Love #rubylang, #rails, #windows? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "If you have 2-5 years experience in Sales Operations, Program Management or Strategy consulting, Netlify is looking for someone with your knowledge."
 summaryBackup: "Love #sales, #operations, #management? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Company Overview

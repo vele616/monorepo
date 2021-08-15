@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is searching for a Visual Strategist that has 6+ years of experience defining and conceptualizing product strategies."
 summaryBackup: "Hopin is looking for a visual strategist that has experience in: #windows, #ui/ux, #management."
 featured: 15
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "http://www.youneedabudget.com/careers"
 summary: "If you have you have experience working remotely, YNAB is looking for someone with your knowledge."
 summaryBackup: "Love #management, #office, #branding? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## About Us and Why We're Hiring

@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "Collabora is looking for an Embedded Systems Linux Developer that has any track record of experience with direct contributions in the GNU/Linux distributions packaging."
 summaryBackup: "Love #linux, #marketing, #English? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 We are currently looking for passionate and enthusiastic Embedded Systems Linux software developers (junior, middle, senior) with Open-Source exposure to join our ever growing geographically-distributed engineering team.

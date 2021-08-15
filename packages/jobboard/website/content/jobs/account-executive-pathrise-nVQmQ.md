@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise is searching for an Account Executive that has 2+ years of experience in a sales or business development role."
 summaryBackup: "Excited about #sales, #management, #analytics? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## What is Pathrise?

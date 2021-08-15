@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "Irl is searching for a Product Manager that has 3+ years experience as a product manager or product owner."
 summaryBackup: "Irl is looking for a Product Manager that has experience in: #socialmedia, #management, #ui/ux."
 featured: 5
+archived: "true"
 ---
 
 ## Company Overview

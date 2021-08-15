@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "Fonoa Technologies is looking for a Senior Talent Partner that has experience in: ##management, #operations, #HR."
 summaryBackup: "Love #css, #branding, #management? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

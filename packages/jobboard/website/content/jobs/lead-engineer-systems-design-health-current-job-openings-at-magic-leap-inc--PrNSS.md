@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. is searching for a lead engineer that has 7+ years in a similar role of project and product development in a regulatory."
 summaryBackup: "Excited about #ui/ux, #management, #python? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job Description

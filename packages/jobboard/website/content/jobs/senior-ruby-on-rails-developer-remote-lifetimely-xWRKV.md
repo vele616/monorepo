@@ -13,6 +13,7 @@ companyWebsite: "https://lifetimely.breezy.hr/"
 summary: "Lifetimely intends to hire a new Senior Ruby on Rails Developer. If you have experience with a relational database and are good at SQL, consider applying."
 summaryBackup: "Lifetimely is looking for a senior ruby on rails developer that has experience in: #rubylang, #css, #javascript."
 featured: 5
+archived: "true"
 ---
 
 Hey there! 👋

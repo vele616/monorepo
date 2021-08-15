@@ -13,6 +13,7 @@ companyWebsite: "https://lifetimely.breezy.hr/"
 summary: "Lifetimely is looking for an Ecommerce Retention Specialist that has experience in: #marketing, #operations, #analysis."
 summaryBackup: "Excited about #marketing, #branding, #css? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 Lifetimely is a reporting tool helping 3000+ D2C brands and Shopify stores understand their returning customer behavior and lifetime value.

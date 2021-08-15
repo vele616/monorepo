@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Netlify is looking for a Data Analyst that has prior experience working with software development tools, like Git and the command line."
 summaryBackup: "To apply as a data analyst at Current Job Openings at Netlify, you preferably need to have some knowledge of: #python, #ui/ux, #management."
 featured: 10
+archived: "true"
 ---
 
 ## Company Overview

@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "Love experience in: #management, #optimization, #crm? Check out this job post!"
 summaryBackup: "Love #management, #office, #translation? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## About BMAT 

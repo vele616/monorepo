@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio"
 summary: "Customer.io is looking for a lifecycle email manager that has experience in CRM/Lifecycle campaign management or marketing content creation."
 summaryBackup: "Love #marketing, #spring, #css? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 Hi, I'm Alex, Director of Marketing at [Customer.io](https://customer.io)!

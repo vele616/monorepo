@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is looking for a head of sales that has experience in: experience in: #sales, #windows, #css."
 summaryBackup: "To apply as a head of sales at Mavenoid, you preferably need to have some knowledge of: #sales, #windows, #css."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

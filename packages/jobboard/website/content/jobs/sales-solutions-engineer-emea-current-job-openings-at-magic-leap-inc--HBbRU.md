@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "To apply as a sales solutions engineer at Magic Leap, Inc., you preferably need to have experience in “rapid prototyping” of scenarios – show what can be done with simple programming that can later turn into more complicated, enterprise."
 summaryBackup: "Love #sales, #unity, #content? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Solution Engineer (SE) - EMEA 

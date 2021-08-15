@@ -13,6 +13,7 @@ companyWebsite: "https://paperpile.com/"
 summary: "To apply as a community and product communication manager at Paperpile, you preferably need to have some knowledge of: experience in: #management, #marketing, #windows."
 summaryBackup: "Love #management, #marketing, #windows? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

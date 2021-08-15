@@ -13,6 +13,7 @@ companyWebsite: "http://kuali.co/"
 summary: "To apply as a Support Specialist at Kuali, you preferably need to have at least 3-5 years of background in customer support."
 summaryBackup: "Excited about #management, #branding, #ui/ux? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## Description

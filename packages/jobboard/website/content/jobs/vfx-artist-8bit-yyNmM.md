@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit is looking for a VFX Artist that has at least 2 years of experience with visual effects for games."
 summaryBackup: "Love #unreal, #ui/ux, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 A game development studio operating on the gaming market for 11 years, a team of veterans, with proven track records in developing and delivering top games is now looking for a **VFX Artis**t to join their team.

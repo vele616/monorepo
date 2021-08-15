@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "If you have 5 years of professional experience building web applications, Jimdo has a job opening for a backend software engineer"
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Software Engineer - Backend

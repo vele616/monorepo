@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "ChartMogul CMTDE GmbH & Co. KG is searching for a senior backend engineer that has 4+ years of experience, with at least 2 of them developing high traffic web applications."
 summaryBackup: "ChartMogul CMTDE GmbH & Co. KG is looking for a senior backend engineer that has experience in: #rails, #rubylang, #terraform."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

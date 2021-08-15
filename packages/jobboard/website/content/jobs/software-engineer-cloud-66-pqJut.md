@@ -13,6 +13,7 @@ companyWebsite: "http://www.cloud66.com/"
 summary: "Interested in new opportunities and have 3+ years of software development experience? Cloud 66 has a job opening for a Software Engineer."
 summaryBackup: "Love #rubylang, #operations, #ui/ux? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Description

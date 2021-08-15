@@ -13,6 +13,7 @@ companyWebsite: "https://www.komoot.com/jobs"
 summary: "Komoot is looking for a Senior B2B Communications Manager that has 10+ years experience in Communications/PR/b2b Marketing."
 summaryBackup: "Excited about #marketing, #branding, #management? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

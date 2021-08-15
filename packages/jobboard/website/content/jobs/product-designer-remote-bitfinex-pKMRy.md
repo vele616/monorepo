@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Bitfinex intends to hire a new Product Designer. If you have 4+ years experience working on complex products, consider applying."
 summaryBackup: "Bitfinex is looking for a product designer that has experience in: #ui/ux, #branding, #figma."
 featured: 8
+archived: "true"
 ---
 
 ## Job description

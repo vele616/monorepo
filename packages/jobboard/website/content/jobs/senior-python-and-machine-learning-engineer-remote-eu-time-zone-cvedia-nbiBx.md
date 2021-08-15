@@ -13,6 +13,7 @@ companyWebsite: "https://www.cvedia.com/"
 summary: "If you have solid experience with Python, Pytorch, OpenCV, Matplotlib, Numpy, SciPy, Cvedia has a job opening for a senior python and machine learning engineer."
 summaryBackup: "Love #python, #unity, #scrum? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop neural networks for computer vision systems (imagery-based AI). We are looking for a Senior ML Engineer to help us create more accurate neural networks that perform great when deployed on the edge.

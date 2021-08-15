@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "If you have 3 years of experience in indirect tax with relevant tax qualifications, consider applying to Fonoa Technologies's job post for a new Tax Technology Manager."
 summaryBackup: "To apply as a tax technology manager at Fonoa Technologies, you preferably need to have some knowledge of: #operations, #ui/ux, #content."
 featured: 9
+archived: "true"
 ---
 
 ## Description

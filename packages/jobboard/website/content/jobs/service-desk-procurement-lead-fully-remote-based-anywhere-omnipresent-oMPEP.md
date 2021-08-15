@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Love experience in: #operations, #management, #marketing? Check out this job post!"
 summaryBackup: "Omnipresent is looking for a service desk & procurement lead that has experience in: #operations, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Interested in new opportunities and have 5+ years of experience in product or program management of technology? Hopin has a job opening for a Senior Technical Product Manager."
 summaryBackup: "Excited about #management, #windows, #ui/ux? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "Sketch is searching for a Customer Success Manager that has experience working directly with customers, in a support or customer success role."
 summaryBackup: "Excited about #ui/ux, #management, #operations? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Do you want to be part of a team that helps >1 million designers create amazing products everyday? We are looking for **Customer Success Managers** to join our team and help build this important function at Sketch.

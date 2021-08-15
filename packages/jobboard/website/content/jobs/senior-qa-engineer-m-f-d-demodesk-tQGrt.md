@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Demodesk is looking for Senior QA Engineer with strong QA experience to test complex backend and data logic as well as Vue.js-based single-page front-end applications."
 summaryBackup: "To apply as a senior qa engineer at Demodesk, you preferably need to have some knowledge of: #linux, #content."
 featured: 20
+archived: "true"
 ---
 
 As Quality Assurance Engineer (m/f/d) you work closely together with our product teams to make sure that we deliver a high-quality product at all times. If you are also passionate about establishing best practices when it comes to testing & testing culture, this is the place for you!

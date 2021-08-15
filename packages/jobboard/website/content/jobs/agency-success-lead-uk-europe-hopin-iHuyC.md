@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 4+ years of experience working at or with a top UK/European event agency or agencies, Hopin is looking for someone with your knowledge."
 summaryBackup: "Excited about #sales, #windows, #management? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

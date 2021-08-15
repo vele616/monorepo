@@ -13,6 +13,7 @@ companyWebsite: "http://www.strongdm.com/"
 summary: "StrongDM is searching for a Marketing Coordinator that has 3-5 years of work experience in a B2B startup environment or larger B2B organization."
 summaryBackup: "To apply as a marketing coordinator at StrongDM, you preferably need to have some knowledge of: #marketing, #management, #operations."
 featured: 8
+archived: "true"
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**

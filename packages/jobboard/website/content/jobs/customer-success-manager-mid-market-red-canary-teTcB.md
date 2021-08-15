@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have 2+ years experience in an Account Management or Customer Success position at a SaaS company, consider applying to Red Canary's job post for a new Customer Success Manager."
 summaryBackup: "To apply as a customer success manager at Red Canary, you preferably need to have some knowledge of: #management, #css, #marketing."
 featured: 15
+archived: "true"
 ---
 
 **Why Red Canary**

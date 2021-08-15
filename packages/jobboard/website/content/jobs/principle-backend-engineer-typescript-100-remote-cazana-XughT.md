@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "If you are an experienced and accomplished backend software engineer and you are looking for a new challenge, Cazana is looking for someone with your knowledge."
 summaryBackup: "Cazana is looking for a principle backend engineer that has experience in: #typescript, #python, #css."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

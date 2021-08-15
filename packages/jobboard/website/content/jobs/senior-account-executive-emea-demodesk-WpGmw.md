@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "If you have 5+ years of software selling experience, Demodesk is looking for someone with your knowledge."
 summaryBackup: "Demodesk is looking for a senior account executive emea that has experience in: #sales, #management, #css."
 featured: 20
+archived: "true"
 ---
 
 ## Mission

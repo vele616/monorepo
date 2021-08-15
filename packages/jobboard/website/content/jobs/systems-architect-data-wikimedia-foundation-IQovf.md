@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "If you have experience in implementing data technologies such as relational databases, NoSQL or event streaming, Wikimedia Foundation is looking for someone with your knowledge."
 summaryBackup: "Wikimedia Foundation is looking for a systems architect that has experience in: #ui/ux, #content, #management."
 featured: 17
+archived: "true"
 ---
 
 ## Systems Architect, Data 

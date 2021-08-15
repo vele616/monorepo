@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "To apply as a Data Scientist at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
 summaryBackup: "To apply as a data scientist at Mavenoid, you preferably need to have some knowledge of: #python, #pytorch, #tensorflow."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Interested in new opportunities and have 2 years of experience? Wikimedia Foundation has a job opening for a Campaign Associate."
 summaryBackup: "Excited about #ui/ux, #css, #html? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## Campaign Associate (Contractor)

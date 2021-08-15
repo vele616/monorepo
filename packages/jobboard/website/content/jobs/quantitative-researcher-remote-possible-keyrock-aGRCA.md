@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "Keyrock is searching for a Quantitative Researcher that has prior experience in building or researching trading algorithms."
 summaryBackup: "Keyrock is looking for a quantitative researcher that has experience in: #marketing, #management, #python."
 featured: 15
+archived: "true"
 ---
 
 ## Keyrock is expanding!

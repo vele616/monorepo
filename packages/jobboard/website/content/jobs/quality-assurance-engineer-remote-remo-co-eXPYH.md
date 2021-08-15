@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "If you have 2+ years of performance and automation testing experience, Remo-co has a job opening for a quality assurance engineer"
 summaryBackup: "Love #python, #golang, #php? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 About Remo

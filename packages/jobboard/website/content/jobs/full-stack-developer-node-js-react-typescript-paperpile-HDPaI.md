@@ -13,6 +13,7 @@ companyWebsite: "https://paperpile.com/"
 summary: "Excited about experience in: #reactjs, #typescript, #javascript? Check out this job post!"
 summaryBackup: "Excited about #reactjs, #typescript, #javascript? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

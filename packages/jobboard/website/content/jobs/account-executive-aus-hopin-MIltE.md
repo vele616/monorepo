@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 3+ years of experience in Sales or Business Development, Hopin is looking for someone with your skillset."
 summaryBackup: "To apply as an account executive at Hopin, you preferably need to have some knowledge of: #sales, #windows, #crm."
 featured: 8
+archived: "true"
 ---
 
 Please note: all applications should be in English

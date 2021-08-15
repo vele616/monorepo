@@ -13,6 +13,7 @@ companyWebsite: "https://www.cvedia.com/"
 summary: "If you have ability to deliver presentations and speak to technical capabilities of the solution, Cvedia has a job opening for an AI Business Development Manager"
 summaryBackup: "Love #management, #marketing, #sales? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 CVEDIA is a funded AI company that develops deep learning solutions for some of the largest organizations on the planet. We develop and license solutions for computer vision systems. CVEDIA is seeking an ambitious and intelligent contributor to our revenue and growth. This position will be responsible for developing new business across verticals including Security, ADAS/AD, Agricultural and Infrastructure.

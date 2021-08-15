@@ -13,6 +13,7 @@ companyWebsite: "https://www.ockam.io/"
 summary: "Ockam intends to hire a new Messaging System Architect. If you have 10+ years of experience, consider applying."
 summaryBackup: "Love #ui/ux, #rustlang, #git? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 This is an exciting and challenging role on the Ockam Team. Ockam is building open source, end-to-end encrypted and mutually authenticated messaging libraries and infrastructure that is designed for the high throughput, low latency, intermittent connectivity requirements of IoT and connected machines.

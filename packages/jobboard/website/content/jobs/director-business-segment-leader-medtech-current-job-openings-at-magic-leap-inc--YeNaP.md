@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 10 years experience leading teams in the medical device industry, preferably with experience in both HW and SW as well as regulatory, Magic Leap is looking for someone with your knowledge."
 summaryBackup: "Excited about #marketing, #management, #ui/ux? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 The Business Segment Leader, MedTech owns the sub segment strategy, business justification, technical scope and product definition for their segment (MedTech).  The ideal candidate brings a wealth of know-how in the execution of healthcare products and programs from conception to release including leading product definition, product management, business, technical, and clinical strategy.  The business segment leader will be responsible for the entire lifecycle of this subsegment of the health BU.  As the subsegment expert, they will also be ultimately responsible to provide the company with advice and guidance regarding all aspects of the business, working closely with the VP, Health.

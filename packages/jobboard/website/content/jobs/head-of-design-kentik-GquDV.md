@@ -13,6 +13,7 @@ companyWebsite: "http://www.kentik.com/"
 summary: "To apply as a head of design at Kentik, you preferably need to have experience executing a cross-functional UX strategy, especially in collaboration with Product teams."
 summaryBackup: "Kentik is looking for a head of design that has experience in: #ui/ux, #management, #marketing."
 featured: 12
+archived: "true"
 ---
 
 ## About Kentik

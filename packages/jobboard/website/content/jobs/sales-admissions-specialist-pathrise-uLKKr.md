@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Pathrise is looking for a Sales Admissions Specialist that has 1+ years of experience working in sales, customer success, business development, account management, or related field."
 summaryBackup: "Love #sales, #management, #operations? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 **What is Pathrise?**

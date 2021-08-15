@@ -13,6 +13,7 @@ companyWebsite: "http://www.plentific.com/"
 summary: "To apply as a Product Manager at Plentific, you preferably need to have 3+ years experience working as a Digital Product Manager."
 summaryBackup: "Love #management, #ui/ux, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime is searching for a product designer that has 5+ years of product designing experience in a team environment."
 summaryBackup: "Hometime is looking for a product designer that has experience in: #ui/ux, #marketing, #management."
 featured: 20
+archived: "true"
 ---
 
 ## About Hometime:

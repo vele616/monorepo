@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is looking for a Technical Accounts Manager that has 5+ years experience working in a Security Operations Center."
 summaryBackup: "Love #operations, #management, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 **Who We Are**

@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "To apply as a Senior Full Stack Software Engineer at PostHog, you preferably need to have some knowledge of: #django, #ui/ux, #marketing."
 summaryBackup: "To apply as a senior full stack software engineer at PostHog, you preferably need to have some knowledge of: #django, #ui/ux, #marketing."
 featured: 2
+archived: "true"
 ---
 
 ## Description

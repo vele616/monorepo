@@ -12,6 +12,7 @@ companyWebsite: "https://creable.io/"
 summary: "Creable is searching for a Full Stack Developer that has 3+ years of working experience, developing production-ready software systems."
 summaryBackup: "To apply as a full stack developer at Creable, you preferably need to have some knowledge of: #management, #javascript, #reactjs."
 featured: 7
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "http://www.collabora.com/"
 summary: "Collabora is searching for a Linux Systems Administrator that has experience in running Linux servers and services."
 summaryBackup: "Collabora is looking for a linux systems administrator that has experience in: #management, #linux, #python."
 featured: 15
+archived: "true"
 ---
 
 Collabora is looking for a Linux System Administrator with passion for free software administration to join our sysadmin team. This role will be fully remote. You will be covering a wide swathe of technology support, ranging from installation and deployment of servers, various applications to providing troubleshooting and technical support for customer projects. Your skills will be fully utilised to mature and grow our IT infrastructure and services as demanded by a growing organisation.

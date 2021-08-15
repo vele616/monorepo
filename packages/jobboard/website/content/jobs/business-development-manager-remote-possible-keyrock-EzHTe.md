@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "Excited about #management, #sales, #finance? Check out this job post!"
 summaryBackup: "Excited about #management, #python, #sales? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Keyrock is expanding!

@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Urbantz is searching for a Sales Development Representative es that has 3 - 6 years of prospecting experience, and a track record of performance in a previous similar role."
 summaryBackup: "Urbantz is looking for a sales development representative es that has experience in: #sales, #css, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## _Do you want to work to make an impact?_

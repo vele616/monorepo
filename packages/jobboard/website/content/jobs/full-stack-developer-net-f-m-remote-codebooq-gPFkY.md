@@ -13,6 +13,7 @@ companyWebsite: "http://www.codebooq.com/"
 summary: "If you have experience as a Fullstack software developer or you have the ambition to go from Backend to Fullstack, Codebooq has a job opening for a Full Stack Developer."
 summaryBackup: "Codebooq is looking for a full stack developer .net that has experience in: #javascript, #reactjs, #angular."
 featured: 10
+archived: "true"
 ---
 
 ## Company Description

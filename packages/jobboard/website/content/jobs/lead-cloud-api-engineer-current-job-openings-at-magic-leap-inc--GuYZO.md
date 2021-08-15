@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 8+ years’ experience designing high-performance, secure, multi-tenant cloud services, Magic Leap, Inc. is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #nodejs, #python? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job Description

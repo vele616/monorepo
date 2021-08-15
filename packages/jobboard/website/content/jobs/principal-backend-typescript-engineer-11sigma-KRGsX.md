@@ -13,6 +13,7 @@ companyWebsite: "https://11sigma.com/"
 summary: "To apply as a Principal Backend Typescript engineer at 11sigma, you preferably need to have 10+ years of experience in professional software development."
 summaryBackup: "Love #typescript, #aws, #terraform? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Hi! My name is Chris, I’m the CEO of [11Sigma](https://11sigma.com/), and I’d like to invite you to join our team.
