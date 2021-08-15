@@ -13,6 +13,7 @@ companyWebsite: "https://strategy11.bamboohr.com/jobs/"
 summary: "Strategy11 wishes to hire a new Senior WordPress Developer. If you have professional experience with WordPress plugin development, architecture, and standards, consider applying."
 summaryBackup: "Excited about #php, #wordpress, #management? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 Hi! We're Strategy11. We are the company behind Formidable Forms and our newly acquired Business Directory Plugin. No matter what product we're working on, our goal is to make big projects possible without big resources, and make complex tasks simple.  Our software is running on over 300,000 websites, and our team is growing fast.  We have tons of big plans for the future, and would love for you to be a part of it.

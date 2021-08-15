@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs is searching for a Web Engineer that has experience with automated unit and integration testing and continuous integration."
 summaryBackup: "Numbrs Personal Finance AG is looking for a web engineer that has experience in: #javascript, #reactjs, #angular."
 featured: 8
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

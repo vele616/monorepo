@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT intends to hire a new Python Software Developer. If you have solid Python knowledge with 4+ years of experience, consider applying."
 summaryBackup: "To apply as a python software developer at BMAT Licensing SLU, you preferably need to have some knowledge of: #python, #ui/ux, #javascript."
 featured: 10
+archived: "true"
 ---
 
 ## About BMAT

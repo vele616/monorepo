@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "To apply as a KYC Analyst at Bitfinex, you preferably need to have some knowledge of: #analysis, #windows, #management."
 summaryBackup: "To apply as a KYC Analyst at Bitfinex, you preferably need to have some knowledge of: #analysis, #windows, #management."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

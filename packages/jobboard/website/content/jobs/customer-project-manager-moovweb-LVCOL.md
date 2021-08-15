@@ -13,6 +13,7 @@ companyWebsite: "http://www.moovweb.com/"
 summary: "Moovweb wishes to hire a new Customer Project Manager. If you have 5+ years of experience in Agile Software development as a Project, Product or Program Manager, consider applying."
 summaryBackup: "Moovweb is looking for a customer project manager that has experience in: #management, #branding, #reactjs."
 featured: 10
+archived: "true"
 ---
 
 MoovForge is a subsidiary of Moovweb, a cutting edge technology company that powers the fastest, smoothest websites on the internet. The Moovweb Platform is an Experience Delivery Network (XDN) that powers web experiences for ⅓ of Americans each month. It is trusted by some of large brands like United Airlines, Harley Davidson, Nordstrom, 1-800Flowers, four of the top seven US insurance brands, a number of the top 50 banks, and 100s of other household brand names. Spend a few minutes browsing 1800flowers.com on your phone to experience the Platform.

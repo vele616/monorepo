@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Wikimedia Foundation is searching for a Principal Database Architect that has strong programming language skills and experience designing and developing software using relational databases at large scale."
 summaryBackup: "Wikimedia Foundation is looking for a principal database architect that has experience in: #operations, #ui/ux, #python."
 featured: 10
+archived: "true"
 ---
 
 ## PRINCIPAL DATABASE ARCHITECT

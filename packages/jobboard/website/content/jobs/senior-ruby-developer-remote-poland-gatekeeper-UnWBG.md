@@ -13,6 +13,7 @@ companyWebsite: "http://www.gatekeeperhq.com/"
 summary: "Gatekeeper is searching for a Senior Ruby Developer that has experience of delivering large development projects."
 summaryBackup: "Love #rubylang, #rails, #ui/ux? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Description

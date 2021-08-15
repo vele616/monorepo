@@ -13,6 +13,7 @@ companyWebsite: "https://plural.ai/"
 summary: "Plural AI intends to hire a new Full-Stack Engineer. If you have experience with JavaScript, TypeScript, React and Python, consider applying."
 summaryBackup: "Excited about #reactjs, #typescript, #ui/ux? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Job description

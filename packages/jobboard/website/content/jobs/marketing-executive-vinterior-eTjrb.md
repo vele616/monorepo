@@ -13,6 +13,7 @@ companyWebsite: "https://www.vinterior.co/"
 summary: "If you have 3+ years in managing and monitoring performance of marketing campaigns across channels for an e-commerce business, Vinterior has a job opening for a Marketing Executive"
 summaryBackup: "Excited about #marketing, #branding, #socialmedia? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Description

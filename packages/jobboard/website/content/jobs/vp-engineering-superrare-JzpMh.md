@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "Interested in new opportunities and have 8+ years experience and 4+ years leadership experience at a startup? SuperRare has a job opening for a VP of Engineering."
 summaryBackup: "Excited about #ui/ux, #management, #marketing? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## About SuperRare

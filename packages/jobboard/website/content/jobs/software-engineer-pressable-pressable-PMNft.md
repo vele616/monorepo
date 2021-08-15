@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "If you have advanced experience with multiple programming languages and frameworks, Pressable is looking for someone with your skillset."
 summaryBackup: "To apply as a software engineer at Pressable, you preferably need to have some knowledge of: #wordpress, #rubylang, #rails."
 featured: 12
+archived: "true"
 ---
 
 Pressable is a leading provider of managed WordPress hosting. We’re looking for a hardworking developer to help us build the world’s best WordPress hosting service.

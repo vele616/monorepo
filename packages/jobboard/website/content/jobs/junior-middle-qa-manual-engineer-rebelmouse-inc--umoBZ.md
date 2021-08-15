@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "RebelMouse is looking for a Junior/Middle QA Manual Engineer that has 1+ year or experience on QA."
 summaryBackup: "To apply as a junior at RebelMouse, Inc., you preferably need to have some knowledge of: #css, #html, #ui/ux."
 featured: 14
+archived: "true"
 ---
 
 

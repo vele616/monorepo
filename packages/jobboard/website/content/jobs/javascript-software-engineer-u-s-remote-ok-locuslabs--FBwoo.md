@@ -13,6 +13,7 @@ companyWebsite: "http://www.locuslabs.com/"
 summary: "To apply as a JavaScript Software Engineer at LocusLabs, you preferably need to have 4 years or more of professional JavaScript development experience shipping enterprise-grade software."
 summaryBackup: "To apply as a javascript software engineer at LocusLabs, you preferably need to have some knowledge of: #javascript, #ui/ux, #reactjs."
 featured: 1
+archived: "true"
 ---
 
 JavaScript Software Engineer (U.S.or Europe Remote)

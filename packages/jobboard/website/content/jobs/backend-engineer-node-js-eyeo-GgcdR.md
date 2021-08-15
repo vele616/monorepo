@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 4+ years in an automation, back-end engineering or similar role, primarily Node, Eyeo is looking for someone with your knowledge."
 summaryBackup: "Eyeo is looking for a backend engineer that has experience in: #content, #ui/ux, #scrum."
 featured: 11
+archived: "true"
 ---
 
 ## Get to know us

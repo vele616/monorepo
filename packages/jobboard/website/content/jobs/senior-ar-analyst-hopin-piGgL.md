@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 4+ years Accounts Receivable experience, consider applying to Hopin's job post for a new Senior AR Analyst."
 summaryBackup: "Love #management, #sales, #office? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

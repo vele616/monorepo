@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up intends to hire a new Front End Engineer. If you have at least 3 years of experience with front-end engineering, web development, web engineering, or a similar field, consider applying."
 summaryBackup: "Excited about #javascript, #ui/ux, #css? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 The UI Engineer actively develops and maintains 10up external and internal projects using CSS , HTML, and JavaScript. They are comfortable writing maintainable, accessible, and performant HTML, CSS, and JavaScript. They are able to discuss project requirements with clients and ask applicable questions to flesh out the work.

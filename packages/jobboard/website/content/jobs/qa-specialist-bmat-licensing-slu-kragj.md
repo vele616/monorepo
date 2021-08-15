@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT is looking for a QA specialist that has 3 years of experience in testing complex web-applications."
 summaryBackup: "Excited about #scrum, #ui/ux, #management? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## About BMAT

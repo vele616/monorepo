@@ -12,6 +12,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "Irl is looking for a Senior Android Engineer that has experience in: #android, #java, #mysql."
 summaryBackup: "To apply as a senior android engineer at Irl, you preferably need to have some knowledge of: #android, #java, #php."
 featured: 5
+archived: "true"
 ---
 
 ## Company Overview

@@ -13,6 +13,7 @@ companyWebsite: "https://hubstaff.com/"
 summary: "If you have 2-3 years of experience in a growth-related position, Hubstaff is looking for someone with your knowledge."
 summaryBackup: "Excited about #marketing, #management, #ui/ux? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://cazana.com/uk"
 summary: "Interested in new opportunities and have 1-2 years experience manipulating and interpreting datasets using Python? Cazana has a job opening for an Insight Analyst."
 summaryBackup: "To apply as an insight analyst at Cazana, you preferably need to have some knowledge of: #python, #marketing, #flask."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

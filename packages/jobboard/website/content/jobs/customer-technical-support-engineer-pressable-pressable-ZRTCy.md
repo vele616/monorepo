@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pressable"
 summary: "To apply as a Customer Technical Support Engineer at Pressable, you preferably need to have knowledge and experience with common web technologies."
 summaryBackup: "Excited about #wordpress, #javascript, #php? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 As a Customer Technical Support Engineer, you’ll craft our customer experience.

@@ -13,6 +13,7 @@ companyWebsite: "https://kinsta.com/"
 summary: "Kinsta is searching for an account executive that has 1-2 years of experience as an Account Executive in software sales."
 summaryBackup: "Excited about #sales, #accountant, #wordpress? Check out this job post!"
 featured: 0
+archived: "true"
 ---
 
 ## Description

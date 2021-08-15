@@ -13,6 +13,7 @@ companyWebsite: "https://gitbook.com/"
 summary: "Excited about #management,#analytics,#English? Check out this job post!"
 summaryBackup: "Excited about #management, #sales, #css? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 GitBook is a **modern documentation platform** backed by some of the best SaaS europeans VCs (Point 9 Capital, Notion Capital, Fly VC). Our ambition is to **empower team's intelligence.** We want to help **teams work more efficiently** by creating a single place to leverage their knowledge.

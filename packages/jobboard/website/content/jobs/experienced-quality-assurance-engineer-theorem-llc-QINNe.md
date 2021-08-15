@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "If you have 5+ years of professional experience working as a Quality Assurance Engineer and/or Software Engineer, Theorem is looking for someone with your skillset."
 summaryBackup: "To apply as an experienced quality assurance engineer at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #nodejs, #python."
 featured: 7
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.

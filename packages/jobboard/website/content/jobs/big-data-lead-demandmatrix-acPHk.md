@@ -13,6 +13,7 @@ companyWebsite: "http://www.demandmatrix.com/"
 summary: "DemandMatrix is searching for a Big Data Lead that has 3 years of experience to build services and pipelines using Python."
 summaryBackup: "DemandMatrix is looking for a big data lead that has experience in: #python, #googlecloud, #spark."
 featured: 8
+archived: "true"
 ---
 
 ## Company Description

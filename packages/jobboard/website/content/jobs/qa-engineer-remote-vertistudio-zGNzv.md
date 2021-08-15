@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio intends to hire a new qa engineer. If you have previous experience with WordPress, consider applying."
 summaryBackup: "VertiStudio is looking for a qa engineer that has experience in: #wordpress, #ui/ux, #content."
 featured: 15
+archived: "true"
 ---
 
 Are you a creative person, passionate about testing and automation?

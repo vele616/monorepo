@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT  wishes to hire a new Frontend Developer. If you have experience with Angular 2x, consider applying."
 summaryBackup: "Love #javascript, #angular, #typescript? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## About BMAT

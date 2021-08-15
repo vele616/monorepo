@@ -13,6 +13,7 @@ companyWebsite: "https://www.revenuecat.com/"
 summary: "To apply as a developer advocate at RevenueCat, you preferably need to have 4+ years experience in app development."
 summaryBackup: "To apply as a developer advocate at RevenueCat, you preferably need to have some knowledge of: #content, #management, #marketing."
 featured: 7
+archived: "true"
 ---
 
 At RevenueCat, we make selling subscriptions in your mobile app easy. We launched as part of Y Combinator's summer 2018 batch and today are handling subscriptions for more than 10 million mobile subscriptions across thousands of apps. We are a mission driven, remote-first company that is building the foundation of mobile subscription infrastructure. Top apps like WidgetSmith, Buffer, and Fishbrain count on RevenueCat to power their subscriptions at scale.

@@ -13,6 +13,7 @@ companyWebsite: "https://shorthand.freshteam.com/jobs"
 summary: "If you have 2 years professional experience with a broad set of research tools, consider applying to Shorthand's job post for a new UX Researcher."
 summaryBackup: "Excited about #ui/ux, #css, #branding? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## The Opportunity

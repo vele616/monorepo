@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years of industry experience as a software developer, coding & debugging in C/C++, C#, Java, Python, and/or Golang within a cloud environment, Magic Leap is looking for someone with your knowledge."
 summaryBackup: "To apply as a lead at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #ui/ux, #management, #python."
 featured: 3
+archived: "true"
 ---
 
 *   ## Job Description

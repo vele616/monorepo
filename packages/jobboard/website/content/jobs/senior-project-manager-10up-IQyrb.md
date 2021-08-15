@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up is looking for a Senior Project Manager that has 3+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment."
 summaryBackup: "10up is looking for a senior project manager that has experience in: #content, #ui/ux, #management."
 featured: 9
+archived: "true"
 ---
 
 ## Responsibilities

@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Intellum wishes to hire a new Customer Success Manager. If you have 5+ years in customer success role with technical experience, consider applying."
 summaryBackup: "Intellum is looking for a customer success manager that has experience in: #css, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## Description

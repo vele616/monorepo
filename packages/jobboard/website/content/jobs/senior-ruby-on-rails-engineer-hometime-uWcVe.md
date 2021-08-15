@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "If you have experience with using React with Rails, Hometime is looking for someone with your knowledge."
 summaryBackup: "Excited about #rails, #rubylang, #operations? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 ## About Hometime:

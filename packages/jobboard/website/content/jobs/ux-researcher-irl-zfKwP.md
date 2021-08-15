@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "If you have solid understanding of UX Research methods with the ability to choose and articulate study design to stakeholders, IRL is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #socialmedia? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Company Overview

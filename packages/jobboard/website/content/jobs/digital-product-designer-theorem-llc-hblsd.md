@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "Theorem wishes to hire a new Digital Product Designer. If you have experience designing for longterm, complex features/products from inception to launch, consider applying."
 summaryBackup: "To apply as a digital product designer at Theorem, LLC, you preferably need to have some knowledge of: #management, #javascript, #figma."
 featured: 5
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.

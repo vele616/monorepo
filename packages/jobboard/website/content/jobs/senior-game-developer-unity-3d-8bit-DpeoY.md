@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "To apply as a Senior Game Developer at 8Bit, you preferably need to have 5+ years of professional experience of which at least 3 in game development."
 summaryBackup: "8Bit is looking for a senior game developer that has experience in: #unity, #java, #branding."
 featured: 14
+archived: "true"
 ---
 
 We are hiring for **a brand new casual mobile studio** based in a fancy Warsaw office. Our client is a leading FTP producer with 30 million users worldwide every month and 200+ games under their belt.

@@ -13,6 +13,7 @@ companyWebsite: "https://www.ably.io/careers"
 summary: "If you have 8 years of experience within software pre-sales engineering, Ably is looking for someone with your knowledge."
 summaryBackup: "Ably is looking for a pre-sales solution engineer that has experience in: #sales, #translation, #management."
 featured: 3
+archived: "true"
 ---
 
 ## Job description

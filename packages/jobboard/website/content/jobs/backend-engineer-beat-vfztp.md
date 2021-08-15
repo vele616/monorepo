@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Interested in new opportunities and have 3+ years of experience? Beat has a job opening for a backend engineer."
 summaryBackup: "Beat is looking for a backend engineer that has experience in: #ui/ux, #python, #java."
 featured: 20
+archived: "true"
 ---
 
  About us 

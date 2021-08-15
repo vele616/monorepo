@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "If you have experience of designing compute infrastructure in AWS, managing multi-cloud environments and conducted service migrations, consider applying to Netlify's job post for a new Principal Infrastructure Engineer."
 summaryBackup: "To apply as a principal infrastructure engineer at Current Job Openings at Netlify, you preferably need to have some knowledge of: #ui/ux, #operations, #golang."
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

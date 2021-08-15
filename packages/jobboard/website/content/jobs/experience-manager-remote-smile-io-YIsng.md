@@ -13,6 +13,7 @@ companyWebsite: "https://smile.io/"
 summary: "Smile.io is searching for an Experience Manager that have past experience as a Customer Success Manager at a SaaS company."
 summaryBackup: "Excited about #management, #javascript, #css? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "http://3boxlabs.com/"
 summary: "To apply as a Full Stack Engineer at 3Box Labs, you preferably need to have some knowledge of: #javascript, #ui/ux, #management."
 summaryBackup: "Love #javascript, #ui/ux, #management? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 Do you want to help developers and users reclaim the web with a brand new technology to directly manage our information and identities online?

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a Senior UX Writer that has 6+ years of experience in a similar role."
 summaryBackup: "Excited about #branding, #ui/ux, #content? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

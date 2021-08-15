@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "If you have experience building high performance, distributed systems, consider applying to Primer's job post for a new backend engineer."
 summaryBackup: "Excited about #python, #ui/ux, #kubernetes? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

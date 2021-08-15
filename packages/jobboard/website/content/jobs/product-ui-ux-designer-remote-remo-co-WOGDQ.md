@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Interested in new opportunities and have 3+ years of experience designing and building B2B software and visual web applications with a consumer end-user? Remo-co has a job opening for a product ui."
 summaryBackup: "Remo-co is looking for a product ui that has experience in: #ui/ux, #branding, #management."
 featured: 5
+archived: "true"
 ---
 
 ## About Remo

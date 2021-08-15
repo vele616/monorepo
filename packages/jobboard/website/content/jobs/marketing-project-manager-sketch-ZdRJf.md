@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have 3+ years in a Project Management role gained from a digital agency background, consider applying to Sketch's job post for a new marketing project manager."
 summaryBackup: "Sketch is looking for a marketing project manager that has experience in: #management, #marketing, #ui/ux."
 featured: 20
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products. Would you like to join us and help take this leading design tool to the next level? If so, we're looking to expand our Marketing team with a full-time **Project Manager.**

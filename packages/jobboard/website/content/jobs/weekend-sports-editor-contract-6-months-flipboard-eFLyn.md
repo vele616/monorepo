@@ -13,6 +13,7 @@ companyWebsite: "https://about.flipboard.com/careers/"
 summary: "Flipboard intends to hire a new Weekend/Sports Editor. If you have 5 years experience editing and/or curating news content for a digital platform, consider applying."
 summaryBackup: "Love #content, #android, #ios? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Flipboard is a content discovery platform for your passions, interests, and news. Available on web, iOS, and Android, Flipboard offers the world important and influential articles shared by the greatest publishers and our awesome Flipboard community to advance conversation, keep people informed, and inspire them to engage, learn, and lead.

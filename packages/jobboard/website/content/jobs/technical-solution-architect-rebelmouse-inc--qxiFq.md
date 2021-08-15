@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "RebelMouse, Inc. wishes to hire a new technical solution architect. If you have strong experience with HTML/CSS, consider applying."
 summaryBackup: "Excited about #reactjs, #css, #html? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.perdoo.com/"
 summary: "Perdoo is searching for a Full Stack Web Engineer that has 4+ years of full-time, professional, web development experience."
 summaryBackup: "Perdoo is looking for a full stack web engineer that has experience in: #reactjs, #django, #management."
 featured: 1
+archived: "true"
 ---
 
 ## Job description

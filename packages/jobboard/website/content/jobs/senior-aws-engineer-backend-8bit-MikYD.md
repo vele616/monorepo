@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 4+ years of relevant work experience, 8Bit is looking for someone with your skillset."
 summaryBackup: "8Bit is looking for a senior aws engineer that has experience in: #aws, #nodejs, #python."
 featured: 8
+archived: "true"
 ---
 
 Our Client is an international, award-winning entertainment company providing unique and deeply engaging mobile games that are played by tens of millions of people across the globe. 

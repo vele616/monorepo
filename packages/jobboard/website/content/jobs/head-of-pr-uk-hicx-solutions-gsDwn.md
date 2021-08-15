@@ -13,6 +13,7 @@ companyWebsite: "http://www.hicxsolutions.com/"
 summary: "To apply as a Head of PR at HICX, you preferably need to have some knowledge of: #management, #marketing, #analysis."
 summaryBackup: "To apply as a head of pr at Hicx-solutions, you preferably need to have some knowledge of: #management, #marketing, #analysis."
 featured: 19
+archived: "true"
 ---
 
 HICX delivers extraordinary value to some of the largest companies in the world by fixing one of the most challenging problems they face.

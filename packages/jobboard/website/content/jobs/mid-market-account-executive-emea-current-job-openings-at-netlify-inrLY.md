@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Netlify is searching for a mid market account executive that has 3+ years of mid-market sales experience, ideally with a highly technical cloud service."
 summaryBackup: "Excited about #sales, #ui/ux, #git? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

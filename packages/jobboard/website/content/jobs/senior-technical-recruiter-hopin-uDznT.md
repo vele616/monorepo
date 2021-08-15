@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new senior technical recruiter. If you have 5 years of experience in Tech Recruitment in fast paced environments, consider applying."
 summaryBackup: "Excited about #management, #socialmedia, #css? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## 

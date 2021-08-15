@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "If you have 10 years experience of large scale international tech-enabled transformations, Riverflex has a job opening for a Transformation Lead"
 summaryBackup: "Riverflex is looking for a transformation lead that has experience in: #management, #marketing, #finance."
 featured: 19
+archived: "true"
 ---
 
 ## Job description

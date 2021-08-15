@@ -13,6 +13,7 @@ companyWebsite: "https://www.mobymax.com/"
 summary: "Mobymax is searching for an Automation QA Engineer that has experience with TestNG or JUnit, xUnit libraries, and implementing test listeners."
 summaryBackup: "Love #java, #spring, #ui/ux? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## About Us

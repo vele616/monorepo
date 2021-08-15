@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "If you have 2+ years of experience in a consulting, sales, or business development role, consider applying to Netlify's job post for a new Account Manager."
 summaryBackup: "To apply as an account manager at Current Job Openings at Netlify, you preferably need to have some knowledge of: #sales, #management, #ui/ux."
 featured: 17
+archived: "true"
 ---
 
 ## Company Overview

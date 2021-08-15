@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Interested in new opportunities and have experience in supporting complex web applications running on Amazon Web Services or other comparable cloud platforms? Wikimedia Foundation has a job opening for a Senior Software Engineer."
 summaryBackup: "To apply as a senior software engineer at Wikimedia Foundation, you preferably need to have some knowledge of: #operations, #nodejs, #python."
 featured: 4
+archived: "true"
 ---
 
 ## Senior Software Engineer

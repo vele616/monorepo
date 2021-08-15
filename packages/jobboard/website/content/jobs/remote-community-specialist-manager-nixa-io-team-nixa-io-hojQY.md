@@ -13,6 +13,7 @@ companyWebsite: "http://www.nixa.io/"
 summary: "If you have 1-3 years of professional experience with community management, content creation, social media management or tech recruitment, Nixa.io is looking for someone with your knowledge."
 summaryBackup: "Love #marketing, #socialmedia, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Description

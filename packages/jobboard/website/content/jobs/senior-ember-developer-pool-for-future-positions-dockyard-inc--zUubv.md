@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "If you have experience developing single page applications with Ember, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #rails, #rubylang? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job description

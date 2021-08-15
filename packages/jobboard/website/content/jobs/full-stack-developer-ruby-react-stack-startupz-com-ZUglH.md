@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Interested in new opportunities and have experience working with Ruby? Startupz has a job opening for a full stack developer."
 summaryBackup: "To apply as a full stack developer at Startupz.com, you preferably need to have some knowledge of: #reactjs, #rubylang, #python."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

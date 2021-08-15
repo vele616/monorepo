@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "ChartMogul intends to hire a new Senior Ruby Engineer. If you have 4+ years of professional experience as a backend engineer, with at least 2 of them in developing high traffic web applications, consider applying."
 summaryBackup: "To apply as a senior ruby engineer at ChartMogul, you preferably need to have some knowledge of: #rubylang, #rustlang, #rails."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

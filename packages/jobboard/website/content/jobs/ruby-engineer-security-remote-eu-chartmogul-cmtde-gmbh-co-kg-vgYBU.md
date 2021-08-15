@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "If you have 4+ years of work experience as a ruby engineer, consider applying to ChartMogul CMTDE GmbH & Co. KG's job post for a new ruby engineer."
 summaryBackup: "Excited about #rubylang, #javascript, #golang? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description

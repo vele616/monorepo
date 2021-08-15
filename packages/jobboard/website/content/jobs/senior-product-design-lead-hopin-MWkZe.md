@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "To apply as a Senior Product Design Lead at Hopin, you preferably need to have 6+ years of experience in Product Design."
 summaryBackup: "To apply as a senior product design lead at Hopin, you preferably need to have some knowledge of: #ui/ux, #management, #office."
 featured: 20
+archived: "true"
 ---
 
 ## The Role

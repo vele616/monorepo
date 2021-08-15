@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "Theorem is searching for a Technical Business Analyst that has 4-7 years of directly related experience."
 summaryBackup: "To apply as a technical business analyst at Theorem, LLC, you preferably need to have some knowledge of: #ui/ux, #operations, #management."
 featured: 13
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.

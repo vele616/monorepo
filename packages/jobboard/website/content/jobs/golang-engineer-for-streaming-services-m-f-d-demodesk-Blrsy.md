@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "Excited about #golang, #nodejs or #clojure? Check out this job post!"
 summaryBackup: "Excited about #golang, #nodejs, #clojure? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 Your Mission:

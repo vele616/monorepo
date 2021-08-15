@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "Brave wishes to hire a new Ad Ops Manager. If you have 2 - 7 years work experience in Ad Operations, consider applying."
 summaryBackup: "Excited about #operations, #management, #javascript? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Ad Ops Manager- EMEA

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/bryter"
 summary: "BRYTER intends to hire a new In-house Legal Engineer. If you have solid experience in working with various market standard tools for document analysis and automation, consider applying."
 summaryBackup: "Love #css, #marketing, #analysis? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Being an In-house Legal Engineer with us

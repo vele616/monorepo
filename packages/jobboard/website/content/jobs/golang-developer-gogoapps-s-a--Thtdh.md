@@ -12,6 +12,7 @@ companyWebsite: "http://www.gogoapps.io/"
 summary: "GogoApps is searching for a Golang Developer that has experience with Docker and Kubernetes."
 summaryBackup: "Excited about #kubernetes, #golang, #terraform? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

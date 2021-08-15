@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "Fonoa Technologies is looking for a senior backend engineer that has 5 years experience in software development, with at least 3 of them designing and working on high-scale environments, ideally in C# or NodeJS alternatively."
 summaryBackup: "Love #ui/ux, #operations, #nodejs? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

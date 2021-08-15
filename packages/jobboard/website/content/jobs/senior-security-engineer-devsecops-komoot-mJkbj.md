@@ -31,7 +31,8 @@ Location: Remote (Must be within the UTC-1 to UTC+3 timezone)
 
 Employment Type: Full Time, Permanent role
 
-\----
+\-archived: "true"
+---
 
 **Why you will love it**
 

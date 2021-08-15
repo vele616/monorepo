@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "Love experience in: #operations, #management, #marketing? Check out this job post!"
 summaryBackup: "Pleo is looking for a payments specialist that has experience in: #operations, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 

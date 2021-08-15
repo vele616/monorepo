@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo is looking for a chromium software engineer that has 4+ years of software development experience."
 summaryBackup: "To apply as a chromium software engineer at Eyeo, you preferably need to have some knowledge of: #javascript, #java, #python."
 featured: 6
+archived: "true"
 ---
 
 ## Get to know us

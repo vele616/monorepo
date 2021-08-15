@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "Irl is looking for a Senior Backend Engineer that has 5+ years in backend software development."
 summaryBackup: "Excited about #python, #laravel, #php? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Company Overview

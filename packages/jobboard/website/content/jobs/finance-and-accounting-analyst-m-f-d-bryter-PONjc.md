@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/bryter"
 summary: "If you have 2 years of experience with accounting, consider applying to BRYTER's job post for a new Finance and Accounting Analyst."
 summaryBackup: "BRYTER is looking for a finance and accounting analyst that has experience in: #management, #css, #operations."
 featured: 11
+archived: "true"
 ---
 
 ## Get an Impression of the Team:

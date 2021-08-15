@@ -13,6 +13,7 @@ companyWebsite: "https://auth0.com/"
 summary: "If you have 4+ years of software development experience, Auth0 is looking for someone with your knowledge."
 summaryBackup: "To apply as a software engineer at Auth0, you preferably need to have some knowledge of: #ui/ux, #kubernetes, #docker."
 featured: 7
+archived: "true"
 ---
 
 Awesome tech is made by awesome people. And we’re always looking for new team members who bring the energy, passion, commitment, and collaboration that has made Auth0 the great company it is today.

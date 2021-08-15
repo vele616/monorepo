@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "If you have 3+ years in instructional writing, technical writing, or a similar role in a software company, ideally in SaaS, ChartMogul is looking for someone with your skillset."
 summaryBackup: "ChartMogul is looking for a senior instructional designer that has experience in: #ui/ux, #css, #content."
 featured: 13
+archived: "true"
 ---
 
 ## Job description

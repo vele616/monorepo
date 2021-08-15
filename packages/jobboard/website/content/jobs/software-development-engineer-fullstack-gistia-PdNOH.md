@@ -13,6 +13,7 @@ companyWebsite: "https://gistia.breezy.hr/"
 summary: "If you have 3 years of experience, having built, delivered, and maintained at least 2-3 applications, back to front, Gistia has a job opening for a Software Development Engineer"
 summaryBackup: "Excited about #reactjs, #java, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Keyword Search:

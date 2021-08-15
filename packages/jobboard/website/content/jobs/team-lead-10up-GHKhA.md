@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "If you have 3+ years of project management experience delivering full scope web projects for enterprise clients, ideally in an agency environment, 10up has a job opening for a Team Lead"
 summaryBackup: "10up is looking for a team lead that has experience in: #ui/ux, #content, #management."
 featured: 20
+archived: "true"
 ---
 
 Team Leads are responsible for managing the successful delivery of client work, project-centric operations, and personnel in a team. The primary functions include: driving excellent project outcomes in alignment with established scopes, timelines, and budgets for multiple, concurrent projects; incorporating 10up standards and processes in the delivery of client work; managing personnel assigned to a team; expertly collaborating with discipline directors and the Accounts team to deliver on client expectations; and managing to established production metrics (billable targets, forecasting accuracy, etc.).

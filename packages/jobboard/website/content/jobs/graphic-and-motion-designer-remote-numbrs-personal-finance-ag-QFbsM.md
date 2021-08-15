@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "If you have 5 years of experience as graphic designer for a product or design company, advertising agency or in-house creative environment, Numbrs is looking for someone with your knowledge."
 summaryBackup: "To apply as a graphic and motion designer at Numbrs Personal Finance AG, you preferably need to have some knowledge of: #ui/ux, #management, #content."
 featured: 11
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

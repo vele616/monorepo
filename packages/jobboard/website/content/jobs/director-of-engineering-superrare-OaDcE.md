@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.co/"
 summary: "Interested in new opportunities and have 8+ years experience and 4+ years leadership experience at a startup? Superrare has a job opening for a Director of Engineering."
 summaryBackup: "Superrare is looking for a director of engineering that has experience in: #ui/ux, #management, #marketing."
 featured: 10
+archived: "true"
 ---
 
 ## About SuperRare

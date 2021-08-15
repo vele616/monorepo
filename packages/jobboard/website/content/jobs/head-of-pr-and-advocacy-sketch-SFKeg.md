@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have 4+ years in a PR role at a senior level within a SaaS or design-tech company, Sketch is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #branding, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take this leading design tool to the next level? We're looking to expand our team and appoint a motivated and brilliant communications leader as the Head of PR and Advocacy.

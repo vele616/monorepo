@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 5 years of job experience in HR in international and fast-growing organizations, Eyeo has a job opening for a Human Resources Business Partner"
 summaryBackup: "Love #scrum, #operations, #content? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Get to know us

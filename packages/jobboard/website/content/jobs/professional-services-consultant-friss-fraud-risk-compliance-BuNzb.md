@@ -13,6 +13,7 @@ companyWebsite: "https://www.friss.com/"
 summary: "Excited about experience in: #management, #optimization, #French? Check out this job post!"
 summaryBackup: "FRISS | fraud, risk & compliance is looking for a professional services consultant that has experience in: #management, #office, #French."
 featured: 20
+archived: "true"
 ---
 
 ## Job description

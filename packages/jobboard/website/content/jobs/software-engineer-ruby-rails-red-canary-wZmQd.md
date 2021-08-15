@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is searching for a software engineer that has have experience with Javascript, HAML, Redis, Postgres, AWS, Docker or some combination of similar tech."
 summaryBackup: "Red Canary is looking for a software engineer that has experience in: #rails, #rubylang, #javascript."
 featured: 20
+archived: "true"
 ---
 
 **Why Red Canary**

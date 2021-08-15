@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "If you have at least two years of experience in ad operations including trafficking, yield management, and private marketplace deals, 10up is looking for someone with your knowledge."
 summaryBackup: "Love #operations, #optimization, #wordpress? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 The AcceleRev Ad Ops Specialist is responsible for the day-to-day ad operations of our program’s largest client. This person has a high attention to detail in implementing and optimizing direct and programmatic revenue and has a proven track record of increasing revenue through their strategic approach to yield optimization. Highly analytical, this person will proactively leverage data to identify issues in delivery and opportunities to increase revenue. The AcceleRev Ad Ops Specialist will report to the AcceleRev Program Director.

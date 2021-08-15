@@ -13,6 +13,7 @@ companyWebsite: "https://firstandthird.applytojob.com/apply/firstandthird.com"
 summary: "First+Third is searching for a Front End Engineer that has 2+ years of experience as a front-end developer."
 summaryBackup: "To apply as a front end engineer at First+Third, you preferably need to have some knowledge of: #css, #javascript, #ui/ux."
 featured: 12
+archived: "true"
 ---
 
 ## Overview Of Role: 

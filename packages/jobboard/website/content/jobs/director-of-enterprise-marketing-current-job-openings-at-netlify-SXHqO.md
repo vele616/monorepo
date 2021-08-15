@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "Netlify is looking for a Director of Enterprise Marketing that has experience in: #marketing, #management, #sales."
 summaryBackup: "Current Job Openings at Netlify is looking for a director of enterprise marketing that has experience in: #marketing, #management, #sales."
 featured: 8
+archived: "true"
 ---
 
 ## Company Overview

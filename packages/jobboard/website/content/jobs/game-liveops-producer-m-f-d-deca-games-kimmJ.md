@@ -13,6 +13,7 @@ companyWebsite: "https://decagames.com/"
 summary: "Deca Games is looking for a Game LiveOps Producer that has experience in a similar role in the gaming industry."
 summaryBackup: "To apply as a game liveops producer at Deca-games, you preferably need to have some knowledge of: #management, #content, #operations."
 featured: 5
+archived: "true"
 ---
 
 We are looking for a Game LiveOps Producer / Coordinator with a passion for video games to join us and work remotely. As a Game LiveOps Producer / Coordinator, you will have the chance to work on some cool older mobile game titles and live operate them with a big impact on game revenue and player retention. In collaboration with both internal and external partners, you will be a core contributor working on game overall performance in a critical data driven role.

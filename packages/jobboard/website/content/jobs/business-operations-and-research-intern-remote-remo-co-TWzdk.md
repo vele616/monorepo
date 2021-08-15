@@ -13,6 +13,7 @@ companyWebsite: "https://remo1.freshteam.com/jobs"
 summary: "Excited about experience in: #operations, #analysis, #finance? Check out this job post!"
 summaryBackup: "Remo-co is looking for a business operations and research intern that has experience in: #operations, #marketing, #HR."
 featured: 20
+archived: "true"
 ---
 
 Main Responsibilities: 

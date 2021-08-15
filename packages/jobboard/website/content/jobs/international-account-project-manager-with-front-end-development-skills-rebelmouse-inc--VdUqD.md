@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "RebelMouse, Inc. is looking for an Account/Project Manager with Front End Development Skills that has 5+ years of relevant experience."
 summaryBackup: "RebelMouse, Inc. is looking for an international :  account that has experience in: #css, #html, #windows."
 featured: 20
+archived: "true"
 ---
 
 ## Job description

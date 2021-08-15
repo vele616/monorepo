@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit intends to hire a new Technical Artist. If you have experience with various software packages, consider applying."
 summaryBackup: "Love #unreal, #ui/ux, #photoshop? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 An independent game development studio located in Warsaw, Poland is looking for a **Technical Artist** to join their team and work on an unannounced FPP sci-fi/neo cyber project.

@@ -13,6 +13,7 @@ companyWebsite: "http://pathrise.com/"
 summary: "Interested in new opportunities and have 3 years of industry experience with product management? Pathrise has a job opening for a Product Mentor."
 summaryBackup: "Pathrise is looking for a product mentor that has experience in: #management, #marketing, #windows."
 featured: 8
+archived: "true"
 ---
 
 ## What is Pathrise?

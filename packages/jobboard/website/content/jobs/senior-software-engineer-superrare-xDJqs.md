@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "If you have experience optimizing PostgreSQL or other SQL queries as well as performant table design, SuperRare is looking for someone with your skillset."
 summaryBackup: "Excited about #ui/ux, #javascript, #reactjs? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 ## About SuperRare

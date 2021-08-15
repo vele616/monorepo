@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have 2 years of experience as a recruiter, consider applying to Curebase's job post for a new Technical Recruiter."
 summaryBackup: "To apply as a technical recruiter at Curebase, you preferably need to have some knowledge of: #git, #management, #marketing."
 featured: 12
+archived: "true"
 ---
 
 ## Are you interested in recruiting high quality candidates for a variety of roles at a fast growing startup company?

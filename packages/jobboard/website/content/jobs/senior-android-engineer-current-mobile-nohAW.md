@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "To apply as a Senior Android Engineer at Current Mobile, you preferably need to have some knowledge of: experience in: #android, #kotlin, #java."
 summaryBackup: "Current Mobile is looking for a senior android engineer that has experience in: #android, #kotlin, #java."
 featured: 6
+archived: "true"
 ---
 
 ## The Engagement Team

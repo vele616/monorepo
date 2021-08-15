@@ -13,6 +13,7 @@ companyWebsite: "http://www.kentik.com/"
 summary: "Kentik is looking for a Senior Product Marketing Manager that has experience in: #marketing, #content, #management."
 summaryBackup: "Love #marketing, #content, #sales? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## About Kentik

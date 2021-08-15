@@ -13,6 +13,7 @@ companyWebsite: "https://www.riverflex.com/"
 summary: "If you have proven experience in delivering digitalcommerce, content and analytics solutions, Riverflex is looking for someone with your skillset."
 summaryBackup: "Riverflex is looking for an interim digital cto that has experience in: #marketing, #management, #operations."
 featured: 9
+archived: "true"
 ---
 
 ## Job description

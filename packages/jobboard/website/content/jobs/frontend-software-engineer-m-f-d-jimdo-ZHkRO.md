@@ -13,6 +13,7 @@ companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=P
 summary: "Jimdo intends to hire a new frontend software engineer. If you have you enjoy and have experience building web applications professionally, consider applying."
 summaryBackup: "Jimdo is looking for a frontend software engineer that has experience in: #javascript, #reactjs, #html."
 featured: 5
+archived: "true"
 ---
 
 ## Software Engineer - Frontend

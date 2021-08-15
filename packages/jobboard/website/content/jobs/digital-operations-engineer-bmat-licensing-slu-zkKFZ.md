@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT is looking for a Digital Operations Engineer that has some experience in music publishing operations, preferably at a Collective Management Organization, music publisher, or DSP."
 summaryBackup: "Love #python, #operations, #javascript? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## About BMAT 

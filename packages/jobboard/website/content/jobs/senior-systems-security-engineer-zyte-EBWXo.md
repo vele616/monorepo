@@ -13,6 +13,7 @@ companyWebsite: "https://zyte.com/"
 summary: "If you have 5+ years experience as a System Security Engineer or Information Security Engineer, Zyte is looking for someone with your skillset."
 summaryBackup: "Love #content, #ui/ux, #operations? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 ## Description

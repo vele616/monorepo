@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have experience in working in an international environment, Startupz is looking for someone with your skillset."
 summaryBackup: "Love #management, #ui/ux, #operations? Check out this job post!"
 featured: 14
+archived: "true"
 ---
 
 ## Job description

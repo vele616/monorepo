@@ -13,6 +13,7 @@ companyWebsite: "http://www.fonoatech.com/"
 summary: "Fonoa Technologies is searching for a senior platform that has 3+ years of experience in Platform Engineering, SRE, and/or DevOps positions."
 summaryBackup: "To apply as a senior platform at Fonoa Technologies, you preferably need to have some knowledge of: #azure, #aws, #css."
 featured: 20
+archived: "true"
 ---
 
 ## Description

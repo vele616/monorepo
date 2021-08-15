@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years of sales enablement experience, Hopin is looking for someone with your skillset."
 summaryBackup: "Hopin is looking for a head of sales and gtm enablement that has experience in: #sales, #css, #windows."
 featured: 20
+archived: "true"
 ---
 
 ## The Role

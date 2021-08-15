@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Interested in new opportunities and have experiance in: #javascript, #angular, #nodejs? Urbantz has a job opening for a Software Engineer."
 summaryBackup: "Love #javascript, #angular, #nodejs? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 _Your talent and creative mind are needed at Urbantz !_

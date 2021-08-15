@@ -13,6 +13,7 @@ companyWebsite: "https://zyte.com/"
 summary: "Interested in new opportunities and have 5+ years of technical project management experience, coupled with People Management responsibility? Zyte has a job opening for a Project Manager."
 summaryBackup: "Zyte is looking for a project manager that has experience in: #management, #sales, #office."
 featured: 13
+archived: "true"
 ---
 
 ## Description

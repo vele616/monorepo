@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "Interested in new opportunities and have 4+ years experience in sales and/or delivery of digital product services? DockYard, Inc. has a job opening for a senior business development executive."
 summaryBackup: "To apply as a senior business development executive at DockYard, Inc., you preferably need to have some knowledge of: #sales, #ui/ux, #management."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

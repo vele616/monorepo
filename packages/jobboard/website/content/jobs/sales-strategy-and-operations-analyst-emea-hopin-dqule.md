@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is searching for a Sales Strategy and Operations Analyst that has 1-3+ years of sales operations, management consulting, or equivalent experience."
 summaryBackup: "Excited about #sales, #management, #operations? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

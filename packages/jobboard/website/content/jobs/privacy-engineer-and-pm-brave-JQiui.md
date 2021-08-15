@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "To apply as a privacy engineer and pm at Brave, you preferably need to have experience working in Chromium or similarly large, multi-stakeholder code bases a deep understanding of the Web and trends in Web privacy."
 summaryBackup: "To apply as a privacy engineer and pm at Brave, you preferably need to have some knowledge of: #management, #javascript, #ios."
 featured: 20
+archived: "true"
 ---
 
 Brave is looking for a privacy engineer who is also interested in project management responsibilities. The position would be split between implementing new privacy features, and helping oversee other parts of Brave’s privacy projects.

@@ -13,6 +13,7 @@ companyWebsite: "https://tri.be/"
 summary: "If you have 5+ years experience working as a backend web developer on production sites, Modern Tribe has a job opening for a Senior WordPress Engineer"
 summaryBackup: "Excited about #wordpress, #php, #ui/ux? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## The Opportunity

@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "If you have experience working within an Agile/Scrum environment, Theorem, LLC is looking for someone with your skillset."
 summaryBackup: "Love #python, #ui/ux, #golang? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Theorem is looking for a motivated craftsperson to join our global team of 200+ professionals to support our growing distributed services business. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/clubhousesoftware"
 summary: "If you have 2+ years relevant work experience in digital marketing and analyzing campaign effectiveness for a B2B SaaS company, Clubhouse Software is looking for someone with your skillset."
 summaryBackup: "Excited about #marketing, #css, #ui/ux? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 Clubhouse is a venture-backed Series B startup that’s building software to make software development teams more efficient and collaborative. Thousands of the fastest-growing organizations use Clubhouse to plan and build their software, including Nubank, Glossier, Dataiku, Scale AI, FullStory, and LaunchDarkly. Greylock, Lerer Hippeau, RRE, and Battery Ventures are investors in Clubhouse. 

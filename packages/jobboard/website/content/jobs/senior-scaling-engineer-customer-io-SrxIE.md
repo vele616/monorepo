@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/customerio?t=5c1a877f1us"
 summary: "Customer.io wishes to hire a new Senior Scaling Engineer. If you have experience working with customers and applying a deep understanding of their needs to produce timely solutions to their real-world problems, consider applying."
 summaryBackup: "Love #management, #spring, #marketing? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Hi, I'm Matthew, CTO at [Customer.io](http://Customer.io). I'm looking for a Senior Scaling Engineer to join our growing Engineering team.

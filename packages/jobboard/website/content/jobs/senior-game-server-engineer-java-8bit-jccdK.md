@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "If you have 5+ years of experience in server-side Java programming along with concurrency handling and distributed systems, 8Bit is looking for someone with your knowledge."
 summaryBackup: "8Bit is looking for a senior game server engineer that has experience in: #java, #linux, #branding."
 featured: 11
+archived: "true"
 ---
 
 We are hiring for **a brand new casual mobile studio** based in a fancy Warsaw office. Our client is a leading FTP producer with 30 million users worldwide every month and 200+ games under their belt.

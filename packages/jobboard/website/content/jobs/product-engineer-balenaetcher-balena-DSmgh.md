@@ -13,6 +13,7 @@ companyWebsite: "https://balena.io/"
 summary: "To apply as a Product Engineer at Balena, you preferably need to have experience writing high-quality, production-ready code and debugging complex issues."
 summaryBackup: "Love #ui/ux, #typescript, #docker? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Description

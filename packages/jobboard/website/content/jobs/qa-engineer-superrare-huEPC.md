@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "If you have 3+ years of quality assurance and test engineering experience, SuperRare is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #reactjs, #angular? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## About SuperRare

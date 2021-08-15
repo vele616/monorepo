@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "If you have 3 years in a management position leading a staff of 5+ employees, consider applying to Shiphero's job post for a new VP Marketing."
 summaryBackup: "To apply as a vp marketing at Shiphero, you preferably need to have some knowledge of: #marketing, #css, #branding."
 featured: 12
+archived: "true"
 ---
 
 ## VP of Marketing

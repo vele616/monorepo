@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "To apply as a Content Marketer at PostHog, you preferably need to have experience working as a technical content marketer creating top-of-funnel content for developers."
 summaryBackup: "Love #content, #marketing, #ui/ux? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Description

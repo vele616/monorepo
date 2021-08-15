@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "If you have experience with open-source tools, Wikimedia Foundation is looking for someone with your skillset."
 summaryBackup: "To apply as a senior data analyst at Wikimedia Foundation, you preferably need to have some knowledge of: #ui/ux, #python, #analysis."
 featured: 9
+archived: "true"
 ---
 
 ## SENIOR DATA ANALYST, DASHBOARD DEVELOPMENT (TEMPORARY CONTRACT)

@@ -13,6 +13,7 @@ companyWebsite: "https://mfi.bamboohr.com/jobs/"
 summary: "To apply as a Customer Support Expert at Maharishi Foundation International, you preferably need to be experienced in using various modern SaaS tools for customer support, customer relationship management & email."
 summaryBackup: "Excited about #management, #marketing, #css? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## About Us

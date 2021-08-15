@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "BMAT wishes to hire a new Research Assistant. If you have experience with the main research, machine learning and audio libraries, consider applying."
 summaryBackup: "Excited about #python, #django, #flask? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## About BMAT

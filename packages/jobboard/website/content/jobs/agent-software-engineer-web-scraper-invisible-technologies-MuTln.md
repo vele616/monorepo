@@ -13,6 +13,7 @@ companyWebsite: "https://www.inv.tech/"
 summary: "If you have experience with javascript, Invisible-technologies is looking for someone with your knowledge."
 summaryBackup: "Excited about #ui/ux, #management, #sales? Check out this job post!"
 featured: 4
+archived: "true"
 ---
 
 _We'd like to ask you a few questions to jump start the process and get to know you a bit. Note\*\* Once you apply, you will receive a questionnaire and engineering test. In order to be_ considered _for this position, we will need to receive your completed test before moving you to the interview process._ _We are also currently receiving a lot of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch._

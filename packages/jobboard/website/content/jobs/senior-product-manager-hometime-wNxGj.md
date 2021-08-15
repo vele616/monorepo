@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Hometime is looking for a senior product manager that has 5+ years experience."
 summaryBackup: "To apply as a senior product manager at Hometime, you preferably need to have some knowledge of: #operations, #marketing, #ui/ux."
 featured: 10
+archived: "true"
 ---
 
 ## About Hometime:

@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "Irl intends to hire a new Product Designer. If you have 5+ years experience designing and shipping mobile applications, consider applying."
 summaryBackup: "Irl is looking for a product designer that has experience in: #ui/ux, #socialmedia, #ios."
 featured: 7
+archived: "true"
 ---
 
 ## Company Overview

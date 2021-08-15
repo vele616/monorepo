@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.breezy.hr/"
 summary: "If you have 2+ years of experience writing Python, consider applying to Shiphero's job post for a new Python Developer."
 summaryBackup: "Shiphero is looking for a python developer that has experience in: #python, #ui/ux, #aws."
 featured: 17
+archived: "true"
 ---
 
 ## About ShipHero

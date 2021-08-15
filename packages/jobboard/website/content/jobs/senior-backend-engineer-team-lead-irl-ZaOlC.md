@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "Irl wishes to hire a new senior backend engineer. If you have experience with Asyncio or similar apis, consider applying."
 summaryBackup: "Love #python, #laravel, #php? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

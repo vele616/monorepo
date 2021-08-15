@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "If you have experience with industry tools and technologies such as Burp Suite, etc, Red Canary is looking for someone with your skillset."
 summaryBackup: "Love #rails, #rubylang, #ui/ux? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 **Why Red Canary**

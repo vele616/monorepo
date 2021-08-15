@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "Startupz intends to hire a new Certification & Risk Manager. If you have experience in a compliance management role or similar role, consider applying."
 summaryBackup: "To apply as a compliance at Startupz.com, you preferably need to have some knowledge of: #management, #operations, #ui/ux."
 featured: 15
+archived: "true"
 ---
 
 ## Job description

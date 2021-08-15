@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin wishes to hire a new sales operations analyst. If you have 1-3+ years of sales operations, sales rep, or equivalent experience, consider applying."
 summaryBackup: "To apply as a sales operations analyst at Hopin, you preferably need to have some knowledge of: #sales, #operations, #analytics."
 featured: 20
+archived: "true"
 ---
 
 ## 

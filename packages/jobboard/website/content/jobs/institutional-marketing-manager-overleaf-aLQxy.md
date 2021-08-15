@@ -13,6 +13,7 @@ companyWebsite: "https://www.overleaf.com/"
 summary: "Overleaf intends to hire a new Institutional Marketing Manager. If you have previous working experience within a marketing role for 3+ years, consider applying."
 summaryBackup: "To apply as an institutional marketing manager at Overleaf, you preferably need to have some knowledge of: #marketing, #sales, #css."
 featured: 5
+archived: "true"
 ---
 
 ## Description

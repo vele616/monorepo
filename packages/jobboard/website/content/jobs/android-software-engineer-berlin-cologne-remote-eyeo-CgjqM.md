@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo is searching for an android software engineer that has 3+ years of software development experience."
 summaryBackup: "Excited about #java, #android, #python? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Get to know us

@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "PostHog intends to hire a new content marketer. If you jave experience creating content for an open source product, consider applying."
 summaryBackup: "PostHog is looking for a content marketer that has experience in: #content, #marketing, #ui/ux."
 featured: 12
+archived: "true"
 ---
 
 ## Description

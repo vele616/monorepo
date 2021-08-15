@@ -13,6 +13,7 @@ companyWebsite: "https://bmat.bamboohr.com/jobs/"
 summary: "To apply as an Operations Engineer at BMAT Licensing SLU, you preferably need to have some experience with docker and elasticsearch that will help you solve some tasks faster."
 summaryBackup: "BMAT Licensing SLU is looking for an operations engineer tvav that has experience in: #operations, #flask, #python."
 featured: 11
+archived: "true"
 ---
 
 ## About BMAT 

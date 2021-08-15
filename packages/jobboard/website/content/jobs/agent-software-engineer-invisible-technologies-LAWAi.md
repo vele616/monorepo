@@ -13,6 +13,7 @@ companyWebsite: "https://www.inv.tech/"
 summary: "Invisible Technologies wishes to hire a Software Engineer. If you have experience with Node.js web applications, consider applying."
 summaryBackup: "To apply as an agent: software engineer at Invisible-technologies, you preferably need to have some knowledge of: #javascript, #typescript, #ui/ux."
 featured: 19
+archived: "true"
 ---
 
 **We are currently looking to fill multiple positions for this role as soon as possible. We'd like to ask you a few questions to jump start the process and get to know you a bit. Note\*\* Once you apply, you will receive a questionnaire andengineering test. In order to be considered for this position, we must receive your completed test and questionnaire answers before you will be moved to the interview round. We are also currently receiving many applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch. Pay Rate: $10 - $15 per hour**

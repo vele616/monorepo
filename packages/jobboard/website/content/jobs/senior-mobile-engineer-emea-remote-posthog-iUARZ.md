@@ -13,6 +13,7 @@ companyWebsite: "http://www.posthog.com/"
 summary: "PostHog is searching for a Senior Mobile Engineer that has 4-5 years of Android and iOS development experience, over many iterations of phone operating systems."
 summaryBackup: "Love #reactjs, #android, #ios? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 ## Description

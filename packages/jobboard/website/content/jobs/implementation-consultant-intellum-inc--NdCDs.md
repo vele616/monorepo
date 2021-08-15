@@ -13,6 +13,7 @@ companyWebsite: "http://www.intellum.com/"
 summary: "Interested in new opportunities and have 2+ years experience as an LMS administrator? Intellum has a job opening for an Implementation Consultant."
 summaryBackup: "To apply as an implementation consultant at Intellum, Inc., you preferably need to have some knowledge of: #management, #css, #sales."
 featured: 10
+archived: "true"
 ---
 
 ## Description

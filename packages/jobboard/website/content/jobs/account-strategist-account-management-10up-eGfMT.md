@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "If you have experience with web content management systems, 10up is looking for someone with your skillset."
 summaryBackup: "Love #management, #wordpress, #content? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 As part of the Web Strategy team, Account Management focused Strategists are responsible for forging successful internal and partner relationships, and cultivating account growth — alongside 10up’s full service team — through thoughtful, creative and solution-based project consulting. Applying an informed understanding of 10up's capabilities, superior communication, and attention to detail, Strategists are charged with driving company revenue goals by ensuring that clients experience exemplary service and outcomes.

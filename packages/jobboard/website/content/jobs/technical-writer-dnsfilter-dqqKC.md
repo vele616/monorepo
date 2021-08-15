@@ -13,6 +13,7 @@ companyWebsite: "https://www.dnsfilter.com/"
 summary: "If you have 2-5 years experience writing technical content for a software company, consider applying to DNSfilter's job post for a new Technical Writer."
 summaryBackup: "Dnsfilter is looking for a technical writer that has experience in: #content, #marketing, #management."
 featured: 12
+archived: "true"
 ---
 
 DNSFilter was born out of necessity. Our founders realized that the existing solutions for DNS security out there were clunky, convoluted and over priced. In 2015, they set out on a simple yet crucial mission—to revolutionize DNS security. We’ve come a long way since our humble beginnings. We support nearly 14,000 organizations, including Fortune 500 customers like NVIDIA, and provide service to millions of end users. Our infrastructure is made up of two anycast networks with over 300 servers in 53 datacenters. At the start of 2020, our software was processing 1B queries/day. One year later, we’re now processing 12B queries/day! In the middle of a global pandemic, our team (and product) thrived. We doubled the size of our team, and we’re on our way to doing it again in 2021.

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "If you have experience in mobile product management, partnering with engineers and designers, and leading product prioritization, consider applying to Current Mobile's job post for a new Product Manager."
 summaryBackup: "Excited about #ui/ux, #management, #operations? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 ## What is Current?

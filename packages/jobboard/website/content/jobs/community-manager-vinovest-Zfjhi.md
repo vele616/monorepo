@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest is looking for a Community Manager that has experience in: #management, #socialmedia, #marketing."
 summaryBackup: "To apply as a community manager at Vinovest, you preferably need to have some knowledge of: #management, #socialmedia, #scrum."
 featured: 4
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap, Inc. is looking for a director that has 10 years experience leading teams in the health industry, preferably with experience in both HW and SW as well as regulatory."
 summaryBackup: "Love #marketing, #management, #ui/ux? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Director, Business Segment Leader, Digital Health 

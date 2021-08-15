@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "Keyrock intends to hire a new Junior Technical Support Engineer. If you have proven professional experience in testing, customer support and business analysis, consider applying."
 summaryBackup: "Love #marketing, #management, #docker? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Keyrock is expanding!

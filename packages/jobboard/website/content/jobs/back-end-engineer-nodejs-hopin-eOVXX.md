@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "To apply as a backend engineer at Hopin, you preferably need to have 5 years experience in software development, with at least 3 of them designing and working on high-scale environments."
 summaryBackup: "Love #nodejs, #ui/ux, #aws? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## The role

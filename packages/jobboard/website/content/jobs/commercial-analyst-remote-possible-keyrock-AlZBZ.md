@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "If you have 0-3 years of experience in a financial or commercial consulting role, Keyrock is looking for someone with your knowledge."
 summaryBackup: "Love #management, #marketing, #analysis? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Keyrock is expanding!

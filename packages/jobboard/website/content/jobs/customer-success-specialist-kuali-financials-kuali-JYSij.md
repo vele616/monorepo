@@ -13,6 +13,7 @@ companyWebsite: "http://kuali.co/"
 summary: "Interested in new opportunities and have background of at least 3 years in Higher Ed Accounting? Kuali has a job opening for a Customer Success Specialist."
 summaryBackup: "Excited about #management, #ui/ux, #finance? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 ## Description

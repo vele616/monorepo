@@ -13,6 +13,7 @@ companyWebsite: "http://www.demodesk.com/"
 summary: "To apply as a revenue operations analyst at Demodesk, you preferably need to have 1-3 years of experience in Sales Operations, Revenue Operations or Business Operations in high-growth SaaS or technology companies."
 summaryBackup: "Demodesk is looking for a revenue operations analyst that has experience in: #operations, #sales, #css."
 featured: 20
+archived: "true"
 ---
 
 Mission:

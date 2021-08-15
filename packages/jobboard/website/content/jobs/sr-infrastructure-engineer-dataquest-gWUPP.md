@@ -13,6 +13,7 @@ companyWebsite: "https://www.dataquest.io/"
 summary: "If you have python programming experience, Dataquest is looking for someone with your knowledge."
 summaryBackup: "Dataquest is looking for a sr. infrastructure engineer that has experience in: #python, #terraform, #management."
 featured: 2
+archived: "true"
 ---
 
 Dataquest is an interactive online learning platform for data science. We’re passionate about helping students go from zero to job ready. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers.  Read more about our philosophy [here](https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/), and read what students think [here](https://www.switchup.org/bootcamps/dataquest).

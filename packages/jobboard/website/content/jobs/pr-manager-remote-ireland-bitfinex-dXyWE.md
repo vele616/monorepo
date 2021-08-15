@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have proven track record of managing PR agencies and large budget global campaigns, Bitfinex has a job opening for a PR Manager"
 summaryBackup: "Bitfinex is looking for a pr manager that has experience in: #windows, #content, #management."
 featured: 18
+archived: "true"
 ---
 
 ## Job description

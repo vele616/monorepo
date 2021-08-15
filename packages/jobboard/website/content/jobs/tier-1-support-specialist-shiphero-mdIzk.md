@@ -13,6 +13,7 @@ companyWebsite: "https://shiphero.com/"
 summary: "If you have 1-year experience in customer service, ShipHero is looking for someone with your knowledge."
 summaryBackup: "Love #css, #office, #aws? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## What We Do:

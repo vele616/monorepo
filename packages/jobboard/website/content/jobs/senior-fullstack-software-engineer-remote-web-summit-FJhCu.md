@@ -13,6 +13,7 @@ companyWebsite: "https://websummit.com/"
 summary: "Excited about experience in: #javascript, #reactjs, #ui/ux? Check out this job post!"
 summaryBackup: "Love #javascript, #ui/ux, #reactjs? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 **About us:**

@@ -13,6 +13,7 @@ companyWebsite: "https://www.dataquest.io/"
 summary: "Interested in new opportunities and have experience with creating and implementing processes? Dataquest has a job opening for an Academic Coordinator."
 summaryBackup: "Excited about #management, #office, #ui/ux? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Dataquest is an interactive online learning platform for data science. We’re passionate about helping students go from zero to job ready. We help students deeply learn concepts, build projects, work together, and gain the confidence they need to start new careers.  Read more about our philosophy [here](https://www.dataquest.io/blog/the-perfect-data-science-learning-tool/), and read what students think [here](https://www.switchup.org/bootcamps/dataquest).

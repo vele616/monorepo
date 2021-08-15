@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years of experience in a UX Research / User Research role and have partnered with Product and Engineering teams to conceptualize, build, and launch new products or complex product features, Hopin is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #windows, #management? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

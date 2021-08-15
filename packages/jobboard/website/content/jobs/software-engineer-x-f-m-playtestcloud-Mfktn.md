@@ -13,6 +13,7 @@ companyWebsite: "https://www.playtestcloud.com/"
 summary: "PlaytestCloud is searching for a Software Engineer that has experience working on real-world web applications."
 summaryBackup: "Excited about #rails, #android, #ios? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 30% of the 100 top grossing mobile games have been tested with PlaytestCloud. Help us make it 100%!

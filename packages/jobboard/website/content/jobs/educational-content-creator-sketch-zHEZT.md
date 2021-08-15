@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have 2+ years in a writing, communications, or design-related role, Sketch is looking for someone with your skillset."
 summaryBackup: "Love #ui/ux, #marketing, #content? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 Over a million people use Sketch to transform their ideas into incredible products. Would you like to join us and help people the make the most of everything our design platform has to offer? We're looking to expand our team with a full-time **Educational Content Creator**.

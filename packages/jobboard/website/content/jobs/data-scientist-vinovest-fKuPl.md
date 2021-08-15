@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "If you have direct experience managing Business Intelligence deliverables, Vinovest is looking for someone with your knowledge."
 summaryBackup: "To apply as a data scientist at Vinovest, you preferably need to have some knowledge of: #ui/ux, #analysis, #python."
 featured: 8
+archived: "true"
 ---
 
 ## Job description

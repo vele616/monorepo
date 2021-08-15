@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "To apply as an Executive Assistant at Magic Leap, you preferably need to have experience working with high-level executives."
 summaryBackup: "To apply as an executive assistant at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #management, #office."
 featured: 18
+archived: "true"
 ---
 
 ## Job Description 

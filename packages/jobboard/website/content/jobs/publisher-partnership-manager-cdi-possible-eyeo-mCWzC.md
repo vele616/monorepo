@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo is looking for a publisher partnership manager that has at least 5 years experience with sales in AdTech or online publishing."
 summaryBackup: "Eyeo is looking for a publisher partnership manager that has experience in: #marketing, #scrum, #content."
 featured: 9
+archived: "true"
 ---
 
 ## Get to know us

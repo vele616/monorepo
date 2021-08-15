@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "Beat intends to hire a new Backend Engineer. If you have solid understanding of OOP and Design Patterns in Go with more than 3 years of experience, consider applying."
 summaryBackup: "Love #ui/ux, #operations, #scrum? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About us 

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years back-end web development experience, Hopin has a job opening for a Senior Back-End Engineer"
 summaryBackup: "To apply as a senior back-end engineer @ streamable at Hopin, you preferably need to have some knowledge of: #flask, #python, #nodejs."
 featured: 10
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

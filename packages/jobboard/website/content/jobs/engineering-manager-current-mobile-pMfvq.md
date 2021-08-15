@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Excited about experience in: #management, #rails, #nodejs? Check out this job post!"
 summaryBackup: "Current Mobile is looking for an engineering manager that has experience in: #management, #rails, #nodejs."
 featured: 3
+archived: "true"
 ---
 
 ## Get to know Current

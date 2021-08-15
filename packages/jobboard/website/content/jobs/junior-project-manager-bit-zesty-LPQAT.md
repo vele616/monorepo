@@ -13,6 +13,7 @@ companyWebsite: "https://bitzesty.com/"
 summary: "Bit Zesty is searching for a Junior Project Manager that has relevant work experience in project management, development or testing."
 summaryBackup: "To apply as a junior project manager at Bit Zesty, you preferably need to have some knowledge of: #management, #office, #monitoring."
 featured: 10
+archived: "true"
 ---
 
 ## Description

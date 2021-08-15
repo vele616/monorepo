@@ -13,6 +13,7 @@ companyWebsite: "https://balena.io/"
 summary: "Balena is searching for a frontend engineer that has based on our experience seeing thousands of devices running in production environments."
 summaryBackup: "Balena is looking for a frontend engineer that has experience in: #reactjs, #ui/ux, #management."
 featured: 10
+archived: "true"
 ---
 
 ## Description

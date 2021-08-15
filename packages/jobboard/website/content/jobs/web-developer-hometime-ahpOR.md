@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "If you have 2+ years as a JS developer with focused in React, consider applying to Hometime's job post for a new web developer."
 summaryBackup: "Hometime is looking for a web developer that has experience in: #reactjs, #marketing, #operations."
 featured: 20
+archived: "true"
 ---
 
 Hometime is the largest and fastest growing platform and brand for flexible rental providers  in the APAC region. 

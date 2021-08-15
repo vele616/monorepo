@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "10up is looking for a Web Engineer that has experience working for demanding or enterprise."
 summaryBackup: "To apply as a web engineer at 10up, you preferably need to have some knowledge of: #php, #javascript, #wordpress."
 featured: 5
+archived: "true"
 ---
 
 The Web Engineer develops and maintains client projects as well as 10up external and internal projects. Web Engineers work primarily with PHP and JavaScript. They are comfortable writing server and client side code that is scalable and performant.

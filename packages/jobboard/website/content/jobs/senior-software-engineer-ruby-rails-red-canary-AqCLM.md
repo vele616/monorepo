@@ -13,6 +13,7 @@ companyWebsite: "http://www.redcanary.com/"
 summary: "Red Canary is looking for a senior software engineer that has have experience with React, HAML, Redis, Postgres, AWS, Docker or some combination of similar tech."
 summaryBackup: "To apply as a senior software engineer at Red Canary, you preferably need to have some knowledge of: #rails, #rubylang, #operations."
 featured: 20
+archived: "true"
 ---
 
 **Why You Matter** 

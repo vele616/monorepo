@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years of experience working in commercial environment doing Security Testing, Hopin is looking for someone with your knowledge."
 summaryBackup: "Excited about #operations, #python, #rubylang? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Our mission is simple: **_better connections for a better planet_**. We believe in events without limits, but events that are sustainable and accessible to everyone—and fun, too! To do this, we need passionate builders and storytellers to join us. Do you love people and technology and the magic that happens when they converge at scale? Do you have the skills and experience we’re looking for to better serve our clients? If so, we’d like to meet you.

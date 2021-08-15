@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "If you have production experience with Elixir, DockYard, Inc. is looking for someone with your knowledge."
 summaryBackup: "DockYard, Inc. is looking for an elixir developer that has experience in: #ui/ux, #management, #postgresql."
 featured: 0
+archived: "true"
 ---
 
 ## Job description

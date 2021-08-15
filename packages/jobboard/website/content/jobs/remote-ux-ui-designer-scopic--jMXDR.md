@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic is looking for a UX/UI Designer that has 3+ years of commercial UI/graphics design experience."
 summaryBackup: "Love #ui/ux, #marketing, #photoshop? Check out this job post!"
 featured: 6
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aUX/UI Designerby trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a business operations manager that has 3+ years of revenue strategy and operations, or go to market consulting experience."
 summaryBackup: "Excited about #marketing, #operations, #management? Check out this job post!"
 featured: 19
+archived: "true"
 ---
 
 ## The role

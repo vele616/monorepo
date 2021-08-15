@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "Numbrs is looking for an Engineering Manager that has 5 years experience leading and managing technical team and software projects."
 summaryBackup: "Love #management, #ui/ux, #office? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

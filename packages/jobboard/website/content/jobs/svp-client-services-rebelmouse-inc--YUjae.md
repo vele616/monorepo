@@ -13,6 +13,7 @@ companyWebsite: "https://www.rebelmouse.com/"
 summary: "Interested in new opportunities and have 5+ years of experience leading a client-facing team of an agency? RebelMouse has a job opening for a SVP of Client Services."
 summaryBackup: "To apply as a svp at RebelMouse, Inc., you preferably need to have some knowledge of: #management, #sales, #css."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

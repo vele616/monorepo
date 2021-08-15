@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Current Mobile wishes to hire a new vp of engineering. If you have you have experience managing or directly building mobile applications, consider applying."
 summaryBackup: "To apply as a vp of engineering at Current Mobile, you preferably need to have some knowledge of: #aws, #management, #marketing."
 featured: 20
+archived: "true"
 ---
 
 ## What is Current Mobile?

@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "Bitfinex wishes to hire a new Senior NodeJS Engineer. If you have knowledge and experience with microservices architecture, consider applying."
 summaryBackup: "Bitfinex is looking for a senior nodejs engineer [remote] that has experience in: #nodejs, #javascript, #rustlang."
 featured: 3
+archived: "true"
 ---
 
 ## Job description

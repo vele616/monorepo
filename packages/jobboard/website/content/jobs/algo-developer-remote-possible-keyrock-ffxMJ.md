@@ -13,6 +13,7 @@ companyWebsite: "https://keyrock.freshteam.com/jobs"
 summary: "Keyrock intends to hire a new Algo Developer. If you have 5 years + in coding in C++, C#, Java or similar, consider applying."
 summaryBackup: "Love #rustlang, #java, #marketing? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Keyrock is expanding!

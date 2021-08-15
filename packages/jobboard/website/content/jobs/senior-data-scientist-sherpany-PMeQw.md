@@ -13,6 +13,7 @@ companyWebsite: "https://www.sherpany.com/en/"
 summary: "Sherpany is searching for a Senior Data Scientist that has experience working with data and knows how to leverage it efficiently."
 summaryBackup: "Love #python, #management, #analysis? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 

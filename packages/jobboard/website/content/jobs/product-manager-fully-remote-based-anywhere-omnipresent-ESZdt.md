@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "To apply as a Product Manager at Omnipresent, you preferably need to be self-motivated with the ability to take initiative, and able to run complex projects end-to-end."
 summaryBackup: "To apply as a product manager at Omnipresent, you preferably need to have some knowledge of: #management, #marketing, #ui/ux."
 featured: 11
+archived: "true"
 ---
 
 ## Description

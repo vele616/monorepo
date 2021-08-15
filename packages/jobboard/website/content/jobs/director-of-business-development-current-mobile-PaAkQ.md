@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "If you have 5 years experience in leading affiliate business development or partnerships in fast-paced consumer AdTech, FinTech, DTC, and brand agencies from around the world, Current Mobile is looking for someone with your skillset."
 summaryBackup: "Current Mobile is looking for a director of business development that has experience in: #management, #marketing, #content."
 featured: 4
+archived: "true"
 ---
 
 ## What is Current?

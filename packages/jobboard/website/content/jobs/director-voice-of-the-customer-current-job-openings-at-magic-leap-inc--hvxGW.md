@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 10+ years experience in product management / innovation / customer insights / market & user research / strategy , Magic Leap has a job opening for a Voice of the Customer Director"
 summaryBackup: "Current Job Openings at Magic Leap, Inc. is looking for a director that has experience in: #ui/ux, #management, #marketing."
 featured: 11
+archived: "true"
 ---
 
 ## Job Description

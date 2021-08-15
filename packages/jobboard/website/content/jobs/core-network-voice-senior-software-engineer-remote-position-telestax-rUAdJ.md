@@ -13,6 +13,7 @@ companyWebsite: "https://www.telestax.com/"
 summary: "If you have experience architecting, designing, developing, building, and operating a fault tolerant, highly available, reliable and performant SIP & Media Voice infrastructure in a telecom and/or cloud communications environment, Telestax has a job opening for a Senior Software Engineer"
 summaryBackup: "Excited about #spring, #management, #operations? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 Are you looking to join a highly ambitious international technology startup and work on cutting edge technology? Do you want to build a career in technology but love to solve real life communications problems? Are you looking for a company that will invest time in your development, support your professional growth and listen to your ideas? If the answer is yes, we urge you to apply for a position with Telestax!

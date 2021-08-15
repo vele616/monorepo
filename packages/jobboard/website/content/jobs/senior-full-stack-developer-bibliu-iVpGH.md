@@ -13,6 +13,7 @@ companyWebsite: "https://www.bibliu.com/"
 summary: "Interested in new opportunities and have have experience with building and designing REST APIs? BibliU has a job opening for a Senior Full Stack Developer."
 summaryBackup: "Excited about #javascript, #content, #aws? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Job description

@@ -10,6 +10,7 @@ jobType: software
 companyWebsite: "https://www.aenetworks.tv/"
 summary: "A+E Networks is looking for a Croatia based contractor with 6+ years of software development experience to join it's QA automation team!"
 featured: -1
+archived: "true"
 ---
 ### About
 We are a team of 6 spread across few timezones and represent the QA automation team at A+E Networks (History, Lifetime).

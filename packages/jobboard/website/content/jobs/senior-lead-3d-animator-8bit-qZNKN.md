@@ -13,6 +13,7 @@ companyWebsite: "http://www.8bitplay.com/"
 summary: "8Bit intends to hire a new Senior/Lead 3D Animator. If you have 4-5 years of experience as an animator in games, consider applying."
 summaryBackup: "Love #unreal, #ui/ux? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 An independent game development studio located in Warsaw, Poland is looking for a **Lead 3D Animator** to remotely join their team and work on an unannounced FPP sci-fi/neo cyber project.

@@ -13,6 +13,7 @@ companyWebsite: "http://www.startupz.com/"
 summary: "If you have experience with PostgreSQL and/or Elasticsearch, Startupz is looking for someone with your skillset."
 summaryBackup: "Startupz.com is looking for a backend engineer that has experience in: #javascript, #rubylang, #reactjs."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

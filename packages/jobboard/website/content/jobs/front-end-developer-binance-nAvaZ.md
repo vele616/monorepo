@@ -13,6 +13,7 @@ companyWebsite: "http://www.binance.com/"
 summary: "Interested in new opportunities and have experience with modern front end technologies? Binance has a job opening for a Front-End Developer."
 summaryBackup: "Excited about #css, #javascript, #reactjs? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.

@@ -13,6 +13,7 @@ companyWebsite: "https://www.inv.tech/"
 summary: "To apply as a Senior Software Engineer at Invisible Technologies, you preferably need to have some knowledge of: #typescript, #javascript, #operations."
 summaryBackup: "Excited about #typescript, #javascript, #operations? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 We are currently looking for this position to be filled in Q1 2021. We'd like to ask you a few questions to jump-start the process and get to know you a bit. We are also currently receiving a lot of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch.

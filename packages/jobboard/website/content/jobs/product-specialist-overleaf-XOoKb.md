@@ -13,6 +13,7 @@ companyWebsite: "https://www.overleaf.com/"
 summary: "Love experience in: #marketing, #sales, #office? Check out this job post!"
 summaryBackup: "Overleaf is looking for a product specialist that has experience in: #css, #marketing, #sales."
 featured: 10
+archived: "true"
 ---
 
 ## Description

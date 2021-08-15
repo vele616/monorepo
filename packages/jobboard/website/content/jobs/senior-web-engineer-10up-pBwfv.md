@@ -13,6 +13,7 @@ companyWebsite: "http://10up.com/"
 summary: "If you have at least five years of experience in back end focused web development, 10up is looking for someone with your skillset."
 summaryBackup: "To apply as a senior web engineer at 10up, you preferably need to have some knowledge of: #php, #javascript, #wordpress."
 featured: 10
+archived: "true"
 ---
 
 Senior Web Engineers have advanced knowledge of PHP and JavaScript and experience building large-scale performant applications. In addition to writing code, they are familiar with systems-level concepts.

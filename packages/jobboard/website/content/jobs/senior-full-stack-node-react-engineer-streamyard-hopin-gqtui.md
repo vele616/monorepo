@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have solid experience working in an agile development environment, Hopin has a job opening for a Senior Full-Stack Node/React Engineer"
 summaryBackup: "Excited about #reactjs, #javascript, #nodejs? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 Millions of users participate in StreamYard powered broadcasts every month. If you want to write code that has a high impact on real people daily, join us on this adventure!!! 

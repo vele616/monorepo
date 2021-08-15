@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is searching for a Senior IT Support Engineer that has 3+ years of experience working in commercial environment doing desktop support."
 summaryBackup: "To apply as a senior it support engineer at Hopin, you preferably need to have some knowledge of: #management, #windows, #macos."
 featured: 17
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

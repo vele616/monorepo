@@ -13,6 +13,7 @@ companyWebsite: "http://www.kentik.com/"
 summary: "If you have deep experience with React, HTML and CSS, Kentik is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #reactjs, #operations? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## About Kentik

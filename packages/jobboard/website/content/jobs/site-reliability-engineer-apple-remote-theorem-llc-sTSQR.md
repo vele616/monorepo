@@ -13,6 +13,7 @@ companyWebsite: "https://theorem.co/"
 summary: "Theorem is looking for a Site Reliability Engineer that has experience with Kubernetes, Docker and related technologies."
 summaryBackup: "Love #macos, #rubylang, #operations? Check out this job post!"
 featured: 12
+archived: "true"
 ---
 
 Join our team of remote engineers working with world-class companies like Apple, Google, American Express, Bloomberg, and dozens more. You’ll work on interesting projects with your favorite software tools and stay remote _indefinitely._

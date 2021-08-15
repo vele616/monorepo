@@ -13,6 +13,7 @@ companyWebsite: "https://paperpile.com/"
 summary: "Paperpile intends to hire a new backend engineer. If you have before and have experience with the required database and backend technologies, consider applying."
 summaryBackup: "Excited about #typescript, #javascript, #aws? Check out this job post!"
 featured: 1
+archived: "true"
 ---
 
 ## Description

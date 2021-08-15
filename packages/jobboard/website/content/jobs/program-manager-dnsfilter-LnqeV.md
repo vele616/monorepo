@@ -13,6 +13,7 @@ companyWebsite: "https://www.dnsfilter.com/"
 summary: "DNSFilter is searching for a program manager that has 3-5 years experience developing, maintaining and scaling software project plans."
 summaryBackup: "Dnsfilter is looking for a program manager that has experience in: #management, #ui/ux, #operations."
 featured: 7
+archived: "true"
 ---
 
 Program Manager:

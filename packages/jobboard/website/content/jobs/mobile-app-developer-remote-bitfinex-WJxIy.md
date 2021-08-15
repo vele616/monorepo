@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you are highly proficient in JavaScript and ES6+, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Bitfinex is looking for a mobile app developer [remote] that has experience in: #javascript, #reactjs, #windows."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

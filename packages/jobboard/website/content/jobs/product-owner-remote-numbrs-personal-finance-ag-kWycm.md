@@ -13,6 +13,7 @@ companyWebsite: "https://www.numbrs.com/en-uk/careers/"
 summary: "If you have 3 years of experience as a product owner in a software company, consider applying to Numbrs's job post for a new Product Owner."
 summaryBackup: "Numbrs Personal Finance AG is looking for a product owner that has experience in: #management, #ui/ux, #marketing."
 featured: 13
+archived: "true"
 ---
 
 Numbrs is a Swiss cutting edge technology company developing a smart wallet, which allows users to keep and use all their bank accounts, crypto wallets and loyalty cards in one place. Numbrs' smart wallet is available in Germany, United Kingdom and Spain. 

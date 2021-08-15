@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "Brave intends to hire a new Senior Sndroid Engineer. If you have 5+ years experience with Android development, consider applying."
 summaryBackup: "Excited about #android, #ui/ux, #java? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Job brief

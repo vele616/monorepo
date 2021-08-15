@@ -13,6 +13,7 @@ companyWebsite: "https://irl.breezy.hr/"
 summary: "If you have 5+ years of full-cycle quantifiable recruiting experience within a technical environment, Irl is looking for someone with your skillset."
 summaryBackup: "Love #socialmedia, #branding, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## About irl

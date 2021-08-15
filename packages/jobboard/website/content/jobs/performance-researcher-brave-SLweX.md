@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "If you have 5 years of experience in C++ and JavaScript, Brave is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #nodejs, #html? Check out this job post!"
 featured: 18
+archived: "true"
 ---
 
 We are hiring a member of the Brave browser research and engineering team to work on browser performance.

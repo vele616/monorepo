@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "To apply as a technical recruiter at ChartMogul CMTDE GmbH & Co. KG, you preferably need to have some knowledge of: #branding,#operations and #English."
 summaryBackup: "To apply as a technical recruiter at ChartMogul CMTDE GmbH & Co. KG, you preferably need to have some knowledge of: #branding, #ui/ux, #css."
 featured: 15
+archived: "true"
 ---
 
 ## Job description

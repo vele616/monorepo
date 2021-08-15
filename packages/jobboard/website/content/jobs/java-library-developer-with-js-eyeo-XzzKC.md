@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "To apply as a java library developer at Eyeo, you preferably need to have 4+ years of software development experience."
 summaryBackup: "To apply as a java library developer with js at Eyeo, you preferably need to have some knowledge of: #javascript, #java, #android."
 featured: 11
+archived: "true"
 ---
 
 ## Get to know us

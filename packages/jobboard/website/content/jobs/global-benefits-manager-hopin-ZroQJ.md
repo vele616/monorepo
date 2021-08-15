@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for a Global Benefits Manager that has 8+ years of progressive experience in the HR function with a minimum of 6 years of benefits experience."
 summaryBackup: "To apply as a global benefits manager at Hopin, you preferably need to have some knowledge of: #management, #ui/ux, #windows."
 featured: 2
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

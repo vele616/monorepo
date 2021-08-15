@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "Love experience in: #management, #operations, #ui/ux? Check out this job post!"
 summaryBackup: "Love #ui/ux, #management, #operations? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 

@@ -13,6 +13,7 @@ companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "Interested in new opportunities and have 3+ years of experience as a Product Manager in a technology company? Hometime has a job opening for a technical product manager."
 summaryBackup: "Hometime is looking for a technical product manager that has experience in: #ui/ux, #marketing, #management."
 featured: 10
+archived: "true"
 ---
 
 ## About Hometime:

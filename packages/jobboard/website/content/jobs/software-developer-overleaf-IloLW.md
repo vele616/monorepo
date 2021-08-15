@@ -13,6 +13,7 @@ companyWebsite: "https://www.overleaf.com/"
 summary: "If you have 3 years of relevant experience, Overleaf is looking for someone with your skillset."
 summaryBackup: "Overleaf is looking for a software developer that has experience in: #css, #reactjs, #angular."
 featured: 2
+archived: "true"
 ---
 
 ## Description

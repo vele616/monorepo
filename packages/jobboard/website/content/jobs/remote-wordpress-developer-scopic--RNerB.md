@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "To apply as a Wordpress Developer at Scopic, you preferably need to have 2+ years of experience in commercial software development."
 summaryBackup: "Excited about #html, #javascript, #php? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and a Remote Wordpress Developer by trade, we’d love to hear from you! Read on to see if you’d be a good fit for the Scopic team of 250+ professionals from over 40 countries.

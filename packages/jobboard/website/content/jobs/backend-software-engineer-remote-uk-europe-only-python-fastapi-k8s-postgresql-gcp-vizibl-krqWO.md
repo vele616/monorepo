@@ -13,6 +13,7 @@ companyWebsite: "http://www.vizibl.co/"
 summary: "If you have 3+ years of Python experience, Vizibl is looking for someone with your skillset."
 summaryBackup: "Love #python, #javascript, #kubernetes? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Description

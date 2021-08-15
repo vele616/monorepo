@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "If you have 2+ years of experience in HR Operations in international and fast-paced organizations, Eyeo is looking for someone with your skillset."
 summaryBackup: "Love #management, #operations, #content? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Get to know us

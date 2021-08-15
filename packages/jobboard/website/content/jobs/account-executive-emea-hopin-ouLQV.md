@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin intends to hire a new account executive. If you have 3+ years of experience in Sales or Business Development, consider applying."
 summaryBackup: "Love #sales, #css, #windows? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

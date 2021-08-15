@@ -13,6 +13,7 @@ companyWebsite: "https://birdie.care/"
 summary: "Interested in new opportunities and have your mission as a Customer Support Associate is to help our clients and their caregivers to have the best possible experience with Birdie, providing technical support and customer service across our live chat and email channels with a human and person centred approach? Birdie has a job opening for a customer support associate."
 summaryBackup: "Birdie is looking for a customer support associate that has experience in: #socialmedia, #management, #office."
 featured: 9
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "Hopin is looking for an Android Developer that has commercial experience with Kotlin."
 summaryBackup: "Excited about #kotlin, #android, #ui/ux? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## At Hopin, we’re reimagining virtual events.

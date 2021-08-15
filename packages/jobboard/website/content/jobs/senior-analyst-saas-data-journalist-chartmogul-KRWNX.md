@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "If you have worked in the software/technology industry for at least 5 years, consider applying to ChartMogul's job post for a new Senior Analyst."
 summaryBackup: "Excited about #content, #css, #branding? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Job description

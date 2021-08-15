@@ -13,6 +13,7 @@ companyWebsite: "https://www.bibliu.com/"
 summary: "Interested in new opportunities and have have experience with building and designing REST APIs? BibliU has a job opening for an Engineering Manager."
 summaryBackup: "To apply as an engineering manager at BibliU, you preferably need to have some knowledge of: #management, #javascript, #content."
 featured: 10
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://myagi.bamboohr.com/jobs/"
 summary: "If you have we have experience with Python, Django and/or React, Myagi is looking for someone with your skillset."
 summaryBackup: "Excited about #python, #django, #reactjs? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## #python     #hot🔥startup

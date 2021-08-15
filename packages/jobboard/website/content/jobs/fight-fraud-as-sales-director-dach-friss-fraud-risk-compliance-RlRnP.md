@@ -13,6 +13,7 @@ companyWebsite: "https://www.friss.com/"
 summary: "Love experience in: #German,#sales,#management? Check out this job post!"
 summaryBackup: "To apply as a fight fraud! as sales director dach at FRISS | fraud, risk & compliance, you preferably need to have some knowledge of: #sales, #marketing, #management."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

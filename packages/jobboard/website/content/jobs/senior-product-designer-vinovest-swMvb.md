@@ -12,6 +12,7 @@ companyWebsite: "https://vinovest.recruitee.com/"
 summary: "If you have 3 years of experience working in a reputed organization which will be qualified as demonstrated experience with end-to-end product design, consider applying to Vinovest's job post for a new Senior Product Designer."
 summaryBackup: "Love #ui/ux, #content, #management? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## Job description

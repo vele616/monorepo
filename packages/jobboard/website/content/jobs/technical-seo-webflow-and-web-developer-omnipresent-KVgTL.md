@@ -13,6 +13,7 @@ companyWebsite: "https://omnipresent.com/"
 summary: "Omnipresent is looking for a technical seo webflow and web developer that has 1 year of experience with Webflow."
 summaryBackup: "To apply as a technical seo webflow and web developer at Omnipresent, you preferably need to have some knowledge of: #marketing, #content, #javascript."
 featured: 20
+archived: "true"
 ---
 
 ## Description

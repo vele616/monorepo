@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Interested in new opportunities and have 3+ years in a full-cycle sales role, ideally at a SaaS startup? Mavenoid has a job opening for a Strategic Account Executive."
 summaryBackup: "Mavenoid is looking for a strategic account executive that has experience in: #sales, #css, #windows."
 featured: 14
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://dockyard.com/"
 summary: "DockYard, Inc. is looking for a HTML/CSS specialist that has experience with Sketch and Git."
 summaryBackup: "DockYard, Inc. is looking for a html that has experience in: #css, #html, #ui/ux."
 featured: 11
+archived: "true"
 ---
 
 ## Job description

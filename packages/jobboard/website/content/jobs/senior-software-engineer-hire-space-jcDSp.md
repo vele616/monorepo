@@ -13,6 +13,7 @@ companyWebsite: "https://hire-space.breezy.hr/hirespace.com"
 summary: "Hire Space intends to hire a new Senior Software Engineer. If you have 5+ years front-end development experience, consider applying."
 summaryBackup: "To apply as a senior software engineer at Hire-space, you preferably need to have some knowledge of: #reactjs, #ui/ux, #typescript."
 featured: 7
+archived: "true"
 ---
 
 ## About Hire Space

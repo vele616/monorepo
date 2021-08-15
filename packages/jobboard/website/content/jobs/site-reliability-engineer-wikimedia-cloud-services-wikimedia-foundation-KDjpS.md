@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/wikimedia"
 summary: "Excited about experience in: #kubernetes, #puppet, #javascript? Check out this job post!"
 summaryBackup: "Wikimedia Foundation is looking for a site reliability engineer that has experience in: #operations, #kubernetes, #management."
 featured: 7
+archived: "true"
 ---
 
 ## Site Reliability Engineer, Wikimedia Cloud Services

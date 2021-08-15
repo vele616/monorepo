@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/brave"
 summary: "Brave intends to hire a new Anti-Fraud Engineer. If you have experience with Python, JavaScript, Ruby, C++, Go, Java or other similar language, consider applying."
 summaryBackup: "Excited about #javascript, #python, #java? Check out this job post!"
 featured: 17
+archived: "true"
 ---
 
 Brave is looking for an engineer who can help us stay one step ahead of fraud in our Brave Ads ecosystem.  This position is vital to help us make sure that rewards go to Brave users, not to bad actors.  We are looking to refine, automate, and expand the BAT ecosystem’s anti-fraud processes, and build more of the necessary tooling over time.  We are looking for somebody who always prefers a simple solution over a complex one and who can take whole solutions from end to end.

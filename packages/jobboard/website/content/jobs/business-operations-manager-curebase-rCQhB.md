@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "Curebase is looking for a Business Operations Manager that has 3+ years of experience in business operations, product or project management, consulting, corporate strategy, or investment banking."
 summaryBackup: "Curebase is looking for a business operations manager that has experience in: #operations, #analysis, #windows."
 featured: 18
+archived: "true"
 ---
 
 ## About Curebase

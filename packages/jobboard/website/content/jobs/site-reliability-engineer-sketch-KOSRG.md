@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "Sketch is looking for a site reliability engineer that has class experience to our users by extracting each ounce of performance from all layers of the stack."
 summaryBackup: "Sketch is looking for a site reliability engineer that has experience in: #ui/ux, #python, #operations."
 featured: 20
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take the infrastructure that supports this leading design tool to the next level? We're looking to expand our team with a full-time **Site Reliability Engineer.**

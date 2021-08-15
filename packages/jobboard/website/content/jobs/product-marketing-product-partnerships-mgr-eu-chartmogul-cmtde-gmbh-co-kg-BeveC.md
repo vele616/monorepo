@@ -13,6 +13,7 @@ companyWebsite: "https://chartmogul.com/"
 summary: "Excited about experience in: #marketing, #content, #analysis? Check out this job post!"
 summaryBackup: "Excited about #marketing, #css, #ui/ux? Check out this job post!"
 featured: 5
+archived: "true"
 ---
 
 ## Job description
