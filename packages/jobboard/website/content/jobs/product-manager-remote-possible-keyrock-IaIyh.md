@@ -1,16 +1,16 @@
 ---
-title: "Product Manager (Remote possible)"
+title: "Product Manager"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
 url: "https://keyrock.freshteam.com/jobs/ORCabOPoMrWY/product-manager-remote-possible"
 applyUrl: "https://keyrock.freshteam.com/jobs/ORCabOPoMrWY/product-manager-remote-possible#applicant-form"
 timestamp: 1628985600000
-hashtags: "#management,#HR,#python,#rustlang,#marketing,#office,#analysis,#crypto,#communication,#finance"
+hashtags: "#management,#HR"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "If you have oriented product owner, ideally with experience in project management and quantitative finance to iterate and support the development of Keyrock’s products, working in close collaboration with developers, traders, quants and commercial teams, Keyrock is looking for someone with your knowledge."
+summary: "If you have experience in project management and quantitative financeworking in close collaboration with developers, traders, quants and commercial teams, Keyrock is looking for someone with your knowledge."
 summaryBackup: "Love #management, #HR, #python? Check out this job post!"
 featured: 20
 ---
