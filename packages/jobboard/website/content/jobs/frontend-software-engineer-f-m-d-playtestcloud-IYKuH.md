@@ -1,5 +1,5 @@
 ---
-title: "Frontend Software Engineer (f/m/d)"
+title: "Frontend Software Engineer"
 location: "Berlin, DE - Remote OK"
 host: "https://playtestcloud.breezy.hr/"
 companyName: "playtestcloud"
