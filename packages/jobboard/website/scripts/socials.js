@@ -3,6 +3,7 @@ const path = require('path');
 const puppeteer = require('puppeteer');
 const serveStatic = require('serve-static');
 const http = require('http');
+const { execSync } = require('child_process');
 
 const getChunks = (arr, size) => {
   const result = [];
@@ -19,12 +20,24 @@ const server = http.createServer(function onRequest(req, res) {
 });
 
 server.listen(5000);
-const files = fs.readdirSync(path.join(__dirname, '../content/jobs/'));
+// const files = fs.readdirSync(path.join(__dirname, '../content/jobs/'));
+
+const stdout = execSync(
+  `grep -riL 'archived: "true"' ${path.join(__dirname, '../content/jobs/')}`,
+  { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024 }
+).toString();
+
+const files = stdout.split('\n').filter((t) => !!t);
+
 const jobs = files
   .filter((f) => /^.*md$/.test(f))
+  .map((f) => {
+    const data = f.split('.')[0].split('/');
+    return data[data.length - 1];
+  })
   .map((f) => ({
-    file: `static/social/${f.split('.')[0]}.png`,
-    url: `http://localhost:5000/jobs/${f.split('.')[0]}/social`,
+    file: `static/social/${f}.png`,
+    url: `http://localhost:5000/jobs/${f}/social`,
   }));
 
 (async () => {
