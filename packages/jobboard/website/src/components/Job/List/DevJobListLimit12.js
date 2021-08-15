@@ -38,21 +38,17 @@ export const DevJobListLimit12 = () => (
       }
     `}
     render={(data) => {
-      const bod = new Date();
-      bod.setHours(0, 0, 0, 0);
       return (
         <JobList
-          jobs={data.allMarkdownRemark.nodes
-            .filter((node) => node.frontmatter.timestamp <= bod.getTime())
-            .map((node) => ({
-              title: node.frontmatter.title,
-              location: node.frontmatter.location,
-              jobUrl: node.fields.slug,
-              tags: node.frontmatter.hashtags,
-              companyLogo: node.frontmatter.logoUrl,
-              companyName: node.frontmatter.companyName,
-              summary: node.frontmatter.summary,
-            }))}
+          jobs={data.allMarkdownRemark.nodes.map((node) => ({
+            title: node.frontmatter.title,
+            location: node.frontmatter.location,
+            jobUrl: node.fields.slug,
+            tags: node.frontmatter.hashtags,
+            companyLogo: node.frontmatter.logoUrl,
+            companyName: node.frontmatter.companyName,
+            summary: node.frontmatter.summary,
+          }))}
         />
       );
     }}
