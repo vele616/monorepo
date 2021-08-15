@@ -1,12 +1,12 @@
 ---
-title: "Sales Development Representative (f/m/d) Mobile Games"
+title: "Sales Development Representative"
 location: "Berlin, DE - Remote OK"
 host: "https://playtestcloud.breezy.hr/"
 companyName: "playtestcloud"
 url: "https://playtestcloud.breezy.hr/p/769c0629d3da-sales-development-representative-f-m-d-mobile-games"
 applyUrl: "https://playtestcloud.breezy.hr/p/769c0629d3da-sales-development-representative-f-m-d-mobile-games/apply"
 timestamp: 1628985600000
-hashtags: "#sales,#testing,#management,#css,#content,#android,#ios,#marketing,#accountant,#analysis"
+hashtags: "#sales"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/playtestcloud"
 companyWebsite: "https://www.playtestcloud.com/"
@@ -44,11 +44,11 @@ What's in it for you:
 
 *   Take responsibility for a core part of the business from day one
 *   Define, build, and execute the overall SDR strategy
-*   Opportunities to travel the world: Visit customers, attend conferences, and other industry events\*
+*   Opportunities to travel the world: Visit customers, attend conferences, and other industry events
 *   Join a growing company with career advancement opportunities
 *   Work directly with the top mobile gaming studios in the world
 
-(\*Please note: Due to COVID-19, this position will start as a remote-based role without any business travel)
+(Please note: Due to COVID-19, this position will start as a remote-based role without any business travel)
 
 With your application, please send us a customized and creative cover letter on why you are a great fit for PlaytestCloud. And if you play games, tell us which ones!
 
