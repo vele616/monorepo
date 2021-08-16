@@ -1,16 +1,16 @@
 ---
-title: ".NET C# backend developer"
+title: ".NET Backend developer"
 location: "White Plains,United States"
 host: "https://careers.smartrecruiters.com/TreehouseStrategyAndCommunicatio?remoteLocation=true"
 companyName: "Treehouse Strategy and Communications"
 url: "https://jobs.smartrecruiters.com/TreehouseStrategyAndCommunicatio/743999766819506--net-c-backend-developer"
 applyUrl: "https://jobs.smartrecruiters.com/oneclick-ui/company/TreehouseStrategyAndCommunicatio/publication/65a9f12b-9dbe-4930-b165-ed4741a612b4?dcr_id=DCRA1"
 timestamp: 1629072000000
-hashtags: "#css,#javascript,#reactjs,#html,#backend,#git,#frontend,#English"
+hashtags: "#csharp,#reactjs"
 jobType: "software"
 
 companyWebsite: "http://www.treehousestrategy.com/"
-summary: "If you have experience in working in a team environment and, Treehouse Strategy and Communications has a job opening for a .net c# backend developer"
+summary: "If you have experience in working in a team environment, Treehouse Strategy and Communications has a job opening for a .NET C# backend developer"
 summaryBackup: "Excited about #css, #javascript, #reactjs? Check out this job post!"
 featured: 20
 ---
