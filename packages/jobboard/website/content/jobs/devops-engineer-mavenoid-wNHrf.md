@@ -6,11 +6,11 @@ companyName: "Mavenoid"
 url: "https://mav.recruitee.com/o/devops-engineer"
 applyUrl: "https://mav.recruitee.com/o/devops-engineer/c/new"
 timestamp: 1629072000000
-hashtags: "#devops,#management,#reactjs,#operations,#python,#typescript,#testing,#git,#backend,#postgresql"
+hashtags: "#devops,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
-summary: "Mavenoid is searching for a devops engineer that has experience with a small &amp."
+summary: "Mavenoid is searching for a devops engineer that has experience with a small and nimble tech organisation."
 summaryBackup: "Excited about #devops, #management, #reactjs? Check out this job post!"
 featured: 20
 ---
