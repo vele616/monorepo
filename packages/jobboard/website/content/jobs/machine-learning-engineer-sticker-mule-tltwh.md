@@ -6,11 +6,11 @@ companyName: "Sticker Mule"
 url: "https://jobs.lever.co/stickermule/db823eb2-16e6-4bd1-a8a9-f3a021b6c873"
 applyUrl: "https://jobs.lever.co/stickermule/db823eb2-16e6-4bd1-a8a9-f3a021b6c873/apply"
 timestamp: 1629072000000
-hashtags: "#javascript,#python,#pytorch,#tensorflow,#postgresql,#operations,#docker,#branding,#optimization,#office"
+hashtags: "#python,#pytorch,#tensorflow"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sticker-mule"
 companyWebsite: "https://www.stickermule.com/"
-summary: "To apply as a machine learning engineer at Sticker Mule, you preferably need to have some experience in: #javascript, #python, #pytorch."
+summary: "To apply as a machine learning engineer at Sticker Mule, you preferably need to have some experience in: #python, #pytorch, #tensorflow"
 summaryBackup: "Excited about #javascript, #python, #pytorch? Check out this job post!"
 featured: 20
 ---
