@@ -3,12 +3,11 @@ import React from 'react';
 import styles from './index.module.scss';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
-import { Navigation, Button, Typography, Icon } from '@crocoder-dev/components';
+import { Navigation, Button, Typography } from '@crocoder-dev/components';
 import Footer from '../Footer';
 import CrocNav from '../../images/croc-nav.svg';
 import Head from '../Head';
 
-// <Icon color="gray_2" icon="search1" fontSize={18} />
 const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
   return (
     <>
@@ -30,7 +29,7 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
           </Link>
         }
       >
-        <Link className={`${styles.centerAlignedLink} link`} to="/search/">
+        <Link className={'link'} to="/search/">
           Search
         </Link>
         <a
