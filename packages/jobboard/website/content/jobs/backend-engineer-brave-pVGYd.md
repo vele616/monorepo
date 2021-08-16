@@ -6,7 +6,7 @@ companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/3246072"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/3246072#app"
 timestamp: 1629072000000
-hashtags: "#backend,#javascript,#aws,#kubernetes,#docker,#sqlserver,#marketing,#management,#communication,#monitoring"
+hashtags: "#golang,#javascript,#aws"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/brave"
