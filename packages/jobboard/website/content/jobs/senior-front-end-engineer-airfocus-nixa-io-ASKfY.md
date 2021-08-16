@@ -1,12 +1,12 @@
 ---
-title: "Senior Front-end Engineer / Airfocus"
+title: "Senior Frontend Engineer"
 location: "Hamburg, Hamburg, Germany"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/E1AA90C3E4/"
 applyUrl: "https://apply.workable.com/nixa/j/E1AA90C3E4/apply/"
 timestamp: 1629072000000
-hashtags: "#reactjs,#typescript,#HR,#webpack,#frontend,#docker,#management,#css,#rest,#windows"
+hashtags: "#reactjs,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
