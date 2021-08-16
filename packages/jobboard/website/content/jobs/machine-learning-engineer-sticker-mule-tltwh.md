@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sticker-mu
 companyWebsite: "https://www.stickermule.com/"
 summary: "To apply as a machine learning engineer at Sticker Mule, you preferably need to have some experience in: #python, #pytorch, #tensorflow"
 summaryBackup: "Excited about #javascript, #python, #pytorch? Check out this job post!"
-featured: 20
+featured: 3
 ---
 
 **About Sticker Mule**

@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "Interested in new opportunities and have experience with Docker? Nixa.io has a job opening for a senior front-end engineer."
 summaryBackup: "Nixa.io is looking for a senior front-end engineer that has #reactjs, #typescript, #HR."
-featured: 20
+featured: 1
 ---
 
 ## Description

@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mavenoid"
 companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is searching for a devops engineer that has experience with a small and nimble tech organisation."
 summaryBackup: "Excited about #devops, #management, #reactjs? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Job description

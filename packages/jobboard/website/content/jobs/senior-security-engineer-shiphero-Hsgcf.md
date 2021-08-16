@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
 summary: "To apply as a senior security engineer at Shiphero, you preferably need to have 5+ years of technical experience with establishing and implementing security best practices in AWS cloud."
 summaryBackup: "To apply as a senior security engineer at Shiphero, you preferably need to have some #encryption, #analysis, #aws."
-featured: 20
+featured: 4
 ---
 
 ## About ShipHero
