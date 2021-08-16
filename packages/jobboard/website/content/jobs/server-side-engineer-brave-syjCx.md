@@ -1,16 +1,16 @@
 ---
-title: "Server Side Engineer"
+title: "Backend Engineer"
 location: "Anywhere"
 host: "https://boards.greenhouse.io/brave"
 companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/3166393"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/3166393#app"
 timestamp: 1629072000000
-hashtags: "#javascript,#rails,#golang,#typescript,#rustlang,#rubylang,#postgresql,#redis,#aws,#mongodb"
+hashtags: "#golang,#javascript,#postgresql"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "Brave intends to hire a new server side engineer. If you have experience with Go, JavaScript/TypeScript, consider applying."
+summary: "Brave intends to hire a new server side engineer. If you have experience with Go, JavaScript and TypeScript, consider applying."
 summaryBackup: "To apply as a server side engineer at Brave, you preferably need to have some #javascript, #rails, #golang."
 featured: 20
 ---
