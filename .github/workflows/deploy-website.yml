@@ -1,6 +1,9 @@
 name: 👔 Job Board - Deploy Website
 on:
-  workflow_dispatch
+  workflow_dispatch:
+  schedule:
+  - cron: "0 9 * * 1-5"
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
