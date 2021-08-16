@@ -1,16 +1,16 @@
 ---
-title: "Search Engineer - Front End"
+title: "Frontend Engineer"
 location: "Anywhere, but European timezones preferred (or at least a significant overlap with European timezones)."
 host: "https://boards.greenhouse.io/brave"
 companyName: "Brave"
 url: "https://boards.greenhouse.io/brave/jobs/3274277"
 applyUrl: "https://boards.greenhouse.io/brave/jobs/3274277#app"
 timestamp: 1629072000000
-hashtags: "#frontend,#javascript,#python,#html,#css,#reactjs,#angular,#vuejs,#ui/ux,#aws"
+hashtags: "#javascript,#css"
 jobType: "software"
 
 companyWebsite: "https://boards.greenhouse.io/brave"
-summary: "If you have experience working with a design team to implement a front, Brave has a job opening for a search engineer"
+summary: "If you have experience working with a design team to implement a frontend design system, Brave has a job opening for a Frontend Engineer"
 summaryBackup: "Excited about #frontend, #javascript, #python? Check out this job post!"
 featured: 20
 ---
