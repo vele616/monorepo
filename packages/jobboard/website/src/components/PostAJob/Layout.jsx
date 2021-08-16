@@ -44,6 +44,7 @@ const PostAJobLayout = ({
               color="green_4"
               fontWeight={700}
               fontSize={50}
+              element="h1"
             >
               {title}
             </Typography>

@@ -18,7 +18,7 @@ const Label = styled(Typography)`
 const JobSection = ({ title, children, style }) => {
   return (
     <Section backgroundColor="blue_6" removeMobilePadding>
-      <Label fontWeight={700} color="gray_2" element="h2">
+      <Label fontWeight={700} fontSize={50} color="gray_2" element="h1">
         {title}
       </Label>
       {children}
