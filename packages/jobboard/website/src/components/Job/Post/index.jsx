@@ -57,7 +57,7 @@ const JobPost = ({
           fontSize={18}
           color="green_4"
         >
-          <a href={jobUrl} className={styles.link}>
+          <a href={jobUrl} className={styles.link} style={{ whiteSpace: 'nowrap' }}>
             VIEW POST <Icon icon="arrow-right" className={styles.icon} />
           </a>
         </Typography>
