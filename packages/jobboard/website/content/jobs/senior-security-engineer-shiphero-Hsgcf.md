@@ -6,7 +6,7 @@ companyName: "shiphero"
 url: "https://shiphero.breezy.hr/p/2e2d9dff30b6-senior-security-engineer"
 applyUrl: "https://shiphero.breezy.hr/p/2e2d9dff30b6-senior-security-engineer/apply"
 timestamp: 1629072000000
-hashtags: "#encryption,#analysis,#aws,#python,#terraform,#mysql,#operations,#communication,#git,#testing"
+hashtags: "#devops,#terraform, #aws"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/shiphero"
 companyWebsite: "https://shiphero.com/"
