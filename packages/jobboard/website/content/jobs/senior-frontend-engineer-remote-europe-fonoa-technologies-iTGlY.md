@@ -1,12 +1,12 @@
 ---
-title: "Senior Frontend Engineer - Remote (Europe)"
+title: "Senior Frontend Engineer"
 location: ""
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/F61EC0F482/"
 applyUrl: "https://apply.workable.com/fonoa/j/F61EC0F482/apply/"
 timestamp: 1629158400000
-hashtags: "#testing,#accountant,#rest,#marketing,#finance,#java,#typescript,#twilio,#css,#content"
+hashtags: "#nodejs,#java,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
