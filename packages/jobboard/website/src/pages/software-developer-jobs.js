@@ -18,7 +18,7 @@ const AllSoftwareDeveloperJobsPage = ({ location }) => {
         description: '',
       }}
     >
-      <JobSection title="All Remote Software Developer Jobs">
+      <JobSection title="All Remote Software Developer Jobs" titleElement="h1">
         <DevJobList scrollToJobWithIndex={scrollToJobWithIndex} />
       </JobSection>
       <Newsletter />
