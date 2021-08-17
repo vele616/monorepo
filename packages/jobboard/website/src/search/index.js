@@ -22,17 +22,30 @@ class SearchIndex {
     this.index.import(index);
   }
 
-  search(query = '', seniority = [], contractType = [], tags = []) {
+  search(
+    query = '',
+    seniority = [],
+    contractType = [],
+    tags = [],
+    jobType = null
+  ) {
     if (!query && seniority.length === 0 && contractType.length === 0) {
       // Return all if everything is empty
-      if (tags.length === 0) {
+
+      if (jobType) {
+        return Object.values(this.store).filter((t) => t.jobType === jobType);
+      }
+
+      return Object.values(this.store);
+
+      /*if (tags.length === 0) {
         return Object.values(this.store);
       } else {
         // Return only hashtags results
         return Object.values(this.store).filter(({ hashtags }) =>
           tags.some((tag) => hashtags.includes(tag))
         );
-      }
+      }*/
     }
 
     const prepareSearchQuery = (query, seniority, contractType) => {
