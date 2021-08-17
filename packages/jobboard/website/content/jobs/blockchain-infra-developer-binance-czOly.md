@@ -6,7 +6,7 @@ companyName: "Binance"
 url: "https://jobs.lever.co/binance/9de54dd6-61c5-4285-b111-9558666d8be5"
 applyUrl: "https://jobs.lever.co/binance/9de54dd6-61c5-4285-b111-9558666d8be5/apply"
 timestamp: 1629158400000
-hashtags: "#reactjs,#crypto,#backend,#java,#devops,#testing,#qa,#management,#ui/ux,#finance"
+hashtags: "#reactjs,#golang"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/binance"
 companyWebsite: "http://www.binance.com/"
