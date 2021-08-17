@@ -27,17 +27,14 @@ class SearchIndex {
     seniority = [],
     contractType = [],
     tags = [],
-    jobType = null
+    jobTypes = [],
   ) {
     if (!query && seniority.length === 0 && contractType.length === 0) {
-      // Return all if everything is empty
-
-      if (jobType) {
-        return Object.values(this.store).filter((t) => t.jobType === jobType);
+      if (jobTypes.length === 0) {
+        return Object.values(this.store); // Return all if everything is empty
       }
-
-      return Object.values(this.store);
-
+      return Object.values(this.store).filter((job) => jobTypes.includes(job.jobType));
+    
       /*if (tags.length === 0) {
         return Object.values(this.store);
       } else {
@@ -47,6 +44,8 @@ class SearchIndex {
         );
       }*/
     }
+
+
 
     const prepareSearchQuery = (query, seniority, contractType) => {
       if (seniority.length === 0 && contractType.length === 0) {
@@ -92,7 +91,7 @@ class SearchIndex {
       }
     };
 
-    return prepareSearchQuery(query, seniority, contractType)
+    const results = prepareSearchQuery(query, seniority, contractType)
       .flatMap((r) => createSearchQuery(...r))
       .map((q) => this.index.search({ query: q, threshold: 2 }))
       .reduce(mergeSorted)
@@ -101,6 +100,12 @@ class SearchIndex {
       .filter(
         (x) => tags.length === 0 || tags.some((t) => x.hashtags.includes(t))
       );
+
+    if (jobTypes.length > 0) {
+      return Object.values(results).filter((job) => jobTypes.includes(job.jobType));
+    }
+
+    return results;
   }
 }
 
