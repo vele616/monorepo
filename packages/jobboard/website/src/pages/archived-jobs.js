@@ -12,7 +12,7 @@ const ArchivedJobs = () => {
         description: '',
       }}
     >
-      <JobSection title="All Archived Jobs">
+      <JobSection title="All Archived Jobs" titleElement="h1">
         <ArchivedJobList />
       </JobSection>
     </Layout>
