@@ -6,7 +6,7 @@ companyName: "arangodb-gmbh"
 url: "https://arangodb-gmbh.breezy.hr/p/eefc9538049301-product-marketing-manager"
 applyUrl: "https://arangodb-gmbh.breezy.hr/p/eefc9538049301-product-marketing-manager/apply"
 timestamp: 1629158400000
-hashtags: "#marketing,#analysis,#management,#graphql,#content,#crm,#innovation"
+hashtags: "#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/arangodb-gmbh"
 companyWebsite: "https://www.arangodb.com/"
