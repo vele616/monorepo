@@ -54,7 +54,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 };
 
 exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
   const jobPostsResult = await graphql(
     `
       {
@@ -104,80 +104,22 @@ exports.createPages = async ({ graphql, actions }) => {
       });
     });
   }
+
+  createRedirect({
+    fromPath:'/other-it-jobs/', 
+    toPath:'/search/?page=1&jobType=other', 
+    redirectInBrowser: true, 
+    isPermanent: true
+  });
+
+  createRedirect({ 
+    fromPath:'/software-developer-jobs/', 
+    toPath:'/search/?page=1&jobType=software', 
+    redirectInBrowser: true, 
+    isPermanent: true
+  });
 };
 
 exports.sourceNodes = (data) => {
-  // console.log(data.getNode('8d0b7c63-ffb9-5328-88dd-584b39bb2929'));
-
   return;
-
-  const avengers = [
-    {
-      firstName: 'Tony',
-      lastName: 'Stark',
-      name: 'Iron Man',
-    },
-    {
-      firstName: 'Bruce',
-      lastName: 'Banner',
-      name: 'Hulk',
-    },
-    {
-      firstName: 'Thor',
-      lastName: 'Odinson',
-      name: 'Thor',
-    },
-    {
-      firstName: 'Steve',
-      lastName: 'Rogers',
-      name: 'Captain America',
-    },
-    {
-      firstName: 'Natasha',
-      lastName: 'Romanoff',
-      name: 'Black Widow',
-    },
-    {
-      firstName: 'Clint',
-      lastName: 'Barton',
-      name: 'Hawkeye',
-    },
-  ];
-
-  return avengers.map((avenger) =>
-    createNode({
-      ...avenger,
-      id: createNodeId(avenger.name),
-      internal: {
-        type: `Avenger`,
-        contentDigest: createContentDigest(avenger),
-      },
-    })
-  );
 };
-
-/**
- *   const allHashtagsResults = await graphql(`
-  {
-    allMarkdownRemark {
-      nodes {
-        frontmatter {
-          hashtags
-        }
-      }
-    }
-  }`);
-
-
-  const hashtags = [
-    ...new Set(
-      allHashtagsResults.data.allMarkdownRemark.nodes.flatMap((node) =>
-        node.frontmatter.hashtags.split(',')
-      )
-  )];
-
-  fs.writeFileSync('/home/ivan/repos/crocoder/monorepo/packages/jobboard/website/content/test/test.json', 
-  JSON.stringify({ hello: 'some sample message' }));
-
-
- */
