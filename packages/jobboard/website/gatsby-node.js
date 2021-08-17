@@ -106,17 +106,15 @@ exports.createPages = async ({ graphql, actions }) => {
   }
 
   createRedirect({
-    fromPath:'/other-it-jobs/', 
-    toPath:'/search/?page=1&jobType=other', 
-    redirectInBrowser: true, 
-    isPermanent: true
+    fromPath: '/other-it-jobs/',
+    toPath: '/search/?page=1&jobType=other',
+    isPermanent: true,
   });
 
-  createRedirect({ 
-    fromPath:'/software-developer-jobs/', 
-    toPath:'/search/?page=1&jobType=software', 
-    redirectInBrowser: true, 
-    isPermanent: true
+  createRedirect({
+    fromPath: '/software-developer-jobs/',
+    toPath: '/search/?page=1&jobType=software',
+    isPermanent: true,
   });
 };
 
