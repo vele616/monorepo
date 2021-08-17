@@ -6,11 +6,11 @@ companyName: "arangodb-gmbh"
 url: "https://arangodb-gmbh.breezy.hr/p/c9bcbbb25fcc01-golang-engineer"
 applyUrl: "https://arangodb-gmbh.breezy.hr/p/c9bcbbb25fcc01-golang-engineer/apply"
 timestamp: 1629158400000
-hashtags: "#golang,#kubernetes,#javascript,#operations,#marketing,#graphql,#ui/ux"
+hashtags: "#golang,#kubernetes,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/arangodb-gmbh"
 companyWebsite: "https://www.arangodb.com/"
-summary: "If you have on experience developing for and working with large scale distributed systems, Arangodb-gmbh is looking for someone with your knowledge."
+summary: "If you have on experience developing for and working with large scale distributed systems, Arangodb is looking for someone with your knowledge."
 summaryBackup: "To apply as a golang engineer at Arangodb-gmbh, you preferably need to have some #golang, #kubernetes, #javascript."
 featured: 20
 ---
