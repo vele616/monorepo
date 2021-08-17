@@ -49,7 +49,7 @@ const IndexPage = ({ data }) => {
           >
             <StyledLink
               className={`link--secondary ${styles.link}`}
-              to="/software-developer-jobs"
+              to="/search/?page=1&jobType=software"
               state={{ linkFromIndex: true }}
             >
               {`VIEW ${softwareJobsNumber - 12} MORE DEVELOPER JOBS`}
@@ -73,7 +73,7 @@ const IndexPage = ({ data }) => {
           >
             <StyledLink
               className={`link--secondary ${styles.link}`}
-              to="/other-it-jobs"
+              to="/search/?page=1&jobType=other"
               state={{ linkFromIndex: true }}
             >
               {`VIEW ${otherJobsNumber - 12} MORE IT RELATED JOBS`}
