@@ -1,12 +1,12 @@
 ---
-title: "Senior Backend Engineer - Remote (Europe)"
+title: "Senior Backend Engineer"
 location: ""
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/3F16FD2ECA/"
 applyUrl: "https://apply.workable.com/fonoa/j/3F16FD2ECA/apply/"
 timestamp: 1629158400000
-hashtags: "#testing,#accountant,#rest,#marketing,#finance,#java,#typescript,#twilio,#backend,#css"
+hashtags: "#nodejs,#java,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoatech.com/"
