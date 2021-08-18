@@ -1,12 +1,12 @@
 ---
-title: "UX Designer - Remote"
+title: "UX Designer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/vinterior/"
 companyName: "Vinterior"
 url: "https://apply.workable.com/vinterior/j/9EDB8D74C8/"
 applyUrl: "https://apply.workable.com/vinterior/j/9EDB8D74C8/apply/"
 timestamp: 1629244800000
-hashtags: "#ui/ux,#marketing,#branding,#HR,#operations,#communication,#testing,#figma,#sketch,#office"
+hashtags: "#ui/ux,#figma"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinterior"
 companyWebsite: "https://www.vinterior.co/"
