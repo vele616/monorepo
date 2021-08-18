@@ -7,7 +7,7 @@ url: "https://apply.workable.com/memgraph/j/4210350FD5/"
 applyUrl: "https://apply.workable.com/memgraph/j/4210350FD5/apply/"
 timestamp: 1629244800000
 hashtags: "#cplusplus"
-jobType: "other"
+jobType: "software"
 
 companyWebsite: "http://memgraph.com/"
 summary: "If you have experience building database management systems, Memgraph has a job opening for a senior software engineer"

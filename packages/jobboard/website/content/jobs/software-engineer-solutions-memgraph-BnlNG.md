@@ -7,7 +7,7 @@ url: "https://apply.workable.com/memgraph/j/F9213C6CCE/"
 applyUrl: "https://apply.workable.com/memgraph/j/F9213C6CCE/apply/"
 timestamp: 1629244800000
 hashtags: "#python"
-jobType: "other"
+jobType: "software"
 
 companyWebsite: "http://memgraph.com/"
 summary: "Memgraph intends to hire a new software engineer. If you have 2+ years of experience, consider applying."
