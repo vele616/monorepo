@@ -1,16 +1,16 @@
 ---
-title: "Backend Engineer (Ruby-on-Rails)"
+title: "Backend Engineer"
 location: "Remote job"
 host: "https://startupzcom.recruitee.com/"
 companyName: "Startupz.com"
 url: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-7"
 applyUrl: "https://startupzcom.recruitee.com/o/backend-engineer-rubyonrails-7/c/new"
 timestamp: 1629244800000
-hashtags: "#javascript,#rubylang,#backend,#reactjs,#rails,#postgresql,#elasticsearch,#aws,#operations,#innovation"
+hashtags: "#rubylang"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/startupz-com"
 companyWebsite: "http://www.startupz.com/"
-summary: "If you have experience with the tools, Startupz.com is looking for someone with your knowledge."
+summary: "If you have experience with Ruby On Rails, Startupz.com is looking for someone with your knowledge."
 summaryBackup: "Love #javascript, #rubylang, #backend? Check out this job post!"
 featured: 20
 ---
@@ -19,7 +19,7 @@ featured: 20
 
 **Intro**
 
-We are looking for aBackend Engineer (Ruby-on-Rails)to help us build our groundbreaking new apps. It’s our mission to build new products that improve our world. If you like working in a fast-paced environment where you can really add value, this is the job for you!
+We are looking for aBackend Engineer (Ruby-on-Rails) to help us build our groundbreaking new apps. It’s our mission to build new products that improve our world. If you like working in a fast-paced environment where you can really add value, this is the job for you!
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
