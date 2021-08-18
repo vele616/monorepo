@@ -1,12 +1,12 @@
 ---
-title: "Senior Software Engineer - Core Database Engine"
+title: "Senior Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/memgraph/"
 companyName: "Memgraph"
 url: "https://apply.workable.com/memgraph/j/4210350FD5/"
 applyUrl: "https://apply.workable.com/memgraph/j/4210350FD5/apply/"
 timestamp: 1629244800000
-hashtags: "#graphql,#management,#windows,#linux,#marketing,#cad,#optimization,#ui/ux,#monitoring"
+hashtags: "#cplusplus"
 jobType: "other"
 
 companyWebsite: "http://memgraph.com/"
