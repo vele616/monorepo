@@ -1,12 +1,12 @@
 ---
-title: "Senior Product Manager (Remote)"
+title: "Senior Product Manager"
 location: "Remote"
 host: "https://jobs.lever.co/grafana/?location=Remote"
 companyName: "Grafana Labs"
 url: "https://jobs.lever.co/grafana/0a13e3f6-9817-4533-af02-6c896d05458d"
 applyUrl: "https://jobs.lever.co/grafana/0a13e3f6-9817-4533-af02-6c896d05458d/apply"
 timestamp: 1629244800000
-hashtags: "#management,#communication,#css,#HR,#operations,#testing,#marketing,#translation,#monitoring,#innovation"
+hashtags: "#management,#product"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/grafana-labs"
 companyWebsite: "https://jobs.lever.co/grafana/?location=Remote"
