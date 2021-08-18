@@ -6,8 +6,8 @@ companyName: "Memgraph"
 url: "https://apply.workable.com/memgraph/j/BE53D4675B/"
 applyUrl: "https://apply.workable.com/memgraph/j/BE53D4675B/apply/"
 timestamp: 1629244800000
-hashtags: "#linux,#testing,#management,#graphql,#operations,#windows,#marketing,#optimization,#ui/ux"
-jobType: "other"
+hashtags: "#cplusplus,#linux,#qa"
+jobType: "software"
 
 companyWebsite: "http://memgraph.com/"
 summary: "If you have experience in C++, with a fair knowledge of the language specification, Memgraph has a job opening for a c++ quality assurance engineer"
