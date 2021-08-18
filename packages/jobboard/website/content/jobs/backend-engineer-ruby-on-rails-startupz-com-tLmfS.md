@@ -19,7 +19,7 @@ featured: 20
 
 **Intro**
 
-We are looking for aBackend Engineer (Ruby-on-Rails) to help us build our groundbreaking new apps. It’s our mission to build new products that improve our world. If you like working in a fast-paced environment where you can really add value, this is the job for you!
+We are looking for a Backend Engineer (Ruby-on-Rails) to help us build our groundbreaking new apps. It’s our mission to build new products that improve our world. If you like working in a fast-paced environment where you can really add value, this is the job for you!
 
 We are accepting applications for the next two months and we fill the open position as soon as we’ve found the right candidate.
 
