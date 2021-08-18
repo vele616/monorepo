@@ -6,7 +6,7 @@ companyName: "Memgraph"
 url: "https://apply.workable.com/memgraph/j/5FE96B03B6/"
 applyUrl: "https://apply.workable.com/memgraph/j/5FE96B03B6/apply/"
 timestamp: 1629244800000
-hashtags: "#javascript,#angular,#frontend,#graphql,#reactjs,#typescript,#management,#windows,#git,#marketing"
+hashtags: "#reactjs,#typescript"
 jobType: "software"
 
 companyWebsite: "http://memgraph.com/"
@@ -21,7 +21,7 @@ Join our team remote from any location in **Europe**.
 
 **The Team**
 
-We are looking for a Frontend Engineer to join Cloud team to work on our cloud services and products: including **Memgraph Cloud**, the database as a service offering that allows customers to start, play, and use the power of graphs and graph algorithms with distributed Memgraph clusters; **Memgraph Lab**, our data visualization tool that empowers engineers to make smarter decisions about their graph application development; and M**emgraph Playground**, a place where everyone can explore and learn how graphs can solve different problems.
+We are looking for a Frontend Engineer to join Cloud team to work on our cloud services and products: including **Memgraph Cloud**, the database as a service offering that allows customers to start, play, and use the power of graphs and graph algorithms with distributed Memgraph clusters; **Memgraph Lab**, our data visualization tool that empowers engineers to make smarter decisions about their graph application development; and **Memgraph Playground**, a place where everyone can explore and learn how graphs can solve different problems.
 
 **The Role**
 
