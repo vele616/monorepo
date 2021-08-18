@@ -18,7 +18,7 @@ const AllOtherITJobsPage = ({ location }) => {
         description: '',
       }}
     >
-      <JobSection title="All other remote IT Jobs">
+      <JobSection title="All other remote IT Jobs" titleElement="h1">
         <OtherJobList scrollToJobWithIndex={scrollToJobWithIndex} />
       </JobSection>
       <Newsletter />
