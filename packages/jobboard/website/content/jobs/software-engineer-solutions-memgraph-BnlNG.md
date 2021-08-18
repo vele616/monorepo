@@ -1,12 +1,12 @@
 ---
-title: "Software Engineer - Solutions"
+title: "Software Engineer"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/memgraph/"
 companyName: "Memgraph"
 url: "https://apply.workable.com/memgraph/j/F9213C6CCE/"
 applyUrl: "https://apply.workable.com/memgraph/j/F9213C6CCE/apply/"
 timestamp: 1629244800000
-hashtags: "#python,#graphql,#windows,#git,#marketing,#management,#analysis,#ui/ux,#communication,#finance"
+hashtags: "#python"
 jobType: "other"
 
 companyWebsite: "http://memgraph.com/"
