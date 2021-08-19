@@ -6,7 +6,7 @@ companyName: "Drops"
 url: "https://apply.workable.com/drops/j/8C30432591/"
 applyUrl: "https://apply.workable.com/drops/j/8C30432591/apply/"
 timestamp: 1629331200000
-hashtags: "#backend,#aws,#management,#typescript,#javascript,#reactjs,#testing,#ios,#communication,#frontend"
+hashtags: "#aws,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/drops"
 companyWebsite: "http://languagedrops.com/"
