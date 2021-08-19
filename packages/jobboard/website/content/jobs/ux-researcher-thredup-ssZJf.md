@@ -6,7 +6,7 @@ companyName: "thredUP"
 url: "https://jobs.lever.co/thredup/a42980d1-d9ab-49b7-8f1c-cf5424f64174"
 applyUrl: "https://jobs.lever.co/thredup/a42980d1-d9ab-49b7-8f1c-cf5424f64174/apply"
 timestamp: 1629331200000
-hashtags: "#branding,#marketing,#management,#ui/ux,#windows,#translation,#communication,#innovation,#rest"
+hashtags: "#ui/ux"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/thredup"
 companyWebsite: "https://www.thredup.com/"
