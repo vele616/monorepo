@@ -6,7 +6,7 @@ companyName: "Curebase"
 url: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4671070003"
 applyUrl: "https://boards.greenhouse.io/embed/job_app?for=curebase&token=4671070003#app"
 timestamp: 1629331200000
-hashtags: "#management,#css,#scrum,#jira,#testing,#analysis,#HR,#sqlserver,#sales,#monitoring"
+hashtags: "#sql,#managment"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
