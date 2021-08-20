@@ -1,12 +1,12 @@
 ---
-title: "Security Engineer - Berlin, Cologne, Remote"
+title: "Security Engineer"
 location: "Berlin, Cologne, Remote"
 host: "https://boards.greenhouse.io/eyeo"
 companyName: "eyeo"
 url: "https://boards.greenhouse.io/eyeo/jobs/3180743"
 applyUrl: "https://boards.greenhouse.io/eyeo/jobs/3180743#app"
 timestamp: 1629331200000
-hashtags: "#management,#operations,#encryption,#testing,#analysis,#content,#HR,#windows,#linux,#android"
+hashtags: "#management,#operations,#encryption"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/eyeo"
 companyWebsite: "https://boards.greenhouse.io/eyeo"
