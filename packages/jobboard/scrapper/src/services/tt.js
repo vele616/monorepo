@@ -1,14 +1,18 @@
+const createPage = require("../page/createPageWithInterceptor");
+
 const remoteWords = require("../remoteWords");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
 
   return await page.evaluate((remoteWords) => {
-    const companyWebsite = document.querySelector('a.website');
-    const logoUrl = document.querySelector('#header > a > img');
-    const isRemote = [...document.querySelectorAll('div.job-metrics > div')];
-    const urls = [...document.querySelectorAll('div.job-listing-container > ul > li > a')]
+    const companyWebsite = document.querySelector("a.website");
+    const logoUrl = document.querySelector("#header > a > img");
+    const isRemote = [...document.querySelectorAll("div.job-metrics > div")];
+    const urls = [
+      ...document.querySelectorAll("div.job-listing-container > ul > li > a"),
+    ]
       .map((url, i) => ({
         url: url.href,
         isRemote: isRemote[i].textContent,
@@ -20,31 +24,36 @@ const getUrls = async (browser, url) => {
 
     return {
       urls,
-      companyName: document.querySelector('#header > a > img').getAttribute('alt'),
+      companyName: document
+        .querySelector("#header > a > img")
+        .getAttribute("alt"),
       logoUrl: logoUrl ? logoUrl.src : null,
-      companyWebsite: companyWebsite ? companyWebsite.href : window.location.href,
+      companyWebsite: companyWebsite
+        ? companyWebsite.href
+        : window.location.href,
     };
   }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
   return {
     ...(await page.evaluate(() => {
+      const location1 = document.querySelector(".remote-status");
 
-      const location1 = document.querySelector('.remote-status');
-
-      const parent = document.querySelector('.body');
-      parent.removeChild(document.querySelector('p:first-child'));
+      const parent = document.querySelector(".body");
+      parent.removeChild(document.querySelector("p:first-child"));
 
       return {
-        title: document.querySelector('h1').textContent,
+        title: document.querySelector("h1").textContent,
         content: parent.innerHTML
-          .replace(/<p><strong>(.*?)<\/strong><\/p>/g, "<h2>$1<\/h2>")
+          .replace(/<p><strong>(.*?)<\/strong><\/p>/g, "<h2>$1</h2>")
           .replace(/\n|<br>/g, "")
           .replace(/(<strong>|<\/strong>)/g, ""),
-        location: location1 ? location1.textContent.replace(/.+?(?=remote)/i, "").trim() : null,
+        location: location1
+          ? location1.textContent.replace(/.+?(?=remote)/i, "").trim()
+          : null,
       };
     })),
     url,
