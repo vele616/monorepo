@@ -5,9 +5,7 @@ const createPageWithInterceptor = async (browser) => {
 
   page.on("request", (request) => {
     if (
-      ["image", "stylesheet", "font", "script"].indexOf(
-        request.resourceType()
-      ) !== -1
+      ["image", "stylesheet", "font"].indexOf(request.resourceType()) !== -1
     ) {
       request.abort();
     } else {
@@ -17,3 +15,5 @@ const createPageWithInterceptor = async (browser) => {
 
   return page;
 };
+
+module.exports = createPageWithInterceptor;
