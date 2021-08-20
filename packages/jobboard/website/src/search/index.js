@@ -22,18 +22,30 @@ class SearchIndex {
     this.index.import(index);
   }
 
-  search(query = '', seniority = [], contractType = [], tags = []) {
+  search(
+    query = '',
+    seniority = [],
+    contractType = [],
+    tags = [],
+    jobTypes = [],
+  ) {
     if (!query && seniority.length === 0 && contractType.length === 0) {
-      // Return all if everything is empty
-      if (tags.length === 0) {
+      if (jobTypes.length === 0) {
+        return Object.values(this.store); // Return all if everything is empty
+      }
+      return Object.values(this.store).filter((job) => jobTypes.includes(job.jobType));
+    
+      /*if (tags.length === 0) {
         return Object.values(this.store);
       } else {
         // Return only hashtags results
         return Object.values(this.store).filter(({ hashtags }) =>
           tags.some((tag) => hashtags.includes(tag))
         );
-      }
+      }*/
     }
+
+
 
     const prepareSearchQuery = (query, seniority, contractType) => {
       if (seniority.length === 0 && contractType.length === 0) {
@@ -79,7 +91,7 @@ class SearchIndex {
       }
     };
 
-    return prepareSearchQuery(query, seniority, contractType)
+    const results = prepareSearchQuery(query, seniority, contractType)
       .flatMap((r) => createSearchQuery(...r))
       .map((q) => this.index.search({ query: q, threshold: 2 }))
       .reduce(mergeSorted)
@@ -88,6 +100,12 @@ class SearchIndex {
       .filter(
         (x) => tags.length === 0 || tags.some((t) => x.hashtags.includes(t))
       );
+
+    if (jobTypes.length > 0) {
+      return Object.values(results).filter((job) => jobTypes.includes(job.jobType));
+    }
+
+    return results;
   }
 }
 

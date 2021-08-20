@@ -68,6 +68,7 @@ module.exports = {
                 companyName
                 summary
                 logoUrl
+                jobType
               }
               rawMarkdownBody
             }
@@ -89,6 +90,7 @@ module.exports = {
           'summary',
           'hashtags',
           'companyLogo',
+          'jobType',
         ],
         normalizer: ({ data }) =>
           data.allMarkdownRemark.nodes.map((node, i) => ({
@@ -106,6 +108,7 @@ module.exports = {
             companyLogo: node.frontmatter.logoUrl,
             title: node.frontmatter.title,
             body: node.rawMarkdownBody,
+            jobType: node.frontmatter.jobType,
           })),
       },
     },
