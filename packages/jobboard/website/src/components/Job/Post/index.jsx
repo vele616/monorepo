@@ -13,11 +13,13 @@ const JobPost = ({
   tags,
   summary,
   gridElement,
+  forwardRef,
 }) => (
   <Grid
     alignItems="center"
     className={`${gridElement && styles.gridElement} ${styles.wrapper}`}
   >
+    {forwardRef && <div ref={forwardRef} />}
     <CompanyLogo alt={companyName} src={companyLogo} className={styles.image} />
     <Card narrow className={styles.card}>
       <Grid className={styles.post__content}>
