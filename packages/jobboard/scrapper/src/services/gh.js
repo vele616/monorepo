@@ -1,7 +1,8 @@
 const remoteWords = require("../remoteWords");
+const createPage = require("../page/createPageWithInterceptor");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
 
   const uri = new URL(url);
@@ -11,9 +12,7 @@ const getUrls = async (browser, url) => {
       const companyName = document.querySelector('[property="og:title"]');
       const logoUrl = document.querySelector("#logo > img");
       const isRemote = [...document.querySelectorAll(".location")];
-      const urls = [
-        ...document.querySelectorAll("section > div > a"),
-      ]
+      const urls = [...document.querySelectorAll("section > div > a")]
         .map((anchor) => {
           const id = new URL(anchor.href).searchParams.get("gh_jid");
           const url = new URL(window.location.href);
@@ -40,7 +39,9 @@ const getUrls = async (browser, url) => {
   }
 
   return await page.evaluate((remoteWords) => {
-    const companyName = document.querySelector('[property="og:title"]') || document.querySelector("h1");
+    const companyName =
+      document.querySelector('[property="og:title"]') ||
+      document.querySelector("h1");
     const logoUrl = document.querySelector("#logo > img");
     const isRemote = [...document.querySelectorAll(".location")];
     const urls = [...document.querySelectorAll("section > div > a")]
@@ -63,7 +64,7 @@ const getUrls = async (browser, url) => {
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
   return {
     ...(await page.evaluate(() => {
