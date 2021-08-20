@@ -1,12 +1,12 @@
 ---
-title: "iOS Engineer - Remote"
+title: "iOS Engineer"
 location: "Multiple Countries"
 host: "https://numbrs.applytojob.com/"
 companyName: "Numbrs Personal Finance AG"
 url: "http://numbrs.applytojob.com/apply/NkJ4Pyrg2M/IOS-Engineer-Remote"
 applyUrl: "http://numbrs.applytojob.com/apply/NkJ4Pyrg2M/IOS-Engineer-Remote"
 timestamp: 1629331200000
-hashtags: "#ios,#swift,#objectivec,#rest,#crypto,#office,#jenkins,#communication,#fintech,#git"
+hashtags: "#ios,#swift"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/numbrs-personal-finance-ag"
 companyWebsite: "https://www.numbrs.com/en-uk/careers/"
