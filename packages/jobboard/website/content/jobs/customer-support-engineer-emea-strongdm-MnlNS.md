@@ -1,12 +1,12 @@
 ---
-title: "Customer Support Engineer, EMEA"
+title: "Customer Support Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/strongdm/?location=Remote"
 companyName: "strongDM"
 url: "https://jobs.lever.co/strongdm/2790f32c-cbd7-46c0-b269-6c4c4dc1e75c"
 applyUrl: "https://jobs.lever.co/strongdm/2790f32c-cbd7-46c0-b269-6c4c4dc1e75c/apply"
 timestamp: 1629331200000
-hashtags: "#python,#devops,#chef,#terraform,#ansible,#aws,#operations,#windows,#linux,#kubernetes"
+hashtags: "#python,#terraform,#ansible"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/strongdm"
 companyWebsite: "http://www.strongdm.com/"
