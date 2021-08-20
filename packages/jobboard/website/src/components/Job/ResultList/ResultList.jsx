@@ -24,16 +24,17 @@ const Views = Object.freeze({
   Grid: 'grid',
 });
 
-const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
+const ResultList = ({ jobs = [], onPageChange, defaultPage, scrollToJobWithIndex }) => {
   const resultsPerPage = 24;
 
   const paginationRef = useRef();
   const paginationTopRef = useRef();
+  const jobRef = useRef();
 
   const [maxVisiblePages, setMaxVisiblePages] = useState(7);
   const [view, setView] = useState(Views.Grid);
   const [isScrollingUp, setIsScrollingUp] = useState(false);
-
+  
   const [currentPage, setCurrentPage] = useState(() => {
     const pageCount = Math.ceil(jobs.length / resultsPerPage);
     const numericDefaultPage = Math.min(Number(defaultPage) || 1, pageCount);
@@ -45,7 +46,13 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
   const { isMobile, isDesktop } = useDevice({
     tablet: styles.limitTablet,
     desktop: styles.limitDesktop,
-  });
+  }); 
+
+  useEffect(() => {
+    if (jobRef.current && scrollToJobWithIndex >= 0) {
+      jobRef.current.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    }
+  }, []);
 
   useEffect(() => {
     const scrollHandler = () => {
@@ -73,13 +80,14 @@ const ResultList = ({ jobs = [], onPageChange, defaultPage }) => {
     const start = (currentPage - 1) * resultsPerPage;
     const end = start + resultsPerPage;
     const sliced = jobs.slice(start, end);
-    return sliced.map((job) => (
+    return sliced.map((job, index) => (
       <JobPost
         key={job.slug}
         gridElement={view === Views.Grid}
         jobUrl={job.slug}
         tags={job.hashtags}
         {...job}
+        forwardRef={scrollToJobWithIndex === index && jobRef}
       />
     ));
   }, [jobs, view, currentPage]);

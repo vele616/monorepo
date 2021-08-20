@@ -10,6 +10,7 @@ const SearchResults = ({
   searchQuery,
   onPageChange,
   defaultPage,
+  scrollToJobWithIndex
 }) => {
   const jobsIndex = useMemo(() => new SearchIndex(index, store), [
     index,
@@ -49,6 +50,7 @@ const SearchResults = ({
         defaultPage={defaultPage}
         jobs={results}
         onPageChange={onPageChange}
+        scrollToJobWithIndex={scrollToJobWithIndex}
       />
     );
   }, [searchQuery]);
@@ -56,7 +58,7 @@ const SearchResults = ({
   return jobs;
 };
 
-const SearchWithQuery = ({ searchQuery, onPageChange, defaultPage }) => (
+const SearchWithQuery = ({ searchQuery, onPageChange, defaultPage, scrollToJobWithIndex }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -72,6 +74,7 @@ const SearchWithQuery = ({ searchQuery, onPageChange, defaultPage }) => (
         {...data.localSearchJobs}
         defaultPage={defaultPage}
         onPageChange={onPageChange}
+        scrollToJobWithIndex={scrollToJobWithIndex}
       />
     )}
   />
