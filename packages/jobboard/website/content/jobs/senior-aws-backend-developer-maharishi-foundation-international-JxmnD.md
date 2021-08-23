@@ -1,18 +1,18 @@
 ---
-title: "Senior AWS Backend Developer"
-location: "Remote (European timezone preferred), London, City of"
+title: "Senior Backend Developer"
+location: "Remote"
 host: "https://mfi.bamboohr.com/jobs/"
 companyName: "Maharishi Foundation International"
 url: "https://mfi.bamboohr.com/jobs/view.php?id=46&source=other"
 applyUrl: "https://mfi.bamboohr.com/jobs/view.php?id=46&source=other"
 timestamp: 1629676800000
-hashtags: "#qa,#aws,#management,#marketing,#dynamodb,#git,#devops,#graphql,#translation,#ui/ux"
+hashtags: "#aws,#nodejs"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/maharishi-foundation-international"
 companyWebsite: "https://mfi.bamboohr.com/jobs/"
-summary: "If you have 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers, Maharishi Foundation International is looking for someone with your skillset."
+summary: "If you have an understanding of best practice DevOps process, Maharishi Foundation International is looking for someone with your skillset."
 summaryBackup: "Love #qa, #aws, #management? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## About Us
