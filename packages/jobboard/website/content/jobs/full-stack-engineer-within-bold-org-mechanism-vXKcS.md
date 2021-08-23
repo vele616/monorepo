@@ -1,18 +1,18 @@
 ---
-title: "Full Stack Engineer (within Bold.org)"
+title: "Full-stack Engineer"
 location: "Remote"
 host: "https://jobs.lever.co/mechanism-2?location=Remote"
 companyName: "Mechanism"
 url: "https://jobs.lever.co/mechanism-2/85a9a652-28cf-4cee-a54b-9e4495ab393b"
 applyUrl: "https://jobs.lever.co/mechanism-2/85a9a652-28cf-4cee-a54b-9e4495ab393b/apply"
 timestamp: 1629676800000
-hashtags: "#typescript,#postgresql,#management,#reactjs,#scrum,#gatsby,#ui/ux,#aws,#sql,#qa"
+hashtags: "#nodejs,#gatsby,#sql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mechanism"
 companyWebsite: "http://www.mechanism.com/"
 summary: "Mechanism is searching for a full stack engineer that has on experience with SQL."
 summaryBackup: "To apply as a full stack engineer at Mechanism, you preferably need to have some #typescript, #postgresql, #management."
-featured: 20
+featured: 2
 ---
 
 Company Description
