@@ -1,4 +1,5 @@
 const AWS = require("aws-sdk");
+const log = require("./logger");
 
 let dbOptions = {};
 let options = {};
@@ -82,8 +83,8 @@ exports.exec = async () => {
         .promise();
     }
   } catch (error) {
-    console.warn(error);
-    return error;
+    await log("HUBHANDLER ERROR", `${error.name} -- ${error.message}`);
+    throw error;
   } finally {
   }
 };

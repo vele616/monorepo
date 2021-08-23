@@ -5,6 +5,7 @@ const template = require("./toMarkdown");
 const rake = require("./rake/index");
 const keywords = require("./keywords");
 const summarize = require("./summarize");
+const log = require("./logger");
 
 let timeframe = 23 * 60 * 60 * 1000;
 
@@ -76,7 +77,9 @@ exports.exec = async (event) => {
     ) {
       const result = await switchFunc(platform, host, browser, url).getJobs();
 
-      const organizationName = result.companyName ? result.companyName : companyName;
+      const organizationName = result.companyName
+        ? result.companyName
+        : companyName;
 
       const keywordsData = rake(
         `${result.content}. ${result.title}`
@@ -120,13 +123,16 @@ exports.exec = async (event) => {
           return comparison;
         })
         .map((t) => t.hashtag);
-        
+
       const classification = Object.values(keywords)
         .filter((k) => hashtags.includes(k.hashtag))
         .map((i) => ({ c: i.class, hashtag: i.hashtag }))
         .reduce(
           (acc, t) => {
-            const mod = (hashtags.length - hashtags.findIndex(i => i === t.hashtag)) % 3 + 1;
+            const mod =
+              ((hashtags.length - hashtags.findIndex((i) => i === t.hashtag)) %
+                3) +
+              1;
             return {
               software: acc.software + t.c.software * mod,
               other: acc.other + t.c.other * mod,
@@ -159,7 +165,7 @@ exports.exec = async (event) => {
         companyLogo || "",
         companyWebsite || "",
         summary,
-        summaryBackup,
+        summaryBackup
       );
 
       const titleCompany = `${result.title}-${organizationName}`
@@ -198,8 +204,8 @@ exports.exec = async (event) => {
     }
     return { event };
   } catch (error) {
-    console.warn(error);
-    return error;
+    await log("JOBHANDLER ERROR", `${error.name} -- ${error.message}`);
+    throw error;
   } finally {
     if (browser !== null) {
       await browser.close();
