@@ -6,7 +6,7 @@ companyName: "Mechanism"
 url: "https://jobs.lever.co/mechanism-2/90e323a2-de70-4e4e-b4c3-30174755331f"
 applyUrl: "https://jobs.lever.co/mechanism-2/90e323a2-de70-4e4e-b4c3-30174755331f/apply"
 timestamp: 1629676800000
-hashtags: "#content,#management,#qa,#marketing,#javascript,#analytics,#html,#css,#scrum,#ui/ux"
+hashtags: "#seo"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/mechanism"
 companyWebsite: "http://www.mechanism.com/"
