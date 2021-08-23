@@ -3,6 +3,7 @@ const AWS = require("aws-sdk");
 const switchFunc = require("./switch");
 const fetch = require("node-fetch");
 const { customAlphabet } = require("nanoid");
+const log = require("./logger");
 const nanoid = customAlphabet(
   "ModuleSymbhasOwnPrABCDEFGHNRVfgctiUvzKqYTJkLxpZXIjQW",
   5
@@ -51,6 +52,22 @@ exports.exec = async (event) => {
       browser
     ).getUrls();
 
+    if (!companyName) {
+      await log(
+        "Company name is missing",
+        `${url} on ${platform} --- companyName is ${companyName}.`
+      );
+      throw new Error(`${url} on ${platform}.`);
+    }
+
+    if (urls.length === 0) {
+      await log(
+        "0 job post urls found.",
+        `${url} on ${platform} --- found 0 job post urls.`
+      );
+      throw new Error(`${url} on ${platform}`);
+    }
+
     let logoKey = null;
 
     if (logoUrl) {
@@ -79,31 +96,38 @@ exports.exec = async (event) => {
       }
     }
 
-    const results = await client.scan({
-      TableName: process.env.URLS_TABLE,
-      FilterExpression: "hubUrl = :hubUrl AND archived = :archived",
-      ExpressionAttributeValues: {
-        ":hubUrl": url,
-        ":archived": false,
-      }
-    }).promise();
+    const results = await client
+      .scan({
+        TableName: process.env.URLS_TABLE,
+        FilterExpression: "hubUrl = :hubUrl AND archived = :archived",
+        ExpressionAttributeValues: {
+          ":hubUrl": url,
+          ":archived": false,
+        },
+      })
+      .promise();
 
-    const currentUrls = results.Items.map(i => i.url);
+    const currentUrls = results.Items.map((i) => i.url);
 
-    const urlsToArchive = currentUrls.filter((currentUrl) => !urls.includes(currentUrl));
+    const urlsToArchive = currentUrls.filter(
+      (currentUrl) => !urls.includes(currentUrl)
+    );
 
     const toArchive = await Promise.all(
-      urlsToArchive.map((currentUrl) => 
-        client.update({
-          TableName: process.env.URLS_TABLE,
-          Key: { url: currentUrl },
-          UpdateExpression: "set archived = :archived, archivedAt = :archivedAt, updatedAt = :updatedAt",
-          ExpressionAttributeValues: {
-            ":archived": true,
-            ":archivedAt": timestamp,
-            ":updatedAt": timestamp,
-          }
-        }).promise()
+      urlsToArchive.map((currentUrl) =>
+        client
+          .update({
+            TableName: process.env.URLS_TABLE,
+            Key: { url: currentUrl },
+            UpdateExpression:
+              "set archived = :archived, archivedAt = :archivedAt, updatedAt = :updatedAt",
+            ExpressionAttributeValues: {
+              ":archived": true,
+              ":archivedAt": timestamp,
+              ":updatedAt": timestamp,
+            },
+          })
+          .promise()
       )
     );
 
@@ -123,23 +147,20 @@ exports.exec = async (event) => {
               ":published": false,
               ":crawlable": true,
               ":archived": false,
-              ":companyLogo": logoKey ? `${process.env.LOGOS_S3_URL}/${logoKey}`: null,
+              ":companyLogo": logoKey
+                ? `${process.env.LOGOS_S3_URL}/${logoKey}`
+                : null,
               ":companyWebsite": companyWebsite,
               ":platform": platform,
               ":hubUrl": url,
               ":urlHash": nanoid(),
             },
           })
-          .promise()
-        })
+          .promise();
+      })
     );
-
-
-
-
   } catch (error) {
-    console.warn(error);
-    return error;
+    throw error;
   } finally {
     if (browser !== null) {
       await browser.close();
