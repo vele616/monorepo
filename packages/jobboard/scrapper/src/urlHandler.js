@@ -57,7 +57,7 @@ exports.exec = async (event) => {
         "Company name is missing",
         `${url} on ${platform} --- companyName is ${companyName}.`
       );
-      throw new Error(`${url} on ${platform}.`);
+      return;
     }
 
     if (urls.length === 0) {
@@ -65,7 +65,7 @@ exports.exec = async (event) => {
         "0 job post urls found.",
         `${url} on ${platform} --- found 0 job post urls.`
       );
-      throw new Error(`${url} on ${platform}`);
+      return;
     }
 
     let logoKey = null;
@@ -160,7 +160,10 @@ exports.exec = async (event) => {
       })
     );
   } catch (error) {
-    await log("URLHANDLER ERROR", `${error.name} -- ${error.message}`);
+    await log(
+      "URLHANDLER ERROR",
+      `${url} on ${platform} --- ${error.name} -> ${error.message}`
+    );
     throw error;
   } finally {
     if (browser !== null) {
