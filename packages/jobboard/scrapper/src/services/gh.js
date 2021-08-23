@@ -39,9 +39,15 @@ const getUrls = async (browser, url) => {
   }
 
   return await page.evaluate((remoteWords) => {
-    const companyName =
-      document.querySelector('[property="og:title"]')?.content ||
-      document.querySelector("h1")?.textContent;
+    const ogTitle = document.querySelector('[property="og:title"]')
+      ? document.querySelector('[property="og:title"]').content
+      : undefined;
+
+    const h1Text = document.querySelector("h1")
+      ? document.querySelector("h1").textContent
+      : undefined;
+
+    const companyName = ogTitle || h1Text;
     const logoUrl = document.querySelector("#logo > img");
     const isRemote = [...document.querySelectorAll(".location")];
     const urls = [...document.querySelectorAll("section > div > a")]
