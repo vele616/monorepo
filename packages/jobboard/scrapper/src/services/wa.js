@@ -1,7 +1,9 @@
+const createPage = require("../page/createPageWithInterceptor");
+
 const remoteWords = require("../remoteWords");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
 
   await page.goto(url);
 
@@ -96,7 +98,7 @@ const getUrls = async (browser, url) => {
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
 
   return {
@@ -116,7 +118,9 @@ const getJobs = async (browser, url) => {
         content: parent.innerHTML
           .replace(/(h3|h4)/g, "h2")
           .replace(/<br>/g, ""),
-        location: location ? location.textContent.replace("City of Zagreb, ", "") : null,
+        location: location
+          ? location.textContent.replace("City of Zagreb, ", "")
+          : null,
       };
     })),
     url,

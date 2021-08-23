@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React, { useCallback, useState } from 'react';
+import React, { useCallback, useState, useMemo } from 'react';
 import Layout from '../components/Layout';
 import Search from '../components/Search';
 import SearchResults from '../components/Search/Results';
@@ -20,6 +20,15 @@ const SearchPage = ({ location }) => {
     handleOnPageChange(page);
   }, []);
 
+  /**
+   * If search page has been accessed from homepage (index page) via See more developer/other jobs,
+   * skip first 12 jobs by scrolling to the 12th job 
+   */
+  const scrollToJobWithIndex = useMemo(() => {
+    if (location && location.state && location.state.linkFromIndex) return 10;
+    return undefined;
+  }, [location]);
+
   return (
     <Layout pageTitle="search">
       <div className={styles.search}>
@@ -31,6 +40,7 @@ const SearchPage = ({ location }) => {
         />
         {hasSearched && (
           <SearchResults
+            scrollToJobWithIndex={scrollToJobWithIndex}
             searchQuery={searchQuery}
             defaultPage={currentPage}
             onPageChange={handleOnPageChange}

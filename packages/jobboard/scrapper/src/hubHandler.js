@@ -19,6 +19,12 @@ if (process.env.IS_OFFLINE) {
   };
 }
 
+let timespan = 24 * 60 * 60 * 1000;
+
+if (process.env.IS_OFFLINE) {
+  timespan = 0;
+}
+
 const client = new AWS.DynamoDB.DocumentClient(dbOptions);
 
 const eventBridge = new AWS.EventBridge(options);
@@ -32,7 +38,7 @@ exports.exec = async () => {
         TableName: process.env.HUBS_TABLE,
         FilterExpression: "crawledAt < :timestamp",
         ExpressionAttributeValues: {
-          ":timestamp": timestamp - 24 * 60 * 60 * 1000,
+          ":timestamp": timestamp - timespan,
         },
       })
       .promise();
@@ -40,7 +46,6 @@ exports.exec = async () => {
     const hubs = result.Items.sort((a, b) => a.crawledAt - b.crawledAt)
       .slice(0, 10)
       .map((t) => ({ url: t.url, platform: t.platform }));
-
     if (hubs.length > 0) {
       await Promise.all(
         hubs.map(({ url, platform }) =>
