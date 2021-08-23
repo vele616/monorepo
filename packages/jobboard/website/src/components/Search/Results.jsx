@@ -19,12 +19,16 @@ const SearchResults = ({
 
   const jobs = useMemo(() => {
     const { input, filters } = searchQuery;
-    const { experience, contract, skills } = filters || {};
+    const { experience, contract, skills, jobType } = filters || {};
 
     let experienceIds = [];
     let contractIds = [];
     let skillsIds = [];
+    let jobTypeIds = [];
 
+    if (jobType && jobType.length > 0) {
+      jobTypeIds = jobType.map((t) => t.id || t);
+    }
     if (experience && experience.length > 0) {
       experienceIds = experience.map((e) => e.id || e);
     }
@@ -42,7 +46,8 @@ const SearchResults = ({
       input,
       experienceIds,
       contractIds,
-      skillsIds
+      skillsIds,
+      jobTypeIds
     );
 
     return (

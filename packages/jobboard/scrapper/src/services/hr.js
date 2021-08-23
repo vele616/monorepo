@@ -1,14 +1,17 @@
 const remoteWords = require("../remoteWords");
+const createPage = require("../page/createPageWithInterceptor");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
 
   return await page.evaluate((remoteWords) => {
-    const companyWebsite = document.querySelector('.company-site > a');
-    const logoUrl = document.querySelector('figure > img');
-    const isRemote = [...document.querySelectorAll('[data-job-list-items] > a > div > div')];
-    const urls = [...document.querySelectorAll('[data-job-list-items] > a')]
+    const companyWebsite = document.querySelector(".company-site > a");
+    const logoUrl = document.querySelector("figure > img");
+    const isRemote = [
+      ...document.querySelectorAll("[data-job-list-items] > a > div > div"),
+    ];
+    const urls = [...document.querySelectorAll("[data-job-list-items] > a")]
 
       .map((url, i) => ({
         url: url.href,
@@ -25,26 +28,35 @@ const getUrls = async (browser, url) => {
         .querySelector('[property="og:site_name"]')
         .getAttribute("content"),
       logoUrl: logoUrl ? logoUrl.src : null,
-      companyWebsite: companyWebsite ? companyWebsite.href : window.location.href,
+      companyWebsite: companyWebsite
+        ? companyWebsite.href
+        : window.location.href,
     };
   }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
   return {
     ...(await page.evaluate(() => {
-
       const location1 = document.querySelector(".info > ul > li:last-child");
 
       return {
-        title: document.querySelector('h1 > span').textContent,
-        content: [...document.querySelectorAll('div.article[data-medium-editor-element]')].map(el => el.innerHTML).join(' ')
+        title: document.querySelector("h1 > span").textContent,
+        content: [
+          ...document.querySelectorAll(
+            "div.article[data-medium-editor-element]"
+          ),
+        ]
+          .map((el) => el.innerHTML)
+          .join(" ")
           .replace(/h1/g, "h2")
           .replace(/\n|<br>/g, "")
           .replace(/<b[a-zA-Z-=0-9":;\. ]*>(.*?)<\/b>/g, "<span>$1</span>"),
-        location: location1 ? location1.textContent.replace(/.+?(?=remote)/i, "").trim() : null,
+        location: location1
+          ? location1.textContent.replace(/.+?(?=remote)/i, "").trim()
+          : null,
       };
     })),
     url,

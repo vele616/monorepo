@@ -1,22 +1,26 @@
 const remoteWords = require("../remoteWords");
+const createPage = require("../page/createPageWithInterceptor");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
 
   await page.goto(url);
 
   return await page.evaluate((remoteWords) => {
     const logoUrl = document.querySelector(".header-main-logo > img");
     const companyWebsite = document.querySelector(".header-main-link");
-    const urls = [...document.querySelectorAll('.js-card')].map((el) => {
-      const remote = el.querySelector('.col-md-4');
-      const url = el.querySelector('a');
-      return {
-        url: url.href,
-        isRemote: remote ? remote.textContent : null,
-      }
-    })
-      .filter((t) => new RegExp(`${remoteWords.join('|')}`, 'gi').test(t.isRemote))
+    const urls = [...document.querySelectorAll(".js-card")]
+      .map((el) => {
+        const remote = el.querySelector(".col-md-4");
+        const url = el.querySelector("a");
+        return {
+          url: url.href,
+          isRemote: remote ? remote.textContent : null,
+        };
+      })
+      .filter((t) =>
+        new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+      )
       .map((t) => t.url);
 
     return {
@@ -33,7 +37,7 @@ const getUrls = async (browser, url) => {
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
   return {
     ...(await page.evaluate(() => {

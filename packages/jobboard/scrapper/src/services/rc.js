@@ -1,7 +1,8 @@
 const remoteWords = require("../remoteWords");
+const createPage = require("../page/createPageWithInterceptor");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
 
   return await page.evaluate((remoteWords) => {
@@ -24,13 +25,15 @@ const getUrls = async (browser, url) => {
         .querySelector('[property="og:site_name"]')
         .getAttribute("content"),
       logoUrl: logoUrl ? logoUrl.src : null,
-      companyWebsite: companyWebsite ? companyWebsite.href : window.location.href,
+      companyWebsite: companyWebsite
+        ? companyWebsite.href
+        : window.location.href,
     };
   }, remoteWords);
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
   return {
     ...(await page.evaluate(() => {
@@ -48,9 +51,18 @@ const getJobs = async (browser, url) => {
         content: parent.innerHTML
           .replace(/\n|&nbsp;|<br>/g, "")
           .replace(/h3|h1/g, "h2")
-          .replace(/<strong[a-zA-Z-=0-9":;\. ]*><span[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/span><\/strong>/g, "<h2>$1</h2>")
-          .replace(/<(span|h2|p)[a-zA-Z-=0-9":;\. ]*><strong[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/strong><\/(span|h2|p)>/g, "<h2>$2</h2>")
-          .replace(/<(h2|span|strong)[a-zA-Z-=0-9":;\. ]*><(span|a)[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/(span|a)><\/(h2|span|strong)>/g, "<p>$3</p>"),
+          .replace(
+            /<strong[a-zA-Z-=0-9":;\. ]*><span[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/span><\/strong>/g,
+            "<h2>$1</h2>"
+          )
+          .replace(
+            /<(span|h2|p)[a-zA-Z-=0-9":;\. ]*><strong[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/strong><\/(span|h2|p)>/g,
+            "<h2>$2</h2>"
+          )
+          .replace(
+            /<(h2|span|strong)[a-zA-Z-=0-9":;\. ]*><(span|a)[a-zA-Z-=0-9":;\. ]*>([^<]+)<\/(span|a)><\/(h2|span|strong)>/g,
+            "<p>$3</p>"
+          ),
         location: location1 ? location1.textContent.trim() : null,
       };
     })),

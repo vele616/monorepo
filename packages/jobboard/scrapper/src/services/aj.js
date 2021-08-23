@@ -1,34 +1,34 @@
 const remoteWords = require("../remoteWords");
+const createPage = require("../page/createPageWithInterceptor");
 
 const getUrls = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
 
   await page.goto(url);
 
   return await page.evaluate((remoteWords) => {
-
-    const logoUrl = document.querySelector('.brand-logo > img');
-    const companyWebsite = document.querySelector('.jobs-navbar > div > a');
+    const logoUrl = document.querySelector(".brand-logo > img");
+    const companyWebsite = document.querySelector(".jobs-navbar > div > a");
     const urls = [...document.querySelectorAll(".list-group-item")]
-        .map((el) => {
-          const remote = el.querySelector('h4 > a');
-          const url = el.querySelector("h4 > a");
-          return {
-            isRemote: remote ? remote.textContent : null,
-            url: url.href,
-          };
-        })
-        .filter((t) =>
-          new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
-        )
-        .map((t) => t.url);
+      .map((el) => {
+        const remote = el.querySelector("h4 > a");
+        const url = el.querySelector("h4 > a");
+        return {
+          isRemote: remote ? remote.textContent : null,
+          url: url.href,
+        };
+      })
+      .filter((t) =>
+        new RegExp(`${remoteWords.join("|")}`, "gi").test(t.isRemote)
+      )
+      .map((t) => t.url);
 
     return {
       urls,
       companyName: document
         .querySelector('[property="og:title"]')
         .getAttribute("content")
-        .replace(' - Career Page', ''),
+        .replace(" - Career Page", ""),
       logoUrl: logoUrl ? logoUrl.src : null,
       companyWebsite: companyWebsite ? companyWebsite.href : null,
     };
@@ -36,34 +36,36 @@ const getUrls = async (browser, url) => {
 };
 
 const getJobs = async (browser, url) => {
-  const page = await browser.newPage();
+  const page = await createPage(browser);
   await page.goto(url);
   return {
     ...(await page.evaluate(() => {
-
       const avgLength = [
-        ...document
-          .querySelector('.description')
-          .querySelectorAll("p"),
+        ...document.querySelector(".description").querySelectorAll("p"),
       ]
         .map((p) => p.textContent.length)
         .filter((l) => l > 1)
         .reduce((acc, l, i, src) => acc + l / src.length, 0);
 
-      const content = [...document.querySelector('.description').children].map((i) => {
-        if (i.localName === "h2") {
-          return `<h2>${i.textContent}</h2>`;
-        } else if (i.localName === "p" && i.textContent.length < avgLength / 3) {
-          return `<h2>${i.textContent}</h2>`;
-        } else if (i.localName === "ul" || i.localName === "ol") {
-          return i.innerHTML;
-        } else {
-          return `<p>${i.textContent}</p>`;
-        }
-      }).join("");
+      const content = [...document.querySelector(".description").children]
+        .map((i) => {
+          if (i.localName === "h2") {
+            return `<h2>${i.textContent}</h2>`;
+          } else if (
+            i.localName === "p" &&
+            i.textContent.length < avgLength / 3
+          ) {
+            return `<h2>${i.textContent}</h2>`;
+          } else if (i.localName === "ul" || i.localName === "ol") {
+            return i.innerHTML;
+          } else {
+            return `<p>${i.textContent}</p>`;
+          }
+        })
+        .join("");
 
       return {
-        title: document.querySelector('.job-header > div > h1').textContent,
+        title: document.querySelector(".job-header > div > h1").textContent,
         content: content,
         location: document.querySelector('[title="Location"]').textContent,
       };

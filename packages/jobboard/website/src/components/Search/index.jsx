@@ -52,6 +52,7 @@ const Search = ({
         contract: [],
         experience: [],
         skills: [],
+        jobType: []
       },
     };
 
@@ -62,7 +63,11 @@ const Search = ({
         contract = '',
         experience = '',
         skills = '',
+        jobType =  '',
       } = querystring.parse(location.search);
+      if (typeof jobType === 'string') {
+        queryParams.filters.jobType = jobType.split(',') || [];
+      }
       if (typeof contract === 'string') {
         queryParams.filters.contract = contract.split(',') || [];
       }
@@ -149,52 +154,81 @@ const Search = ({
   const renderFilters = useMemo(() => {
     return (
       <>
-        {filters.map(({ id, name, options }) => (
-          <Select
-            id={`${id}-filter`}
-            defaultSelection={
-              queryParams && queryParams.filters && queryParams.filters[id]
-            }
-            key={id}
-            onChange={(selection) => handleOnFilterChange(selection, id)}
-            className={styles.filters__filter}
-            pill
-            multiselect
-            clear
-            label={name}
-            title={name}
-            x={'center'}
-            y={'bottom'}
-          >
-            {options.map(({ id, value }) => (
-              <Select.Option key={id} id={id}>
-                {value}
-              </Select.Option>
-            ))}
-          </Select>
-        ))}
         <Select
-          id={'skills-filter'}
+          id={'job-type-filter'}
           defaultSelection={
-            queryParams && queryParams.filters && queryParams.filters['skills']
+            queryParams && queryParams.filters && queryParams.filters['jobType']
           }
-          key="skills"
-          onChange={(selection) => handleOnFilterChange(selection, 'skills')}
+          key="jobType"
+          onChange={(selection) => handleOnFilterChange(selection, 'jobType')}
           className={styles.filters__filter}
           pill
           multiselect
           clear
-          label="Skills"
-          title="Skills"
+          label="Job Type"
+          title="Job Type"
           x={'center'}
           y={'bottom'}
         >
-          {hashtags.map((tag) => (
-            <Select.Option key={tag} id={tag}>
-              {tag}
-            </Select.Option>
-          ))}
+          <Select.Option id="software">
+            Software developer
+          </Select.Option>
+          <Select.Option id="other">
+            Other IT jobs
+          </Select.Option>
         </Select>
+        {/*
+
+          Hide these filters for now.
+
+          {filters.map(({ id, name, options }) => (
+            <Select
+              style={{ display: 'none' }}
+              id={`${id}-filter`}
+              defaultSelection={
+                queryParams && queryParams.filters && queryParams.filters[id]
+              }
+              key={id}
+              onChange={(selection) => handleOnFilterChange(selection, id)}
+              className={styles.filters__filter}
+              pill
+              multiselect
+              clear
+              label={name}
+              title={name}
+              x={'center'}
+              y={'bottom'}
+            >
+              {options.map(({ id, value }) => (
+                <Select.Option key={id} id={id}>
+                  {value}
+                </Select.Option>
+              ))}
+            </Select>
+          ))}
+          <Select
+            id={'skills-filter'}
+            defaultSelection={
+              queryParams && queryParams.filters && queryParams.filters['skills']
+            }
+            key="skills"
+            onChange={(selection) => handleOnFilterChange(selection, 'skills')}
+            className={styles.filters__filter}
+            pill
+            multiselect
+            clear
+            label="Skills"
+            title="Skills"
+            x={'center'}
+            y={'bottom'}
+          >
+            {hashtags.map((tag) => (
+              <Select.Option key={tag} id={tag}>
+                {tag}
+              </Select.Option>
+            ))}
+          </Select>
+        */}
       </>
     );
   }, [filters, queryParams.filters]);
@@ -210,6 +244,7 @@ const Search = ({
     // Execute search if there is something in query params on first load
 
     if (
+      Object.keys(queryParams.filters.jobType.length === 0) &&
       Object.keys(queryParams.filters.contract.length === 0) &&
       Object.keys(queryParams.filters.experience.length === 0) &&
       Object.keys(queryParams.filters.skills.length === 0) &&
@@ -223,6 +258,16 @@ const Search = ({
     const searchData = { input: queryParams.q, filters: {} };
 
     Object.entries(queryParams.filters).map(([filterId, options]) => {
+      // Get only valid jobTypes
+      if (filterId === 'jobType' && options && options.length > 0) {
+        const existingJobTypes = options.filter((opt) => {
+          return ['software', 'other'].find((tag) => tag === opt);
+        });
+        if (existingJobTypes && existingJobTypes.length > 0) {
+          searchData.filters['jobType'] = existingJobTypes;
+        }
+      }
+
       // Get only valid skills
       if (filterId === 'skills' && options && options.length > 0) {
         const existingSkills = options.filter((opt) => {
