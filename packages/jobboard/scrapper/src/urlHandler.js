@@ -160,6 +160,7 @@ exports.exec = async (event) => {
       })
     );
   } catch (error) {
+    await log("URLHANDLER ERROR", `${error.name} -- ${error.message}`);
     throw error;
   } finally {
     if (browser !== null) {
