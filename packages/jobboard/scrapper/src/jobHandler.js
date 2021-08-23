@@ -204,7 +204,12 @@ exports.exec = async (event) => {
     }
     return { event };
   } catch (error) {
-    await log("JOBHANDLER ERROR", `${error.name} -- ${error.message}`);
+    await log(
+      "JOBHANDLER ERROR",
+      `${JSON.stringify(event.Records[0], null, 2)} -- ${error.name} -> ${
+        error.message
+      }`
+    );
     throw error;
   } finally {
     if (browser !== null) {
