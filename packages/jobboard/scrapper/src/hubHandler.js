@@ -84,7 +84,8 @@ exports.exec = async () => {
     }
   } catch (error) {
     await log("HUBHANDLER ERROR", `${error.name} -- ${error.message}`);
-    throw error;
+    console.error(error);
+    return;
   } finally {
   }
 };

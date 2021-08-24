@@ -210,7 +210,8 @@ exports.exec = async (event) => {
         error.message
       }`
     );
-    throw error;
+    console.error(error);
+    return;
   } finally {
     if (browser !== null) {
       await browser.close();

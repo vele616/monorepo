@@ -164,7 +164,8 @@ exports.exec = async (event) => {
       "URLHANDLER ERROR",
       `${url} on ${platform} --- ${error.name} -> ${error.message}`
     );
-    throw error;
+    console.error(error);
+    return;
   } finally {
     if (browser !== null) {
       await browser.close();
