@@ -1,18 +1,18 @@
 ---
-title: "Remote Intermediate+ Full-stack (Node.js/PHP) Developer"
+title: "Mid Full-stack Developer"
 location: "Remote"
 host: "https://scopicsoftware.recruiterbox.com/?q=&limit=100"
 companyName: "Scopic"
 url: "https://scopicsoftware.recruiterbox.com/jobs/fk0smkn/"
 applyUrl: "https://scopicsoftware.recruiterbox.com/jobs/fk0smkn/?apply=true"
 timestamp: 1629763200000
-hashtags: "#php,#html,#reactjs,#angular,#vuejs,#css,#HR,#sql"
+hashtags: "#nodejs,#php"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/scopic"
 companyWebsite: "https://scopicsoftware.com/"
 summary: "If you have 3+ years of software development experience, consider applying to Scopic's job post for a new remote intermediate+ full-stack."
 summaryBackup: "Love #php, #html, #reactjs? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 Are you on the hunt for exciting new challenges that boost your professional growth? If you’re an innovator by nature and aFull-Stack Developerby trade, we’d love to hear from you!
@@ -25,7 +25,7 @@ The skills and traits we’re looking for:
 
 *   3+ years of software development experience
 *   Excellent back-end and front-end programming skills
-*   Proficiency inNode.js or PHP and either one of the front-end frameworks (React/Redux, Angular or Vue)
+*   Proficiency i Node.js or PHP and either one of the front-end frameworks (React/Redux, Angular or Vue)
 *   Experience with HTML, HTML5, and CSS
 *   Understanding of SQL and NoSQL databases and proficiency in one of them is required
     
