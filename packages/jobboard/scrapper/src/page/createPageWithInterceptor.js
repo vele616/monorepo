@@ -1,7 +1,7 @@
 const createPageWithInterceptor = async (browser) => {
   const page = await browser.newPage();
 
-  await page.setRequestInterception(true);
+  /*await page.setRequestInterception(true);
 
   page.on("request", (request) => {
     if (
@@ -11,7 +11,7 @@ const createPageWithInterceptor = async (browser) => {
     } else {
       request.continue();
     }
-  });
+  });*/
 
   return page;
 };

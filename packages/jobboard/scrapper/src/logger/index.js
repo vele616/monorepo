@@ -32,6 +32,7 @@ const createPayload = (type, text) => {
 const log = async (type, text) => {
   const payload = createPayload(type, text);
 
+  if (process.env.IS_OFFLINE) return;
   try {
     await fetch("https://slack.com/api/chat.postMessage", {
       method: "POST",

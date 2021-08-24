@@ -5,7 +5,9 @@ const remoteWords = require("../remoteWords");
 const getUrls = async (browser, url) => {
   const page = await createPage(browser);
 
-  await page.goto(url);
+  await page.goto(url, {
+    waitUntil: "networkidle2",
+  });
 
   try {
     await page.click('a[data-ui="clear-filters"]');
@@ -99,7 +101,9 @@ const getUrls = async (browser, url) => {
 
 const getJobs = async (browser, url) => {
   const page = await createPage(browser);
-  await page.goto(url);
+  await page.goto(url, {
+    waitUntil: "networkidle2",
+  });
 
   return {
     ...(await page.evaluate(() => {
