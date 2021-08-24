@@ -659,6 +659,21 @@ module.exports = {
     hashtag: "#sales",
     keywords: ["sales"],
   },
+  seo: {
+    rating: 40,
+    class: {
+      software: 30,
+      other: 70,
+    },
+    hashtag: "#seo",
+    keywords: [
+      "seo",
+      "Search Engine Optimization",
+      "search engine",
+      "building links",
+      "backlinks",
+    ],
+  },
   scrum: {
     rating: 40,
     class: {
