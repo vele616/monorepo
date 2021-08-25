@@ -6,11 +6,11 @@ companyName: "Hometime"
 url: "https://hometime.bamboohr.com/jobs/view.php?id=94&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=94&source=other"
 timestamp: 1629849600000
-hashtags: "#content,#marketing,#management,#qa,#ui/ux"
+hashtags: "#content,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
-summary: "Hometime is looking for a portfolio and content coordinator that has experience in: #content, #marketing, #management."
+summary: "Hometime is looking for a portfolio and content coordinator that has experience in: #content, #marketing."
 summaryBackup: "To apply as a portfolio and content coordinator at Hometime, you preferably need to have some #content, #marketing, #management."
 featured: 20
 ---
