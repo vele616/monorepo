@@ -1,12 +1,12 @@
 ---
-title: "WordPress Developer (Frontend)"
+title: "WordPress Developer"
 location: "Minneapolis, MN - Remote OK"
 host: "https://modern-tribe.breezy.hr/"
 companyName: "modern-tribe"
 url: "https://modern-tribe.breezy.hr/p/03e3a7b2f753-wordpress-developer-frontend"
 applyUrl: "https://modern-tribe.breezy.hr/p/03e3a7b2f753-wordpress-developer-frontend/apply"
 timestamp: 1629849600000
-hashtags: "#javascript,#html,#wordpress,#reactjs,#css,#management,#vuejs,#ui/ux,#qa,#docker"
+hashtags: "#wordpress"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/modern-tribe"
 companyWebsite: "https://tri.be/"
@@ -90,7 +90,7 @@ Pay range is $40-$60/hour commensurate with qualifications and experience. We ar
 
 ## Perks
 
-We believe that distributed working is a way of life. We understand what it means to work remotely. We offer consistency in expectations, payment, and support. We believe in learning from each other and fostering personal growth. You can expect to learn a lot while working with us. Full time roles include a benefits package.
+We believe that distributed working is a way of life. We understand what it means to work ly. We offer consistency in expectations, payment, and support. We believe in learning from each other and fostering personal growth. You can expect to learn a lot while working with us. Full time roles include a benefits package.
 
 (Also, if you work enough with us, we’ll bring you on the [team trips](https://tri.be/blog/team-trip-2019/).)
 
