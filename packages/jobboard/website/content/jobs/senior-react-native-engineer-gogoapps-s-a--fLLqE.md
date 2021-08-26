@@ -6,7 +6,7 @@ companyName: "GogoApps S.A."
 url: "https://gogoapps.recruitee.com/o/senior-react-native-engineer"
 applyUrl: "https://gogoapps.recruitee.com/o/senior-react-native-engineer/c/new"
 timestamp: 1629936000000
-hashtags: "#reactjs,#typescript,#qa,#graphql"
+hashtags: "#reactnative"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/gogoapps-s-a-"
 companyWebsite: "http://www.gogoapps.io/"
