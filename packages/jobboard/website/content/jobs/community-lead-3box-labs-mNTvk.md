@@ -6,11 +6,11 @@ companyName: "3Box Labs"
 url: "https://jobs.lever.co/3box/cac4d9b2-4822-4c91-99b8-16c5d3dd75b6"
 applyUrl: "https://jobs.lever.co/3box/cac4d9b2-4822-4c91-99b8-16c5d3dd75b6/apply"
 timestamp: 1629936000000
-hashtags: "#content,#socialmedia,#qa,#management,#ui/ux"
+hashtags: "#content, #socialmedia"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/3box-labs"
 companyWebsite: "http://3boxlabs.com/"
-summary: "Excited about experience in: #content, #socialmedia, #qa? Check out this job post!"
+summary: "Excited about experience in: #content, #socialmedia? Check out this job post!"
 summaryBackup: "3Box Labs is looking for a community lead that has #content, #socialmedia, #qa."
 featured: 20
 ---
