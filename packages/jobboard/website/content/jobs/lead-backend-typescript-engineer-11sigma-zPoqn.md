@@ -6,7 +6,7 @@ companyName: "11sigma"
 url: "https://11sigma.breezy.hr/p/cf88c7238e5c01-lead-backend-typescript-engineer"
 applyUrl: "https://11sigma.breezy.hr/p/cf88c7238e5c01-lead-backend-typescript-engineer/apply"
 timestamp: 1629936000000
-hashtags: "#typescript,#aws,#git,#qa,#terraform,#postgresql,#redis,#ui/ux,#marketing"
+hashtags: "#typescript,#nodejs"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/11sigma"
 companyWebsite: "https://11sigma.com/"
