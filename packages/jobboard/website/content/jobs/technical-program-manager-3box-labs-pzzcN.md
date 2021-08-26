@@ -6,7 +6,7 @@ companyName: "3Box Labs"
 url: "https://jobs.lever.co/3box/a2a17598-2d22-403b-94eb-3e69643c9954"
 applyUrl: "https://jobs.lever.co/3box/a2a17598-2d22-403b-94eb-3e69643c9954/apply"
 timestamp: 1629936000000
-hashtags: "#management,#qa"
+hashtags: "#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/3box-labs"
 companyWebsite: "http://3boxlabs.com/"
