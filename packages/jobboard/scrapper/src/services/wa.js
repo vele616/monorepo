@@ -5,9 +5,13 @@ const remoteWords = require("../remoteWords");
 const getUrls = async (browser, url) => {
   const page = await createPage(browser);
 
-  await page.goto(url, {
+  const { status } = await page.goto(url, {
     waitUntil: "networkidle2",
   });
+
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
 
   try {
     await page.click('a[data-ui="clear-filters"]');
@@ -101,9 +105,13 @@ const getUrls = async (browser, url) => {
 
 const getJobs = async (browser, url) => {
   const page = await createPage(browser);
-  await page.goto(url, {
+  const { status } = await page.goto(url, {
     waitUntil: "networkidle2",
   });
+
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
 
   return {
     ...(await page.evaluate(() => {

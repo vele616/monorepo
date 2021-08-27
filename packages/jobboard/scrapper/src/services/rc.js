@@ -3,7 +3,10 @@ const createPage = require("../page/createPageWithInterceptor");
 
 const getUrls = async (browser, url) => {
   const page = await createPage(browser);
-  await page.goto(url);
+    const { status } = await page.goto(url);
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
 
   return await page.evaluate((remoteWords) => {
     const companyWebsite = document.querySelector("a.company-link");
@@ -34,7 +37,10 @@ const getUrls = async (browser, url) => {
 
 const getJobs = async (browser, url) => {
   const page = await createPage(browser);
-  await page.goto(url);
+    const { status } = await page.goto(url);
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
   return {
     ...(await page.evaluate(() => {
       const parent = document.querySelector("div > div > div > div.content");

@@ -3,7 +3,10 @@ const createPage = require("../page/createPageWithInterceptor");
 const getUrls = async (browser, url) => {
   const page = await createPage(browser);
 
-  await page.goto(url);
+    const { status } = await page.goto(url);
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
 
   return await page.evaluate(() => {
     const companyName = document.querySelector('[property="og:site_name"]');
@@ -25,7 +28,10 @@ const getUrls = async (browser, url) => {
 
 const getJobs = async (browser, url) => {
   const page = await createPage(browser);
-  await page.goto(url);
+    const { status } = await page.goto(url);
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
   return {
     ...(await page.evaluate(() => {
       return {

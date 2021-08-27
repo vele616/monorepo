@@ -3,7 +3,10 @@ const createPage = require("../page/createPageWithInterceptor");
 const getUrls = async (browser, url) => {
   const page = await createPage(browser);
 
-  await page.goto(url);
+    const { status } = await page.goto(url);
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
 
   return await page.evaluate(() => ({
     urls: [...document.querySelectorAll("a.job")].map((item) => item.href),
@@ -16,7 +19,10 @@ const getUrls = async (browser, url) => {
 
 const getJobs = async (browser, url) => {
   const page = await createPage(browser);
-  await page.goto(url);
+    const { status } = await page.goto(url);
+  if (status >= 400) {
+    throw new Error(`Received ${status} code while scrapping URL: ${url}`)
+  };
   return {
     ...(await page.evaluate(() => {
       const parent = document.querySelector(
