@@ -13,7 +13,7 @@ const getUrls = async (browser, url) => {
 
     return {
       urls,
-      companyName: null,
+      companyName: "wp",
       logoUrl: null,
       companyWebsite: window.location.href,
     };
