@@ -54,7 +54,7 @@ functions:
     timeout: 180
     events:
       - schedule:
-          rate: cron(15 10 ? * 6L 2002-2005)
+          rate: rate(1 minute)
   urlHandler:
     handler: src/urlHandler.exec
     memorySize: 768
