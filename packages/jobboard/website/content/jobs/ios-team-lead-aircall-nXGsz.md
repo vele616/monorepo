@@ -6,11 +6,11 @@ companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/36488910-1a78-458c-83de-0c0b3a3a8608"
 applyUrl: "https://jobs.lever.co/aircall/36488910-1a78-458c-83de-0c0b3a3a8608/apply"
 timestamp: 1630022400000
-hashtags: "#ios,#qa,#assembly,#android,#management,#ui/ux"
+hashtags: "#ios"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
-summary: "Aircall wishes to hire a new ios team lead. If you have 5+ years) to join our engineering team in Paris, Madrid, UK, Berlin, consider applying."
+summary: "Aircall wishes to hire a new ios team lead. If you have 5+ years of experience, consider applying."
 summaryBackup: "To apply as an ios team lead at Aircall, you preferably need to have some #ios, #qa, #assembly."
 featured: 20
 ---
