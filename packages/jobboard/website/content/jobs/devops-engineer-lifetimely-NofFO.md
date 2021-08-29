@@ -1,12 +1,12 @@
 ---
-title: "Devops engineer"
+title: "DevOps engineer"
 location: "United States - Remote OK"
 host: "https://lifetimely.breezy.hr/"
 companyName: "lifetimely"
 url: "https://lifetimely.breezy.hr/p/7ca05ba31d4601-devops-engineer"
 applyUrl: "https://lifetimely.breezy.hr/p/7ca05ba31d4601-devops-engineer/apply"
 timestamp: 1630022400000
-hashtags: "#management,#devops,#rails,#rubylang,#css,#linux,#analytics,#qa"
+hashtags: "#devops,#linux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/lifetimely"
 companyWebsite: "https://lifetimely.breezy.hr/"
