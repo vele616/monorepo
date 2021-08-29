@@ -13,6 +13,7 @@ companyWebsite: "http://aircall.io/"
 summary: "Aircall is searching for a senior product designer that has 4 years experience as a product designer or UX/UI designer."
 summaryBackup: "To apply as a senior product designer at Aircall, you preferably need to have some #ui/ux, #assembly, #css."
 featured: 20
+archived: "true"
 ---
 
 Aircall is on a mission to revolutionize the business phone industry!
