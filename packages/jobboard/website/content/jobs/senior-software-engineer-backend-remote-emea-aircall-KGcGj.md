@@ -1,16 +1,16 @@
 ---
-title: "Senior Software Engineer - Backend - Remote EMEA"
+title: "Senior Software Engineer"
 location: "Remote-EMEA"
 host: "https://jobs.lever.co/aircall/?location=Remote%20-%20EMEA"
 companyName: "Aircall"
 url: "https://jobs.lever.co/aircall/803ecd5d-f86e-43a0-9378-32f905e397b3"
 applyUrl: "https://jobs.lever.co/aircall/803ecd5d-f86e-43a0-9378-32f905e397b3/apply"
 timestamp: 1630022400000
-hashtags: "#qa,#rubylang,#aws,#typescript,#rails,#java,#scala,#scrum,#assembly,#ui/ux"
+hashtags: "#nodejs,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aircall"
 companyWebsite: "http://aircall.io/"
-summary: "Aircall is searching for a senior software engineer that has 8+ years of experience in back-end development , preferably using a typed language."
+summary: "Aircall is searching for a senior software engineer that has 8+ years of experience in back-end development, preferably using a typed language."
 summaryBackup: "Aircall is looking for a senior software engineer that has #qa, #rubylang, #aws."
 featured: 20
 ---
