@@ -12,7 +12,7 @@ jobType: "software"
 companyWebsite: "https://wellpaid.io/jobs"
 summary: "Crew Studio / Reskinned is looking for a tech lead that has experience in: #django, #reactjs."
 summaryBackup: "Love #django, #reactjs, #management? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 We're looking for a Senior Django dev to come and help us build the next iteration of [https://www.reskinned.clothing](https://www.reskinned.clothing/)  
