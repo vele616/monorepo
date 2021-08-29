@@ -1,16 +1,16 @@
 ---
-title: "Tech Lead / Senior Django Developer (Remote, Outside IR35)"
+title: "Tech Lead / Senior Django Developer"
 location: "Remote"
 host: "https://wellpaid.io/jobs"
 companyName: "Crew Studio / Reskinned"
 url: "https://wellpaid.io/job/tech-lead-senior-django-developer-direct-ksqa3l4j"
 applyUrl: "https://wellpaid.io/apply/direct-ksqa3l4j"
 timestamp: 1630022400000
-hashtags: "#django,#reactjs,#management,#graphql,#ui/ux"
+hashtags: "#django,#reactjs"
 jobType: "software"
 
 companyWebsite: "https://wellpaid.io/jobs"
-summary: "Crew Studio / Reskinned is looking for a tech lead that has experience in: #django, #reactjs, #management."
+summary: "Crew Studio / Reskinned is looking for a tech lead that has experience in: #django, #reactjs."
 summaryBackup: "Love #django, #reactjs, #management? Check out this job post!"
 featured: 20
 ---
