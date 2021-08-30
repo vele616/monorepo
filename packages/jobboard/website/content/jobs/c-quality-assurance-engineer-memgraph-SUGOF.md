@@ -13,6 +13,7 @@ companyWebsite: "http://memgraph.com/"
 summary: "If you have experience in C++, with a fair knowledge of the language specification, Memgraph has a job opening for a c++ quality assurance engineer"
 summaryBackup: "To apply as a c++ quality assurance engineer at Memgraph, you preferably need to have some #linux, #testing, #management."
 featured: 20
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://www.stickermule.com/"
 summary: "To apply as a machine learning engineer at Sticker Mule, you preferably need to have some experience in: #python, #pytorch, #tensorflow"
 summaryBackup: "Excited about #javascript, #python, #pytorch? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 **About Sticker Mule**

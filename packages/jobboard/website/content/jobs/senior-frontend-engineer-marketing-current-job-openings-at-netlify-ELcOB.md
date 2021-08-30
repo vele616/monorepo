@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/netlify"
 summary: "To apply as a senior frontend engineer at Current Job Openings at Netlify, you preferably need to have you also enjoy working with marketers, designers, content writers, and are able to have a healthy dialogue with them around matching expectations with practical considerations."
 summaryBackup: "Current Job Openings at Netlify is looking for a senior frontend engineer that has #marketing, #content, #javascript."
 featured: 20
+archived: "true"
 ---
 
 ## Company Overview

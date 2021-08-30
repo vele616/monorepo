@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 8 years working experiences in Finance, Hopin has a job opening for a senior accounting manager"
 summaryBackup: "To apply as a senior accounting manager at Hopin, you preferably need to have some #accountant, #analysis, #management."
 featured: 20
+archived: "true"
 ---
 
 ## 
