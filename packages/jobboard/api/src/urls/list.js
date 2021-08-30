@@ -11,6 +11,8 @@ if (process.env.IS_OFFLINE) {
 
 const lastArchived = 24 * 60 * 60 * 1000;
 
+const timeframe = 12 * 60 * 60 * 1000;
+
 const client = new AWS.DynamoDB.DocumentClient(options);
 
 exports.exec = async () => {
@@ -22,7 +24,7 @@ exports.exec = async () => {
         FilterExpression:
           "createdAt > :timestamp AND published = :published AND attribute_exists(jobPostFilename) OR archivedAt > :archivedAt",
         ExpressionAttributeValues: {
-          ":timestamp": timestamp - (timestamp % 86400000),
+          ":timestamp": timestamp - timeframe,
           ":published": false,
           ":archivedAt": timestamp - lastArchived,
         },
