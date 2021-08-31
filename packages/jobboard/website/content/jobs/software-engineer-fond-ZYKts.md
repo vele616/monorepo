@@ -6,7 +6,7 @@ companyName: "Fond"
 url: "https://jobs.lever.co/fond/cac130bf-6a30-445a-8994-6c4330bf4d5a"
 applyUrl: "https://jobs.lever.co/fond/cac130bf-6a30-445a-8994-6c4330bf4d5a/apply"
 timestamp: 1630195200000
-hashtags: "#reactjs,#rails,#rubylang,#javascript,#scrum,#android,#ios,#qa,#management,#css"
+hashtags: "#reactjs,#rails"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fond"
 companyWebsite: "http://fond.co/"
