@@ -6,11 +6,11 @@ companyName: "Forem"
 url: "https://jobs.forem.com/o/lead-software-engineer"
 applyUrl: "https://jobs.forem.com/o/lead-software-engineer/c/new"
 timestamp: 1630195200000
-hashtags: "#rails,#rubylang,#management,#javascript,#html,#git,#socialmedia"
+hashtags: "#rails,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/forem"
 companyWebsite: "https://forem.com/"
-summary: "Excited about experience in: #rails, #rubylang, #management? Check out this job post!"
+summary: "Excited about experience in creating a solution to a complex problem and complete it from end to end? Check out this job post!"
 summaryBackup: "Love #rails, #rubylang, #management? Check out this job post!"
 featured: 20
 ---
