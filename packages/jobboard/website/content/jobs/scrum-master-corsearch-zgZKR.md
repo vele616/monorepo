@@ -6,11 +6,11 @@ companyName: "Corsearch"
 url: "https://corsearch.recruitee.com/o/scrum-master"
 applyUrl: "https://corsearch.recruitee.com/o/scrum-master/c/new"
 timestamp: 1630195200000
-hashtags: "#scrum,#management,#HR,#analytics,#marketing,#qa"
+hashtags: "#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/corsearch"
 companyWebsite: "http://www.corsearch.com/"
-summary: "Corsearch is looking for a scrum master that has experience in: #scrum, #management, #HR."
+summary: "Corsearch is looking for a scrum master that has experience in resolving conflicts and removing impediments as they arise."
 summaryBackup: "Love #scrum, #management, #HR? Check out this job post!"
 featured: 20
 ---
