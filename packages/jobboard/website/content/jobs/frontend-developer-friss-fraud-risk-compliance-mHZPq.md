@@ -2,15 +2,15 @@
 title: "Frontend Developer"
 location: "Remote job"
 host: "https://friss.recruitee.com/"
-companyName: "FRISS | fraud, risk & compliance"
+companyName: "FRISS"
 url: "https://friss.recruitee.com/o/frontend-developer"
 applyUrl: "https://friss.recruitee.com/o/frontend-developer/c/new"
 timestamp: 1630195200000
-hashtags: "#scrum,#qa,#ui/ux"
+hashtags: "#ui/ux"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/friss-fraud-risk-compliance"
 companyWebsite: "https://www.friss.com/"
-summary: "FRISS | fraud, risk & compliance is looking for a frontend developer that has the user experience across all of FRISS products has improved because of your work."
+summary: "FRISS is looking for a frontend developer that has the user experience across all of FRISS products has improved because of your work."
 summaryBackup: "Excited about #scrum, #qa, #ui/ux? Check out this job post!"
 featured: 20
 ---
@@ -44,7 +44,7 @@ What was the most complex product that you coded in your life? Think about your 
 
 ## Who are you?
 
-Someone who is up for a challenge, you have to be an entrepreneurialdeveloper! Do you agree with the statement “Simplicity is theultimate sophistication” ? Do you see things that needs to be improved? Justgo for it, discuss new ideas, and work withyour team members to get the bestresults. Are you also able to speak English on business proficiency level (wellif you arrived this far in the text you probably do)? Then we really would liketo get to know more about you! Then we really would like to get to know moreabout you! Join our expedition and apply. See you soon!
+Someone who is up for a challenge, you have to be an entrepreneurial developer! Do you agree with the statement “Simplicity is theultimate sophistication” ? Do you see things that needs to be improved? Justgo for it, discuss new ideas, and work withyour team members to get the bestresults. Are you also able to speak English on business proficiency level (wellif you arrived this far in the text you probably do)? Then we really would liketo get to know more about you! Then we really would like to get to know moreabout you! Join our expedition and apply. See you soon!
 
 Don't let Imposter Syndrome stop you from applying! If you have any questions, you can contact us at [shravan.rangarajan@friss.com](mailto:shravan.rangarajan@friss.com).
 
