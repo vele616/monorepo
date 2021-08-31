@@ -1,12 +1,12 @@
 ---
-title: "WordPress Developer (Part Time Contractor)"
+title: "WordPress Developer"
 location: "United States"
 host: "https://apply.workable.com/convertkit/"
 companyName: "ConvertKit"
 url: "https://apply.workable.com/convertkit/j/FD7F22462F/"
 applyUrl: "https://apply.workable.com/convertkit/j/FD7F22462F/apply/"
 timestamp: 1630195200000
-hashtags: "#wordpress,#rails,#rubylang,#marketing,#chef,#css,#qa"
+hashtags: "#wordpress"
 jobType: "software"
 
 companyWebsite: "http://convertkit.com/"
