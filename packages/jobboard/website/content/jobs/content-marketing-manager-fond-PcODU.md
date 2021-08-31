@@ -6,7 +6,7 @@ companyName: "Fond"
 url: "https://jobs.lever.co/fond/4c37c54b-dd48-4715-8e65-86e4e6f9376a"
 applyUrl: "https://jobs.lever.co/fond/4c37c54b-dd48-4715-8e65-86e4e6f9376a/apply"
 timestamp: 1630195200000
-hashtags: "#content,#management,#marketing,#css,#sales,#socialmedia"
+hashtags: "#content,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fond"
 companyWebsite: "http://fond.co/"
