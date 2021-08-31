@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
 summary: "If you have 5+ years as an Account Manager, Account Executive, Customer Success or in a Partner Management role, Hopin has a job opening for an agency success manager"
 summaryBackup: "Hopin is looking for an agency success manager that has #management, #accountant, #css."
 featured: 20
+archived: "true"
 ---
 
 ## 
