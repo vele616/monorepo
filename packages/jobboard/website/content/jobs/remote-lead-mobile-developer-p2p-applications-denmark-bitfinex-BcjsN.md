@@ -1,16 +1,16 @@
 ---
-title: "Remote Lead Mobile Developer (P2P applications) - Denmark"
+title: "Lead Mobile Developer"
 location: "Engineering"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/remote-lead-mobile-developer-p2p-applications-denmark"
 applyUrl: "https://bitfinex.recruitee.com/o/remote-lead-mobile-developer-p2p-applications-denmark/c/new"
 timestamp: 1630195200000
-hashtags: "#android,#ios,#reactjs,#management,#marketing,#ui/ux,#scrum"
+hashtags: "#android,#ios"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
-summary: "If you have as the lead, you should have considerable experience with iOS/Android's capabilities and limitations, a low, Bitfinex is looking for someone with your knowledge."
+summary: "If you have considerable experience with iOS/Android's capabilities and limitations, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Bitfinex is looking for a remote lead mobile developer that has #android, #ios, #reactjs."
 featured: 20
 ---
