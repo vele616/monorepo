@@ -6,7 +6,7 @@ companyName: "jibble-group"
 url: "https://jibble-group.breezy.hr/p/6e29e66e265301-senior-node-js-developer"
 applyUrl: "https://jibble-group.breezy.hr/p/6e29e66e265301-senior-node-js-developer/apply"
 timestamp: 1630195200000
-hashtags: "#qa,#postgresql,#management,#javascript,#nodejs,#mongodb,#scrum,#elasticsearch,#HR,#aws"
+hashtags: "#nodejs,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jibble-group"
 companyWebsite: "https://www.jibble.io/"
