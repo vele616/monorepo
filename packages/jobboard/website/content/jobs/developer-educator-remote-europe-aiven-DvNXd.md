@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aiven"
 companyWebsite: "https://aiven.io/"
 summary: "Aiven wishes to hire a new developer educator. If you have you have demonstrable experience of creating content, specifically for an audience of software developers, consider applying."
 summaryBackup: "Love #content, #management, #postgresql? Check out this job post!"
-featured: 20
+featured: 2
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-title: "Elixir Developer (Contract)"
+title: "Elixir Developer"
 location: "Remote job"
 host: "https://dockyardinc1.recruitee.com/"
 companyName: "DockYard, Inc"
@@ -10,9 +10,9 @@ hashtags: "#elixir"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc"
 companyWebsite: "https://dockyard.com/"
-summary: "If you have 3-5 years of production experience with Elixir &amp, DockYard, Inc is looking for someone with your knowledge."
+summary: "If you have 3-5 years of production experience with Elixir, DockYard, Inc is looking for someone with your knowledge."
 summaryBackup: "DockYard, Inc is looking for an elixir developer that has #elixir, #postgresql, #macos."
-featured: 20
+featured: 1
 ---
 
 ## Job description
