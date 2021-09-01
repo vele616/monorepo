@@ -6,7 +6,7 @@ companyName: "DockYard, Inc"
 url: "https://dockyardinc1.recruitee.com/o/elixir-developer-contract-boston"
 applyUrl: "https://dockyardinc1.recruitee.com/o/elixir-developer-contract-boston/c/new"
 timestamp: 1630195200000
-hashtags: "#elixir,#postgresql,#macos,#scrum,#qa,#ui/ux"
+hashtags: "#elixir"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/dockyard-inc"
 companyWebsite: "https://dockyard.com/"
