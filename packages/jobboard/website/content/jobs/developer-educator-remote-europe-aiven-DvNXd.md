@@ -1,12 +1,12 @@
 ---
-title: "Developer Educator (remote Europe)"
+title: "Developer Educator"
 location: "Berlin, Berlin, Germany"
 host: "https://apply.workable.com/aiven/"
 companyName: "Aiven"
 url: "https://apply.workable.com/aiven/j/8CCAC3D54F/"
 applyUrl: "https://apply.workable.com/aiven/j/8CCAC3D54F/apply/"
 timestamp: 1630195200000
-hashtags: "#content,#management,#postgresql,#HR,#git,#scrum"
+hashtags: "#content,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/aiven"
 companyWebsite: "https://aiven.io/"
