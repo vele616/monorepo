@@ -1,12 +1,12 @@
 ---
-title: "Product Owner - Backend"
+title: "Product Owner"
 location: "Remote"
 host: "https://careers.flightradar24.com/jobs/"
 companyName: "Flightradar24"
 url: "https://careers.flightradar24.com/jobs/1303052-product-owner-backend"
 applyUrl: "https://careers.flightradar24.com/jobs/1303052-product-owner-backend/applications/new?"
 timestamp: 1630195200000
-hashtags: "#python,#scrum,#socialmedia,#management,#analytics,#qa,#ui/ux"
+hashtags: "#scrum"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/flightradar24"
 companyWebsite: "https://flightradar24.com/"
