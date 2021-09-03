@@ -6,7 +6,7 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/de0bd24b-0293-460d-ac6f-611606f36798"
 applyUrl: "https://jobs.lever.co/pathrise/de0bd24b-0293-460d-ac6f-611606f36798/apply"
 timestamp: 1630195200000
-hashtags: "#javascript"
+hashtags: "#rails,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
