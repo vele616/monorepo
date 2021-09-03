@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "If you have 2+ years of full-time software engineering experience, consider applying to Pathrise's job post for a new software engineer."
 summaryBackup: "Pathrise is looking for a software engineer that has #javascript, #reactjs, #rails."
-featured: 20
+featured: -1
 ---
 
 **What is Pathrise?**

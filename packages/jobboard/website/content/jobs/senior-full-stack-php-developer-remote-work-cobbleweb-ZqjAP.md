@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cobbleweb"
 companyWebsite: "https://www.cobbleweb.co.uk/lean-web-agency-we-recruit/?utm_source=recruitee"
 summary: "If you have experience with REST APIs, consider applying to CobbleWeb's job post for a new senior full stack php developer."
 summaryBackup: "Excited about #php, #qa, #scrum? Check out this job post!"
-featured: 20
+featured: 0
 ---
 
 ## Job description
