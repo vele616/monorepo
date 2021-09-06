@@ -6,13 +6,13 @@ companyName: "Hades"
 url: "https://apply.workable.com/hades/j/16659DC094/"
 applyUrl: "https://apply.workable.com/hades/j/16659DC094/apply/"
 timestamp: 1630195200000
-hashtags: "#python,#typescript,#javascript,#reactjs,#django,#qa,#html,#postgresql,#kubernetes,#docker"
+hashtags: "#python,#typescript"
 jobType: "software"
 
 companyWebsite: "http://hades.ai/"
 summary: "If you have 3 years of experience in web development, consider applying to Hades's job post for a new software engineer."
 summaryBackup: "Hades is looking for a software engineer that has #python, #typescript, #javascript."
-featured: 20
+featured: -2
 ---
 
 ## Description
