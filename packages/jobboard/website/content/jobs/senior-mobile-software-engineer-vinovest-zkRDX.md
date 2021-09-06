@@ -6,7 +6,7 @@ companyName: "Vinovest"
 url: "https://vinovest.recruitee.com/o/senior-mobile-software-engineer"
 applyUrl: "https://vinovest.recruitee.com/o/senior-mobile-software-engineer/c/new"
 timestamp: 1630195200000
-hashtags: "#reactjs,#typescript,#aws,#ui/ux,#figma"
+hashtags: "#reactnative,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
