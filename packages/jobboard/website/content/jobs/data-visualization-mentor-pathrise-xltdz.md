@@ -6,13 +6,13 @@ companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/6a57c4c8-42e4-4e15-9f12-95885fe3b111"
 applyUrl: "https://jobs.lever.co/pathrise/6a57c4c8-42e4-4e15-9f12-95885fe3b111/apply"
 timestamp: 1630195200000
-hashtags: "#python,#sql,#HR,#aws,#azure,#marketing,#sales,#socialmedia,#management"
+hashtags: "#python,#sql"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "Pathrise wishes to hire a new data visualization mentor. If you have 5+ years of experience in the technology, media, consulting or financial services, consider applying."
 summaryBackup: "Pathrise is looking for a data visualization mentor that has #python, #sql, #HR."
-featured: 20
+featured: -2
 ---
 
 **What is Pathrise?**
