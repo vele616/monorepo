@@ -8,11 +8,10 @@ applyUrl: "https://vinovest.recruitee.com/o/senior-mobile-software-engineer/c/ne
 timestamp: 1630195200000
 hashtags: "#reactnative,#typescript"
 jobType: "software"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "To apply as a senior mobile software engineer at Vinovest, you preferably need to have 3+ years of software development experience shipping features to consumers using React or React Native."
 summaryBackup: "Vinovest is looking for a senior mobile software engineer that has #reactjs, #typescript, #aws."
-featured: 20
+featured: -2
 ---
 
 ## Job description

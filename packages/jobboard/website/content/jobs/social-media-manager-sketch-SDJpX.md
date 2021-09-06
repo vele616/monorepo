@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/sketch"
 companyWebsite: "http://www.sketch.com/"
 summary: "Sketch is looking for a social media manager that has 4 years of experience in a social media or community management role."
 summaryBackup: "Love #socialmedia, #management, #content? Check out this job post!"
-featured: 20
+featured: -2
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products, every day. Would you like to join us and help take this leading design tool to the next level? We're looking to expand our team and appoint an experienced and creative Social Media Manager to join our talented team.
