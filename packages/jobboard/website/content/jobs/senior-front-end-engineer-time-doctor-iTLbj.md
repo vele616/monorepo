@@ -1,18 +1,18 @@
 ---
-title: "Senior Front-End Engineer"
+title: "Senior Frontend Engineer"
 location: "Kyiv, UA - Remote OK"
 host: "https://time-doctor.breezy.hr/"
 companyName: "time-doctor"
 url: "https://time-doctor.breezy.hr/p/d8b1942e1def-senior-front-end-engineer"
 applyUrl: "https://time-doctor.breezy.hr/p/d8b1942e1def-senior-front-end-engineer/apply"
 timestamp: 1630195200000
-hashtags: "#javascript,#angular,#nodejs,#typescript,#html,#management,#css,#marketing,#ui/ux"
+hashtags: "#javascript,#angular,#nodejs"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
 summary: "If you have 4 years of professional web app development experience, Time-doctor is looking for someone with your knowledge."
 summaryBackup: "Time-doctor is looking for a senior front-end engineer that has #javascript, #angular, #nodejs."
-featured: 20
+featured: -2
 ---
 
 ## About the Role
