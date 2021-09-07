@@ -1,18 +1,18 @@
 ---
-title: "TechOps Lead -100% Remote (EMEA  Region)"
+title: "TechOps Lead"
 location: "Remote Worldwide"
 host: "https://time-doctor.breezy.hr/"
 companyName: "time-doctor"
 url: "https://time-doctor.breezy.hr/p/45558fa00309-techops-lead-100-remote-emea-region"
 applyUrl: "https://time-doctor.breezy.hr/p/45558fa00309-techops-lead-100-remote-emea-region/apply"
 timestamp: 1630195200000
-hashtags: "#management,#analytics,#marketing,#css,#HR,#aws,#googlecloud,#ui/ux,#qa,#translation"
+hashtags: "#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
 summary: "If you have 2 years of TechOps Leadership position, Time-doctor has a job opening for a techops lead"
 summaryBackup: "To apply as a techops lead at Time-doctor, you preferably need to have some #management, #analytics, #marketing."
-featured: 20
+featured: -3
 ---
 
 ## Tech Ops Lead
