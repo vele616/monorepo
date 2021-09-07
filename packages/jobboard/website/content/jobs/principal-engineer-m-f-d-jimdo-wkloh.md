@@ -1,18 +1,18 @@
 ---
-title: "Principal Engineer (m/f/d)"
+title: "Principal Engineer"
 location: "Hamburg, DE - Remote OK"
 host: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 companyName: "jimdo"
 url: "https://jimdo.breezy.hr/p/cc3827b9bc1701-principal-engineer-m-f-d"
 applyUrl: "https://jimdo.breezy.hr/p/cc3827b9bc1701-principal-engineer-m-f-d/apply"
 timestamp: 1630195200000
-hashtags: "#qa,#java,#typescript,#aws,#ui/ux,#management"
+hashtags: "#java,#typescript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/jimdo"
 companyWebsite: "https://jimdo.breezy.hr/?&location=Hamburg%2C%20DE&department=Product%20%26%20Engineering#positions"
 summary: "If you have you have experience with DNS and domains, Jimdo is looking for someone with your knowledge."
 summaryBackup: "To apply as a principal engineer at Jimdo, you preferably need to have some #qa, #java, #typescript."
-featured: 20
+featured: -3
 ---
 
 ## Principal Engineer (m/f/d)
