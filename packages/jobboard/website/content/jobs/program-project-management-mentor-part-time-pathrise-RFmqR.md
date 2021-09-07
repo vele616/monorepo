@@ -1,18 +1,18 @@
 ---
-title: "Program & Project Management Mentor (Part-Time)"
+title: "Program & Project Management Mentor"
 location: "Remote"
 host: "https://jobs.lever.co/pathrise?location=Remote"
 companyName: "Pathrise"
 url: "https://jobs.lever.co/pathrise/995ca9db-e892-41ea-94dc-cf31cc105d4a"
 applyUrl: "https://jobs.lever.co/pathrise/995ca9db-e892-41ea-94dc-cf31cc105d4a/apply"
 timestamp: 1630195200000
-hashtags: "#management,#content,#analytics,#marketing,#ui/ux"
+hashtags: "#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/pathrise"
 companyWebsite: "http://pathrise.com/"
 summary: "Pathrise is searching for a program & project management mentor that has 3 years of industry experience with strategy and operations, business operations, corporate strategy, project and/or program management, or operations management."
 summaryBackup: "Pathrise is looking for a program & project management mentor that has #management, #content, #analytics."
-featured: 20
+featured: -3
 ---
 
 **What is Pathrise?**
