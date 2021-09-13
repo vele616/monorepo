@@ -6,7 +6,7 @@ companyName: "time-doctor"
 url: "https://time-doctor.breezy.hr/p/94254d5a4ba5-c-engineer"
 applyUrl: "https://time-doctor.breezy.hr/p/94254d5a4ba5-c-engineer/apply"
 timestamp: 1631491200000
-hashtags: "#python,#objectivec,#management,#css,#macos,#linux,#android,#ios,#marketing,#ui/ux"
+hashtags: "#cplusplus"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/time-doctor"
 companyWebsite: "https://www.timedoctor.com/"
