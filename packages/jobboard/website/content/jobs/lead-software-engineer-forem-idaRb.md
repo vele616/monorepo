@@ -13,6 +13,7 @@ companyWebsite: "https://forem.com/"
 summary: "Excited about experience in creating a solution to a complex problem and complete it from end to end? Check out this job post!"
 summaryBackup: "Love #rails, #rubylang, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description
