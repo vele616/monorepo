@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=beat"
 summary: "If you have experience with MVC development frameworks and cascading modularity, Beat is looking for someone with your knowledge."
 summaryBackup: "To apply as a senior backend engineer at Beat, you preferably need to have some #operations, #rest, #backend."
 featured: 1
+archived: "true"
 ---
 
 ## About us

@@ -13,6 +13,7 @@ companyWebsite: "https://www.timedoctor.com/"
 summary: "If you have 2 years of TechOps Leadership position, Time-doctor has a job opening for a techops lead"
 summaryBackup: "To apply as a techops lead at Time-doctor, you preferably need to have some #management, #analytics, #marketing."
 featured: -3
+archived: "true"
 ---
 
 ## Tech Ops Lead
