@@ -1,16 +1,16 @@
 ---
-title: "Software Project Manager (Remote)"
+title: "Software Project Manager"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/bit-zesty/?lng=en"
 companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/27DCA28FE5/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/27DCA28FE5/apply/"
 timestamp: 1631577600000
-hashtags: "#management,#qa,#ui/ux"
+hashtags: "#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
-summary: "If you have we’re looking for someone who has recent experience working in an agency or consultancy, Bit Zesty is looking for someone with your skillset."
+summary: "If you have recent experience working in an agency or consultancy, Bit Zesty is looking for someone with your skillset."
 summaryBackup: "Bit Zesty is looking for a software project manager that has #management, #qa, #ui/ux."
 featured: 20
 ---
