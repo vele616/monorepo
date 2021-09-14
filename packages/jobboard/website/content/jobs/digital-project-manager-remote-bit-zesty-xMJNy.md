@@ -1,16 +1,16 @@
 ---
-title: "Digital Project Manager (Remote)"
+title: "Digital Project Manager"
 location: "London, England, United Kingdom"
 host: "https://apply.workable.com/bit-zesty/?lng=en"
 companyName: "Bit Zesty"
 url: "https://apply.workable.com/bit-zesty/j/941B110876/"
 applyUrl: "https://apply.workable.com/bit-zesty/j/941B110876/apply/"
 timestamp: 1631577600000
-hashtags: "#management,#qa,#ui/ux"
-jobType: "software"
+hashtags: "#management"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bit-zesty"
 companyWebsite: "https://bitzesty.com/"
-summary: "Interested in new opportunities and have we’re looking for someone who has recent experience working in an agency or consultancy? Bit Zesty has a job opening for a digital project manager."
+summary: "Interested in new opportunities and have experience working in an agency or consultancy? Bit Zesty has a job opening for a digital project manager."
 summaryBackup: "Excited about #management, #qa, #ui/ux? Check out this job post!"
 featured: 20
 ---
