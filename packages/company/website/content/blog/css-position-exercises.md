@@ -27,35 +27,54 @@ Cras consectetur interdum risus, vel interdum lectus tempus nec. Orci varius nat
 
 <typography element="h2">Exercises</typography>
 
-- [First](#first)
+- [1](#position-element-relative-to-parent)
+- [2](#position-elements-in-corners)
 
 
 <br/>
 <br/>
 
-<typography id="first" element="h2">First</typography>
+<typography id="position-element-relative-to-parent" element="h2">Position element relative to the parent element</typography>
 
 Aenean gravida dui eu bibendum condimentum.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<typography>Helpful MDN Docs links</typography>
 
-- [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-- [Math.pow()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+- [CSS position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [CSS transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+  <typography>Input</typography>
 
   ```html
-    <div>
-      abc
+    <div class="text">
+      <div class="overlay">Lorem Ipsum<div>
+      Maecenas vestibulum vel 
+      risus ut euismod. 
+      Aenean faucibus fringilla accumsan.
+      Maecenas lacinia ligula vitae 
+      velit lobortis,
+      eu interdum mauris rhoncus.
+      Proin quis augue sit 
+      amet arcu volutpat 
+      porta tincidunt ut metus.
+      Mauris at dictum nibh.
     </div>
   ```
 
   ```css
-    div {
-      color: red;
+    text {
+      height: 200px;
+      width: 300px;
+      margin-top: 50px;
+    }
+    overlay {
+        background-color:rgba(255, 0, 0, 0.8);
+        line-height: 100px;
+        width: 300px;
+        font-weight: 800;
     }
   ```
 
@@ -63,12 +82,31 @@ Aenean gravida dui eu bibendum condimentum.
 
   <column>
 
-  <typography element="h4">Result</typography>
+  <typography>Result</typography>
 
   
   <demo>
-    <div style="color:red;">
-      abc
+    <div style="
+      position:relative;
+      height: 200px;
+      width: 300px;
+      margin-top: 50px;
+    ">
+      <div style="
+        position:absolute;
+        background-color:rgba(255, 0, 0, 0.8);
+        height: 100px;
+        line-height: 100px;
+        width: 300px;
+        text-align: center;
+        font-weight: 800;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(45deg);
+      ">
+        LOREM IPSUM
+      </div>
+      Maecenas vestibulum vel risus ut euismod. Aenean faucibus fringilla accumsan. Maecenas lacinia ligula vitae velit lobortis, eu interdum mauris rhoncus. Proin quis augue sit amet arcu volutpat porta tincidunt ut metus. Mauris at dictum nibh.
     </div>
   </demo>
 
@@ -78,19 +116,216 @@ Aenean gravida dui eu bibendum condimentum.
 
 <list-toggle title="Solution">
 
-
 <row>
-  <column>
-  absafsa
-  </column>
   <column>
 
   ```css
-    #div {
-      position: absolute;
+    text {
+      position:relative;
+      height: 200px;
+      width: 300px;
+      margin-top: 50px;
+    }
+
+    overlay {
+        position:absolute;
+        background-color:rgba(255, 0, 0, 0.8);
+        height: 100px;
+        line-height: 100px;
+        width: 300px;
+        text-align: center;
+        font-weight: 800;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(45deg);
     }
   ```
 
+  </column>
+  <column>
+    <p>
+      absafsa
+    </p>
+  </column>
+</row>
+</list-toggle>
+
+<typography id="position-elements-in-corners" element="h2">Position elements in corners of the parent</typography>
+
+Aenean gravida dui eu bibendum condimentum.
+
+<typography>Helpful MDN Docs links</typography>
+
+- [CSS position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [CSS transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+
+<row>
+
+  <column>
+  <typography>Input</typography>
+
+  ```html
+    <div class="parent">
+      <div class="child top left"><div>
+      <div class="child top right"><div>
+      <div class="child bottom left"><div>
+      <div class="child bottom left"><div>
+      <div class="child center"></div>
+    </div>
+  ```
+
+  ```css
+   .parent {
+      height: 300px;
+      width: 300px;
+      border: 1px solid #000;
+    }
+
+    .child {
+      height: 100px;
+      width: 100px;
+    }
+
+    .top .left {
+      background: #ff1a00;
+    }
+
+    .top .right {
+      background: #ff8d00;
+    }
+
+    .bottom .right {
+      background: #e3ff00;
+    }
+
+    .bottom .left {
+      background: #00ff04;
+    }
+    .center {
+      background: #0051ff;
+    }
+  ```
+
+  </column>
+
+  <column>
+
+  <typography>Result</typography>
+
+  
+  <demo>
+    <div style="
+      height: 300px;
+      width: 300px;
+      position: relative;
+      border: 1px solid #000;
+    ">
+      <div style="
+        height: 100px;
+        width: 100px;
+        background: #ff1a00;
+        position: absolute;
+        top: 0;
+        left: 0;
+      ">
+      </div>
+      <div style="
+        height: 100px;
+        width: 100px;
+        background: #ff8d00;
+        position: absolute;
+        top: 0;
+        right: 0;
+      ">
+      </div>
+      <div style="
+        height: 100px;
+        width: 100px;
+        background: #e3ff00;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+      ">
+      </div>
+      <div style="
+        height: 100px;
+        width: 100px;
+        background: #00ff04;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+      ">
+      </div>
+      <div style="
+        height: 100px;
+        width: 100px;
+        background: #0051ff;
+        position: absolute;
+        top: 33.333%;
+        left: 33.333%;
+      ">
+      </div>
+    </div>
+  </demo>
+
+  </column>
+
+</row>
+
+<list-toggle title="Solution">
+
+<row>
+  <column>
+
+  ```css
+    .parent {
+      height: 300px;
+      width: 300px;
+      border: 1px solid #000;
+      position: relative;
+    }
+
+    .child {
+      height: 100px;
+      width: 100px;
+      position: absolute;
+    }
+
+    .top .left {
+      background: #ff1a00;
+      top: 0;
+      left: 0;
+    }
+
+    .top .right {
+      background: #ff8d00;
+      top: 0;
+      right: 0;
+    }
+
+    .bottom .right {
+      background: #e3ff00;
+      bottom: 0;
+      right: 0;
+    }
+
+    .bottom .left {
+      background: #00ff04;
+      bottom: 0;
+      right: 0;
+    }
+    .center {
+      background: #0051ff;
+      bottom: 33.333%;
+      right: 33.333%;
+    }
+  ```
+
+  </column>
+  <column>
+    <p>
+      absafsa
+    </p>
   </column>
 </row>
 </list-toggle>
