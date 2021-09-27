@@ -27,7 +27,6 @@ exports.exec = async (event, context) => {
     }
 
     const { email, name, message } = JSON.parse(event.body);
-    console.log(email, name, message);
 
     const region = context.invokedFunctionArn.split(":")[3];
     const accountId = context.invokedFunctionArn.split(":")[4];
@@ -61,7 +60,7 @@ exports.exec = async (event, context) => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log(error);
+    console.error(error);
     return {
       statusCode: error.statusCode || 501,
       headers: { "Content-Type": "text/plain" },

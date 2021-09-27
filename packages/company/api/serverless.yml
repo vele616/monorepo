@@ -32,16 +32,16 @@ provider:
       Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CONTACT_TABLE}"
 functions:
   createContact:
-    handler: src/contact/create.exec
+    handler: src/contacts/create.exec
     memorySize: 256
     timeout: 30
     events:
       - http:
-          path: contact
+          path: contacts
           method: post
           cors: true
   processContact:
-    handler: src/contact/processContact.exec
+    handler: src/contacts/processContact.exec
     memorySize: 256
     timeout: 30
     events:

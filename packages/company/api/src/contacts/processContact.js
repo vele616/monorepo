@@ -4,18 +4,17 @@ const notifyContactCreated = require("../slack/notifyContactCreated");
 exports.exec = async (event) => {
   try {
     for (const record of event.Records) {
-      const { email, name, message } = JSON.parse(record.body);
+      const { id, email, name, message } = JSON.parse(record.body);
 
-      if (email || name || message) {
-        console.log(message);
-        throw new Error("Missing email, name or message");
+      if (!id || !email || !name || !message) {
+        throw new Error("Missing id, email, name or message");
       }
 
       const url = await createContact(
-        `Message from ${name}`,
+        `Message from ${name} (${id})`,
         email,
         name,
-        message
+        JSON.parse(message)
       );
       await notifyContactCreated(name, email, url);
     }
