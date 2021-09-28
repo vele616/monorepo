@@ -1,5 +1,6 @@
 const createContact = require("../notion/createContact");
 const notifyContactCreated = require("../slack/notifyContactCreated");
+const sendEmail = require("../email/sendEmail.js");
 
 exports.exec = async (event) => {
   try {
@@ -17,6 +18,7 @@ exports.exec = async (event) => {
         JSON.parse(message)
       );
       await notifyContactCreated(name, email, url);
+      await sendEmail(url, message, name, email);
     }
   } catch (error) {
     console.log(error);
