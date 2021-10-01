@@ -40,7 +40,7 @@ export default function Home({ location }) {
       scrollToContactUs={scrollToContactUs}
       stickyFooter
     >
-      <Hero
+      {/*<Hero
         topRef={topRef}
         scrollToHowWeWork={scrollToHowWeWork}
         scrollToContactUs={scrollToContactUs}
@@ -49,7 +49,7 @@ export default function Home({ location }) {
       <HowWeWork howWeWorkRef={howWeWorkRef} />
       <OurWorkProcess />
       <OurServices />
-      <ContactUs contactUsRef={contactUsRef} />
+      <ContactUs contactUsRef={contactUsRef} />*/}
     </Layout>
   );
 }

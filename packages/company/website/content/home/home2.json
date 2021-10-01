@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "An Experienced software development team for projects with big impact.",
+    "text": "Whether you are redesigning your app, improving your website performance, or need help structuring your codebase, we can help you reach your goals.",
+    "action": "contact us",
+    "image": "../images/hero.png"
+  },
+  "ourClients": {
+    "title": "Our Clients",
+    "text": "At CroCoder, we’ve worked with various organizations, including enterprises, startups, and small businesses. We’ve built MVPs, helped projects scale up, refactored legacy code and, set up the architecture for transitioning into the React/Node world. Is there something we can do for you?",
+    "lastCard": {
+      "text": "Want to join our success stories?",
+      "action": "Contact us"
+    },
+    "cards": [
+      {
+        "title": "Skew Analytics",
+        "text": "We worked on building the whole MVP and were responsible for complete back-end development, DevOps and infrastructure setup, and the front-end development. We made sure the application was suitable for modern browsers, implemented the whole authentication system, custom dashboard, and set up the basic component library.",
+        "image": ""
+      },
+      {
+        "title": "Searchmetrics",
+        "text": "At Searchmetrics, we participated in defining standards and rules to ease development and reduce time to develop different features. We were responsible for the front-end development of new features and, worked on improving the developer environment and the front-end CI/CD processes of the shared codebase.",
+        "image": ""
+      },
+      {
+        "title": "Lynes",
+        "text": "For Lynes, we helped start a new Croatian office, which meant finding the right technical talent and initial mentoring to make sure they had the right technical and soft skills. Additionally, we were responsible for designing and implementing telephone calls on a platform designed for real-time communication.",
+        "image": ""
+      },
+      {
+        "title": "TransferHero",
+        "text": "Participating as part of a remote team we implemented the solution's back end and front end. Additionally, we helped with the initial project DevOps setup and were responsible for complete user account management, implementing the booking system for transfer reservations, and payment system integration via Stripe.",
+        "image": ""
+      },
+      {
+        "title": "MisterSpex",
+        "text": "At German-based enterprise Mister Spex, we worked as front-end developers to create a structured shared custom component codebase that can be reused by multiple teams working with different domains. Additionally, we advised how the performance and structure of the implemented solution can be improved.",
+        "image": ""
+      }
+    ]
+  },
+  "howWeWork": {
+    "title": "How We Work",
+    "content": [
+      {
+        "title": "We Work Remotely",
+        "text": "We are a remote-first team with extensive experience in working with the distributed and diverse organizations. To efficiently collaborate, we make sure to have at least 6-working-hours overlap with your team members.",
+        "image": "../images/weworkremotely.png"
+      },
+      {
+        "title": "",
+        "text": "",
+        "image": "../images/weworkasmembersofyourteam.png"
+      },
+      {
+        "title": "We Work With React and Node",
+        "text": "We specialize in crafting high-quality software using the tools and frameworks in the React.js and Node.js ecosystem. We always recommend approaches that might be favorable for the long run, but are highly adaptable and can work with what you prefer.",
+        "image": "../images/technologies.png"
+      }
+    ]
+  },
+  "contactUs": {
+    "image": "../images/letsworktogether.png",
+    "title": "Let’s start working together",
+    "text": "We are a small software development team that specializes in building beautiful, fast and user-friendly web applications."
+  },
+  "footer": {
+    "image": "../images/logoFooter.png",
+    "socialMedia": [
+      {
+        "icon": "linkedin1",
+        "link": "https://www.linkedin.com/company/crocoderdev"
+      },
+      {
+        "icon": "youtube",
+        "link": "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA"
+      }
+    ]
+  }
+}
