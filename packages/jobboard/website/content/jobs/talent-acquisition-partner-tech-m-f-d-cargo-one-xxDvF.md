@@ -1,18 +1,18 @@
 ---
-title: "Talent Acquisition Partner - Tech (m/f/d)"
+title: "Talent Acquisition Partner"
 location: "Remote"
 host: "https://jobs.lever.co/cargo-2/"
 companyName: "cargo.one"
 url: "https://jobs.lever.co/cargo-2/905c5c71-62d6-40c6-84d3-9278f7a9cf96"
 applyUrl: "https://jobs.lever.co/cargo-2/905c5c71-62d6-40c6-84d3-9278f7a9cf96/apply"
 timestamp: 1633651200000
-hashtags: "#marketing,#management,#HR,#aws"
+hashtags: "#HR"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cargo-one"
 companyWebsite: "https://www.cargo.one/"
 summary: "If you have an understanding and experience of finding the best tech talent across multiple locations, Cargo.one is looking for someone with your knowledge."
 summaryBackup: "To apply as a talent acquisition partner at Cargo.one, you preferably need to have some #marketing, #management, #HR."
-featured: 20
+featured: 1
 ---
 
 **🏆 What’s the opportunity?**
