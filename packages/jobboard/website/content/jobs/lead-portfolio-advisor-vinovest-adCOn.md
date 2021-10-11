@@ -8,7 +8,6 @@ applyUrl: "https://vinovest.recruitee.com/o/lead-portfolio-advisor/c/new"
 timestamp: 1633651200000
 hashtags: "#sales, #management,#finance"
 jobType: "other"
-logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest is looking for a lead portfolio advisor that has 5+ years of relevant sales experience in finance, banking, fine wine, or other similar fields."
 summaryBackup: "Excited about #sales, #management? Check out this job post at Vinovest!"
