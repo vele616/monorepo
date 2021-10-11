@@ -13,6 +13,7 @@ companyWebsite: "https://aiven.io/"
 summary: "Aiven wishes to hire a new developer educator. If you have you have demonstrable experience of creating content, specifically for an audience of software developers, consider applying."
 summaryBackup: "Love #content, #management, #postgresql? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Description
