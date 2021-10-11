@@ -1,5 +1,5 @@
 ---
-title: "Business Intelligence Specialist (Remote possible)"
+title: "Business Intelligence Specialist"
 location: "Remote"
 host: "https://keyrock.freshteam.com/jobs"
 companyName: "Keyrock"
@@ -10,7 +10,7 @@ hashtags: "#management,#HR,#python,#marketing,#sql,#analytics,#sales"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/keyrock"
 companyWebsite: "https://keyrock.freshteam.com/jobs"
-summary: "Interested in new opportunities and have 1 years of experience in data-driven business development roles? Keyrock has a job opening for a business intelligence specialist."
+summary: "Interested in new opportunities and have 1 year of experience in data-driven business development roles? Keyrock has a job opening for a business intelligence specialist."
 summaryBackup: "Keyrock is looking for a business intelligence specialist that has #management, #HR, #python."
 featured: 20
 ---
