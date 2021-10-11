@@ -1,5 +1,5 @@
 ---
-title: "Country Manager, Hong Kong (m/f/d)"
+title: "Country Manager, Hong Kong"
 location: "Remote"
 host: "https://jobs.lever.co/cargo-2/"
 companyName: "cargo.one"
@@ -10,7 +10,7 @@ hashtags: "#marketing,#management,#analytics"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cargo-one"
 companyWebsite: "https://www.cargo.one/"
-summary: "If you have 7 years of experience in a fast-paced environment, consider applying to Cargo.one's job post for a new country manager."
+summary: "If you have 3 to 7 years of experience in a fast-paced environment, consider applying to Cargo.one's job post for a new country manager."
 summaryBackup: "Excited about #marketing, #management, #analytics? Check out this job post!"
 featured: 20
 ---
