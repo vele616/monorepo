@@ -11,7 +11,7 @@ jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cargo-one"
 companyWebsite: "https://www.cargo.one/"
 summary: "If you have 2+ years experience in a customer-facing role and skills such as customer success or business development and project management skills, Cargo.one has a job opening for a partner enablement specialist"
-summaryBackup: "To apply as a partner enablement specialist at Cargo.one, you preferably need to have some #sales, #css, #marketing."
+summaryBackup: "To apply as a partner enablement specialist at Cargo.one, you preferably need to have some experience in #sales, #marketing."
 featured: 20
 ---
 
