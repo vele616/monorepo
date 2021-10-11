@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
 summary: "Vinovest intends to hire a new winery relations manager. If you have 5+ years of experience in sales and partnerships and/or business development in the wine industry consider applying."
 summaryBackup: "Excited about #management, #sales, #analytics? Check out this job post!"
-featured: 20
+featured: 16
 ---
 
 ## Job description
