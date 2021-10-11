@@ -1,16 +1,16 @@
 ---
-title: "Partner Enablement Specialist (m/f/d)"
+title: "Partner Enablement Specialist"
 location: "Remote"
 host: "https://jobs.lever.co/cargo-2/"
 companyName: "cargo.one"
 url: "https://jobs.lever.co/cargo-2/733a3dd3-ca87-4dd6-a09f-bc8fe762e364"
 applyUrl: "https://jobs.lever.co/cargo-2/733a3dd3-ca87-4dd6-a09f-bc8fe762e364/apply"
 timestamp: 1633651200000
-hashtags: "#sales,#css,#marketing,#qa,#management"
+hashtags: "#sales,#marketing,#qa"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/cargo-one"
 companyWebsite: "https://www.cargo.one/"
-summary: "If you have 2+ years experience in a customer-facing role such as customer success or business development and project management skills, Cargo.one has a job opening for a partner enablement specialist"
+summary: "If you have 2+ years experience in a customer-facing role and skills such as customer success or business development and project management skills, Cargo.one has a job opening for a partner enablement specialist"
 summaryBackup: "To apply as a partner enablement specialist at Cargo.one, you preferably need to have some #sales, #css, #marketing."
 featured: 20
 ---
