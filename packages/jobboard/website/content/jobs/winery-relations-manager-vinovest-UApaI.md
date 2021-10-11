@@ -6,11 +6,11 @@ companyName: "Vinovest"
 url: "https://vinovest.recruitee.com/o/winery-relations-manager"
 applyUrl: "https://vinovest.recruitee.com/o/winery-relations-manager/c/new"
 timestamp: 1633651200000
-hashtags: "#management,#sales,#analytics,#marketing,#ui/ux"
+hashtags: "#management,#sales,#analytics,#marketing"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/vinovest"
 companyWebsite: "https://vinovest.recruitee.com/"
-summary: "Vinovest intends to hire a new winery relations manager. If you have 5+ years of experience in sales and partnerships and/or business development in the wine industry is a must, consider applying."
+summary: "Vinovest intends to hire a new winery relations manager. If you have 5+ years of experience in sales and partnerships and/or business development in the wine industry consider applying."
 summaryBackup: "Excited about #management, #sales, #analytics? Check out this job post!"
 featured: 20
 ---
