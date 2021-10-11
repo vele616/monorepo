@@ -1,5 +1,5 @@
 ---
-title: "Talent Acquisition Partner - Business and Sales(m/f/d)"
+title: "Talent Acquisition Partner - Business and Sales"
 location: "Remote"
 host: "https://jobs.lever.co/cargo-2/"
 companyName: "cargo.one"
