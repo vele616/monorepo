@@ -13,6 +13,7 @@ companyWebsite: "https://mav.recruitee.com/"
 summary: "Mavenoid is searching for a devops engineer that has experience with a small and nimble tech organisation."
 summaryBackup: "Excited about #devops, #management, #reactjs? Check out this job post!"
 featured: 2
+archived: "true"
 ---
 
 ## Job description
