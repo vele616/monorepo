@@ -1,18 +1,18 @@
 ---
-title: "Senior Software Engineer (Node.js) / Glopal"
+title: "Senior Software Engineer"
 location: "Warsaw, Masovian Voivodeship, Poland"
 host: "https://apply.workable.com/nixa/"
 companyName: "Nixa.io"
 url: "https://apply.workable.com/nixa/j/03FE923B1C/"
 applyUrl: "https://apply.workable.com/nixa/j/03FE923B1C/apply/"
 timestamp: 1633910400000
-hashtags: "#html,#typescript,#javascript,#content,#python,#php,#qa,#css,#aws,#ui/ux"
+hashtags: "#nodejs,#javascript"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/nixa-io"
 companyWebsite: "http://www.nixa.io/"
 summary: "If you have 2+ years of recent production quality Node, Nixa.io has a job opening for a senior software engineer"
 summaryBackup: "Love #html, #typescript, #javascript? Check out this job post!"
-featured: 20
+featured: 1
 ---
 
 ## Description
