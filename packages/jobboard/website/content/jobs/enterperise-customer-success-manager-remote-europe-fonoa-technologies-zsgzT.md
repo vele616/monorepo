@@ -1,5 +1,5 @@
 ---
-title: "Enterperise Customer Success Manager - Remote (Europe)"
+title: "Enterperise Customer Success Manager"
 location: "Germany"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
