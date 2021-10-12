@@ -1,5 +1,5 @@
 ---
-title: "Director of Business Development - Laboratory Software"
+title: "Director of Business Development"
 location: ""
 host: "https://gistia.breezy.hr/"
 companyName: "gistia"
