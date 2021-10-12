@@ -1,5 +1,5 @@
 ---
-title: "Head of Demand Generation - Remote (Europe)"
+title: "Head of Demand Generation"
 location: "Netherlands"
 host: "https://apply.workable.com/fonoa/"
 companyName: "Fonoa Technologies"
@@ -12,7 +12,7 @@ logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-tech
 companyWebsite: "http://www.fonoa.com/"
 summary: "Excited about experience in: #marketing, #management, #analytics? Check out this job post!"
 summaryBackup: "Love #marketing, #management, #analytics? Check out this job post!"
-featured: 20
+featured: 15
 ---
 
 ## Description
