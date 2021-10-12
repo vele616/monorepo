@@ -11,7 +11,7 @@ jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoa.com/"
 summary: "Fonoa Technologies wishes to hire a new enterperise customer success manager. If you have have specific B2B SaaS or Transaction Services experience with a solution that is related to our product offering, consider applying."
-summaryBackup: "Fonoa Technologies is looking for an enterperise customer success manager that has #css, #management, #marketing."
+summaryBackup: "Fonoa Technologies is looking for an enterperise customer success manager that has #css, #management, #marketing knowledge."
 featured: 20
 ---
 
