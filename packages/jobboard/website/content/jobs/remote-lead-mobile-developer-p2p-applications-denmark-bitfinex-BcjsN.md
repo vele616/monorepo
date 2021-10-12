@@ -13,6 +13,7 @@ companyWebsite: "https://www.bitfinex.com/"
 summary: "If you have considerable experience with iOS/Android's capabilities and limitations, Bitfinex is looking for someone with your knowledge."
 summaryBackup: "Bitfinex is looking for a remote lead mobile developer that has #android, #ios, #reactjs."
 featured: 3
+archived: "true"
 ---
 
 ## Job description
