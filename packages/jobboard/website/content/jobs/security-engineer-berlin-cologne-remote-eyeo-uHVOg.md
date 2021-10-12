@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/eyeo"
 summary: "Eyeo is looking for a security engineer that has experience in: #management, #operations, #encryption."
 summaryBackup: "Excited about #management, #operations, #encryption? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Get to know us

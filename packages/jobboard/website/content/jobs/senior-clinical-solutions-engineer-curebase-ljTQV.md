@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=curebase"
 summary: "If you have 3+ years of experience in a Project Management or Software Implementation role at an enterprise eClinical SaaS company, consider applying to Curebase's job post for a new senior clinical solutions engineer."
 summaryBackup: "To apply as a senior clinical solutions engineer at Curebase, you preferably need to have some #management, #css, #scrum."
 featured: 20
+archived: "true"
 ---
 
 ## About the Job

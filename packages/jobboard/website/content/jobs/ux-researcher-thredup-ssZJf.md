@@ -13,6 +13,7 @@ companyWebsite: "https://www.thredup.com/"
 summary: "If you have 2 years of professional, industry user research experience, in applied research or product research settings, ThredUP is looking for someone with your skillset."
 summaryBackup: "Love #branding, #marketing, #management? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **About thredUP:**
