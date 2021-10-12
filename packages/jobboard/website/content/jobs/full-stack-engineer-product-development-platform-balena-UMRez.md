@@ -1,12 +1,12 @@
 ---
-title: "Full Stack Engineer - Product Development Platform"
+title: "Full-Stack Engineer"
 location: ""
 host: "https://apply.workable.com/balena/"
 companyName: "balena"
 url: "https://apply.workable.com/balena/j/A73C2EF7D5/"
 applyUrl: "https://apply.workable.com/balena/j/A73C2EF7D5/apply/"
 timestamp: 1633910400000
-hashtags: "#postgresql,#nodejs,#typescript,#qa,#docker,#management,#ui/ux"
+hashtags: "#nodejs,#typescript,#postgresql"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/balena"
 companyWebsite: "https://balena.io/"
