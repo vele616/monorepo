@@ -1,12 +1,12 @@
 ---
-title: "Project Manager (Europe Remote) - UK"
+title: "Project Manager"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
 url: "https://bitfinex.recruitee.com/o/project-manager-europe-remote-uk-london"
 applyUrl: "https://bitfinex.recruitee.com/o/project-manager-europe-remote-uk-london/c/new"
 timestamp: 1633996800000
-hashtags: "#management,#qa,#analytics,#marketing,#ui/ux"
+hashtags: "#management"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/bitfinex"
 companyWebsite: "https://www.bitfinex.com/"
