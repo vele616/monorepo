@@ -1,5 +1,5 @@
 ---
-title: "Remote Senior Communications Director - UK"
+title: "Remote Senior Communications Director"
 location: "Remote job"
 host: "https://bitfinex.recruitee.com/"
 companyName: "Bitfinex"
