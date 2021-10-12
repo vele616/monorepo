@@ -6,7 +6,7 @@ companyName: "Fonoa Technologies"
 url: "https://apply.workable.com/fonoa/j/2B82B9FE39/"
 applyUrl: "https://apply.workable.com/fonoa/j/2B82B9FE39/apply/"
 timestamp: 1633996800000
-hashtags: "#marketing,#management,#analytics,#content,#css,#ui/ux"
+hashtags: "#marketing,#management,#analytics,#content"
 jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/fonoa-technologies"
 companyWebsite: "http://www.fonoa.com/"
