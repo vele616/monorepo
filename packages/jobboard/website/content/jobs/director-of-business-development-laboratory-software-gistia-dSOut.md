@@ -6,11 +6,10 @@ companyName: "gistia"
 url: "https://gistia.breezy.hr/p/6fbc812f52fa-director-of-business-development-laboratory-software"
 applyUrl: "https://gistia.breezy.hr/p/6fbc812f52fa-director-of-business-development-laboratory-software/apply"
 timestamp: 1633996800000
-hashtags: "#sales,#qa,#marketing"
-jobType: "software"
-
+hashtags: "#sales,#crm,#administration"
+jobType: "other"
 companyWebsite: "https://gistia.breezy.hr/"
-summary: "If you have 5+ years in sales involving to diagnostic laboratories, Gistia is looking for someone with your knowledge."
+summary: "If you can deliver sales results while handling multiple functions and activities within a high-pressure / high-reward environment, Gistia is looking for someone with your knowledge."
 summaryBackup: "To apply as a director of business development at Gistia, you preferably need to have some #sales, #qa, #marketing."
 featured: 20
 ---
