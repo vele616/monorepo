@@ -1,18 +1,18 @@
 ---
-title: "Engineering Coach PHP (Remote)"
-location: "France"
+title: "Engineering Coach PHP"
+location: "France (Remote)"
 host: "https://apply.workable.com/wp-media/"
 companyName: "WP Media"
 url: "https://apply.workable.com/wp-media/j/116214DF38/"
 applyUrl: "https://apply.workable.com/wp-media/j/116214DF38/apply/"
 timestamp: 1633996800000
-hashtags: "#python,#php,#wordpress,#scrum,#qa,#django,#management"
+hashtags: "#php,#wordpress,#python,#django,#scrum,#qa,#management"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/wp-media"
 companyWebsite: "http://wp-media.me/"
 summary: "WP Media wishes to hire a new engineering coach php. If you have experience with web applications at scale, consider applying."
 summaryBackup: "Love #python, #php, #wordpress? Check out this job post!"
-featured: 20
+featured: 10
 ---
 
 ## Description
