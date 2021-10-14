@@ -77,6 +77,8 @@ const getUrls = async (browser, url) => {
 };
 
 const getJobs = async (browser, url) => {
+  const page = await createPage(browser);
+
   const response = await page.goto(url);
 
   if (response.status() >= 400) {
