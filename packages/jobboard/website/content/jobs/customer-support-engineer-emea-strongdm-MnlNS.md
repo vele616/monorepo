@@ -13,6 +13,7 @@ companyWebsite: "http://www.strongdm.com/"
 summary: "StrongDM wishes to hire a new customer support engineer. If you have 3+ years in Security or Infrastructure, consider applying."
 summaryBackup: "Excited about #python, #devops, #chef? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 **strongDM is a customer-first, second, and third company with a rabid fan base. When was the last time you heard things like:**
