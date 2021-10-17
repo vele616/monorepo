@@ -1,11 +1,11 @@
 import React from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Flexbox, Card } from "@crocoder-dev/components";
+import { Typography, Flexbox, Card, Section } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 import { useMemo } from "react";
 
-const Content = ({ title, text }) => (
+/*const Content = ({ title, text }) => (
   <Flexbox direction="column" className={styles.card__content}>
     <Typography
       className={styles.card__title}
@@ -25,7 +25,8 @@ const Content = ({ title, text }) => (
     >
       {text}
     </Typography>
-  </Flexbox>
+</Flexbox>
+  
 );
 
 const HowWeWork = ({ title, content, howWeWorkRef }) => {
@@ -75,9 +76,16 @@ const HowWeWork = ({ title, content, howWeWorkRef }) => {
       <div className={styles.contentWrapper}>{cards}</div>
     </section>,
   ];
-};
+};*/
 
-const WithQuery = ({ howWeWorkRef }) => (
+const HowWeWork = ({ title, content }) => (
+  <Section backgroundColor="white">
+    <h2>{title}</h2>
+    <p>{JSON.stringify(content)}</p>
+  </Section>
+);
+
+const HowWeWorkWithQuery = ({ howWeWorkRef }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -99,10 +107,8 @@ const WithQuery = ({ howWeWorkRef }) => (
         }
       }
     `}
-    render={(data) => (
-      <HowWeWork howWeWorkRef={howWeWorkRef} {...data.homeJson.howWeWork} />
-    )}
+    render={(data) => <HowWeWork {...data.homeJson.howWeWork} />}
   />
 );
 
-export default WithQuery;
+export default HowWeWorkWithQuery;

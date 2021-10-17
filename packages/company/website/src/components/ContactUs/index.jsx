@@ -4,21 +4,21 @@ import { StaticQuery, graphql } from "gatsby";
 import { Typography, Section, Flexbox } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-const ContactUs = ({
-  title,
-  text,
-  sendEmail,
-  scheduleCall,
-  image,
-  contactUsRef,
-}) => [
+const ContactUs = ({ title, text, image, contactUsRef }) => [
   <div
     key="ref"
     style={{ position: "relative", top: "-100px" }}
     ref={contactUsRef}
   />,
-  <Section key="section" className={styles.section} backgroundColor="white">
-    <Flexbox
+  <Section key="section" backgroundColor="white">
+    <h2>{title}</h2>
+    <p>{text}</p>
+    <Img
+      fadeIn={false}
+      fluid={image ? image.childImageSharp.fluid : {}}
+      alt={""}
+    />
+    {/*<Flexbox
       className={styles.flex}
       justifyContent="space-between"
       alignItems="center"
@@ -78,7 +78,7 @@ const ContactUs = ({
         fluid={image ? image.childImageSharp.fluid : {}}
         alt={"abc"}
       />
-    </Flexbox>
+    </Flexbox>*/}
   </Section>,
 ];
 
@@ -90,9 +90,6 @@ const ContactUsWithQuery = ({ contactUsRef }) => (
           contactUs {
             title
             text
-            scheduleCall
-            sendEmail
-            email
             image {
               childImageSharp {
                 fluid {

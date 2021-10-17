@@ -1,102 +1,69 @@
 {
   "hero": {
-    "title": "Entrepreneurship is a difficult process.",
-    "subtitle": "COLLABORATION MAKES IT EASY.",
-    "paragraph": "We are an experienced web development team that helps startups and small businesses <em>focus on what really matters.</em>",
-    "scheduleCall": "Talk To Us",
-    "howWeWork": "How We Work"
+    "title": "An Experienced software development team for projects with big impact.",
+    "text": "Whether you are redesigning your app, improving your website performance, or need help structuring your codebase, we can help you reach your goals.",
+    "action": "contact us",
+    "image": "../images/hero.png"
   },
-  "whatCanWeDo": {
-    "title1": "Once you start working on your business idea, Things can get overwhelming fast",
-    "text1": " If product development is one of those things you constantly worry about, <em>we got you covered!</em>  We are a small web development team that can implement that fantastic idea you've been pondering about. <br/> <br/>We work iterating fast and often so your product can grow to that sweet spot of <em>solving a problem for your customers that they actually want to pay for.</em>",
-    "image1": "../images/overwhelming.png",
-    "title2": "We know we can do it, because we did it before",
-    "text2": "For the last several years, our developers worked exclusively with small businesses and startups, operating both as part of the team and as contractors. <br/> It is that experience and that knowledge, we want to offer to you.",
-    "image2": "../images/crocoderteam.png"
-  },
-  "howWeWork": {
-    "title": "How we work",
-    "content": [
+  "ourClients": {
+    "title": "Our Clients",
+    "text": "At CroCoder, we’ve worked with various organizations, including enterprises, startups, and small businesses. We’ve built MVPs, helped projects scale up, refactored legacy code and, set up the architecture for transitioning into the React/Node world. Is there something we can do for you?",
+    "lastCard": {
+      "text": "Want to join our success stories?",
+      "action": "Contact us"
+    },
+    "cards": [
       {
-        "title": "Your Remote Team",
-        "text": "It does not matter where you are located in the world - what matters is that we are part of your team now. We have taken care to have the right setup and equipment to get the job done. And remember, we are only one click away!",
-        "image": "../images/yourRemoteTeam.png"
+        "title": "Skew Analytics",
+        "text": "We worked on building the whole MVP and were responsible for complete back-end development, DevOps and infrastructure setup, and the front-end development. We made sure the application was suitable for modern browsers, implemented the whole authentication system, custom dashboard, and set up the basic component library.",
+        "image": "../images/hero.png"
       },
       {
-        "title": "Pride In Transparency",
-        "text": "It’s important for us that you are always in the loop about what’s going on. We keep meetings to a minimum but do insist on them as we want you to understand what we are working on and what you are paying for.",
-        "image": "../images/prideInTransparency.png"
+        "title": "Searchmetrics",
+        "text": "At Searchmetrics, we participated in defining standards and rules to ease development and reduce time to develop different features. We were responsible for the front-end development of new features and, worked on improving the developer environment and the front-end CI/CD processes of the shared codebase.",
+        "image": "../images/hero.png"
       },
       {
-        "title": "Focus On You",
-        "text": "We are a small team and as such focus solely on you. We are extremely adaptable and want you to thrive. We feel we are invested in every business we’ve had a pleasure to work with so it’s very important for us that you succeed.",
-        "image": "../images/focusOnYou.png"
+        "title": "Lynes",
+        "text": "For Lynes, we helped start a new Croatian office, which meant finding the right technical talent and initial mentoring to make sure they had the right technical and soft skills. Additionally, we were responsible for designing and implementing telephone calls on a platform designed for real-time communication.",
+        "image": "../images/hero.png"
+      },
+      {
+        "title": "TransferHero",
+        "text": "Participating as part of a remote team we implemented the solution's back end and front end. Additionally, we helped with the initial project DevOps setup and were responsible for complete user account management, implementing the booking system for transfer reservations, and payment system integration via Stripe.",
+        "image": "../images/hero.png"
+      },
+      {
+        "title": "MisterSpex",
+        "text": "At German-based enterprise Mister Spex, we worked as front-end developers to create a structured shared custom component codebase that can be reused by multiple teams working with different domains. Additionally, we advised how the performance and structure of the implemented solution can be improved.",
+        "image": "../images/hero.png"
       }
     ]
   },
-  "ourWorkProcess": {
-    "title": "Our Work Process",
-    "text": "In software development, there are a lot of ways you can deal with the lifecycle of a product. When working on projects that validate an idea, it’s important to <em>validate the essence of a product as soon as possible.</em> Everything else can be added later if the initial proposal works. <em>We are here to make sure plans stay realistic, within budget and that they get executed - fast.</em>",
-    "sections": [
+  "howWeWork": {
+    "title": "How We Work",
+    "content": [
       {
-        "title": "DEFINITION",
-        "text": "In the definition part of the process, we try to create strict boundaries around the essence of the product. It’s also a part where you, as a client, are maximally involved. We use this part in the process to find out what you want to build and give you an outline on how we see your idea coming to life.",
-        "image": "../images/contact.png"
+        "title": "We Work Remotely",
+        "text": "We are a remote-first team with extensive experience in working with the distributed and diverse organizations. To efficiently collaborate, we make sure to have at least 6-working-hours overlap with your team members.",
+        "image": "../images/weworkremotely.png"
       },
       {
-        "title": "ITERATION",
-        "text": "Like we said, we iterate fast and often. We design, implement and test every feature. In this phase, we see the idea coming to life and improving with each deliverable. From this point forward, you have a finished solution that gets better and better. With each iteration, we’re closer to the imagined solution.",
-        "image": "../images/whatwedoIteration.png"
+        "title": "",
+        "text": "",
+        "image": "../images/weworkasmembersofyourteam.png"
       },
       {
-        "title": "LAUNCH",
-        "text": "Once you are happy with your product - it’s time to showcase it to the world! We help prepare steps to do so and make sure you can continue with new implementations and improvements. We can also organize an educational hand-over to your team if you’d like. One thing we make sure is, you have enough documentation to continue.",
-        "image": "../images/whatwedoLaunch.png"
+        "title": "We Work With React and Node",
+        "text": "We specialize in crafting high-quality software using the tools and frameworks in the React.js and Node.js ecosystem. We always recommend approaches that might be favorable for the long run, but are highly adaptable and can work with what you prefer.",
+        "image": "../images/technologies.png"
       }
     ]
   },
   "contactUs": {
-    "title": "We can do it - together!",
-    "text": "Whether you need an MVP,  a completely custom software or just some short-term help implementing a solution that will enhance your business - let us know!",
-    "scheduleCall": "Schedule a call",
-    "sendEmail": "Send us an email",
-    "email": "info@crocoder.dev",
-    "image": "../images/wecandoit.png"
-  },
-  "ourServices": {
-    "title": "Our Services",
-    "startups": {
-      "title": "For startups",
-      "offer": [
-        {
-          "title": "MVP BUILD",
-          "text": "We help you define the minimal scope for your product and outline how we intend to build it. Once we agree on the scope, timeline and tools, we can set a fixed price so <em>you don’t have to worry about additional costs</em>.<br/><br/>When building MVPs, we offer up to three months of development. We make sure our scope is realistic so we don’t take more than that.<br/><br/>Our offer includes UI/UX definition and design, frontend and backend implementation, infrastructure setup, scope analyzing and planning, and software project management.  Additional services available on request."
-        }
-      ],
-      "headline": "helps you <em>solve real world problems. </em>",
-      "callToAction": "Schedule call"
-    },
-    "business": {
-      "title": "For small businesses",
-      "offer": [
-        {
-          "title": "Feature Implementation",
-          "text": "We help you with a single small implementation unit on existing solutions.<br/><br/>This implementation has a fixed development time and must be deliverable in up to a month.<br/><br/>This type of cooperation is useful when you have an existing solution but your team might not have the time to implement a feature or a set of features.<br/>Or you might not have a team at all."
-        },
-        {
-          "title": "Consultancy",
-          "text": "We become advisors and/or maintainers for a fixed time and a fixed rate.<br/><br/>We might do one of the following:<ul><li>Software maintenance and support</li><li>Research and present technical options with their pros and cons</li><li>Implement larger features that include several months of development</li><li>Organize and implement web developer education and training for in-house team</li><li>Custom software development</li>"
-        }
-      ],
-      "headline": "helps you <em>focus on your core business.</em>",
-      "callToAction": "Schedule call"
-    }
-  },
-  "contact": {
-    "image": "../images/contact.png",
-    "title": "Our website is coming soon",
-    "text": "Meanwhile feel free to message us!",
-    "email": "david@crocoder.dev"
+    "image": "../images/letsworktogether.png",
+    "title": "Let’s start working together",
+    "text": "We are a small software development team that specializes in building beautiful, fast and user-friendly web applications."
   },
   "footer": {
     "image": "../images/logoFooter.png",
