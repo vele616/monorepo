@@ -2,44 +2,51 @@
 
 .section {
   width: 100%;
+  padding-top: 0;
 
   @include mediaQuery("<=tabletPortrait") {
     padding-top: 0;
   }
 }
 
-.title {
-  margin: 0;
-  line-height: 1.3;
+
+.image {
+  flex-basis: 35%;
+  @include mediaQuery("<=tabletPortrait") {
+    flex-basis: 0;
+  }
 }
 
-.subtitle {
-  margin: 0.7em 0;
-  line-height: 1.3;
+.text {
+  flex-basis: 65%;
+  padding-left: 7%;
+  box-sizing: border-box;
+
+  @include mediaQuery("<=tabletPortrait") {
+    padding-left: 0;
+    flex-basis: 100%;
+  }
+
+  b {
+    color: $green_4;
+    font-weight: 700;
+  }
+}
+
+.title {
+  margin: 0;
+  line-height: 147%;
+  text-transform: capitalize;
+}
+
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+  margin-top: 25px;
 }
 
 .paragraph {
-  line-height: 1.8;
-  em {
-    color: $green_4;
-    font-style: normal;
-    font-weight: 600;
-  }
+  line-height: 180%;
 }
 
-.callToAction {
-  margin-top: 30px;
-
-  button:first-child {
-    margin-right: 25px;
-  }
-
-  @include mediaQuery("<=tabletPortrait") {
-    flex-direction: column !important;
-
-    button:first-child {
-      margin-right: 0;
-      margin-bottom: 25px;
-    }
-  }
-}

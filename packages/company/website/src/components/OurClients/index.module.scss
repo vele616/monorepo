@@ -1,0 +1,89 @@
+@import '@crocoder-dev/components/lib/scss/main.module.scss';
+
+.blue {
+  background-color: $blue_6;
+}
+
+.text {
+  letter-spacing: 0.36px;
+  line-height: 200%;
+  text-align: justify;
+}
+
+
+.grid {
+  margin-top: 60px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr;
+  column-gap: 60px;
+  row-gap: 60px;
+
+  @include mediaQuery("<=desktop") {
+    margin-top: 30px;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+    row-gap: 40px;
+  }
+
+  @include mediaQuery("<tabletLandscape") {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+    column-gap: 30px;
+    row-gap: 30px;
+  }
+}
+
+.card {
+  padding: 30px 25px;
+  background-color: $white;
+  border-radius: 6px;
+  box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
+  overflow: hidden;
+
+  grid-column: auto / 1 span;
+  grid-row: auto / 1 span;
+
+
+  &:last-child {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .button {
+      margin-top: 20px;
+
+      @include mediaQuery("<tabletLandscape") {
+        width: 100%;
+      }
+    }
+
+    .join, .button {
+      max-width: 180px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 150%;
+      text-align: center;
+
+      @include mediaQuery("<tabletLandscape") {
+        max-width: 100%;
+      }
+    }
+  }
+}
+
+.customer__name {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.flex {
+  margin-bottom: 0.5em;
+}
+
+.customer__description {
+  line-height: 180%;
+}
+
+.customer__logo {
+  flex-basis: 40px;
+}

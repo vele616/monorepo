@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "An Experienced software development team for projects with big impact.",
-    "text": "Whether you are redesigning your app, improving your website performance, or need help structuring your codebase, we can help you reach your goals.",
+    "title": "An Experienced Software Development Team For Projects with <b>big impact.</b>",
+    "text": "Whether you are redesigning your app, improving your website performance, or need help structuring your codebase, we can help you <b>reach your goals.</b>",
     "action": "contact us",
     "image": "../images/hero.png"
   },
   "ourClients": {
     "title": "Our Clients",
-    "text": "At CroCoder, we’ve worked with various organizations, including enterprises, startups, and small businesses. We’ve built MVPs, helped projects scale up, refactored legacy code and, set up the architecture for transitioning into the React/Node world. Is there something we can do for you?",
+    "text": "At <b>CroCoder</b>, we’ve worked with various organizations, including enterprises, startups, and small businesses. We’ve built MVPs, helped projects scale up, refactored legacy code and, set up the architecture for transitioning into the React/Node world. Is there something we can do for you?",
     "lastCard": {
       "text": "Want to join our success stories?",
       "action": "Contact us"
@@ -49,8 +49,8 @@
         "image": "../images/weworkremotely.png"
       },
       {
-        "title": "",
-        "text": "",
+        "title": "We Work as Members of Your Team",
+        "text": "We operate as equal members - using the same tools, participating in the same meetings and, using the same workflows and processes your business has set up. We are highly adaptable and do not have a problem collaborating with different departments.",
         "image": "../images/weworkasmembersofyourteam.png"
       },
       {
@@ -63,7 +63,8 @@
   "contactUs": {
     "image": "../images/letsworktogether.png",
     "title": "Let’s start working together",
-    "text": "We are a small software development team that specializes in building beautiful, fast and user-friendly web applications."
+    "text": "We are a small software development team that specializes in building beautiful, fast and user-friendly web applications.",
+    "confirm": "I give consent to CroCoder to use this information to contact me."
   },
   "footer": {
     "image": "../images/logoFooter.png",
