@@ -378,6 +378,10 @@
 }
 
 .markdown-body li+li {
+  margin-top: .45em;
+}
+
+.markdown-body p+ul {
   margin-top: .25em;
 }
 
@@ -453,4 +457,8 @@
 
 .markdown-body hr {
   border-bottom-color: #eee;
+}
+
+.markdown-body li > p {
+  margin: 0;
 }
