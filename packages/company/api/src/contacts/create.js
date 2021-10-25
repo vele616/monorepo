@@ -1,5 +1,6 @@
 const AWS = require("aws-sdk");
 const { nanoid } = require("nanoid");
+const verify = require("../recaptcha/verify");
 
 let databaseOptions = {};
 
@@ -26,7 +27,13 @@ exports.exec = async (event, context) => {
       };
     }
 
-    const { email, name, message } = JSON.parse(event.body);
+    const { email, name, message, token } = JSON.parse(event.body);
+
+    if (!token) {
+      return {
+        statusCode: 403,
+      };
+    }
 
     const region = context.invokedFunctionArn.split(":")[3];
     const accountId = context.invokedFunctionArn.split(":")[4];

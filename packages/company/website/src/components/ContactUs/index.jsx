@@ -12,6 +12,21 @@ import {
 import styles from "./index.module.scss";
 import Section from "../Layout/Section";
 
+const waitGrecaptchaReady = () => {
+  return new Promise((resolve) => {
+    window.grecaptcha.ready(resolve());
+  });
+};
+
+const executeGrecaptchaAsync = async () => {
+  await waitGrecaptchaReady();
+  const token = await window.grecaptcha.execute(
+    process.env.GATSBY_RECAPTCHA_KEY,
+    { action: "submit" }
+  );
+  return token;
+};
+
 const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
   const [confirmed, setConfirmed] = React.useState(false);
 
@@ -19,6 +34,10 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
     // setTouched(true);
     setConfirmed(!confirmed);
   }, [confirmed]);
+
+  const submit = async () => {
+    console.log(await executeGrecaptchaAsync());
+  };
 
   return [
     <div
@@ -85,7 +104,18 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
                   {confirm}
                 </Typography>
               </Flexbox>
-              <Button className={styles.button}>Submit</Button>
+              <Button onClick={submit} className={styles.button}>
+                Submit
+              </Button>
+              This site is protected by reCAPTCHA and the Google
+              <a href="https://policies.google.com/privacy">
+                Privacy Policy
+              </a>{" "}
+              and
+              <a href="https://policies.google.com/terms">
+                Terms of Service
+              </a>{" "}
+              apply.
             </Flexbox>
           </div>
 

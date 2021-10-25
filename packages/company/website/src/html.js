@@ -12,7 +12,12 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {props.headComponents}
-        <script dangerouslySetInnerHTML={{ __html: 'window.sa_event=window.sa_event||function(){a=[].slice.call(arguments);sa_event.q?sa_event.q.push(a):sa_event.q=[a]};'}}></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "window.sa_event=window.sa_event||function(){a=[].slice.call(arguments);sa_event.q?sa_event.q.push(a):sa_event.q=[a]};",
+          }}
+        ></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
@@ -26,6 +31,11 @@ export default function HTML(props) {
         <noscript>
           <img src="https://sa.crocoder.dev/noscript.gif" alt="" />
         </noscript>
+        <script
+          async
+          defer
+          src={`https://www.google.com/recaptcha/api.js?render=${process.env.GATSBY_RECAPTCHA_KEY}`}
+        ></script>
       </body>
     </html>
   );
