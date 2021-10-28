@@ -25,7 +25,7 @@ I would like to prove to you that by using map, filter, and reduce array methods
 <br/>
 
 
-<typography element="h2">Exercises</typography>
+<typography element="h2">Exercises</subtitle>
 
 - [Array Squared](#array-squared)
 - [Sum of every positive element](#sum-of-every-positive-element)
@@ -40,11 +40,11 @@ I would like to prove to you that by using map, filter, and reduce array methods
 <br/>
 <br/>
 
-<typography id="array-squared" element="h2">Array Squared</typography>
+<typography id="array-squared" element="h2">Array Squared</subtitle>
 
 Square value of every element in the array. Presume that you will get only numbers in the input array.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [Math.pow()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
@@ -52,7 +52,7 @@ Square value of every element in the array. Presume that you will get only numbe
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
     const input = [ 1, 2, 3, 4, 5 ];
@@ -62,7 +62,7 @@ Square value of every element in the array. Presume that you will get only numbe
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     [ 1, 4, 9, 16, 25]
@@ -88,11 +88,11 @@ Square value of every element in the array. Presume that you will get only numbe
 
 </list-toggle>
 
-<typography id="sum-of-every-positive-element" element="h2">Sum of every positive element</typography>
+<typography id="sum-of-every-positive-element" element="h2">Sum of every positive element</subtitle>
 
 Input is an array of numbers, return the sum of all of the positives ones. If the array is empty or there aren't any positive numbers return 0.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
@@ -100,7 +100,7 @@ Input is an array of numbers, return the sum of all of the positives ones. If th
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
     const input = [ 1, -4, 12, 0, -3, 29, -150];
@@ -110,7 +110,7 @@ Input is an array of numbers, return the sum of all of the positives ones. If th
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     42
@@ -141,11 +141,11 @@ Input is an array of numbers, return the sum of all of the positives ones. If th
 
 </list-toggle>
 
-<typography id="calculate-median-and-mean" element="h2">Calculate median and mean</typography>
+<typography id="calculate-median-and-mean" element="h2">Calculate median and mean</subtitle>
 
 Calculate the mean and median values of the number elements from the input array.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 - [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
@@ -155,7 +155,7 @@ Calculate the mean and median values of the number elements from the input array
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
 
@@ -167,7 +167,7 @@ Calculate the mean and median values of the number elements from the input array
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     { mean: 38.5, median: 32 }
@@ -200,11 +200,11 @@ Calculate the mean and median values of the number elements from the input array
 
 </list-toggle>
 
-<typography id="get-name-initials" element="h2">Get Name initials</typography>
+<typography id="get-name-initials" element="h2">Get Name initials</subtitle>
 
 Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
@@ -213,7 +213,7 @@ Input is a string of multiple words with a single space between each of them. Yo
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
     const input = 'George Raymond Richard Martin';
@@ -223,7 +223,7 @@ Input is a string of multiple words with a single space between each of them. Yo
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     'GRRM'
@@ -252,11 +252,11 @@ Input is a string of multiple words with a single space between each of them. Yo
 
 </list-toggle>
 
-<typography id="age-difference-from-the-youngest-and-oldest" element="h2">Age Difference from the youngest and oldest</typography>
+<typography id="age-difference-from-the-youngest-and-oldest" element="h2">Age Difference from the youngest and oldest</subtitle>
 
 Find the difference in age between the oldest and youngest family members, and return their respective ages and the difference.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [Math.min()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
@@ -265,7 +265,7 @@ Find the difference in age between the oldest and youngest family members, and r
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
 
@@ -298,7 +298,7 @@ Find the difference in age between the oldest and youngest family members, and r
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     [13, 67, 54]
@@ -345,12 +345,12 @@ Find the difference in age between the oldest and youngest family members, and r
 
 
 
-<typography id="numeronyms" element="h2">Numeronyms</typography>
+<typography id="numeronyms" element="h2">Numeronyms</subtitle>
 
 Devs like to abbreviate everything: k8s means Kubernetes, a11y means accessibility, l10n means localization. You get the Dev numeronyms by taking the first and the last letter and counting the number of letters in between. Words that have less than 4 letters aren't abbreviated, because that would be just odd. 
 The input is a sentence, and you should abbreviate every word that is 4 letters long or longer. There won't be any punctuation in the sentence. g2d l2k e6e
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
@@ -360,7 +360,7 @@ The input is a sentence, and you should abbreviate every word that is 4 letters 
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
     const input = 'Every developer likes to mix kubernetes and javascript';
@@ -370,7 +370,7 @@ The input is a sentence, and you should abbreviate every word that is 4 letters 
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     'E3y d7r l3s to mix k8s and j8t'
@@ -408,11 +408,11 @@ The input is a sentence, and you should abbreviate every word that is 4 letters 
 
 </list-toggle>
 
-<typography id="n-with-map-and-reduce" element="h2">n! with map and reduce </typography>
+<typography id="n-with-map-and-reduce" element="h2">n! with map and reduce </subtitle>
 
 Input is a number and you should return the factorial of that number. The factorial of a natural number n is the product of the positive integers less than or equal to n. So, 2! = 2, 3! = 6, 4! = 24 and so on.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [Array.prototype.fill()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
@@ -422,7 +422,7 @@ Input is a number and you should return the factorial of that number. The factor
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
     const input = 6;
@@ -432,7 +432,7 @@ Input is a number and you should return the factorial of that number. The factor
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     720
@@ -469,11 +469,11 @@ Input is a number and you should return the factorial of that number. The factor
 
 </list-toggle>
 
-<typography id="count-elements-in-array-of-arrays" element="h2">Count elements in array of arrays</typography>
+<typography id="count-elements-in-array-of-arrays" element="h2">Count elements in array of arrays</subtitle>
 
 Count the occurrences of distinct elements in the given 2D array. The given input is an array in which elements are arrays of strings. A result is an object which properties' names are values from the arrays and their value is the number of their occurrences. 
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 - [Array.prototype.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
@@ -482,7 +482,7 @@ Count the occurrences of distinct elements in the given 2D array. The given inpu
 <row>
 
   <column>
-  <typography element="h4">Input</typography>
+<subtitle>Input</subtitle>
 
   ```javascript
     const input = [
@@ -497,7 +497,7 @@ Count the occurrences of distinct elements in the given 2D array. The given inpu
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     {

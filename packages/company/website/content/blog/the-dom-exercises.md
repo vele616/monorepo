@@ -22,7 +22,7 @@ The DOM or the Document Object Model of the page is created after the web page i
 <br/>
 
 
-<typography element="h2">Exercises</typography>
+<typography element="h2">Exercises</subtitle>
 
 - [Fruit list](#fruit-list)
 - [CroCoder Logo](#crocoder-logo)
@@ -31,11 +31,11 @@ The DOM or the Document Object Model of the page is created after the web page i
 <br/>
 <br/>
 
-<typography id="fruit-list" element="h2">Fruit List</typography>
+<typography id="fruit-list" element="h2">Fruit List</subtitle>
 
 You are given some names of different fruits and an unordered list html element; add a list item for each to the unordered list.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 - [Document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
@@ -87,11 +87,11 @@ fruitList.forEach((fruit) => {
 
 </list-toggle>
 
-<typography id="crocoder-logo" element="h2">CroCoder Logo</typography>
+<typography id="crocoder-logo" element="h2">CroCoder Logo</subtitle>
 
 Add the CroCoder logo (image element) as a child element to the existing div element.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 - [Document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
@@ -140,11 +140,11 @@ Add the CroCoder logo (image element) as a child element to the existing div ele
 
 </list-toggle>
 
-<typography id="change-first-and-last-item-from-an-unordered-list" element="h2">Change first and last item from an unordered list</typography>
+<typography id="change-first-and-last-item-from-an-unordered-list" element="h2">Change first and last item from an unordered list</subtitle>
 
 Change the text in first and the last list item element in every unordered list element on this page. Change it to ```'first'``` and ```'last'```.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Document.querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)

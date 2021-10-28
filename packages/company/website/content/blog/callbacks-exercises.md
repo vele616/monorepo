@@ -36,7 +36,7 @@ The second parameter passed into addEventListener is a **callback**. I have comp
 <br/>
 
 
-<typography element="h2">Exercises</typography>
+<typography element="h2">Exercises</subtitle>
 
 - [Is this number odd?](#is-odd)
 - [Exclaim](#exclaim)
@@ -48,11 +48,11 @@ The second parameter passed into addEventListener is a **callback**. I have comp
 <br/>
 <br/>
 
-<typography id="is-odd" element="h2">Is this number odd?</typography>
+<typography id="is-odd" element="h2">Is this number odd?</subtitle>
 
 Write a function that returns true or false for a given number. We will reuse this function, so make it reusable.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Remainder (%)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder)
 
@@ -60,7 +60,7 @@ Write a function that returns true or false for a given number. We will reuse th
 
   <column>
 
-  <typography element="h4">Function calls</typography>
+<subtitle>Function calls</subtitle>
 
   ```javascript
     isOdd(4);
@@ -71,7 +71,7 @@ Write a function that returns true or false for a given number. We will reuse th
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     false
@@ -91,11 +91,11 @@ const isOdd = (num) => num % 2 === 1;
 
 </list-toggle>
 
-<typography id="exclaim" element="h2">Exclaim</typography>
+<typography id="exclaim" element="h2">Exclaim</subtitle>
 
 Write a function that returns the given string with a concated exclamation ! at the end. We will reuse this function, so make it reusable.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
@@ -103,7 +103,7 @@ Write a function that returns the given string with a concated exclamation ! at 
 
   <column>
 
-  <typography element="h4">Function calls</typography>
+<subtitle>Function calls</subtitle>
 
   ```javascript
     exclaim('Adrian');
@@ -114,7 +114,7 @@ Write a function that returns the given string with a concated exclamation ! at 
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     "Adrian!"
@@ -137,11 +137,11 @@ Write a function that returns the given string with a concated exclamation ! at 
 
 </list-toggle>
 
-<typography id="double-the-chars" element="h2">Double the chars!</typography>
+<typography id="double-the-chars" element="h2">Double the chars!</subtitle>
 
 Write a function that duplicates each char in a string. If I pass 'abc' to the function, it should return 'aabbcc'.  We will reuse this function, so make it reusable.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 - [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
@@ -152,7 +152,7 @@ Write a function that duplicates each char in a string. If I pass 'abc' to the f
 
   <column>
 
-  <typography element="h4">Function calls</typography>
+<subtitle>Function calls</subtitle>
 
   ```javascript
     doubleChars('Adrian');
@@ -163,7 +163,7 @@ Write a function that duplicates each char in a string. If I pass 'abc' to the f
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     "AAddrriiaann"
@@ -186,11 +186,11 @@ Write a function that duplicates each char in a string. If I pass 'abc' to the f
 
 </list-toggle>
 
-<typography id="at-least-two-elements" element="h2">At least two elements</typography>
+<typography id="at-least-two-elements" element="h2">At least two elements</subtitle>
 
 Write a function called **atLeastTwo** that receives an array and a callback as its arguments. If at least two elements from the array return a truthy value when passed as an argument to the callback, **atLeastTwo** should return true. If there aren't at least two elements from the array that return a truthy value when passed as arguments to the callback, **atLeastTwo** should return false. 
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
@@ -199,7 +199,7 @@ Write a function called **atLeastTwo** that receives an array and a callback as 
 
   <column>
 
-  <typography element="h4">Function calls</typography>
+<subtitle>Function calls</subtitle>
 
   ```javascript
     atLeastTwo([1, 2, 3, 4, 5], isOdd);
@@ -211,7 +211,7 @@ Write a function called **atLeastTwo** that receives an array and a callback as 
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     true
@@ -243,13 +243,13 @@ Write a function called **atLeastTwo** that receives an array and a callback as 
 
 </list-toggle>
 
-<typography id="group-by" element="h2">Group By</typography>
+<typography id="group-by" element="h2">Group By</subtitle>
 
 Write a function **groupBy** that groups elements from an array by the returned value from callback when an element from the array is passed as an argument. 
 
 This is a really common pattern when doing array manipulation.
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 - [Array.prototype.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
@@ -258,7 +258,7 @@ This is a really common pattern when doing array manipulation.
 
   <column>
 
-  <typography element="h4">Function calls</typography>
+<subtitle>Function calls</subtitle>
 
   ```javascript
     const input = [
@@ -290,7 +290,7 @@ This is a really common pattern when doing array manipulation.
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     // 1
@@ -393,11 +393,11 @@ This is a really common pattern when doing array manipulation.
 
 </list-toggle>
 
-<typography id="repeat-the-function-x-times" element="h2">Repeat the function x times</typography>
+<typography id="repeat-the-function-x-times" element="h2">Repeat the function x times</subtitle>
 
 Write a function **repeat** that receives 3 arguments: a string, number of repetitions, and a callback that will be repeated. The **repeat** function should pass the string to the callback as an argument and repeat x times the callback with the result of the previous repetition as an argument. 
 
-<typography element="h4">Helpful MDN Docs links</typography>
+<subtitle>Helpful links</subtitle>
 
 - [For loop](https://developer.mozilla.org/en-US/docs/Glossary/loop#for_loop)
 - [Recursion](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#recursion)
@@ -406,7 +406,7 @@ Write a function **repeat** that receives 3 arguments: a string, number of repet
 
   <column>
 
-  <typography element="h4">Function calls</typography>
+<subtitle>Function calls</subtitle>
 
   ```javascript
     repeat('infinite power', 3, exclaim);
@@ -418,7 +418,7 @@ Write a function **repeat** that receives 3 arguments: a string, number of repet
 
   <column>
 
-  <typography element="h4">Result</typography>
+<subtitle>Result</subtitle>
 
   ```javascript
     "infinite power!!!"
