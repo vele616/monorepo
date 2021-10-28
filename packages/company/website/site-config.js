@@ -6,6 +6,15 @@ module.exports = {
   siteDescription:
     "We are an experienced web development team that helps startups and small businesses focus on what really matters.",
   siteUrl: "https://crocoder.dev",
+  logoUrl: "https://crocoder.dev/images/logo.png",
+  company: {
+    name: "CroCoder, Inc.",
+    street: "651 N BROAD ST SUITE 206",
+    city: "MIDDLETOWN",
+    region: "DELAWARE",
+    postalCode: "19709",
+    country: "United States",
+  },
   themeColor: "#000",
   backgroundColor: "#fff",
   pathPrefix: null,
@@ -14,5 +23,6 @@ module.exports = {
     twitter: "https://twitter.com/crocoderdev",
     linkedin: "https://www.linkedin.com/company/crocoderdev",
     github: "https://github.com/crocoder-dev",
+    youtube: "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA",
   },
 };
