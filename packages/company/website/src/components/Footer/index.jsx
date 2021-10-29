@@ -4,19 +4,20 @@ import CrocFooter from "../../images/croc-footer.svg";
 import { Icon, Footer as FooterComponent } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-const Footer = ({ socialMedia, sticky, scrollToTop }) => {
+const Footer = ({ socialMedia, goToHomeAria, scrollToTop }) => {
   return (
     <FooterComponent
       copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
-      className={sticky ? styles.sticky : ""}
+      className={styles.footer}
       logo={
         <Link
           to="/"
           onClick={() => {
             if (scrollToTop) scrollToTop();
           }}
+          aria-label={goToHomeAria}
         >
-          <div className={styles.image}>
+          <div className={styles.image} aria-hidden="true">
             <CrocFooter />
           </div>
         </Link>
@@ -29,8 +30,9 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
               className={styles.icon}
               key={mediaLink.icon}
               href={mediaLink.link}
+              aria-label={mediaLink.aria}
             >
-              <Icon color="gray_1" icon={mediaLink.icon} />
+              <Icon aria-hidden="true" color="gray_1" icon={mediaLink.icon} />
             </a>
           ))}
         </>
@@ -54,10 +56,12 @@ const FooterWithQuery = ({ sticky, scrollToTop }) => (
     query={graphql`
       query {
         homeJson {
+          goToHomeAria
           footer {
             socialMedia {
               link
               icon
+              aria
             }
           }
         }
@@ -66,6 +70,7 @@ const FooterWithQuery = ({ sticky, scrollToTop }) => (
     render={(data) => (
       <Footer
         {...data.homeJson.footer}
+        goToHomeAria={data.homeJson.goToHomeAria}
         scrollToTop={scrollToTop}
         sticky={sticky}
       />

@@ -13,9 +13,9 @@ body {
   text-size-adjust: 100%;
 }
 
-.section {
+.section:not(.styleChild) {
   margin: auto;
-  padding: 30px 108px;
+  padding: 40px 108px;
   width: 100vw;
   overflow: hidden;
   max-width: 1600px;
@@ -30,7 +30,33 @@ body {
   }
 
   @include mediaQuery(">=360px", "<tabletPortrait") {
+    padding: 20px 30px;
+  }
+
+
+  @include mediaQuery("<360px") {
+    padding:  20px 20px;
+  }
+}
+
+.section.styleChild > div {
+  margin: auto;
+  padding: 40px 108px;
+  width: 100vw;
+  overflow: hidden;
+  max-width: 1600px;
+  box-sizing: border-box;
+     
+  @include mediaQuery(">=tabletLandscape", "<desktop") {
+    padding: 30px 60px;
+  }
+
+  @include mediaQuery(">=tabletPortrait", "<tabletLandscape") {
     padding: 20px 40px;
+  }
+
+  @include mediaQuery(">=360px", "<tabletPortrait") {
+    padding: 20px 30px;
   }
 
 
@@ -44,4 +70,40 @@ body {
   @include mediaQuery(">tabletPortrait"){
     //margin-left: 15% !important;
   }
+}
+
+
+@mixin generateFilledButtonStyle($mainColor, $lightColor, $contrast) {
+  background-color: $mainColor;
+  border-color: $mainColor;
+  color: $contrast;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: $lightColor;
+    border-color: $lightColor;
+  }
+
+  &:not(:disabled) {
+    &:focus {
+      outline: none;
+      background-color: $lightColor;
+      border-color: $contrast;
+    }
+  }
+
+}
+
+.contactus {
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 25px 14px 25px;
+  @include generateFilledButtonStyle($secondary, $secondary_light, $contrast);
 }
