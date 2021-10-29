@@ -6,6 +6,7 @@ import About from "../components/Blog/Content/About";
 import Layout from "../components/Layout";
 import SimiliarPosts from "../components/Blog/Content/SimiliarPosts";
 import { Helmet } from "react-helmet";
+import { JSONLDType } from "../components/Head/jsonld";
 
 export const BlogPostTemplate = ({ data, pageContext }) => {
   const post = data.markdownRemark;
@@ -18,8 +19,20 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
     title: p.frontmatter.title,
     slug: p.fields.slug,
   }));
+  const article = {
+    author,
+    headline: post.frontmatter.title,
+    imageUrl: post.frontmatter.image.publicURL,
+    datePublished: post.frontmatter.date,
+    dateUpdated: post.frontmatter.date,
+    slug: post.fields.slug,
+    about: post.frontmatter.description,
+    abstract: post.frontmatter.abstract,
+    //articleBody: post.html,
+  };
+  console.log(article);
   return (
-    <Layout stickyFooter>
+    <Layout jsonldType={JSONLDType.ARTICLE} article={article} stickyFooter>
       <Helmet>
         <title>{`${post.frontmatter.title} | ${post.frontmatter.category}`}</title>
         <meta
@@ -79,6 +92,7 @@ export const pageQuery = graphql`
         date
         description
         title
+        abstract
         image {
           publicURL
           childImageSharp {
