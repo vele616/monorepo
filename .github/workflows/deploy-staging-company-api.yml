@@ -19,7 +19,7 @@ jobs:
         node-version: 12
     - run: ./scripts/company/get-secrets.sh ${{ secrets.SECRET_BUCKET }} ./
     - run: cd packages/company/api && yarn install --production=false
-    - run: cd packages/company/api && npx serverless deploy --env=staging --conceal
+    - run: cd packages/company/api && npx serverless deploy --env=staging --stage=staging --conceal
       env:
         SERVERLESS_ACCESS_KEY: ${{ secrets.SERVERLESS_ACCESS_KEY }}
 
