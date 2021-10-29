@@ -21,11 +21,12 @@ const Layout = ({
         Logo={
           <Link
             to="/"
+            aria-label="Go to Home page"
             onClick={() => {
               if (scrollToTop) scrollToTop();
             }}
           >
-            <CrocNav />
+            <CrocNav area-hidden="true" />
           </Link>
         }
       >
@@ -48,22 +49,13 @@ const Layout = ({
             <Link className={`${styles.jobs} link`} to="/blog">
               Blog
             </Link>
-            <Button
-              onClick={() => {
-                toggle();
-                window.sa_event(
-                  `${process.env.GATSBY_SCHEDULE_CALL_NAVIGATION_CLICK_SA_EVENT}`
-                );
-                scrollToContactUs && scrollToContactUs();
-              }}
-              variant="secondary"
-            >
+            <Link className={`${styles.contactus} link`} to="/contact_us">
               Contact Us
-            </Button>
+            </Link>
           </>
         )}
       </Navigation>
-      {children}
+      <main>{children}</main>
       <Footer scrollToTop={scrollToTop} sticky={stickyFooter} />
     </>
   );

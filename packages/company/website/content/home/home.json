@@ -1,13 +1,14 @@
 {
+  "goToHomeAria": "Go to Home page",
   "hero": {
-    "title": "An Experienced Software Development Team For Projects with <b>big impact.</b>",
+    "title": "<em><b>Cro</b>Coder</em> - An Experienced Software Development Team For Projects with <b>big impact.</b>",
     "text": "Whether you are redesigning your app, improving your website performance, or need help structuring your codebase, we can help you <b>reach your goals.</b>",
     "action": "contact us",
     "image": "../images/hero.png"
   },
   "ourClients": {
     "title": "Our Clients",
-    "text": "At <b>CroCoder</b>, we’ve worked with various organizations, including enterprises, startups, and small businesses. We’ve built MVPs, helped projects scale up, refactored legacy code and, set up the architecture for transitioning into the React/Node world. Is there something we can do for you?",
+    "text": "At <em><b>Cro</b>Coder</em>, we’ve worked with various organizations, including enterprises, startups, and small businesses. We’ve built MVPs, helped projects scale up, refactored legacy code and, set up the architecture for transitioning into the React/Node world. Is there something we can do for you?",
     "lastCard": {
       "text": "Want to join our success stories?",
       "action": "Contact us"
@@ -71,11 +72,13 @@
     "socialMedia": [
       {
         "icon": "linkedin1",
-        "link": "https://www.linkedin.com/company/crocoderdev"
+        "link": "https://www.linkedin.com/company/crocoderdev",
+        "aria": "Go to CroCoder Linked In page"
       },
       {
         "icon": "youtube",
-        "link": "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA"
+        "link": "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA",
+        "aria": "Go to CroCoder YouTube page"
       }
     ]
   }
