@@ -41,7 +41,11 @@ const Layout = ({
               href="https://jobs.crocoder.dev/"
             >
               <Typography fontWeight={600}>
-                <Typography fontWeight={600} color="primary">
+                <Typography
+                  fontWeight={600}
+                  style={{ color: "#647E1B" }}
+                  color="primary"
+                >
                   Cro
                 </Typography>
                 Coder
