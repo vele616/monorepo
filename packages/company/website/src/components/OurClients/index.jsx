@@ -55,13 +55,14 @@ const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
           animate="show"
           className={styles.grid}
         >
-          {cards.map(({ title, image, text }, index) => (
+          {cards.map(({ title, image, text, client }, index) => (
             <Card
               delay={3 * index}
               key={title}
               name={title}
               image={image}
               description={text}
+              client={client}
             />
           ))}
           <motion.div
@@ -112,10 +113,11 @@ const OurClientsWithQuery = ({ scrollToContactUs }) => (
             cards {
               title
               text
+              client
               image {
                 childImageSharp {
-                  fluid {
-                    ...GatsbyImageSharpFluid
+                  fixed(width: 140) {
+                    ...GatsbyImageSharpFixed
                   }
                 }
               }

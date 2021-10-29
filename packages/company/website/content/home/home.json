@@ -17,27 +17,32 @@
       {
         "title": "Skew Analytics",
         "text": "We worked on building the whole MVP and were responsible for complete back-end development, DevOps and infrastructure setup, and the front-end development. We made sure the application was suitable for modern browsers, implemented the whole authentication system, custom dashboard, and set up the basic component library.",
-        "image": "../images/skew.png"
+        "image": "../images/skew.png",
+        "client": "skew"
       },
       {
         "title": "Searchmetrics",
         "text": "At Searchmetrics, we participated in defining standards and rules to ease development and reduce time to develop different features. We were responsible for the front-end development of new features and, worked on improving the developer environment and the front-end CI/CD processes of the shared codebase.",
-        "image": "../images/searchmetrics.png"
+        "image": "../images/searchmetrics.png",
+        "client": "searchmetrics"
       },
       {
         "title": "Lynes",
         "text": "For Lynes, we helped start a new Croatian office, which meant finding the right technical talent and initial mentoring to make sure they had the right technical and soft skills. Additionally, we were responsible for designing and implementing telephone calls on a platform designed for real-time communication.",
-        "image": "../images/lynes.png"
+        "image": "../images/lynes.png",
+        "client": "lynes"
       },
       {
         "title": "TransferHero",
         "text": "Participating as part of a remote team we implemented the solution's back end and front end. Additionally, we helped with the initial project DevOps setup and were responsible for complete user account management, implementing the booking system for transfer reservations, and payment system integration via Stripe.",
-        "image": "../images/transferhero.png"
+        "image": "../images/transferhero.png",
+        "client": "transferhero"
       },
       {
         "title": "MisterSpex",
         "text": "At German-based enterprise Mister Spex, we worked as front-end developers to create a structured shared custom component codebase that can be reused by multiple teams working with different domains. Additionally, we advised how the performance and structure of the implemented solution can be improved.",
-        "image": "../images/misterspex.png"
+        "image": "../images/misterspex.png",
+        "client": "misterspex"
       }
     ]
   },

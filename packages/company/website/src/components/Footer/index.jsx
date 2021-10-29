@@ -17,7 +17,11 @@ const Footer = ({ socialMedia, goToHomeAria, scrollToTop }) => {
           }}
           aria-label={goToHomeAria}
         >
-          <div className={styles.image} aria-hidden="true">
+          <div
+            className={styles.image}
+            style={{ visibility: "visible" }}
+            aria-hidden="true"
+          >
             <CrocFooter />
           </div>
         </Link>
@@ -32,7 +36,12 @@ const Footer = ({ socialMedia, goToHomeAria, scrollToTop }) => {
               href={mediaLink.link}
               aria-label={mediaLink.aria}
             >
-              <Icon aria-hidden="true" color="gray_1" icon={mediaLink.icon} />
+              <Icon
+                aria-hidden="true"
+                style={{ visibility: "visible" }}
+                color="gray_1"
+                icon={mediaLink.icon}
+              />
             </a>
           ))}
         </>

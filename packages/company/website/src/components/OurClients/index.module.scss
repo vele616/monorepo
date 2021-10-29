@@ -10,7 +10,7 @@
   text-align: justify;
 
   b {
-    color: $green_4;
+    color: #647E1B; //$green_4;
     font-weight: 700;
   }
   em {
@@ -94,5 +94,14 @@
 }
 
 .customer__logo {
-  flex-basis: 40px;
+  flex-basis: 75px;
+  min-height: 40px;
+}
+
+.searchmetrics {
+  flex-basis: 140px;
+}
+
+.misterspex {
+  flex-basis: 90px;
 }

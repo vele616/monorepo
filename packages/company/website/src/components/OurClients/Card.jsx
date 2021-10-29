@@ -1,7 +1,7 @@
 import React from "react";
 import "@crocoder-dev/components/lib/main.css";
 import { Typography, Flexbox } from "@crocoder-dev/components";
-import { motion } from "framer-motion";
+import { motion, transform } from "framer-motion";
 import styles from "./index.module.scss";
 import Img from "gatsby-image";
 
@@ -10,7 +10,7 @@ const item = (delay) => ({
   show: { opacity: 1, transition: { duration: delay } },
 });
 
-const Card = ({ className, name, image, description, delay }) => (
+const Card = ({ className, name, client, image, description, delay }) => (
   <motion.div
     transition={{ duration: 0.7 }}
     whileHover={{ scale: 1.1 }}
@@ -33,10 +33,16 @@ const Card = ({ className, name, image, description, delay }) => (
         {name}
       </Typography>
       <Img
-        fadeIn={false}
-        fluid={image ? image.childImageSharp.fluid : {}}
         alt={""}
-        className={styles.customer__logo}
+        className={`${styles.customer__logo} ${styles[client]}`}
+        fadeIn={false}
+        fluid={image ? image.childImageSharp.fixed : {}}
+        imgStyle={{
+          objectFit: "contain",
+          height: "auto",
+          top: "50%",
+          transform: "translate(0%,-50%)",
+        }}
       />
     </Flexbox>
     <Typography
