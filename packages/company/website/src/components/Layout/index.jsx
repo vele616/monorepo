@@ -13,10 +13,12 @@ const Layout = ({
   pageTitle,
   scrollToContactUs,
   scrollToTop,
+  jsonldType,
+  article,
 }) => {
   return (
     <>
-      <Head pageTitle={pageTitle} />
+      <Head jsonldType={jsonldType} article={article} pageTitle={pageTitle} />
       <Navigation
         Logo={
           <Link
