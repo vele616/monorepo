@@ -3,81 +3,59 @@ import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
 import { Typography, Flexbox, Card } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
+import Section from "../Layout/Section";
 import { useMemo } from "react";
 
-const Content = ({ title, text }) => (
-  <Flexbox direction="column" className={styles.card__content}>
+const HowWeWork = ({ title, content }) => (
+  <Section as="section" className={styles.section}>
     <Typography
-      className={styles.card__title}
-      color="gray_2"
-      element="h3"
-      fontSize={26}
+      className={styles.title}
+      element="h2"
+      fontSize={36}
       fontWeight={700}
+      textAlign="center"
+      color="gray_2"
     >
       {title}
     </Typography>
-    <Typography
-      className={styles.paragraph}
-      color="gray_11"
-      element="div"
-      fontFamily="rubik"
-      fontSize={18}
-    >
-      {text}
-    </Typography>
-  </Flexbox>
-);
-
-const HowWeWork = ({ title, content, howWeWorkRef }) => {
-  const cards = useMemo(() => {
-    return content.map(({ title, text, image }) => {
-      const cardImage = (
-        <div className={styles.card__image}>
+    <div>
+      {content.map((sectionContent) => (
+        <Flexbox key={sectionContent.title} className={styles.flex}>
+          <div className={styles.flex__text}>
+            <Typography
+              color="gray_2"
+              element="h3"
+              fontSize={26}
+              fontWeight={600}
+              className={styles.flex__name}
+            >
+              {sectionContent.title}
+            </Typography>
+            <Typography
+              element="p"
+              color="gray_2"
+              fontSize={24}
+              className={styles.flex__description}
+              dangerouslySetInnerHTML={{ __html: sectionContent.text }}
+            />
+          </div>
           <Img
             fadeIn={false}
-            fluid={image ? image.childImageSharp.fluid : {}}
-            alt={title}
+            fluid={
+              sectionContent.image
+                ? sectionContent.image.childImageSharp.fluid
+                : {}
+            }
+            alt={""}
+            className={styles.flex__image}
           />
-        </div>
-      );
+        </Flexbox>
+      ))}
+    </div>
+  </Section>
+);
 
-      return (
-        <Card
-          key={title}
-          narrow
-          image={cardImage}
-          className={styles.card}
-          imageAspectRatio="3:2"
-        >
-          <Content title={title} text={text} />
-        </Card>
-      );
-    });
-  }, [content]);
-
-  return [
-    <div
-      key="ref"
-      style={{ position: "relative", top: "-100px" }}
-      ref={howWeWorkRef}
-    />,
-    <section key="section" className={styles.section}>
-      <Typography
-        color="gray_2"
-        element="h1"
-        fontSize={50}
-        fontWeight={700}
-        textAlign="center"
-        className={styles.title}
-      >
-        {title}
-      </Typography>
-      <div className={styles.contentWrapper}>{cards}</div>
-    </section>,
-  ];
-};
-
-const WithQuery = ({ howWeWorkRef }) => (
+const HowWeWorkWithQuery = ({ howWeWorkRef }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -99,10 +77,8 @@ const WithQuery = ({ howWeWorkRef }) => (
         }
       }
     `}
-    render={(data) => (
-      <HowWeWork howWeWorkRef={howWeWorkRef} {...data.homeJson.howWeWork} />
-    )}
+    render={(data) => <HowWeWork {...data.homeJson.howWeWork} />}
   />
 );
 
-export default WithQuery;
+export default HowWeWorkWithQuery;

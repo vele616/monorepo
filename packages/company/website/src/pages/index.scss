@@ -1,5 +1,9 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
+.grecaptcha-badge { 
+  visibility: hidden;
+}
+
 body {
   min-height: 100vh !important;
   background-color: $white;

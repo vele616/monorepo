@@ -1,20 +1,49 @@
 import React from "react";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Section, Flexbox, Button } from "@crocoder-dev/components";
+import { Typography, Flexbox, Button } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
+import Section from "../Layout/Section";
+import Img from "gatsby-image";
 
-const Hero = ({
-  title,
-  paragraph,
-  subtitle,
-  scheduleCall,
-  howWeWork,
-  scrollToContactUs,
-  scrollToHowWeWork,
-  topRef,
-}) => (
-  <Section className={styles.section} backgroundColor="white">
-    <Typography
+const Hero = ({ title, text, action, image, scrollToContactUs, topRef }) => (
+  <Section as="header" className={styles.section} backgroundColor="white">
+    <Flexbox className={styles.flex} alignItems="center">
+      <Img
+        fadeIn={false}
+        fluid={image ? image.childImageSharp.fluid : {}}
+        alt={""}
+        className={styles.image}
+      />
+      <div className={styles.text}>
+        <Typography
+          className={styles.title}
+          element="h1"
+          fontSize={34}
+          dangerouslySetInnerHTML={{ __html: title }}
+          fontWeight={400}
+          color="gray_2"
+        />
+        <Typography
+          className={styles.paragraph}
+          element="p"
+          fontSize={22}
+          dangerouslySetInnerHTML={{ __html: text }}
+          fontWeight={400}
+          color="gray_2"
+        />
+        <Button
+          className={styles.button}
+          onClick={() => {
+            scrollToContactUs && scrollToContactUs();
+          }}
+          variant="primary"
+        >
+          {action}
+        </Button>
+      </div>
+    </Flexbox>
+
+    {/*<Typography
       className={styles.title}
       element="h1"
       fontSize={50}
@@ -62,7 +91,7 @@ const Hero = ({
       >
         {howWeWork}
       </Button>
-    </Flexbox>
+      </Flexbox>*/}
   </Section>
 );
 
@@ -73,10 +102,15 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork, topRef }) => (
         homeJson {
           hero {
             title
-            subtitle
-            paragraph
-            howWeWork
-            scheduleCall
+            text
+            action
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
@@ -85,7 +119,6 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork, topRef }) => (
       <Hero
         topRef={topRef}
         scrollToContactUs={scrollToContactUs}
-        scrollToHowWeWork={scrollToHowWeWork}
         {...data.homeJson.hero}
       />
     )}

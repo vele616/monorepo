@@ -1,0 +1,80 @@
+service: company-api
+app: company-api
+
+plugins:
+  - serverless-dotenv-plugin
+  - serverless-layers
+  - serverless-offline
+provider:
+  name: aws
+  region: eu-central-1
+  runtime: nodejs12.x
+  environment:
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - sqs:SendMessage
+      Resource:
+        - Fn::GetAtt: [ ContactQueue, Arn ]
+    - Effect: Allow
+      Action:
+        - ses:SendEmail
+      Resource: ${self:provider.environment.SES_ARN}
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:ListStreams
+      Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.CONTACT_TABLE}"
+functions:
+  createContact:
+    handler: src/contacts/create.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - http:
+          path: contacts
+          method: post
+          cors: true
+  processContact:
+    handler: src/contacts/processContact.exec
+    memorySize: 256
+    timeout: 30
+    events:
+      - sqs:
+          arn:
+            Fn::GetAtt:
+              - ContactQueue
+              - Arn
+custom:
+  serverless-layers:
+    packageManager: yarn
+    layersDeploymentBucket: ${self:provider.environment.LAYERS_S3_BUCKET}
+resources:
+  Resources:
+    ContactQueue:
+      Type: "AWS::SQS::Queue"
+      Properties:
+        QueueName: ${self:provider.environment.CONTACT_SQS}
+    ContactDynamoDbTable:
+      Type: 'AWS::DynamoDB::Table'
+      DeletionPolicy: Retain
+      Properties:
+        AttributeDefinitions:
+          -
+            AttributeName: "id"
+            AttributeType: "S"
+        KeySchema:
+          -
+            AttributeName: "id"
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+        TableName: ${self:provider.environment.CONTACT_TABLE}
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
