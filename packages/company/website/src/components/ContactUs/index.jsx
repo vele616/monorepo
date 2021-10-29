@@ -45,8 +45,8 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
       style={{ position: "relative", top: "-100px" }}
       ref={contactUsRef}
     />,
-    <div key="contact-us" className={styles.wrapper}>
-      <Section as="section" className={styles.section}>
+    <Section as="section" className={styles.wrapper} styleChild>
+      <div key="contact-us" className={styles.section}>
         <Typography
           className={styles.title}
           element="h2"
@@ -129,8 +129,8 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
             }}
           />
         </Flexbox>
-      </Section>
-    </div>,
+      </div>
+    </Section>,
   ];
 };
 

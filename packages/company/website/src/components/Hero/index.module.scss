@@ -13,7 +13,17 @@
 .image {
   flex-basis: 35%;
   @include mediaQuery("<=tabletPortrait") {
-    flex-basis: 0;
+    flex-basis: 70%;
+  }
+  @include mediaQuery("<=450px") {
+    flex-basis: 225px;
+  }
+}
+
+.flex {
+  @include mediaQuery("<=tabletPortrait") {
+    flex-wrap: wrap !important;
+    justify-content: center !important;
   }
 }
 
@@ -31,12 +41,19 @@
     color: $green_4;
     font-weight: 700;
   }
+  em {
+    font-style: normal;
+    font-weight: 700;
+  }
 }
 
 .title {
   margin: 0;
   line-height: 147%;
   text-transform: capitalize;
+  @include mediaQuery("<=tabletPortrait") {
+    text-align: center;
+  }
 }
 
 .button {
@@ -44,9 +61,19 @@
   margin-left: auto;
   margin-right: 0;
   margin-top: 25px;
+
+  min-width: 200px;
+
+  @include mediaQuery("<=tabletPortrait") {
+    width: 100%;
+  }
 }
 
 .paragraph {
   line-height: 180%;
+
+  @include mediaQuery("<=tabletPortrait") {
+    text-align: justify;
+  }
 }
 
