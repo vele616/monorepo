@@ -1,4 +1,4 @@
-name: 👔 Company Staging - Deploy API
+name: 🐊 Company Staging - Deploy API
 on:
   workflow_dispatch
 jobs:

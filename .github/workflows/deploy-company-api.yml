@@ -1,4 +1,4 @@
-name: 👔 Company - Deploy API
+name: 🐊 Company - Deploy API
 on:
   workflow_dispatch
 jobs:
