@@ -1,0 +1,26 @@
+{
+  "imageAlt": "Group of people working on their laptops and collaborating",
+  "image": "../images/letsworktogether.png",
+  "title": "Let’s start working together",
+  "description": "We are a small software development team that specializes in building beautiful, fast and user-friendly web applications.",
+  "consent": "I give consent to <em><b>Cro</b>Coder</em> to use this information to contact me.",
+
+  "form": {
+    "fullname": {
+      "label": "Full name",
+      "requiredField": "Hey, you forgot to enter your name.",
+      "minimalLength": "Your name should be at least 3 characters long."
+    },
+    "email": {
+      "label": "E-mail",
+      "requiredField": "Hey, you forgot to enter your email.",
+      "invalidEmail": "Looks like this email is not valid."
+    },
+    "projectInfo": {
+      "label": "Tell us about your project",
+      "requiredField": "Looks like you forgot to write about your project."
+    },
+    "submit": "Submit",
+    "captcha": "This site is protected by reCAPTCHA and the Google <a href=\"https://policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://policies.google.com/terms\">Terms of Service</a> apply."
+  }
+}

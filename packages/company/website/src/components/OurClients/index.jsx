@@ -55,7 +55,7 @@ const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
           animate="show"
           className={styles.grid}
         >
-          {cards.map(({ title, image, text, client }, index) => (
+          {cards.map(({ title, image, text, client, imageAlt }, index) => (
             <Card
               delay={3 * index}
               key={title}
@@ -63,6 +63,7 @@ const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
               image={image}
               description={text}
               client={client}
+              imageAlt={imageAlt}
             />
           ))}
           <motion.div
@@ -114,6 +115,7 @@ const OurClientsWithQuery = ({ scrollToContactUs }) => (
               title
               text
               client
+              imageAlt
               image {
                 childImageSharp {
                   fixed(width: 140) {

@@ -10,7 +10,7 @@ const item = (delay) => ({
   show: { opacity: 1, transition: { duration: delay } },
 });
 
-const Card = ({ className, name, client, image, description, delay }) => (
+const Card = ({ imageAlt, name, client, image, description, delay }) => (
   <motion.div
     transition={{ duration: 0.7 }}
     whileHover={{ scale: 1.1 }}
@@ -33,7 +33,7 @@ const Card = ({ className, name, client, image, description, delay }) => (
         {name}
       </Typography>
       <Img
-        alt={""}
+        alt={imageAlt}
         className={`${styles.customer__logo} ${styles[client]}`}
         fadeIn={false}
         fluid={image ? image.childImageSharp.fixed : {}}

@@ -5,15 +5,17 @@ import styles from "./index.module.scss";
 import Section from "../Layout/Section";
 import Img from "gatsby-image";
 
-const Hero = ({ title, text, action, image, scrollToContactUs, topRef }) => (
-  <Section as="section" className={styles.section}>
+const Hero = ({
+  imageAlt,
+  title,
+  text,
+  action,
+  image,
+  scrollToContactUs,
+  topRef,
+}) => (
+  <Section as="header" className={styles.section}>
     <Flexbox className={styles.flex} alignItems="center">
-      <Img
-        fadeIn={false}
-        fluid={image ? image.childImageSharp.fluid : {}}
-        alt={""}
-        className={styles.image}
-      />
       <div className={styles.text}>
         <Typography
           className={styles.title}
@@ -41,6 +43,12 @@ const Hero = ({ title, text, action, image, scrollToContactUs, topRef }) => (
           {action}
         </Button>
       </div>
+      <Img
+        fadeIn={false}
+        fluid={image ? image.childImageSharp.fluid : {}}
+        alt={imageAlt}
+        className={styles.image}
+      />
     </Flexbox>
   </Section>
 );
@@ -54,6 +62,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork, topRef }) => (
             title
             text
             action
+            imageAlt
             image {
               childImageSharp {
                 fluid {

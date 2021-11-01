@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": {
+      "ariaLabel": "Go to Home",
+      "text": "Home"
+    },
+    "blog": {
+      "text": "Blog"
+    },
+    "contactUs": {
+      "text": "Contact Us"
+    },
+    "terms": {
+      "text": "Terms of use"
+    },
+    "privacy": {
+      "text": "Privacy policy"
+    }
+  },
+  "footer": {
+    "image": "../images/logoFooter.png",
+    "socialMedia": [
+      {
+        "icon": "linkedin1",
+        "link": "https://www.linkedin.com/company/crocoderdev",
+        "ariaLabel": "Go to CroCoder Linked In page"
+      },
+      {
+        "icon": "youtube",
+        "link": "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA",
+        "ariaLabel": "Go to CroCoder YouTube page"
+      }
+    ]
+  }
+}

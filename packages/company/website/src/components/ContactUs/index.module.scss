@@ -2,21 +2,28 @@
 
 .section {
   width: 100%;
-  padding-top: 30px;
+  padding-bottom: 70px !important;
 
-  @include mediaQuery("<=tabletPortrait") {
-    padding-top: 20px;
-  }
 }
 
 .wrapper {
   background: $blue_6;
 }
 
+.flex {
+  b {
+    color: #647E1B;//not our color;
+    font-weight: 700;
+  }
+  em {
+    font-style: normal;
+    font-weight: 700;
+  }
+}
 
 .image {
   flex-basis: 50%;
-  @include mediaQuery("<=700px") {
+  @include mediaQuery("<=900px") {
     flex-basis: 0;
   }
 }
@@ -31,10 +38,11 @@
     min-width: 450px;
   }
 
-  @include mediaQuery("<=700px") {
+  @include mediaQuery("<=900px") {
     padding-right: 0;
     flex-basis: 100%;
     min-width: auto;
+    max-width: 550px;
   }
 
   b {
@@ -50,12 +58,22 @@
   @include mediaQuery(">=desktop") {
     width: 50%;
   }
-
+  @include mediaQuery("<=900px") {
+    max-width: 550px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
 }
 
 .title {
   line-height: 147%;
   text-transform: capitalize;
+  
+  @include mediaQuery("<=900px") {
+    max-width: 550px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
 }
 
 .button {
@@ -64,9 +82,6 @@
   width: 100%;
 }
 
-.paragraph {
-  line-height: 180%;
-}
 
 .form {
   padding: 30px 45px;
@@ -96,14 +111,15 @@
 
 .icon {
   margin: 10px 10px 20px 0;
+
 }
 
 .captcha {
   font-family: 'Rubik', sans-serif;
   color: $gray_2;
   line-height: 1.6;
-  font-size: 0.75rem;
-  padding-top: 12px;
+  padding-top: 1.5em;
+  padding-bottom: 1em;
   
   a {
     color: $green_4;

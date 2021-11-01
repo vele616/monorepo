@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link, StaticQuery, graphql } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
 import { Navigation, Button, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
@@ -11,10 +11,12 @@ const Layout = ({
   children,
   stickyFooter,
   pageTitle,
-  scrollToContactUs,
   scrollToTop,
   jsonldType,
   article,
+  home,
+  blog,
+  contactUs,
 }) => {
   return (
     <>
@@ -23,17 +25,27 @@ const Layout = ({
         Logo={
           <Link
             to="/"
-            aria-label="Go to Home page"
+            aria-label={home.ariaLabel}
             onClick={() => {
               if (scrollToTop) scrollToTop();
             }}
           >
-            <CrocNav area-hidden="true" />
+            <CrocNav style={{ maxWidth: "225px" }} area-hidden="true" />
           </Link>
         }
       >
         {(toggle) => (
           <>
+            <Link className={`${styles.home} link`} to="/">
+              {home.text}
+            </Link>
+
+            <Link className={`${styles.jobs} link`} to="/blog">
+              {blog.text}
+            </Link>
+            <Link className={`${styles.contactus1} link`} to="/contact_us">
+              {contactUs.text}
+            </Link>
             <a
               target="_blank"
               rel="noreferrer noopener"
@@ -52,12 +64,6 @@ const Layout = ({
               </Typography>{" "}
               Jobs
             </a>
-            <Link className={`${styles.jobs} link`} to="/blog">
-              Blog
-            </Link>
-            <Link className={`${styles.contactus} link`} to="/contact_us">
-              Contact Us
-            </Link>
           </>
         )}
       </Navigation>
@@ -67,4 +73,28 @@ const Layout = ({
   );
 };
 
-export default Layout;
+const LayoutWithQuery = (props) => (
+  <StaticQuery
+    query={graphql`
+      query {
+        layoutJson {
+          navigation {
+            home {
+              ariaLabel
+              text
+            }
+            blog {
+              text
+            }
+            contactUs {
+              text
+            }
+          }
+        }
+      }
+    `}
+    render={(data) => <Layout {...data.layoutJson.navigation} {...props} />}
+  />
+);
+
+export default LayoutWithQuery;

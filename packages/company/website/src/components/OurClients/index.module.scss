@@ -63,6 +63,7 @@
     .button {
       margin: auto;
       margin-top: 20px;
+      margin-bottom: 0;
       width: 100%;
     }
 
@@ -91,6 +92,11 @@
 
 .customer__description {
   line-height: 180%;
+  em {
+    font-style: normal;
+    font-weight: 700;
+    font-style: normal;
+  }
 }
 
 .customer__logo {

@@ -25,10 +25,12 @@ export default function Home({ location }) {
       scrollToContactUs={scrollToContactUs}
       stickyFooter
     >
-      <Hero topRef={topRef} scrollToContactUs={scrollToContactUs} />
-      <OurClients scrollToContactUs={scrollToContactUs} />
-      <HowWeWork />
-      <ContactUs contactUsRef={contactUsRef} />
+      <article>
+        <Hero topRef={topRef} scrollToContactUs={scrollToContactUs} />
+        <OurClients scrollToContactUs={scrollToContactUs} />
+        <HowWeWork />
+        <ContactUs contactUsRef={contactUsRef} />
+      </article>
     </Layout>
   );
 }

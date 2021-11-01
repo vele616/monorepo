@@ -1,18 +1,17 @@
 @import "@crocoder-dev/components/lib/scss/main.module.scss";
 
+$twoRowBreakLine: "<=tabletPortrait";
+
 .section {
   width: 100%;
   padding-top: 0;
-
-  @include mediaQuery("<=tabletPortrait") {
-    padding-top: 0;
-  }
 }
 
 
 .image {
+  order: -1;
   flex-basis: 35%;
-  @include mediaQuery("<=tabletPortrait") {
+  @include mediaQuery(#{$twoRowBreakLine}) {
     flex-basis: 70%;
   }
   @include mediaQuery("<=450px") {
@@ -21,7 +20,7 @@
 }
 
 .flex {
-  @include mediaQuery("<=tabletPortrait") {
+  @include mediaQuery(#{$twoRowBreakLine}) {
     flex-wrap: wrap !important;
     justify-content: center !important;
   }
@@ -32,13 +31,14 @@
   padding-left: 7%;
   box-sizing: border-box;
 
-  @include mediaQuery("<=tabletPortrait") {
+  @include mediaQuery(#{$twoRowBreakLine}) {
+    margin-top: 30px;
     padding-left: 0;
     flex-basis: 100%;
   }
 
   b {
-    color: #647E1B;//$green_4;
+    color: #647E1B;//not our color;
     font-weight: 700;
   }
   em {
@@ -51,7 +51,7 @@
   margin: 0;
   line-height: 147%;
   text-transform: capitalize;
-  @include mediaQuery("<=tabletPortrait") {
+  @include mediaQuery(#{$twoRowBreakLine}) {
     text-align: center;
   }
 }
@@ -64,7 +64,7 @@
 
   min-width: 200px;
 
-  @include mediaQuery("<=tabletPortrait") {
+  @include mediaQuery("<=tabletLandscape") {
     width: 100%;
   }
 }
@@ -72,7 +72,7 @@
 .paragraph {
   line-height: 180%;
 
-  @include mediaQuery("<=tabletPortrait") {
+  @include mediaQuery("<=tabletLandscape") {
     text-align: justify;
   }
 }
