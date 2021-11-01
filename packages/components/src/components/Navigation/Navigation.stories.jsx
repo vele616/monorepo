@@ -13,8 +13,12 @@ export const Story1 = (args) => (
   <div style={{ height: "150vh" }}>
     <Navigation
       {...args}
+      // eslint-disable-next-line jsx-a11y/alt-text
       Logo={<img width="100%" src="/images/navigation.png" />}
     >
+    <span className="link"> BLA </span>
+    <span  className="link"> BL1A </span>
+    <span  className="link"> BL12A </span>
       <Button variant="secondary">Post a job</Button>
     </Navigation>
     <div style={{ background: "red", height: "100px" }}>
@@ -42,6 +46,7 @@ export const Story2 = (args) => (
   <div style={{}}>
     <Navigation
       {...args}
+      // eslint-disable-next-line jsx-a11y/alt-text
       Logo={<img width="100%" src="/images/navigation.png" />}
     >
       <Typography className="link">One link</Typography>

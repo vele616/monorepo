@@ -1,7 +1,7 @@
 @import '../../styles/main.module.scss';
 
-$navigation__desktop__height: 100px;
-$navigation__mobile__height: 70px;
+$navigation__desktop__height: 90px;
+$navigation__mobile__height: 65px;
 $navigation__animation__length: 0.6s;
 
 .navigation {
@@ -34,25 +34,29 @@ $navigation__animation__length: 0.6s;
     padding: 25px 50px;
   }
 
-  @include mediaQuery(">=mobile","<tabletPortrait"){
+  @include mediaQuery(">=0px", "<=720px"){
     flex-wrap: wrap;
-    padding: 25px;
-    padding-right: 0;
+    padding: 10px 0 15px 25px;
+
+    &.transparent {  
+      height: $navigation__mobile__height;
+    }
+
 
 
     &:not(.closed) {
-      transform: translateY(-30px);
-      padding-top: 40px;
-      padding-bottom: 10px;
+    //  transform: translateY(-30px);
+    //   padding-top: 40px;
+    //   padding-bottom: 10px;
     }
   }
 
   &__burger {
     display: none;
 
-   @include mediaQuery(">=mobile","<tabletPortrait"){
+   @include mediaQuery(">=0px", "<=720px"){
       display: inline-block;
-    }
+   }
   }
 
   &__hamburger {
@@ -63,8 +67,12 @@ $navigation__animation__length: 0.6s;
   &__image {
     width: 225px;
     
-   @include mediaQuery(">=mobile","<tabletPortrait"){
+   @include mediaQuery(">=320px", "<=720px"){
       width: 200px;
+    }
+
+    @include mediaQuery("<=320px"){
+      width: calc(100% - 80px);
     }
   }
 
@@ -95,9 +103,16 @@ $navigation__animation__length: 0.6s;
   padding-top: 40px;
   padding-bottom: 10px;
   top: 0;
+
+  @include mediaQuery(">=0px", "<=720px"){
+    padding-top: 35px;
+    padding-bottom: 10px;
+    top: 0;
+  }
+
 }
 
-@include mediaQuery(">=mobile","<tabletPortrait"){
+@include mediaQuery(">=0px", "<=720px"){
   /**
   * Whenever we have a closed menu,
   * we do not wish to display content.
@@ -119,7 +134,7 @@ $navigation__animation__length: 0.6s;
     opacity: 1;
     padding-top: calc(#{$navigation__desktop__height} - #{$navigation__mobile__height});
     position: fixed;
-    top: 100px;
+    top: $navigation__mobile__height;
     transition: opacity  #{$navigation__animation__length} cubic-bezier(0.5, 1, 0.89, 1);
     visibility: visible;
     width: 100vw;
@@ -131,9 +146,11 @@ $navigation__animation__length: 0.6s;
     }
 
     & > :global(.link)  {
-      margin-bottom: 15px;
-      margin-top: 15px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      padding: 10px 0;
       width: calc(100% - 30px);
     }
   }
 }
+
