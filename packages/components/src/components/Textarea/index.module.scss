@@ -1,13 +1,15 @@
 @import "../../styles/main.module.scss";
 
 $textarea__padding: 6px 0 7px;
+$active__color: $gray_1;
+$inactive__color: $gray_2;
 
 .textarea {
   -webkit-tap-highlight-color: transparent;
   background-color: transparent;
   border: none;
-  border-bottom: 1px solid rgba(66, 76, 109, 0.29);
-  color: $gray_2;
+  border-bottom: 1px solid  $inactive__color;
+  color: $active__color;
   flex-grow: 1;
   font-size: 1em;
   margin-top: 1em;
@@ -38,11 +40,11 @@ $textarea__padding: 6px 0 7px;
 
     &:hover {
       .textarea__label {
-        color: $gray_2;
+        color: $active__color;
         opacity: 1;
       }
       .textarea {
-        border-bottom-color: $gray_2;
+        border-bottom-color: $active__color;
       }
     }
 
@@ -106,11 +108,10 @@ $textarea__padding: 6px 0 7px;
   }
 
   &__label {
-    color: #424c6d;
+    color: $inactive__color;
     display: block;
     height: 1em;
     left: 0;
-    opacity: 0.7;
     position: absolute;
     text-transform: capitalize;
     transform: translate(0em, 1em);
@@ -147,7 +148,7 @@ $textarea__padding: 6px 0 7px;
     color: $red_4;
 
     &:focus {
-      color: $gray_2;
+      color: $active__color;
     }
   }
 
@@ -162,7 +163,7 @@ $textarea__padding: 6px 0 7px;
 
     .textarea {
       border-bottom-color: $red_4;
-      color: $gray_2;
+      color: $active__color;
     }
   }
 
