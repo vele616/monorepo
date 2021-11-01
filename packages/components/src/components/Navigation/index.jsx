@@ -52,16 +52,16 @@ const Navigation = ({
 
 
   return (
-    <nav
+    <header
       {...other}
       style={style}
-      className={classnames(className, styles.navigation, {
+      className={classnames(className, styles.header, {
         [styles.scroll]: scrolled,
         [styles.closed]: !opened,
         [styles.transparent]: transparentOnZeroScroll && !scrolled && !opened,
       })}
     >
-      <div className={styles.navigation__image}>{Logo}</div>
+      <div className={styles.header__image}>{Logo}</div>
       <Button
         hidden={!opened || !isMobile}
         aria-haspopup="true"
@@ -70,18 +70,18 @@ const Navigation = ({
         aria-label="Navigation"
         variant="sneaky"
         onClick={toggleMenu}
-        className={styles.navigation__burger}
+        className={styles.header__burger}
       >
         {isMobile && (
-          <Hamburger className={styles.navigation__hamburger} open={opened} />
+          <Hamburger className={styles.header__hamburger} open={opened} />
         )}
       </Button>
-      <div id="navigation-content-menu" className={styles.navigation__content}>
+      <nav id="navigation-content-menu" className={styles.header__content}>
         {typeof children === "function"
           ? children(toggleMenu)
           : children || null}
-      </div>
-    </nav>
+      </nav>
+    </header>
   );
 };
 
