@@ -16,43 +16,61 @@
   "sameAs": ["https://www.linkedin.com/company/crocoderdev", "https://twitter.com/crocoderdev", "https://www.youtube.com/channel/UCWU6cnq4hp4LnunPhP-sAqA"]
 }
 */
-const createOrganizationJSONLD = ({
-  name,
-  logo,
-  url,
-  street,
-  city,
-  state,
-  postalCode,
-  country,
-  websites,
-}) => ({
+const createOrganizationJSONLD = ({ company, websites, url, logo }) => ({
   "@context": "http://schema.org/",
   "@type": "Organization",
-  name,
+  name: company.name,
   logo,
   url,
   address: {
     "@type": "PostalAddress",
-    streetAddress: street,
-    addressLocality: city,
-    addressRegion: state,
-    postalCode,
-    addressCountry: country,
+    streetAddress: company.street,
+    addressLocality: company.city,
+    addressRegion: company.region,
+    postalCode: company.postalCode,
+    addressCountry: company.country,
   },
   sameAs: websites,
 });
 
-const createArticleJSONLD = () => {};
+const createArticleJSONLD = ({ article, company, logo, url }) => ({
+  "@context": "http://schema.org/",
+  "@type": "Article",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": `${url}${article.slug}`,
+  },
+  author: {
+    "@type": "Person",
+    name: article.author.name,
+  },
+  publisher: {
+    "@type": "Organization",
+    name: company.name,
+    logo: {
+      "@type": "ImageObject",
+      url: logo,
+    },
+  },
+  name: article.headline,
+  headline: article.headline,
+  articleBody: article.articleBody,
+  about: article.about,
+  abstract: article.abstract,
+  image: article.imageUrl,
+  datePublished: article.datePublished,
+  dateModified: article.dateModified,
+});
 
-const createJSONLD = (type) => {
+const createJSONLD = (type, data) => {
+  console.log(type, data);
   switch (type) {
     case JSONLDType.ORGANIZATION:
-      return createOrganizationJSONLD;
+      return JSON.stringify(createOrganizationJSONLD(data));
     case JSONLDType.ARTICLE:
-      return createArticleJSONLD;
+      return JSON.stringify(createArticleJSONLD(data));
     default:
-      return () => null;
+      return null;
   }
 };
 
