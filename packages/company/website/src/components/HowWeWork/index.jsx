@@ -46,7 +46,7 @@ const HowWeWork = ({ title, content }) => (
                 ? sectionContent.image.childImageSharp.fluid
                 : {}
             }
-            alt={""}
+            alt={sectionContent.imageAlt}
             className={styles.flex__image}
           />
         </Flexbox>
@@ -65,6 +65,7 @@ const HowWeWorkWithQuery = ({ howWeWorkRef }) => (
             content {
               title
               text
+              imageAlt
               image {
                 childImageSharp {
                   fluid {

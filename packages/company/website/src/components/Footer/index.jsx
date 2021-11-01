@@ -4,46 +4,57 @@ import CrocFooter from "../../images/croc-footer.svg";
 import { Icon, Footer as FooterComponent } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
-const Footer = ({ socialMedia, sticky, scrollToTop }) => {
+const Footer = ({ footer, navigation, scrollToTop }) => {
   return (
     <FooterComponent
       copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
-      className={sticky ? styles.sticky : ""}
+      className={styles.footer}
       logo={
         <Link
           to="/"
           onClick={() => {
             if (scrollToTop) scrollToTop();
           }}
+          aria-label={navigation.home.ariaLabel}
         >
-          <div className={styles.image}>
+          <div
+            className={styles.image}
+            style={{ visibility: "visible" }}
+            aria-hidden="true"
+          >
             <CrocFooter />
           </div>
         </Link>
       }
       socialLinks={
         <>
-          {socialMedia.map((mediaLink) => (
+          {footer.socialMedia.map((mediaLink) => (
             <a
               rel="nofollow noopener noreferrer"
               className={styles.icon}
               key={mediaLink.icon}
               href={mediaLink.link}
+              aria-label={mediaLink.ariaLabel}
             >
-              <Icon color="gray_1" icon={mediaLink.icon} />
+              <Icon
+                aria-hidden="true"
+                style={{ visibility: "visible" }}
+                color="gray_1"
+                icon={mediaLink.icon}
+              />
             </a>
           ))}
         </>
       }
     >
       <Link to="/" style={{ color: "inherit" }} className="link">
-        Home
+        {navigation.home.text}
       </Link>
       <Link to="/terms" style={{ color: "inherit" }} className="link">
-        Terms of use
+        {navigation.terms.text}
       </Link>
       <Link to="/privacy_policy" style={{ color: "inherit" }} className="link">
-        Privacy policy
+        {navigation.privacy.text}
       </Link>
     </FooterComponent>
   );
@@ -53,22 +64,31 @@ const FooterWithQuery = ({ sticky, scrollToTop }) => (
   <StaticQuery
     query={graphql`
       query {
-        homeJson {
+        layoutJson {
+          navigation {
+            home {
+              ariaLabel
+              text
+            }
+            terms {
+              text
+            }
+            privacy {
+              text
+            }
+          }
           footer {
             socialMedia {
               link
               icon
+              ariaLabel
             }
           }
         }
       }
     `}
     render={(data) => (
-      <Footer
-        {...data.homeJson.footer}
-        scrollToTop={scrollToTop}
-        sticky={sticky}
-      />
+      <Footer {...data.layoutJson} scrollToTop={scrollToTop} sticky={sticky} />
     )}
   />
 );

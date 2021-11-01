@@ -5,15 +5,17 @@ import styles from "./index.module.scss";
 import Section from "../Layout/Section";
 import Img from "gatsby-image";
 
-const Hero = ({ title, text, action, image, scrollToContactUs, topRef }) => (
-  <Section as="header" className={styles.section} backgroundColor="white">
+const Hero = ({
+  imageAlt,
+  title,
+  text,
+  action,
+  image,
+  scrollToContactUs,
+  topRef,
+}) => (
+  <Section as="header" className={styles.section}>
     <Flexbox className={styles.flex} alignItems="center">
-      <Img
-        fadeIn={false}
-        fluid={image ? image.childImageSharp.fluid : {}}
-        alt={""}
-        className={styles.image}
-      />
       <div className={styles.text}>
         <Typography
           className={styles.title}
@@ -41,57 +43,13 @@ const Hero = ({ title, text, action, image, scrollToContactUs, topRef }) => (
           {action}
         </Button>
       </div>
+      <Img
+        fadeIn={false}
+        fluid={image ? image.childImageSharp.fluid : {}}
+        alt={imageAlt}
+        className={styles.image}
+      />
     </Flexbox>
-
-    {/*<Typography
-      className={styles.title}
-      element="h1"
-      fontSize={50}
-      fontWeight={700}
-      color="gray_2"
-    >
-      {title}
-    </Typography>
-    <Typography
-      className={styles.subtitle}
-      element="h2"
-      fontSize={30}
-      fontWeight={300}
-      color="gray_2"
-    >
-      {subtitle}
-    </Typography>
-    <Typography
-      className={styles.paragraph}
-      fontSize={26}
-      fontFamily="rubik"
-      color="gray_11"
-    >
-      <div ref={topRef} dangerouslySetInnerHTML={{ __html: paragraph }} />
-    </Typography>
-    <Flexbox className={styles.callToAction}>
-      <Button
-        onClick={() => {
-          window.sa_event(
-            `${process.env.GATSBY_SCHEDULE_CALL_HERO_CLICK_SA_EVENT}`
-          );
-          scrollToContactUs();
-        }}
-      >
-        {scheduleCall}
-      </Button>
-      <Button
-        onClick={() => {
-          window.sa_event(
-            `${process.env.GATSBY_HOW_WE_WORK_HERO_CLICK_SA_EVENT}`
-          );
-          scrollToHowWeWork();
-        }}
-        variant="secondary"
-      >
-        {howWeWork}
-      </Button>
-      </Flexbox>*/}
   </Section>
 );
 
@@ -104,6 +62,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork, topRef }) => (
             title
             text
             action
+            imageAlt
             image {
               childImageSharp {
                 fluid {

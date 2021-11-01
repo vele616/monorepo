@@ -27,54 +27,62 @@ const executeGrecaptchaAsync = async () => {
   return token;
 };
 
-const validateFullName = (fullName) => {
-  if (typeof fullName !== 'string' || !fullName) { 
-    return 'Hey, you forgot to enter your name.'; 
+const validateFullName = (fullName, form) => {
+  if (typeof fullName !== "string" || !fullName) {
+    return form.fullname.requiredField;
   }
   if (fullName.length < 3) {
-    return 'Your name should be at least 3 characters long.';
+    return form.fullname.minimalLength;
   }
   return null;
-}
+};
 
-const validateEmail = (email) => {
-  if (typeof email !== 'string' || !email) { 
-    return 'Hey, you forgot to enter your email.'; 
+const validateEmail = (email, form) => {
+  if (typeof email !== "string" || !email) {
+    return form.email.requiredField;
   }
   if (/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email) === false) {
-    return 'Looks like this email is not valid.';
+    return form.email.invalidEmail;
   }
   return null;
-}
+};
 
-const validateAboutProject = (aboutProject) => {
-  if (typeof aboutProject !== 'string' || !aboutProject) { 
-    return 'Looks like you forgot to write about your project.'; 
+const validateAboutProject = (aboutProject, form) => {
+  if (typeof aboutProject !== "string" || !aboutProject) {
+    return form.projectInfo.requiredField;
   }
   return null;
-}
+};
 
-const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
+const ContactUs = ({
+  form,
+  title,
+  description,
+  image,
+  contactUsRef,
+  consent,
+  imageAlt,
+}) => {
   const [confirmed, setConfirmed] = React.useState(false);
+  const [confirmedError, setConfirmedError] = React.useState(false);
 
   const handleConfirm = React.useCallback(() => {
-    // setTouched(true);
     setConfirmed(!confirmed);
   }, [confirmed]);
 
   const [fullName, setFullName] = useState(null);
   const [fullNameError, setFullNameError] = useState(null);
-  
+
   const [email, setEmail] = useState(null);
   const [emailError, setEmailError] = useState(null);
 
   const [aboutProject, setAboutProject] = useState(null);
   const [aboutProjectError, setAboutProjectError] = useState(null);
-  
+
   const handleOnFullNameChange = useCallback((event) => {
     setFullName(event.target.value);
   }, []);
-  
+
   const handleOnEmailChange = useCallback((event) => {
     setEmail(event.target.value);
   }, []);
@@ -84,20 +92,19 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
   }, []);
 
   const handleOnSubmit = useCallback(() => {
-    executeGrecaptchaAsync()
-      .then((a) => console.log(a)) // ovo vraca token
-      // zacrveni consent ako ga user nije prihvatio
+    executeGrecaptchaAsync().then((a) => console.log(a)); // returns token
 
-    const errorMessageFullName = validateFullName(fullName);
+    const errorMessageFullName = validateFullName(fullName, form);
     setFullNameError(errorMessageFullName);
 
-    const errorMessageEmail = validateEmail(email);
+    const errorMessageEmail = validateEmail(email, form);
     setEmailError(errorMessageEmail);
 
-    const errorMessageAboutProject = validateAboutProject(aboutProject);
+    const errorMessageAboutProject = validateAboutProject(aboutProject, form);
     setAboutProjectError(errorMessageAboutProject);
 
-  }, [fullName, email, aboutProject]);
+    setConfirmedError(!confirmed);
+  }, [fullName, email, aboutProject, form, confirmed]);
 
   return [
     <div
@@ -105,8 +112,8 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
       style={{ position: "relative", top: "-100px" }}
       ref={contactUsRef}
     />,
-    <div key="contact-us" className={styles.wrapper}>
-      <Section as="section" className={styles.section}>
+    <Section as="section" className={styles.wrapper} styleChild>
+      <div key="contact-us" className={styles.section}>
         <Typography
           className={styles.title}
           element="h2"
@@ -117,91 +124,91 @@ const ContactUs = ({ title, text, image, contactUsRef, confirm }) => {
           {title}
         </Typography>
         <Typography
-          element="p"
           className={styles.p}
+          color="gray_2"
+          dangerouslySetInnerHTML={{ __html: description }}
+          element="p"
           fontSize={18}
           fontWeight={300}
-          color="gray_2"
-          dangerouslySetInnerHTML={{ __html: text }}
         />
-        <Flexbox justifyContent="space-between">
+        <Flexbox justifyContent="center">
           <div className={styles.text}>
             <Flexbox className={styles.form} direction="column">
               <Input
-                required
-                id="form-full-name"
                 className={styles.input}
-                label="Full name"
-                maxLength={100}
-                onChange={handleOnFullNameChange}
                 error={fullNameError}
                 errorMessage={fullNameError}
+                id="form-full-name"
+                label={form.fullname.label}
+                maxLength={100}
+                onChange={handleOnFullNameChange}
+                required
               />
               <Input
-                required
-                id="form-email"
                 className={styles.input}
-                label="E-mail"
-                maxLength={100}
-                onChange={handleOnEmailChange}
                 error={emailError}
                 errorMessage={emailError}
+                id="form-email"
+                label={form.email.label}
+                maxLength={100}
+                onChange={handleOnEmailChange}
+                required
               />
               <Textarea
-                showCharCount
-                maxLength={1500}
-                fluidHeight
-                fluidHeightOptions={{ lineHeight: 18, minRows: 5, maxRows: 7 }}
-                required
-                id="form-message"
                 className={styles.textarea}
-                label="Tell us about your project"
-                onChange={handleOnAboutProjectChange}
                 error={aboutProjectError}
                 errorMessage={aboutProjectError}
+                fluidHeight
+                fluidHeightOptions={{ lineHeight: 18, minRows: 5, maxRows: 7 }}
+                id="form-message"
+                label={form.projectInfo.label}
+                maxLength={1500}
+                onChange={handleOnAboutProjectChange}
+                required
+                showCharCount
               />
               <Flexbox
-                alignItems="baseline"
+                alignItems="center"
                 className={styles.flex}
                 onClick={handleConfirm}
               >
                 <Icon
-                  fontSize={14}
-                  color="gray_2"
+                  fontSize={26}
+                  color={confirmedError ? "negative" : "gray_2"}
                   className={styles.icon}
                   icon={confirmed ? "checkbox-checked" : "checkbox-unchecked"}
+                  aria-labelledby="contact-us-consent-text"
                 />
-                <Typography fontSize={16} color="gray_2">
-                  {confirm}
-                </Typography>
+                <Typography
+                  dangerouslySetInnerHTML={{ __html: consent }}
+                  id="contact-us-consent-text"
+                  fontSize={18}
+                  color={confirmedError ? "negative" : "gray_2"}
+                />
               </Flexbox>
               <Button onClick={handleOnSubmit} className={styles.button}>
-                Submit
+                {form.submit}
               </Button>
-              <div className={styles.captcha}>
-                <span>
-                  {` This site is protected by reCAPTCHA and the Google `}
-                  <a href="https://policies.google.com/privacy">Privacy Policy</a>
-                  {` and `}
-                  <a href="https://policies.google.com/terms">Terms of Service</a>
-                  {` apply. `}
-                </span>
-              </div>
+              <Typography
+                fontSize={14}
+                className={styles.captcha}
+                dangerouslySetInnerHTML={{ __html: form.captcha }}
+              />
             </Flexbox>
           </div>
 
           <Img
             fadeIn={false}
             fluid={image ? image.childImageSharp.fluid : {}}
-            alt={"Crocoder Contact Us"}
+            alt={imageAlt}
             className={styles.image}
             imgStyle={{
               objectFit: "contain",
             }}
           />
         </Flexbox>
-      </Section>
-    </div>,
+      </div>
+    </Section>,
   ];
 };
 
@@ -209,24 +216,41 @@ const ContactUsWithQuery = ({ contactUsRef }) => (
   <StaticQuery
     query={graphql`
       query {
-        homeJson {
-          contactUs {
-            title
-            text
-            confirm
-            image {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+        contactJson {
+          form {
+            fullname {
+              label
+              requiredField
+              minimalLength
+            }
+            email {
+              label
+              requiredField
+              invalidEmail
+            }
+            projectInfo {
+              label
+              requiredField
+            }
+            submit
+            captcha
+          }
+          title
+          description
+          consent
+          image {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
               }
             }
           }
+          imageAlt
         }
       }
     `}
     render={(data) => (
-      <ContactUs contactUsRef={contactUsRef} {...data.homeJson.contactUs} />
+      <ContactUs contactUsRef={contactUsRef} {...data.contactJson} />
     )}
   />
 );

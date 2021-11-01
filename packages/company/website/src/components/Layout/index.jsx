@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link, StaticQuery, graphql } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
 import { Navigation, Button, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
@@ -11,26 +11,41 @@ const Layout = ({
   children,
   stickyFooter,
   pageTitle,
-  scrollToContactUs,
   scrollToTop,
+  jsonldType,
+  article,
+  home,
+  blog,
+  contactUs,
 }) => {
   return (
     <>
-      <Head pageTitle={pageTitle} />
+      <Head jsonldType={jsonldType} article={article} pageTitle={pageTitle} />
       <Navigation
         Logo={
           <Link
             to="/"
+            aria-label={home.ariaLabel}
             onClick={() => {
               if (scrollToTop) scrollToTop();
             }}
           >
-            <CrocNav />
+            <CrocNav style={{ maxWidth: "225px" }} area-hidden="true" />
           </Link>
         }
       >
         {(toggle) => (
           <>
+            <Link className={`${styles.home} link`} to="/">
+              {home.text}
+            </Link>
+
+            <Link className={`${styles.jobs} link`} to="/blog">
+              {blog.text}
+            </Link>
+            <Link className={`${styles.contactus1} link`} to="/contact_us">
+              {contactUs.text}
+            </Link>
             <a
               target="_blank"
               rel="noreferrer noopener"
@@ -38,35 +53,48 @@ const Layout = ({
               href="https://jobs.crocoder.dev/"
             >
               <Typography fontWeight={600}>
-                <Typography fontWeight={600} color="primary">
+                <Typography
+                  fontWeight={600}
+                  style={{ color: "#647E1B" }}
+                  color="primary"
+                >
                   Cro
                 </Typography>
                 Coder
               </Typography>{" "}
               Jobs
             </a>
-            <Link className={`${styles.jobs} link`} to="/blog">
-              Blog
-            </Link>
-            <Button
-              onClick={() => {
-                toggle();
-                window.sa_event(
-                  `${process.env.GATSBY_SCHEDULE_CALL_NAVIGATION_CLICK_SA_EVENT}`
-                );
-                scrollToContactUs && scrollToContactUs();
-              }}
-              variant="secondary"
-            >
-              Contact Us
-            </Button>
           </>
         )}
       </Navigation>
-      {children}
+      <main>{children}</main>
       <Footer scrollToTop={scrollToTop} sticky={stickyFooter} />
     </>
   );
 };
 
-export default Layout;
+const LayoutWithQuery = (props) => (
+  <StaticQuery
+    query={graphql`
+      query {
+        layoutJson {
+          navigation {
+            home {
+              ariaLabel
+              text
+            }
+            blog {
+              text
+            }
+            contactUs {
+              text
+            }
+          }
+        }
+      }
+    `}
+    render={(data) => <Layout {...data.layoutJson.navigation} {...props} />}
+  />
+);
+
+export default LayoutWithQuery;

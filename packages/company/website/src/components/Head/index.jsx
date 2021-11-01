@@ -1,20 +1,25 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { Helmet } from 'react-helmet';
-import { StaticQuery, graphql } from 'gatsby';
-import { Location } from '@reach/router';
+import React from "react";
+import PropTypes from "prop-types";
+import { Helmet } from "react-helmet";
+import { StaticQuery, graphql } from "gatsby";
+import { Location } from "@reach/router";
+import createJSONLD from "./jsonld";
 
 const Head = ({
+  jsonldType,
   siteTitle,
   siteTitleShort,
   siteDescription,
   siteUrl,
+  logoUrl,
   themeColor,
   social,
   location,
   title,
   description,
-  canonical = siteUrl + (location.pathname || ''),
+  company,
+  article,
+  canonical = siteUrl + (location.pathname || ""),
   pageTitleFull = title ? `${title} - ${siteTitle}` : siteTitle,
 }) => {
   return (
@@ -29,13 +34,22 @@ const Head = ({
       <link href="/manifest.json" rel="manifest" />
       <meta content={themeColor} name="theme-color" />
       <meta content={siteTitle} name="application-name" />
-
-      {/* Title */}
+      {/** JSONLD */}
+      {jsonldType ? (
+        <script type="application/ld+json">
+          {createJSONLD(jsonldType, {
+            company,
+            article,
+            logo: logoUrl,
+            url: siteUrl,
+            websites: Object.entries(social),
+          })}
+        </script>
+      ) : null}
+      ;{/* Title */}
       <title>{pageTitleFull}</title>
-
       {/* Description */}
       <meta content={description || siteDescription} name="description" />
-
       {/* Favicon */}
       <link
         href="/icons/favicon-32x32.png"
@@ -49,35 +63,32 @@ const Head = ({
         sizes="16x16"
         type="image/png"
       />
-
       {/* Twitter */}
       <meta content={pageTitleFull} name="twitter:title" />
-      <meta content={description || siteDescription} name="twitter:description" />
+      <meta
+        content={description || siteDescription}
+        name="twitter:description"
+      />
       <meta content="summary_large_image" name="twitter:card" />
       <meta content="@crocoderdev" name="twitter:site" />
       <meta content="@crocoderdev" name="twitter:creator" />
       <meta content={pageTitleFull} name="twitter:text:title" />
       <meta content={canonical} name="twitter:url" />
-      <meta
-        content={`${siteUrl}/social.png`}
-        name="twitter:image"
-      />
+      <meta content={`${siteUrl}/social.png`} name="twitter:image" />
       <meta content="1024" name="twitter:image:width" />
       <meta content="512" name="twitter:image:height" />
-
       {/* OG */}
       <meta content={pageTitleFull} property="og:title" />
-      <meta content={description || siteDescription} property="og:description" />
+      <meta
+        content={description || siteDescription}
+        property="og:description"
+      />
       <meta content="website" property="og:type" />
       <meta content={siteTitle} property="og:site_name" />
       <meta content={canonical} property="og:url" />
       <meta content="1024" property="og:image:width" />
       <meta content="512" property="og:image:height" />
-      <meta
-        content={`${siteUrl}/social.png`}
-        property="og:image"
-      />
-
+      <meta content={`${siteUrl}/social.png`} property="og:image" />
       {/* Apple */}
       <meta content={siteTitle} name="apple-mobile-web-app-title" />
       <meta content="yes" name="apple-mobile-web-app-capable" />
@@ -136,10 +147,12 @@ const Head = ({
         sizes="180x180"
         type="image/png"
       />
-
       {/* msapplication */}
       <meta content={themeColor} name="msapplication-TileColor" />
-      <meta content="/icons/mstile-70x70.png" name="msapplication-square70x70" />
+      <meta
+        content="/icons/mstile-70x70.png"
+        name="msapplication-square70x70"
+      />
       <meta
         content="/icons/mstile-144x144.png"
         name="msapplication-square144x144"
@@ -157,7 +170,7 @@ const Head = ({
         name="msapplication-square310x310"
       />
     </Helmet>
-  )
+  );
 };
 
 Head.propTypes = {
@@ -174,7 +187,7 @@ Head.propTypes = {
   location: PropTypes.object.isRequired,
 };
 
-const HeadWithQuery = props => (
+const HeadWithQuery = (props) => (
   <StaticQuery
     query={graphql`
       query {
@@ -184,15 +197,25 @@ const HeadWithQuery = props => (
             siteTitleShort
             siteDescription
             siteUrl
+            logoUrl
+            company {
+              name
+              street
+              region
+              postalCode
+              country
+            }
             themeColor
             social {
               twitter
+              linkedin
+              youtube
             }
           }
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <Location>
         {({ location }) => (
           <Head {...data.site.siteMetadata} {...props} location={location} />

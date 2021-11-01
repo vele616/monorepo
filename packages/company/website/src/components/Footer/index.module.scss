@@ -1,6 +1,10 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
-.sticky {}
+.footer {
+  & [class*=Footer_copyright__] {
+    color: white;
+  }
+}
 
 .icon {
   background: $white;
@@ -8,8 +12,8 @@
   width: 40px;
   border-radius: 50%;
   box-sizing: border-box;
-  padding-top: 12px;
-  padding-left: 12px;
+  padding-top: 13px;
+  padding-left: 13px;
   margin-left: 14px;
   text-decoration: none;
 }
