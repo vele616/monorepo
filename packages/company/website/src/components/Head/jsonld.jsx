@@ -63,7 +63,6 @@ const createArticleJSONLD = ({ article, company, logo, url }) => ({
 });
 
 const createJSONLD = (type, data) => {
-  console.log(type, data);
   switch (type) {
     case JSONLDType.ORGANIZATION:
       return JSON.stringify(createOrganizationJSONLD(data));

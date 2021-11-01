@@ -8,7 +8,6 @@ import SassIcon from "../../../../images/icons/sass.svg";
 import ReactIcon from "../../../../images/icons/react.svg";
 
 function getIcon(type) {
-  console.log(type);
   switch (type) {
     case "javascript":
       return <JavascriptIcon className={`icon ${styles.icon}`} />;

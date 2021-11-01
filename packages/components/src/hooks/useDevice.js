@@ -36,7 +36,6 @@ export default function useDevice(custom) {
     setIsLargeDesktop(checkIsLargeDesktop());
 
     const resizeHanlder = () => {
-      console.log( window.innerWidth, tabletLimit, mobileLimit)
       setIsMobile(checkIsMobile());
       setIsDesktop(checkIsTablet());
       setIsTablet(checkIsDesktop());

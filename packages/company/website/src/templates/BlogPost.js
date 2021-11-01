@@ -30,7 +30,6 @@ export const BlogPostTemplate = ({ data, pageContext }) => {
     abstract: post.frontmatter.abstract,
     //articleBody: post.html,
   };
-  console.log(article);
   return (
     <Layout jsonldType={JSONLDType.ARTICLE} article={article} stickyFooter>
       <Helmet>

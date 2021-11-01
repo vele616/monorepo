@@ -92,7 +92,7 @@ const ContactUs = ({
   }, []);
 
   const handleOnSubmit = useCallback(() => {
-    executeGrecaptchaAsync().then((a) => console.log(a)); // ovo vraca token
+    executeGrecaptchaAsync().then((a) => console.log(a)); // returns token
 
     const errorMessageFullName = validateFullName(fullName, form);
     setFullNameError(errorMessageFullName);
