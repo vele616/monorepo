@@ -66,9 +66,7 @@ const ContactUs = ({
   const [confirmed, setConfirmed] = React.useState(false);
   const [confirmedError, setConfirmedError] = React.useState(false);
 
-  const handleConfirm = React.useCallback(() => {
-    setConfirmed(!confirmed);
-  }, [confirmed]);
+  const [triedToSubmit, setTriedToSubmit] = React.useState(false);
 
   const [fullName, setFullName] = useState(null);
   const [fullNameError, setFullNameError] = useState(null);
@@ -79,20 +77,39 @@ const ContactUs = ({
   const [aboutProject, setAboutProject] = useState(null);
   const [aboutProjectError, setAboutProjectError] = useState(null);
 
+  const handleConfirm = React.useCallback(() => {
+    setConfirmed(!confirmed);
+    if (triedToSubmit) {
+      setConfirmedError(!confirmed === false);
+  }
+}, [triedToSubmit, confirmed]);
+
   const handleOnFullNameChange = useCallback((event) => {
     setFullName(event.target.value);
-  }, []);
+    if (triedToSubmit) {
+      const errorMessageFullName = validateFullName(event.target.value, form);
+      setFullNameError(errorMessageFullName);
+    }
+  }, [triedToSubmit]);
 
   const handleOnEmailChange = useCallback((event) => {
     setEmail(event.target.value);
-  }, []);
+    if (triedToSubmit) {
+      const errorMessageEmail = validateEmail(event.target.value, form);
+      setEmailError(errorMessageEmail);
+    }
+  }, [triedToSubmit]);
 
   const handleOnAboutProjectChange = useCallback((event) => {
     setAboutProject(event.target.value);
-  }, []);
+    if (triedToSubmit) {
+      const errorMessageAboutProject = validateAboutProject(event.target.value, form);
+      setAboutProjectError(errorMessageAboutProject);
+    }
+  }, [triedToSubmit]);
 
   const handleOnSubmit = useCallback(() => {
-    executeGrecaptchaAsync().then((a) => console.log(a)); // returns token
+    setTriedToSubmit(true);
 
     const errorMessageFullName = validateFullName(fullName, form);
     setFullNameError(errorMessageFullName);
@@ -104,6 +121,33 @@ const ContactUs = ({
     setAboutProjectError(errorMessageAboutProject);
 
     setConfirmedError(!confirmed);
+
+    if (errorMessageAboutProject === null
+      && errorMessageEmail === null
+      && errorMessageAboutProject === null) {
+        executeGrecaptchaAsync().then((token) => {
+          fetch(process.env.GATSBY_API_URL, {
+           method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              email,
+              token,
+              message: aboutProject,
+              name: fullName,
+            })
+          }).then(() => {
+            console.log('give user feedback')
+          }).catch((ex) => {
+            console.log("desjo se error");
+          }); 
+        }).catch((ex) => {
+          console.log("desjo se error");
+        }); 
+    }
+   
+
   }, [fullName, email, aboutProject, form, confirmed]);
 
   return [
@@ -136,7 +180,7 @@ const ContactUs = ({
             <Flexbox className={styles.form} direction="column">
               <Input
                 className={styles.input}
-                error={fullNameError}
+                error={fullNameError !== null}
                 errorMessage={fullNameError}
                 id="form-full-name"
                 label={form.fullname.label}
@@ -146,7 +190,7 @@ const ContactUs = ({
               />
               <Input
                 className={styles.input}
-                error={emailError}
+                error={emailError !== null}
                 errorMessage={emailError}
                 id="form-email"
                 label={form.email.label}
@@ -156,7 +200,7 @@ const ContactUs = ({
               />
               <Textarea
                 className={styles.textarea}
-                error={aboutProjectError}
+                error={aboutProjectError !== null}
                 errorMessage={aboutProjectError}
                 fluidHeight
                 fluidHeightOptions={{ lineHeight: 18, minRows: 5, maxRows: 7 }}

@@ -11,8 +11,8 @@ const container = {
   show: {
     opacity: 1,
     transition: {
-      delayChildren: 0.1,
-      staggerChildren: 0.5,
+      // delayChildren: 0.1,
+      // staggerChildren: 0.5,
     },
   },
 };
@@ -51,7 +51,7 @@ const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
         <motion.div
           layout
           variants={container}
-          initial="hidden"
+          initial="show"
           animate="show"
           className={styles.grid}
         >
