@@ -13,7 +13,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@crocoder-dev/components": "1.0.7",
+    "@crocoder-dev/components": "1.0.8",
     "dotenv": "^8.2.0",
     "framer-motion": "4.1.17",
     "gatsby": "^2.25.3",
