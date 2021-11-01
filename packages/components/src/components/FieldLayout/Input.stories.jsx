@@ -14,7 +14,7 @@ const Template = (args) => (
     <FieldLayout {...args}>
       <Button variant="sneaky">{args.label}</Button>
     </FieldLayout>
-    <Input {...args} />
+    <Input {...args} id="banana-input" />
     <Select {...args}>
       <Select.Option>Banana</Select.Option>
     </Select>
