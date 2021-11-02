@@ -9,7 +9,6 @@ $twoRowBreakLine: "<=tabletPortrait";
 
 
 .image {
-  order: -1;
   flex-basis: 35%;
   @include mediaQuery(#{$twoRowBreakLine}) {
     flex-basis: 70%;
@@ -20,6 +19,12 @@ $twoRowBreakLine: "<=tabletPortrait";
 }
 
 .flex {
+  // Fallback for content layout shift - happens because of styled components
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
   @include mediaQuery(#{$twoRowBreakLine}) {
     flex-wrap: wrap !important;
     justify-content: center !important;

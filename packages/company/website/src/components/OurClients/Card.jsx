@@ -40,7 +40,7 @@ const Card = ({ url, imageAlt, name, client, image, description, delay }) => (
         alt={imageAlt}
         className={`${styles.customer__logo} ${styles[client]}`}
         fadeIn={false}
-        fluid={image ? image.childImageSharp.fixed : {}}
+        fixed={image ? image.childImageSharp.fixed : {}}
         imgStyle={{
           objectFit: "contain",
           height: "auto",

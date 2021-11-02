@@ -43,7 +43,7 @@ const Layout = ({
             <Link className={`${styles.jobs} link`} to="/blog">
               {blog.text}
             </Link>
-            <Link className={`${styles.contactus1} link`} to="/contact_us">
+            <Link className={`${styles.contactus1} link`} to="/contact">
               {contactUs.text}
             </Link>
             <a
