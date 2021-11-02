@@ -22,7 +22,7 @@ const Navigation = ({
 }) => {
   const [scrolled, setIsScrolled] = useState(defaultScrolled || false);
   const [opened, setIsOpened] = useState(false);
-  const { isMobile } = useDevice({ mobile: 1, tablet: 720 });
+  const { isMobile } = useDevice({ mobile: 1, tablet: 721 });
   const { disableScroll, enableScroll } = useScrollPrevent();
 
   useEffect(() => {
@@ -49,7 +49,6 @@ const Navigation = ({
       enableScroll();
     }
   }, [opened, isMobile, disableScroll, enableScroll]);
-
 
   return (
     <header
