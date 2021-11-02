@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import {
   desktop,
   tabletPortrait,
@@ -10,19 +10,17 @@ import {
  * Custom hook for screen-size detection in components.
  */
 export default function useDevice(custom) {
-  const mobileLimit =
-    (custom && custom.mobile) || Number(mobile.replace("px", ""));
-  const tabletLimit =
-    (custom && custom.tablet) || Number(tabletPortrait.replace("px", ""));
-  const desktopLimit =
-    (custom && custom.desktop) || Number(desktop.replace("px", ""));
-  const largeDesktopLimit =
-    (custom && custom.largeDesktop) || Number(viewportLimit.replace("px", ""));
+  const mobileLimit = useMemo(() => (custom && custom.mobile) || Number(mobile.replace("px", "")), [custom]);
+  const tabletLimit = useMemo(() => (custom && custom.tablet) || Number(tabletPortrait.replace("px", "")), [custom]);
+  const desktopLimit = useMemo(() => (custom && custom.desktop) || Number(desktop.replace("px", "")), [custom]);
+  const largeDesktopLimit = useMemo(() => (custom && custom.largeDesktop) || Number(viewportLimit.replace("px", "")), [custom]);
+    
 
   const [isMobile, setIsMobile] = useState(false);
   const [isDesktop, setIsDesktop] = useState(false);
   const [isTablet, setIsTablet] = useState(false);
   const [isLargeDesktop, setIsLargeDesktop] = useState(false);
+
 
   useEffect(() => {
     const checkIsMobile = () =>

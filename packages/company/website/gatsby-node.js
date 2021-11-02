@@ -113,12 +113,10 @@ const createBlogPages = async (graphql, createPage) => {
   const blogPostSocialTemplate = path.resolve(
     "./src/templates/BlogPostSocial.js"
   );
-  console.log(authors);
+
 
   blogPosts.forEach((post) => {
     let author;
-    //console.log(authors);
-    //console.log(post.node.frontmatter.author && authors.find(t => t.id === post.node.frontmatter.author))
     if (
       post.node.frontmatter.author &&
       authors.find((t) => t.id === post.node.frontmatter.author)

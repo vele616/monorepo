@@ -4,56 +4,100 @@ import { Typography, Grid, Button } from "@crocoder-dev/components";
 import Section from "../Layout/Section";
 import styles from "./index.module.scss";
 import Card from "./Card";
-import Img from "gatsby-image";
+import { motion } from "framer-motion";
 
-const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => (
-  <div className={styles.blue}>
-    <Section as="section" className={styles.section}>
-      <Typography
-        className={styles.title}
-        element="h2"
-        fontSize={36}
-        fontWeight={700}
-        color="gray_2"
-      >
-        {title}
-      </Typography>
-      <Typography
-        className={styles.text}
-        element="p"
-        fontSize={18}
-        fontWeight={300}
-        color="gray_2"
-        dangerouslySetInnerHTML={{ __html: text }}
-      />
-      <Grid className={styles.grid}>
-        {cards.map(({ title, image, text }) => (
-          <Card key={title} name={title} image={image} description={text} />
-        ))}
-        <div className={styles.card}>
-          <Typography
-            color="gray_2"
-            as="div"
-            fontSize={26}
-            fontWeight={100}
-            className={styles.join}
+const container = {
+  hidden: { opacity: 0 },
+  show: {
+    opacity: 1,
+    transition: {
+      // delayChildren: 0.1,
+      // staggerChildren: 0.5,
+    },
+  },
+};
+
+const item = {
+  hidden: { opacity: 0 },
+  show: { opacity: 1, transition: { duration: 1 } },
+};
+
+const buttonvariants = {
+  small: { width: "70%" },
+  large: { width: "100%" },
+};
+
+const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
+  return (
+    <Section as={motion.section} styleChild className={styles.blue}>
+      <div className={styles.section}>
+        <Typography
+          className={styles.title}
+          element="h2"
+          fontSize={36}
+          fontWeight={700}
+          color="gray_2"
+        >
+          {title}
+        </Typography>
+        <Typography
+          className={styles.text}
+          element="p"
+          fontSize={18}
+          fontWeight={300}
+          color="gray_2"
+          dangerouslySetInnerHTML={{ __html: text }}
+        />
+        <motion.div
+          layout
+          variants={container}
+          initial="show"
+          animate="show"
+          className={styles.grid}
+        >
+          {cards.map(({ title, image, text, client, imageAlt }, index) => (
+            <Card
+              delay={3 * index}
+              key={title}
+              name={title}
+              image={image}
+              description={text}
+              client={client}
+              imageAlt={imageAlt}
+            />
+          ))}
+          <motion.div
+            transition={{ duration: 0.7 }}
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            variants={item}
+            className={styles.card}
+            key="join-us"
           >
-            {lastCard.text}
-          </Typography>
-          <Button
-            className={styles.button}
-            onClick={() => {
-              scrollToContactUs && scrollToContactUs();
-            }}
-            variant="primary"
-          >
-            {lastCard.action}
-          </Button>
-        </div>
-      </Grid>
+            <Typography
+              color="gray_2"
+              as="div"
+              fontSize={26}
+              fontWeight={100}
+              className={styles.join}
+            >
+              {lastCard.text}
+            </Typography>
+            <Button
+              className={styles.button}
+              onClick={() => {
+                scrollToContactUs && scrollToContactUs();
+              }}
+              variant="primary"
+            >
+              {lastCard.action}
+            </Button>
+          </motion.div>
+        </motion.div>
+      </div>
     </Section>
-  </div>
-);
+  );
+};
 
 const OurClientsWithQuery = ({ scrollToContactUs }) => (
   <StaticQuery
@@ -70,10 +114,12 @@ const OurClientsWithQuery = ({ scrollToContactUs }) => (
             cards {
               title
               text
+              client
+              imageAlt
               image {
                 childImageSharp {
-                  fluid {
-                    ...GatsbyImageSharpFluid
+                  fixed(width: 140) {
+                    ...GatsbyImageSharpFixed
                   }
                 }
               }

@@ -5,6 +5,7 @@ import HowWeWork from "../components/HowWeWork";
 import Hero from "../components/Hero";
 import ContactUs from "../components/ContactUs";
 import "./index.scss";
+import { JSONLDType } from "../components/Head/jsonld";
 
 export default function Home({ location }) {
   const contactUsRef = useRef(null);
@@ -19,14 +20,17 @@ export default function Home({ location }) {
 
   return (
     <Layout
+      jsonldType={JSONLDType.ORGANIZATION}
       scrollToTop={scrollToTop}
       scrollToContactUs={scrollToContactUs}
       stickyFooter
     >
-      <Hero topRef={topRef} scrollToContactUs={scrollToContactUs} />
-      <OurClients scrollToContactUs={scrollToContactUs} />
-      <HowWeWork />
-      <ContactUs contactUsRef={contactUsRef} />
+      <article>
+        <Hero topRef={topRef} scrollToContactUs={scrollToContactUs} />
+        <OurClients scrollToContactUs={scrollToContactUs} />
+        <HowWeWork />
+        <ContactUs contactUsRef={contactUsRef} />
+      </article>
     </Layout>
   );
 }

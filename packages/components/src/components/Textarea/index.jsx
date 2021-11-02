@@ -108,7 +108,7 @@ const Textarea = ({
         return { resize: manualResize };
       });
     },
-    [fluidHeight, minRows, maxRows, lineHeight, manualResize]
+    [heightStyle.previousHeight, lineHeight, minRows, maxRows, fluidHeight, manualResize]
   );
 
   useEffect(() => {

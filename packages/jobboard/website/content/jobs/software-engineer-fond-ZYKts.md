@@ -13,6 +13,7 @@ companyWebsite: "http://fond.co/"
 summary: "Fond intends to hire a new software engineer. If you have 2+ years experience in production web application development, consider applying."
 summaryBackup: "Fond is looking for a software engineer that has #reactjs, #rails, #rubylang."
 featured: 20
+archived: "true"
 ---
 
 Fond is a SaaS platform that seamlessly consolidates employee rewards and recognition processes into one easy-to-use solution. With Fond, employees and managers can recognize each other, redeem rewards, access exclusive corporate discounts, and measure success so HR departments spend less time managing programs and more time driving results. Some of our current customers include Salesforce, Weight Watchers, and Stanford Healthcare, plus hundreds of others. Fond is a Y Combinator W12 company and funded by investors including DCM, Andreessen Horowitz and SV Angel. If you want to be part of the team that delivers industry-leading engagement and recognition capabilities for top companies, Fond is for you! 
