@@ -10,15 +10,19 @@ const item = (delay) => ({
   show: { opacity: 1, transition: { duration: delay } },
 });
 
-const Card = ({ imageAlt, name, client, image, description, delay }) => (
+const Card = ({ url, imageAlt, name, client, image, description, delay }) => (
   <motion.div
     transition={{ duration: 0.7 }}
-    whileHover={{ scale: 1.1 }}
+    whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.9 }}
     variants={item(1)}
     className={styles.card}
   >
     <Flexbox
+      as="a"
+      href={url}
+      target="_blank"
+      rel="noreferrer noopener"
       className={styles.flex}
       alignItems="center"
       justifyContent="space-between"
