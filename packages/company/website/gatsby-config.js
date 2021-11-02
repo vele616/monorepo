@@ -1,7 +1,7 @@
 const siteConfig = require("./site-config");
 
 const result = require("dotenv").config({
-  path: `.env.${process.env.NODE_ENV}`,
+  path: `.env.${process.env.STAGE}`,
 });
 
 if (result.error) {
