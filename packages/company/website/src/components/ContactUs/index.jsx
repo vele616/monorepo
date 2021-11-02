@@ -142,7 +142,6 @@ const ContactUs = ({
       executeGrecaptchaAsync()
         .then((token) => {
           fetch(`${process.env.GATSBY_API_URL}contacts`, {
-            mode: "cors",
             method: "POST",
             headers: {
               "Content-Type": "application/json",
