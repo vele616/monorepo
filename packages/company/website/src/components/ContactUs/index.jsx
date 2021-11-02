@@ -143,6 +143,7 @@ const ContactUs = ({
         .then((token) => {
           fetch(`${process.env.GATSBY_API_URL}contacts`, {
             method: "POST",
+            mode: "cors",
             headers: {
               "Content-Type": "application/json",
             },

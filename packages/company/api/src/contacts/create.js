@@ -21,6 +21,10 @@ exports.exec = async (event, context) => {
     if (!event.body) {
       return {
         statusCode: 400,
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Credentials": true,
+        },
         body: JSON.stringify({
           message: "No body was found",
         }),
@@ -29,9 +33,15 @@ exports.exec = async (event, context) => {
 
     const { email, name, message, token } = JSON.parse(event.body);
 
-    if (!token) {
+    console.log(email, name, message, token);
+
+    if (!token || !(await verify(token))) {
       return {
         statusCode: 403,
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Credentials": true,
+        },
       };
     }
 
@@ -65,12 +75,20 @@ exports.exec = async (event, context) => {
 
     return {
       statusCode: 200,
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true,
+      },
     };
   } catch (error) {
     console.error(error);
     return {
       statusCode: error.statusCode || 501,
-      headers: { "Content-Type": "text/plain" },
+      headers: {
+        "Content-Type": "text/plain",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true,
+      },
       body: "Something went wrong.",
     };
   }

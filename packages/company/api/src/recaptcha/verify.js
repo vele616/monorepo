@@ -20,6 +20,8 @@ const verify = async (token) => {
 
   const { success, score, action } = await response.json();
 
+  console.log(score);
+
   return success && action === "submit" && score >= 0.5;
 };
 
