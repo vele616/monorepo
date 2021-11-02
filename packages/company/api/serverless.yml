@@ -39,7 +39,10 @@ functions:
       - http:
           path: contacts
           method: post
-          cors: true
+          cors:
+            - enabled: true
+            - origin: 'https://crocoder.dev,https://staging.crocoder.dev'
+            - methods: 'POST'
   processContact:
     handler: src/contacts/processContact.exec
     memorySize: 256
