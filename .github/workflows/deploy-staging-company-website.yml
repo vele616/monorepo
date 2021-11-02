@@ -23,7 +23,7 @@ jobs:
     - run: ./scripts/company/get-secrets.sh ${{ secrets.SECRET_BUCKET }} ./
     - run: cp scripts/robots/robots.txt packages/company/website/static
     - run: cd packages/company/website && yarn install --production=false
-    - run: cd packages/company/website && NODE_ENV=staging yarn build
+    - run: cd packages/company/website && yarn build:staging
     - run: cd packages/company/website && npx serverless deploy --env=staging --conceal
       env:
         SERVERLESS_ACCESS_KEY: ${{ secrets.SERVERLESS_ACCESS_KEY }}
