@@ -44,7 +44,7 @@ const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
           className={styles.text}
           element="p"
           fontSize={18}
-          fontWeight={300}
+          fontWeight={400}
           color="gray_2"
           dangerouslySetInnerHTML={{ __html: text }}
         />

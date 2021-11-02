@@ -81,32 +81,44 @@ const ContactUs = ({
     setConfirmed(!confirmed);
     if (triedToSubmit) {
       setConfirmedError(!confirmed === false);
-  }
-}, [triedToSubmit, confirmed]);
-
-  const handleOnFullNameChange = useCallback((event) => {
-    setFullName(event.target.value);
-    if (triedToSubmit) {
-      const errorMessageFullName = validateFullName(event.target.value, form);
-      setFullNameError(errorMessageFullName);
     }
-  }, [triedToSubmit]);
+  }, [triedToSubmit, confirmed]);
 
-  const handleOnEmailChange = useCallback((event) => {
-    setEmail(event.target.value);
-    if (triedToSubmit) {
-      const errorMessageEmail = validateEmail(event.target.value, form);
-      setEmailError(errorMessageEmail);
-    }
-  }, [triedToSubmit]);
+  const handleOnFullNameChange = useCallback(
+    (event) => {
+      setFullName(event.target.value);
+      if (triedToSubmit) {
+        const errorMessageFullName = validateFullName(event.target.value, form);
+        setFullNameError(errorMessageFullName);
+      }
+    },
+    [triedToSubmit]
+  );
 
-  const handleOnAboutProjectChange = useCallback((event) => {
-    setAboutProject(event.target.value);
-    if (triedToSubmit) {
-      const errorMessageAboutProject = validateAboutProject(event.target.value, form);
-      setAboutProjectError(errorMessageAboutProject);
-    }
-  }, [triedToSubmit]);
+  const handleOnEmailChange = useCallback(
+    (event) => {
+      setEmail(event.target.value);
+      if (triedToSubmit) {
+        const errorMessageEmail = validateEmail(event.target.value, form);
+        setEmailError(errorMessageEmail);
+      }
+    },
+    [triedToSubmit]
+  );
+
+  const handleOnAboutProjectChange = useCallback(
+    (event) => {
+      setAboutProject(event.target.value);
+      if (triedToSubmit) {
+        const errorMessageAboutProject = validateAboutProject(
+          event.target.value,
+          form
+        );
+        setAboutProjectError(errorMessageAboutProject);
+      }
+    },
+    [triedToSubmit]
+  );
 
   const handleOnSubmit = useCallback(() => {
     setTriedToSubmit(true);
@@ -122,12 +134,15 @@ const ContactUs = ({
 
     setConfirmedError(!confirmed);
 
-    if (errorMessageAboutProject === null
-      && errorMessageEmail === null
-      && errorMessageAboutProject === null) {
-        executeGrecaptchaAsync().then((token) => {
+    if (
+      errorMessageAboutProject === null &&
+      errorMessageEmail === null &&
+      errorMessageAboutProject === null
+    ) {
+      executeGrecaptchaAsync()
+        .then((token) => {
           fetch(process.env.GATSBY_API_URL, {
-           method: "POST",
+            method: "POST",
             headers: {
               "Content-Type": "application/json",
             },
@@ -136,18 +151,19 @@ const ContactUs = ({
               token,
               message: aboutProject,
               name: fullName,
+            }),
+          })
+            .then(() => {
+              console.log("give user feedback");
             })
-          }).then(() => {
-            console.log('give user feedback')
-          }).catch((ex) => {
-            console.log("desjo se error");
-          }); 
-        }).catch((ex) => {
+            .catch((ex) => {
+              console.log("desjo se error");
+            });
+        })
+        .catch((ex) => {
           console.log("desjo se error");
-        }); 
+        });
     }
-   
-
   }, [fullName, email, aboutProject, form, confirmed]);
 
   return [
@@ -173,7 +189,7 @@ const ContactUs = ({
           dangerouslySetInnerHTML={{ __html: description }}
           element="p"
           fontSize={18}
-          fontWeight={300}
+          fontWeight={400}
         />
         <Flexbox justifyContent="center">
           <div className={styles.text}>

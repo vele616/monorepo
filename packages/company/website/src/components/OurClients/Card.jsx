@@ -27,7 +27,7 @@ const Card = ({ imageAlt, name, client, image, description, delay }) => (
         color="gray_2"
         element="h3"
         fontSize={26}
-        fontWeight={600}
+        fontWeight={700}
         className={styles.customer__name}
       >
         {name}
