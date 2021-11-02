@@ -18,6 +18,7 @@
     }
   },
   "footer": {
+    "copyrightNotice": "Copyright © CroCoder, Inc. All rights reserved",
     "image": "../images/logoFooter.png",
     "socialMedia": [
       {

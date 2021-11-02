@@ -5,7 +5,6 @@
 }
 
 .text {
-  letter-spacing: 0.36px;
   line-height: 180%;
   text-align: justify;
 
@@ -88,6 +87,7 @@
 
 .flex {
   margin-bottom: 0.5em;
+  color: $gray_2;
 }
 
 .customer__description {

@@ -173,8 +173,13 @@ const ContactUs = ({
       style={{ position: "relative", top: "-100px" }}
       ref={contactUsRef}
     />,
-    <Section as="section" className={styles.wrapper} styleChild>
-      <div key="contact-us" className={styles.section}>
+    <Section
+      key="contact-us"
+      as="section"
+      className={styles.wrapper}
+      styleChild
+    >
+      <div className={styles.section}>
         <Typography
           className={styles.title}
           element="h2"
@@ -190,7 +195,7 @@ const ContactUs = ({
           dangerouslySetInnerHTML={{ __html: description }}
           element="p"
           fontSize={18}
-          fontWeight={300}
+          fontWeight={400}
         />
         <Flexbox justifyContent="center">
           <div className={styles.text}>
@@ -257,7 +262,6 @@ const ContactUs = ({
               />
             </Flexbox>
           </div>
-
           <Img
             fadeIn={false}
             fluid={image ? image.childImageSharp.fluid : {}}
