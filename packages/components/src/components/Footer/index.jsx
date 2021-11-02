@@ -20,7 +20,7 @@ const Footer = ({
   socialLinks,
   ...other
 }) => {
-  const { isMobile } = useDevice({ tablet: styles.limit });
+  const { isMobile } = useDevice({ tablet: Number(styles.limit) + 1 });
 
   return (
     <footer
