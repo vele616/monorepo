@@ -1,4 +1,5 @@
 const fetch = require("node-fetch");
+const FormData = require("form-data");
 
 const verify = async (token) => {
   const formData = new FormData();
