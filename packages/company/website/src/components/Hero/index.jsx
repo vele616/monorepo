@@ -16,6 +16,15 @@ const Hero = ({
 }) => (
   <Section as="header" className={styles.section}>
     <Flexbox className={styles.flex} alignItems="center">
+      <Img
+        fadeIn={false}
+        fluid={image ? image.childImageSharp.fluid : {}}
+        alt={imageAlt}
+        className={styles.image}
+        imgStyle={{
+          maxWidth: 484,
+        }}
+      />
       <div className={styles.text}>
         <Typography
           className={styles.title}
@@ -43,12 +52,6 @@ const Hero = ({
           {action}
         </Button>
       </div>
-      <Img
-        fadeIn={false}
-        fluid={image ? image.childImageSharp.fluid : {}}
-        alt={imageAlt}
-        className={styles.image}
-      />
     </Flexbox>
   </Section>
 );
@@ -65,7 +68,7 @@ const HeroWithQuery = ({ scrollToContactUs, scrollToHowWeWork, topRef }) => (
             imageAlt
             image {
               childImageSharp {
-                fluid {
+                fluid(maxWidth: 484) {
                   ...GatsbyImageSharpFluid
                 }
               }

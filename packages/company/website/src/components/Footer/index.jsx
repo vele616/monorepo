@@ -7,7 +7,7 @@ import styles from "./index.module.scss";
 const Footer = ({ footer, navigation, scrollToTop }) => {
   return (
     <FooterComponent
-      copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
+      copyrightNotice={footer.copyrightNotice}
       className={styles.footer}
       logo={
         <Link
@@ -78,6 +78,7 @@ const FooterWithQuery = ({ sticky, scrollToTop }) => (
             }
           }
           footer {
+            copyrightNotice
             socialMedia {
               link
               icon
