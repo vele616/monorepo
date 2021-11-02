@@ -2,7 +2,7 @@
 title: "All the ways you can clone an object in JavaScript"
 description: "In JavaScript, you cannot clone an object just by assigning its value to another variable, but you can use any of these techniques to shallow or deep clone an object!"
 category: "Code Bits"
-image: "../images/blogs/map-filter-reduce.png"
+image: "../images/blogs/clone.png"
 date: 1635090948
 blog: true
 author: davidabram
