@@ -10,9 +10,9 @@ author: davidabram
 
 In JavaScript, object cloning isn't obvious as it seems. You cannot just assign the value of one object to another variable and create a copy of it. The problem is related to the data types you can use in JavaScript.
 
-There are two groups of JavaScript data types: primitive values and objects. Primitive values are Boolean, Null, Undefined, Number, BigInt, String & Symbol. Objects are all other data types that are collection of properties (including Arrays!).
+There are two groups of JavaScript data types: primitive values and objects. Primitive values are Boolean, Null, Undefined, Number, BigInt, String & Symbol. Objects are all other data types that are collections of properties (including Arrays!).
 
-The big difference between primitive values and objects happen when you try using the `=` operator.
+The big difference between primitive values and objects happens when you try using the `=` operator.
 
 <br/>
 
@@ -154,7 +154,7 @@ Shallow cloning is an act of object cloning where you copy all the properties of
 
 If you change the value of the properties of the non-primitive properties of the original object, you will change the value in the clonedObject.
 
-As you can see in the line `object.animals.bear = '🐻';` we are changing the proprety of the non-primitive property animals in the original object. It changes the `clonedObject.animals.bear` because it was passed by reference.
+As you can see in the line `object.animals.bear = '🐻';` we are changing the property of the non-primitive property animals in the original object. It changes the `clonedObject.animals.bear` because it was passed by reference.
 
 
 <br>
@@ -162,7 +162,7 @@ As you can see in the line `object.animals.bear = '🐻';` we are changing the p
 
 <typography id="using-spread-syntax" element="h3">Using Spread syntax</typography>
 
-The Spread syntax (...) is proposal that was accepted in ECMAScript 2018. It destructures the object and keys and their values are copied onto a new object.
+The Spread syntax (...) is a proposal that was accepted in ECMAScript 2018. It destructures the object and keys and their values are copied onto a new object.
 
 ```javascript
   const object = {
@@ -257,7 +257,7 @@ Object.fromEntries() takes the array of arrays and transforms it back to an obje
 <typography id="deep-clone" element="h2">Deep Clone</typography>
 
 
-Shallow cloning is an act of object cloning where you copy all the properties of an object to another newly created object and all the properties of all non-primitive properties of that object, and so on recursively. 
+Deep cloning is an act of object cloning where you copy all the properties of an object to another newly created object and all the properties of all non-primitive properties of that object, and so on recursively. 
 
 You will get a true clone of the object you want a clone; it's doesn't reference any value of the original object.
 
@@ -325,7 +325,7 @@ As you can see from the example, Symbol isn't a valid JSON data type; alien prop
 
 <typography id="using-v8-serialize-deserialize" element="h3">[Node.js ONLY] Using v8.serialize & v8.deserialize</typography>
 
-v8.serialize() & v8.deserialize() is only availiable in Node.js enviroments. Unfortunately it throws an errror when trying to serialize objects that have symbols or functions as their properties.
+v8.serialize() & v8.deserialize() is only availiable in Node.js environments. Unfortunately, it throws an error when trying to serialize objects that have symbols or functions as their properties.
 
 ```javascript
   const v8 = require('v8');
@@ -359,14 +359,14 @@ The example throws an error with `Uncaught Error: Symbol(👽) could not be clon
 
 <typography id="using-external-libraries" element="h2">Using external libraries</typography>
 
-The next few methods are just some examples of cloning using popular external libraries and they are in no way an exaustive list. 
+The next few methods are just some examples of cloning using popular external libraries and they are in no way an exhaustive list. 
 
 <br>
 <br>
 
 <typography id="using-jquery-extend" element="h3">Using $.extend()</typography>
 
-This is a shallow and deep cloning method from very popular library jQuery. From usability standpoint it functions almost the same as Object.assign(). If you pass true as the first argument, the the $.extend() method will deep clone.
+This is a shallow and deep cloning method from very popular library jQuery. From usability standpoint it functions almost the same as Object.assign(). If you pass true as the first argument, the $.extend() method will deep clone.
 
 It's a nice to use in legacy projects that don't support Object.assign() or Spread Syntax (older than Chrome 45, Firefox 34 or Node.js 4.0.0).
 
