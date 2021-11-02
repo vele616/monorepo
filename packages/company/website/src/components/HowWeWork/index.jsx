@@ -34,7 +34,7 @@ const HowWeWork = ({ title, content }) => (
             <Typography
               element="p"
               color="gray_2"
-              fontSize={24}
+              fontSize={18}
               className={styles.flex__description}
               dangerouslySetInnerHTML={{ __html: sectionContent.text }}
             />
