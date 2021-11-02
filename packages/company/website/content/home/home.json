@@ -73,12 +73,5 @@
         "imageAlt": "A group of logo images of technologies the CroCoder team works with"
       }
     ]
-  },
-  "contactUs": {
-    "imageAlt": "Group of people working on their laptops and collaborating",
-    "image": "../images/letsworktogether.png",
-    "title": "Let’s start working together",
-    "text": "We are a small software development team that specializes in building elegant, performant and user-friendly web applications.",
-    "confirm": "I give consent to CroCoder to use this information to contact me."
   }
 }
