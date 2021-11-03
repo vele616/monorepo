@@ -16,7 +16,6 @@ body {
 .section:not(.styleChild) {
   margin: auto;
   padding: 40px 108px;
-  width: 100vw;
   overflow: hidden;
   max-width: 1600px;
   box-sizing: border-box;
@@ -42,7 +41,6 @@ body {
 .section.styleChild > div {
   margin: auto;
   padding: 40px 108px;
-  width: 100vw;
   overflow: hidden;
   max-width: 1600px;
   box-sizing: border-box;
