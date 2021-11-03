@@ -5,6 +5,7 @@ import Header from "../components/Blog/Header";
 import Posts from "../components/Blog/Posts";
 import { Section } from "@crocoder-dev/components";
 import { Helmet } from "react-helmet";
+import { graphql } from "gatsby";
 
 export default function Blog({ data }) {
   const nodes = data?.allMarkdownRemark?.edges.map((t) => t.node);
