@@ -21,6 +21,7 @@ jobs:
         scope: "@crocoder"
     - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GIT_TOKEN }}" > ~/.npmrc
     - run: ./scripts/company/get-secrets.sh ${{ secrets.SECRET_BUCKET }} ./
+    - run: cp scripts/robots/robots.txt packages/company/website/static
     - run: cd packages/company/website && yarn install --production=false
     - run: cd packages/company/website && yarn build:staging
     - run: cd packages/company/website && npx serverless deploy --env=staging --conceal
