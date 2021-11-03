@@ -40,7 +40,7 @@
       },
       {
         "title": "TransferHero",
-        "text": "Participating as part of a remote team. we were responsible for <em>the back end and front end of the implemented solution</em>. Additionally, we helped with the initial project <em>DevOps setup</em> and were responsible for the complete <em>user account management</em>, implementing the booking system for transfer reservations, and payment system integration via Stripe.",
+        "text": "Participating as part of a remote team, we were responsible for <em>the back end and front end of the implemented solution</em>. Additionally, we helped with the initial project <em>DevOps setup</em> and were responsible for the complete <em>user account management</em>, implementing the booking system for transfer reservations, and payment system integration via Stripe.",
         "image": "../images/transferhero.png",
         "client": "transferhero",
         "imageAlt": "TransferHero Logo",
