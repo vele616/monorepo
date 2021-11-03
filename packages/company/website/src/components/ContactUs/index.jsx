@@ -123,6 +123,22 @@ const ContactUs = ({
     }
   }, [triedToSubmit, confirmed]);
 
+  const showNotification = useCallback(
+    (error) => {
+      if (error) setNotificationText(errorNotification);
+      else setNotificationText(successNotification);
+
+      setNotificationVisible(true);
+
+      if (!error) clearForm();
+
+      notificationTimeout.current = setTimeout(() => {
+        handleOnCloseNotification();
+      }, 10000);
+    },
+    [handleOnCloseNotification, successNotification, errorNotification]
+  );
+
   const handleOnSubmit = useCallback(() => {
     setTriedToSubmit(true);
 
@@ -217,22 +233,6 @@ const ContactUs = ({
       setConfirmed(false);
     }
   }, []);
-
-  const showNotification = useCallback(
-    (error) => {
-      if (error) setNotificationText(errorNotification);
-      else setNotificationText(successNotification);
-
-      setNotificationVisible(true);
-
-      if (!error) clearForm();
-
-      notificationTimeout.current = setTimeout(() => {
-        handleOnCloseNotification();
-      }, 10000);
-    },
-    [handleOnCloseNotification, successNotification, errorNotification]
-  );
 
   return [
     <div
