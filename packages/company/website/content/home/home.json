@@ -24,7 +24,7 @@
       },
       {
         "title": "Searchmetrics",
-        "text": "At Searchmetrics, we participated in defining standards and rules to ease development and reduce time to develop different features. We were responsible for the <em>front-end development</em> of new features and, worked on <em>improving the developer environment</em> and the <em>front-end CI/CD processes of the shared codebase.</em>",
+        "text": "At Searchmetrics, we participated in defining standards and rules to ease development and reduce time to develop different features. We were responsible for the <em>front-end development</em> of new features and worked on <em>improving the developer environment</em> and the <em>front-end CI/CD processes of the shared codebase.</em>",
         "image": "../images/searchmetrics.png",
         "client": "searchmetrics",
         "imageAlt": "Searchmetrics Logo",
