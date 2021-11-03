@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "CroCoder | Web development company",
   siteTitleShort: "CroCoder",
   siteDescription:
-    "We are an experienced web development team that helps startups and small businesses focus on what really matters.",
+    "We are an experienced software development team for projects with big impact.",
   siteUrl: "https://crocoder.dev",
   logoUrl: "https://crocoder.dev/images/logo.png",
   company: {
