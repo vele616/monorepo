@@ -105,7 +105,16 @@ const ContactUs = ({
     text: notification.errorText,
   };
 
+  const notificationTimeout = useRef();
+
   const [notificationText, setNotificationText] = useState(successNotification);
+
+  const handleOnCloseNotification = useCallback(() => {
+    setNotificationVisible(false);
+    if (notificationTimeout.current) {
+      clearTimeout(notificationTimeout.current);
+    }
+  }, []);
 
   const handleConfirm = React.useCallback(() => {
     setConfirmed(!confirmed);
@@ -113,72 +122,6 @@ const ContactUs = ({
       setConfirmedError(!confirmed === false);
     }
   }, [triedToSubmit, confirmed]);
-
-  const handleOnFullNameChange = useCallback(
-    (event) => {
-      setFullName(event.target.value);
-      if (triedToSubmit) {
-        const errorMessageFullName = validateFullName(event.target.value, form);
-        setFullNameError(errorMessageFullName);
-      }
-    },
-    [triedToSubmit]
-  );
-
-  const handleOnEmailChange = useCallback(
-    (event) => {
-      setEmail(event.target.value);
-      if (triedToSubmit) {
-        const errorMessageEmail = validateEmail(event.target.value, form);
-        setEmailError(errorMessageEmail);
-      }
-    },
-    [triedToSubmit]
-  );
-
-  const handleOnAboutProjectChange = useCallback(
-    (event) => {
-      setAboutProject(event.target.value);
-      if (triedToSubmit) {
-        const errorMessageAboutProject = validateAboutProject(
-          event.target.value,
-          form
-        );
-        setAboutProjectError(errorMessageAboutProject);
-      }
-    },
-    [triedToSubmit]
-  );
-
-  const notificationTimeout = useRef();
-
-  const clearForm = useCallback(() => {
-    if (document) {
-      const children = [...document.querySelectorAll("input,textarea")];
-      children.forEach((child) => (child.value = null));
-
-      setEmail(null);
-      setFullName(null);
-      setAboutProject(null);
-      setConfirmed(false);
-    }
-  }, []);
-
-  const showNotification = useCallback(
-    (error) => {
-      if (error) setNotificationText(errorNotification);
-      else setNotificationText(successNotification);
-
-      setNotificationVisible(true);
-
-      if (!error) clearForm();
-
-      notificationTimeout.current = setTimeout(() => {
-        handleOnCloseNotification();
-      }, 10000);
-    },
-    [handleOnCloseNotification, successNotification, errorNotification]
-  );
 
   const handleOnSubmit = useCallback(() => {
     setTriedToSubmit(true);
@@ -227,12 +170,69 @@ const ContactUs = ({
     }
   }, [fullName, email, aboutProject, form, confirmed, showNotification]);
 
-  const handleOnCloseNotification = useCallback(() => {
-    setNotificationVisible(false);
-    if (notificationTimeout.current) {
-      clearTimeout(notificationTimeout.current);
+  const handleOnFullNameChange = useCallback(
+    (event) => {
+      setFullName(event.target.value);
+      if (triedToSubmit) {
+        const errorMessageFullName = validateFullName(event.target.value, form);
+        setFullNameError(errorMessageFullName);
+      }
+    },
+    [triedToSubmit]
+  );
+
+  const handleOnEmailChange = useCallback(
+    (event) => {
+      setEmail(event.target.value);
+      if (triedToSubmit) {
+        const errorMessageEmail = validateEmail(event.target.value, form);
+        setEmailError(errorMessageEmail);
+      }
+    },
+    [triedToSubmit]
+  );
+
+  const handleOnAboutProjectChange = useCallback(
+    (event) => {
+      setAboutProject(event.target.value);
+      if (triedToSubmit) {
+        const errorMessageAboutProject = validateAboutProject(
+          event.target.value,
+          form
+        );
+        setAboutProjectError(errorMessageAboutProject);
+      }
+    },
+    [triedToSubmit]
+  );
+
+  const clearForm = useCallback(() => {
+    if (document) {
+      const children = [...document.querySelectorAll("input,textarea")];
+      children.forEach((child) => (child.value = null));
+
+      setEmail(null);
+      setFullName(null);
+      setAboutProject(null);
+      setConfirmed(false);
     }
   }, []);
+
+  const showNotification = useCallback(
+    (error) => {
+      if (error) setNotificationText(errorNotification);
+      else setNotificationText(successNotification);
+
+      setNotificationVisible(true);
+
+      if (!error) clearForm();
+
+      notificationTimeout.current = setTimeout(() => {
+        handleOnCloseNotification();
+      }, 10000);
+    },
+    [handleOnCloseNotification, successNotification, errorNotification]
+  );
 
   return [
     <div
