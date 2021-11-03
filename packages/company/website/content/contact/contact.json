@@ -22,5 +22,11 @@
     },
     "submit": "Submit",
     "captcha": "This site is protected by reCAPTCHA and the Google <a href=\"https://policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://policies.google.com/terms\">Terms of Service</a> apply."
+  },
+  "notification": {
+    "title": "Thank you for contacting <em><b>Cro</b>Coder</em>!",
+    "text": "Your form has been submitted and we will take a look at it as soon as possible!",
+    "errorTitle": "Looks like something went wrong",
+    "errorText": "What this means is that we were unable to process this request. We do apologise for the inconvenience and we would like you to try again."
   }
 }

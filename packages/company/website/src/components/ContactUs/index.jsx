@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from "react";
+import React, { useCallback, useRef, useState } from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
 import {
@@ -11,6 +11,7 @@ import {
 } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 import Section from "../Layout/Section";
+import { motion, AnimatePresence } from "framer-motion";
 
 const waitGrecaptchaReady = () => {
   return new Promise((resolve) => {
@@ -54,6 +55,16 @@ const validateAboutProject = (aboutProject, form) => {
   return null;
 };
 
+const Path = (props) => (
+  <motion.path
+    fill="transparent"
+    strokeWidth="2"
+    stroke="hsl(0, 0%, 30%)"
+    strokeLinecap="round"
+    {...props}
+  />
+);
+
 const ContactUs = ({
   form,
   title,
@@ -62,6 +73,7 @@ const ContactUs = ({
   contactUsRef,
   consent,
   imageAlt,
+  notification,
 }) => {
   const [confirmed, setConfirmed] = React.useState(false);
   const [confirmedError, setConfirmedError] = React.useState(false);
@@ -76,6 +88,24 @@ const ContactUs = ({
 
   const [aboutProject, setAboutProject] = useState(null);
   const [aboutProjectError, setAboutProjectError] = useState(null);
+
+  const [notificationVisible, setNotificationVisible] = useState(true);
+
+  const fullNameRef = useRef();
+  const emailRef = useRef();
+  const aboutProjectRef = useRef();
+
+  const successNotification = {
+    title: notification.title,
+    text: notification.text,
+  };
+
+  const errorNotification = {
+    title: notification.errorTitle,
+    text: notification.errorText,
+  };
+
+  const [notificationText, setNotificationText] = useState(successNotification);
 
   const handleConfirm = React.useCallback(() => {
     setConfirmed(!confirmed);
@@ -120,6 +150,36 @@ const ContactUs = ({
     [triedToSubmit]
   );
 
+  const notificationTimeout = useRef();
+
+  const clearForm = useCallback(() => {
+    if (document) {
+      const children = [...document.querySelectorAll("input,textarea")];
+      children.forEach((child) => (child.value = null));
+
+      setEmail(null);
+      setFullName(null);
+      setAboutProject(null);
+      setConfirmed(false);
+    }
+  }, []);
+
+  const showNotification = useCallback(
+    (error) => {
+      if (error) setNotificationText(errorNotification);
+      else setNotificationText(successNotification);
+
+      setNotificationVisible(true);
+
+      if (!error) clearForm();
+
+      notificationTimeout.current = setTimeout(() => {
+        handleOnCloseNotification();
+      }, 10000);
+    },
+    [handleOnCloseNotification, successNotification, errorNotification]
+  );
+
   const handleOnSubmit = useCallback(() => {
     setTriedToSubmit(true);
 
@@ -155,17 +215,24 @@ const ContactUs = ({
             }),
           })
             .then(() => {
-              console.log("give user feedback");
+              showNotification();
             })
             .catch((ex) => {
-              console.log("desjo se error");
+              showNotification(true);
             });
         })
         .catch((ex) => {
-          console.log("desjo se error");
+          showNotification(true);
         });
     }
-  }, [fullName, email, aboutProject, form, confirmed]);
+  }, [fullName, email, aboutProject, form, confirmed, showNotification]);
+
+  const handleOnCloseNotification = useCallback(() => {
+    setNotificationVisible(false);
+    if (notificationTimeout.current) {
+      clearTimeout(notificationTimeout.current);
+    }
+  }, []);
 
   return [
     <div
@@ -173,6 +240,44 @@ const ContactUs = ({
       style={{ position: "relative", top: "-100px" }}
       ref={contactUsRef}
     />,
+    <ul className={styles.notifications} key="notification">
+      <AnimatePresence initial={false}>
+        {notificationVisible && (
+          <motion.li
+            positionTransition
+            initial={{ opacity: 0, y: 50, scale: 0.3 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.5, transition: { duration: 0.2 } }}
+          >
+            <Typography
+              element="p"
+              fontSize={18}
+              fontWeight={700}
+              dangerouslySetInnerHTML={{ __html: notificationText.title }}
+              color="gray_1"
+              className={styles.notifications__title}
+            />
+            <Button
+              variant="sneaky"
+              onClick={handleOnCloseNotification}
+              className="close"
+            >
+              <svg width="23" height="23" viewBox="0 0 23 23">
+                <Path d="M 3 16.5 L 17 2.5" />
+                <Path d="M 3 2.5 L 17 16.346" />
+              </svg>
+            </Button>
+            <Typography
+              color="gray_2"
+              element="p"
+              fontSize={16}
+              fontWeight={400}
+              dangerouslySetInnerHTML={{ __html: notificationText.text }}
+            />
+          </motion.li>
+        )}
+      </AnimatePresence>
+    </ul>,
     <Section
       key="contact-us"
       as="section"
@@ -201,6 +306,7 @@ const ContactUs = ({
           <div className={styles.text}>
             <Flexbox className={styles.form} direction="column">
               <Input
+                ref={fullNameRef}
                 className={styles.input}
                 error={fullNameError !== null}
                 errorMessage={fullNameError}
@@ -211,6 +317,7 @@ const ContactUs = ({
                 required
               />
               <Input
+                ref={emailRef}
                 className={styles.input}
                 error={emailError !== null}
                 errorMessage={emailError}
@@ -221,6 +328,7 @@ const ContactUs = ({
                 required
               />
               <Textarea
+                ref={aboutProjectRef}
                 className={styles.textarea}
                 error={aboutProjectError !== null}
                 errorMessage={aboutProjectError}
@@ -299,6 +407,12 @@ const ContactUsWithQuery = ({ contactUsRef }) => (
             }
             submit
             captcha
+          }
+          notification {
+            title
+            text
+            errorTitle
+            errorText
           }
           title
           description
