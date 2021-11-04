@@ -47,11 +47,11 @@
         "url": "https://transferhero.eu/"
       },
       {
-        "title": "MisterSpex",
-        "text": "At German-based enterprise Mister Spex, we worked as <em>front-end developers to create a structured shared custom component codebase</em> that can be reused by multiple teams working with different domains. Additionally, we advised how the performance and structure of the implemented solution can be improved.",
+        "title": "Mister Spex",
+        "text": "At German-based enterprise Mister Spex, we worked as <em>front-end developers to create a structured shared custom component codebase</em> that can be reused by multiple teams working with different domains. Additionally, we advised how to improve the performance and structure of the implemented solution.",
         "image": "../images/misterspex.png",
         "client": "misterspex",
-        "imageAlt": "MisterSpex Logo",
+        "imageAlt": "Mister Spex Logo",
         "url": "https://www.misterspex.de/"
       }
     ]
