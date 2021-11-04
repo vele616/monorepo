@@ -89,7 +89,7 @@ const ContactUs = ({
   const [aboutProject, setAboutProject] = useState(null);
   const [aboutProjectError, setAboutProjectError] = useState(null);
 
-  const [notificationVisible, setNotificationVisible] = useState(true);
+  const [notificationVisible, setNotificationVisible] = useState(false);
 
   const fullNameRef = useRef();
   const emailRef = useRef();
