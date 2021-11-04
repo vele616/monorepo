@@ -26,10 +26,6 @@ const Head = ({
     <Helmet defer={false}>
       <html lang="en" />
       <meta content="IE=edge" httpEquiv="X-UA-Compatible" />
-      <meta
-        content="width=device-width,initial-scale=1.0,user-scalable=yes"
-        name="viewport"
-      />
       <link rel="canonical" href={canonical} />
       <link href="/manifest.json" rel="manifest" />
       <meta content={themeColor} name="theme-color" />
@@ -169,6 +165,10 @@ const Head = ({
         content="/icons/mstile-310x310.png"
         name="msapplication-square310x310"
       />
+      {/* Blog stuff */}
+      {article?.author?.name ? (
+        <meta name="author" content={article.author.name} />
+      ) : null}
     </Helmet>
   );
 };

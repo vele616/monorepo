@@ -4,8 +4,14 @@ description: "In JavaScript, you cannot clone an object just by assigning its va
 category: "Code Bits"
 image: "../images/blogs/how-to-clone-object-in-javascript.png"
 date: 1635894000
+updatedAt: 1635894000
 blog: true
 author: davidabram
+abstract: "In JavaScript, object cloning isn't obvious as it seems. You cannot just assign the value of one object to another variable and create a copy of it. The problem is related to the data types you can use in JavaScript.
+
+There are two groups of JavaScript data types: primitive values and objects. Primitive values are Boolean, Null, Undefined, Number, BigInt, String & Symbol. Objects are all other data types that are collections of properties (including Arrays!).
+
+The big difference between primitive values and objects happens when you try using the `=` operator."
 ---
 
 In JavaScript, object cloning isn't obvious as it seems. You cannot just assign the value of one object to another variable and create a copy of it. The problem is related to the data types you can use in JavaScript.

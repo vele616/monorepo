@@ -4,6 +4,7 @@ description: "The DOM or the Document Object Model of the page is created after 
 category: "Learn JavaScript"
 image: "../images/blogs/dom.png"
 date: 1619463600
+updatedAt: 1619463600
 blog: true
 author: lukaucur
 abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of the DOM. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
