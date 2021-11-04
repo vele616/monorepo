@@ -7,6 +7,8 @@ exports.exec = async (event) => {
     for (const record of event.Records) {
       const { id, email, name, message } = JSON.parse(record.body);
 
+      console.log(id, email, name, message);
+
       if (!id || !email || !name || !message) {
         throw new Error("Missing id, email, name or message");
       }
@@ -15,7 +17,7 @@ exports.exec = async (event) => {
         `Message from ${name} (${id})`,
         email,
         name,
-        JSON.parse(message)
+        message
       );
       await notifyContactCreated(name, email, url);
       await sendEmail(url, message, name, email);
