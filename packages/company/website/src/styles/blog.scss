@@ -378,6 +378,10 @@
 }
 
 .markdown-body li+li {
+  margin-top: .45em;
+}
+
+.markdown-body p+ul {
   margin-top: .25em;
 }
 
@@ -453,4 +457,16 @@
 
 .markdown-body hr {
   border-bottom-color: #eee;
+}
+
+.markdown-body li > p {
+  margin: 0;
+}
+
+.markdown-body .subtitle {
+  color: #424C6D;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 16px;
+  margin-top: 24px;
 }

@@ -5,6 +5,7 @@ import Snippet from "../CodeExample/Snippet";
 import Row from "../CodeExample/Row";
 import Column from "../CodeExample/Column";
 import ListToggle from "../CodeExample/ListToggle";
+import Subtitle from "../Subtitle";
 import { Typography } from "@crocoder-dev/components";
 
 const renderAst = new rehypeReact({
@@ -16,6 +17,7 @@ const renderAst = new rehypeReact({
     row: Row,
     "list-toggle": ListToggle,
     typography: Typography,
+    subtitle: Subtitle,
   },
 }).Compiler;
 
