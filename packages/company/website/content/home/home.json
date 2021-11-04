@@ -16,7 +16,7 @@
     "cards": [
       {
         "title": "Skew Analytics",
-        "text": "We worked on building the whole MVP and were responsible for complete <em>back-end development</em>, <em>devOps/infrastructure setup</em>, and the <em>front-end development</em>. We implemented the whole authentication system, custom dashboard, and set up the basic component library.",
+        "text": "We worked on building the whole MVP and were responsible for the complete <em>back-end development</em>, <em>devOps/infrastructure setup</em>, and the <em>front-end development</em>. We implemented the whole authentication system, custom dashboard, and set up the basic component library.",
         "image": "../images/skew.png",
         "client": "skew",
         "imageAlt": "Skew Logo",
@@ -24,7 +24,7 @@
       },
       {
         "title": "Searchmetrics",
-        "text": "At Searchmetrics, we participated in defining standards and rules to ease development and reduce time to develop different features. We were responsible for the <em>front-end development</em> of new features and worked on <em>improving the developer environment</em> and the <em>front-end CI/CD processes of the shared codebase.</em>",
+        "text": "At Searchmetrics, we participated in defining the standards and rules to ease development and reduce development time. We were responsible for the <em>front-end development</em> of new features, worked on <em>improving the developer environment</em> and the <em>front-end CI/CD processes of the shared codebase.</em>",
         "image": "../images/searchmetrics.png",
         "client": "searchmetrics",
         "imageAlt": "Searchmetrics Logo",
@@ -32,7 +32,7 @@
       },
       {
         "title": "Lynes",
-        "text": "For Lynes, we helped start their new Croatian office, which included finding the right technical talent and provided them with initial mentoring to make sure they had the right technical and soft skills. Additionally, we were responsible for <em>designing and implementing a telephony platform designed for real-time video communication</em>.",
+        "text": "For Lynes, we helped start their new Croatian office, which included finding the right technical talent and provided them with initial mentoring to make sure they had the right technical as well as soft skills. Additionally, we were responsible for <em>designing and implementing a real-time video communication platform.</em>.",
         "image": "../images/lynes.png",
         "client": "lynes",
         "imageAlt": "Lynes Logo",
@@ -48,7 +48,7 @@
       },
       {
         "title": "Mister Spex",
-        "text": "At German-based enterprise Mister Spex, we worked as <em>front-end developers to create a structured shared custom component codebase</em> that can be reused by multiple teams working with different domains. Additionally, we advised how to improve the performance and structure of the implemented solution.",
+        "text": "At German-based enterprise Mister Spex, we worked as <em>front-end developers to create a structured shared custom component codebase</em> that can be reused by multiple teams working with different domains. Additionally, we advised on improving the performance and structure of the implemented solution.",
         "image": "../images/misterspex.png",
         "client": "misterspex",
         "imageAlt": "Mister Spex Logo",
@@ -73,7 +73,7 @@
       },
       {
         "title": "We Work With React and Node",
-        "text": "We specialize in crafting high-quality software using the tools and frameworks in the React.js as well as Node.js ecosystem. We always recommend approaches that are favorable in the long run, however, we are always willing to compromise and are open to all kinds of different solutions.",
+        "text": "We specialize in crafting high-quality software using the tools and frameworks in the React.js as well as Node.js ecosystem. We always recommend approaches that are favorable in the long run, however, we are without exception willing to compromise and are open to all kinds of different solutions.",
         "image": "../images/technologies.png",
         "imageAlt": "A group of logo images of technologies the CroCoder team works with"
       }

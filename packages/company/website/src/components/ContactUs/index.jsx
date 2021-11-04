@@ -91,18 +91,16 @@ const ContactUs = ({
 
   const [notificationVisible, setNotificationVisible] = useState(false);
 
-  const fullNameRef = useRef();
-  const emailRef = useRef();
-  const aboutProjectRef = useRef();
-
   const successNotification = {
     title: notification.title,
     text: notification.text,
+    class: "positive",
   };
 
   const errorNotification = {
     title: notification.errorTitle,
     text: notification.errorText,
+    class: "negative",
   };
 
   const notificationTimeout = useRef();
@@ -132,9 +130,9 @@ const ContactUs = ({
 
       if (!error) clearForm();
 
-      notificationTimeout.current = setTimeout(() => {
-        handleOnCloseNotification();
-      }, 10000);
+      // notificationTimeout.current = setTimeout(() => {
+      //   handleOnCloseNotification();
+      // }, 10000);
     },
     [handleOnCloseNotification, successNotification, errorNotification]
   );
@@ -158,6 +156,11 @@ const ContactUs = ({
       errorMessageEmail === null &&
       errorMessageAboutProject === null
     ) {
+      window.sa_event(
+        `submit_form_${
+          window.location.pathname === "/" ? "landing" : "contact_us"
+        }`
+      );
       executeGrecaptchaAsync()
         .then((token) => {
           fetch(`${process.env.GATSBY_API_URL}contacts`, {
@@ -248,6 +251,7 @@ const ContactUs = ({
             initial={{ opacity: 0, y: 50, scale: 0.3 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, scale: 0.5, transition: { duration: 0.2 } }}
+            className={styles[notificationText.class]}
           >
             <Typography
               element="p"
@@ -261,6 +265,7 @@ const ContactUs = ({
               variant="sneaky"
               onClick={handleOnCloseNotification}
               className="close"
+              className={styles.notifications__button}
             >
               <svg width="23" height="23" viewBox="0 0 23 23">
                 <Path d="M 3 16.5 L 17 2.5" />
@@ -268,11 +273,12 @@ const ContactUs = ({
               </svg>
             </Button>
             <Typography
-              color="gray_2"
+              color="gray_1"
               element="p"
               fontSize={16}
               fontWeight={400}
               dangerouslySetInnerHTML={{ __html: notificationText.text }}
+              className={styles.notifications__content}
             />
           </motion.li>
         )}
@@ -306,7 +312,6 @@ const ContactUs = ({
           <div className={styles.text}>
             <Flexbox className={styles.form} direction="column">
               <Input
-                ref={fullNameRef}
                 className={styles.input}
                 error={fullNameError !== null}
                 errorMessage={fullNameError}
@@ -317,7 +322,6 @@ const ContactUs = ({
                 required
               />
               <Input
-                ref={emailRef}
                 className={styles.input}
                 error={emailError !== null}
                 errorMessage={emailError}
@@ -328,7 +332,6 @@ const ContactUs = ({
                 required
               />
               <Textarea
-                ref={aboutProjectRef}
                 className={styles.textarea}
                 error={aboutProjectError !== null}
                 errorMessage={aboutProjectError}

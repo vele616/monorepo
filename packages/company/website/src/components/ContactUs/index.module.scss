@@ -140,7 +140,28 @@
   position: fixed;
   right: 0px;
   top: 50px;
+  background-color: white;
   z-index: 99;
+  margin: 10px;
+  overflow: hidden;
+  color: #3C3843; 
+  border-radius: 10px;
+
+  .positive {
+    background-color: #fff;
+    .notifications__title {
+      color: #647E1B; //$green_4;
+    }
+  }
+
+  .negative {
+    background-color: #e1787142;
+    .notifications__title {
+      color: #8E4A51;
+    }
+  }
+
+
 
   @include mediaQuery(">=tabletPortrait") {
     right: 30px;
@@ -148,17 +169,30 @@
     top: unset;
   }
 
-  li {
+  &__title {
+    margin: 0;
+  }
 
+  &__button {
+    display: flex;
     align-items: center;
-    background: white;
-    border-radius: 10px;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+  }
+
+  &__content {
+    margin-bottom: 0;
+  }
+
+  li {
+    align-items: center;
+  
     box-shadow: 0px 5px 20px rgba(69, 85, 22, 0.1);
     box-sizing: border-box;
     display: grid;
     grid-template-columns: minmax(auto, 340px) 25px;
     grid-template-rows: 25px auto;
-    margin: 10px;
     padding: 30px 20px;
     position: relative;
 

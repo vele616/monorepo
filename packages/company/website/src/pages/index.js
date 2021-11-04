@@ -7,10 +7,8 @@ import ContactUs from "../components/ContactUs";
 import "./index.scss";
 import { JSONLDType } from "../components/Head/jsonld";
 
-export default function Home({ location }) {
+export default function Home() {
   const contactUsRef = useRef(null);
-
-  const howWeWorkRef = useRef(null);
 
   const topRef = useRef(null);
 
