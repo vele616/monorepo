@@ -176,8 +176,12 @@ const ContactUs = ({
               name: fullName,
             }),
           })
-            .then(() => {
-              showNotification();
+            .then((response) => {
+              if (!response.ok) {
+                showNotification(true);
+              } else {
+                showNotification();
+              }
             })
             .catch((ex) => {
               showNotification(true);
