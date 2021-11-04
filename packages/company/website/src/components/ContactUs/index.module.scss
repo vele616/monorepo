@@ -139,7 +139,7 @@
   padding: 0;
   position: fixed;
   right: 0px;
-  top: 50px;
+  top: 65px;
   background-color: white;
   z-index: 99;
   margin: 10px;
@@ -183,6 +183,8 @@
 
   &__content {
     margin-bottom: 0;
+    margin-top: 8px;
+    line-height: 1.5;
   }
 
   li {

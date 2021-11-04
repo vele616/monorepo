@@ -130,9 +130,9 @@ const ContactUs = ({
 
       if (!error) clearForm();
 
-      // notificationTimeout.current = setTimeout(() => {
-      //   handleOnCloseNotification();
-      // }, 10000);
+      notificationTimeout.current = setTimeout(() => {
+        handleOnCloseNotification();
+      }, 10000);
     },
     [handleOnCloseNotification, successNotification, errorNotification]
   );
