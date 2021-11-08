@@ -22,7 +22,7 @@ const Footer = ({ footer, navigation, scrollToTop }) => {
             style={{ visibility: "visible" }}
             aria-hidden="true"
           >
-            <CrocFooter />
+            <CrocFooter className={styles.crocoderLogo} />
           </div>
         </Link>
       }

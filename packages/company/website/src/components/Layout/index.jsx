@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, StaticQuery, graphql } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
-import { Navigation, Button, Typography } from "@crocoder-dev/components";
+import { Navigation, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
 import CrocNav from "../../images/croc-nav.svg";
 import styles from "./index.module.scss";
@@ -30,11 +30,11 @@ const Layout = ({
               if (scrollToTop) scrollToTop();
             }}
           >
-            <CrocNav style={{ maxWidth: "225px" }} area-hidden="true" />
+            <CrocNav className={styles.crocoderLogo} area-hidden="true" />
           </Link>
         }
       >
-        {(toggle) => (
+        {() => (
           <>
             <Link className={`${styles.home} link`} to="/">
               {home.text}

@@ -69,3 +69,12 @@ body {
     //margin-left: 15% !important;
   }
 }
+
+.crocoderLogo {
+  width: 225px;
+  height: 50px;
+
+  @include mediaQuery(">=0px","<tabletPortrait"){
+    width: 200px;
+  }
+}
