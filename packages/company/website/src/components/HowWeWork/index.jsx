@@ -1,10 +1,9 @@
 import React from "react";
 import Img from "gatsby-image";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Flexbox, Card } from "@crocoder-dev/components";
+import { Typography, Flexbox } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 import Section from "../Layout/Section";
-import { useMemo } from "react";
 
 const HowWeWork = ({ title, content }) => (
   <Section as="section" className={styles.section}>

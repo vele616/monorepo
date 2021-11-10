@@ -121,6 +121,18 @@ const ContactUs = ({
     }
   }, [triedToSubmit, confirmed]);
 
+  const clearForm = useCallback(() => {
+    if (document) {
+      const children = [...document.querySelectorAll("input,textarea")];
+      children.forEach((child) => (child.value = null));
+
+      setEmail(null);
+      setFullName(null);
+      setAboutProject(null);
+      setConfirmed(false);
+    }
+  }, []);
+
   const showNotification = useCallback(
     (error) => {
       if (error) setNotificationText(errorNotification);
@@ -134,7 +146,12 @@ const ContactUs = ({
         handleOnCloseNotification();
       }, 10000);
     },
-    [handleOnCloseNotification, successNotification, errorNotification]
+    [
+      handleOnCloseNotification,
+      successNotification,
+      errorNotification,
+      clearForm,
+    ]
   );
 
   const handleOnSubmit = useCallback(() => {
@@ -201,7 +218,7 @@ const ContactUs = ({
         setFullNameError(errorMessageFullName);
       }
     },
-    [triedToSubmit]
+    [triedToSubmit, form]
   );
 
   const handleOnEmailChange = useCallback(
@@ -212,7 +229,7 @@ const ContactUs = ({
         setEmailError(errorMessageEmail);
       }
     },
-    [triedToSubmit]
+    [triedToSubmit, form]
   );
 
   const handleOnAboutProjectChange = useCallback(
@@ -226,20 +243,8 @@ const ContactUs = ({
         setAboutProjectError(errorMessageAboutProject);
       }
     },
-    [triedToSubmit]
+    [triedToSubmit, form]
   );
-
-  const clearForm = useCallback(() => {
-    if (document) {
-      const children = [...document.querySelectorAll("input,textarea")];
-      children.forEach((child) => (child.value = null));
-
-      setEmail(null);
-      setFullName(null);
-      setAboutProject(null);
-      setConfirmed(false);
-    }
-  }, []);
 
   return [
     <div
@@ -268,7 +273,6 @@ const ContactUs = ({
             <Button
               variant="sneaky"
               onClick={handleOnCloseNotification}
-              className="close"
               className={styles.notifications__button}
             >
               <svg width="23" height="23" viewBox="0 0 23 23">

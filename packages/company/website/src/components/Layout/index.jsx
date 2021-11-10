@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, StaticQuery, graphql } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
-import { Navigation, Button, Typography } from "@crocoder-dev/components";
+import { Navigation, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
 import CrocNav from "../../images/croc-nav.svg";
 import styles from "./index.module.scss";
