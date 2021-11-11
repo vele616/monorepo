@@ -358,6 +358,8 @@ const ContactUs = ({
                 onClick={handleConfirm}
               >
                 <Icon
+                  role="checkbox"
+                  aria-checked={confirmed}
                   fontSize={26}
                   color={confirmedError ? "negative" : "gray_2"}
                   className={styles.icon}
