@@ -24,6 +24,7 @@ const Footer = ({ footer, navigation, scrollToTop }) => {
             <img
               src="/images/crocoder-logo-white.png"
               className={styles.crocoderLogo}
+              alt="CroCoder Logo"
             />
           </div>
         </Link>

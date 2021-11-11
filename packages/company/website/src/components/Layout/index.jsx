@@ -33,6 +33,7 @@ const Layout = ({
               src="/images/crocoder-logo.png"
               className={styles.crocoderLogo}
               area-hidden="true"
+              alt="CroCoder Logo"
             />
           </Link>
         }
