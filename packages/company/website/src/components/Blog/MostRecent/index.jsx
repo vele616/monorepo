@@ -18,9 +18,6 @@ const MostRecent = ({ featuredPost = {}, post1 = {}, post2 = {} }) => {
         >
           Most recent posts
         </Typography>
-        <Link className={styles.viewall} to="/blog">
-          <Typography color="gray_2">View All Posts</Typography>
-        </Link>
       </div>
       <div className={styles.wrapper}>
         <Link to={featuredPost.slug} className={styles.featured_post}>
