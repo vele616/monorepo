@@ -17,7 +17,11 @@ const Footer = ({ socialMedia, scrollToTop }) => {
           }}
         >
           <div className={styles.image}>
-            <CrocFooter className={styles.crocoderLogo} />
+            <img
+              alt="CroCoder Logo"
+              src="/images/crocoder-logo-white.png"
+              className={styles.crocoderLogo}
+            />
           </div>
         </Link>
       }
