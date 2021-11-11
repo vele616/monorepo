@@ -3,7 +3,6 @@ import { Link, StaticQuery, graphql } from "gatsby";
 import "@crocoder-dev/components/lib/main.css";
 import { Navigation, Typography } from "@crocoder-dev/components";
 import Footer from "../Footer";
-import CrocNav from "../../images/croc-nav.svg";
 import styles from "./index.module.scss";
 import Head from "../Head";
 
@@ -30,7 +29,11 @@ const Layout = ({
               if (scrollToTop) scrollToTop();
             }}
           >
-            <CrocNav className={styles.crocoderLogo} area-hidden="true" />
+            <img
+              src="/images/crocoder-logo.png"
+              className={styles.crocoderLogo}
+              area-hidden="true"
+            />
           </Link>
         }
       >
