@@ -1,6 +1,5 @@
 import React from "react";
 import { StaticQuery, graphql, Link } from "gatsby";
-import CrocFooter from "../../images/croc-footer.svg";
 import { Icon, Footer as FooterComponent } from "@crocoder-dev/components";
 import styles from "./index.module.scss";
 
@@ -22,7 +21,10 @@ const Footer = ({ footer, navigation, scrollToTop }) => {
             style={{ visibility: "visible" }}
             aria-hidden="true"
           >
-            <CrocFooter className={styles.crocoderLogo} />
+            <img
+              src="/images/crocoder-logo-white.png"
+              className={styles.crocoderLogo}
+            />
           </div>
         </Link>
       }
