@@ -55,7 +55,7 @@ const Layout = ({
               <Typography fontWeight={600}>
                 <Typography
                   fontWeight={600}
-                  style={{ color: "#647E1B" }}
+                  style={{ color: "#607A1A" }}
                   color="primary"
                 >
                   Cro
