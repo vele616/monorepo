@@ -1,7 +1,7 @@
 import React from "react";
 import "@crocoder-dev/components/lib/main.css";
 import { Typography, Flexbox } from "@crocoder-dev/components";
-import { motion, transform } from "framer-motion";
+import { motion } from "framer-motion";
 import styles from "./index.module.scss";
 import Img from "gatsby-image";
 

@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./index.module.scss";
 import { Section, Typography } from "@crocoder-dev/components";
 
-const BlogHeader = ({}) => {
+const BlogHeader = () => {
   return (
     <Section className={styles.whiteBackground}>
       <div className={styles.wrapper}>

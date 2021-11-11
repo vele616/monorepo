@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import React, { useRef } from "react";
 import Layout from "../components/Layout";
 import OurClients from "../components/OurClients";
 import HowWeWork from "../components/HowWeWork";

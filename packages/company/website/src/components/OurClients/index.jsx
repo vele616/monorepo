@@ -1,6 +1,6 @@
 import React from "react";
 import { StaticQuery, graphql } from "gatsby";
-import { Typography, Grid, Button } from "@crocoder-dev/components";
+import { Typography, Button } from "@crocoder-dev/components";
 import Section from "../Layout/Section";
 import styles from "./index.module.scss";
 import Card from "./Card";
@@ -20,11 +20,6 @@ const container = {
 const item = {
   hidden: { opacity: 0 },
   show: { opacity: 1, transition: { duration: 1 } },
-};
-
-const buttonvariants = {
-  small: { width: "70%" },
-  large: { width: "100%" },
 };
 
 const OurClients = ({ title, text, lastCard, cards, scrollToContactUs }) => {
