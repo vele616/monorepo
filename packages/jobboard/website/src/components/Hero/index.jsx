@@ -35,8 +35,8 @@ const Hero = ({
           <span className={styles.coder}>Coder</span> Jobs
         </h1>
         <Typography
-          fontWeight={700}
-          fontSize={50}
+          fontWeight={400}
+          fontSize={36}
           color="gray_2"
           className={styles.typography}
         >

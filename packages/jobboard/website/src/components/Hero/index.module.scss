@@ -2,45 +2,41 @@
 
 
 .title {
-
-  @include mediaQuery(">=1400px") {
-    font-size: 146px;
-  }
-
-  @include mediaQuery(">=1200px", "<1400px") {
-    font-size: 132px;
-  }
-
-  @include mediaQuery(">=1000px", "<1200px") {
-    font-size: 112px;
+  @include mediaQuery(">=1000px") {
+    font-size: 70px;
   }
 
   @include mediaQuery(">=900px", "<1000px") {
-    font-size: 98px;
+    font-size: 56px;
   }
 
   @include mediaQuery(">=800px", "<900px") {
-    font-size: 86px;
+    font-size: 44px;
   }
 
   @include mediaQuery(">=700px", "<800px") {
-    font-size: 76px;
+    font-size: 36px;
   }
 
   @include mediaQuery(">=600px", "<700px") {
-    font-size: 64px;
+    font-size: 36px;
   }
 
   @include mediaQuery(">=500px", "<600px") {
-    font-size: 58px;
+    font-size: 36px;
   }
 
   @include mediaQuery(">=400px", "<500px") {
-    font-size: 44px;
+    font-size: 36px;
   }
 
   @include mediaQuery("<400px") {
     font-size: 36px;
+    text-align: center;
+  }
+  @include mediaQuery("<320px") {
+    font-size: 34px;
+    text-align: center;
   }
 
   @include mediaQuery('<600px') {
@@ -65,13 +61,17 @@
     width: auto;
   }
 
+  @include mediaQuery("<400px") {
+    padding: 10px;
+    padding-top: 0;
+  }
 }
 
 .grid  {
   box-sizing: border-box;
   row-gap: 0px;
 
-  @include mediaQuery(">=mobile", "<desktop"){
+  @include mediaQuery("<desktop"){
     row-gap: 15px;
   }
 }
@@ -80,7 +80,7 @@
   height: auto;
   width: 100%;
 
-  @include mediaQuery(">=mobile", "<tabletPortrait"){
+  @include mediaQuery("<tabletPortrait"){
     max-width: 100%;
   }
 }
@@ -88,7 +88,11 @@
 .typography {
   margin-bottom: 1em;
 
-  @include mediaQuery(">=mobile", "<tabletPortrait"){
+  &:first-child {
+    margin-bottom: 0;
+  }
+
+  @include mediaQuery("<tabletPortrait"){
     margin-bottom: 0em;
     text-align: center;
   }
@@ -103,7 +107,7 @@
     margin-right: 20px;
   }
 
-  @include mediaQuery(">=mobile", "<tabletPortrait"){
+  @include mediaQuery("<tabletPortrait"){
     flex-wrap: wrap;
     & > * {
       flex-basis: 100%;

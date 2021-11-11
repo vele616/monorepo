@@ -203,6 +203,13 @@
   }
 }
 
+.section {
+
+  @include mediaQuery("<tabletPortrait") {
+    padding: 10px;
+  }
+}
+
 .button {
   margin-top: 1em;
   display:inline-block;

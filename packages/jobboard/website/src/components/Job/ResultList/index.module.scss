@@ -78,6 +78,9 @@ $limitDesktop: 1200;
       @include getFluidFontSize(18, 20);
     }
   }
+  @include mediaQuery("<tabletPortrait") {
+    padding: 10px;
+  }
 
   &__viewControls {
     @include mediaQuery("<#{$limitTablet}px") {

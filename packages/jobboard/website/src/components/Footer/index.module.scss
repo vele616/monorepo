@@ -1,5 +1,11 @@
 @import '@crocoder-dev/components/lib/scss/main.module.scss';
 
+.footer {
+  & [class*=Footer_copyright__] {
+    color: white;
+  }
+}
+
 .sticky {
   position: fixed;
   bottom: 0;
@@ -23,7 +29,17 @@
   height: auto;
   width: 225px;
     
-  @include mediaQuery(">=mobile","<tabletPortrait"){
+  @include mediaQuery("<tabletPortrait"){
+    width: 200px;
+  }
+}
+
+
+.crocoderLogo {
+  width: 225px;
+  height: 50px;
+
+  @include mediaQuery("<tabletPortrait"){
     width: 200px;
   }
 }

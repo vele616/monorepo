@@ -4,11 +4,11 @@ import { Icon, Footer as FooterComponent } from '@crocoder-dev/components';
 import CrocFooter from '../../images/croc-footer.svg';
 import styles from './index.module.scss';
 
-const Footer = ({ socialMedia, sticky, scrollToTop }) => {
+const Footer = ({ socialMedia, scrollToTop }) => {
   return (
     <FooterComponent
       copyrightNotice="Copyright © CroCoder Inc. All rights reserved"
-      className={sticky ? styles.sticky : ''}
+      className={styles.footer}
       logo={
         <Link
           to="/"
@@ -17,7 +17,7 @@ const Footer = ({ socialMedia, sticky, scrollToTop }) => {
           }}
         >
           <div className={styles.image}>
-            <CrocFooter />
+            <CrocFooter className={styles.crocoderLogo} />
           </div>
         </Link>
       }

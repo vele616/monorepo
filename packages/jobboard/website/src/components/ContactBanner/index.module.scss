@@ -7,6 +7,10 @@
   & > div {
     width: 100%;
   }
+
+  @include mediaQuery("<400px") {
+    padding: 20px;
+  }
 }
 
 .card {
@@ -40,7 +44,7 @@
   font-size: inherit;
 }
 
-@include mediaQuery(">=mobile", "<700px"){
+@include mediaQuery("<700px"){
   .image {
     transform: translate(0, calc(-100% - 10px));
     width: 100%;

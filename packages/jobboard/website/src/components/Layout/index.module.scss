@@ -18,3 +18,33 @@ body {
     max-width: 600px !important;
   }
 }
+
+
+.crocoderLogo {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  width: 254px;
+  height: 50px;
+  @include mediaQuery(">=1350px"){
+    width: 274px;
+  }
+
+  @include mediaQuery(">=0px","<tabletPortrait"){
+    width: 200px;
+  }
+}
+
+.title {
+  font-family: Rubik, sans-serif;
+  font-weight: 700;
+  color: #85A32A;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 1px;
+
+  .coder {
+    color: #424C6D
+  }
+}

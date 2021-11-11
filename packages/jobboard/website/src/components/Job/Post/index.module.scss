@@ -214,7 +214,7 @@
   }
 }
 
-@include mediaQuery(">=mobile", "<tabletPortrait") {
+@include mediaQuery("<tabletPortrait") {
 
   .icon {
     display: none;

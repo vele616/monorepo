@@ -3,9 +3,9 @@ import React from 'react';
 import styles from './index.module.scss';
 import { Link } from 'gatsby';
 import '@crocoder-dev/components/lib/main.css';
-import { Navigation, Button, Typography } from '@crocoder-dev/components';
+import { Navigation, Typography } from '@crocoder-dev/components';
 import Footer from '../Footer';
-import CrocNav from '../../images/croc-nav.svg';
+import CrocNav from '../../images/logo.svg';
 import Head from '../Head';
 
 const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
@@ -21,30 +21,36 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
         Logo={
           <Link
             to="/"
+            className={styles.crocoderLogo}
             onClick={() => {
               if (scrollToTop) scrollToTop();
             }}
           >
-            <CrocNav style={{ verticalAlign: 'bottom' }} />
+            {/* <CrocNav
+              style={{ height: '40px',marginRight: '7px', verticalAlign: 'middle', display: 'inline-block' }}
+            /> */}
+            <Typography fontSize={30} fontWeight={700} className={styles.title}>
+              Cro
+              <span className={styles.coder}>Coder</span> Jobs
+            </Typography>
           </Link>
         }
       >
+        <Link to="/" className={'link'}>
+          Home
+        </Link>
         <Link className={'link'} to="/search/">
           Search
         </Link>
+        <Link style={{ minWidth: '74px' }} className={'link'} to="/post-a-job">
+          Post a job
+        </Link>
         <a
-          className={`link`}
+          className={'link'}
           rel="noreferrer noopener"
           target="_blank"
-          href="https://crocoder.dev/blog"
-        >
-          Blog
-        </a>
-        <a
-          className={`link`}
-          rel="noreferrer noopener"
-          target="_blank"
-          href="https://crocoder.dev/"
+          href="https://crocoder.dev"
+          style={{ minWidth: '124px' }}
         >
           About{' '}
           <Typography fontWeight={600}>
@@ -54,9 +60,6 @@ const Layout = ({ children, head = {}, stickyFooter, scrollToTop }) => {
             Coder
           </Typography>
         </a>
-        <Link to="/post-a-job">
-          <Button variant="secondary">Post a job</Button>
-        </Link>
       </Navigation>
       {children}
       <Footer scrollToTop={scrollToTop} sticky={stickyFooter} />

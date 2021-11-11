@@ -34,7 +34,7 @@ const JobDetails = ({
   }, [url, applyUrl, companyWebsite]);
 
   return (
-    <Section style={{ paddingTop: 0 }}>
+    <Section style={{ paddingTop: 0 }} className={styles.section}>
       <GoBackLink
         className={styles.goBack}
         typographyProps={{

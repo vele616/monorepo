@@ -29,11 +29,13 @@ export const JobPostTemplate = (props) => {
   const { html } = post;
 
   return (
-    <Layout head={{
-      title,
-      description: summary,
-      socialImageUrl: socialUrl,
-    }}>
+    <Layout
+      head={{
+        title,
+        description: summary,
+        socialImageUrl: socialUrl,
+      }}
+    >
       <JobDetails
         title={title}
         hashtags={hashtags}
