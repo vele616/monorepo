@@ -331,7 +331,7 @@ As you can see from the example, Symbol isn't a valid JSON data type; alien prop
 
 <typography id="using-v8-serialize-deserialize" element="h3">[Node.js ONLY] Using v8.serialize & v8.deserialize</typography>
 
-v8.serialize() & v8.deserialize() is only availiable in Node.js environments. Unfortunately, it throws an error when trying to serialize objects that have symbols or functions as their properties.
+v8.serialize() & v8.deserialize() is only available in Node.js environments. Unfortunately, it throws an error when trying to serialize objects that have symbols or functions as their properties.
 
 ```javascript
   const v8 = require('v8');
