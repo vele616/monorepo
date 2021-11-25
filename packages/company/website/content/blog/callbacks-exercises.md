@@ -7,20 +7,20 @@ date: 1619463600
 updatedAt: 1619463600
 blog: true
 author: davidabram
-abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of callbacks. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
+abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or a lecture. We have prepared some exercises to help out beginner devs to solidify their understanding of callbacks. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
 ---
 
 It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of **callbacks**. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
 
-If you need some additional help, you can check out our [Functions video](https://youtu.be/VkjE7CebnPQ) from **#lockdown learning** series in which we discuss **functions and callbacks** or contact the author of the article directly.
+If you need some additional help, you can check out our [Functions video](https://youtu.be/VkjE7CebnPQ) from the **#lockdown learning** series in which we discuss **functions and callbacks** or contact the author of the article directly.
 
 <br />
 <hr />
 <br />
 
-**Callbacks** are a critical concept in **JavaScript** and you won't get very far without knowing how to use them. They are often as confusing to experienced developers as to beginners. A **callback** is nothing more than a function that is passed into another function as an argument to be executed later.
+**Callbacks** are a critical concept in **JavaScript** and you won't get very far without knowing how to use them. They are often as confusing to experienced developers as well as to beginners. A **callback** is nothing more than a function that is passed into another function as an argument to be executed later.
 
-They are so common in **JavaScript**, you certainly used **callbacks** without knowing they're called that. You probably wrote a similar snippet multiple times: 
+They are so common in **JavaScript**, you certainly used **callbacks** without knowing what they were called. You probably wrote a similar snippet multiple times: 
 
 ```javascript
 
@@ -95,7 +95,7 @@ const isOdd = (num) => num % 2 === 1;
 
 <typography id="exclaim" element="h2">Exclaim</subtitle>
 
-Write a function that returns the given string with a concated exclamation ! at the end. We will reuse this function, so make it reusable.
+Write a function that returns the given string with a concatenated exclamation ! at the end. We will reuse this function, so make it reusable.
 
 <subtitle>Helpful links</subtitle>
 
@@ -245,11 +245,11 @@ Write a function called **atLeastTwo** that receives an array and a callback as 
 
 </list-toggle>
 
-<typography id="group-by" element="h2">Group By</subtitle>
+<typography id="group-by" element="h2">Group by</subtitle>
 
-Write a function **groupBy** that groups elements from an array by the returned value from callback when an element from the array is passed as an argument. 
+Write a **groupBy** function that groups elements from an array by the returned value from the callback when an element from the array is passed as an argument. 
 
-This is a really common pattern when doing array manipulation.
+This is a really common pattern when manipulating arrays.
 
 <subtitle>Helpful links</subtitle>
 
@@ -397,7 +397,7 @@ This is a really common pattern when doing array manipulation.
 
 <typography id="repeat-the-function-x-times" element="h2">Repeat the function x times</subtitle>
 
-Write a function **repeat** that receives 3 arguments: a string, number of repetitions, and a callback that will be repeated. The **repeat** function should pass the string to the callback as an argument and repeat x times the callback with the result of the previous repetition as an argument. 
+Write a **repeat** function that receives 3 arguments: a string, number of repetitions, and a callback that will be repeated. The **repeat** function should pass the string to the callback as an argument and repeat the callback x times, with the result of the previous repetition as an argument. 
 
 <subtitle>Helpful links</subtitle>
 
