@@ -7,13 +7,13 @@ date: 1619474400
 updatedAt: 1619474400
 blog: true
 author: davidabram
-abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of map, filter, reduce, and other useful array methods. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
+abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or a lecture. We have prepared some exercises to help out beginner devs to solidify their understanding of Map, Filter, Reduce, and other useful array methods. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
 
 ---
 
-It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of **map, filter, reduce**, and other useful array methods. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
+It's really hard to test your programming knowledge after you have completed a tutorial or a lecture. We have prepared some exercises to help out beginner devs to solidify their understanding of **Map, Filter, Reduce**, and other useful array methods. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
 
-If you need some additional help, you can check out our [Arrays video](https://youtu.be/pkRW2RJ2LzQ) from **#lockdown learning** series in which we discuss **map, filter and reduce** or contact the author of the article directly.
+If you need some additional help, you can check out our [Arrays video](https://youtu.be/pkRW2RJ2LzQ) from **#lockdown learning** series in which we discuss **Map, Filter and Reduce** or contact the author of the article directly.
 
 <br />
 <hr />
@@ -21,8 +21,9 @@ If you need some additional help, you can check out our [Arrays video](https://y
 
 As a **JavaScript** developer, you will come across arrays. Arrays of numbers, arrays of objects, arrays of arrays of objects, multi-dimensional arrays, and you will need to simplify, transform or manipulate them. 
 
-You could use nested for loops to solve most of the problems you will encounter, but that leaves the code hard to read and understand.  
-I would like to prove to you that by using map, filter, and reduce array methods, not only that the code will be more readable, but you will be able to analyze the problem better and write the code with ease.
+You could use 'nested for loops' to solve most of the problems you will encounter, but that leaves the code hard to read and understand.
+
+I would like to prove to you that by using **Map, Filter, and Reduce** array methods, not only will the code be more readable, but you will also be able to analyze the problem better and write the code with ease.
 
 <br/>
 <br/>
@@ -43,9 +44,9 @@ I would like to prove to you that by using map, filter, and reduce array methods
 <br/>
 <br/>
 
-<typography id="array-squared" element="h2">Array Squared</subtitle>
+<typography id="array-squared" element="h2">Array squared</subtitle>
 
-Square value of every element in the array. Presume that you will get only numbers in the input array.
+Square the value of every element in the array. Presume that you will only get numbers in the input array.
 
 <subtitle>Helpful links</subtitle>
 
@@ -93,7 +94,7 @@ Square value of every element in the array. Presume that you will get only numbe
 
 <typography id="sum-of-every-positive-element" element="h2">Sum of every positive element</subtitle>
 
-Input is an array of numbers, return the sum of all of the positives ones. If the array is empty or there aren't any positive numbers return 0.
+If the given input is an array of numbers, return the sum of all the positives ones. If the array is empty or there aren't any positive numbers, return 0.
 
 <subtitle>Helpful links</subtitle>
 
@@ -203,9 +204,9 @@ Calculate the mean and median values of the number elements from the input array
 
 </list-toggle>
 
-<typography id="get-name-initials" element="h2">Get Name initials</subtitle>
+<typography id="get-name-initials" element="h2">Get name initials</subtitle>
 
-Input is a string of multiple words with a single space between each of them. You should abbreviate the name and get the name initials.
+The given input is a string of multiple words with a single space between each of them. Abbreviate the name and return the name initials.
 
 <subtitle>Helpful links</subtitle>
 
@@ -255,9 +256,9 @@ Input is a string of multiple words with a single space between each of them. Yo
 
 </list-toggle>
 
-<typography id="age-difference-from-the-youngest-and-oldest" element="h2">Age Difference from the youngest and oldest</subtitle>
+<typography id="age-difference-from-the-youngest-and-oldest" element="h2">Age difference from the youngest and oldest</subtitle>
 
-Find the difference in age between the oldest and youngest family members, and return their respective ages and the difference.
+Find the difference in age between the oldest and youngest family members, and return their respective ages and the age difference.
 
 <subtitle>Helpful links</subtitle>
 
@@ -350,7 +351,7 @@ Find the difference in age between the oldest and youngest family members, and r
 
 <typography id="numeronyms" element="h2">Numeronyms</subtitle>
 
-Devs like to abbreviate everything: k8s means Kubernetes, a11y means accessibility, l10n means localization. You get the Dev numeronyms by taking the first and the last letter and counting the number of letters in between. Words that have less than 4 letters aren't abbreviated, because that would be just odd. 
+Devs like to abbreviate everything: k8s means Kubernetes, a11y means accessibility, l10n means localization. You get the Dev numeronyms by taking the first and the last letter and counting the number of letters in between. Words that have less than 4 letters aren't abbreviated, because that would just be odd. 
 The input is a sentence, and you should abbreviate every word that is 4 letters long or longer. There won't be any punctuation in the sentence. g2d l2k e6e
 
 <subtitle>Helpful links</subtitle>
@@ -411,9 +412,9 @@ The input is a sentence, and you should abbreviate every word that is 4 letters 
 
 </list-toggle>
 
-<typography id="n-with-map-and-reduce" element="h2">n! with map and reduce </subtitle>
+<typography id="n-with-map-and-reduce" element="h2">n! with Map and Reduce </subtitle>
 
-Input is a number and you should return the factorial of that number. The factorial of a natural number n is the product of the positive integers less than or equal to n. So, 2! = 2, 3! = 6, 4! = 24 and so on.
+If the given input is a number, you should return the factorial of that number. The factorial of a natural number n is the product of the positive integers less than or equal to n. So, 2! = 2, 3! = 6, 4! = 24 and so on.
 
 <subtitle>Helpful links</subtitle>
 
@@ -474,7 +475,7 @@ Input is a number and you should return the factorial of that number. The factor
 
 <typography id="count-elements-in-array-of-arrays" element="h2">Count elements in array of arrays</subtitle>
 
-Count the occurrences of distinct elements in the given 2D array. The given input is an array in which elements are arrays of strings. A result is an object which properties' names are values from the arrays and their value is the number of their occurrences. 
+Count the occurrences of distinct elements in the given 2D array. The given input is an array, the elements of which are arrays of strings. The result is an object whose name properties are the values from the arrays and their value is the number of their occurrences. 
 
 <subtitle>Helpful links</subtitle>
 
