@@ -7,18 +7,18 @@ date: 1619463600
 updatedAt: 1619463600
 blog: true
 author: lukaucur
-abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or a lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of the DOM. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
+abstract: "It's really hard to test your programming knowledge after you have completed a tutorial or a lecture. We have prepared some exercises to help out beginner devs to solidify their understanding of the DOM. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution."
 ---
 
 It's really hard to test your programming knowledge after you have completed a tutorial or some lecture. We have prepared some exercises to help out the beginner devs to solidify their understanding of **the DOM**. Every exercise has a brief description of the problem, starting code, links to relevant MDN docs, and expected results. Try to solve the problems without taking a peek at the solution.
 
-If you need some additional help, you can check out our [The DOM video](https://youtu.be/TWV2qERCPG4) from **#lockdown learning** series or contact the author of the article directly.
+If you need some additional help, you can check out our [The DOM video](https://youtu.be/TWV2qERCPG4) from the **#lockdown learning** series or contact the author of the article directly.
 
 <br />
 <hr />
 <br />
 
-The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it JavaScript can access and change all the elements of an HTML document. 
+The DOM or the Document Object Model of the page is created after the web page is loaded. It's constructed as a tree of objects, and with it, JavaScript can access and change all the elements of an HTML document. 
 
 <br/>
 <br/>
@@ -33,9 +33,9 @@ The DOM or the Document Object Model of the page is created after the web page i
 <br/>
 <br/>
 
-<typography id="fruit-list" element="h2">Fruit List</subtitle>
+<typography id="fruit-list" element="h2">Fruit list</subtitle>
 
-You are given some names of different fruits and an unordered list html element; add a list item for each to the unordered list.
+You are given some names of different fruit and an unordered list html element; add a list item for each to the unordered list.
 
 <subtitle>Helpful links</subtitle>
 
@@ -89,7 +89,7 @@ fruitList.forEach((fruit) => {
 
 </list-toggle>
 
-<typography id="crocoder-logo" element="h2">CroCoder Logo</subtitle>
+<typography id="crocoder-logo" element="h2">CroCoder logo</subtitle>
 
 Add the CroCoder logo (image element) as a child element to the existing div element.
 
@@ -144,7 +144,7 @@ Add the CroCoder logo (image element) as a child element to the existing div ele
 
 <typography id="change-first-and-last-item-from-an-unordered-list" element="h2">Change first and last item from an unordered list</subtitle>
 
-Change the text in first and the last list item element in every unordered list element on this page. Change it to ```'first'``` and ```'last'```.
+Change the text in the first and the last list item element in every unordered list element on this page. Change it to ```'first'``` and ```'last'```.
 
 <subtitle>Helpful links</subtitle>
 
