@@ -475,7 +475,7 @@ If the given input is a number, you should return the factorial of that number. 
 
 <typography id="count-elements-in-array-of-arrays" element="h2">Count elements in array of arrays</subtitle>
 
-Count the occurrences of distinct elements in the given 2D array. The given input is an array, the elements of which are arrays of strings. The result is an object whose name properties are the values from the arrays and their value is the number of their occurrences. 
+Count the occurrences of distinct elements in the given 2D array. The given input is an array, the elements of which are arrays of strings. The result is an object whose property names are the values from the arrays and their value is the number of their occurrences. 
 
 <subtitle>Helpful links</subtitle>
 
