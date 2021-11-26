@@ -50,7 +50,7 @@ console.log(smiles);
 
 ```
 
-Variable 'smiles' is a primitive value, in this example a String, which means variable 'animals' in the line `var animals = smiles;` becomes a copy of the variable 'smiles'. 
+Variable 'smiles' is a primitive value which means that the variable 'animals' in the line `var animals = smiles;` becomes a copy of the variable 'smiles'. 
 
 When you change the value of the variable 'animals' in the line `animals = '🐺🦊🐻';`, it doesn't change the value of the variable 'smiles'.
 
@@ -403,7 +403,7 @@ It works nicely in legacy projects that don't support Object.assign() or Spread 
 
 <typography id="using-underscore-clone" element="h3">Using _.clone()</typography>
 
-Underscore clone() is also a shallow cloning method, and it's a method somewhat popular and used library but doesn't support deep cloning.
+Underscore clone() is also a shallow cloning method, and it's a method from a somewhat popular library but it doesn't support deep cloning.
 
 ```javascript
   const object = {
