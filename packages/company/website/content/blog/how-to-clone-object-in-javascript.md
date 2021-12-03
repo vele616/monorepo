@@ -127,7 +127,7 @@ Hopefully, the next examples will help you to learn some of the techniques how t
 <br/>
 
 
-<typography id="shallow-clone" element="h2">Shallow Clone</typography>
+<typography id="shallow-clone" element="h2">Shallow clone</typography>
 
 Shallow cloning is an act of object cloning where you copy all the properties of an object to another newly created object, but the non-primitive properties are copied by reference. 
 
@@ -260,7 +260,7 @@ Object.fromEntries() takes the array of arrays and transforms it back to an obje
 <br>
 <br>
 
-<typography id="deep-clone" element="h2">Deep Clone</typography>
+<typography id="deep-clone" element="h2">Deep clone</typography>
 
 
 Deep cloning is an act of object cloning where you copy all the properties of an object to another newly created object and all the properties of all non-primitive properties of that object, and so on recursively. 
